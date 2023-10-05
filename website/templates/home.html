@@ -11,20 +11,39 @@
     {{ form.hidden_tag() }}
     <div class="form-group">
       {{ form.keyword_taxon.label }}: {{
-      form.keyword_taxon(class="form-control") }} {% for error in
-      form.keyword_taxon.errors %}
+      form.keyword_taxon(class="form-control", placeholder="Separate taxon names by commas") }}
+      {% for error in form.keyword_taxon.errors %}
       <span style="color: red">[{{ error }}]</span>
       {% endfor %}
     </div>
     <div class="form-group">
       {{ form.keyword_traits.label }}: {{
-      form.keyword_traits(class="form-control") }} {% for error in
+      form.keyword_traits(class="form-control", placeholder="Separate traits by commas") }} {% for error in
       form.keyword_traits.errors %}
       <span style="color: red">[{{ error }}]</span>
       {% endfor %}
     </div>
     {{ form.submit(class="btn btn-primary") }}
   </form>
+
+  <!-- Display Results If They Exist -->
+  {% if form_submitted %}
+    {% if results %}
+      {% for file_name, paragraphs in results.items() %}
+        <h3>{{ file_name }}</h3>
+        <ul>
+          {% for paragraph in paragraphs %}
+            <li>{{ paragraph|safe }}</li>
+          {% endfor %}
+        </ul>
+      {% endfor %}
+    {% else %}
+      <p>No results found. Please try again with different keywords.</p>
+    {% endif %}
+  {% endif %}
+
+
+
   {% else %}
   <hr class="my-4" />
   <p>Please, log in first to access the database.</p>

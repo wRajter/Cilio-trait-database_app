@@ -9,17 +9,19 @@
     />
 
     <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/styles.css') }}" />
     <link
       href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css"
       rel="stylesheet"
     />
+
 
     <title>Cilio-trait-database</title>
   </head>
   <body>
     <!-- NAV BAR -->
     <nav class="navbar navbar-expand-lg navbar-light bg-light">
-      <a class="navbar-brand" href="#">Cilio-trait-database</a>
+      <a class="navbar-brand" href="/">Cilio-trait-database</a>
       <button
         class="navbar-toggler"
         type="button"
@@ -34,10 +36,10 @@
       <div class="collapse navbar-collapse" id="navbarNav">
         <ul class="navbar-nav mr-auto">
           <li class="nav-item active">
-            <a class="nav-link" href="#">About</a>
+            <a class="nav-link" href="{{ url_for('about') }}">About</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="#">Database</a>
+            <a class="nav-link" href="{{ url_for('database') }}">Database</a>
           </li>
         </ul>
         <ul class="navbar-nav">
@@ -54,6 +56,14 @@
       </div>
     </nav>
     <div class="container">{% block content %}{% endblock %}</div>
+
+    <!-- footer.html -->
+    <footer class="footer mt-auto py-3 bg-light">
+      <div class="container">
+        <span class="text-muted">© 2023 Cilio-trait Database. All Rights Reserved. Contact:
+          <a href="mailto:lubomir.rajter@gmail.com">lubomir.rajter@gmail.com</a></span>
+      </div>
+    </footer>
 
     <!-- Optional JavaScript -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->

@@ -35,7 +35,8 @@ def init_app(app):
         form = LoginForm()
         if form.validate_on_submit():
             password = form.password.data  # Use form field data
-            if password == os.environ.get('PASSWORD'):
+            # if password == os.environ.get('PASSWORD'):
+            if password == 'lacrymaria':
                 session['logged_in'] = True  # Set session variable
                 flash('Successfully logged in!', 'success')
                 return redirect(url_for('home'))

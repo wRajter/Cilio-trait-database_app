@@ -7,3 +7,4 @@ regex==2023.3.23
 WTForms==3.0.1
 gunicorn==20.1.0
 Werkzeug==2.3.7
+python-dotenv==0.19.1

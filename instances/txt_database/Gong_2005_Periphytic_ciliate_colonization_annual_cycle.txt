@@ -1,0 +1,724 @@
+AQUATIC MICROBIAL ECOLOGY
+Vol. 39: 159–170, 2005 Published May 30
+Aquat Microb Ecol
+Periphytic ciliate colonization: annual cycle and
+responses to environmental conditions
+Jun Gong1, Weibo Song1,*, Alan Warren2
+1Laboratory of Protozoology, Ocean University of China, Qingdao 266003, PR China
+2Department of Zoology, Natural History Museum, Cromwell Road, London SW7 5BD, UK
+ABSTRACT: Glass slides were used as artificial substrates for collecting periphytic ciliates from
+scallop-farming waters of Jiaozhou Bay near Qingdao (China) over a period of 1 yr. A total of 37
+ciliate species, about half of which belong to the orders Hypotrichida and Cyrtophorida, were identi-
+fied using living observation and silver impregnation methods. Peaks of ciliate abundance and bio-
+mass occurred in November, mainly due to the suctorian Corynophrya lyngbyi, while sessile per-
+itrichs (especially Pseudovorticella sinensis, Zoothamnium duplicatum and Z. plumula) dominated
+the ciliate communities during August. Vagile ciliates had low abundance and biomass despite
+accounting for a large proportion of the species richness. Almost no typical periphytic ciliates were
+detected in the winter months (from January to March). Twelve dominant species showed clear
+succession over the year and were found to correlate with a variety of environmental variables. Uni-
+variate and multivariate analyses were performed in order to explore the relationship between ciliate
+community and environmental conditions (temperature, salinity, pH, dissolved inorganic nitrogen,
+soluble reactive phosphate, dissolved oxygen, chlorophyll a, turbidity). Diversity and evenness
+indices were found to be relatively independent of physico-chemical factors, whereas species
+richness and the ratio of biomass to abundance were strongly related to nutrients. Multivariate ana-
+lyses revealed that temperature, nutrients and salinity may best explain the changes in community
+structure of ciliates colonizing the glass slides.
+KEY WORDS: Periphytic ciliate · Temporal variations · Environmental stress · Marine biofilm ·
+Microbial ecology · Scallop farming · Jiaozhou Bay
+Resale or republication not permitted without written consent of the publisher
+INTRODUCTION Dale 1991, Foissner et al. 1992, Pratt & Balczon 1992,
+Al-Rashid & Sleigh 1995, Coppellotti 1998).
+Ciliates are important components of the aquatic Glass slides may be used as artificial substrates that
+ecosystem and play a crucial role in the functioning of allow microorganisms to form a periphyton or biofilm,
+microbial food webs (Finlay et al. 1979, 1988, Azam et in which periphytic ciliates are usually in high abun-
+al. 1983, Pratt & Crains 1985, Sherr & Sherr 1987, dance and richness (Cairns & Yongue 1968, Foissner et
+Caron & Goldmann 1990). Several ciliates inhabit envi- al. 1992). Compared with sampling periphytic ciliates
+ronments that are unfavorable to most metazoans and from natural substrates such as stones (Foissner et al.
+some can tolerate what would be extreme environ- 1992) and macrophytes (Baldock et al. 1983), collection
+mental conditions to macrofauna (Fenchel 1969, Pat- using glass slides seems to be non-destructive, since
+terson et al. 1989). Furthermore, with their rapid most species can be observed, enumerated and even
+growth and delicate external membranes, ciliates may identified in vivo by observation of the whole slide
+react more quickly to environmental changes than under an inverted or a stereomicroscope. In addition,
+most other eukaryotic organisms and can thus serve as the species richness of ciliate communities colonizing
+bioindicators of water pollution (Cairns et al. 1972, glass slides is almost as high as those on natural
+*Corresponding author. Email: wsong@ouc.edu.cn © Inter-Research 2005 · www.int-res.com
+
+160 Aquat Microb Ecol 39: 159–170, 2005
+substrates exposed to the same environmental con- tions of environmental factors in the study area;thus, it
+ditions (Agamaliev 1974, Foissner et al. 1992). Differ- offered an interesting opportunity for a biota–environ-
+ences between fauna have been detected using glass ment analysis. The aims of this study were: (1) to
+slides in different conditions (Song & Chen 1999, document the taxonomic composition and the temporal
+Strüder-Kypke 1999, Strüder-Kypke & Schönborn pattern of periphytic ciliates colonizing glass slides in
+1999, Primc-Habdija et al. 2001, Weitere et al. 2003). the scallop-farming waters; (2) to monitor the pop-
+Moreover, recent studies have demonstrated that ulation dynamics of the periphytic ciliate communities
+periphytic ciliates are strongly related to effluent and their responses to environmental factors and (3) to
+quality in wastewater treatment processes (Fried et al. explore the possibility of using periphytic ciliate com-
+2000, Martín-Cereceda et al. 2001). munity in assessment of marine water quality.
+Biomonitoring using ciliated protozoa is widely
+accepted and has many advantages: (1) they are easy
+to sample compared with other biota such as fish; MATERIALS AND METHODS
+(2) the generation times are short and they are pro-
+tected from the environment by only a delicate mem- Study site.Jiaozhou Bay is a semi-closed bay with an
+brane, so the potential response time to pollution area of about 400 km2and on average a depth of 7 m.
+events is fast; (3) periphytic species in particular are The north of the bay receives inflows from several
+relatively immobile, and therefore good for local stress small rivers and the south is connected with the Yellow
+studies; (4) the increasing availability of easily used Sea. The sampling site was located at the centre of a
+taxonomic references, and (5) artificial substrates scallop-farming area (about 16 km2) with a depth of
+allowing colonization can be standardized for temporal 10m (Fig. 1).
+and spatial comparisons (Mohr 1952, Lee 1986, Foiss- Sampling.Twenty-two samples (referred to as Oct-I,
+ner 1987, Clarke & Warwick 1994). In the interest of Oct-II, etc.) were collected during a 12 mo period from
+using periphytic ciliates as indicators and further October 2000 to September 2001. Glass slides (2.6 ×
+tracking the effects of pollution and recovery of the 7.6 cm) were clipped to a PVC frame, and were
+biotic component, it is necessary to have an adequate immersed in the water at a depth of about 1 m below
+knowledge of the specific community structures, the the surface. The slides were exposed as back-to-back
+relationship with environmental conditions as well as pairs; thus, they could be split and observed directly
+suitable indices. Such studies on marine environment, without cleaning. Slides were placed vertically in the
+however, have rarely been carried out (Persoone 1968, frames, each frame holding 20 sheets of slides. The
+Agamaliev 1974, Coppellotti & Matarazzo 2000). samples were collected every 15 d. In January and
+Between October 2000 and September 2001, a 1 yr April 2001 samples were lost; therefore, at these times
+baseline survey of periphytic ciliates colonizing glass the sampling could only be performed irregularly.
+slides was carried out in a scallop-farming area of According to Wilbert (1969), there are no significant
+Jiaozhou Bay, where the most severe form of pollution differences between ciliate communities colonizing
+is the overload of nutrients, especially inorganic nitro- slides within the same frame. Thus, for every sampling
+gen and phosphorus (Ma et al. 1997). The farming of date 5 replicate slides were randomly selected and
+scallops was responsible for introducing great varia- then evaluated. The slides were transferred into jars
+containing water from the sampling
+site, stored in a cooling box and trans-
+ported to the laboratory within 1h for
+identification and counting.
+Water temperature (T), salinity (S),
+pH, dissolved oxygen concentration
+(DO) were recorded in situwith appro-
+priate sensors (WTW) at the depth of
+1 m; turbidity was measured by a
+turbidimeter (Hach 2100P, Hach). One
+l of seawater was collected for labora-
+tory analysis of dissolved inorganic
+nitrogen concentrations (DIN, sum of
+Scallop NO -N, NO -N and NH -N) and solu-
+farming area 3 2 3
+ble reactive phosphate (SRP) followed
+Sampling site
+standard methods (APHA 1989). A fur-
+Fig. 1. Map of the study area ther 500ml water sample was filtered
+
+Gong et al.: Environmental effects on ciliate community structure 161
+through Whatman 25 mm GF/F filters by gentle vac- whereH’ = observed diversity index; P = proportion of
+i
+uum filtration; after the extraction of the filter paper in the total count arising from the ith species; S = total
+90% acetone for 24 h at 4°C, the concentration of number of species; J = H’/lnS and d = (S–1)/lnN,
+chlorophyll a(chla) in the supernatant was determined where N= total number of individuals.
+using a spectrophotometer (UV-1601, Shimadzu) The community structures of samples were analyzed
+(Talling & Driver 1961, Jeffrey & Humphrey 1975). using the PRIMER package (Plymouth Routines in
+Identification and enumeration of ciliates. Species Multivariate Ecological Research, Clark & Warwick
+were first examined at 45-fold magnification using a 1994). A Bray-Curtis similarity coefficient matrix was
+stereomicroscope to observe the behavior and move- calculated on root transformed data and separate
+ment of the cells. They were then transferred using a clusters were identified by hierarchical clustering
+micropipette to a clean glass slide and placed under a (CLUSTER) and on multidimensional scaling plots
+microscope (BH-2 Olympus) at 100- to 1250-fold mag- (MDS). Differences between species compositions
+nification to reveal cell size and other morphological were tested by the PRIMER program ANOSIM.
+characters in detail (Foissner et al. 1999). Usually over The multivariate biota–environment (BIOENV) pro-
+30 individuals of each morphotype were picked out cedure(Clarke & Ainsworth 1993) was used to explore
+with micropipette and then identified to species level the potential relationships between the abiotic features
+using protargol (Wilbert 1975) and Chatton-Lwoff sil- of water and the similarity patterns among biological
+ver nitrate method (Song & Wilbert 1995). Species samples. BIOENV functions within the PRIMER program
+identifications were made following reference to keys and allows either a full search of all abiotic variable
+and guides such as Kahl (1931) and Carey (1992). The combinations or of specific subsets, e.g. all combinations
+taxonomic scheme is according to Corliss (1979). containing certain variables or containing a fixed num-
+Detailed morphological descriptions of most species ber of variables. Chl a was omitted from the environ-
+isolated during the study have been published else- mental matrix due to its collinearity with temperature.
+where (Gong et al. 2001, Hu et al. 2002, Hu et al. 2003, Data for NO -N, NO -N, NH -N and SRP were nor-
+3 2 3
+Ji et al. 2003, Gong & Song 2004a,b, Hu et al. 2004, Lin malised by logarithmic transformation before analysis.
+et al. 2004,). The designation of species as being ses-
+sile, vagile or planktonic was made according to their
+mobility and the ecological niches they occupy. This RESULTS
+approach has been used in previous studies including
+those by Foissner et al. (1992, 1999) and Coppellotti & Environmental conditions
+Matarazzo (2000).
+The enumeration and measurement of ciliates in The results of the physico-chemical analyses of the
+vivo was carried out under an inverted microscope as water samples are shown in Table 1. The water temper-
+soon as possible after sampling (generally within 1 to ature was significantly lower in winter (from January to
+2h) in order to prevent significant changes in species March); salinity showed little variation (around 30 psu)
+number and composition. Using bright field illumina- throughout the year apart from a sharp decrease to
+tion, 5 fields of view per slide were randomly chosen 20 psu in late July; pH values ranged from 6.9 to 7.9;
+for counting. The ciliate concentrations were calcu- turbidities were much lower in the period from April to
+lated from all 5 replicate slides to determine average July, indicating much clearer waters with Sechii depths
+cell density (ind. cm–2). of about 1.5 to 3.3 m; concentrations of dissolved oxygen
+Biovolume estimates based on 3-dimensional mea- generally exceeded 7.0 mg l–1except that 2 lower values
+surements and approximations of shape to standard (3.8 and 4.3 mg l–1) were recorded in 2 samples in
+geometrical configurations (Winberg 1971) were made August; concentrations of chl awere much higher in the
+for most ciliate species fixed with 2% (v/v) formalin. period from April to August (4.25 to 6.75 µg l–1) than that
+The volumes of individual ciliates were converted to of other periods (0.08 to 3.23 µg l–1). The average value of
+biomass using a conversion factor of 0.14 pg C µm–3 DIN over the whole year was 0.335 mg l–1; NO -N (mean
+3
+(Putt & Stoecker 1989). 0.107 mg l–1) represented 68% of the DIN in winter
+Data analysis of samples. Species diversity (H’) (mean 0.157 mg l–1), whereas NH -N (mean 0.522 mg l–1)
+3
+(Shannon & Weaver 1963), evenness (J) (Pielou 1969) became the main component (89%) of DIN (mean
+and species richness (d) (Margalef 1968) of samples 0.584mg l–1) in summer with extremely high concentra-
+(apart from samples Jan I to March II due to low num- tions in July and early August. The concentration of SRP
+ber of species present) were calculated as follows: ranged from 0.006 to 0.345 mg l–1(mean 0.099 mg l–1)
+and showed no clear trend throughout the year,
+H’=–∑s
+P(lnP) although there was a minor peak in early August that
+i i
+i=1 coincided with one for NO 2-N.
+
+162 Aquat Microb Ecol 39: 159–170, 2005
+Table 1. Environmental factors of sampling water between October 2000 and September 2001. Chl a: chlorophyll a; DO: dissolved
+oxygen concentration; NTU: nephelometric turbidity units; S: salinity; SRP: soluble reactive phosphate; T: temperature;
+Tur: turbidity
+T S pH Tur NO-N NH-N NO-N SRP DO Chl a
+2 3 3
+(°C) (psu) (NTU) (mg l–1) (mg l–1) (mg l–1) (mg l–1) (mg l–1) (µg l–1)
+Oct-I 23.0 31.0 7.9 2.10 0.052 0.023 0.037 0.345 12.2 2.03
+Oct-II 20.0 31.5 8.2 3.20 0.055 0.014 0.046 0.114 13.8 1.89
+Nov-I 17.0 30.0 8.1 2.46 0.063 0.035 0.058 0.095 15.0 1.00
+Nov-II 10.0 29.0 7.5 7.82 0.069 0.063 0.062 0.076 16.0 0.80
+Dec-I 11.0 27.0 7.1 2.66 0.056 0.067 0.081 0.076 17.6 0.33
+Dec-II 8.0 28.5 7.4 5.91 0.015 0.065 0.030 0.102 8.5 0.08
+Jan 6.0 31.0 7.7 4.69 0.007 0.074 0.095 0.300 11.2 0.44
+Feb-I 3.5 30.0 7.6 4.44 0.001 0.019 0.111 0.006 12.1 0.82
+Feb-II 3.5 28.0 7.7 3.15 0.005 0.050 0.134 0.050 11.8 1.68
+Mar-I 4.0 28.0 7.7 4.21 0.002 0.063 0.107 0.008 10.5 1.59
+Mar-II 5.0 28.0 7.8 1.47 0.003 0.280 0.086 0.310 9.4 2.00
+Apr 8.0 29.0 7.7 0.85 0.015 0.230 0.064 0.060 12.5 2.03
+May-I 11.0 30.0 7.6 1.56 0.007 0.560 0.017 0.060 10.6 6.76
+May-II 17.0 29.0 7.2 1.11 0.006 0.420 0.021 0.010 7.5 4.25
+Jun-I 19.0 30.5 7.4 1.47 0.006 0.100 0.014 0.060 8.6 5.34
+Jun-II 16.0 30.0 7.5 2.29 0.006 0.380 0.025 0.040 6.7 5.43
+Jul-I 15.0 29.0 7.4 2.31 0.018 1.170 0.023 0.020 6.5 5.10
+Jul-II 12.0 30.0 6.9 2.40 0.009 0.850 0.010 0.010 8.5 5.27
+Aug-I 14.0 20.0 7.1 4.52 0.080 0.630 0.018 0.110 3.8 6.41
+Aug-II 13.0 30.0 7.2 3.13 0.002 0.041 0.075 0.025 4.3 4.96
+Sep-I 9.0 30.0 7.4 3.19 0.036 0.352 0.021 0.105 6.8 3.24
+Sep-II 9.0 29.5 7.4 5.09 0.046 0.089 0.036 0.271 6.5 2.04
+Taxonomic composition and annual cycle the abundance peak (Fig. 3). The peak abundance in
+of abundance and biomass summer 2001 that was due to the 2 peritrich species
+did not, however, result in a distinct peak for biomass.
+A total of 37 ciliate species representing 10 orders This is mainly due to the smaller biovolume of
+and 30 genera were found during the 1 yr survey Pseudovorticella sinensis and Zoothamnium duplica-
+(Table 2). Hypotrichida and Cyrtophorida were the 2 tum relative to Corynophrya lyngbyi (50 to 70 vs. 110
+orders that represented most species, accounting for 36 to 130 µm in cell length). The sessile ciliates accounted
+and 23% respectively of the species recorded; each of for 89% of the total biomass for the whole year, the
+the other 8 orders had a comparatively low numbers of vagile and planktonic ciliates accounted for only 9 and
+species (Table 2, Fig. 2). 2%, respectively (Fig. 4).
+The temporal variation of abundance clearly exhib- The species number of ciliates in the samples varied
+ited a bimodal distribution during the course of the significantly with respect to seasons. The lowest spe-
+year, with 2 peaks, 1 in autumn and 1 in summer cies numbers were observed in the winter months
+(Fig. 3). The maximum cell densities were 1245.6 ind. (from January to March 2001), when there was usually
+cm–2 (SD = 242.1) in November 2000 and 806.5 ind. 1 planktonic ciliate Uronema marinum; species num-
+cm–2 in August 2001. The sessile suctorian Coryno- bers were relatively higher in spring, summer and late
+phrya lyngbyi was responsible for the autumn peak autumn despite of minor fluctuations, with 2 peaks in
+when it had an extremely high abundance (1173.2 ind. December 2000 (11 species) and July 2001 (14 species)
+cm–2, SD = 98.5). Two peritrichous species, Pseudo- (Fig. 3). The variation in species numbers was mainly
+vorticella sinensis (437.5 ind. cm–2, SD = 117.8) and due to the vagile ciliates, the cumulative total of which
+Zoothamnium duplicatum (366.2 ind. cm–2, SD = 87.4) accounted for 73% during the period of sampling
+gave rise to the summer peak. The sessile ciliates (Fig.4).
+accounted for 83% of the total abundance for the There were 12 species the individual abundances of
+whole year, while the vagile and planktonic ciliates which exceeded 30% of the total at some point during
+accounted for 16 and 1% respectively (Fig. 4). the year. These were: Orthodonella hamatus, Holo-
+Biomass variation did not follow the bimodal pattern sticha heterofoissneri, Hartmannula angustipilosa,
+as abundance. A single peak for biomass (128 µg C Trochilia sigmoides, Pseudokeronopsis qingdaoensis,
+cm–2) occurred in November 2000, corresponding to Acineta tuberosa, Amphileptus litonotiformis, Coryno-
+
+Gong et al.: Environmental effects on ciliate community structure 163
+Table 2. List of the species of ciliates recorded in 22 samples, including biohabit (Se: sessile; V: vagile; P: planktonic), body size
+(length ×width in µm), and degree of average abundance (+ = 0–10 ind. cm–2; ++ = 10–100 ind. cm–2; +++ = 100 – 400 ind. cm–2;
+++++ = over 400 ind. cm–2)
+Species Biohabit Body size Abundance
+ORDER: Haptorida
+Chaenea teres (Dujardin, 1841) P 100–400 ×12–40 +
+Lacrymaria marinumKahl, 1933 V 200–300 ×20–40 +
+ORDER: Prostomatida
+HolophryaoblongaMaupas, 1883 V 300–500 ×30–50 +
+Placus salinusDietz, 1964 V 40–45 ×20–40 +
+ORDER: Pleurostomatida
+Amphileptus litonotiformisSong, 1991 V 120–220 ×50–80 +
+Litonotus paracygnusSong, 1994 V 150–250 ×30–60 +
+ORDER: Cyrtophorida
+Aegyriana olivaDeroux, 1974 V 80–100 ×60–70 +
+BrooklynellasinensisGong & Song, 2005 V 40–50 ×20–30 +
+Chlamydonella pseudochilodonDeroux, 1976 V 30–75 ×20–50 +
+Dysteriaderouxi Gong & Song, 2004 V 100 ×40 +
+Hartmannula angustipilosa, Deroux & Dragesco, 1968 V 40–80 ×20–50 +
+HartmannuladerouxiGong & Song, 2004 V 60–120 ×30–70 +
+Hypocoma acinetarum, Collin, 1907 V 30–50 ×15–25 +
+Trochilia sigmoidesDujardin, 1841 V 20–30 ×10–18 +
+Trochilioides recta(Kahl, 1928) V 40–60 ×20–30 +
+ORDER: Nassulida
+Orthodonella gutta(Cohn, 1866) Kahl, 1931 V 140–200 ×60–100 ++
+ORDER: Suctorida
+Acineta tuberosa, Ehrenberg, 1834 Se 180–200 ×40–50 ++
+Corynophrya lyngbyi(Ehrenberg, 1833) Se 110–130 ×80–90 ++++
+ORDER: Peritrichida
+Pseudovorticella sinensisJi, Song & Al-Rasheid, 2003 Se 50–60 ×35–45 ++++
+Zoothamnium duplicatum Kahl, 1933 Se 70 ×40 +++
+Zoothamnium plumula, Kahl, 1933 Se 50–70 ×30–40 +++
+ORDER: Scuticociliatida
+PleuronemacoronatumKent, 1881 P 50–70 ×30–40 +
+Uronema marinum Dujardin, 1841 P 30–40 ×25–28 +
+ORDER: Hypotrichida
+Aspidisca leptaspisFresenius, 1865 V 60–80 ×40–50 +
+Aspidiscasteini(Buddenbrock, 1920) V 20–35 ×15–27 +
+Diophrys scutum(Dujardin, 1841) P 140–200 ×70–100 ++
+Euplotes rariseta Curds et al. ,1974 V 30–40 ×20–25 +
+Euplotes vannus, (Müller, 1786) V 90–140 ×60–80 +
+Holosticha bradburyaeGong et al., 2001 V 150–320 ×25–75 +
+Holosticha diademata, (Rees, 1883) Kahl, 1932 V 80–90 ×28–50 +
+Holosticha heterofoissneriHu & Song, 2001 V 115–135 ×32–45 +
+Oxytricha enigmaticaDragesco & Dragesco-Kernéis, 1986 P 80–100 ×30–40 +
+Oxytricha saltans(Cohn, 1866) Kahl, 1932 P 40–80 ×15–30 +
+Parabirojimia similis Hu, Song & Warren, 2002 V 140–300 ×30–50 +
+Pseudokeronopsis qingdaoensis Hu & Song, 2000 V 130–240 ×50–70 ++
+ThigmokeronopsisrubraHu, Warren & Song, 2004 V 140–200 ×40–50 ++
+ORDER: Oligotrichida
+Eutintinnus inquilinus (Müller, 1776) P 100–110 ×30–40 +
+Strombidium sulcatum, Claparède & Lachmann, 1858 P 30–45 ×30–40 +
+phrya lyngbyi, Pseudovorticella sinensis, Thigmo- Temporal patterns of community structure
+keronopsis rubra, Zoothamnium duplicatum and Z.
+plumula. The first 5 species occurred in more than one Cluster analysis based on square root transformed
+season while the last 7 species appeared in significant abundances resulted the 22 samples falling into 3
+numbers during only 1 season (Fig. 5). groups at a 12% similarity level (analysis of similarities
+
+164 Aquat Microb Ecol 39: 159–170, 2005
+Sessile Vagile Planktonic
+1% 2%
+16% 9%
+83% 89%
+Abundance Biomass
+14%
+13%
+Fig. 2. Composition of periphytic ciliate communities; the
+Fig. 4. Proportions of cu-
+percentage of the total number of species recorded through-
+mulative abundances, bio-
+out the period of sampling is shown for each order 73%
+mass and species numbers
+of vagile, sessile and
+planktonic ciliates from
+1400 October 2000 to Septem- )2–mc
+Species number ber 2001
+1200 vagile sessile planktonic
+1000 .dni(
+800
+[ANOSIM], p < 0.001): group I was composed of the ecnadnubA
+600 winter month samples (Jan, Feb-I, Feb-II, Mar-I and
+400 Mar-II); group II, the 2 August samples (Aug-I and
+Aug-II); and group III, the rest of the samples (Fig. 6).
+200
+Furthermore, at 19% similarity level, group III are
+0
+clustered into 3 subgroups: IIIa, IIIb and IIIc (see
+140
+Fig.7). The MDS ordination shows a temporal distrib-
+120 )2–mc
+ution of samples in agreement with the dendrogram
+100 with the 3 groups appearing at separate locations on
+gµ(
+80 the plot (Fig. 7).
+ssamoiB
+60
+40
+Linking biota to environmental factors
+20
+0 Table 3 summarizes the correlations between the
+16 various environmental parameters and species diver-
+14 sity, species evenness and species richness, excluding
+12 the 5 samples collected in winter (Jan, Feb-I, Feb-II, rebmun
+10 Mar-I, Mar-II) because of the lack of organisms on the
+slides. All 3 indices show significant positive relation-
+8
+ships with water turbidity and NO -N, while signi- seicepS
+6 2
+ficant correlations between species richness and
+4
+nutrients such as NH -N, DIN and SRP are also noted.
+2 3
+Correlations between abundance of dominant spe-
+0
+cies and environmental factors are shown in Table 4.
+OONNDDJFFMMAMMJJJJAASS
+ct-Ict-IIo v -Io v -IIe c -Ie c -IIa ne b -Ie b -IIa r-Ia r-IIp ra r-Ia y -IIu n -Iu n -IIu l-Iu l-IIu g -Iu g -IIe p -Ie p -II S Ai mgn pi hfi ic lea pn tt p so ls ii tt oiv ne tr ife ola rmtio isn s ah ni dps w Oer -e f o (u n =d 0b .5e 2tw e pen
+u o N N r , <
+Fig. 3. Temporal variations of abundance, biomass and 3
+0.05), and between Hartmannula angustipilosa and
+species number of vagile, sessile and planktonic ciliates in
+colonized biofilms. Two samples collected in 1 mo with an NH 3-N (r = 0.57, p<0.05); the suctorian Corynophrya
+interval of 15 d were referred to as month-I and month-II lyngbyiwas positively correlated to pH value (r = 0.49,
+
+Gong et al.: Environmental effects on ciliate community structure 165
+Jan
+Feb-I
+Feb-II I
+Mar-I
+Mar-II
+Aug-I
+II
+Aug-II
+Oct-I
+May-II
+IIIa
+Jul-II
+Sep-I
+Apr
+May-I
+IIIb
+Jun-I
+Jun-II
+Oct-II
+Nov-I
+Nov-II
+IIIc
+Dec-II
+Dec-I
+Jul-I
+Sep-II
+0 10 20 30 40 50 60 70 80 90 100
+BRAY-CURTIS SIMILARITY
+Fig. 6. Dendrogram of 22 samples, using group-average
+clustering from Bray-Curtis similarities on square root
+transformed abundances. I = group I; II = group II; IIIa, b,
+c=subgroup a, b, c in group III (see ‘Results’for details). Two
+samples collected in 1 mo with an interval of 15 d were
+referred to as month-I and month-II
+Fig. 5. Abundances (ind. cm–2) and temporal distribution of
+the 12 dominant ciliate species
+p<0.05); Orthodonella hamatus showed a strong sig-
+nificant positive relationship with water temperature
+(r = 0.70, p < 0.01); Pseudokeronopsis qingdaoensis
+correlated with SRP with high level of significance
+(r = 0.74, p < 0.01), and also with water temperature
+(r = 0.59, p < 0.05); there was a strong negative rela-
+tionship between Pseudovorticella sinensis and salin-
+ity (r = –0.70, p < 0.01) and DO (r = –0.53, p < 0.05);
+there was a significant positive correlation between
+Zoothamnium duplicatum andSRP (r=0.52, p<0.05).
+For all the 22 samples collected over the year, the top
+6 correlations between biota and environmental vari-
+ables, established by BIOENV analysis, are dominated
+by temperature and nutrients (Table 5). The highest
+correlation occurs with the combination of 3 variables:
+temperature, NO -N and NO -N. Another BIOENV
+2 3
+analysis for 17 samples of biota (with the 5 winter sam- Fig. 7. Multidimensional scaling ordination of 22 samples for
+ples excluded) and environmental variables showed a abundance data. Groups established from the cluster analysis
+are indicated (continuous line at 12% similarity level and
+similar result: temperature, nutrients and salinity are
+discontinuous line at 19% similarity level). Stress = 0.12 cor-
+all closely correlated to the community structure of responds to a good ordination with no real prospect of a
+periphytic ciliates (Table5). misleading interpretation
+
+166 Aquat Microb Ecol 39: 159–170, 2005
+Table 3. Correlation between environmental factors (DIN = dissolved immigration ends, the early and late interactive
+inorganic nitrogen; see Table 1 for other abbreviations) and species phases follow, during which internal factors
+diversity (H‘), species evenness (J), species richness (d), abundance,
+such as competition and predation pressure be-
+biomass and biomass/abundance ratio (B/A) of the ciliate community.
+come more important (Cairns & Henebry 1982,
+*p<0.05; ** p<0.01
+Railkin 1995).
+The time taken for primary colonization to
+H‘ J d Abundance Biomass B/A
+reach equilibrium greatly depends on envi-
+T –0.04 0.13 –0.11 0.01 0.08 0.31 ronmental factors such as water temperature
+S 0.28 0.46* 0.04 –0.20 0.09 0.35 (seasonality) and trophic conditions. Strüder-
+pH –0.28 –0.03 –0.34 0.15 0.47 0.56* Kypke (1999) found that the primary coloniza-
+Tur –0.71** –0.75** –0.53* 0.34 0.28 0.34
+tion in bog lakes reaches its climax after 6 wk
+NO-N –0.59* –0.55* –0.49* 0.40 0.32 0.29
+2
+NH-N 0.40 0.18 0.50* –0.26 –0.32 –0.50* during winter months but after only 4 wk in
+3
+NO-N 0.32 0.22 0.34 0.31 0.32 0.33 summer. Equilibrium was reached after 1 mo
+3
+DIN 0.35 0.18 0.46 –0.22 –0.27 –0.46 for the mesotrophic White Sea (Railkin 1995),
+SRP –0.33 –0.01 –0.53* –0.04 –0.01 0.04
+up to 12 wk in oligotrophic lakes (Bamforth
+DIN + SRP 0.27 0.14 0.33 –0.24 –0.3 –0.48*
+1982), and on average within 2 wk in
+DO –0.03 0.04 –0.03 0.03 0.44 0.60*
+Chl a 0.25 0.18 0.29 –0.20 –0.45 –0.58* eutrophic habitats (Wilbert 1969). These find-
+ings suggest that, given certain parameters
+remain constant (e.g. artificial substrate, tar-
+get habitat and period of exposure), the colo-
+DISCUSSION nized community is possibly a function of at least 2
+environmental aspects, namely seasonality and trophic
+Sampling strategy conditions.
+During our 1 yr survey, glass slides were exposed for
+Biological colonization of a new artificial substrate is a a fixed period of 15 d, which is sufficient for optimal cil-
+dynamic process, the primary stage of which generally iate colonization in most months of the year (Persoone
+exhibits the following succession: at first, bacteria 1968, Agamaliev 1974). However, few or even no typi-
+colonize the slide, followed by diatoms and autotrophic cal periphytic ciliates were found in the winter sam-
+flagellates; the next groups are bacterivorous, vagile ples: Jan, Feb-I, Feb-II, Mar-I and Mar-II. The most
+species of amoebae and ciliates; then larger species with likely explanation for this is that when the water tem-
+a broader feeding spectrum and sessile feeders occur peratures were extremely low (3.5 to 6°C), the time to
+(Railkin 1995, Strüder-Kypke 1999). During the primary reach equilibrium was probably far longer than 2 wk.
+colonization process, the number of species generally Glass slides proved to be a robust, inexpensive and
+increases and then equilibrates, following the Mac- reliable method for collecting periphyton ciliates.
+Arthur-Wilson equilibrium model (MacArthur & Wilson Other forms of artificial substrate that are commonly
+1967, Franco et al. 1998). Once equilibrium of used to collect protozoa communities for bioassess-
+Table 4. Correlation between abundance of dominant ciliates and environmental factors (see Table 1 for abbrevations).
+*p<0.05; **p<0.01
+T S pH Tur NO-N NO-N NH-N SRP DO Chl a
+2 3 3
+(°C) (psu) (NTU) (mg l–1) (mg l–1) (mg l–1) (mg l–1) (mg l–1) (µg l–1)
+Acineta tuberosa 0.10 0.11 –0.03 –0.11 –0.25 –0.18 0.07 –0.13 –0.21 0.24
+Amphileptus litonotiformis –0.37 –0.04 –0.07 0.37 –0.20 0.52* –0.14 –0.19 –0.04 –0.30
+Corynophrya lyngbyi 0.05 0.10 0.49* 0.28 0.43 0.34 –0.33 –0.01 0.48 –0.48
+Hartmannula angustipilosa 0.07 –0.03 –0.11 –0.13 –0.15 –0.04 0.57* –0.29 –0.12 0.10
+Holosticha heterofoissneri 0.20 –0.11 –0.29 –0.33 –0.10 –0.32 0.36 –0.35 –0.02 0.19
+Orthodonella hamatus 0.70** 0.33 0.46 –0.22 0.14 –0.14 –0.21 0.40 0.16 –0.14
+Pseudokeronopsis qingdaoensis 0.59* 0.23 0.39 –0.14 0.25 –0.03 –0.26 0.74** 0.19 –0.20
+Pseudovorticellasinensis –0.01 –0.7** –0.34 0.18 0.21 0.00 0.09 –0.06 –0.53* 0.41
+Thigmokeronopsis rubra –0.10 –0.10 –0.42 –0.09 –0.22 –0.30 0.42 –0.22 –0.08 0.22
+Trochilia sigmoides 0.22 0.07 –0.13 –0.16 –0.17 –0.17 0.10 –0.20 0.06 0.15
+Zoothamnium duplicatum –0.07 0.11 –0.24 0.00 0.27 0.27 –0.17 –0.19 –0.37 0.20
+Zoothamnium plumula –0.27 0.04 –0.05 0.29 –0.05 –0.05 –0.16 0.52* –0.20 –0.15
+
+Gong et al.: Environmental effects on ciliate community structure 167
+Table 5. Summary of result from biota–environment (BIOENV) analysis, with the present study was almost certainly
+top 6 correlations corresponding to different variables (p = Spearman correlation due to the larger number of samples
+coefficient). See Table 1 for abbreviations
+(500) and the wider range of loca-
+tions sampled.
+Rank 22 samples 17 samples Coppellotti & Matarazzo (2000)
+p Variables p Variables
+investigated ciliate colonization on
+glass slides in the Lagoon of Venice
+1 0.588 T, NO-N, NO-N 0.439 T, S, NO-N, NO-N, SRP
+2 3 2 3
+2 0.581 T, NO-N 0.425 T, S, NO-N, NO-N and found 45 species representing
+2 2 3
+3 0.536 T, NO-N, SRP, NO-N 0.420 T, S, NO-N, NH-N NO-N, SRP 34 genera, 12 (40%) of which were
+2 3 2 3 3
+4 0.515 T, NO 2-N, NH 3-N 0.416 S, NO 2-N, SRP, NO 3-N also found at Qingdao. Like the cili-
+5 0.511 T, NO-N, SRP 0.410 T, S, NO-N, NH-N
+2 2 3 ate faunas of Qingdao, Ostend and
+6 0.508 NO-N, NO-N 0.409 T, S, NO-N, NH-N, SRP
+2 3 2 3 the Caspian Sea, the Hypotrichida
+represented the largest proportion
+of species (33%) in the Venice
+ment include polyurethane foam units (PFU) (Pratt & study, the second largest being the Peritrichida
+Kepner 1992, Xu et al. 2002). PFUs are particularly (17.8%). Cyrtophorida accounted for only 2%. In addi-
+suited for investigating species numbers over an tion, 5 species of karyorelictids, namely Trachelocerca
+expanding time scale (e.g. 1, 2, 4, 8, 16 d). Such a strat- lacrymariae, T. multinucleata, Tracheloraphis gracilis,
+egy is, however, not so well suited for studies that Remanella multinucleate and Geleia swedmarki,
+involve long time-scales (e.g. 1 yr) or large number of which are usually considered to be benthic species
+sites because it is very demanding in terms of labour (Fenchel 1969), were also included on the species list.
+and time. In addition, squeezing PFUs may result The depth at which the artificial substrate was sub-
+in the failure to recover certain types of ciliates, e.g. merged might explain this finding since most samples
+sessile and highly thigmotactic species. of the Lagoon of Venice were recovered from just 60
+cm above the bottom (Coppellotti & Matarazzo 2000).
+Considering the clear links between the ecological
+Taxonomic composition niches of protists and their morphology (Fenchel 1986,
+1987), Franco et al. (1998) classified various taxonomic
+In the present study, 37 species representing 30 gen- orders of ciliates into feeding categories, based on 3
+era and 10 orders of ciliates were detected. This result parameters: the structure and function of the oral
+is similar to the previous report by Persoone (1968), apparatus; the way the ciliate collects its food; and the
+who, using the same sampling method, found 30 ciliate size of the captured food particles. The taxonomic
+species (belonging to 21 genera and 9 orders) in a pol- order itself, however, circumscribes certain aspects of
+luted harbour at Ostend, Belgium, also over a period of the morphology of any given ciliate and hence, to a
+1 yr. Comparing the taxonomic compositions of the 2 certain extent, provides a clue to its ecology. In our
+communities, 5 species (Trochilioides recta, Acineta study, the predominance of the dorsoventrally flat-
+tuberosa, Corynophrya lyngbyi, Uronema marinum tened hypotrich species is almost certainly due to this
+and Euplotes vannus) and 14 genera (accounting for adaptation of protozoa that crawl on surfaces (Fenchel
+66.7% of genera recorded in the Ostend study) were 1987). The bilaterally flattened cyrtophorids were the
+found at both locations. Comparison at the order level second largest group in both the Ostend and Qingdao
+indicates even higher similarity between the 2 faunas: surveys, but only a minor component of the ciliate com-
+8 out of the 9 ciliate orders in Ostend were also present munities in the Venice Lagoon and Caspian Sea areas
+in the Qingdao samples. Over half the species in the (Agamaliev 1974, Coppellotti & Matarazzo 2000). This
+Ostend samples were from the orders Hypotrichida is in contrast to the situation in freshwater habitats,
+(30%) and Cyrtophorida (23.3%). The same 2 orders where the peritrichs usually dominate the periphytic
+accounted for similar proportions of the species com- communities (Shen et al. 1990, Song & Chen 1999).
+position in the present study (36 and 23%, respec-
+tively; see Fig. 2).
+A large number (130) of periphytic ciliates were Univariate and multivariate analyses
+found on a combination of submerged objects and
+glass slides in the Caspian Sea (Agamaliev 1974). Spe- Univariate correlation analysis for community and
+cies in orders Hypotrichida (36.2%) and Peritrichida environmental factors was carried out on data sets
+(18.5%) accounted for over half of the total. However, omitting the 5 winter samples. Species diversity, even-
+it should be noted that the higher species richness of ness and richness indices are commonly employed in
+periphytic ciliates in the Caspian Sea compared to the community studies and are amenable to simple statisti-
+
+168 Aquat Microb Ecol 39: 159–170, 2005
+cal analysis (Magurran 1991, Ismael & Dorgham 2003). the dimensions of the biota matrix and inevitably
+In our case, however, diversity and evenness generally weakened the sensitivity of the multivariate analysis.
+failed to show significant relationships with environ- In summary, our studies demonstrate that variations
+mental factors whereas species richness did. A similar of periphytic ciliate communities were not only sea-
+finding was demonstrated in a diatom community sonal but were also highly correlated to the concentra-
+study which also involved the use of artificial sub- tions of dissolved nutrients in the water and hence, to
+strates (Vaultonburg & Pederson 1994). some extent, show potential for the assessment of
+All 3 indices sharply decreased in the Aug-I sample water quality. Further studies, e.g. site-by-site compar-
+when Pseudovorticella sinensis dominated the com- isons of community responses to specific environmen-
+munity. This may have been due to the low salinity and tal stress such as heavy metals or organic pollutants,
+DO, both of which showed highly significant negative are needed to further explore the possibility of using
+correlations with the abundances of other peritrich periphytic ciliates in marine water biomonitoring.
+species such as Zoothamnium duplicatum.
+The ratio of biomass to abundance (B/A) of the com-
+Acknowledgements. This work was supported by ‘the
+munity, i.e. the mean body-size of species in a sample, National Science Foundation of China’ (Project No. 40246021,
+showed strong negative correlations with nutrients. 30430090) and a Royal Society Joint Project Programme (No.
+That is to say, the higher nutrients load, the more Q822). Thanks are due to Dr. W. Zhang for constructive
+suggestions on early version of the manuscript.
+small-sized species were present. This is consistent
+with the use of abundance/biomass comparison (ABC)
+plots to determine levels of disturbance (Warwick LITERATURE CITED
+1986). This method, which is usually for benthic
+Agamaliev FG (1974) Ciliates of the solid surface overgrowth
+macrofauna studies, might thus also be suitable for
+of the Caspian Sea. Acta Protozool 13:53–83
+biomonitoring using periphytic ciliate communities. Al-Rashid KAS, Sleigh MA (1995) Distribution and abun-
+Multivariate analyses were more sensitive than uni- dance of interstitial ciliates in Southampton water in
+variate ones for detecting changes in community struc- relation to physicochemical conditions, metal pollution
+and availability of food organisms. Estuar Coast Shelf Sci
+ture. For example, the 2 samples in August (Group II)
+41:61–80
+comprised a distinct cluster at a similarity level of 12%
+APHA (American Public Health Association) (1989) Standard
+(Fig. 6) that corresponded to the decrease in salinity methods for examinations of water and wastewater,
+and the increase in concentrations of NO -N, NO -N 17edn. APHA, Washington DC
+3 2
+Azam F, Fenchel T, Field JG, Gray JS, Meyer-Reil LA,
+and SRP. The separation of other groups basically
+Thingstad F (1983) The ecological role of water-column
+reflects seasonal effects, but with few exceptions (e.g.
+microbes in the sea. Mar Ecol Prog Ser 10:257–263
+Jul-I was grouped together with autumn samples in Baldock B, Baker J, Sleigh MA (1983) Abundance and pro-
+subgroup IIIc). This indicates other physico-chemical ductivity of protozoa in chalk streams. Holarctic Ecol 6:
+variables also play roles in the differentiation of com- 238–246
+Bamforth SS (1982) The variety of artificial substrates used
+munity structures.
+for microfauna. In: Cairns J Jr (ed) Artificial substrates.
+The subsequent BIOENV confirms that temperature
+AnnArbor Science Publishers, AnnArbor, MI, p 115–130
+is the most important factor influencing the structure of Cairns J Jr, Henebry MS (1982) Interactive and noninter-
+the periphytic ciliate community, based either on the active protozoa colonization process. In: Cairns J Jr (ed)
+Artificial substrates. Ann Arbor Science Publishers, Ann
+entire year’s samples or on those with the winter data
+Arbor, MI, p 27–30
+omitted. Likewise, nutrients were always among the
+Cairns J Jr, Lanza GR, Parker BC (1972) Pollution related to
+top combinations of variables in both cases whereas structural and functional changes in aquatic communities
+salinity was only occasionally an important factor, par- with emphasis on freshwater algae and protozoa. Proc
+ticularly when the data from the winter samples were Acad Nat Sci Phila 124:79–127
+Cairns J Jr, Yongue WH Jr (1968) The distribution of freshwa-
+omitted from the analysis. Since many ciliates are con-
+ter protozoa on a relatively homogenous substrate. Hydro-
+sumers of bacteria and algae in microbial loops, nutri-
+biologia 31:65–72
+ents may affect the growth and structure of attached Carey PG (1992) Marine interstitial ciliates. An illustrated
+bacteria and diatoms and further indirectly affect the key. Chapman and Hall, London
+Caron DA, Goldmann JC (1990) Protozoan nutrient regenera-
+communities of periphytic ciliate on glass slides.
+tion. In: Capriulo GM Jr (ed) Ecology of marine Protozoa.
+Multivariate analysis was also employed but failed to
+Oxford University Press, New York
+reveal any relationships between periphytic ciliate Clarke KR, Ainsworth M (1993) A method of linking multi-
+community on glass slides and environment with pol- variate community structure to environmental variables.
+lution of heavy metals (Coppellotti & Matarazzo 2000). Mar Ecol Prog Ser 92:205–219
+Clarke KR, Warwick RM (1994) Change in marine communi-
+They classified ciliates into 3 groups (i.e. suctoria, peri-
+ties: an approach to statistical analysis and interpretation.
+trichs and vagile ciliates) rather than investigating
+Plymouth Marine Laboratory, Natural Environment
+each species individually. This significantly reduced Research Council, Plymouth
+
+Gong et al.: Environmental effects on ciliate community structure 169
+Coppellotti O (1998) Sensitivity to copper in a ciliate as a pos- Hu X, Warren A, Song W (2004) Observation on the morphol-
+sible component of biological monitoring in the Lagoon of ogy and morphogenesis of a new marine hypotrich ciliate
+Venice. Archs Environ Contamin Toxicol 35:417–425 (Ciliophora, Hypotrichida) from China. J Nat Hist 38:
+Coppellotti O, Matarazzo P (2000) Ciliates colonization of arti- 1059–1069
+ficial substrates in the Lagoon of Venice. J Mar Biol Assoc Ismael AA, Dorgham MM (2003) Ecological indices as a tool
+UK 80:419–427 for assessing pollution in El-Dekhaila Harbour (Alexan-
+Corliss JO (1979) The ciliated protozoa. Characterization, dria, Egypt). Oceanologia 45:121–131
+classification and guide to the literature, 2nd edn. Perga- Jeffrey SW, Humphrey GF (1975) New spectrophotometric
+mon Press, Oxford equations for determining chlorophyls a, b, c1 and c2 in
+Dale T (1991) Protists and pollution—with an emphasis on higher plants, algae and natural phytoplankton. Biochem
+planktonic ciliates and heavy metals. In: Reid PC, Turley Physiol Pflanzen 167:191–194
+CM, Burkill PH (eds) Protozoa and their role in marine Ji D, Song W, Al-Rasheid KAS (2003) Description of a marine
+processes. NATO ASI Series, Vol. 25. Springer-Verlag, peritrichous ciliate, Pseudovorticella sinensisn. sp. (Cilio-
+Berlin, p 115–130 phora, Peritrichia) from China. J Eukaryot Microbiol 50:
+Fenchel T (1969) The ecology of marine microbenthos. IV. 360–365
+Structure and function of the benthic ecosystem, its chem- Kahl A (1931)Urtiere oder Protozoa I: Wimpertiere oder Cili-
+ical and physical factors and the microfauna communities ata (Infusoria) 2. Holotricha außer den im 1. Teil behan-
+with special reference to the ciliated protozoa. Ophelia 6: delten Prostomata. Tierwelt Dtl 21:181–398
+1–182 Lee JJ (1986) Protozoa as indicators of ecosystems. Insect Sci
+Fenchel T (1986) Protozoan filter feeding. Prog Protistol 1: Appl 7:349–353
+65–113 Lin X, Gong J, Song W (2004) Morphological studies on a new
+Fenchel T (1987) Ecology of Protozoa. Springer-Verlag, Berlin species of Orthodonella, with redescription of O. gutta
+Finlay BJ, Bannister P, Stewart J (1979) Temporal variation in (Cohn, 1866) Kahl, 1931 (Protozoa: Ciliophora: Synhy-
+benthic ciliates and the application of association analysis. meniida) from coastal water off Qingdao, China. J Nat Hist
+Freshw Biol 9:45–53 38:2001–2011
+Finlay BJ, Berninger UG, Clarke KJ, Cowling AJ, Hindle RM, Ma C, Sun H, Wang X, Ying L, Peng Z (1997) Assessment of
+Rogerson A (1988) On the abundance and distribution of situation and trend of water quality in coastal area of the
+protozoa and their food in a productive freshwater pond. Yellow Sea. Mar Environ Sci 16:32–37 (in Chinese with
+Eur J Protistol 23:205–217 English abstract)
+Foissner W (1987) Soil Protozoa: fundamental problems, eco- MacArthur RH, Wilson EO (1967) The theory of island bio-
+logical significance, adaptations in ciliates and testaceans, geography. Monographs in population ecology, I. Prince-
+bioindicators and guide to the literature. Prog Protistol 2: ton University Press, Princeton, NJ
+69–212 Magurran AE (1991) Ecological diversity and its measure-
+Foissner W, Unterweger A, Henschel T (1992) Comparison of ment. Chapman and Hall, London
+direct stream bed and artificial substrate sampling of Margalef R (1968) Perspectives in ecological theory. Univer-
+ciliates (Protozoa, Ciliophora) in a mesosaprobic river. sity of Chicago Press, Chicago, IL
+Limnologica 22:97–104 Martín-Cereceda M, Serrano S, Guinea A (2001) Biofilm com-
+Foissner W, Berger H, Schaumburg J (1999) Identification and munities and operational monitoring of a rotating biologi-
+ecology of limnetic plankton ciliates. Informationsberichte cal contractor system. Wat Air Soil Pollut 126:193–206
+des Bayer. Landesamtes für Wasserwirtschaft 3/99:1–793 Mohr JL (1952) Protozoa as indicators of pollution. Sci Month
+Franco C, Esteban G, Téllez C (1998) Colonization and suc- 1:7–9
+cession of ciliated protozoa associated with submerged Patterson DJ, Larsen J, Corliss JO (1989) The ecology of
+leaves in a river. Limnologica28:275–283 heterotrophic flagellates and ciliates living in marine
+Fried J, Mayr G, Berger H, Traunspurger W, Psenner R, Lem- sediments. Prog Protistol 3:185–277
+mer H (2000) Monitoring protozoa and metazoa biofilm Persoone G (1968) Ecologie des Infusoires dans les salissures de
+communities for assessing wastewater quality impact and substrats immerges dans un port de mer. I. Le film primaire
+reactor up-scaling effects. Wat Sci Tech 41:309–316 et le recouvrement primaire. Protistologica 4:187–194
+Gong J, Song W (2004a) Description of a new marine Pielou EC (1969) An introduction to mathematical ecology.
+cyrtophorid ciliate, Dysteria derouxi nov. spec., with an John Wiley& Sons, New York
+updated key to 12 well-investigated Dysteriaspecies (Cil- Pratt JR, Balczon JM (1992) Biomonitoring using protozoans.
+iophora, Cyrtophorida). Eur J Protistol 40:13–19 In: Lee JJ, Soldo AT (eds) Protocols in protozoology. Soci-
+Gong J, Song W (2004b) Morphology and infraciliature of 2 ety of Protozoologists,Lawrence, KS, p B-12.1–B-12.3
+marine species of Hartmannula (Protozoa, Ciliophora, Pratt JR, Crains J Jr (1985) Functional groups in the protozoa:
+Cyrtophorida), from scallop-farming waters off Qingdao roles in differing ecosystems. J Protozool 32:415–423
+(Tsingtao), China. J Nat Hist 38:1327–1337 Pratt JR, Kepner RL (1992) Collecting aufwuchs on artificial
+Gong J, Song W, Hu X, Ma H, Zhu M (2001) Morphology and substrates. In: Lee JJ, Soldo AT (eds) Protocols in Protozo-
+infraciliature of Holosticha bradburyae nov. spec. (Cilio- ology. Society of Protozoologists, p B-9.1-B-9.7
+phora, Hypotrichida) from the Yellow Sea, China. Hydro- Primc-Habdija B, Habdija I, Plenkoviç-Moraj A (2001) Tufa
+biologia 464:63–69 deposition and periphyton overgrowth as factors affecting
+Hu X, Song W, Warren A (2002) Observations on the the ciliate community on travertine barriers in different
+morphology and morphogenesis of a new marine urostylid current velocity conditions. Hydrobiologia 457:87?96
+ciliate, Parabirojimia similis nov. gen., nov. spec. (Proto- Putt M, Stoecker DK (1989) An experimentally determined
+zoa, Ciliophora, Hypotrichida). Eur J Protistol 38:351–364 carbon :volume ratio for marine ‘oligotrichous’ ciliates
+Hu X, Gong J, Song W (2003) Pathogenic ciliates in scallop- from estuarine and coastal waters. Limnol Oceanogr 34:
+farming waters. In: Song W, Zhao Y, Xu K, Hu X, Gong J 1097–1103
+(eds) Pathogenic Protozoa in mariculture. Science Press, Railkin AI (1995) Heterotrophic flagellates on artificial sub-
+Beijing, p 145–178 strates in the White Sea. Cytology 37:951–957
+
+170 Aquat Microb Ecol 39: 159–170, 2005
+Shannon CE, Weaver W (1963) The mathematical theory of chlorophyll-a in phytoplankton. In: Oi P (ed) Proceedings
+communication. University of Illinois Press, Urbana, IL of the conference on primary productivity measurement,
+Shen Y, Zhang Z, Gong X, Gu M, Shi Z, Wei Y (1990) Modern marine and freshwater at the University of Hawaii,
+biomonitoring techniques using freshwater microbiota. August. US Atomic Energy Commission, TID-7633, Wash-
+China Architecture and Building Press, Beijing (in Chi- ington, DC, p 142–146
+nese) Vaultonburg DL, Pederson CL (1994) Spatial and temporal
+Sherr EB, Sherr BF (1987) High rates of consumption of bacte- variation of diatom community structure in east-central
+ria by pelagic ciliates. Nature 325:710–711 Illinois streams. Trans Illinois State Acad Sci 87:9–27
+Song W, Wilbert N (1995) Benthische Ciliaten des Süss- Warwick RM (1986) A new method for detecting pollution
+wassers. In: Röttger R (ed) Praktikum der Protozoologie. effects on marine macrobenthic communities. Mar Biol 92:
+Gustav Fischer Verlag, Stuttgart, p 156–168 557–562
+Song W, Chen Z (1999) Ecological studies on Aufwuchs cili- Weitere M, Schmidt-Denter K, Arndt H (2003) Laboratory
+ates from a eutrophic freshwater pond. In: Song W (ed) experiments on the impact of biofilms on the plankton of a
+Progress in protozoology. Qingdao Ocean University large river. Freshw Biol 48:1983–1992
+Press, Qingdao, p 325–362 (in Chinese) Wilbert N (1969) Ökologische Untersuchung der Aufwuchs-
+Strüder-Kypke MC (1999) Periphyton and sphagnicolous pro- und Planktonciliaten eines eutrophen Weihers. Arch
+tists of dystrophic bog lakes (Brandenburg, Germany). I. Hydrobiol (Suppl) 35:411–518
+Annual cycles, distribution and comparison to other lakes. Wilbert N (1975) Eine verbesserte Technik der Protargo-
+Limnologica 29:393–406 limprägnation für Ciliaten.Mikrokosmos64:171–179
+Strüder-Kypke MC, Schönborn W (1999) Periphyton and Winberg GG (1971) Methods for the estimation of production
+sphagnicolous protists of dystrophic bog lakes (Branden- of aquatic animals. Academic Press, New York
+burg, Germany). II. Characteristic species and trophic of Xu K, Choi JK, Yang EJ, Lee KC, Lei Y (2002) Biomonitoring
+the lakes. Limnologica 29:407–424 of coastal pollution status using protozoan communities
+Talling JF, Driver D (1961)Some problems in the estimation of with a modified PFU method. Mar Pollut Bull 44:877–886
+Editorial responsibility: Fereidoun Rassoulzadegan, Submitted: September 8, 2004; Accepted: March 7, 2005
+Villefranche-sur-Mer, France Proofs received from author(s): May 21, 2005
+

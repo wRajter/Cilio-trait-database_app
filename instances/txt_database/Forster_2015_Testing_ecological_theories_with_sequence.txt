@@ -1,0 +1,840 @@
+Forsteretal.BMCBiology (2015) 13:16
+DOI10.1186/s12915-015-0125-5
+RESEARCH ARTICLE Open Access
+Testing ecological theories with sequence
+similarity networks: marine ciliates exhibit
+similar geographic dispersal patterns as
+multicellular organisms
+Dominik Forster1, Lucie Bittner1,2,3, Slim Karkar3,4, Micah Dunthorn1, Sarah Romac5,6, Stéphane Audic5,6,
+Philippe Lopez3,4, Thorsten Stoeck1*† and Eric Bapteste3,4†
+Abstract
+Background: High-throughput sequencing technologies are lifting major limitations to molecular-based ecological
+studies ofeukaryoticmicrobialdiversity,but analyses of theresulting millions of short sequences remain a major
+bottleneck for theseapproaches.Here, weintroduce theanalyticaland statistical framework of sequence similarity
+networks, increasingly used inevolutionary studies and graph theory, intothe fieldof ecology to analyze novel
+pyrosequenced V4 small subunit rDNA (SSU-rDNA) sequence data setsin thecontext of previous studies, including
+SSU-rDNA Sanger sequencedata from cultured ciliates and from previous environmental diversity inventories.
+Results: Our broadly applicable protocol quantified theprogress inthe description of genetic diversity of ciliates by
+environmental SSU-rDNA surveys, detected a fundamental historical bias in thetendency to recover already known
+groupsinthesesurveys,andrevealedsubstantialamountsofhiddenmicrobialdiversity.Moreover,networkmeasures
+demonstratedthatciliatesarenotgloballydispersed,butarestructuredbyhabitatandgeographicallocationat
+intermediategeographicalscale,asobservedforbacteria,plants,andanimals.
+Conclusions:Currentlyavailable‘universal’primersusedforlocalin-depthsequencingsurveysprovidelittlehopeto
+exhaustthesignificantlyhigherciliate(andmostlikelymicrobial)diversitythanpreviouslythought.Networkanalyses
+suchaspresentedinthisstudyofferapromisingwaytoguidethedesignofnovelprimersandtofurtherexplorethis
+vastandstructuredmicrobialdiversity.
+Keywords:Biogeography,Microbialdiversity,High-throughputsequencing,EnvironmentalrDNAsequencing,Protist
+Background were debated to explain the distribution of these organ-
+Evaluating the patterns and processes of microbial diver- isms. These perspectives have previously been difficult
+sity is central for understanding the ecology and evolu- to evaluate for microbial eukaryotes because extensive
+tion of life on Earth [1-3]. Currently, morphological and diversity underlies many morphospecies and most species
+molecular methods have prompted a number of alterna- are recalcitrant to cultivation [12,13]. Traditional morpho-
+tive perspectives on these issues. The extent of global logicalandmolecularmethodshavealsoimposedtemporal
+dispersal versus levels of local endemism for microbial and financial limits on collecting data on total diversity
+taxa [4-7], as well as the respective impacts of historical withinandamongcommunities[14,15].
+barriers to dispersal versus that of current conditions The recent introduction of high-throughput sequen-
+selecting among species in specific environments [8-11] cing (HTS) methodologies provided a way to push these
+limits to eukaryotic microbial diversity research [16-21].
+*Correspondence:stoeck@rhrk.uni-kl.de It is now possible to quickly obtain hundreds of millions
+†Equalcontributors
+1DepartmentofEcology,UniversityofKaiserslautern,Erwin-Schrödinger-Straße of sequences. However, the development of HTS was
+14,KaiserslauternD-67633,Germany one of those events in which a nascent technology
+Fulllistofauthorinformationisavailableattheendofthearticle
+©2015Forsteretal.;licenseeBioMedCentral.ThisisanOpenAccessarticledistributedunderthetermsoftheCreative
+CommonsAttributionLicense(http://creativecommons.org/licenses/by/4.0),whichpermitsunrestricteduse,distribution,and
+reproductioninanymedium,providedtheoriginalworkisproperlycredited.TheCreativeCommonsPublicDomain
+Dedicationwaiver(http://creativecommons.org/publicdomain/zero/1.0/)appliestothedatamadeavailableinthisarticle,
+unlessotherwisestated.
+
+Forsteretal.BMCBiology (2015) 13:16 Page2of16
+rapidly progressed far beyond our ability to best collect Community clustering and Louvain community ana-
+and analyze the data. Thissituation encouraged develop- lyses [46] can be used to identify groups of similar se-
+ments to justify which DNA region should be targeted quences at various thresholds of sequence similarity.
+for sequencing and which primer-pairs should be used, Assortativity analyses [47] can be used to define sets of
+for example, in foraminifera [22], ciliates [17,23-25], di- sequences with distinctive characteristics. Path analyses
+noflagellates [26], fungi [27], bacteria [28] and archaea [31] can be used to quantify divergence between se-
+[29]. There has also been little effort put into effectively quences. All these measures offer an original path from
+exploiting the resulting millions of short HTS sequences graph theory to empirical analyses of the patterns and
+in a statistical framework, especially when placed into processesshapingmicrobialdiversity.
+the context of previous studies. Computational steps are In this study, we analyzed a network of 85,482 DNA
+still a major bottleneck in molecular-based environmen- and cDNA ciliate pyrosequences from the V4 region of
+talstudies.Theseshortcomingshavehamperedtheiden- the SSU-rDNA locus collected at eight European coastal
+tification of novel taxa, of distribution patterns, and sites from three different habitats (sediments, deep
+theirbiologicalandecologicalcauses. chlorophyll maximum (DCM), subsurface; for sampling
+Sequence similarity network analyses, based on se- details see [18,48]). We developed a protocol to: 1) de-
+quence similarity [30-35] offer an extension to sequence tect novel diversity in our new data in the context of
+clustering analyses. They should not be conflated with existing sequence data from previous environmental
+co-occurrence networks [36,37]. Beyond a first step of diversityinventories(Additionalfile1,TableS1)andcul-
+clustering, sequence similarity networks allow biologists tured species; and 2)testecological theories about ciliate
+to perform fine-grained analyses of similarities between dispersal at multiple evolutionary levels (from conspe-
+sequences, because they exploit the information pro- cific to more inclusive taxonomical units). We conclude
+vided by the topology of weighted connections between that ciliates in European coastal areas—just like bacteria,
+sequences within and between clusters. Such networks plants and animals—are under strong environmental
+rely on methods from graph theory that have recently and geographical selection at intermediate geographical
+been adapted to address an increasing number of scale,andagreewithpreviousobservationsrejectingglo-
+biological questions using large molecular datasets bal dispersal hypotheses [49-53]. We argue that such a
+[30,31,38-43]. With such analyses, combining massive se- diversity structure calls for specific improved sampling
+quence data produced from numerous studies becomes strategiesinfuturemicrobialcommunity surveys.
+feasible, and diversity patterns can be inferred that other-
+wisewouldnotbeapparentfromindividualstudiesalone. Results and discussion
+For example, a count of phylotypes in two separate data- Thelargescopeofnetworkanalyses
+sets provides no information about which of these phylo- Sequence similarity networks are inclusive graphs, easily
+typesarethesame,whilesequencesfromdifferentstudies accommodating substantial molecular datasets (typically
+canbedirectlycomparedinasinglenetworkanalysis. millions of sequences, but billions are possible). They
+Phylogenetic analysis of short read data has made provide a unified comparative framework for these se-
+great strides in recent years, following the development quences, which can be analyzed with the methods and
+of phylogenetic placement algorithms for incorporating tools of graph theory [54]. In such graphs, the nodes
+short read data into a reference phylogeny (for example, represent the objects to be compared (here ciliate V4
+[44,45]).Yet,multiplealignmentsandtreereconstructions sequences), each pair being linked by an edge if there is
+with hundreds of thousands to millions of environmental significant similarity between the two corresponding
+sequences from HTS are either slow (when accurate) or nodes (herea minimum % identity(%ID),E-value,length,
+inaccurate (when fast) [44]. Furthermore, a challenge andalignmentcoverspanningoverthetwosequences).
+in such tools still consists in developing appropriate The resulting networks provide multiple lines of evi-
+visualization tools and metrics for analyzing distributions dence to analyze genetic diversity in large molecular
+of reads on computed trees [44]. The network approach datasets at various sequence similarity levels, hence at
+offers a powerful alternative in terms of comparative and various taxonomicallevels,andconsequently to testeco-
+visualizationstrategies(Figure1),withthebenefitofintro- logical theories (Table 1). First, thresholded sequence
+ducingseveralinformativegraph-based estimates describ- similarity networks effectively provide a first structure of
+ingtherelationshipsbetweensequences(Table1),thereby the data by partitioning it, since the continuity and dis-
+offeringindependent waysofanalyzing the distributionof continuity of resemblances between sequences generally
+microbial organisms. In other words, sequence similarity produces distinct subgraphs, called connected compo-
+networks allow the empirical testing of aspects of the nents(Figure1A).Whennumerous sequencesare highly
+theoretical framework of microbial ecology through similar,asisthecaseforV4sequences,connectedcompo-
+the exploitation of network-based properties (Table 1). nents grow to a very large size, forming Giant Connected
+
+Forsteretal.BMCBiology (2015) 13:16 Page3of16
+1. BLAST comparison
+A Two connected components at threshold 97%
+4
+2
+Weighted edge list 1 3 5
+7
+1-2: 97% 6
+8
+1-6: 99% 9
+2-6: 97%
+2-3: 97% B One giant connected component at threshold 96%
+3-4: 97%
+4
+3-5: 97% 2
+1
+4-5: 96% 3 5
+2. Network construction 7
+7-1: 96%
+6
+7-6: 96% 8
+9
+7-8: 97%
+7-9: 99%
+C Two Louvain Communities at threshold
+8-9: 97%
+9-1: 96% 4
+9-6: 96% 2
+1
+3 5
+7
+6
+8
+9
+Figure1Mocksequencesimilaritynetworks.Weightedsequencesimilaritynetworksdisplayingsequencesasnodes(blacknodesrepresent
+environmentalsequences,rednodesrepresentsequencesofculturedciliates),connectedbyedgesreflectingtheir%IDobtainedfromaBLAST
+analysis(seelistofweightededgesinwhichthecolorcodereflectsthe%ID;redfor99%,orangefor97%,pinkfor96%).Thecorrespondingcolor
+codeisusedonthenetworks(rightpanel)toexploreandstructurethedata.Themockdatasetresultsin:A)twoconnectedcomponentswhen
+theminimum%IDrequiredtoconnecttwonodesis≥97%;B)asinglegiantcomponentwhentheminimum%IDrequiredtoconnecttwo
+nodesis≥96%;C)finer-levelstructurewithincomponentscanbefurtherdetectedusingmethodsofcommunityclustering,suchastheLouvain
+Communities(seeMethods).%ID,%identity.
+Table1Networkmethodsandtheiradaptationtobiologicalquestions
+Networkterm Termdescription Biologicalmeaninginthiswork
+Node Singleunitofagraph AV4sequence
+Edge Connectionbetweentwonodes SequencesimilaritybetweentwoV4sequences
+Assortativity Measureofthepreferentialconnection Evaluationofsimilarityofasetofsequencesfromthe
+betweenasetofnodesofinterest samehabitatorlocation(forexample,ifsequences
+fromonehabitataremoresimilartooneanotherthan
+theyaresimilartosequencesfromotherhabitats,their
+assortativitywillbehigh.Environmentswithdistinctive
+similarV4willhavesuchahighassortativity).SeeFigure2C.
+Closeness Measureofthecentrality/peripheralityofa Measureofsequencedivergencerelativetotherestof
+nodeinanetwork thedataset(forexample,divergentsequences(with
+respecttotherestofthedataset)havealowcloseness
+andtendtobemoreperipheralastheyshareless
+similaritytoothersequences).SeeFigure2D.
+Shortestpath Shortestdistancebetweenapairofnodes Measuretoquantifythedivergencebetweenapairof
+sequences(forexample,alongshortestpathbetween
+anenvironmentalsequenceandasequencefroma
+culturedciliateindicatesahighdivergencebetween
+thesesequences,sincethesesequencesarenotdirect
+neighborsinthegraph).SeeFigure2D.
+Listedarethemostimportantnetworktermsintroducedintomicrobialecologyintheframeworkofthisstudy.Thetableindicateshowthesemethodscanbe
+appliedtoHTSdatatoaddressfundamentalquestionsonthediversityanddistributionofmicrobialorganisms.HTS,high-throughputsequencing.
+
+Forsteretal.BMCBiology (2015) 13:16 Page4of16
+Components [55] (GCC, Figure 1B). Second, connected could be considered as divergent with a distance=2 for
+components can be further partitionedto identifydensely thatthreshold).
+connectedregionswithinthem,knownascommunitiesin In short, sequence similarity networks offer a global
+graph theory. In each community, nodes are more con- and inclusive framework, that allows displaying and
+nected to other nodes within the given community than comparing novel data with pre-existing samples and,
+to external nodes (Figure 1C). We used Louvain commu- therefore, to progress towards integrated comparative
+nities [46] (LCs) of level 1 as the finer level of sequence analyses of multiple data sets. Using these tools, we ana-
+similarity, that is, as the tightest clusters of similar lyzed (1) how environmental SSU-rDNA projects have
+sequences.Wetestedwhetherthesetwomethodsofgraph expanded our former knowledge of genetic diversity that
+partitioning (CC and LC implementation, respectively) was based on cultured ciliates, (2) how the results of dif-
+returned groups of sequences from similar locations, ferent environmental SSU-rDNA surveys of microbial
+depths, or lab cultures, or whether no such geographical, eukaryotic diversity compare in terms of genetic diver-
+habitat or ‘cultivability’structure was observed in the net- sity, while (3) enhancing our understanding of the actual
+work. To do this, nodes in sequence similarity networks global diversityofciliates andofitsecologicalstructure.
+were labelled based on sequence properties. Preferential
+patterns of connections can then be analyzed in these la- Extensivenoveldiversityofenvironmentalciliates
+belledgraphs,usingassortativityestimatesthatquantifyto Previous environmental diversity studies [19,21,57,58]
+what extent sequences with the same label (for example, have shown that it is specifically the large proportion of
+from a given depth or location) connect with each other low-abundance taxa in a microbial consortium, in which
+rather than with differently labelled sequences [47]. For we find most of the novel diversity. Figure 3 shows the
+instance,geographicalstructuringofthedataproduces(1) GCC of the DNA and of the cDNA networks con-
+CCs/LCs with sequences from only one sampling site structed at the most inclusive threshold of ≥85% similar-
+(Figure2Aand C), and (2) CCs/LCs withsequences from ity. Densely connected regions (LCs of the GCC) of
+multiple sampling sites, yet with detectable patterns of similar sequences are replaced by supernodes for display
+preferential connections between sequences from the purposes. These supernodes are colored based on the
+same geographical location, if sequences from the same percentage of sequences they comprise either from cul-
+sampling site are more similar to one another than they tured organisms (t-2), from cultured and environmental
+aretosequencesfromothersites(Figure2AandC). sequences obtained before the BioMarKs project [48] by
+A useful property of thresholded networks is that all Sanger sequencing (t-1), or that were obtained by the
+sequences are not necessarily directly connected to- BioMarKs project [48] (t) using 454 pyrosequencing. In
+gether within a CC or a LC. For instance, sequence 1 other words, Figure 3 reveals the similarity relationships
+can be linked to sequence 2, itself linked to sequence 3, between sequences from cultured organisms and from
+while sequences 1 and 3 are not directly connected anincreasingnumberofenvironmental projects.
+because they do not share a greater similarity than the Ciliate sequences obtained by BioMarKs (represented
+stringency threshold used to construct the network. In by all non-pink LCs in the right graph, Figure 3 (t)) sub-
+that particular case, the connected component (1, 2, 3) stantially increase the diversity that was known from
+is a chain (Figure 1A). In practice, CCs (and to a lesser sequences of described organisms (represented by all
+extent LCs) display a variety of mathematical and topo- non-green LCs in the left graph, Figure 3 (t-2)). For
+logical properties, ranging from chains to cliques (when cDNA sequences, the number of LCs increases 1.4 fold
+all nodes are directly connected to one another), which and for DNA 2.3 fold. When all ciliate sequences from
+can beexploitedincomparativeanalyses. the environmental reference database are also consid-
+Third, detailed analyses of the relationships between ered in the GCC network analyses, we find that a large
+nodes provide additional network-based estimates of proportion ofBioMarKsdiversitywas,infact,discovered
+genetic diversity. In particular, the closeness of a node, previously in environmental molecular diversity surveys
+quantifying its location in the graph, and the number of (non-pink nodes in Figure 3 (t) and non-green nodes in
+edges separating two given nodes can be computed [56] Figure 3 (t-1), respectively). The colors of these GCCs
+to compare the centrality of environmental sequences show that environmental projects conducted before
+with that of sequences from cultured ciliates, and to BioMarKs mostly detected ciliates sequences that were
+measure their relative dissimilarity, when environmental either from the same LCs as sequences from cultured
+sequences are located more than one edge apart from organisms, or from previously untapped LCs neighbor-
+any sequence from cultured ciliates (that is, if sequence ing these communities. This observation means that ra-
+1 in the chain described above was a sequence from an ther central LCs with sequences from cultured ciliates
+organism in culture and sequence 3 was a sequence were further enriched with environmental representa-
+from an environmental sample; these two sequences tives (yellowish communities in the left graph turning
+
+Forsteretal.BMCBiology (2015) 13:16 Page5of16
+0% 100%
+A B
+C
+D
+Node exhibiting high closeness
+Node exhibiting low closeness
+Shortest path between highlighted nodes
+Figure2Mocksequencesimilaritynetworksdisplayingendemismandcosmopolitandistributionofciliates.A)Schematicpatternofa
+GCCcoloredtoreflecttheoriginofsequencesincaseofendemism.EachsupernodecorrespondstoaLCconsistingofagroupofsequences.
+ExemplaryLCcompositionisdescribedintheinsetsinsquaredboxes.Eachnodecolorintheseinsetscorrespondstoagivenhypothetical
+samplingdepth(thatis,redfordepthA,greenfordepthB).Eachsupernodecolorrepresentstheproportionofsequencesfromdifferent
+samplingdepthsinaLC(seecolorbarrangingfromgreen(100%sequencesofdepthB)tored(100%sequencesofdepthA).B)Schematic
+patternofthesameGCCcoloredtoreflecttheoriginofthesequencesincaseofacosmopolitandistributionofciliates.Samecolorcodeas
+above.IntermediatecolorsofmostLCsreflectthefactthathighlysimilarsequencesweredetectedatdifferentdepths.C)Schematicpatternof
+CCs,theirnodecolorsreflectingtheoriginofthesequences.Asabove,eachcolorcorrespondstoagivensamplingdepth.Somestructureis
+visiblewheneitherallsimilarsequencesoriginatefromthesamedepth(left),orwhensequencesfromaparticulardepthclustertogetherwithin
+thecomponent(middle).Incaseofawidespreaddispersalacrosssamplingdepths,nostructurewithregardtothecolorcodecanbeobserved
+(right).D)SchematicpatternofaCC,describingclosenessandshortestpath.Twodistinctnodesarehighlighted.Oneinthecenter(grey)and
+oneintheperiphery(lilac)oftheCC,exhibitinghighandlowcloseness,respectively.Rededgesconnectingthehighlightednodesdisplaythe
+shortestpathbetweenthesetwoparticularnodes.SeeTable1forfurtherexplanations.CCs,connectedcommunities;GCC,giantconnected
+components;LC,Louvaincommunities.
+more orange in the middle graph), and at the same time (yellowish and orange communities of the middle graph
+novel communities were discovered during these early turning lightblue in the right graph), and detecting novel
+environmental projects (green communities that were communities (green in the middle graph, dark blue in
+lacking any cultured member in the left graph turning the right graph) especiallyat theperiphery of the graph.
+yellowishinthe middlegraph). Figure 4 gives a more precise overview of the novel
+The inclusion of environmental sequences from ciliate diversity revealed by the sequence similarity
+BioMarKs continued this expansion in the description networks at the ≥85% threshold. Our BioMarKs data
+of genetic diversity in ciliates, identifying more environ- addedeightdistinctandpreviouslyunknownLCstothe
+mental representatives of previously known communities cDNAdatasetandtwelvetotheDNAdataset(Figure4).
+
+Forsteretal.BMCBiology (2015) 13:16 Page6of16
+10 10
+100 100
+1000 0 % 100 % 1000 0 % 100 %
+Sequences of cultured ciliates Sequences of cultured ciliates and BioMarKs ciliate sequences
+of previous environmental ciliate studies
+Time
+t -2 t -1 t
+DNA
+cDNA
+Figure3Sequencesimilaritynetworkshowingthegiantconnectedcomponent(GCC)ofeachdataset.GCCwereconstructedatthemost
+inclusivesequencesimilaritythreshold(≥85%)forDNA(above)andcDNA(below)networks.SupernodesoftheGCCrepresentLouvaincommunities
+(LCs);thesizeofthesupernodeindicatesthenumberofsequencesintherespectiveLC,thecolorindicatestheproportionoftargetedsequencesin
+therespectiveLC(forexample,sequencesfromculturedciliatesatt-2,sequencesfromculturedciliatesandpreviousenvironmentalsamplingsatt-1,
+sequencesfromBioMarKsatt).Thefigureshouldbereadalongthetimeofdatagenerationaxisfromlefttorighttofollowthegradualdiscoveryof
+ciliatesbySangersequencing(t-2)comparedtopreviousenvironmentalstudies(t-1)andfinallytothecurrent454pyrosequencingstudy(t).Colorof
+nodesattimet-2indicatestheproportionofsequencesfromculturedciliatesineachLC;colorofnodesattimet-1indicatestheproportionof
+sequencesfromeitherculturedciliatesorformerenvironmentalciliatesstudiesineachLC;colorofnodesattimetindicatestheproportionofBioMarKs
+454sequencesineachLC(differentcolorcodewasusedforreasonsofvisualization).GCC,giantconnectedcomponents;LC,Louvaincommunities.
+The composition of these LCs does not imply the pres- are highly similar to such sequences (16.6% DNA and
+ence of a specific hotspot for the detection of novel 10.5% cDNA sequences at distance=1, thus directly con-
+ciliate diversity with regard to location or habitat nected to a cultured ciliate sequence in the CCs at ≥97%
+(Figure 4). Although most of the LCs could be assigned similarity, see Additional file 3: Figure S2) but also to (2)
+to the class Spirotrichea, the low sequence similarities to novelsequences,expandingtheknowngeneticdiversityof
+theclosestculturedreferencesindicatethatthetaxonomic ciliates (83.4% DNA and 89.5% cDNA sequences at dis-
+assignmentshouldbetakenwithcare. tances >1, thus indirectly connected to cultured ciliates
+Moreover, the structure of the sequence similarity sequences in the CCs at ≥97% similarity, see Additional
+networks also enabled us to quantify and characterize file3:FigureS2). Thesenovel sequencesonly share direct
+the novel diversity detected by CC analyses. At all connections to other environmental sequences, and are
+similarity thresholds, we detected components that ex- observedevenatveryinclusivestringencythresholds(60%
+clusively consisted of BioMarKs sequences (Additional DNA sequences and 58% cDNA sequences at ≥85%
+file 2: Figure S1). For example, at 97% sequence similar- similarity,seeAdditionalfile3:FigureS2).Hence,many
+ity, a suggested approximation to discriminate ciliate spe- environmental sequences cannot be directly assigned to
+cies based on the V4 fragment [24], 60% of the cDNA formerly described lineages. Results are similar for LCs
+componentsand45%oftheDNAcomponentsdidnotin- (Additionalfile4:FigureS3).
+cludeanyreferencesequence,thusrepresentingpreviously Likewise, the analysis of closeness values, contrasting
+unknownciliatediversity. the centrality of environmental sequences with that of
+The divergence between environmental sequences and sequences from cultured ciliates, provides similar con-
+sequences from cultured ciliates was further analyzed by clusions. The centrality of a sequence reflects its similar-
+network path analyses (Table 1) of CC and LC. These ity to all other sequences in the graph. The more central
+analyses also provided evidence that environmental se- onesequenceis,thehigheritsclosenessandtheleastdi-
+quences correspond to (1) already known sequences or vergent it is with respect to all other sequences in the
+
+Forsteretal.BMCBiology (2015) 13:16 Page7of16
+Figure4Noveldiversityidentifiedbysequencesimilaritynetworks.NoveldiversityinthedatasetwasdefinedaseveryLouvainCommunity
+atthe85%similaritythresholdwhichexclusivelyconsistedofBioMarKssequencesandwhichsequenceswereonaveragelessthan95%identical
+toanyreferencesequenceoftheculturedciliatedatabase.ThefirsteightcolumnsdisplaythecompositionoftherespectiveLCwithregardto
+samplingsitesandhabitats.Thecolorsofthecirclesindicateinwhichhabitatthesequenceshadbeendetected.Bluerepresentssubsurface,
+greenrepresentsDCMandorangerepresentssedimentsamples.Multicoloredcircleswerefoundinmorethanonehabitatatthesamesampling
+site.Taxonomyisdisplayedtothespeciesleveloftheclosestculturedreferenceifpossible.Whenevermorethanoneclosestreferencewas
+assignedtotheLC,thelastcommontaxonomiclevel(atleastclasslevel)isgiven.AllV4sequencesincorporatedintothelistedLCsarepublicly
+availableatFigshare[59];separatefastafileshavebeendepositedforDNA[60]andcDNAdata[61].DCMdeepchlorophyllmaximum;LC,
+Louvaincommunity.
+network. Environmental sequences, which are more corresponds to increasing evolutionary distance between
+divergent to sequences from organisms known from cul- ciliates. The only exception concerns CCs at the ≥90%
+tures, occupy the periphery of the graph. In all networks similarity threshold, in which no significant differences
+and subgraphs, sequences from cultured ciliates are between the closeness of sequences from cultured ciliates
+more centrally located than sequences from environ- and from environmental studies before BioMarKs were
+mental projects(Additionalfile5:TableS2andAdditional observed. Yet, when BioMarKs sequences are considered
+file6:TableS3).EnvironmentalSSU-rDNAstudiesarethus in this particular analysis, the location of cultured ciliate
+expanding the description of genetic diversity beyond sequences in centralpositions of CCs at ≥90% similarity
+thatofknownsequencesatalltaxonomicallevels,ifone is statistically supported (P <0.01, Kolmogorov-Smirnov
+assumes that decreasing similarity between sequences test with unilateral option, see Methods; Table S2). In
+
+Forsteretal.BMCBiology (2015) 13:16 Page8of16
+summary, all networks indices (paths, closeness, CCs given location, their sequences will tend to form clusters
+andLCs)pointtothesameconclusion:networkanalysis which exclusively group sequences from that given depth
+unravels novel ciliate diversity, discovered by the orlocation.Sequencesofciliateswithrestrictedgeograph-
+currentsurveystrategy. ical or habitat distribution will tend to connect with each
+Furthermore, our results provide an ‘historical’ per- other in our networks, and the assortativity of their
+spective on the progress in diversity studies of ciliates. respective labels will be high (Figure 2A). Hence, the
+On one hand, they show an inherent conservative bias proportion of connected components with significantly
+of environmental SSU-rDNA surveys that rediscovered higher assortativity values than expected by chance for
+‘more of what was already known’ in terms of genetic any location or depth in our graphs indicates to which
+diversity. On the other hand, they show that even after extent we observed some geographical or habitat struc-
+two centuries of microscopy studies and about 20 years ture in the distribution of ciliates in our data set. The
+of molecular diversity analyses, HTS sequencing ap- majority of the three tested labels for habitats, and of
+proachesstillrevealsubstantialamountsofnoveldiversity. the eight tested labels for locations, were significantly
+Sequence similarity networks provide us with the tools to more assortative in the analyzed networks, indicating a
+recognizethedegreeofthisnoveldiversity. notable geographical and habitat structure of BioMarKs
+Yet, how we increase our knowledge of genetic diver- ciliatesequences(Additionalfile7:TableS4).Thestruc-
+sity of environmental ciliates clearly depends on our turingeffectisespeciallyemphasizedinthecDNAdata-
+background knowledge: environmental diversity surveys set fornetworksgenerated atthresholds ≥95%sequence
+using primers derived from cultured organisms catch in similarity(Additionalfile7:TableS4).
+first place more of the well-known described diversity Furthermore, the global dispersal hypothesis of indi-
+[62], rather than detecting novel peripheral groups in vidual taxa was not supported by our data. On the con-
+the networks. This suggests that the use of different sets trary, only a maximum of 2% of all CCs at the ≥99%
+of primers, for example, designed from alignments of similarity threshold include sequences from all sampling
+the environmental sequences in these peripheral com- sites (Figure 5). Figure 5 shows the abundance of se-
+munities (Figure 4), may be an efficient opportunity to quences for each CC (results for LC were similar, see
+expand further the discovery of novel, divergent groups Additional file 8: Figure S4), the number of locations in
+of ciliates. More precisely, groups of sequences, such as which sequences from these clusters were found (occur-
+cliques [63] or peripheral sequences can be easily ex- rence), and whether these sequences were evenly distrib-
+tracted from sequence similarity networks, producing uted across the locations inwhichthey were detected, or
+sets of sequences with shared similarities. These se- rather dominant at some specific location (evenness).
+quences can be further aligned with each other to iden- The vast majority of all components (between 92% and
+tify specific shared divergent regions, which can become 95%) is restricted to four or fewer sampling sites and is
+new primers for upcoming analyses. This strategy could found at low abundance. Only a few groups of ciliates
+complement the extraction of SSU-rDNA genes from were found in all samples at high abundance with an
+PCR-free shotgun metagenomic datasets, and, within even distribution of sequences. This further fuels the
+these less taxonomically biased datasets, ease the selec- moderate endemicity hypothesis for protists [7], which
+tion of SSU-rDNA genes with sequence similarities to was also supported in previous morphospecies-based
+(groupsof)divergent V4. studies [52,53,64,65] as well as in environmental gene-
+based diversity inventories [49-51]. Oxygen and salinity
+Geographicstructuringofciliatecommunities were identified in these and other studies as major dis-
+We mapped the geographic distribution of our sequences persal barriers for protists (for example, [66]) and also
+in similarity networks to test the ecological hypothesis for bacteria [67]. Indeed, oxygen-depletion may be a
+that ciliates are cosmopolitan organisms. Assortativity major factor that distinguishes the water samples from
+analyses were used to quantify to what extent sequences the sediment samples in our BioMarKs data set (most
+fromanylocationanddepthhaveclosehomologsinmore sediments generally become anoxic within a few milli-
+thanoneenvironmentalsampleofthedataset.Sincesimi- meters below the surface [68]). Likewise, salinity differ-
+lar sequences are directly connected in our graphs, the ences were noteworthy among the BioMarKs sampling
+largertheenvironmentaldistributionofciliateswithsimi- sites, ranging from 16.73 psu (practical salinity units) in
+lar sequences, the lower the assortativity of sequences the Black Sea to 37.93 psu in the Mediterranean Sea
+from a given location or from a given depth in the graph [48]. Additional possibilities are discussed elsewhere as
+(since ciliates from different locations/depths with similar potential dispersal barriers for microbes; for example,
+sequencesdirectlyconnectedinthegraphdisplaydifferent constraints in active and passive dispersal [11,69], and
+labels, Figure 2B). By contrast, if ciliates with similar also the success rate of colonization (establishment of a
+sequences preferentially occupy one given depth or one stablepopulation)inthenewenvironment[70].Thelatter
+
+Forsteretal.BMCBiology (2015) 13:16 Page9of16
+4000
+5000
+3000
+ecnadnubA
+4000
+2000
+sdaer
+3000 1000
+ni
+ecnadnubA
+2000
+1.0
+0.8
+1000
+0.6
+Evenness
+0.20.4
+0 0.0
+1 2 3 4 5 6 7 8
+Occurrence
+DNA
+cDNA
+10000
+12000
+8000
+10000 ecnadnubA
+6000
+8000 4000 sdaer
+2000 ni
+6000
+ecnadnubA
+4000
+1.0
+2000 0.8
+0.6
+0.00.20.4 Evenness
+0
+1 2 3 4 5 6 7 8
+Occurrence
+Figure5Three-dimensionalplotsdisplayingabundance,occurrenceandevennessofsequencesinconnectedcomponents.Plotsare
+basedonDNA(above)andcDNA(below)networksatthemostexclusivesequencesimilaritythreshold(≥99%).Eachdot(339forDNA;593for
+cDNA)representsoneCC,henceoneconspecificgroupofciliatesequences.Colorandpositionofadotonthey-axisindicatesitsabundance
+(thenumberofsequencesintheCC).Occurrencereferstothenumberofsamplingsites(maximum=8)atwhichsequencesoftheCCwere
+detected.Evenness(estimatedasSimpsonindex)describeswhethersequencesofaCCarehomogenouslydistributedacrossdifferentsampling
+sites(SI=0indicatesanunevendistribution,SIcloseto1indicatesanevendistribution).LCanalysesrevealedsimilarresults(seeAdditionalfile8:
+FigureS4).CC,connectedcomponents;LC,Louvaincommunities.
+is influenced by a wealth of biotic and abiotic processes instance, the component with the highest abundance in
+[71]. Although there may be limits to the biogeography Figure5(n=10,255)includessequencesfromonlythree
+of many protists, ciliates, like bacteria [72], may have a differentsamplingsites.
+common core of diversity present at very low levels, a
+phenomenon that could be tested with HTS for ex- Habitatselectiononciliatepopulations
+ample. Finally, while geographically widely dispersed Besides network components that are geographically re-
+components include slightly more abundant sequences, strictedtooneorafewspecificsamplingsites(Figure 5),
+not all abundant sequences are widely dispersed. For the effect of environmental selection is also shaping
+
+Forsteretal.BMCBiology (2015) 13:16 Page10of16
+ciliate community composition (Additional file 7: Table ciliates in sediments exhibit sequences that are different
+S4, discussed above). The GCC of the DNA and cDNA from ciliates detected in the water column (subsurface
+networksat≥85%similarityclearlyillustratethissituation, and DCM). While subsurface and DCM sequences are
+in spite of their low stringency threshold (Figure 6), often found in the same clusters, only a few of these
+Subsurface Subsurface
+DCM DCM
+Sediment Sediment
+DNA cDNA
+10
+100
+1000 0 100%
+Figure6SequencesimilaritynetworkshowingtheproportionofsequencesfromeachhabitatintheGCCofDNAandcDNAdatasets.
+GCCs,decomposedinLCsasinFigure3areshownforDNA(left)andforcDNA(right)networks.Networkgraphsareorganizedfromtopto
+bottomtocomparetheproportionofsequencesfromsubsurfaceandDCMhabitatswiththosefromsedimenthabitats.Thecolorofnodes
+(greenmeaning0%,redmeaning100%)indicatestheproportionofsequencesfromsubsurfacehabitatsineachLC(top);theproportionof
+sequencesfromDCMhabitatsineachLC(middle);andtheproportionofsequencesfromsedimenthabitatsineachLC(bottom).DCM,deep
+chlorophyllmaximum;GCC,giantconnectedcomponents;LC,Louvaincommunities.
+
+Forsteretal.BMCBiology (2015) 13:16 Page11of16
+clusters also include sediment sequences. In Figure 6 this analyses of these groups showed that they are structured
+observation is highlighted by the large number of LCs with regard to habitat or geographic location. With a
+which are non-green in both the top (subsurface) and broad ecological perspective, this can be interpreted as
+middle (DCM) graphs, compared to the increasing num- taxonomically closely related groups (depending on the
+berofgreenLCsinthebottom(sediment)graphs. resolution of sequence similarity we choose) which form
+This result of contrasting sequences from sediments distinct subcommunitiesindifferenthabitatsoratdiffer-
+and water column also occurs for conspecific ciliates ent geographic locations in European coastal waters. At
+(defined here as groups of ciliates with ≥97% similar se- the same time, we also find highly adapted groups which
+quences). Using a sequence similarity threshold of 97% are restricted to one specific habitat or one location.
+for CC analyses, we found that 50% of all sediment This is similar to patterns observed in animals and
+cDNA components are exclusive to this habitat, while plants[76]andconfirmsobservationsonciliatedispersal
+only 4% and 9% are exclusive to the subsurface and the patterns from other oceanographic areas [49,50]. Using
+DCM (Additional file 9: Figure S5). A similar trend was networkanalysesofmolecularmarkers,importanttheor-
+observed in DNA components, of which 30% were ies can thus be tested: the technology for massive data
+sediment-exclusive, 12% subsurface-exclusive and 7% production at an affordable price is in place, and power-
+DCM-exclusive (Additional file 9: Figure S5). Habitat fulinclusivemethodsareavailable.
+specialization of marine protistan species at an even As we integrated data from multiple samples into the
+closer geographical proximity was also reported by Orsi same comparative context, we must also conclude that
+and colleagues [50], who could relate their findings to a surveying ciliate diversity appears more as a challenge
+distinct geochemicalgradient. In comparison, ourresults than ever. The restriction of most taxa to one or a few
+show a less pronounced level of habitat specialization different geographic locations and habitats, supported by
+along the water column, which we explain by the lack of all network estimates and for both DNA and cDNA se-
+a geochemical gradient and, thus, the less exigency for quences, means that we may have to bury our hopes to
+organisms to adapt. On the other hand, the high level of exhaust the ciliate (and most likely the microbial) diver-
+ciliate organisms which are specialized to sediment habi- sity of an environment using available ‘universal’ primers
+tats is not unexpected, because a psammophilic life style and local in-depth sequencing [62]. Network analyses of
+requires different adaptations than a planktonic life style sequence data can still contribute to explore such a
+[73]. In a morphology-based approach combining pub- structured vast microbial diversity. Sequence similarity
+licly available ciliate data of 17 globally distributed mar- networks provide all the tools needed to detect exclu-
+ine benthic sampling sites, Azovsky and Mazei [74] sively environmental clusters (CC or LC) and/or groups
+could show that one quarter of the observed ciliate spe- ofsequenceswhicharedistantfrompreviouslydescribed
+cies were only detected at one single sample site and diversity. Alignment of groups of novel, peripheral, en-
+every second species occurred at not more than three vironmental sequences thus revealed by network ana-
+different sites. Likewise, an environmental SSU-rDNA lyses can guide the design of new sets of primers which
+study [75] revealed that geographical structures at the will be useful to expand our knowledge of microbial di-
+sea-floor can act as biogeographical barriers and lead to versity, moving it further away from the current status
+distinctive benthic microbial communities. A more frag- quo and its logical starting point: the sequences of cul-
+mented distribution of locally restricted benthic ciliate tured organisms.
+species, induced by geographical structures, such as the The creation of distinct primers should compensate
+Strait of Gibraltar, could explain the comparably high fortheinherenttendencyofrecentenvironmentalrDNA
+levelofexclusiveCCsfrom thesedimentobservedinthe surveyswhosefindingsgravitatearoundthesamegroups
+current network approach. of organisms [62]. We encourage readers who want
+more than ‘more of the same’ from diversity surveys,
+Conclusions and to enhance the scale at which ecological theories
+Networkanalysisinmicrobialbiogeography about microbial diversity can be tested, to experience
+We present network analyses as highly efficient tools to thiskindofinclusive network-basedstrategy.
+exploit massive HTS datasets and identify novel diver-
+sity. Further, network analyses appear as a useful means Methods
+to address fundamental subjects in ecology using envir- Constitutionofthedataset
+onmental diversity inventories. Such subjects include the A first reference database of ciliate sequences was built
+analyses of microbial distribution patterns that allow us including 308 V4 SSU-rDNA sequences from GenBank.
+to draw conclusions about the underlying biological Only sequences from cultured and morphologically
+causes. For instance, while closely related ciliate se- identified isolates were selected. Additionally a second
+quences grouped together in our networks, the in-depth reference database of 82,560 environmental ciliate
+
+Forsteretal.BMCBiology (2015) 13:16 Page12of16
+SSU-rDNA sequences from earlier diversity studies in disconnected networks at various sequence similarity
+was generated from GenBank. Moreover, environmen- thresholds (85%, 90%, 95%, 96%, 97%, 98%, 99%). Mean-
+tal samples were collected at eight European marine ing that in a network with a sequence similarity thresh-
+coastal sites as part of the biodiversity of marine eu- old of 97%, two nodes (where each node represents one
+karyotes project (BioMarKs [48]). Information about sequence from the dereplicated DNA or cDNA dataset,
+sampling procedure, filter preparation, extraction of respectively) are connected by an edge only if they share
+nucleic acids, sequencing strategy, sequence quality a sequence similarity of at least 97% (Figure 1A). As a
+checkandtaxonomicassignment(onthephylumlevel) consequence, sequence similarity networks provide a
+of the samples can be found in Logares et al. (2014) first clustering, producing connected components (CCs),
+[18]. Stringent cleaning options were used (exact pri- that is, sets of connected sequences isolated from the
+mer matching, removing low quality score sequences restofthegraph(Figure 1A).A secondlevelofsequence
+using sliding windows of 50 bp, and chimera checking) clustering was achieved using the Louvain method [46]
+toguaranteethequalityandreliabilityofthefinaldata- (default parameters, first level, for example, the most
+set. Each sequence was labelled based on its origin fine-grained resolution) (Figure 1C). Thismethod identi-
+(cultured organism, earlier environmental project, Bio- fies densely connected nodes in a graph, and aggregates
+MarKs environmental sample), depth in the water col- thesenodesinto clusters(Louvaincommunities(LCs)).
+umn (subsurface, DCM, sediment), and sampling site The EGN output which served as the basis for all sub-
+of the BioMarKs project [48]. In all environmental sequent network analyses in the context of our work is
+datasets, only sequences which could be assigned to a publiclyavailableat Figshare [81].
+culture sequence belonging to the phylum Ciliophora
+and had at least 300 bp in length were considered, Graphdisplay
+amounting to 85,482 BioMarKs ciliate V4 SSU-rDNA The largest connected component of the sequence simi-
+sequences. Furthermore, datasets were dereplicated larity networks was found at ≥85% similarity and its LCs
+(when identical, only unique sequences were kept for were displayed using Gephi [82] (Yifan Hu multilevel
+each sampling site in the BioMarKs database), which layout). Each LC is represented by a supernode. Two
+resulted in a final dataset of 25,842 unique BioMarKs LCs are connected to another, when there is at least one
+sequences (8,931 DNA and 16,911 cDNA sequences, connection between the two sets of sequences belonging
+respectively), 308 ciliate culture sequences and 928 to that pair of LC (Figures 3 and 6). The number of
+ciliate sequences of earlier environmental studies (listed sequences in a LC is represented by the supernode size.
+in Additional file 1: Table S1). Sequence data used in LCs were colored based on their proportion of se-
+this analysis are publicly available at Figshare [59,77]. quences with a label of interest (for example, cultured or
+Additionally, we deposited one table listing all Bio- environmental sequence, habitat affiliation) to display
+MarKs ciliate sequences and their respective properties the structure of genetic diversity of ciliates (Figures 3
+[78] and one table listing all cultured ciliate reference and6).
+sequences[78].Twofastafilesthatincludeallnovelcili-
+ate diversity sequences as listed in Figure 4 are also Graphanalyses
+available and may be used to design novel primers Clusters exclusively comprising sequences with the same
+(DNA fasta file: [60]; cDNA fasta file: [61]). For better label (for example, BioMarKs sequences or cultured cili-
+understanding of the deposited data, we also provide a ate sequences) were quantified. Using Igraph library
+manualonhowtonavigateinourfiles[79]. scripts [83] in the R statistical computing environment
+[84], we applied two measures of dissimilarity between
+Graphconstruction BioMarKs sequences, environmental sequences obtained
+Two types of sequence similarity networks (Figure 1) in previous projects, and sequences from cultured cili-
+were constructed in this study to compare the consili- ates. First, we used the minimal shortest path between
+ence between the information within BioMarKs DNA all pairs of nodes of interest, expressed in number of
+sequences on the one hand and RNA sequences on the edges (Table 1, Figure 2D); in other words, the minimal
+other hand. We used (1) anetwork with BioMarKs DNA number of edges that must be crossed to connect any
+plus reference sequences (10,167 sequences) and (2) a environmental node (that is, a BioMarKs sequence or a
+network with BioMarKs cDNA plus reference sequences sequence from a previous environmental project) and its
+(18,147 sequences). In both cases, sequences were used closest node of a cultured ciliate sequence (infinite when
+as an input file for EGN [80] choosing the following op- no such path existed). Second, we used the closeness of
+tions: BLASTn E-value <1e-5; minimum hit identity environmental nodes and nodes from cultured ciliates in
+threshold 60%; minimum hit length 40% of the smallest our graphs (Table 1, Figure 2D). This closeness quanti-
+homolog. This protocol excluded singletons and resulted fies the centrality of sequences in the graph: more
+
+Forsteretal.BMCBiology (2015) 13:16 Page13of16
+peripheral sequences are more different from most other value of SI ranges between 0 and an upper limit of 1-1/N
+sequences of the dataset. The distributions of closeness (N being the total number of objects). A cluster of se-
+values for these groups of nodes were compared using quences which is perfectly homogeneously distributed
+theKolmogorov-Smirnovtest(P<0.05andP<0.01)with amongthesamplingsiteswillreachaSIcloseto1.
+the unilateral option (test 1: cultured sequences versus
+sequences from former environmental studies; test 2:
+cultured sequences versus all environmental sequences Additional files
+(former environmental studiesplus BioMarKs)).
+Additionalfile1:TableS1.PubliclyavailableSSU-rDNAsequencedata
+includedintotheenvironmentalreferencedatabase.Thetableshows
+Testingtheglobaldispersaltheory whichstudieshadbeenincludedintotheenvironmentalreference
+databaseofoursequencesimilaritynetworkapproach.Thefirstcolumn
+Two distinct measures were used to test whether all
+givesthenumberofV4-SSU-rDNAsequencesofeachstudywhich
+groupsofciliateswithsimilarV4DNAorcDNAsequences fulfilledourrequirementsandwerethusincorporatedintothe
+were found at all sampling sites. First, assortativity—a environmentalreferencedatabase.
+measure for the tendency of nodes with the same label Additionalfile2:FigureS1.ProportionofCCs(above)andLCs
+(below)inDNAandcDNAnetworkswhichexclusivelycontained
+(orofnodeswithoutthatlabel)topreferentiallyconnect
+BioMarKssequences.DNAdataareshowninred,cDNAdatainblue.
+with one another in the graph—was computed for each CompositionofeachCCandLCwasanalyzedatallsequencesimilarity
+label for each CC and LC. Assortativity was defined as thresholdstodetectreferencesfromculturedciliatesequencesand
+sequencesofformerenvironmentalstudies.ProportionofCCsandLCs
+inNewman(2003)[47],fortwocategories(nodesofthe
+displayedhereonlycontainsequencesofBioMarKsproject.Themore
+targeted label—for example, a given habitat—and other inclusivethethreshold(thatis,thelowerthesequencesimilarity),the
+nodes). An assortativity coefficient r=0 means that fewerCCsandLCscanbedetected.Thus,theproportionofCCsandLCs
+exclusivelycontainingBioMarKssequencesdecreaseswithlowersimilarity
+edges between the two categories are distributed ran-
+thresholds.IncomparisontoDNAnetworks,ahigherproportionof
+domlybetweenthetwocategories.Apositivecoefficient exclusiveCCsandLCscanbefoundinthecDNAnetworks,exceptforthe
+mostinclusivesimilaritythreshold(≥85%).
+indicates that nodes of the same category (that is, same
+depth or location) tend to be linked together, while a Additionalfile3:FigureS2.NetworkpathanalysesofCCs.Foreach
+environmentalnodeatallsequencesimilaritythresholds,theshortest
+negative one indicates that nodes of different categories
+pathtoareferencenode(nodeofaculturedciliate)hasbeencalculated.
+tend to be linked together. Therefore, under total en- Shortestpathanalysesdescribetheminimumnumberofedgeslinking
+theinitialnodewiththetargetnode.Distanceof‘1’toareferencenode
+demism, patterns as in Figure 2A are expected in a
+meansthattheenvironmentalnodeisdirectlyconnectedtothe
+graph. Sequences from a given depth or location cluster referencenode(culturedciliate).Distanceof‘inf’(meansinfinite)toa
+preferentiallytogetherandfallwithinthesameexclusive referencenodemeansthattheenvironmentalnodeisinaCCwithout
+regionofthegraph.Bycontrast,inthe caseofacosmo- anyreferencenode(culturedciliate),hencenoshortestpathcanbe
+calculated.Theproportionofenvironmentalnodesforwhichapath
+politan distribution of ciliates, similar sequences can be lengthof‘inf’isreported,decreaseswiththesequencesimilarity
+found in all depths and locations, producing a pattern threshold.NumbersontopofeachplotindicatetheabundanceofCCs
+suchasthatofFigure2B. regardingthesequencesimilaritythreshold.
+Statistical significance of the assortativity values was Additionalfile4:FigureS3.NetworkpathanalysesofLCs.Foreach
+environmentalnodeatallsequencesimilaritythresholds,theshortest
+assessed by randomly shuffling the labels over all se-
+pathtoareferencenode(nodeofaculturedciliatesequence)hasbeen
+quences for each CC and LC while keeping the same calculated.ShortestpathanalysesofLCsrevealedsimilarpatternsasthe
+network topology. Assortativity was computed for each shortestpathanalysesofCCs(Additionalfile3:FigureS2).
+label before and after the shuffling. Distributions of ori- Additionalfile5:TableS2.Kolmogorov-Smirnov(KS)testscomparing
+closenessdistributionsinDNAnetworks.Atallsequencesimilaritythresholds
+ginal and randomized assortativity values were com-
+andforbothCCsandLCstwoindependentKS-testswereperformed:1)to
+pared with a Kolmogorov-Smirnov test (P <0.05) to test testiftheclosenessofnodesofculturedciliates(C )washigherthanthe
+cultured
+whether observed assortativity values were significantly closenessofnodesfromformerenvironmentalstudiesbefore454sequencing
+(C )and2)totestiftheclosenessofC washigherthanthe
+greaterthanbychance. formerEnv cultured
+closenessofallenvironmentalnodes(C :nodesfromformerenvironmental
+Second, for each cluster of sequences in our ≥99% studiesplusBioMarKsnodes).ClosenessE cn av nbeunderstoodasameasurement
+similarity networks, likely grouping sequences of the ofcentralityinanetwork(thatis,thehigherthecloseness,themorecentral
+thenodeswillbelocated).Forallbutonecaseitcouldbeconfirmedthat
+same ciliate species, we plotted the abundance of that
+C wassignificantlyhigherthanC (P<0.05orP<0.01).Compared
+cultured formerEnv
+cluster (measured as the number of sequences), the toC ,C wasalwayssignificantlyhigher.
+Env cultured
+occurrence of that cluster (measured as the number of Additionalfile6:TableS3.KS-testscomparingclosenessdistributions
+sampling sites at which these sequences were detected), incDNAnetworks.ResultsandpatternsoftheKS-testsonclosenessin
+DNAnetworks(Additionalfile5:TableS2)areconfirmed.
+andtheevennessofthatcluster,measuredbytheSimpson
+" #
+Additionalfile7:TableS4.KS-testcomparingthedistributionof
+oXbjects
+assortativityingenesimilaritynetworks.Assortativitydescribesthe
+index (SI) SI ¼1− p2 i in which p i corresponds to tendencyofnodestobeconnectedtonodesofthesamelabel.Two
+i¼1 independentgroupsoflabels(threehabitats,eightlocations)weretested
+the proportional abundance of units (here: sequences) forDNAandcDNAnetworksateachsequencesimilaritythreshold.Using
+counted in object i (here: each sampling site) [85]. The aone-sidedKS-testweanalyzedifthedistributionofassortativityvalues
+
+Forsteretal.BMCBiology (2015) 13:16 Page14of16
+Received:12August2014Accepted:28January2015
+ofeachrespectivelabelwassignificantlygreater(P<0.05)thanexpected
+bychance.Thusthenodesoftherespectivelabelweremorelikelyto
+connectwitheachotherthantoconnecttonodesofanotherlabel.
+Additionalfile8:FigureS4.Three-dimensionalplotsdisplaying References
+abundance,occurrenceandevennessofsequencesinLCs.Plotsare 1. FalkowskiPG,FenchelT,DelongEF.ThemicrobialenginesthatdriveEarth's
+basedonDNA(above)andcDNA(below)networksatthemostexclusive biogeochemicalcycles.Science.2008;320:1034–9.
+sequencesimilaritythreshold(≥99%).Eachdot(370forDNA;670for 2. KellerM,ZenglerK.Tappingintomicrobialdiversity.NatRevMicrobiol.
+cDNA)representsoneLC. 2004;2:141–50.
+3. StaleyJT,ReysenbachAL.Biodiversityofmicrobiallife:foundationofearth's
+Additionalfile9:FigureS5.CompositionofCCinDNA(above)and
+biosphere.NewYork:Wiley-Liss,Inc;2001.
+cDNA(below)genesimilaritynetworks.EachCCateachsimilarity
+4. FinlayBJ,EstebanGF,OlmoJL,TylerPA.Globaldistributionoffree-living
+thresholdwasanalyzedtohighlighttheproportionofnodes,which
+microbialspecies.Ecography.1999;22:138–44.
+derivedfromthethreeinvestigatedhabitatsinthisstudy(Subsurface,
+5. FinlayBJ.Globaldispersaloffree-livingmicrobialeukaryotespecies.Science.
+DCM,Sediment).ThegraphsshowtheproportionofallCCs,which
+2002;296:1061–3.
+exclusivelyconsistofnodesofthesamehabitat.Inallnetworksthe
+6. FoissnerW.Biogeographyanddispersalofmicro-organisms:areview
+highestproportionofexclusiveCCswasfoundforsedimenthabitats
+emphasizingprotists.ActaProtozool.2006;45:111–36.
+(orange),insomenetworksprovidingmorethan50%ofallCCs.The
+7. FoissnerW,ChaoA,KatzLA.Diversityandgeographicdistributionofciliates
+proportionofDCM(green)andsubsurface(blue)CCsneverreached
+(Protista:Ciliophora).BiodiversConserv.2008;17:345–63.
+morethan15.4%and16.4%,respectively,ofthetotalnumberofCCsin
+8. BassD,RichardsTA,MatthaiL,MarshV,Cavalier-SmithT.DNAevidencefor
+therespectivenetwork.IntheDNAnetworksanincreaseofCCsharboring
+globaldispersalandprobableendemicityofprotozoa.BMCEvolBiol.
+exclusivelynodesofDCMhabitatscouldbeobservedwithdecreasing
+2007;7:162.
+sequencesimilarity.ThereasonforthisisafewexclusiveDCMCCswhich
+9. GreenJL,HolmesAJ,WestobyM,OliverI,BriscoeD,DangerfieldM,etal.
+donotmergewithanyotherCCalthoughthethresholdgetsmore
+Spatialscalingofmicrobialeukaryotediversity.Nature.2004;432:747–50.
+inclusiveandfewerCCsintotalcanbefound.Consequently—asthe
+reportedvaluesareproportions,notabsolutenumbers—moreCCscanbe 10. GreenJ,BohannanBJ.Spatialscalingofmicrobialbiodiversity.TrendsEcol
+Evol.2006;21:501–7.
+detectedinproportiontothetotalnumberofCCs.
+11. MartinyJB,BohannanBJ,BrownJH,ColwellRK,FuhrmannJA,GreenJL,
+etal.Microbialbiogeography:puttingmicroorganismsonthemap.NatRev
+Microbiol.2006;4:102–12.
+Competinginterests
+Theauthorsdeclarethattheyhavenocompetinginterests. 12. DawsonSC,PaceNR.Novelkingdom-leveleukaryoticdiversityinanoxic
+environments.ProcNatlAcadSciUSA.2002;99:8324–9.
+Authors’contributions 13. StoeckT,HaywardB,TaylorGT,VarelaR,EpsteinSS.AmultiplePCR-primer
+approachtoaccessthemicroeukaryoticdiversityinenvironmentalsamples.
+TSandEBconceivedandguidedthestudy;DFandLBperformednetwork
+Protist.2006;157:31–43.
+analyses;DF,LB,TSandEBinterpretedandputdataintoscientificcontext;
+14. MedingerR,NolteV,PandeyRV,JostS,OttenwälderB,SchlöttererC,etal.
+MDconstructedandprovidedtheV4-database;DF,LB,SK,MD,TSandEB
+Diversityinahiddenworld:potentialandlimitationofnext-generation
+wrotethemanuscript;LB,MD,SRandSAperformedsampling;LB,SK,SA,PL
+sequencingforsurveysofmoleculardiversityofeukaryoticmicroorganisms.
+andEBperformedbioinformaticalanalyses.Allauthorsreadandapproved
+MolEcol.2010;19:32–40.
+thefinalmanuscript.
+15. SchusterSC.Next-generationsequencingtransformstoday’sbiology.Nat
+Methods.2008;5:16–8.
+Authors’information
+16. BittnerL,GobetA,AudicS,RomacS,EggeES,SantiniS,etal.Diversity
+DominikForsterandLucieBittner:sharefirstauthorship. patternsofunculturedHaptophytesunravelledbypyrosequencingin
+ThorstenStoeckandEricBapteste:shareseniorauthorship. NaplesBay.MolEcol.2013;22:87–101.
+17. DunthornM,OttoJ,BergerSA,StamatakisA,MahéF,RomacS,etal.
+Acknowledgements Placingenvironmentalnext-generationsequencingampliconsfrom
+WethankPAJachietfortechnicalhelp.WearegratefultotheCNRS-UPMC microbialeukaryotesintoaphylogeneticcontext.MolBiolEvol.
+ABiMSbioinformaticsplatform(http://abims.sb-roscoff.fr)forproviding 2014;31:993–1009.
+computationalresourcesandsupport.TheBioMarKs454sequencedatawere 18. LogaresR,AudicS,BassD,BittnerL,BoutteC,ChristenR,etal.Patternsof
+generatedaspartofastudysupportedbytheEU-FP7ERA-netprogram rareandabundantmarinemicrobialeukaryotes.CurrBiol.2014;24:813–21.
+BiodivERsA,undertheprojectBioMarKs(2008-6530).Wethankallmembers 19. SoginML,MorrisonHG,HuberJA,WelchDM,HuseSM,NealPR,etal.
+oftheBioMarKsconsortiumwhoparticipatedinfieldsamplinganddata Microbialdiversityinthedeepseaandtheunderexplored“rarebiosphere”.
+generation.WealsoappreciatethesupportoftheResearchUnitBioComp ProcNatlAcadSciUSA.2006;103:12115–20.
+attheUniversityofKaiserslautern,fundedbytheResearchInitiativeof 20. StoeckT,BehnkeA,ChristenR,Amaral-ZettlerL,Rodriguez-MoraMJ,
+Rhineland-Palatinate.ThisworkwassupportedbyagrantfromStipendienstiftung ChistoserdovA,etal.Massivelyparalleltagsequencingrevealsthe
+Rheinland-PfalztoD.F.;agrantfromUniversityofKaiserslauterntoL.B.;Deutsche complexityofanaerobicmarineprotistancommunities.BMCBiol.
+Forschungsgemeinschaft(DFG,grant#DU1319/1-1)toM.D.;DFG(grants# 2009;7:72.
+STO414/3-1,STO414/3-2andSTO414/11-1)toT.S.,andbyagrantfromRegion 21. StoeckT,BassD,NebelM,ChristenR,JonesMD,BreinerHW,etal.Multiple
+Ile-de-France(DIMMalinf)toS.K.E.B.isfundedbytheEuropeanResearch markerparalleltagenvironmentalDNAsequencingrevealsahighly
+CouncilundertheEuropeanCommunity’sSeventhFrameworkProgrammeFP7 complexeukaryoticcommunityinmarineanoxicwater.MolEcol.
+(2007-2013GrantAgreementn°615274).Wegreatlyappreciatethecomments 2010;19:21–31.
+ofthreeanonymousreviewersfortheirconstructivecommentsonour 22. PawlowskiJ,LecroqB.ShortrDNAbarcodesforspeciesidentificationin
+manuscript. Foraminifera.JEukaryotMicrobiol.2010;57:197–205.
+23. BehnkeA,EngelM,ChristenR,NebelM,KleinRR,StoeckT.Depictingmore
+Authordetails accuratepicturesofprotistancommunitycomplexityusingpyrosequencing
+1DepartmentofEcology,UniversityofKaiserslautern,Erwin-Schrödinger-Straße ofhypervariableSSUrRNAgeneregions.EnvMicrob.2010;13:340–9.
+14,KaiserslauternD-67633,Germany.2CNRS,FR3631,InstitutdeBiologie 24. DunthornM,KlierJ,BungeJ,StoeckT.Comparingthehyper-variableV4
+Paris-Seine,ParisF-75005,France.3SorbonneUniversités,UPMCUnivParis06, andV9regionsforassesmentofciliateenvironmentaldiversity.JEukaryot
+InstitutdeBiologieParis-Seine(IBPS),ParisF-75005,France.4CNRS,UMR7138, Microbiol.2012;59:185–7.
+InstitutdeBiologieParis-Seine,ParisF-75005,France.5CNRS,UMR7144,Station 25. MahéF,MayorJ,BungeJ,ChiJ,SiemensmayerT,StoeckT,etal.Comparing
+BiologiquedeRoscoff,PlaceGeorgesTeissier,RoscoffF-29680,France. high-throughputplatformsforsequencingtheV4regionofSSU-rDNAin
+6SorbonneUniversités,UPMCUnivParis06,UMR7144,StationBiologiquede environmentalmicrobialeukaryoticdiversitysurveys.JEukMicrobiol.2014;
+Roscoff,PlaceGeorgesTeissier,RoscoffF-29680,France. doi:10.1111/jeu.12187.
+
+Forsteretal.BMCBiology (2015) 13:16 Page15of16
+26. SternRF,AndersenRA,JamesonI,KüpperFC,CoffrothMA,VaulotD,etal. 51. OrsiW,SongYC,HallamS,EdgcombV.Effectofoxygenminimumzone
+Evaluatingtheribosomalinternaltranscribedspacer(ITS)asacandidate formationoncommunitiesofmarineprotists.ISMEJ.2012;6:1586–601.
+dinoflagellateBarcodemarker.PLoSOne.2012;7:e42780. 52. DolanJR,LandryMR,RitchieME.Thespecies-richassemblagesoftintinnids
+27. SchochCL,SeifertKA,HuhndorfS,RobertV,SpougeJL,LevesqueCA, (marineplanktonicprotists)arestructuredbymouthsize.ISMEJ.
+etal.Nuclearribosomalinternaltranscribedspacer(ITS)regionasa 2013;7:1237–43.
+universalDNAbarcodemarkerforFungi.ProcNatlAcadSciUSA. 53. DolanJR,PierceRW.DiversityanddistributionsofTintinnids.In:DolanJR,
+2012;109:6241–6. MontagnesDJ,AgathaS,CoatsDW,StoeckerDK,editors.Thebiologyand
+28. HuseSM,DethlefsenL,HuberJA,WelchDM,RelmanDA,SoginML. ecologyofTintinnidciliates:modelsformarineplankton.1sted.Hoboken:
+ExploringmicrobialdiversityandtaxonomyusingSSUrRNAhypervariable Wiley-Blackwell;2013.p.214–43.
+tagsequencing.PLoSGenet.2008;4:e1000255. 54. JunkerB,SchreiberF.Analysisofbiologicalnetworks.Hoboken:JohnWiley
+29. BatesST,Berg-LyonsD,CaporasoJG,WaltersWA,KnightR,FiererN.Examining &Sons;2008.
+theglobaldistributionofdominantarchaealpopulationsinsoil.ISMEJ. 55. ErdõsP,RényiA.Ontheevolutionofrandomgraphs.PublMathInstHung
+2010;5:908–17. AcadSci.1960;5:17–61.
+30. Alvarez-PonceD,LopezP,BaptesteE,McInerneyJO.Genesimilarity 56. NewmanME.Ameasureofbetweennesscentralitybasedonrandomwalks.
+networksprovidetoolsforunderstandingeukaryoteoriginsandevolution. SocNetw.2005;27:39–54.
+ProcNatlAcadSciUSA.2013;110:1594–603. 57. Pedrós-AlióC.Marinemicrobialdiversity:canitbedetermined.Trends
+31. Bapteste E, Lopez P, Bouchard F, Baquero F, McInerney JO, Burian Microbiol.2006;14:257–63.
+RM. Evolutionary analyses of non-genealogical bonds produced 58. DunthornM,StoeckT,ClampJ,WarrenA,MahéF.Ciliatesandtherare
+by introgressive descent. Proc Natl Acad Sci U S A. biosphere:areview.JEukMicrobiol.2014;61:404–9.
+2012;109:18266–72. 59. Figshare.http://figshare.com.
+32. BaptesteE,BicepC,LopezP.Evolutionofgeneticdiversityusingnetworks: 60. Novelciliatediversitysequences(DNA).http://dx.doi.org/10.6084/m9.
+thehumangutmicrobiomeasacasestudy.ClinMicrobiolInfect. figshare.1266267.
+2012;18:40–3. 61. Novelciliatediversitysequences(cDNA).http://dx.doi.org/10.6084/m9.
+33. BaptesteE,vanIerselL,JankeA,KelchnerS,KelkS,McInerneyJO,etal. figshare.1266266.
+Networks:expandingevolutionarythinking.TrendsGenet.2013;29:439–41. 62. JeonS,BungeJ,LeslinC,StoeckT,HongS,EpsteinS.EnvironmentalrRNA
+34. BittnerL,HalaryS,PayriC,CruaudC,deReviersB,LopezP,etal.Some inventoriesmissoverhalfofprotistandiversity.BMCMicrobiol.2008;8:222.
+considerationsforanalyzingbiodiversityusingintegrativemetagenomics 63. MakinoK,UnoT.Newalgorithmsforenumeratingallmaximalcliques.In:
+andgenenetworks.BiolDirect.2010;5:47. HagerupT,KatajainenJ,editors.Algorithmtheory-SWAT2004:8-10July
+35. LynchMD,BartramAK,NeufeldJD.Targetedrecoveryofnovel 2004;Humlebæk.Berlin,Heidelberg:SpringerVerlag;2004.p.260–72.
+phylogeneticdiversityfromnext-generationsequencedata.ISMEJ. 64. AgathaS.GlobaldiversityofaloricateOligotrichea(Protista,Ciliophora,
+2012;6:2067–77. Spirotricha)inmarineandbrackishseawater.PLoSOne.2011;6:e22466.
+36. FaustK,RaesJ.Microbialinteractions:fromnetworkstomodels.NatRev 65. DunthornM,StoeckT,WolfK,BreinerHW,FoissnerW.Diversityand
+Microbiol.2012;10:538–50. endemismofciliatesinhabitingneotropicalphytotelmata.SystBiodivers.
+37. ChaffronS,RehrauerH,PernthalerJ,vonMeringC.Aglobalnetworkof 2012;10:195–205.
+coexistingmicrobesfromenvironmentalandwhole-genomesequence 66. ForsterD,BehnkeA,StoeckT.Meta-analysesofenvironmentalsequence
+data.GenomeRes.2010;20:947–59. dataidentifyanoxiaandsalinityasparametersshapingciliatecommunities.
+38. AtkinsonHJ,MorrisJH,FerrinTE,BabbittPC.Usingsequencesimilarity SystBiodivers.2012;10:277–88.
+networksforvisualizationofrelationshipsacrossdiverseprotein 67. LozuponeCA,KnightR.Globalpatternsinbacterialdiversity.ProcNatlAcad
+superfamilies.PLoSOne.2009;4:e4345. SciUSA.2007;104:11436–40.
+39. DaganT,Artzy-RandrupY,MartinW.Modularnetworksandcumulative 68. RevsbechNP,SørensenJ,BlackburnH,LomholtJP.Distributionofoxygen
+impactoflateraltransferinprokaryotegenomeevolution.ProcNatlAcad inmarinesediments,measuredwithmicroelectrodes.LimnolOceanog.
+SciUSA.2008;105:10039–44. 1980;25:403–11.
+40. HalaryS,LeighJW,CheaibB,LopezP,BaptesteE.Networkanalyses 69. JenkinsDG,BrescacinCR,DuxburyCV,ElliottJA,EvansJA,GrablowKR,
+structuregeneticdiversityinindependentgeneticworlds.ProcNatlAcad etal.Doessizematterfordispersaldistance?GlobalEcolBiogeogr.
+SciUSA.2010;107:127–32. 2007;16:415–25.
+41. JachietPA,PogorelcnikR,BerryA,LopezP,BaptesteE.MosaicFinder: 70. PapkeRT,WardDM.Theimportanceofphysicalisolationtomicrobial
+identificationoffusedgenefamiliesinsequencesimilaritynetworks. diversification.FEMSMicrobiolEcol.2004;48:293–303.
+Bioinformatics.2013;29:837–44. 71. FiererN.Microbialbiogeography:patternsinmicrobialdiversityacross
+42. MediniD,CovacciA,DonatiC.Proteinhomologynetworkfamiliesreveal spaceandtime.In:ZenglerK,editor.Accessinguncultivated
+step-wisediversificationofTypeIIIandTypeIVsecretionsystems.PLoS microorganisms:fromtheenvironmenttoorganismsandgenomesand
+CompBiol.2006;2:e173. back.WashingtonDC:ASMPress;2008.p.95–115.
+43. SongN,JosephJM,DavisGB,DurandD.Sequencesimilaritynetwork 72. GibbonsSM,CaporasoJG,PirrungM,FieldD,KnightR,GilbertJA.Evidence
+revealscommonancestryofmultidomainproteins.PLoSCompBiol. forapersistentmicrobialseedbankthroughouttheglobalocean.ProcNatl
+2008;4:e1000063. AcadSciUSA.2013;110:4651–5.
+44. BergerSA,KrompassD,StamatakisA.Performance,accuracyandwebserver 73. JørgensenBB,BoetiusA.Feastandfamine-microbiallifeinthedeep-sea
+evolutionaryplacementofshortsequencereadsundermaximum bed.NatRevMicrobiol.2007;5:770–81.
+likelihood.SystBiol.2011;60:291–302. 74. AzovskyA,MazeiY.Domicrobeshavemacroecology?Large‐scalepatterns
+45. MatsenFA,KodnerRB,ArmbrustEV.pplacer:lineartimemaximum-likelihood inthediversityanddistributionofmarinebenthicciliates.GlobalEcol
+andBayesianphylogeneticplacementofsequencesontoafixedreference Biogeogr.2013;22:163–72.
+tree.BMCBioinformatics.2010;11:538. 75. ScheckenbachF,HausmannK,WylezichC,WeitereM,ArndtH.Large-scale
+46. BlondelVD,GuillaumeJL,LambiotteR,LefebvreE.Fastunfoldingof patternsinbiodiversityofmicrobialeukaryotesfromtheabyssalseafloor.
+communitiesinlargenetworks.JStatMech.2008;10:P10008. ProcNatlAcadSciUSA.2010;107:115–20.
+47. NewmanME.Mixingpatternsinnetworks.PhysRevEStatNonlinSoft 76. LomolinoMV,RiddleBR,BrownJH.Biogeography.3rded.Sunderland:
+MatterPhys.2003;67:026126. SinauerAssociates,Inc;2006.
+48. BiodiversityofMarineEukaryotes.http://biomarks.eu. 77. V4ciliatesequencedataset.http://dx.doi.org/10.6084/m9.figshare.1263932.
+49. EdgcombV,OrsiW,BungeJ,JeonS,ChristenR,LeslinC,etal.Protistan 78. SupportinginformationtoV4ciliatesequencesdataset.http://dx.doi.org/
+microbialobservatoryintheCariacoBasin:CaribbeanIPyrosequencingvs 10.6084/m9.figshare.1264009.
+Sangerinsightsintospeciesrichness.ISMEJ.2011;5:1344–56. 79. Manualfordepositedfiles.http://dx.doi.org/10.6084/m9.figshare.1264013.
+50. OrsiW,EdgcombV,JeonS,LeslinC,BungeJ,TaylorGT,etal.Protistan 80. HalaryS,McInerneyJO,LopezP,BaptesteE.EGN:awizardforconstruction
+microbialobservatoryintheCariacoBasin:CaribbeanIIHabitat ofgeneandgenomesimilaritynetworks.BMCEvolBiol.2013;13:146.
+specialization.ISMEJ.2011;5:1357–73. 81. Networkanalysesinputfile.http://dx.doi.org/10.6084/m9.figshare.1263925.
+
+Forsteretal.BMCBiology (2015) 13:16 Page16of16
+82. BastianM,HeymannS,JacomyM.Gephi:anopensourcesoftwarefor
+exploringandmanipulatingnetworks.ICWSM.2009;8:361–2.
+http://gephi.github.io/.
+83. CsárdiG,NepuszT.Theigraphsoftwarepackageforcomplexnetwork
+research.InterJournalComplexSystems.2006;1695:1–9.
+84. TheRprojectforstatisticalcomputing.http://R-project.org.
+85. SimpsonEH.Measurementofdiversity.Nature.1949;163:688.
+Submit your next manuscript to BioMed Central
+and take full advantage of:
+• Convenient online submission
+• Thorough peer review
+• No space constraints or color figure charges
+• Immediate publication on acceptance
+• Inclusion in PubMed, CAS, Scopus and Google Scholar
+• Research which is freely available for redistribution
+Submit your manuscript at
+www.biomedcentral.com/submit
+

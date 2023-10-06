@@ -1,0 +1,816 @@
+AQUATIC MICROBIAL ECOLOGY
+Vol. 22: 43–56, 2000 Published July 21
+AquatMicrob Ecol
+Ecological role and bacterial grazing of
+Halteria spp.: small freshwater oligotrichs
+as dominant pelagic ciliate bacterivores
+Karel Sˇimek1,2,*, Klaus Jürgens3, Jirˇí Nedoma1, Marta Comerma4, Joan Armengol4
+1Hydrobiological Institute of the Academy of Sciences of the Czech Republic, and 2Faculty of Biological Sciences,
+University of South Bohemia, Na sádkách 7, 37005 Cˇeské Budeˇjovice, Czech Republic
+3Max Planck Institute of Limnology, PO Box 165, 24302 Plön, Germany
+4Department of Ecology, University of Barcelona, Av. Diagonal 645, 08028 Barcelona, Spain
+ABSTRACT: We conducted extensive studies on bacterivory and bacterial production over several
+seasons in 2 reservoirs: the meso-eutrophic Rˇímov Reservoir in the Czech Republic and the highly eu-
+trophic Sau Reservoir in Spain. Based on abundance, seasonal dynamics, and cell-specific uptake
+rates of different ciliate taxa, as well as heterotrophic nanoflagellate bacterivory, we were able to
+quantify bacterivory by individual ciliate species, total ciliates, and aggregated protists in these sys-
+tems. With increasing trophic status, a higher portion of bacterial production was consumed by pro-
+tists, and there was a greater importance of ciliate grazing, accounting for 40 and 50% of the total
+protistan bacterivory in the epilimnion of the Rˇímov and Sau reservoirs, respectively. Increases were
+attributable to the oligotrichs of the genus Halteria that often numerically dominate freshwater
+pelagic ciliate communities. In both reservoirs, the most important ciliate bacterivores in order of im-
+portance were: oligotrichs, primarily the bacterivorous Halteria spp., peritrichs, and scuticociliates.
+We also examined food vacuole content in natural populations of Halteriaspp.to estimate the propor-
+tion of cells that had ingested algae. Our results and a review of previous reports on the abundance of
+Halteriaspp. suggest that small halteriids are ecologically important bacterial consumers in meso- to
+eutrophic freshwater systems due to: (1) efficient uptake of prey over a large size spectrum (approxi-
+mately 0.4 to 5 µm), (2) high clearance rates on picoplankton-sized particles along with (3) high
+potential growth rate, and (4) lower vulnerability to metazooplankton predation compared to other
+common pelagic ciliates. Correspondingly, we suggest a revised concept of planktonic ciliate bacteri-
+vory, where the principal role is attributed to small omnivorous filter-feeding oligotrichous ciliates.
+KEY WORDS: Halteria cf. grandinella · Oligotrichous ciliates · Feeding rates · Feeding ecology ·
+Ciliatebacterivory · Reservoirs · Lakes
+Resale or republication not permitted without written consent of the publisher
+INTRODUCTION ciliates (mainly scuticociliates). However, recent stud-
+ies of temperate meso- and eutrophic lakes have
+Abundance and biomass of planktonic ciliates are shown that pelagic ciliate communities are often dom-
+related to lake trophic status, as measured by chloro- inated by small (<30 µm) species, mainly oligotrichs
+phyll a concentrations (e.g., Beaver & Crisman 1989, and prostomatids (e.g., Müller 1989, Macek et al.
+Müller 1989, Carrias et al. 1998). In a review paper, 1996), while scuticociliates, haptorids, and peritrichs
+Beaver & Crisman (1989) concluded that taxonomic are usually less numerous.
+replacements occur with increasing eutrophication Small heterotrophic nanoflagellates have been
+such that large-bodied forms (predominantly oligo- reported as the major consumers of bacterioplankton
+trichs) are progressively replaced by smaller-bodied production in most aquatic systems (e.g., Fenchel 1982,
+Güde 1986, Sanders et al. 1989). However, there is in-
+*E-mail: ksimek@hbu.cas.cz creasing evidence that ciliates can also significantly
+© Inter-Research 2000
+
+44 AquatMicrob Ecol 22: 43–56, 2000
+contribute to total protistan bacterivory (e.g., Sherr & the rate of ingestion and digestion of typical food items
+Sherr 1987, Sˇimek et al. 1995, 1998a). Studies of taxon- (Jürgens & Simek 2000, in this issue), we tried to eluci-
+specific bacterivory have shown that among pelagic date the most important factors affecting abundance,
+ciliates the most important consumers of bacterio- growth rate, feeding ecology, and carbon require-
+plankton production in both marine and freshwaters ments of this apparently common and important ciliate
+are often small oligotrichs (Sherr & Sherr 1987, San- species.
+ders et al. 1989, Sˇimek et al. 1995, 1996, Stabell 1996,
+Hwang & Heath 1997a, Thouvenot et al. 1999), rather
+than bacterivorous species such as scuticociliates, MATERIALS AND METHODS
+which usually require bacterial concentrations higher
+than those found in most pelagic environments (e.g., Sampling.We conducted studies in 2 dam reservoirs,
+Fenchel 1980). Such high bacterial abundances are the meso-eutrophic Rˇímov Reservoir and the eutrophic
+found in hypertrophic systems which can support large Sau Reservoir. In the Rˇímov Reservoir (South Bohemia,
+populations of scuticociliates (mostly of the genera Czech Republic, for more details see Sˇimek et al.
+Cyclidium and Uronema, e.g., Nakano et al. 1998) or in 1995), the sampling site was located above the former
+specific environments, such as the chemocline, oxy- river valley (a 30 m depth) close to the reservoir dam.
+cline, etc. (Fenchel et al. 1990). Only occasionally are Samples were collected from the epilimnion (a mixed
+small scuticociliates, e.g., Cyclidium spp., found to be sample from 1 ± 0.5 m depth) and the metalimnion (a
+important bacterivores in the pelagial of meso- and mixed sample from the thermocline ± 0.5 m) of the
+eutrophic systems, probably due to micropatches such reservoir at 2 to 3 d intervals from August through
+as organic aggregates that have high bacterial densi- September 1993 (see Sˇimek et al. 1995). Additional
+ties (Sˇimek et al. 1995, 1998b). samples were collected from the surface layer (1 m
+Among small oligotrichs, the genus Halteria, most depth) during a Halteria peak at the beginning of
+probably the species H. grandinella, has been identi- October 1994. In 1997, samples were collected from
+fied as an abundant bacterial consumer in several the surface layer (1 m depth) at 3 to 6 d intervals dur-
+meso- and eutrophic lakes and ponds (Sanders et al. ing the spring bloom period (late April-May) and clear
+1989, Sˇimek et al. 1995, 1998a, Stabell 1996, Nakano water phase (June) and sampled at 1 to 3 wk intervals
+et al. 1998). This species has also been studied with over the rest of the study period.
+respect to taxonomy (e.g., Tamar 1990, Foissner 1994), The eutrophic Sau Reservoir is an 18.5 km long,
+feeding ecology (Jürgens et al. 1996), and vulnerability canyon-type reservoir located in the middle stretch of
+to metazooplankton predation (e.g., Tamar 1979, Gil- the River Ter (Catalonia, NE Spain, for a detailed
+bert 1994, Wiackowski et al. 1994a). Recently it has description see Vidal & Om 1993). The reservoir was
+been reported that the genus Halteriasensu lato com- sampled during the period of summer stratification in
+prises several rather similar species. H. grandinella June-July 1996; samples were collected from 0.5 and
+Müller is likely the most important species, but H. 2· the Secchi depth from 2 stations located about 1.5 and
+bifurcata Tamar and Pelagohalteria cirrifera Kahl are 3 km from the reservoir dam. During 1997, water sam-
+quite similar (summary of taxonomic information in ples were collected in 2 intensive sampling campaigns
+Foissner et al. 1999) and cannot always be routinely consisting of 9 points (all ~1.8 km apart; for details see
+differentiated in quantitative examinations, as silver Armengol et al. 1999) along the longitudinal axes of
+impregnations are necessary to examine the somatic the reservoir: in April, when the temperature of the
+ciliature. Thus, since the latter 2 species have been river inflow was the same as that of the epilimnetic
+recently found in various European lakes (Foissner reservoir water (~16°C,) and in July, with well-devel-
+pers. comm.), and with respect to the fact that they oped water stratification (for details see Comerma et
+probably cannot be differentiated in quantitative stud- al. in press). In both cases mixed water samples from
+ies, we pooled these halteriids together and used the the top 3 m were collected.
+term ‘Halteria’throughout this paper, being aware that Bacterial abundance, biomass, and production.
+it might contain heterotrophic species of the 2 genera Subsamples were fixed with formaldehyde (2% final
+Halteriaand Pelagohalteria. concentration), stained with DAPI (final concentration
+Here we report on abundance, seasonal and spatial 0.2% wt/vol) and enumerated by epifluorescence
+dynamics, and cell-specific uptake rates of Halteria, as microscopy (Olympus BH2 or BX60). Between 400 and
+well as the contributions of different ciliate taxa to total 600 DAPI-stained bacterial cells were recorded at a
+protistan bacterivory in 2 systems. By combining re- magnification of 1250· using an analog monochrome
+cent and some previously published field data (Sˇimek LCD camera (Cohu) mounted to the Olympus BX60
+et al. 1995) on uptake rates and food vacuole content, microscope. The recorded bacterial cells were then
+with additional laboratory experiments for estimating processed with the semiautomatic image analysis
+
+Sˇimek et al.: Bacterivory of Halteriaspp. 45
+system LUCIA D (LUCIA 3.52, resolution 750 · 520 the filters via epifluorescence microscopy (Sˇimek et al.
+pixels, 256 grey-levels, Laboratory Imaging, Prague, 1995, 1997). Up to 200 HNF and 50 to 100 ciliates were
+Czech Republic, http://www.lim.cz). Cell area and cell inspected at randomly selected microscopic fields at
+perimeter were chosen as the most reliable parameters each time point. Non-pigmented, HNF and plastidic
+of pixel measurements. Details of the image processing flagellates were always differentiated. Ciliate uptake
+(grey transformation, edge finding) are described in rates as FLB cell–1were estimated at 3, 6, and 10 min,
+Posch et al. (1997). or alternatively at 5, 10, and 15 min exposure. HNF
+Bacterial production was measured by [3H]-thymi- uptake rates were estimated at 10, 20, and 30 min, or
+dine incorporation using the method modified from alternatively at 20, 40, and 60 min; the longer times
+Riemann & Søndergaard (1986); for details, see Sˇimek were used during cold water periods. Samples from
+et al. (1995). For different sampling periods (see time zero were also inspected to avoid potential bias of
+above), corresponding empirical conversion factors our data due to attachment of non-ingested tracers on
+(ECF) of thymidine incorporation rate to bacterial cell protozoan surfaces. Uptake rates were calculated by
+production were determined by incubating replicate linear regression of average number of tracers per pro-
+750 ml subsamples of 1.0 µm filtered water for 24 h at tozoan cell versus time. To estimate total protistan
+in situtemperature (see Sˇimek et al. 1995, 1999). In the grazing rate, average grazing rates of HNF and ciliates
+present study, we applied the following ECF: 2.27 to were multiplied by their total in situ abundances.
+2.74, 3.0, and 1.75 · 1018cells mol–1of thymidine incor- Community structure of ciliates. Ciliate community
+porated for the Rˇímov Reservoir in 1993, 1994, and structure was evaluated by combining: (1) DAPI-
+1997, respectively, and 4.7 · 1018cells mol–1for the Sau stained samples in epifluorescence microscopy, (2) live
+Reservoir in April 1997. A theoretical conversion factor sample observation, and (3) protargol staining (for de-
+of 2 · 1018cells mol–1was applied to the Sau Reservoir tails see Macek et al. 1996). For more details of the
+data in July 1997. above approaches and criteria used for grouping cili-
+Protistan grazing and abundance. To measure pro- ates into different taxonomic categories, see Sˇimek et
+tistan grazing on bacterioplankton, we used fluores- al. (1995; and references therein). The taxonomy of
+cently labelled bacterioplankton (FLB) prepared accor- oligotrichous ciliates is undergoing revision and we
+ding to Sherr & Sherr (1993), as slightly modified by based our identifications on the publications of Foiss-
+Sˇimek & Strasˇkrabová (1992). Bacterioplankton from ner et al. (1991, 1999), Foissner (1994), and Foissner &
+the reservoirs was concentrated on 0.2 µm pore-size Berger (1996) and detailed references therein.
+filters after pre-filtration through 2 µm pore-size filters Field data—Halteria tracer ingestion and food
+(Poretics). Bacterial cells were detached from the filter vacuole content. During the examination for FLB up-
+surface by several sonication pulses and fluorescently take, the ciliates with ingested tracers were tentatively
+labelled in ~30 ml of a staining solution. This small identified, which in the case of Halteria was possible
+modification minimized the loss of very small cells, using cell size, shape and size of nuclei, and the
+resulting in a good fit of size distributions of bacterio- arrangement of FLB in food vacuoles. Only hetero-
+plankton and FLB. Heterotrophic nanoflagellate (HNF) trophic halteriid species were considered, thus exclud-
+and ciliate FLB uptake rates were determined using ing for example the mixotrophic Pelagohalteriaviridis.
+500 ml samples for short-term FLB direct uptake Each individual of unambiguously identified Halteria
+experiments with tracer amounts of FLB (5 to 17% of (the taxon identifications were confirmed in protargol-
+natural bacterial concentration). In cases where small stained impregnations) was measured with an ocular
+oligotrichs were abundant, we used a separate treat- micrometer in a fluorescence microscope, numbers of
+ment for the ciliates where FLB tracers amounted to ingested FLB were counted, and the food vacuole con-
+<5% of bacterial abundance. Subsamples of 30 to tent was also inspected for uptake of natural phyto-
+50ml were taken at 0, 3, 6, 10, 20, and 30 min, or 0, 5, plankton based on autofluorescence of chlorophyll.
+10, 15, 20, 40, and 60 min after tracer addition and Ingested algae or cyanobacteria were measured with
+fixed by 0.5% of alkaline Lugol’s solution, immediately an ocular micrometer and recorded as either pico-
+followed by 2% borate-buffered formaldehyde (final (<2 µm) or nano-sized (>2 to <20 µm) phytoplankton
+concentration) and several drops of 3% sodium thio- prey. Thus each individual ciliate was characterized by
+sulphate to clear the Lugol’s color. This preservation its cell volume (calculated by approximation to prolate
+technique is recommended to prevent egestion of food spheroid), uptake rate of bacteria under in situ temp-
+particles by HNF (Sherr & Sherr1993). Within 3 d after erature, and presence (enumerated and sized) or ab-
+fixation, 5 to 15 ml (flagellates) or 20 to 30 ml (ciliates) sence of phytoplankton prey in food vacuoles.
+subsamples were stained with DAPI, filtered through 1 A total of 879 individuals of Halteria from grazing
+(HNF) or 2 µm (ciliates) black polycarbonate filters experiments were inspected in both reservoirs at dif-
+(Poretics), and the protozoa inspected and counted on ferent periods or seasons as specified below. From the
+
+46 AquatMicrob Ecol 22: 43–56, 2000
+Rˇímov Reservoir, 585 individuals of Halteria were ex-
+amined with 235 cells from the epi- and metalimnion of
+the reservoir during August-September 1993, 125 epi-
+limnetic specimens from October 1994, and 225 epilim-
+netic individuals from April through October 1997.
+From the Sau Reservoir, a total of 294 individuals from
+the epilimnetic populations of Halteria were inspected
+during 3 periods: 86 cells from July 1996, and 113 and
+95 individuals from the longitudinal sampling cam-
+paigns in April and July 1997, respectively.
+Halteria—calculated doubling time based on pico-
+planktivory.Potential doubling times were calculated
+based on the estimated amount of bacterial carbon
+consumed, and in a 1993 subset of data from the Rˇímov
+Reservoir, the amount of carbon consumed as auto-
+trophic picoplankton (APP) as well. The amount of car-
+bon ingested by individual ciliates was calculated from
+grazing rates multiplied by the amount of organic car-
+bon per food particle (bacteria and/or APP; for details
+of APP see Sˇimek et al. 1996). Cell volumes of ciliates
+and those of their ingested picoplankton prey were
+transformed to carbon using the following conversion
+factors (in fg C µm–3): ciliates, 140, recommended for
+formaldehyde-fixed samples (Putt & Stoecker 1989);
+bacteria, 231 and 192 (calculated according to Norland
+[1993], corresponding to the mean cell volumes of bac-
+teria in both study sites, i.e., 0.062 and 0.105 µm3in the
+Rˇímov and Sau reservoirs, respectively); and pico-
+cyanobacteria, 200 (Weisse 1993). The mean cell vol-
+umes of bacteria used were based on 52 (Rˇímov) and Fig. 1. Three examples of the frequency distribution of FLB
+22 (Sau) bacterial size determinations (always >400 uptake data of Halteria spp. representing samples with the
+highest abundance and number of ciliate individuals in-
+bacterial cells measured per sample) conducted along
+spected. (A,B) The Sau Reservoir, 16 April 1997 and 10 July
+with the measurement of uptake rates of Halteria on 1996, water temperature 16°C and 23.2°C, respectively;
+bacteria. To convert the carbon data into potential dou- (C)The Rˇímov Reservoir, 4 October 1994, water temperature
+bling times of the ciliates, we used 35% gross growth 14°C. Each panel shows the corresponding parameters of
+efficiency for bacterivorous ciliates (see Sˇimek et al. mean uptake rate (fluorescently labelled bacteria [FLB] per
+cell ±SD), number (n) of individuals inspected, tracer amount
+1996, and references therein).
+of FLB added, and time of incubation of the sample
+RESULTS mean uptake rate per ciliate for calculating total ciliate
+grazing rate.
+In most cases, the mean uptake rates were between To illustrate the importance of Halteria, and of total
+6 and 20 FLB per Halteria cell during 5 to 10 min expo- ciliates, as bacterial consumers in the different meso-
+sure to a tracer concentration that was typically <10% and eutrophic systems, we present details of 2 data sets
+of bacterial concentration. The distributions of the (Figs. 2 & 3) out of the entire database, which is summa-
+uptake data were not significantly different from a nor- rized in Fig. 4. Fig. 2 shows the seasonal development
+mal distribution of prey item per ciliate. Fig. 1 shows 3 of selected microbial parameters in the Rˇímov Reservoir
+examples from dates when the highest number of the in 1997. Between April and October, 1 conspicuous
+ciliate individuals was inspected in samples collected peak and 2 less remarkable increases of ciliate abun-
+from the same locality. In each example, the data dis- dance occurred, i.e., 102, 45, and 41 ciliates ml–1, in the
+tribution was not significantly different from a normal middle of May, July, and September, respectively. In
+distribution and, except for the data set from October general, they occurred with or just after peaks of bacte-
+1994, it differed significantly from a Poisson distri- rial and HNF abundances, which varied from 2.23 to
+bution (Kolmogorov-Smirnov test, p > 0.5). Thus, with 6.32 · 106bacteria ml–1and 0.44 to 2.92 · 103HNF ml–1,
+regard to the typical data distribution, we used the respectively (data not shown) over the study period.
+
+Sˇimek et al.: Bacterivory of Halteriaspp. 47
+Grazing rates of HNF ranged from 5 to 31 bacteria
+HNF–1h–1(mean ±SD, 14.4 ±6.4 bacteria HNF–1h–1),
+with the lowest values at the cold water period inApril.
+Separately, we enumerated unambiguously identifi-
+able individuals of the group Halteria. Their numbers
+ranged from <1 cell ml–1in early April to 55cells ml–1in
+the middle of May (Fig. 2A) and temporal changes par-
+alleled shifts in total ciliate abundance.
+Bacterial production (BP) showed 2 apparent max-
+ima, in the middle of May and in early August (Fig.2B),
+i.e., shortly after the spring phytoplankton peak, and
+coinciding with the summer phytoplankton peak, re-
+spectively (data not shown). Minima of BP were ob-
+served at the beginning of April (before stratification)
+and during the transient stage between the clear water
+phase (with the minimum chlorophyll a concentration
+of 4 µg l–1in early June) and the onset of the summer
+phytoplankton peak by the end of June. On average,
+58% of BP was consumed by total protozoa, with
+slightly more important ciliate bacterivory (32%) com-
+pared to that of HNF (26% of the total BP grazed). On a
+seasonal basis, however, there were significant differ-
+ences in absolute and relative values of the bacterial
+loss rate due to protistan bacterivory. During the late
+April-early May period and the clear water phase (first
+half of June), protistan bacterivory was generally low
+and removed only a small proportion of BP (<25%).
+However, protistan bacterivory almost balanced BP for
+most of May and the late summer-early fall period.
+Grazing of Halteria alone accounted for, on average,
+54% of total ciliate bacterivory; thus, changes in total Fig. 2. The Rˇímov Reservoir, April to October 1997. (A) Total cil-
+iate abundance and abundance of Halteria, (B) bacterial pro-
+protozoan grazing rate were tightly correlated with the
+duction and total protistan bacterivory divided into hetero-
+abundance of Halteria (r2 = 0.789, n = 17, p < 0.001). trophic flagellate (HNF) and ciliate grazing, and (C) the role of
+Fig. 2C clearly documents, except for a few data different ciliate taxa in total ciliate bacterivory. Note that the
+points, the dominating role of Halteria and of other group ‘oligotrichs’ represents the aggregated bacterivory of all
+oligotrichous ciliates compared to the bacterivory of Halteria
+oligotrichs in ciliate bacterivory. This holds especially
+spp. only, and the group ‘others’ was dominated by grazing
+true for the June period when only 2 small oligotrichs,
+activity of peritrichous ciliates (for details see text)
+Halteria (Fig. 2C) and the closely related mixotrophic
+Pelagohalteria viridis (data not shown), ingested bac-
+teria, with the latter species shortly dominating ciliate river water with a high allochthonous bacterial bio-
+bacterivory. Oligotrichs dominated bacterivory in 14 mass and production (see Fig. 3B). Bacterial densities
+out of 17 assays. In the remaining 3 samples, the most declined from 16 · 106cells ml–1at the river to <5 · 106
+important group, designated as ‘others’ (see Fig. 2C), cells ml–1 downstream (Stn 1); HNF numbers ranged
+was largely peritrichs, dominated by the genera Vorti- from ~2 to 5 · 103HNF ml–1, except for a conspicuous
+cella, Epistylis, Carchesium,and by some unidentified peak abundance (22 · 103 HNF ml–1) at Stn 7. HNF
+species attached to zooplankton (data not shown). grazing rates ranged from 12 to 67 bacteria HNF–1h–1
+Uptake of bacteria by these forms accounted for most (mean ± SD, 24.1 ± 17.1 bacteria HNF–1 h–1), with the
+of the ciliate bacterivory in the samples from April and highest values at Stn 7 along with a peak of large
+October. Bacterivory by scuticociliates, especially of chrysomonads (see Sˇimek et al. 1998a). Total ciliate
+Cyclidium spp., while detectable in about half of the and Halteria numbers showed a similar pattern with
+plankton samples (Fig. 2C), was never quantitatively minima at the river inflow and close to the reservoir
+important (<15%). dam (Stn 1) and sharp maxima of 144 and 105 cells
+Fig. 3 shows changes in selected microbial parame- ml–1, respectively, at Stn 4 (Fig. 3A).
+ters in April 1997 along the longitudinal axis of the Sau There was a negligible grazing impact of protists on
+Reservoir, which is supplied with organically loaded the extremely high production of the allochthonous
+
+48 AquatMicrob Ecol 22: 43–56, 2000
+bacterial populations brought by the river to the reser- important in total ciliate bacterivory in the upper,
+voir (‘river’ and Stn 8, Fig. 3B). However, downstream, inflow parts of the reservoir. However, due to their
+at Stn 7, there was a distinct HNF peak, corresponding generally low abundance, their contribution to total
+to HNF bacterivory that was roughly double the rate of bacterial loss rate caused by ciliates was small (always
+BP. However, from Stn 6 downstream to Stn 2, ciliates <24%; cf. Fig. 3A,C).
+clearly dominated bacterivory. Halteria consumed the We summarized all our published and unpublished
+bulk of BP at Stns 6, 4, and 3 and slightly less at Stn 2, results from both reservoirs where bacterivory of total
+and contributed about equally with the ciliate group HNF and ciliates, as well as individual ciliate taxa,
+‘others’ to total bacterivory at Stn 5 (Fig. 3B,C). Among were analyzed to illustrate the overall importance of
+other oligotrichs ingesting FLB, we observed mainly Halteria as a bacterial consumer (Fig. 4). This summary
+small strobiliids. The ciliate group ‘others’ was domi- of protistan bacterivory in the epilimnetic waters was
+nated by bacterivory of the peritrich genera of Vorti- based on the average values, representing 52 analyses
+cella and Epistylis (data not shown). Scuticociliates conducted in the Rˇímov Reservoir: 32 in 1993 (Sˇimek et
+(i.e., the genera Cyclidium and Uronena) were more al. 1995), 3 in 1994, and 17 in 1997 (see Fig. 2). From
+the Sau Reservoir we analyzed 22 samples: 4 in 1996
+and 18 in 1997 split into two 9-sample subsets from the
+2 longitudinal sampling campaigns. On average, HNF
+and ciliates together consumed a total of 65 and 75%,
+and Halteria alone 13 and 22% of total BPin the epil-
+imnion of the Rˇímov and Sau reservoirs, respectively
+(Fig. 4). While in the meso-eutrophic Rˇímov Reservoir
+HNF populations contributed on average 60% and cil-
+Fig. 4.(A) Overall averages (of n measurements) of the pro-
+portions of bacterial production grazed by all protozoans (the
+Fig. 3. An example of the longitudinal transects through the full size of the bars), grazed by HNF and ciliates separately,
+Sau reservoir, April 1997. (A) Total ciliate abundance and and grazed only by Halteriain the Rˇímov (data from seasons
+abundance of Halteria, (B) bacterial production and total pro- 1993, 1994 and 1997) and Sau reservoirs (data from June
+tistan bacterivory divided into HNF and ciliate grazing, and 1996 to July 1997). (B) Overall averages of the role of differ-
+(C) the role of different ciliate taxa in total ciliate bacterivory. ent ciliate taxa in total ciliate bacterivory. For other explana-
+For other explanations see Fig. 2 tions see Fig. 2
+
+Sˇimek et al.: Bacterivory of Halteriaspp. 49
+iates 40% of the total protistan grazing, in the Sau detaluclac -noc
+Reservoir, their contributions to total protistan bac- )setailic
+terivory were approximately equal. Plastidic flagel- nobrac ni
+ayroviglA derusaem
+lates were not important bacterivores in either reser-
+erew latot 5.9 2 8
+voir, as they consumed <1% of BP (data not shown). gnidnopserroc
+The 4 major groups of ciliates we distinguished fo
+)µ(
+showed different, but for the respective group in both %( erew
+setar
+systems similar, contributions to the total ciliate bac-
+terivory (Fig. 4). Oligotrichs clearly dominated with µ )1–d( 94.0 47.0 01.1 airetcabonaycocip
+htworG
+63and 68%, mainly due to bacterivory of Halteria ac- dna
+detcepsni
+counting for 49 and 59% of the total ciliate bacterivory semulov )1–h1–etailic
+in the Rˇímov and Sau reservoirs, respectively. The con- .sriovreser setar
+onaycp
+tributions of scuticociliates were within the range of 5 to
+8%, but ‘others’, mainly peritrich ciliates (Vorticalla, llec slaudividni gnizarG naeM )DS( – 012 )96( –
+Epistylis, and Carchesium), significantly contributed no onaycp( dna
+uaS naem
+(~30%) to ciliate bacterivory in both reservoirs. airetcab
+The important role of Halteria in bacterivory was not dna
+rof(
+fo
+only a result of the frequent numerical dominance of
+halteriids in our studies (e.g., Figs. 2A & 3A), but also of vomíRˇ )onaycp( rebmun egnaR 6241–92 7862–0 htob
+its very high bacterial consumption rates. Table 1 –
+eht etar )1–h1–.dni no
+shows mean, median and ranges of values of the ciliate :n
+airetcabonaycocip setar
+cell volumes, and grazing and clearance rates. Since morf .ycneiciffe ecnaraelC naideM
+the parameters of the populations of Halteria from both snoitalupop 514 – 754 ekatpu
+reservoirs differed remarkably (see Table 1), we treated ln(
+the data set separately. Mean uptake rates and mean
+htworg
+cell volumes (±SD) of Halteria were: 1782 ± 864 and naeM )DS( 234 )222( 275 )504( nehw
+3220 ± 1920 bacteria cell–1 h–1, and 2497 ± 1025 and –
+1950 ± 860 µm3 in the Rˇímov and Sau reservoirs, re- rof dna ssorg ,)3991
+airetcab
+spectively (Table 1). We tested if there was a positive airetcab
+correlation between cell volume and grazing rate of the %53 0694–001 0694–001 rebmetpeS-tsuguA(
+airetcab egnaR 0288–0
+ciliate. There were significant, but rather weak, rela-
+tionships between cell volume and grazing rate of Hal- no fo a gnimussa )1–h1–etailic
+setar noitanibmoc mµ
+teria (r2= 0.086 and 0.118, n = 585 and 294, p < 0.001, in
+the Rˇímov and Sau reservoirs, respectively). Different gnizarg no setar naideM 3071 0131 0213 2>
+eaglautis
+water temperatures in the reservoirs could also influ-
+)’sdohtem airetcab(
+ence grazing rates of ciliates. To correct the potential gnizarG riovreseR
+effect of this factor, we normalized the grazing data to dna a ro
+the mean temperature at both study sites using Q = airetcab naeM )DS( 2871 )468( 0851 )0211( 0223 )0291( ni
+10 emulov
+2.5. However, there was no positive effect of this cor- dna detsegni
+vomíRˇ
+rection on the correlation between the cell volume of slairetaM‘
+Halteria and its grazing rate (r2 = 0.053, n = 585, p < llec ni
+0.001) in the Rˇímov Reservoir. Only the correlation of fo detsegni egnaR 0886–074 0566–074 0284–085 taht eht )5991
+the data from the Sau Reservoir became slightly closer scitsiretcarahc ees airetlaH slaudividni morf .la
+(r2= 0.162, n = 294, p < 0.001).
+For a rough estimate of doubling times of Halteria nobrac tnet atad te kemiSˇ
+fo naideM
+based exclusively on carbon from bacteria, the mean )3mµ( 8722 0772 0871
+emulov eht
+cell volumes of ciliates (Table 1) and of ingested cinagro etailic
+stneserper ees
+bacteria were transformed into carbon units (for details rojaM
+sliated
+see ‘Materials and methods’). Assuming a gross growth fo lleC naeM )DS( 7942 )5201( 0682 )0831( 0591 )068( eht
+efficiency of 35% and using our data on the mean up- .airetlaH sisab fo
+take rates (Table 1), the growth rate of Halteria would egatnecrePa tesbus rof(
+be 0.49 d–1 in the Rˇímov Reservoir and 1.10 d–1 in the eht riovreseR b532 lellarap
+585 492
+Sau Reservoir. During the 1993 study, we measured .1 no vomíRˇ sihTb
+grazing rates on bacteria and picocyanobacteria in the elbaT ylno = = uaS =
+n n n
+Rˇímov Reservoir (see Sˇimek et al. 1995). Estimating the
+
+50 AquatMicrob Ecol 22: 43–56, 2000
+doubling time of the ciliates based on carbon ingested iate grazing accounting for 40 and 50% of the total
+as both heterotrophic bacteria and picocyanobacteria protistan bacterivory in the Rˇímov and Sau reservoirs,
+yields a generation time of 0.74 d–1 (Table 1). Our in- respectively (Fig. 3). Several possible sources of over-
+spection of food vacuole content of Halteria (Table 1) and underestimates of the production and grazing data
+revealed that only a very small percentage of ciliate (for details see Sherr et al. 1989) could have influenced
+cells ingested phytoplankton other than picocyanobac- these conclusions. Specific details of our modified pro-
+teria, on average 9.5 (Rˇímov) and 8% (Sau). Almost all tocols for the FLB uptake measurements have been
+ingested algal preys (0 to 4 cells ciliate–1) were within a discussed in Sˇimek & Strasˇkrabová (1992) and Sˇimek
+size range of 2 to 4 µm, and algal prey >5 µm were not et al. (1995, see also Fig. 1). McManus & Ocubo (1991)
+found in food vacuoles of the ciliate. reported 3 major potential sources of error present in
+such surrogate experiments:
+(1) Ingestion is concentration dependent; thus, addi-
+DISCUSSION tion of surrogates may itself increase grazing. To mini-
+mize such an error, we kept FLB additions as low as
+The high protist-induced bacterial mortality in both possible within a rather narrow range, i.e., mostly
+reservoirs can be associated with a rather moderate below 15% (9 to 17%) in the case of HNF and below
+top-down control of protistan populations by metazoo- 10% (3.7 to 10%) in the case of ciliates, with the major-
+plankton. A common feature of both systems is that a ity of samples with oligotrichs receiving FLB additions
+pronounced grazing impact by cladocerans (mainly <5%. Hence, HNF uptake data, rather than the esti-
+Daphnia spp.) is usually limited to a short clear water mates for ciliates, could be more significantly over-
+phase in the Rˇímov and Sau reservoirs. In the Rˇímov estimated. (2) A linear approximation of uptake is
+Reservoir, there was a sharp decrease in total ciliates, assumed in short time uptake experiments. Our data
+Halteria, and HNF (data not shown) abundance during showed a near-linear increase of food particles per
+the clear water phase, June 1997 (Fig. 2). This phe- protozoan cell for both HNF and ciliates (see, e.g.,
+nomenon corresponded with marked seasonal maxima Fig.2 in Jürgens & Sˇimek 2000). (3) As shown for sev-
+of abundance and bacterivory of daphnids and has eral species of flagellates (McManus & Ocubo 1991),
+been previously reported for the reservoir (Sˇimek et al. the distribution of surrogates in grazers does not sup-
+1990) and some lakes (Pace et al. 1990, Jürgens 1994). port the idea of random encounter and ingestion, even
+The clear water phase also yielded a seasonal mini- for a uniform population of grazers. Thus, data on HNF
+mum of the role of protists in consuming BP (Fig. 2). In grazing seem to be prone to a larger statistical error
+general, 1997 (Fig. 2) was rather exceptional, as ciliate then those for ciliates, since at different tracer expo-
+grazing accounted for, on average, more than 50% of sure times there is a significant and varying proportion
+total protistan bacterivory. In contrast, during 1987 of HNF cells with no FLB ingested. It can also partly
+(Sˇimek et al. 1990) and 1988 (Sˇimek & Strasˇkrabová reflect the fact that HNF represent a mixed community
+1992) ciliate grazing exceeded HNF bacterivory only of a largely unknown taxonomic composition, or a
+during a late summer-fall period. In general, the in- community where only a few dominant bacterivorous
+creased importance of ciliates in total protistan bac- HNF could be tentatively identified (cf. Sˇimek et al.
+terivory (Fig. 2) was closely linked to seasonal changes 1997). Among typical bacterivorous HNF, we always
+in the abundanceofHalteria. included ‘non-responders’ (i.e., those HNF with zero
+In the Sau Reservoir (Fig. 3), there was a clear down- FLB cell–1) into the calculation of the mean uptake per
+stream trend in the abundances and succession of mi- cell. To minimize the error that can result from such a
+crobial communities, i.e., bacteria-HNF-ciliates, which data distribution, we inspected up to 200 HNF individ-
+was perhaps linked to their potential growth rates and uals per time point.
+changes in water flow regime. The river inflow showed On the other hand, a non-normal data distribution
+a conspicuous peak in BP and negligible protistan does not seem to be inherent in the uptake of the
+bacterivory corresponding to very low protist abun- monospecific ciliate populations (e.g., Fig. 1). Due to a
+dances (Fig. 3). A few hundred meters downstream a very low proportion of ciliates with zero FLB per cell, a
+marked HNF population peak occurred. From Stn 6 generally higher number of FLB per ciliate (as opposed
+downstream to Stn 2, HNF, as the major bacterivores, to HNF), and a close match between mean and median
+were replaced by ciliates largely due to bacterivory of values of grazing rate per ciliate (see, e.g., Table 1), the
+Halteria (cf. Fig. 3A,C). distribution of the uptake data (as FLB per ciliate cell)
+Overall, our data indicated 2 important findings from is not statistically different from a normal distribution
+the lower (Rˇímov) towards the higher trophic status (Fig. 1). Our data on ciliate bacterivory could also have
+(Sau) in the reservoirs: (1) an increasing portion of BP been overestimated due to FLB counted in ciliate food
+consumed by protists, and (2) an increasing role of cil- vacuoles that were primarily ingested by HNF and
+
+Sˇimek et al.: Bacterivory of Halteriaspp. 51
+then secondarily consumed by ciliates. However, con- affect the feeding rate, such as physiological state, cell
+sidering typical densities and grazing rates of HNF cycle (the largest, dividing ciliates had usually very
+(see ‘Results’; Sˇimek et al. 1995, 1997), clearance rates low uptake rates), food availability and food quality
+of Halteria (Table 1; Sˇimek et al. 1996), and the short (see also Legner 1975, Jürgens & Sˇimek 2000). There is
+incubation times and low FLB tracer amounts used (see also the possibility that the pooled group Halteria
+‘Material and methods’), this source of error seems to indeed did not comprise only the most frequently iden-
+be negligible. For instance, forHalteria we calculated tified H. grandinella, but also the closely related spe-
+that indirect FLB uptake via HNF would always cies H.bifurcataand Pelagohalteriacirrifera(Foissner
+account for <5% of its estimated bacterivory. Thus, we at el. 1999), or a species complex with different sub-
+conclude that our FLB approach produced reliable evi- species of slightly deviating morphology and ecologi-
+dence on the role of ciliate bacterivory in the Rˇímov cal behavior.
+and Sau reservoirs. Laboratory experiments showed that the typical food
+The most important parameter that could bias our items, i.e., hetero- and autotrophic picoplankton and
+estimates of BP is the factor used for converting thymi- 3to 4 µm sized Chlorellasp. were efficiently ingested
+dine incorporation rate to cell production of bacteria. and then digested by Halteria sp. within ~2.5 to 4 h
+Therefore, we applied our ECF whenever possible. (Jürgens & Sˇimek 2000). Both the laboratory and field
+Our values of ECF are close to the theoretical ones, experiments indicate that Halteria feeds on different
+matching the typical range of values reported for trophic levels (hetero- and autotrophic picoplankton
+freshwater bacteria (Smits & Riemann 1988). and small HNF). This likely species complex has a
+There was a difference between the Rˇímov and Sau large prey size spectrum compared to a strictly bac-
+reservoir populations of Halteria in cell volumes, with terivorous species, though some authors consider, e.g.,
+larger cells found in the Rˇímov Reservoir (Table 1). H. grandinella as primarily bacterivorous (e.g., Taylor
+When a maximum shrinkage of individuals of Halteria 1978). By virtue of its omnivory and very high clear-
+fixed with Lugol’s solution is assumed (30 to 35%, ance rates on bacteria, Halteria can compete with HNF
+Wiackowski et al. 1994b), and we use their mean cell by feeding on the same food sources, moreover the cil-
+volumes reported in Table 1, this would yield a live iates can also prey on HNF (Cleven 1996,Jürgens et al.
+volume of 3246 to 3371 and 2535 to 2633 µm3 for the 1996).
+Rˇímov and Sau reservoirs, respectively. The calculated The high uptake rates of bacteria and picoalgae by
+mean live volume of Halteria in the Rˇímov Reservoir is Halteria in the reservoirs imply that these ciliates can
+very close to that of well-fed individuals of the ciliates meet most of their carbon requirements through pico-
+from batch cultures with algae (3754 ± 890 µm3, Jür- planktivory (Table 1). The existing evidence that Hal-
+gens & Sˇimek 2000). The individuals from the Sau teria can subsist on bacteria alone is contradictory:
+Reservoir were much smaller, but without a large dif- Skogstad et al. (1987) and Jürgens & Sˇimek (2000)
+ference in clearance rates compared to the populations were not successful in cultivating members of this spe-
+from the Rˇímov Reservoir (Table 1). Thus, with a simi- cies complex on bacteria alone, whereas Taylor (1978)
+lar clearance rate these Halteria populations in the Sau reared H.grandinellain batch cultures exclusively on
+Reservoir could: (1) meet their carbon requirements a purely bacterial culture of Aerobacter aerogenes.
+much faster, (2) thus also realize shorter doubling Our analyses of food vacuole content of Halteria from
+times than in the Rˇímov Reservoir, and (3) compete both reservoirs (Table 1) indicate a rather limited im-
+more efficiently for bacterial food sources, with a high- portance of algae in the diet of natural populations of
+er volume-specific clearance rate in the Sau Reservoir. the ciliates. Small algae (2 to 5 µm) were usually
+We also tried to determine if individual ciliate uptake observed at low abundances and not more than 9% of
+was positively correlated with an individual cell vol- pelagic Halteria individuals were found with ingested
+ume of the ciliate. Assuming that the larger individuals algae (2 to 4 µm large cells). Thus, our data suggest
+should have higher grazing rates, the changes in the that picoplankton was the major source of organic car-
+cell volume of Halteria would explain only between bon for the ciliate in our systems.
+~9% (Rˇímov) and 12% (Sau) of the variability in our For instance, multiplying the mean cell volumes of
+uptake data. Normalizing for potential temperature bacteria by the grazing rates of Halteria on bacteria in
+effects (Q = 2.5) improved the correlation from the the Rˇímov (0.062 µm3, 1782 cells ind.–1 h–1) and Sau
+10
+Sau Reservoir only slightly, explaining ~16% of the reservoirs (0.105 µm3, 3220 cells ind.–1 h–1) yields a
+uptake data measurements. A similar weak relation- total of 111 and 338 µm3 of bacterial volume biomass
+ship between cell volume and uptake rates on bacteria ingested hourly, respectively. In comparison, even in
+was also found for a natural lake population of Cyclid- the rare case of a ciliate cell with 4 ingested algae with
+iumsp. (Sˇimek et al. 1998b). There are probably other a maximum diameter of 4 µm, this would yield only
+factors, besides temperature and cell volume, which about 100 µm3of algal volume biomass ingested. Fur-
+
+52 AquatMicrob Ecol 22: 43–56, 2000
+ther, experimental data showed (Dolan & Sˇimek 1997, ples from 2 reservoirs. Hence, the above references
+Jürgens & Sˇimek 2000) that for the full digestion of and Table 2 clearly document an apparent food flexi-
+algal cells, involving also the complete disappearance bility of the small halteriids and their high growth
+of their chlorophyll autofluorescence, oligotrichs need potential under food-satiated conditions. Other poten-
+at least 2 to 3 h. Hence, the algae distinguished accord- tial food items, falling into the size range of particles
+ing to their autofluorescence within ciliate food vac- ingested by the omnivorous halteriids (Jürgens &
+uoles represent algivory over 2 to 3 h prior to fixing the Sˇimek 2000) are HNF and small detritus particles.
+ciliates. Thus, among the food items distinguishable They represent potentially important carbon sources,
+within ciliate food vacuoles, bacteria were quantita- but we cannot distinguish them within ciliate food vac-
+tively the most important food source. uoles.
+This is also indicated by our estimates of Halteria To document also the numerical importance of small
+growth rates, assuming exclusive picoplanktivory, i.e., halteriids, mostly reported as Halteria grandinella in
+0.75 and 1.1 d–1 for the Rˇímov and Sau reservoirs, different lakes and reservoirs, we collected the avail-
+respectively (Table 1). To compare the latter estimates able published and unpublished data (Table 3). Halte-
+with those independently derived from changes in the ria has been found worldwide across the trophic spec-
+ciliate abundance with time, we summarized available trum of lakes (see also Table 4.1 in Laybourn-Parry
+published and unpublished data on the maximum net 1992). This suggests that Halteria might be an impor-
+growth rate of the ciliate determined in predator- tant bacterivore in a broad variety of temperate aqua-
+removal experiments with water samples pre-screened tic systems (Stabell 1996, Figs. 2 to 4), becoming more
+through meshes of different sizes (for details see dominant in eutrophic lakes. It is reported in abun-
+Table 2). Our estimates, derived from 20 µm treat- dances ranging from <1 to 389 ind. ml–1 along the
+ments incubated in the Rˇímov Reservoir in dialysis trophic gradient from oligo- to hypertrophy. Halteria
+bags during 1997 (see Sˇimek et al. 1999), matched has uptake and clearance rates on bacteria (Table 1)
+quite well those listed in Table 1. It provided additional about 2 orders of magnitude higher than the typical in
+support to our finding that picoplanktivory signifi- situuptake rates of freshwater HNF, ~10 to 25 bacteria
+cantly contributed to the diet of the ciliate. The highest ind.–1 h–1 (e.g., Sanders et al. 1989, Vaqué et al. 1994,
+growth rate estimates of Halteria (Table 2) were Sˇimek et al. 1997). Since abundances of Halteria and
+reported by Jürgens et al. (1999) from a hypertrophic small oligotrichs increase towards eutrophic and hyp-
+Danish lake during a bloom of pico- and nanoalgae ertrophic systems (cf. Figs. 2 & 3, Table 3; Nakano et al.
+(including Chlorella spp.), suggesting that phytoplank- 1998, Jürgens et al. 1999), it is not surprising that total
+ton can be an important food resource for Halteria in ciliate bacterivory becomes as important as HNF bac-
+some lakes. On the other hand, almost the same maxi- terivory (Fig. 4). Regarding the role of ciliates as bac-
+mum net growth rate (1.73 d–1) was also found when terivores, 2 important points should be stressed:
+Halteria sp., reported as H.grandinella,was reared on (1) While a general trend towards an increasing role
+a pure bacterial culture (Taylor 1978). Legner (1975) of bacterivorous ciliates with increasing trophic status
+reported a maximum growth rate as high as 3.1 d–1for was suggested by Beaver & Crisman (1989), HNF have
+H. grandinella growing in organically enriched sam- been ascribed the role as the most important bacteri-
+Table 2. Literature and unpublished data on in situmeasured maximum net growth rate of Halteriain predator-removal experi-
+ments. Numbers of ciliate individuals represent a range of values between the initiation and end of the experiment
+Lake/reservoir Country Trophic status No. ml–1 Max. net growth Source/experimental
+rate (d–1) treatment
+Lake Søbygård Denmark Hypertrophic <10–380 1.64–1.90 Jürgens et al. (1999)/
+shallow lake 10 and 50 µm screened samples
+Rixdorfer Teich Germany Eutrophic pond 0.1–21 1.30–1.38 Langenheder & Jürgens (unpubl.)
+Hasselburger Teich Germany Eutrophic pond 0.5–19 0.82–1.20 Langenheder & Jürgens (unpubl.)/
+200 µm screened samples
+Heiligensee Germany Eutrophic <1–10 1.25–1.40 Skibbe (1998)
+60 µm screened samples
+Rˇímov Reservoir, 1993 Czech Republic Meso-eutrophic 1–10 0.8 Macek et al. (1996)/
+100 µm screened samples
+Rˇímov Reservoir, 1997 Czech Republic Meso-eutrophic 2–14 0.75–1.05 Sˇimek et al. (1999)a
+20 µm screened samples
+aValues that were not collected from the original papers
+
+Sˇimek et al.: Bacterivory of Halteriaspp. 53
+Table 3. Literature values of densities of Halteria, mostly reported asH. grandinella, in waters of different trophic status, in-
+cluding unpublished data from several studies
+Lake/reservoir/pond Country Trophic status No. ml–1 Source
+Furuike Pond Japan Hypertrophic 25–389 Nakano et al. (1998)a
+Lake Stigsholm Denmark Hypertrophic 15–104 Jürgens & Jeppesen (1998)a
+Lake Søbygård Denmark Hypertrophic 3–99 Jürgens et al. (1999)
+Pries Pot UK Hypertrophic 10–61 Finlay et al. (1988)
+Pries Pot UK Hypertrophic 1–9 Berninger et al. (1993)a
+Lake Heiligensee Germany Hypertrophic <1–10 Skibbe (1998)
+Poppelsdorfer Weihers Pond Germany Eutrophic 10–289 Wilbert (1969)
+Two ponds Canada, Ontario Eutrophic ~100 Archbold (1983)a
+Stagno di Favale Pond Italy Eutrophic 1–40 Madoni (1991)
+Sau Reservoir, Spain Eutrophic 7–105 This study
+lacustrine part, 1997
+Sau Reservoir, Spain Eutrophic 4–58 Comerma (unpubl. data)
+lacustrine part, 1998
+Lake Oglethorpe USA Eutrophic 0–5 Sanders et al. (1989)a
+Lake Erie, coastal sites USA Eutrophic 2–30 Hwang & Heath (1997b)
+Rˇímov Reservoir, 1993 Czech Republic Meso-eutrophic 1–10 Sˇimek et al. (1995)
+Rˇímov Reservoir, 1997 Czech Republic Meso-eutrophic 2–14 Sˇimek et al. (1999)a
+Rˇímov Reservoir, 1997 Czech Republic Meso-eutrophic 1–55 This study
+Rˇímov Reservoir, 1999 Czech Republic Meso-eutrophic 1–63 Jezbera & Sˇimek (unpubl. data)
+Neusiedler See Austria Mesotrophic 0–7 Schönberger (1994)
+Ruster Poschen Pond Austria Mesotrophic 1–27 Schönberger (1994)
+Lake Erie, offshore sites USA Meso-oligotrophic 1–6 Hwang & Heath (1997b)
+Traunsee Austria Oligotrophic 0–2.2 Sonntag (unpubl. data)
+Loch Ness UK Oligotrophic 0.1–0.2 Laybourn-Parry et al. (1994)
+aValues that were not collected from the original papers
+vores (e.g., Fenchel 1982, Sanders et al. 1989, Bern- These groups with the typical representative genera,
+inger et al. 1991), independent of the trophic state of in order of their overall decreasing importance as bac-
+aquatic systems. The presumed importance of HNF is terivores, are: (1) small oligotrichs (Halteria, Pelagohal-
+mainly due their ability to exploit and grow on low in teria, Strobilidium, Strombidium) (2) peritrichs (Vorti-
+situ bacterial abundances (see also Jürgens 1992). cella, Epistylis, Carchesium), and (3) scuticociliates
+However, this argument does not apply to systems (Cyclidiumand less frequently Uronemaspp.).
+characterized by relatively high bacterial concentra- Beaver & Crisman (1989) reviewed an extensive data
+tions. Thus, while we still have little information about set characterizing ciliate dynamics in subtropical Flor-
+ciliate bacterivory in eutrophic and hypertrophic lakes, ida lakes and suggested that there was an increasing
+data from the Sau Reservoir (Figs. 3 & 4; Comerma et role of scuticociliate bacterivory with increasing
+al. in press) and a hypertrophic pond in Japan (Nakano trophic status. The situation might be different in tem-
+et al. 1998) indicate that ciliate bacterivory can exceed perate lakes. In none of 17 Norwegian lakes (Stabell
+that of HNF. 1996), nor in the reservoir data presented here (Figs. 2
+(2) Restricted sets of ciliate types are important pel- to 4), did mean values of scuticociliate grazing exceed
+agic bacterivores. When reviewing data on ciliate bac- 17%; they were usually below 10% of total ciliate bac-
+terivory, there is a close concordance between our terivory. Two exceptions to this pattern, where bac-
+results (Fig. 4) and literature data, which enables a cer- terivory of Cyclidiumspp. clearly dominated, were re-
+tain level of generalization. Based on a set of 100 taxo- ported from rather extreme ecosystems, a hypertrophic
+nomic analyses of ciliate bacterivory in 21 systems, i.e., Japanese lake (Nakano et al. 1998) and a naturally
+17 Norwegian lakes of different trophic status (only acidic, mesotrophic lake in Germany (Sˇimek et al.
+once sampled, Stabell 1996), 4 samples from coastal 1998b). Another deviation from the prevalence of bac-
+and 4 samples from offshore sites of Lake Erie (Hwang terivory by oligotrichs has been documented when per-
+& Heath 1997a), 1 seasonal study on Lake Oglethorpe itrichs, attached to colonies of cyanophytes (Stabell
+(Sanders et al. 1989), and 2 seasonally studied reser- 1996), large diatoms (Carrias et al. 1996), or to cara-
+voirs (52 and 22 samples from the Rˇímov and Sau paces of large crustacean zooplankton (Kankaala &
+reservoirs, respectively), we can conclude that only 3 Eloranta 1987), are abundant. The vulnerability of the
+groups are important pelagic ciliate bacterivores. attached peritrichs to metazoan predation is probably
+
+54 AquatMicrob Ecol 22: 43–56, 2000
+strongly reduced, compared to small free-living ciliates. eutrophic waters (Sˇimek et al. 1995, 1996, Stabell 1996,
+Thus, high abundance of metazooplankton can result in Hwang & Heath 1997a, Thouvenot et al. 1999; Figs. 1
+dominance of bacterivory by peritrichous ciliates. to 4). Thus, corresponding to the latter, the term ‘bac-
+It is somewhat unclear whether the jumping re- terivorous ciliates’ should be used rather for the ciliates
+sponse of Halteria sp., reported as H.grandinella(e.g., that have bacteria not necessarily as an exclusive, but
+Tamar 1979, Gilbert 1994), is an effective escape as a major food source. Halteria seems to be the most
+behavior in response to all metazoan predators. Results important taxon within that ecological group which
+of recent laboratory (e.g., Gilbert 1994, Jack & Gilbert frequently dominates in meso- and eutrophic plank-
+1997) and field studies (Havens & Beaver 1997, Jür- ton. Given its strong grazing impact on a wide prey
+gens et al. 1999) imply that the jumping response of spectrum within the pico- and nanoplankton including
+Halteria is probably an effective escape reaction small HNF, Halteria might occupy a specific structur-
+against predation by rotifers but not so much against ing role for the microbial food web in meso- to
+Daphnia spp. or Cyclops spp. (Gilbert 1994, Jack & eutrophic systems.
+Gilbert 1997, Jürgens et al. 1999). Zooplankton com-
+munities in both reservoirs were only briefly domi-
+nated by Daphnia spp. (Sˇimek et al. 1990), or possibly Acknowledgements. This study was supported by the Grant
+Agency of the Czech Republic (GA CR) research grants 206/
+by Cyclops spp. Thus, the escape response and the
+99/0028, and 206/96/0012 awarded to K.Sˇ., by the GA CR re-
+high growth rate of Halteria (e.g., Legner 1975, Taylor
+search grant 206/98/0727, by an Academy of Sciences of the
+1978, Jürgens et al. 1999; Table 2) can explain why the Czech Republic (AS CR) grant ‘Biodiversity’ no. 21/96/K, by
+ciliate communities dominated by H. cf. grandinella an AS CR instrument grant ‘Microanalysis of microbial com-
+co-existed with abundant rotifer populations for most munities’—program 1036, P 1011802, by the Max Planck
+of the time in these systems (Sˇimek et al. 1995, Armen- Society, and by the Aigues Ter-Llobregat Company support-
+ing the study conducted on the Sau Reservoir. We wish to
+gol et al. 1999).
+thank John Dolan and Nick Crosbie for correcting the English
+We suggest that there are 4 important reasons of the manuscript, Helga Müller and 4 anonymous reviewers
+behind the exceptional position of Halteria, most fre- for valuable comments on earlier versions of the manuscript,
+Wilhelm Foissner and Miroslav Macek for help in identifying
+quently identified as H.grandinella,in planktonic food
+several species of ciliates, and Robert Sanders, Ulrike Ber-
+webs: (1) high uptake and clearance rates on pico-
+ninger, Betina Sonntag, Oliver Skibbe, and Shin-Ichi Nakano
+plankton-sized particles, (2) omnivory with an efficient for supplying unpublished data on the abundance of Halteria
+uptake of a large prey size spectrum (~0.4 to 5 µm) grandinellain various freshwater systems.
+which covers autotrophic and heterotrophic pico- and
+nanoplankton and detritus (Jürgens & Sˇimek 2000),
+(3) very high growth rate and abundances in situ LITERATURE CITED
+(Tables 2 & 3), and (4) lower vulnerability as prey for
+metazooplankton than other common ciliate species. Archbold J (1983) Optimal foraging and comparative preda-
+tor-prey interactions in two species of Dileptus (Protozoa:
+Concerning the former 2 points, Halteria showed both
+Ciliophora). PhD thesis, University of Toronto
+the highest uptake and clearance rates on auto- or Armengol J, Garcia JC, Comerma M, Romero M, Dolz J,
+heterotrophic picoplankton among all in situ studied Roura M, Han BH, Vidal A, Sˇimek K (1999) Longitudinal
+oligotrichs (Sˇimek et al. 1996, Stabell 1996; Table 1). processes in canyon type reservoirs: the case of Sau (N.E.
+Spain). In: Tundisi JG, Strasˇkraba M (eds) Theoretical
+Another ecologically important aspect is the very high
+reservoir ecology and its applications. International Insti-
+volume-specific clearance rates of this species mea-
+tute of Ecology, Brazilian Academy of Sciences and Back-
+sured on bacterial prey, from 0.5 (Stabell 1996) to 1.6· huys Publishers, Leiden, p 313–345
+105cell volumes h–1(Sˇimek et al. 1995). They indicate Beaver JR, CrismanTL (1989)The role of ciliated protozoa in
+the ability of Halteria to compete efficiently for the pelagic freshwater ecosystems. Microb Ecol 17:111–136
+Berninger U, Finlay BJ, Kuuppo-Leinikki P (1991) Protozoan
+picoplankton food resources with some typical bac-
+control of bacterial abundances in freshwaters. Limnol
+terivorous HNF (cf. Fenchel 1986). Oceanogr 36:139–147
+We conclude that most of the pelagic ciliates that are Berninger U, Wickham, SA, Finlay BJ (1993) Trophic coupling
+efficient bacterial grazers are not bacterivorous in the within the microbial food web: a study with fine temporal
+resolution in a freshwater ecosystem. Freshw Biol 30:
+strict sense, since autotrophic picoplankton and small
+419–432
+algae also significantly contribute to their diet (Skog-
+Carrias JF, Amblard C, Bourdier G (1996) Protistan bacteri-
+stad et al. 1987, Sˇimek et al. 1996, Jürgens & Sˇimek vory in an oligomesotrophic lake: importance of attached
+2000; Table 1). Thus, we suggest revising the concept ciliates and flagellates. Microb Ecol 31:249–268
+of pelagic ciliate bacterivory suggested by Fenchel Carrias JF, Amblard C, BourdierG (1998) Seasonal dynamics
+and vertical distribution of planktonic ciliates and their
+(1980), since recent data have shown that not special-
+relationship to microbial food resources in the oligome-
+ized bacterivorous ciliates, but small, omnivorous olig- sotrophic Lake Pavin. Arch Hydrobiol 143:227–255
+otrichs are the major ciliate bacterivores in meso- and Cleven EJ (1996) Indirectly fluorescently labelled flagellates
+
+Sˇimek et al.: Bacterivory of Halteriaspp. 55
+(IFLF): a tool to estimate the predation on free-living het- food web structure in a dense macrophyte bed. In: Jeppe-
+erotrophic flagellates. J Plankton Res 18:429–442 sen E, Søndergaard M, Christoffersen K (eds)The struc-
+Comerma M, Garcia JC, Armengol J, Romero M, Sˇimek K (in turing role of submerged macrophytes in lakes. Springer-
+press) Microbial food web structure throughout a gradient Verlag, New York, p 262–273
+of heterotrophy-autotrophy in a canyon shaped eutrophic Jürgens K, SˇimekK(2000) Functional response and particle
+reservoir. Int Rev Hydrobiol size selection of Halteria cf.grandinella, a common fresh-
+Dolan JD, Sˇimek K (1997) Processing of ingested matter in water, oligotrichous ciliate. Halteria grandinella Aquat
+Strombidium sulcatum, a marine ciliate (Oligotrichida). Microb Ecol 22:57–68
+Limnol Oceanogr42:393–397 Jürgens K, Wickham SA, Rothhaupt KO, Santer B (1996)
+Fenchel T (1980) Suspension feeding in ciliated protozoa: Feeding rates of macro- and microzooplankton on hetero-
+Feeding rates and their ecological significance. Microb trophic nanoflagellates. Limnol Oceanogr 42: 1833–1839
+Ecol 6:13–25 Jürgens K, Skibbe O, Jeppesen E(1999)Impact of metazoo-
+Fenchel T (1982) Ecology of heterotrophic nanoflagellates. VI. plankton on the composition and population dynamics of
+Quantitative occurrence and importance as bacterial con- planktonic ciliates in a shallow, hypertrophic lake. Aquat
+sumers. Mar Ecol Prog Ser 9:35–42 Microb Ecol 17:61–75
+Fenchel T (1986) Protozoan filter feeding. Prog Protistol 1: Kankaala P, Eloranta P (1987) Epizooic ciliates (Vorticella sp.)
+65–113 compete for food with their host Daphnia longispinain a
+Fenchel T,Kristensen LD, Rasmussen L (1990) Water column small polyhumic lake. Oecologia 73:203–206
+anoxia: vertical zonation of planktonic protozoa. Mar Ecol Laybourn-Parry J (1992) Protozoan plankton ecology. Chap-
+Prog Ser 62:1–10 man and Hall, London
+Finlay BJ, Clarke KJ, Cowling AJ, Hindle RM, Rogerson A, Laybourn-Parry J, Walton M, Young J, Jones RI, Shine A
+Berninger UG (1988) On the abundance and distribution (1994) Protozooplankton and bacterioplankton in a large
+of protozoa and their food in a productive freshwater oligotrophic lake—Loch Ness, Scotland. J Plankton Res
+pond. Eur J Protistol23:205–217 16:1655–1670
+Foissner W (1994) Progress in taxonomy of planktonic fresh- Legner M (1975) Concentration of organic substances in
+water ciliates. Mar Microb Food Webs 8:9–35 water as a factor controlling the occurrence of some ciliate
+Foissner W, Berger H (1996) A user-friendly guide to the cili- species. Int Rev Ges Hydrobiol 60:639–654
+ates (Protozoa, Ciliophora) commonly used by hydrobiolo- Macek M, Sˇimek K, Pernthaler J, Vyhnálek V, Psenner R
+gists as bioindicators in rivers, lakes, and waste water, (1996) Growth rates of dominant planktonic ciliates in two
+with notes on their ecology. Freshw Biol 35:375–482 freshwater bodies of different trophic degree. J Plankton
+Foissner W, Blatterer H, Berger H, Kohmann F (1991) Tax- Res 18:463–481.
+onomische und ökologische Revision der Ciliaten des Madoni P (1991) Community structure and distribution of cil-
+Saprobiensystems—Band I. Cyrtophorida, Oligotrichida, iated protozoa in a freshwater pond covered by Lemna
+Hypotrichia, Colpodea. Informationsberichte des Bay- minor. Boll Zool 58:273–280
+erischen Landesamtes für Wasserwirtschaft, Heft 1/91, McManus GB, Okubo A (1991) On the use of surrogate food
+Bavarian State Office for Water Management, Munich particles to measure protistan ingestion. Limnol Oceanogr
+Foissner W, Berger H, Schaumburg J (1999) Identification and 36:613–617
+ecology of limnetic plankton ciliates. Informationsberichte Müller H (1989) The relative importance of different ciliate
+des Bayerischen Landesamtes für Wasserwirtschaft, Heft taxa in the pelagic food web of Lake Constance. Microb
+3/99, Bavarian State Office for Water Management, Ecol 18:261–274
+Munich Nakano S, Ishii N, Manage PM, Kawabata Z (1998) Trophic
+Gilbert JJ (1994) Jumping behaviour in the oligotrich ciliates roles of heterotrophic nanoflagellates and ciliates among
+Strobilidium veloxand Halteria grandinella, and its signif- planktonic organisms in a hypereutrophic pond. Aquat
+icance as a defense against rotifer predators. Microb Ecol Microb Ecol 16:153–161
+27:189–200 Norland S (1993) The relationship between biomass and vol-
+Güde H (1986) Loss processes influencing growth of plank- ume of bacteria. In: Kemp PF, Sherr BF, Sherr EB, Cole JJ
+tonic bacterial populations in Lake Constance. J Plankton (eds) Handbook of methods in aquatic microbial ecology.
+Res 8:795–810 Lewis Publishers, Boca Raton, p 303–308
+Havens KE, Beaver JR(1997) Consumer vs. resource control Pace ML, McManus GB, Findlay SEG (1990) Planktonic com-
+of ciliate protozoa in a copepod-dominated subtropical munity structure determines the fate of bacterial produc-
+lake. Arch Hydrobiol 140:491–511 tion in a temperate lake. Limnol Oceanogr 35:795–808
+Hwang SJ, Heath RT (1997a) Bacterial productivity and pro- Posch T, Pernthaler J, Alfreider A, Psenner R (1997) Cell-spe-
+tistan bacterivory in coastal and offshore communities of cific respiratory activity of aquatic bacteria studied with
+Lake Erie. Can J Fish Aquat Sci 54:788–799 the tetrazolium reduction method, cyto-clear slides, and
+Hwang SJ, Heath RT (1997b) The distribution of protozoa image analysis. Appl Environ Microbiol 63:867–873
+across a trophic gradient, factors controlling their abun- Putt M, Stoecker DK (1989) An experimentally determined
+dance and importance in the plankton food web. J Plank- carbon: volume ration for marine ‘oligotrichous’ ciliates
+ton Res 19:491–518 from estuarine and coastal waters. Limnol Oceanogr 34:
+Jack JD, Gilbert JJ (1997) Effects of metazoan predators on 1097–1103
+ciliates in freshwater plankton communities. J Eukaryot Riemann B, Søndergaard M (1986) Carbon dynamics in
+Microbiol 44:194–199 eutrophic, temperate lakes. Elsevier, New York
+Jürgens K (1992) Is there plenty of food for bacterivorous fla- Sanders RW, Porter KG, Bennet SJ, DeBiase AE (1989) Sea-
+gellates in eutrophic waters? Arch Hydrobiol Beih Ergebn sonal patterns of bacterivory by flagellates, ciliates, roti-
+Limnol 37:195–205 fers, and cladocerans in freshwater planktonic community.
+Jürgens K (1994) Impact of Daphniaon planktonic microbial Limnol Oceanogr 34:673–687
+food webs—a review. Mar Microb Food Webs 8:295–324 Schönberger M (1994) Planktonic ciliates of Neusiedler See
+Jürgens K, Jeppesen E(1998) Cascading effects on microbial (Austria/Hungary)—a comparison between the turbid
+
+56 AquatMicrob Ecol 22: 43–56, 2000
+open lake and a reedless brown-water pond. Mar Microb ated with different microzooplankton size fractions in a
+Food Webs 8:251–263 eutrophic reservoir. Limnol Oceanogr 44:1634–1644
+Sherr BF, Sherr EB, Pedrós-Álio C (1989) Simultaneous mea- Skibbe O (1998) Die Rolle planktischer Ciliaten im Nahrungs-
+surement of bacterioplankton production and protozoan netz eines hypertrophen Sees (Heiligensee, Berlin). PhD
+bacterivory in estuarine water. Mar Ecol Prog Ser 54: thesis, Freie Universität Berlin
+209–219 Skogstad A, Granskog L, Klaveness D (1987) Growth of fresh-
+Sherr EB, Sherr BF (1987) High rates of consumption of bacte- water ciliates offered planktonic algae as food. J Plankton
+ria by pelagic ciliates. Nature 325:710–711 Res 9:503–512
+Sherr EB, Sherr BF (1993) Protistan grazing rates via uptake Smits JD, Riemann B (1988) Calculation of cell production
+of fluorescently labeled prey. In: Kemp PF, Sherr BF, Sherr from [3H]thymidine incorporation with freshwater bacte-
+EB, Cole JJ (eds) Handbook of methods in aquatic micro- ria. Appl Environ Microbiol 54:2213–2219
+bial ecology. Lewis Publishers, Boca Raton, p 695–701 Stabell T (1996) Ciliate bacterivory in epilimnetic waters.
+Sˇimek K, Strasˇkrabová V (1992) Bacterioplankton production Aquat Microb Ecol 10:265–272
+and protozoan bacterivory in a mesotrophic reservoir. Tamar H (1979) The movements of jumping ciliates. Arch Pro-
+JPlankton Res 14:773–787 tistenkd 122:290–327
+Sˇimek K, Macek M, Sed’a J, Vyhnálek V (1990) Possible food Tamar H (1990) Halteria bifurcata Tamar, 1968, distribution
+chain relationships between bacterioplankton, proto- and variation, and Halteria grandinellaO. F. Müller, 1773.
+zoans, and cladocerans in a reservoir. Int Rev Ges Hydro- Arch Protistenkd 138:3–15
+biol 75:583–596 Taylor WD (1978) Maximum growth rate, size and common-
+Sˇimek K, Bobková J, Macek M, Nedoma J, Psenner R(1995) ness in a community of bactivorous ciliates. Oecologia 36:
+Ciliate grazing on picoplankton in a eutrophic reservoir 263–272
+during the summer phytoplankton maximum: a study at Thouvenot A, Richardot M, Debroas D, Devaux J (1999) Bac-
+the species and community level. Limnol Oceanogr 40: terivory of metazooplankton, ciliates and flagellates in a
+1077–1090 newly-flooded reservoir. J Plankton Res 21:1659–1679
+Sˇimek K, Macek M, Pernthaler J, Psenner R, Strasˇkrabová V Vaqué D, Gasol JM, Marresé C (1994) Grazing rates on bac-
+(1996) Can freshwater planktonic ciliates survive on a diet teria: the significance of methodology and ecological fac-
+of picoplankton? J Plankton Res 18:597–613 tors. Mar Ecol Prog Ser 109:263–274
+Sˇimek K, Hartman P, Nedoma J, Pernthaler J, Vrba J, Spring- Vidal A, Om J (1993) The eutrophication process in Sau
+mann D, Psenner R (1997) Community structure, pico- Reservoir (NE Spain): a long term study. Verh Int Verein
+plankton grazing and zooplankton control of heterotrophic Limnol 25:1247–1256
+nanoflagellates in a eutrophic reservoir during the summer Weisse T (1993) Dynamics of autotrophic picoplankton in
+phytoplankton maximum. Aquat Microb Ecol 12: 49–63 marine and freshwater ecosystems. Adv Microb Ecol 13:
+Sˇimek K, Armengol J, Comerma M, Garcia JC, Chrzanowski 327–370
+TH, Macek M, Nedoma J, Strasˇkrabová V (1998a) Charac- Wiackowski K, Brett MT, Goldman CR (1994a) Differential
+teristics of protistan control of bacterial production in effects of zooplankton species on ciliate community struc-
+three reservoirs of different trophy. Int Rev Hydrobiol ture. Limnol Oceanogr 39:486–492
+(Spec Issue) 83:485–494 Wiackowski K, Doniec A, Fyda J (1994b) An empirical study
+Sˇimek K, Babenzien D, Bittl T, Koschel R, Macek M, Nedoma of the effect of fixation on ciliate cell volume. Mar Microb
+J, Vrba J (1998b) Microbial food webs in an artificially Food Webs 8:59–69
+divided acidic bog lake. Int Rev Hydrobiol 83:3–18 Wilbert N (1969) Ökologische Untersuchung der Aufwuchs-
+Sˇimek K, Kojecká P, Nedoma J, Hartman P, Vrba J, Dolan JD und Planktonciliaten eines eutrophen Weihers. Arch
+(1999) Shifts in bacterial community composition associ- Hydrobiol Suppl 35:411–518
+Editorial responsibility: John Dolan, Submitted: November 22, 1999; Accepted: May 3, 2000
+Edgewater, Maryland, USA Proofs received from author(s): June 19, 2000
+

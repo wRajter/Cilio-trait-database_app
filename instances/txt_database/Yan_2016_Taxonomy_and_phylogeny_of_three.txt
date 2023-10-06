@@ -1,0 +1,601 @@
+ZoologicalJournaloftheLinneanSociety,2016,177,320–334.With7figures
+Taxonomy and phylogeny of three heterotrich ciliates
+(Protozoa, Ciliophora), with description of a new
+Blepharisma species
+YING YAN1,2, YANGBO FAN2, XIANGRUI CHEN1*, LIFANG LI3*, ALAN WARREN 4,
+SALEH A. AL-FARRAJ5 and WEIBO SONG2
+1School of Marine Sciences, Ningbo University, Ningbo, 315211, China
+2Institute of Evolution & Marine Biodiversity, Ocean University of China, Qingdao 266003, China
+3Marine College, Shandong University, Weihai 264209, China
+4Department of Life Sciences, Natural History Museum, Cromwell Road, London SW7 5BD, UK
+5Zoology Department, King Saud University, Riyadh 11451, Saudi Arabia
+Received3June2015;revised30August2015;acceptedforpublication8October2015
+Themorphologyandphylogenyofthreeheterotrichciliates,Anigsteiniaclarissima(Anigstein,1912)Isquith,1968,
+Blepharisma penardi sp. nov., and Blepharisma undulans Stein, 1867, were investigated based on living mor-
+phology, infraciliature, and small subunit (SSU) rDNA sequence data. The new species B. penardi sp. nov. is
+recognized by the following combination of characters: size about 150–180×45–55μm in vivo, cell colour variable
+fromcolourlesstopalepinktodarkbrownish;peristomeextendingtomiddleofbody;36–63adoralmembranelles;
+24–34somatickineties;singlemacronucleus;corticalgranulestinyandcolourless;freshwaterhabitat.Anigsteinia
+clarissima and B.undulans are both reported from China for the first time and are redescribed based on a com-
+binationofpreviousdescriptionsandnewdatafromtheChinesepopulations.PhylogeneticanalysesbasedonSSU
+rDNA sequence data show that B.penardi sp. nov. and B. undulans are both located within a clade comprising
+only congeners, thus supporting the monophyly of the genus Blepharisma. Anigsteinia clarissima clusters with
+its only congener forming a clade that is sister to the Spirostomum assemblage. Both the morphological and the
+molecular data support the placement of Anigsteinia in the family Spirostomidae.
+© 2016 The Linnean Society of London, Zoological Journal of the Linnean Society, 2016,177,320–334
+doi: 10.1111/zoj.12369
+ADDITIONALKEYWORDS: Anigsteiniaclarissima–Blepharismapenardisp.nov.–Blepharismaundulans
+– morphology.
+INTRODUCTION seemingly cosmopolitan. Nonetheless, relatively few
+specieshavebeeninvestigatedusingmodernmethods
+The ciliate class Heterotrichea Stein, 1859, is charac-
+such as silver staining and molecular techniques
+terized by the possession of somatic dikinetids asso-
+(Silva-Neto etal., 2012; Fernandes etal., 2013, 2015;
+ciated with postciliodesmata, and an oral apparatus
+Boscaro et al., 2014; Fernandes, da Silva Neto &
+consisting of a paroral membrane and a prominent
+Schrago, 2014; Shazib etal., 2014; Yan etal., 2015).
+adoralzoneofmembranelles(Lynn,2008).Thesecon-
+Blepharisma Perty, 1849, is characterized by its large
+spicuous organisms are mostly large, free-living, and
+body size and its complex buccal ciliature with an ex-
+tensivelydevelopedmembranellarbandontheleftside
+of the oral area and an undulating membrane on the
+rightside.Certainspeciesofthisgenushavelongbeen
+*Correspondingauthor.E-mail:xiangruichen@126.comor
+qd_liliy@sina.com usedasmodelorganismsforstudyingcytologyandcell
+320 ©2016TheLinneanSocietyofLondon,ZoologicalJournaloftheLinneanSociety,2016,177,320–334
+
+DESCRIPTION OF THREE HETEROTRICH CILIATES 321
+biology(Giese,1973;Small&Lynn,1985;Lynn,2008). ACCTAC-3′)forB.undulansandA.clarissima(Elwood,
+Its close relative, Anigsteinia Isquith, 1968, with five Olsen&Sogin,1985;Medlinetal.,1988).Cloningand
+known species, was originally separated from sequencing were carried out according to Gao & Katz
+Blepharisma and established as a separate genus by (2014).
+Isquith(1968).Itischaracterizedbyitselongatebody Atotal of 50 taxa was used for phylogenetic analy-
+shape and lacunar contractile vacuole system. These sis, including the three newly sequenced species. The
+two widespread genera have attracted much atten- other nucleotide sequences used in the analyses were
+tion for over a century, with several recent studies fo- obtained from the GenBank database (for accession
+cusing on their molecular phylogeny (Stein, 1867; numbersseeFig.7).Threekaryorelicteanspecieswere
+Anigstein, 1912; Giese, 1973; Isquith & Repak, 1974; selected as the outgroup taxa. Sequences were first
+Foissner,1989;Aescht&Foissner,1998;Dragesco,2002; aligned on the web server Phylogeny.fr (http://
+Schmidtetal.,2007;Miaoetal.,2009;Zhouetal.,2010). www.phylogeny.fr/index.cgi) with the alignment algo-
+By contrast, studies of their taxonomy and biodiver- rithm MUSCLE (Edgar, 2004; Dereeper etal., 2008,
+sityhavebecomelesscommoninrecentyearsthatmost, 2010)usingthedefaultparametersandfurthermodi-
+if not all, species have been described (Lee & Shin, fied manually using BioEdit 7.0.5.2 (Hall, 1999). The
+2009; Fernandes etal., 2013; Shazib etal., 2014). final alignment of 1646 characters with both ends
+In the present study, three heterotrichs, namely trimmedand48taxawasusedtoconstructphylogenetic
+Anigsteiniaclarissima(Anigstein,1912)Isquith,1968, trees (the alignment file is available upon request).
+Blepharisma penardi sp. nov., and Blepharisma Bayesianinference(BI)andmaximumlikelihood(ML)
+undulansStein,1867,wereisolatedfromamarinein- analyseswerecarriedoutonlineontheCIPRESScience
+tertidalareaandfromfreshwaterlakesinChina,giving Gateway(Miller,Pfeiffer&Schwartz,2010).Themodel
+the opportunity to investigate their morphology, tax- GTR+Invariant+Gamma was selected as the best-
+onomy, and phylogeny based on small subunit (SSU) fitmodelfornucleotidesubstitutionbasedontheAkaike
+rDNA sequence data. information criterion using MrModeltest 2 (Nylander,
+2004). The BI analysis was performed using MrBayes
+3.2.2 (Ronquist etal., 2012) with a chain length of
+MATERIALAND METHODS
+5000000generationsandasamplingfrequencyof100
+Anigsteinia clarissima was collected from the inter- generations. The first 25% of sampled trees were dis-
+tidalzoneofSilverBeach,Qingdao(35°55′N,120°12′E), carded as burn-in. The ML analysis was carried out
+China,on7May2012;thewatertemperaturewas18°C using RAxML-HPC2 (8.0.24) (Stamatakis, 2014).
+and salinity 31psu. Searches for the best tree were conducted from 1000
+Blepharisma penardi sp. nov. was isolated from a randomtrees.SupportforthebestMLtreecamefrom
+smallfreshwaterpondatBaihuayuanGarden,Qingdao 1000 bootstrap replicates.
+(36°04′N, 120°20′E), China, on 29 October 2013; the
+water temperature was 16°C. RESULTS TAXONOMY
+BlepharismaundulanswascollectedfromHuguang ORDER HETEROTRICHIDASTEIN, 1859
+Lake, Zhanjiang (21°09′N, 110°18′E), China, on 13
+FAMILY SPIROSTOMIDAE STEIN, 1867
+March 2013; the water temperature was 27°C.
+Observations on living cells were carried out using GENUS ANIGSTEINIA ISQUITH, 1968
+bright field and differential interference contrast mi- ANIGSTEINIACLARISSIMA (ANIGSTEIN, 1912) ISQUITH,
+croscopy(100–1000×magnification).Theprotargolstain- 1968 (FIGS 1A–D, 2–3, 5A–F, H–N, Q; TABLES1, 2)
+ing method of Wilbert (1975) was used to reveal the
+Anigsteinia clarissima was originally described by
+infraciliature, the protargol reagent having been syn-
+Anigstein (1912) as Blepharisma clarissimum. Nu-
+thesizedfollowingtheprotocolofPan,Bourland&Song
+merous subsequent papers dealt with this species but
+(2013). Counts and measurements of the morphologi-
+noneprovidedacleardefinition(Kahl,1928,1932;Yagiu,
+cal characteristics of stained specimens were per-
+1943;Fenchel,1969;Isquith&Repak,1974;Dragesco
+formed at a magnification of 1000×. Drawings were
+& Dragesco-Kernéis, 1986). Thus, an improved diag-
+made with the help of a camera lucida. Terminology
+nosis based on previous reports and on new data is
+mainly follows Lynn (2008).
+supplied here.
+Genomic DNA was extracted from cells using a
+DNeasyTissuekit(Qiagen,CA)accordingtotheman- ImproveddiagnosisBodylengthabout160–560μmin
+ufacturer’sinstructions.PCRamplificationoftheSSU vivo, length to width ratio 7–10:1; buccal cavity about
+rDNAwas performed using the primers 82F (5′-GAA half body length; 63–101 adoral membranelles; 18–
+ACT GCGAAT GGC TC-3′) and Euk B for B.penardi 32somatickineties;macronucleusmoniliformwith14–
+sp.nov.,andEukA(5′-AACCTGGTTGATCCTGCC 50 nodules; conspicuous lacunar contractile vacuole
+AGT-3′) and Euk B (5′-TGATCC TTC TGCAGG TTC system; marine habitat.
+©2016TheLinneanSocietyofLondon,ZoologicalJournaloftheLinneanSociety,2016,177,320–334
+
+322 Y. YAN ETAL.
+Figure1. Morphology and infraciliature of Anigsteinia clarissima (A–D), Blepharisma penardi sp. nov. (E, F, K, L),
+andBlepharismaundulans(G–J).A,leftviewofatypicalindividualofA.clarissima.B,paroralmembraneofA.clarissima,
+anterior(doublearrowheads)andposterior(arrow)partsareformedofdikinetidswithonlyleftbasalbodyciliated,middle
+part(arrowhead)formedbytrikinetidfragmentswithallbasalbodiesciliated.C,D,generalinfraciliatureofA.clarissima,
+arrows show paroral membrane. E, left view of a typical individual of B.penardi sp. nov. F, L, dorsal (F) and ventral
+(L)viewsofinfraciliatureofB.penardisp.nov.fromthesamespecimen,arrowmarksparoralmembrane.G,leftview
+of a typical individual of B.undulans. H, paroral membrane of B.undulans, anterior part with only right basal bodies
+ciliated and posterior part with both basal bodies ciliated. I, J, right (I) and left (J) views of B.undulans showing the
+infraciliature,arrowpointstoparoralmembrane.K,paroralmembraneofB.penardisp.nov.,anteriorpartconsistsof
+ciliatedmonokinetids,posteriorpartconsistsofdikinetidswithonlyleftbasalbodyciliated.Abbreviations:AZM,adoral
+zone of membranelles; CV, contractile vacuole; LCV, lacunar contractile vacuole system; SK, somatic kineties. Scale
+bars=100μm (A, C, D), 70μm (E, G, I, J, L), 50μm (B, H, K).
+Description based on Qingdao populationBody 230– cortical granules (0.8–1μm in diameter) arranged in
+300×35–50μm in vivo: slender and slightly contrac- three or four longitudinal rows between the kineties
+tile with tapered posterior end (Figs 1A, 2A–D); (Fig.2H). Peristome long and narrow, commencing
+bilaterallyflattened,widthtothicknessratioabout3:1. slightly below anterior end of body and extending to
+Pellicle flexible, with numerous colourless, spherical mid-body region (Fig.2A–E). About 60–100 adoral
+©2016TheLinneanSocietyofLondon,ZoologicalJournaloftheLinneanSociety,2016,177,320–334
+
+DESCRIPTION OF THREE HETEROTRICH CILIATES 323
+Figure2. Photomicrographs of Anigsteinia clarissima from life.A–D, general views of typical individuals, arrows in B
+show lacunar contractile vacuole system, arrow in C indicates the paroral membrane. E, anterior region of cell, arrows
+markthecolourlesscorticalgranules.F,posteriorportionofbuccalfield,arrowsshowparoralmembrane.G,macronuclear
+nodules.H,portionofcortex(rightview),showingcorticalgranulesbetweensomatickineties.Abbreviation:Ma,macronucleus.
+Scale bars=120μm (A–D), 25μm (E–H).
+membranelles.Paroralmembraneconspicuous(Figs1B, Eighteen to 26 somatic kineties, including six to 11
+2F, 3B, C, H). Cytoplasm greyish and opaque, packed (right)shortenedpostoralrows(Figs1C,D,3A,E–G).
+withglobulargranulesandfoodvacuolesthatarefre- Ciliaabout12μmlonginvivo.Eachadoralmembranelle
+quentlyabundant(Fig.2D,G).Macronucleusmoniliform consists of one short and two long rows of basal
+with 14 to 26 interconnected nodules, each nodule el- bodies. Paroral membrane divided into three parts
+lipsoidal and about 7–10μm in diameter; micronuclei (Fig. 1B): anterior and posterior parts consist of
+notdetected(Figs1C,2G,3A,H).Conspicuouslacunar dikinetids with only left basal body of each pair cili-
+contractilevacuole(CV)system,CVterminallylocated ated; middle part consists of several trikinetid frag-
+(Figs1A,2B).Locomotionbyglidingoversubstratum, ments with all three basal bodies in each trikinetid
+i.e. sand grains, organic debris, bottom of Petri dish. ciliated.
+©2016TheLinneanSocietyofLondon,ZoologicalJournaloftheLinneanSociety,2016,177,320–334
+
+324 Y. YAN ETAL.
+Figure3. PhotomicrographsofAnigsteiniaclarissimaafterprotargolstaining.A,rightviewofatypicalindividual.B–D,
+anterior of cell (right view), arrows show paroral membrane. E, F, left (E) and right (F) views of anterior portion. G,
+portion of infraciliature, arrows mark postoral kineties. H, posterior end of oral field and the moniliform macronucleus.
+Scale bars=140μm (A), 30μm (B–H).
+ORDER HETEROTRICHIDASTEIN, 1859 TypematerialAprotargolslidecontainingtheholotype
+FAMILY BLEPHARISMIDAE JANKOWSKI IN SMALL & specimenmarkedwithaninkcircleisdepositedinthe
+LaboratoryofProtozoology,OceanUniversityofChina
+LYNN, 1985
+(OUC),China(slidenumberYY2013102901).Aparatype
+GENUS BLEPHARISMA PERTY, 1849
+slide is deposited in the Natural History Museum,
+BLEPHARISMA PENARDI SP. NOV. (FIGS1E, F, K, L, London,UK(registrationnumberNHMUK2015.4.23.1).
+4A–I, 6A, C, D; TABLES1, 3)
+Synonyms:BlepharismalateritiumsensuPenard,1922 Etymology The species name penardi is named in
+BLEPHARISMASTEINI FORMAPENARDI KAHL, 1932 honour of Dr Eugene Penard who first described this
+DiagnosisBodyabout80–180×45–55μminvivo;cells organism.
+colourless to dark brownish; peristome extending to
+mid-body; 36–63 adoral membranelles; 24–34 somatic GenesequenceTheSSUrDNAsequence,derivedfrom
+kineties;singlemacronucleus;threetofivemicronuclei a single cell isolated from the same sample as the
+nodules;granulespalepinktocolourless;habitatfresh- holotype, is deposited in GenBank (accession number
+water or moss. KR815913).
+TypelocalityAfreshwaterpondinBaihuayuanGarden Description Body about 150–180×45–55μm in vivo,
+(36°4′N, 120°20′E), Qingdao, China. slender and irregularly sigmoid, flexible and slightly
+©2016TheLinneanSocietyofLondon,ZoologicalJournaloftheLinneanSociety,2016,177,320–334
+
+DESCRIPTION OF THREE HETEROTRICH CILIATES 325
+Table1. Morphometric characteristics of Anigsteinia clarissima (upper line in each row), Blepharisma penardi sp.
+nov. (middle line), and Blepharisma undulans (lower line) from protargol-stained specimens
+Characters Min. Max. Mean M CV N
+Bodylength 181 411 268.6 234.0 28.3 15
+101 158 128.2 126.0 11.5 26
+163 257 214.0 214.0 13.1 20
+Bodywidth 41 80 59.5 61.0 22.7 15
+54 89 72.6 74.5 14.4 26
+54 126 82.8 80.0 21.8 20
+Buccalfield,length 114 192 147.9 143.0 16.6 15
+48 79 66.1 70.5 15.0 26
+52 99 84.2 85.5 14.4 20
+Adoralmembranelles,number 63 101 86.7 90.0 12.5 15
+36 63 52.1 54.0 11. 4 20
+42 68 51.7 51.0 12.0 20
+DistancefromanteriorbodymargintoMa 49 111 64.2 54.5 28.6 16
+21 51 33.9 33.0 23.8 26
+31 132 65.9 64.0 30.5 19
+Somatickineties,number 18 26 21.3 21.5 10.4 16
+24 34 29.5 29.0 8.9 17
+21 27 23.7 24.0 6.8 18
+Shortenedsomatickineties,number 6 11 8.4 8.0 17.3 15
+2 5 3.7 4.0 19.6 14
+9 12 10.2 10.0 10.5 13
+Macronuclearnodules,number 14 26 18.9 17.5 19.8 12
+1 1 1.0 1.0 0 26
+2 2 2.0 2.0 0 14
+Macronuclearnodule,length 6 13 9.5 10.0 21.3 11
+20 37 26.7 25.5 21.9 14
+18 47 31.4 31.0 21.9 14
+Macronuclearnodule,width 5 13 7.3 7.0 32.0 11
+17 30 21.0 20.0 16.1 14
+16 34 23.0 21.0 24.3 14
+Micronuclei,number – – – – – –
+3 5 4.1 4.5 24.0 8
+– – – – – –
+Allmeasurementsinμm.Abbreviations:CV,coefficientofvariationin%;M,median;Ma,macronucleus;Max.,maximum;
+Mean, arithmetic mean; Min., minimum; N, number of specimens; –, data not available.
+bilaterally flattened (Figs1E, 4A, C, D). Buccal area micronuclei (Fig.1F). Contractile vacuole conspicu-
+about50%bodylength.Cellcolorationinbothfreshly ous,c.20μmindiameter,terminallylocated(Figs1E,
+isolatedandcultivated(forabout1to2weeks)samples 4C,D).Locomotionmainlybyglidingslowlyonbottom
+rather variable from almost colourless to dark- of Petri dish.
+brownish at low magnification using bright-field mi- Infraciliature consists entirely of dikinetids except
+croscopy(Fig.4A,C,D)althoughmostindividualsare for anterior two-thirds of paroral membrane, which
+slightlybrownishorpalepink.Itremainsunclearwhat is composed of monokinetids (Fig.1F, K, L). In pos-
+causes the cell coloration as neither pigments nor col- terior third of paroral, only left basal body of each
+oured food vacuoles were detected. Cortical granules dikinetid is ciliated (Fig.1K). Adoral zone composed
+colourless, round, c.0.2–0.3μm in diameter, densely of 36–63 membranelles, each of which consists one
+arranged in rows located between kineties (Fig.4E). shortandtwolongrowsofbasalbodies(Figs1L,4H).
+Paroralmembraneinconspicuous,difficulttodetectin Twenty-four to 34 longitudinal somatic kineties in-
+vivo(Fig.4A,C,D).Macronucleuslocatedslightlyabove cluding two to five shortened postoral (right) rows
+mid-bodyregion,sphericaltoovoid,about20μmindi- (Figs1F, L, 4F, G), with cilia about 12–13μm long
+ameter, with three to five closely associated globular in vivo.
+©2016TheLinneanSocietyofLondon,ZoologicalJournaloftheLinneanSociety,2016,177,320–334
+
+326 Y. YAN ETAL.
+Table2. Morphometric comparison of different populations of Anigsteinia clarissima
+Species BL(μm) No.ofSK No.ofMa Datasource
+A.clarissima 230–300 18–26 14–26 Presentwork
+A.clarissima 160–380 22–25 32–47 Anigstein(1912)
+A.clarissima 500–600 – 30* Kahl(1928)
+A.clarissimaformaarenicola 200–400 – 30–50 Kahl(1932)
+A.clarissima 200–400 – 30–50 Yagiu(1943)
+A.clarissimavar.arenicola 200–400 – – Fauré-Fremiet(1950)
+A.clarissimavar.arenicola 270 – >50 Dragesco(1960)
+A.clarissimaformaarenicola 176–560 – 35–51 Hartwig(1973)
+A.clarissimaaff.arenicola 176 – 15–16 Hartwig&Parker(1977)
+A.clarissima 300 32 9 Riccietal.(1982)
+A.clarissima(?) 350–600 32 35* Dragesco&Dragesco-Kernéis(1986)
+Abbreviations: BL, body length; Ma, macronucleus; SK, somatic kineties; –, data not available.
+*data from the drawings.
+BLEPHARISMAUNDULANS STEIN, 1867 these about nine to 12 postoral (right side) rows are
+(FIGS 1G–J, 4J–M, 6E–K; TABLES1, 4) shortened, i.e. only 11–16 kineties extend complete
+length of cell (Fig.1I, J).
+The morphology and infraciliature of a South Korean
+population of this species were recently described in
+detail (Lee & Shin, 2009). Therefore, only a brief note
+of the Qingdao population is documented here. MOLECULAR DATAAND PHYLOGENETICANALYSES
+ThethreenewSSUrDNAsequencesinthisstudyhave
+beendepositedintheGenBankdatabase.Theirlengths,
+Description based on Qingdao population Cells about G+Ccontents,andaccessionnumbersareasfollows:
+120–250×35–60μminvivo,bodyshaperelativelystable:
+A.clarissima,1673bp,46.44%,KR815914;B.penardi
+anterior conspicuously pointed, posterior end widely sp. nov., 1642bp, 47.81%, KR815913; B.undulans,
+rounded (Figs1G, 4J); width to thickness ratio about 1661bp, 47.26%, KR815912. Pairwise comparison of
+2:3. Cells invariably bright pink at low magnification the SSU rDNA sequences revealed that B.penardi
+as a result of the presence of cortical granules. Cor- differs from Blepharisma steini by 28 nucleotides
+tical granules about 0.5μm across, mostly dark rose- (1.74%).
+red in colour although some are white (arrows in The BI and MLanalyses of the SSU rDNAdata set
+Fig.4M), distributed in numerous longitudinal rows generated phylogenetic trees with nearly identical to-
+between kineties (Fig.4J, M). Pellicle soft. Peristome pologies; therefore, only the BI tree is shown here
+narrow, extending to mid-body region (Figs1G, I, 4J, (Fig.7).AnigsteiniaclarissimaclusterswithAnigsteinia
+K).Paroralmembranedifficulttodetectinvivo(Fig.4J). sp. (HM140405) in a clade that is sister to the
+Cytoplasm usually packed with several food vacuoles Spirostomumassemblage.AnigsteiniaandSpirostomum
+(Fig.4J). Two ellipsoidal macronuclear nodules, about thus form a well-supported (99% ML, 1.00 BI)
+30×20μminstainedindividuals,onelocatedinante-
+monophyletic group that represents the family
+rior and the other in posterior half of body, nuclear Spirostomidae.
+connective strand not detected (Figs 1G, 4K). All species of Blepharisma group together with full
+Micronucleusnotdetected.Contractilevacuolec.15μm
+statisticalsupportformingasisterbranchtoStentoridae,
+in diameter terminally located (Figs1G, 4J). Locomo- whichisconsistentwithpreviousstudies(Schmidtetal.,
+tion mainly by gliding slowly on bottom of Petri dish. 2007; Zhou etal., 2010; Shazib etal., 2014; Yan etal.,
+Infraciliature consists entirely of dikinetids.Adoral 2015). The relationships within Blepharismidae,
+zone composed of 42–68 membranelles, each of which however,arestillnotconsistentlyresolved.Blepharisma
+consistofoneshortandtwolongrowsofbasalbodies. steinibranchesofffirstinbothanalyseswithfullsupport
+Paroral membrane composed of dikinetids: in anteri- andthenextmostdeeplybranchingtaxonisB.penardi
+or half only right basal body of each pair is ciliated, sp. nov. (94% ML, 0.95 BI). The Qingdao population
+in posterior half both pairs are ciliated (Figs1H, 4L). (KR815913) and German population (AM713183) of
+Twenty-one to 27 ciliary rows arranged longitudinal- B. undulans, Blepharisma musculus (KJ651813),
+ly (Fig.1I, J), cilia about 10μm longin vivo.Amongst Blepharismajaponicum(AM713185),andBlepharisma
+©2016TheLinneanSocietyofLondon,ZoologicalJournaloftheLinneanSociety,2016,177,320–334
+
+DESCRIPTION OF THREE HETEROTRICH CILIATES 327
+Figure4. Photomicrographs of Blepharisma penardi sp. nov. from life (A–E, I) and after protargol staining (F–H),
+and Blepharisma undulans from life (J, M) and after protargol staining (K, L). A, C, D, left view, to show the shape
+variants, arrows in C, D mark the contractile vacuole. Note the cell colour: colourless (A) and dark-brownish (C). B,
+cytoplasmicgranules.E,portionofcortex,showingthetiny,denselyarrangedcorticalgranules.F,G,generalinfraciliature.
+H, portion of buccal field, arrows point to paroral membrane. I, macronucleus. J, left view of a typical individual. K,
+rightview,toshowthetwomacronuclei.L,posteriorportionoforalfield,arrowsindicateparoralmembrane.M,toshow
+cortical granules, note there are some white granules (arrows) amongst the coloured ones. Abbreviations: CV, contrac-
+tile vacuole; Ma, macronucleus. Scale bars=70μm (A, C, D, F, G, J, K), 30μm (H), 15μm (B, E, I, L, M).
+©2016TheLinneanSocietyofLondon,ZoologicalJournaloftheLinneanSociety,2016,177,320–334
+
+328 Y. YAN ETAL.
+Table3. Morphometric comparison of Blepharisma penardi sp. nov. and different populations of Blepharisma steini
+No.of
+Species BL(μm) No.ofSK membranelles Datasource
+B.penardisp.nov. 150–180 24–34 36–63 Presentwork
+B.penardi* 80–120 – – Penard(1922)
+B.steinivar.penardi 80–120 – – Kahl(1932)
+B.steini 150–200 – – Kahl(1932)
+B.steini 100–184 c.25 c.50 Larsen&Nilsson(1983)
+B.steini 170 18–23 35–47 Foissner(1989)
+B.steini 67–91 20–26 40–50 Al-Rasheid(2001)
+B.steini 68–120 18–22 33–45 Lee&Shin(2009)
+*Reported as Blepharisma lateritium.
+Abbreviations: BL, body length; SK, somatic kineties; –, data not available.
+Table4. Morphometric comparison of different populations of Blepharisma undulans
+No.of
+Species BL(μm) No.ofSK No.ofMa membranelles Datasource
+B.undulans 120–200 21–27 2 42–68 Presentwork
+B.undulans 150–300 – 2 – Kahl(1932)
+B.undulansundulans 70–250 24–30 2 – Suzuki(1954)
+B.undulans 90–140 – 2 – Bhandary(1962)
+B.undulans 150 18–25 2–5 – Kennedy(1965)
+B.undulans 234–379 – – – Cela(1972)
+B.undulans 100–300 25–28 2 53–63 Foissner(1989)
+B.undulans – 16–36 2 34–51 Dragesco&Dragesco-Kernéis(1991)
+B.undulans 150–250 22–27 2 47–56 Lee&Shin(2009)
+Abbreviations: BL, body length; Ma, macronucleus; SK, somatic kineties; –, data not available.
+sinuosum (JN627438) cluster with Blepharisma size is thought to be largely food- or population-
+americanum (AM713182) in a subclade that is dependent,webelievethattheseformsareconspecific
+sister to the subclade comprising Blepharisma and that our identification is correct.
+hyalinum (AM713184) and Blepharisma elongatum Blepharisma penardi sp. nov. can be clearly distin-
+(AM713186). guished from its closely related congener, B.steini, by
+its higher number of somatic kineties (24–34 vs. 18–
+22 in the Korean population, 18–23 in the Austrian
+population, and c.25 in the Danish population of
+DISCUSSION
+B.steini),thesizeofthecontractilevacuole(largeand
+COMMENTS ON BLEPHARISMAPENARDI SP. NOV. conspicuous vs. small and inconspicuous in B.steini)
+Blepharisma penardi sp. nov. was first recorded as a and the body shape (slender and sigmoidal vs. widely
+variety of B.lateritium by Penard (1922) (Fig.6A, C, ovalinB.steini)(Kahl,1932;Larsen&Nilsson,1983;
+D; Table3).According to the original description, the Foissner, 1989; Al-Rasheid, 2001; Lee & Shin, 2009;
+organismis‘80–120μm,shapevariable,reddish,some- Fig.6B; Table3). Another possible difference is cell
+timesalmostcolourless,theshapeofmacronucleuslike colour, that is, B.penardi is variable from colourless
+date-palmseed,mostly4–6smallmicronuclei’(Penard, to dark-brownish whereas B. steini is invariably red
+1922).Kahl(1932)describeditasa‘form’ofthenewly incolour(Kahl,1932;Larsen&Nilsson,1983;Foissner,
+definedspecies,B.steiniKahl,1932,i.e.B.steiniforma 1989; Al-Rasheid, 2001; Lee & Shin, 2009). In addi-
+penardi.TheQingdaoisolatematchestheoriginalde- tion, the separation of these two species is strongly
+scription in body shape and general morphology, col- supported by molecular data, their SSU rDNA se-
+oration,andhabitat.Theonlysignificantdifferenceis quences differing by 28 nucleotides (98.26% similar-
+the cell size (150–180 vs. 80–120μm in vivo). As cell ity) (Schmidt etal., 2007).
+©2016TheLinneanSocietyofLondon,ZoologicalJournaloftheLinneanSociety,2016,177,320–334
+
+DESCRIPTION OF THREE HETEROTRICH CILIATES 329
+COMMENTS ON ANIGSTEINIACLARISSIMA A.clarissima(Yagiu,1943;Fauré-Fremiet,1950;Bock,
+(ANIGSTEIN, 1912) ISQUITH, 1968 1952; Dragesco, 1960, 1966; Raikov, 1960; Agamaliev,
+1968;Fenchel,1969;Hartwig,1973;Czapik&Jordan,
+Anigsteiniaclarissima,whichiscommonlyfoundinin- 1976; Hartwig & Parker, 1977; Dragesco &
+tertidal regions of sandy beaches, was originally re- Dragesco-Kernéis, 1986; Fig.5A, C, G, I, J–M, O–Q).
+portedasBlepharismaclarissimum(Anigstein,1912), Amongst these, the identity of one of the isolates re-
+but was reassigned by Isquith (1968) who estab- ported by Czapik & Jordan (1976) is questionable
+lishedthegenusAnigsteiniawithA.clarissimaasthe because it has an evidently wider body shape than is
+typespecies.Duringthepastcentury,numerous‘popu- usualforA.clarissima(Fig.5M).Bycontrast,another
+lations’ofthistaxonhavebeenreportedworldwidewith individual described by the same authors (Czapik &
+ratherconspicuousvariationsinmorphology,fromhighly Jordan, 1976) is probably correctly assigned because,
+slender to elongated oval body shape, from widely as is typical for A.clarissima, it has a slender body
+rounded to pointed caudal end, and from 15 to over with a pointed caudal region (Fig.5N). Based on the
+30 macronuclear nodules (Anigstein, 1912, see our diagrams supplied by Czapik & Jordan (1976), both
+Fig.5B; Kahl, 1928, Fig.5H; Kahl, 1932, Fig.5D–F; of these isolates have significantly fewer adoral
+Yagiu,1943,Fig.5A;Bock,1952,Fig.5I;Dragesco,1960, membranellesthanisnormalforA.clarissima(Fig.5M,
+Fig.5C;Raikov,1960,Fig.5J;Agamaliev,1968,Fig.5K, N). These drawings, however, were based on observa-
+L; Czapik & Jordan, 1976, Fig.5M, N; Dragesco & tions in vivo and so probably do not accurately rep-
+Dragesco-Kernéis, 1986, Fig.5Q). As most descrip- resentthetruenumberofmembranellespresent.Data
+tionslackdetailsoftheciliatureormorphologyinvivo, basedonsilver-stainedspecimensarenotavailablefor
+andbecausemoleculardataarelackingforalmostall, either isolate.
+evaluatingtheseisolatesremainsahugechallenge.The Dragesco(1966)reportedanorganismfromThonon-
+Qingdaopopulationcorrespondsextremelycloselywith les-Bains, France, that he called Blepharisma
+theoriginaldescription,theonlydifferencebeingthat clarissimum,whichhasanobviousneckareaandonly
+theformerhasfewermacronuclearnodules(14–26vs. abouttenmacronuclearnodules(Fig.5P).Thus,itclearly
+32–47).Asthisfeatureispopulation-dependentinmost differsfromA.clarissima,whichhasnoneckandabout
+ciliateswithmultiplemacronuclearnodules,webelieve 15–45 macronuclear nodules. Isquith & Repak (1974)
+thattheQingdaoisolateisapopulationofA.clarissima. established a new species for this isolate, Anigsteinia
+According to Isquith & Repak (1974), who provid- oligonucleata(Dragesco,1966)Isquith&Repak,1974.
+edataxonomicrevisionofAnigsteiniaaswellasakey The number of macronuclear nodules is not, however,
+to the species, and Dragesco (2002), who supplied the areliablecharacterforspeciesseparationamongstcili-
+most recent review of A.clarissima, the original form ateswithmultiplemacronuclearnodules(Berger,2008).
+described by Anigstein (1912) and the populations re- Consequently the validity of A.oligonucleata awaits
+ported later by Kahl (1932) are clearly conspecific furthersupport.TheorganismreportedasA.clarissima
+(Fig.5B, E, F, H). Another isolate described by Kahl by Ricci, Santangelo & Luporini (1982) has only nine
+(1932), B.clarissimum forma arenicola Kahl, 1932 macronuclearnodulesandthereforeisprobablyapopu-
+(Fig.5D), is defined only by its body shape and ratio lation of A.oligonucleata if this is a valid species
+of body length to width. We believe that such differ- (Fig.5G; Table2).
+ences are very likely to be population-dependent and
+hence this form to be conspecific with A. clarissima. COMMENTS ON BLEPHARISMAUNDULANS STEIN, 1867
+TheformreportedbyDragesco(2002)thatwascol- This well-known organism has been reported on nu-
+lectedfromAberBay,Roscoff(Fig.5O)mightbelongto merousoccasionsfromsitesallovertheworldandthus
+anotherspecies,Anigsteiniacandida(Yagiu&Shigenaka, itsidentityisrelativelyeasytoestablish(Stein,1867;
+1956) Isquith & Repak, 1974, because it has a very Kahl,1932;Suzuki,1954;Bhandary,1962;Cela,1972;
+high number of macronuclear nodules (62 on average Dragesco&Dragesco-Kernéis,1991;Lee&Shin,2009).
+in Roscoff population; 181–287 in a Japanese popula- TheQingdaopopulationcorrespondscloselywithboth
+tion of A.candida described by Yagiu & Shigenaka, theoriginalreport(Stein,1867)andtheredescription
+1956; 200–260 in a Saudi Arabian population de- by Kahl (1932) in terms of its bright pink coloration
+scribed by Al-Rasheid, 2000). Furthermore, Dragesco and the pinkish cortical granules, general morphol-
+(2002) noted that the nodules ‘are not interconnected ogy,patternofciliature,possessionoftwomacronuclear
+but freely disposed throughout the cell, especially in nodules, and habitat (Fig.6; Table4).
+the central region’, which is also characteristic of Compared with the South Korean andArgentinian
+A.candida(Yagiu&Shigenaka,1956;Al-Rasheid,2000). populations(Cela,1972;Lee&Shin,2009),theQingdao
+Since the review by Kahl (1932), over ten ‘popula- populationhasonlyonedissimilarfeature,i.e.thebody
+tions’ have been reported under the names of shape: the Qingdao population is stably lanceolate or
+B. clarissimum, B. clarissima, A. clarissimum, or elongate-pyriform with the anterior end pointed and
+©2016TheLinneanSocietyofLondon,ZoologicalJournaloftheLinneanSociety,2016,177,320–334
+
+330 Y. YAN ETAL.
+Figure5. DifferentisolatesunderthenamesofAnigsteiniaclarissima(A–N,Q),Anigsteiniacandida(O),andAnigsteinia
+oligonucleata (P).A, from Yagiu (1943). B, from Anigstein (1912). C, from Dragesco (1960). D, reported as Blepharisma
+clarissimum forma arenicola by Kahl (1932). E, from Kahl (1932). F, from Kahl (1932), after Anigstein (1912). G, from
+Ricci etal. (1982). H, from Kahl (1928). I, from Bock (1952). J, from Raikov (1960). K, L, from Agamaliev (1968). M, N,
+fromCzapik&Jordan(1976).O,A.candida,reportedasA.clarissima(misidentification)byDragesco(2002).P,A.oligonucleata,
+reported as A.clarissima (misidentification) by Dragesco (1966). Q, from Dragesco & Dragesco-Kernéis (1986). Abbre-
+viation: Ma, macronuclear nodules. Scale bars=375μm (O), 200μm (E, I, M, N), 180μm (H), 150μm (D, G, J), 110μm
+(F, Q), 80μm (B), 60μm (C, K, L, P), 40μm (A).
+posterior end widely rounded (vs. spindle- or bat- Blepharismaundulansisvariableandlargelydepend-
+shaped with the posterior third slightly narrowed in ent upon nutrition, with well-nourished cells usually
+theSouthKoreanandArgentinianpopulations;Fig.6F, assumingapyriformshape,expandedposteriorly,and
+H). It has long been known that body shape in underfedorganismshavinganelongatespindleshape
+©2016TheLinneanSocietyofLondon,ZoologicalJournaloftheLinneanSociety,2016,177,320–334
+
+DESCRIPTION OF THREE HETEROTRICH CILIATES 331
+Figure6. NominalisolatesofBlepharismapenardisp.nov.(A,C,D),Blepharismasteini(B),andBlepharismaundulans
+(E–K).A,C,D,B.penardisp.nov.,originallydescribedasanunnamedvarietyofBlepharismalateritium,fromPenard
+(1922). B, B.steini, from Kahl (1932). E, B.undulans, from Bhandary (1962). F, B.undulans, from Lee & Shin (2009).
+G,B.undulans,fromKahl(1932).H,B.undulans,fromCela(1972).I,B.undulans,fromSuzuki(1954).J,K,B.undulans,
+fromDragesco&Dragesco-Kernéis(1991).Abbreviation:Ma,macronuclearnodules.Scalebars=90μm(B,I),80μm(G,
+F) 50μm (C, E, H), 40μm (J, K).
+(Giese,1973).Wethereforebelievethatthedifference Figure7,B.penardisp.nov.occupiesaseparatebranch
+in body shape between the Qingdao population of within the Blepharisma clade and is clearly separat-
+B.undulans and the South Korean and Argentinian ed from its congeners (including the morphologically
+populationstobepopulation-orenvironment-dependent similar species, B.steini), which supports our mor-
+andnotsignificantfortaxonomy.Theconservativenature phological evidence for its establishment as a new
+ofB.undulansisalsosupportedbythemoleculardata, species. Furthermore, apart from the difference in se-
+the SSU rDNAsequence obtained in this study being quencelength(theChinesepopulationis47bpshorter
+identical to that provided by Schmidt etal. (2007). atthe5′endand33bplongeratthe3′end),theSSU
+rDNAsequenceoftheChinesepopulationofB.undulans
+is identical to that of the German population
+PHYLOGENETICANALYSES (AM713183) investigated by Schmidt etal. (2007). It
+The overall topology of our phylogenetic tree is con- is noteworthy, however, that phylogenetic relation-
+gruentwiththatofShazibetal.(2014).Thenewlyse- ships within the genus Blepharisma are largely un-
+quencedspeciesA.clarissimaclusterswithitscongener, resolved because the SSU rDNAsequences of several
+Anigsteiniasp.(HM140405),onabranchthatisdeeply species are either identical or differ only negligibly
+divergentfromBlepharisma,thussupportingthemor- (Fernandes etal., 2013). Consequently, sequence data
+phological evidence for separating Anigsteinia from ofgenesthatevolvemorerapidlythanSSUrDNA,e.g.
+Blepharisma(Isquith,1968).ThetwoAnigsteiniaspp. themitochondrialcytochromeoxidaseIgeneortheri-
+formacladethatissistertotheSpirostomumassem- bosomalinternaltranscribedspacerregions(ITS1and
+blageandsothefamilySpirostomidaeismonophyletic IT2), are needed in order to resolve this problem.
+withAnigsteiniaincluded.Therefore,themoleculardata
+alsosupportthemorphologicalevidence,i.e.theunique-
+ACKNOWLEDGEMENTS
+lyposteriorlythickenedparoralmembraneandtheter-
+minalcontractilevacuolesystemwithalongcanal,for ThisworkwassupportedbytheNaturalScienceFoun-
+the assignment of the former to the family dationofChina(projectnumbers:41276139,31430077,
+Spirostomidae,assuggestedpreviously(Isquith,1968; 31572230), the Natural Science Foundation of Zhe-
+Isquith & Repak, 1974; Shazib etal., 2014). jiang Province (LY13C040005), the Open Fund of
+The addition of two new sequences of Blepharisma Zhejiang Provincial Top Key Discipline of Aquacul-
+verifies the monophyly of this genus. As shown in ture in Ningbo University (xkzsc1413), the Scientific
+©2016TheLinneanSocietyofLondon,ZoologicalJournaloftheLinneanSociety,2016,177,320–334
+
+332 Y. YAN ETAL.
+Figure7. Bayesianinference(BI)treeinferredfromsmallsubunit(SSU)rDNAsequencesshowingthepositionsofAnigsteinia
+clarissima, Blepharisma penardi sp. nov., and Blepharisma undulans (all three taxa in bold). Members of the class
+Karyorelicteaaretheoutgrouptaxa.NumbersnearbranchesshowtheposteriorprobabilitiesofBIandbootstrapvalues
+from maximum likelihood (ML). Black circles indicate full support (1.00 BI, 100% ML) in both analyses. Disagreements
+between BI and ML are shown by asterisks.All branches are drawn to scale. The scale bar corresponds to five substi-
+tutions per 100 nucleotide positions.
+Research Fund of Zhejiang Provincial Education (Ciliophora: Heterotrichida). Acta Protozoologica 37:
+Department(pd2013102),theNingboNaturalScience 71–92.
+Foundation (2015A610264), the K. C. Wong Magna Agamaliev FG. 1968. Materials on morphology of some
+Fund in Ningbo University, and the Deanship of psammophilicciliatesoftheCaspianSea.ActaProtozoologica
+ScientificResearchattheKingSaudUniversity(PRG 6: 225–244.
+1436-24). Al-Rasheid KAS. 2000. First record of the marine ciliate
+Anigsteiniacandida(YagiuandShigenaka,1956)Isquithand
+Repak,1974fromtheArabianGulf.JapaneseJournalofPro-
+tozoology 33: 35–38.
+REFERENCES
+Al-RasheidKAS.2001.Newrecordsofinterstitialciliates(Pro-
+Aescht E, Foissner W. 1998. Divisional morphogenesis in tozoaCiliophora)fromtheSaudicoastsoftheRedSea.Tropi-
+Blepharisma americanum, B. undulans, and B. hyalinum cal Zoology 14: 133–156.
+©2016TheLinneanSocietyofLondon,ZoologicalJournaloftheLinneanSociety,2016,177,320–334
+
+DESCRIPTION OF THREE HETEROTRICH CILIATES 333
+Anigstein L. 1912. Über zwei neue marine Ciliaten. Archiv FernandesNM,DiasRJP,SchragoCG,daSilvaNetoID.
+für Protistenkunde 24: 127–141. 2015.RedescriptionandphylogeneticpositionofCondylostoma
+Berger H. 2008. Monograph of the Amphisiellidae and arenarium Spiegel, 1926 (Ciliophora, Heterotrichea) from
+Trachelostylidae (Ciliophora, Hypotricha) (Monographiae GuanabaraBay,Brazil.JournalofEukaryoticMicrobiology
+Biologicae, vol. 88). Berlin: Springer. 62: 722–723.
+Bhandary AV. 1962. Taxonomy of genus Blepharisma with Fernandes NM, Dias RJP, Senra MVX, Soares CAG, da
+specialreferencetoBlepharismaundulans.JournalofPro- Silva Neto ID. 2013. Morphology and 18S rDNAgene se-
+tozoology 9: 435–442. quenceofBlepharismasinuosumSawaya,1940(Ciliophora:
+BockKJ.1952.Übereinigeholo-undspirotricheCiliatenaus Heterotrichea)fromBrazil.EuropeanJournalofProtistology
+den marinen Sandgebieten der Kieler Bucht. Zoologischer 49: 623–633.
+Anzeiger 149: 107–115. FernandesNM,daSilvaNetoID,SchragoCG.2014.Mor-
+BoscaroV,CarducciD,BarbieriG,SenraMVX,Andreoli phology and phylogenetic position of an unusual Stentor
+I,ErraF,PetroniG,VerniF,FokinSI.2014. Focusing polypmorphus (Ciliophora: Heterotrichea) without symbiot-
+ongeneratoimprovespeciesidentification:revisedsystem- ic algae. Journal of Eukaryotic Microbiology 61: 305–312.
+atics of the ciliate Spirostomum. Protist 165: 527–541. FoissnerW.1989.MorphologieundInfraciliatureinigerneuer
+Cela AM. 1972. Algunos ciliados vinculados a la vegetación undwenigbekannterterrestrischerundlimnischerCiliaten
+flotante. Physis (Rio de Janeiro, Brazil) 31: 559–577. (Protozoa,Ciliophora).SitzungsberichtenderÖsterreichische
+CzapikA,JordanA.1976.Lesciliéspsammophilesdelamer Akademie der Wissenschaften Wien 196 (year 1987): 173–
+Baltique aux environs de Gdan´sk. Acta Protozoologica 15: 247.
+423–445. Gao F, Katz LA. 2014. Phylogenomic analyses support the
+DereeperA,AudicS,ClaverieJM,BlancG.2010.BLAST- bifurcationofciliatesintotwomajorcladesthatdifferinprop-
+EXPLORERhelpsyoubuildingdatasetsforphylogeneticanaly- ertiesofnucleardivision.MolecularPhylogeneticsandEvo-
+sis. BMC Evolutionary Biology 10: 8. lution 70: 240–243.
+Dereeper A, Guignon V, Blanc G, Audic S, Buffet S, Giese A. 1973. Blepharisma: the biology of a light-sensitive
+ChevenetF,DufayardJF,GuindonS,LefortV,Lescot protozoan. Stanford: Stanford University Press.
+M, Claverie JM, Gascuel O. 2008. Phylogeny.fr: robust HallTA.1999.BioEdit:auser-friendlybiologicalsequencealign-
+phylogeneticanalysisforthenon-specialist.NucleicAcidsRe- ment editor and analysis program for Windows 95/98/NT.
+search 36: 465–469. Nucleic Acids Symposium Series 41: 95–98.
+Dragesco J. 1960. Ciliés mésopsammiques littoraux. HartwigE.1973.DieCiliatendesGezeiten-Sandstrandesder
+Systématique, morphologie, écologie. Travaux Station NordseeinselSylt.I.Systematik.AkademiederWissenschaften
+Biologique de Roscoff (Nouvelle série) 12: 1–356. undderLiteratur,MathematischNaturwissenschaftlicheKlasse,
+Dragesco J. 1966. Ciliés libres de Thonon et ses environs. Microfauna des Meeresbodens 18: 387–453.
+Protistologica 2: 59–95. HartwigE,ParkerJG.1977.Onthesystematicsandecology
+Dragesco J. 2002. Infraciliature de quinze especes de cilies of interstitial ciliates of sandy beaches in NorthYorkshire.
+mesopsammiquesmarinscomprenantTrachelocercastephani Journal of the Marine Biological Association of the United
+comb.nova,T.bodianicomb.nova,Tracheloraphisfiliformis Kingdom 57: 735–760.
+spec. nova, T. exilis spec. nova, et Sathrophilus arenicolus Isquith IR. 1968. Anigsteinia g. n., a member of family
+spec. nova. Linzer biologische Beiträgez 34: 1545–1626. Spirostomatidae.JournalofProtozoology,Supplement15:26–
+Dragesco J, Dragesco-Kernéis A. 1986. Ciliés libres de 27.Abstract 94.
+l’Afriqueintertropicale.Introductionálaconnaissanceetá Isquith IR, Repak AJ. 1974. The systematics of the
+l’étude des ciliés. Faune Tropicale 26: 1–559. genusAnigsteiniaIsquith,1968.ActaProtozoologica15:193–
+Dragesco J, Dragesco-Kernéis A. 1991. Free-living cili- 200.
+atesfromthecoastalareaofLakeTanganyika(Africa).Euro- Kahl A. 1928. Die Infusorien (Ciliata) der Oldesloer
+pean Journal of Protistology 26: 216–235. Salzwasserstellen. Archiv für Hydrobiologie 19: 50–129.
+EdgarRC.2004.MUSCLE:multiplesequencealignmentwith KahlA.1932.UrtiereoderProtozoaI:wimpertiereoderCiliata
+high accuracy and high throughput. Nucleic Acids Re- (Infusoria) 3. Spirotricha. DieTierwelt Deutschlands Pt. 25
+search 32: 1792–1797. (year 1932): 399–650.
+ElwoodHJ,OlsenGJ,SoginML.1985.Thesmall-subunit KennedyJR.1965.ThemorphologyofBlepharismaundulans
+ribosomal RNAgene sequences from the hypotrichous cili- Stein. Journal of Protozoology 12: 542–561.
+ates Oxytricha nova and Stylonychia pustulata. Molecular LarsenHF,NilssonJR.1983.IsBlepharismahyalinumtruly
+Biology and Evolution 2: 399–410. unpigmented? Journal of Protozoology 30: 90–97.
+Fauré-Fremiet E. 1950. Ecologie des ciliés psammophiles LeeES,ShinMK.2009.Newrecordofciliates,Blepharisma
+littoraux.BulletinBiologiquedelaFranceetdelaBelgique undulans and B. steini (Ciliophora: Heterotrichida:
+84: 35–75. Blepharismidae) from Korea. Animal Systematics, Evolu-
+FenchelT.1969.Theecologyofmarinemicrobenthos.IV.Struc- tion and Diversity 25: 41–47.
+tureandfunctionofthebenthicecosystem,itschemicaland Lynn DH (ed.). 2008. The ciliated protozoa: characteriza-
+physicalfactorsandthemicrofaunacommunities,withspecial tion, classification, and guide to the literature, 3rd edn.
+reference to the ciliated protozoa. Ophelia 6: 1–182. Dordrecht: Springer.
+©2016TheLinneanSocietyofLondon,ZoologicalJournaloftheLinneanSociety,2016,177,320–334
+
+334 Y. YAN ETAL.
+MedlinL,ElwoodHJ,StickelS,SoginML.1988.Thechar- Silva-NetoID,PaivaTS,DiasRJP,CamposCJA,Migotto
+acterization of enzymatically amplified eukaryotic 16S-like AE.2012.RedescriptionofLicnophorachattoniVilleneuve-
+rRNA-coding regions. Gene 71: 491–499. Brachon, 1939 (Ciliophora, Spirotrichea), associated with
+MiaoM,SongW,ClampJC,Al-RasheidKAS,Al-Khedhairy Zyzzyzus warreni Calder, 1988 (Cnidaria, Hydrozoa).Euro-
+AA, Al-Arifi S. 2009. Further consideration of the phylog- pean Journal of Protistology 48: 48–62.
+eny of some ‘traditional’ heterotrichs (Protista, Ciliophora) Small E, Lynn DH. 1985. Phylum Ciliophora Doflein, 1901.
+ofuncertainaffinities,basedonnewsequencesofthesmall In:LeeJJ,HutnerSH,BoveeEC,eds.Anillustratedguide
+subunitrRNAgene.JournalofEukaryoticMicrobiology56: to the Protozoa. Lawrence, Kansas: Society of Protozoolo-
+244–250. gists, 393–575.
+Miller MA, Pfeiffer W, Schwartz T. 2010. ‘Creating the StamatakisA.2014.RAxMLversion8:atoolforphylogenetic
+CIPRESScienceGatewayforinferenceoflargephylogenetic analysisandpost-analysisoflargephylogenies.Bioinformatics
+trees’ in Proceedings of the Gateway Computing Environ- (Oxford,England)30:1312–1313.doi:10.1093/bioinformatics/
+mentsWorkshop(GCE).14Nov.2010,NewOrleans,LA,1–8. btu033
+NylanderJAA.2004.MrModeltestv.2.Programdistributed SteinF.1867.DerOrganismusderInfusionsthierenacheigenen
+by the author. Evolutionary Biology Centre, Uppsala Forschungen in systematischer Reihenfolge bearbeitet. II
+University. Abtheilung.1)DarstellungderneuestenForschungsergebnisse
+Pan X, Bourland WA, Song W. 2013. Protargol synthesis: überBau,FortpflanzungundEntwickelungderInfusionsthiere.
+anin-houseprotocol.JournalofEukaryoticMicrobiology60: 2) Naturgeschichte der heterotrichen Infusorien. Leipzig:
+609–614. Wilhelm Engelmann, 355 pp.
+PenardE.1922.Étudessurlesinfusoiresd’eaudouce.Genève: SuzukiS.1954.TaxonomicstudiesonBlepharismaundulans
+Georg et Cie. Stein with special reference to the macronuclear variation.
+RaikovIB.1960.Theinterstitialciliatefaunaofthesandlit- JournalofScienceoftheHiroshimaUniversitySeriesB15:
+toral of the Dolniye Zelentzy Bay, Mourmansk. Trudy 204–220.
+Murmanskogo Biologitscheskogo Instituta 2: 172–185. Wilbert N. 1975. Eine verbesserte Technik der
+Ricci N, Santangelo G, Luporini P. 1982. Researches on Protargolimprägnation für Ciliaten. Mikrokosmos 64: 171–
+thecoastofSomalia.Sand-dwellingciliates.ItalianJournal 179.
+of Zoology 4: 115–148. YagiuR.1943.StudiesonthemarineciliatesofJapan.Journal
+Ronquist F, Teslenko M, van der Mark P, Ayres DL, of Science of the Hiroshima University Series B 10: 21–52.
+Darling A, Höhna S, Larget B, Liu L, Suchard MA, Yagiu R, Shigenaka Y. 1956. A new marine ciliate,
+Huelsenbeck JP. 2012. MrBayes 3.2: efficient Bayesian Blepharismacandidum,n.sp.JournalofScienceoftheHi-
+phylogeneticinferenceandmodelchoiceacrossalargemodel roshima University Series B 16: 81–86.
+space. Systematic Biology 61: 539–542. YanY,ChenX,ChenX,GaoF,Al-FarrajSA,Al-Rasheid
+SchmidtSL,FoissnerW,SchlegelM,BernhardD.2007. KAS. 2015. Morphology and molecular phylogeny of three
+Molecular phylogeny of the Heterotrichea (Ciliophora, marineCondylostomaspeciesfromChina,includingtwonew
+Postciliodesmatophora) based on small subunit rRNAgene ones (Ciliophora, Heterotrichea). European Journal of
+sequences. Journal of Eukaryotic Microbiology 54: 358– Protistology 51: 66–78.
+363. Zhou L, Yi Z, Lin X, Li J, Gong J. 2010. Phylogenetic po-
+Shazib S, Vd’acny P, Kim J, Jang S, Shin M. 2014. Mo- sitionofthreeciliategenera,Peritromus,Condylostomaand
+lecularphylogenyoftheciliateclassHeterotrichea(Protista, Spirostomum(Protozoa,Ciliophora,Heterotrichea)inferred
+Ciliophora, Postciliodesmatophora) based on multiple mo- from the small subunit rRNA gene sequences. Acta
+lecularmarkersandamultifacetedanalysisstrategyandre- Zootaxonomica Sinica 35: 518–522.
+construction of heterotrichean morphological evolution.
+Molecular Phylogenetics and Evolution 78: 118–135.
+©2016TheLinneanSocietyofLondon,ZoologicalJournaloftheLinneanSociety,2016,177,320–334
+

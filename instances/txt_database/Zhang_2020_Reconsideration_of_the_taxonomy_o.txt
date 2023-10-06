@@ -1,0 +1,453 @@
+Marine Life Science & Technology (2020) 2:97–108
+https://doi.org/10.1007/s42995-020-00032-4
+RESEARCH PAPER
+Reconsideration of the taxonomy of the marine ciliate Neobakuella
+aenigmatica Moon et al., 2019 (Protozoa, Ciliophora, Hypotrichia)
+Tengyue Zhang1,2,3 · Jingyi Dong2,3 · Ting Cheng2,4 · Lili Duan2,4 · Chen Shao1
+Received: 20 July 2019 / Accepted: 6 January 2020 / Published online: 27 April 2020
+© Ocean University of China 2020
+Abstract
+The morphology and divisional morphogenesis in a Chinese population of Neobakuella aenigmatica Moon et al., 2019
+are reinvestigated. The body size, number and arrangement of parabuccal cirri and development of nuclear nodules in this
+population are discussed in comparison with closely related genera. The 18S rRNA gene sequence of the Chinese popula-
+tion is identical to that of a Korean population, supporting a distant relationship between N. aenigmatica and the cluster of
+N. flava and Apobakuella fusca. We deduce that this may be caused by the differences in the pattern of the parabuccal cirri
+and the number of parabuccal rows which are important for the phylogeny of Bakuella-like species.
+Keywords Bakuellids · Ontogenesis · Taxonomy · Urostylida
+Introduction
+et al. 2019; Lyu et al. 2018; Shao et al. 2019; Song and Shao
+2017; Wang et al. 2019; Zhang et al. 2018; Zhu et al. 2019).
+Due to the variety of their ciliary patterns and nuclear appa- The urostylid genus Neobakuella was established by Li
+ratus, hypotrichs offer important insights for understanding et al. (2011) with N. flava as the type species. Neobakuella is
+the evolutionary relationships among ciliates (Berger 1999, identified as belonging to Bakuellidae (?) with a continuous
+2006, 2008, 2011; Chen et al. 2017; Song and Shao 2017). adoral zone of membranelles, long undulating membranes,
+Numerous studies have been carried out in recent years on three frontal cirri, two or more buccal cirri, a parabuccal
+the taxonomy, morphogenesis and molecular phylogeny of row, a midventral complex composed of irregularly arranged
+hypotrichs, thereby increasing knowledge and understanding midventral pairs and/or short midventral rows in the anterior
+of their systematics (Hu et al. 2019; Li F. et al. 2019; Luo portion and several short to long midventral rows in the mid-
+dle and posterior portions, two or more frontoterminal cirri,
+one right and two or more left marginal rows, transverse
+cirri present, and three bipolar dorsal kineties. Recently, a
+large, novel brackish water bakuellid isolated from South
+Edited by Jiamei Li.
+Korea was described by Moon et al. (2019) under the name
+Neobakuella aenigmatica.
+Tengyue Zhang and Jingyi Dong contributed equally.
+Hitherto, knowledge on the morphogenesis of Neoba-
+*
+Chen Shao kuella was restricted to one early stage of N. flava, mak-
+shaochen@snnu.edu.cn
+ing it difficult to interpret the origin of some irregularly
+1 Laboratory of Protozoological Biodiversity & Evolution arranged cirri in the buccal field (Li et al. 2011). However,
+in Wetland, College of Life Sciences, Shaanxi Normal the same structure of irregularly arranged cirri was discov-
+University, Xi’an 710119, China ered in the genus Apobakuella Jiang et al., 2013 and inter-
+2 Laboratory of Protozoology, Institute of Evolution & Marine preted according to morphogenesis of its parabuccal cirri
+Biodiversity, Ocean University of China, Qingdao 266003, (Jiang et al. 2013). Morphogenesis of the parabuccal cirri
+China
+in Neobakuella flava probably follows a similar pattern to
+3 College of Fisheries, Ocean University of China, that in Apobakuella fusca, which was supported by recent
+Qingdao 266003, China
+molecular phylogenetic analyses showing that these two spe-
+4 College of Marine Life Sciences, Ocean University of China, cies cluster together in SSU rDNA gene trees (Moon et al.
+Qingdao 266003, China
+Vol.:(0112 33456789)
+
+9 8 Marine Life Science & Technology (2020) 2:97–108
+2019). However, there is also a distant relationship between Results
+Neobakuella aenigmatica and the cluster of N. flava and
+A. fusca. Furthermore, the number and pattern of parabuc- Morphology of Chinese population of Neobakuella
+cal cirri in N. aenigmatica vary greatly among individuals aenigmatica (Figs. 1a, 2a–h; Table 1)
+(Moon et al. 2019).
+In November 2016, a population of N. aenigmatica was Body size 150–200 × 50–70 μm in vivo, usually about
+isolated from a stream in Tangdao Bay Park, Qingdao, 170 × 60 μm, ratio of length to width approximately
+China. In this work, we investigate the morphology and 3:1 in vivo. Outline wide-elliptical, the anterior portion
+divisional morphogenesis of N. aenigmatica, and give slightly curved rightwards while foraging for food; body
+some more information about this species. The value of slightly fragile, flexible, and contractile i.e., reducing in
+the pattern of the parabuccal cirri in assessing phyloge- length by about 10% under mild pressure with cover glass
+netic relationships among Bakuella-like species is also (Fig. 2a, b); ventral side flat, dorsal side usually convex
+discussed. in posterior region, and dorsoventrally flattened at a ratio
+of approximately 2:1. Macronuclear nodules small and
+Fig. 1 Morphology and infraciliature of Neobakuella aenigmatica head marks the buccal cirri. ADK additional dorsal kineties anterior
+in vivo (a–d) and after protargol staining (e, f). a Ventral view of a to right marginal row; AZM adoral zone of membranelles; E endoral
+representative individual. b Ventral view, to show cortical granules membrane; FC frontal cirri; FT frontoterminal cirri; L1–3 the first,
+distributed near marginal cirri. c, d Dorsal views, to show cortical second and third left marginal rows, respectively; Ma macronucleus
+granules near the dorsal cilia (c) and lateral side (d). e, f Ventral (e) nodules; Mi micronuclei; MP midventral pairs; P paroral membrane;
+and dorsal (f) view of the same specimen showing the infraciliature RMR right marginal rows, TC transverse cirri; D1–3 dorsal kineties
+and nuclear apparatus. In e, arrow shows parabuccal cirri and arrow- 1–3; 1–6, midventral rows 1–6. Scale bars = 75 μm (a, e, f)
+1 3
+
+Marine Life Science & Technology (2020) 2:97–108 99
+Fig. 2 Photomicrographs of Neobakuella aenigmatica in vivo (a–h) cates the third left marginal row. k Ventral view of anterior portion,
+and after protargol staining (i–p). a, b Ventral views of different showing buccal (arrowheads), frontal and parabuccal cirri (in circle)
+individuals, showing contractile vacuoles (arrowhead in a). c Ven- respectively. l Dorsal view of anterior portion, showing dorsal kine-
+tral view of the anterior portion of cell, showing the adoral zone. d–f ties (arrowheads). m–p Ventral views of different individuals, show-
+Dorsal views, showing arrangement of grass-green colored cortical ing different patterns of left marginal rows (arrowheads). Note: m–p
+granules (arrowheads) and midventral cirri (arrows). g, h Ingested are false-colored by inverting color in Photoshop CS5. FC frontal
+algae (arrowheads in g), flagellates (arrows in g) and fungal spores cirri; FT frontoterminal cirri; L1, 2, left marginal rows 1, 2; PBC
+(arrow in h). i, j Ventral views, showing infraciliature and nuclear parabuccal cirri. Scale bars = 85 μm
+apparatus. Arrows mark the frontoterminal cirri; arrowhead indi-
+numerous (about 121 nodules), scattered throughout the is insufficiently bleached (Figs. 1b–d, 2d–f). Cytoplasm
+cell; individual nodules measure about 4–8 × 3–5 μm after is colorless, contains fat globules (ca. 2–3 μm across)
+protargol staining, usually globular to wide-ellipsoidal, and food vacuoles (ca. 10–15 μm across) with compact
+but some are elongate-ellipsoidal, each with several small contents. It is omnivorous and ingests fungal spores,
+nucleoli (Figs. 1f, 2i–l). Micronuclei difficult to observe diatoms, flagellates, and small ciliates (Fig. 2g, h). Moves
+either in vivo or after protargol staining, probably several rapidly by crawling over substrate without pause.
+scattered throughout cell smaller than macronuclear
+nodules. Contractile vacuole located at the level of buccal Adoral zone palpable, occupying, 32–43% of body length,
+vertex near the left cell margin (Figs. 1a, 2a). Cells slightly on average about 38% of body length after protargol stain-
+yellow-brownish at low (× 100) magnification because ing; composed of 42 membranelles on average, bases of the
+of cytoplasm and food vacuoles; cortical granules about largest membranelles about 14 μm wide, cilia up to 20 μm
+1 × 1 μm in size, globular to ellipsoidal, grass-greenish, long in vivo. Paroral arches strongly, approximately four-
+easy to observe in protargol preparations when the cell fifth the length of endoral which is bow-shaped, anterior
+1 3
+
+1 00 Marine Life Science & Technology (2020) 2:97–108
+Table 1 Morphometric characterization of Neobakuella aenigmatica based on protargol-stained specimens (measurements in μm)
+Character Min Max Mean M SD CV n
+Body (length) 140.0 250.0 182.8 181.0 29.1 15.9 20
+Body (width) 38.0 148.0 70.3 58.5 30.8 43.9 20
+Body length:width (ratio) 1.5 4.3 2.9 3.0 0.7 25.0 20
+Anterior body end to proximal end of adoral zone (distance) 48.0 93.0 70.2 70.5 11.4 16.2 20
+Body length:length of adoral zone (ratio) 2.3 3.1 2.6 2.6 0.3 10.2 20
+Anterior body end to anterior end of paroral membrane (distance) 6.0 15.0 11.0 10.5 2.2 19.8 20
+Paroral membrane (length) 31.0 63.0 45.6 45.5 8.6 18.8 20
+Anterior body end to anterior end of endoral membrane (distance) 8.0 17.0 13.2 13.0 2.8 21.3 20
+Endoral membrane (length) 38.0 76.0 55.1 53.5 9.1 16.5 20
+Anterior body end to first buccal cirrus (distance) 12.0 31.0 21.0 20.0 4.3 20.6 20
+Anterior body end to last buccal cirrus (distance) 31.0 65.0 47.9 45.0 9.5 19.8 20
+Anterior body end to posterior end of midventral pairs (distance) 50.0 98.0 69.7 68.0 11.1 16.0 20
+Posterior body end to rearmost transverse cirrus (distance) 8.0 48.0 17.9 15.0 10.5 58.6 20
+Adoral membranelles (number) 32.0 57.0 42.1 41.5 6.4 15.2 30
+Frontal cirri (number) 3.0 3.0 3.0 3.0 0 0 20
+Buccal cirri (number) 4.0 10.0 6.4 6.0 1.5 23.4 30
+Parabuccal cirri (number) 2.0 3.0 2.1 2.0 0.2 10.9 20
+Frontoterminal cirri (number) 2.0 2.0 2.0 2.0 0 0 20
+Midventral pairs (number) 8.0 15.0 10.2 10.0 1.7 17.0 20
+Midventral rows (number) 4.0 8.0 5.7 6.0 1.0 18.1 20
+Cirri of midventral row 1 (number)a 3.0 4.0 3.1 3.0 0.2 7.3 20
+Cirri of midventral row 2 (number) 3.0 5.0 3.7 3.5 0.8 21.7 20
+Cirri of midventral row n−1 (number)a 8.0 16.0 11.9 12.0 2.2 18.2 20
+Cirri of midventral row n (number)a 9.0 18.0 13.1 13.0 2.2 16.9 20
+Left marginal rows (number) 2.0 5.0 3.3 3.0 0.7 22.2 20
+Cirri of left marginal row 1 (number)b 34.0 68.0 46.4 45.5 8.5 18.4 20
+Cirri of left marginal row 2 (number)b 5.0 22.0 11.2 10.5 4.8 43.1 20
+Cirri of left marginal row 3 (number)b 2.0 32.0 13.9 13.5 9.6 68.9 20
+Cirri of left marginal row 4 (number)b 3.0 16.0 7.8 – – – 5
+Cirri of left marginal row 5 (number)b 4.0 9.0 6.5 – – – 2
+Cirri of right marginal row (number) 42.0 74.0 53.9 54.5 7.9 14.7 20
+Dorsal bristles ahead of right marginal row (number) 2.0 2.0 2.0 2.0 0 0 20
+Transverse cirri (number) 8.0 15.0 11.1 10.5 2.3 20.4 20
+Dorsal kineties (number) 3.0 3.0 3.0 3.0 0 0 20
+Dorsal bristles of dorsal kinety 1 (number) 23.0 47.0 31.2 29.5 7.3 23.3 20
+Dorsal bristles of dorsal kinety 2 (number) 25.0 49.0 34.5 34.5 5.8 16.8 20
+Dorsal bristles of dorsal kinety 3 (number) 27.0 47.0 35.6 33.5 5.5 15.4 20
+Macronuclear nodules (number) 100.0 179.0 127.9 121.0 21.4 16.7 20
+CV coefficient of variation in %, M median, Max maximum, Mean arithmetic mean, Min minimum, n number of cells measured, SD standard
+deviation
+a Cirral rows with more than two cirri. Midventral row 1 is the anterior most row, midventral row n is the posterior most row
+b Numbered from inside to outside
+ends of each at the same level, paroral and endoral optically zone; two or three parabuccal cirri behind right frontal cir-
+intersect in their posterior region (Figs. 1e, 2i–k). Buccal rus (Figs. 1e, 2i–k). A row of four to ten buccal cirri at the
+cavity large and deep, the hyaline lip covers the proximal right of paroral cirri becomes progressively smaller from
+end of the adoral zone of membranelles (Fig. 2c). the anterior to the posterior (Figs. 1e, 2i–k). Constantly two
+Three conspicuously enlarged frontal cirri, about 18 μm fine frontoterminal cirri are seen which are anterior to the
+long in vivo, the rightmost one near distal end of adoral right of the anterior most midventral pair (Figs. 1e, 2i, j).
+1 3
+
+Marine Life Science & Technology (2020) 2:97–108 101
+Midventral complex including a row of 8–15 pairs of cirri Later several proximal membranelles are replaced by new
+that terminates at the level of buccal vertex, together with ones (Figs. 3f, h, 5g, m). The development of the undulat-
+4–8 oblique, short or long midventral rows; rightmost long ing membrane anlage follows a similar pattern to that in the
+midventral row extends to the right of the rightmost trans- opisthe (Figs. 3f, h, 4a, e, 5g, i, m–p, s).
+verse cirrus (Figs. 1e, 2i, j). Eight to 15 transverse cirri, with
+cilia approximately 18 μm long in vivo, closely arranged in Development of somatic ciliature
+oblique rows, either does not project beyond body margin or
+project only slightly (Fig. 1a, e). Initially a few basal bodies appear on the right of the old
+Marginal and midventral cirri 9–14 μm long in vivo. buccal cirri in the proter and the buccal cirri dedifferentiate
+Constantly one right marginal row composed of 42–74 simultaneously, which will become the frontoventral-trans-
+cirri, starting at the right of frontoterminal cirri on dorso- verse cirral anlagen (Figs. 3c, 5d). Then, the frontoventral-
+lateral surface (with two dorsal bristles ahead), and ending transverse cirral anlagen grows by increasing their numbers
+subterminally (Fig. 1e, f). Number of left marginal rows of basal bodies which become organized into numerous nas-
+variable, i.e. out of 20 individuals, one had two rows, 14 cent oblique streaks as a ladder-like structure in the proter
+had three rows, three had four rows and two had five rows. (Figs. 3c, d, 5e). Meanwhile, several nascent oblique streaks
+Among these left marginal rows, only left marginal row 1 for the opisthe are formed to the right of the opisthe’s oral
+(the innermost) is a complete row, comprising 34–68 cirri, primordium, with a few parental cirri from the midventral
+starting ahead of the level of buccal vertex and terminating rows contributing to their formation (Figs. 3c, e, 5f).
+at the posterior end of body; left marginal rows, 2–5, com- In some middle to late stages, the frontoventral-transverse
+mence behind the level of anterior end of innermost row, cirral anlagen for both daughter cells continue to develop
+and comprise variable numbers of sparsely distributed cirri and differentiate into many cirri (Figs. 3f, h, 4a, e, 5g, i,
+(Figs. 1e, 2i, j, m–p). Three bipolar dorsal rows, with bristles m–p, s). Anlage II (the undulating membrane anlage is fron-
+about 5 μm long in vivo; dorsal kineties 1–3 are composed toventral-transverse cirral anlage I) gives rise to the middle
+of 31, 35 and 36 dikinetids on average, respectively (Fig. 1f; frontal cirrus and four to ten buccal cirri; anlage III produces
+Table 1). the rightmost frontal cirrus and one or two parabuccal cirri.
+In the proter of Fig. 4a, anlagen IV–VII form a midventral
+Morphogenesis of Neobakuella aenigmatica
+pair each; anlagen VIII–XI produce a midventral pair and a
+(Figs. 3a–i, 4a–f, 5a–u)
+transverse cirrus each; the last anlage (the rightmost anlage)
+develops two frontoterminal cirri, one midventral row and
+Stomatogenesis: In the opisthe, stomatogenesis starts with one transverse cirrus; Other anlagen (anlagen XII–XV) form
+several groups of closely spaced basal bodies originating one midventral row and one transverse cirrus. Different
+apokinetally around several of the posterior left cirri of the specimens have different numbers of anlagen. Finally, the
+parental midventral rows (Figs. 3a, 5a). These groups subse- cell elongates and the new ciliary structures move further
+quently become larger, merge and form the oral primordium apart as they migrate towards their final positions. Note that
+(Figs. 3b, 5c). The oral primordium develops further and the the two anterior frontoterminal cirri from the last anlage
+anterior portion then gradually differentiates into new adoral migrate anteriorly and the parental structures are resorbed
+membranelles (Figs. 3c, 5f). By this stage, some posterior gradually (Figs. 4e, 5s). Meanwhile, the development of the
+left cirri of the midventral complex have been resorbed and cytostome is completed and the daughter cells begin to sepa-
+others are disintegrating, indicating that the parental basal rate (Fig. 4e).
+bodies are incorporated into the oral primordium (Figs. 3c,
+e, 5f). At the same time, the undulating membrane anlage Marginal and dorsal anlagen
+is formed to the right of the oral primordium (Figs. 3c, e,
+5f). Later, the leftmost frontal cirrus is generated from the Within the right and innermost left parental marginal rows
+anterior end of the undulating membrane anlage which splits of both daughter cells, a few cirri near the anterior end, and
+longitudinally into the endoral and paroral, and the anterior a few others below the mid-body, differentiate to form two
+end of the newly built adoral zone of membranelles bends separate anlagen (Fig. 3f, h). These anlagen then increase
+to the right (Figs. 3f, h, 5i, n). in size by adding basal bodies and develop into cirri which
+In the proter, the endoral begins to disorganize from gradually replace the parental structures (Fig. 4a, e). It is
+anterior to posterior (Figs. 3b, 5b). Very soon, the paroral noteworthy that several small anlagen are formed de novo or
+begins to dedifferentiate (Fig. 5d). As this process contin- intrakinetally to the left of the anlage to form the innermost
+ues, the undulating membrane anlage is formed (Figs. 3c, left marginal rows, and then these short anlagen elongate
+d, 5e). Meanwhile, the posterior end of the parental adoral and develop into the other short left marginal rows/seg-
+zone of membranelles begins to disorganize (Figs. 3c, d, 5e). ments of each daughter cell (Figs. 3f, h, 4a, e, 5h, j, k, r, t).
+1 3
+
+1 02 Marine Life Science & Technology (2020) 2:97–108
+Fig. 3 Morphogenesis of Neobakuella aenigmatica after protargol appearance of undulating membrane anlage in the opisthe. f, g Ven-
+staining. a, b Ventral views of cells in early stages, to show the tral and dorsal view of a slightly later divider, to show the formation
+opisthe’s oral primordium (arrowheads in a) and dedifferentiation of of dorsal kinety anlagen (arrowheads in g), formation of left and right
+the endoral (arrow in b). c–e Ventral views of an early middle divider, marginal anlagen, development of frontoventral-transverse cirral anla-
+showing the development of frontoventral-transverse cirral anlagen gen (double-arrows), as well as undulating membrane anlagen start-
+and dedifferentiation of paroral (double-arrowhead). Note d and e, ing to split longitudinally and gives rise to the leftmost frontal cirri in
+are magnified views of anlagen developing in proter and opisthe as both daughter cells (arrows). Note that several marginal anlagen seg-
+shown in c. In c, the opisthe’s oral primordium differentiates into new ments form to the left of the innermost left marginal anlagen (arrow-
+membranelles (arrow) and proximal membranelles of the proter are heads in f). h, i Ventral and dorsal view of a middle divider, to show
+in the process of dedifferentiation (arrowhead). In d, arrow indicates the development of dorsal kinety anlagen (arrowheads in i), segmen-
+that the parental midventral cirri dedifferentiate and join in the forma- tation of frontoventral-transverse cirral anlagen and the leftmost fron-
+tion of the frontoventral-transverse cirral anlagen, arrowhead marks tal cirri (arrows in h) and development of the anlagen to form the left
+dedifferentiation of proximal membranelles in the proter, and double- marginal segments (arrowheads in h). FVTA frontoventral-transverse
+arrowhead shows dedifferentiation of paroral. In e, arrow marks the cirral anlagen; LMA left marginal anlagen; Ma macronucleus nod-
+development of opisthe’s oral primordium, arrowheads show dedif- ules; Mi micronuclei; OP oral primordium; RMA right marginal anla-
+ferentiation of midventral cirri and double-arrowhead points to the gen. Scale bars = 80 μm (a–c); 15 μm (d, e); 65 μm (f–i)
+The parental left marginal rows will eventually be resorbed (Fig. 4b, f). During the division process, neither surplus
+(Figs. 4a, e, 5r, t). anlagen nor caudal cirri are formed.
+Morphogenesis of the dorsal kineties is like most uro-
+stylids as they develop by intrakinetal basal body pro- Division of the nuclear apparatus
+liferation, i.e. two anlagen develop in each parental row
+(Figs. 3g, i, 5l). These anlagen subsequently elongate and The nuclear apparatus divides in the usual way for urostyl-
+the parental structures are either incorporated or resorbed ids and hence needs no detailed comment. The most strik-
+ing feature of the macronuclear division process is that all
+1 3
+
+Marine Life Science & Technology (2020) 2:97–108 103
+Fig. 4 Morphogenesis (a, b, e, f) and reorganization (c, d) of Neoba- tral-transverse cirral anlagen (double-arrowhead), anlagen for left
+kuella aenigmatica after protargol staining. a, b Ventral (a) and dor- marginal rows (arrows), segments (arrowheads in c), and dorsal kine-
+sal (b) view of a late divider, showing that anlage II gives rise to the ties (arrowheads in d). e, f Ventral (e) and dorsal (f) view of a very
+buccal cirri (arrowhead in a), anlage III produces the parabuccal cirri late divider, showing the buccal cirri (arrowheads in e), parabuccal
+(arrow), the rightmost anlage forms two frontoterminal cirri (red stars cirri (arrows), frontoterminal cirri (red stars), left marginal segments
+in a), left marginal segments are formed to the left of the innermost (double-arrowheads), transverse cirri (in circle) and dorsal kinety
+left marginal anlagen (double-arrowhead) and the dorsal kinety anla- anlagen (arrowheads in f). LMA left marginal anlagen; Ma macro-
+gens are in the process of development (arrowheads in b). c, d Ven- nucleus nodules; Mi micronuclei; RMA right marginal anlagen; TC
+tral (c) and dorsal (d) view of a reorganizer, showing the frontoven- transverse cirri. Scale bars = 80 μm
+the macronuclear nodules fuse into a single mass (Figs. 3g, 1656 bp and 44.26%. The sequences of the Qingdao and
+i, 4b, 5a, m, n, q). The micronuclei divide independently Korean populations are identical.
+(Figs. 3i, 4b, f, 5q).
+Discussion
+Reorganization of Neobakuella aenigmatica
+(Figs. 4c, d, 5u) Identification of Neobakuella aenigmatica
+Only one physiological regeneration stage was observed for Neobakuella aenigmatica was first described by Moon
+this species. According to the available data, the processes of et al. (2019), based on a Korean population. The popu-
+reorganization during physiological regeneration and mor- lation investigated here closely resembles the Korean
+phogenesis during binary fission are similar (Figs. 4c, d, 5u). population except for the following minor differences:
+body length in vivo (150–200 μm vs. 185–300 μm), width
+in vivo (50–70 μm vs. 55–105 μm), numbers of adoral
+The SSU rDNA sequences of Chinese population
+membranelles (48–93 vs. 36–73), frontal cirri (3 vs. 3–4),
+buccal cirri (4–10 vs. 5–10), parabuccal cirri (2–3 vs.
+The SSU rDNA sequence of N. aenigmatica (Qingdao popu- 1–6), frontoterminal cirri (2 vs. 1–3), midventral pairs
+lation) is deposited in the GenBank database with the acces- (8–15 vs. 8–22), midventral rows (4–8 vs. 4–10) and left
+sion number MN326296. The length and G + C content are marginal rows (2–5 vs. 2–4) (Moon et al. 2019). As there
+are so many overlapping data, we believe that these two
+1 3
+
+1 04 Marine Life Science & Technology (2020) 2:97–108
+Fig. 5 Photomicrographs of Neobakuella aenigmatica during mor- ments formed to the left of the innermost left marginal anlage which
+phogenesis (a–t) and reorganization (u) after protargol staining. a then develop into new short left marginal rows (arrows in h, j and k),
+Ventral view of an early divider, to mark the oral primordium (arrow- and the dorsal kinety anlage (arrowheads in l). m, n Ventral views
+heads). b, c Ventral views of the same early divider, showing the of a middle divider, to mark the leftmost frontal cirri in both daugh-
+dedifferentiation of endoral (arrows) and buccal cirri (arrowheads), ter cells (arrows). o–r Ventral views of a late divider. o, p showing
+and opisthe’s oral primordium. d Ventral view of an early divider, buccal cirri (double-arrowheads), two frontoterminal cirri (arrows)
+showing the dedifferentiation of the buccal cirri (double-arrowheads), and transverse cirri (arrowheads). q Demonstrating the micronuclei
+undulating membrane (arrowheads) and frontoventral-transverse cir- and fusion of the macronuclear nodules. Arrow in r marks the newly
+ral anlagen (arrows). e, f Ventral views of the same divider, showing formed left marginal segment. s, t Ventral views of a divider in very
+undulating membrane anlage in proter (arrowhead in e), the parental late stage, to show the frontoterminal cirri (arrow in s) and left mar-
+midventral cirri (arrowheads in f) which contributes to the formation ginal segment (arrow in t). u Ventral view of a middle reorganizer,
+of the frontoventral-transverse cirral anlagen and the oral primordium showing the leftmost frontal cirrus (arrowhead) and the left marginal
+which develops and differentiates into new membranelles (arrow). segment (arrow). Ma macronucleus nodules; Mi micronuclei; OP oral
+g–l Ventral (g–k), and dorsal (l) views of the same specimen, to show primordium. Scale bars = 25 μm (a–d); 40 μm (e, f); 45 μm (g–t);
+the undulating membrane anlagen (arrowheads in g and i), the left- 90 μm (u)
+most frontal cirri (arrows in g and i), several marginal anlagen seg-
+1 3
+
+Marine Life Science & Technology (2020) 2:97–108 105
+populations are congeneric. The Qingdao population is, (Agamaliev and Alekperov 1976; Jiang et al. 2013) and
+therefore, identified as N. aenigmatica with a high degree the number of right marginal row(s), i.e., only one row in
+of certainty. Neobakuella vs. two or more rows in Metaurostylopsis (Song
+et al. 2001) (Fig. 6).
+Morphological comparison of Neobakuella
+with similar genera Phylogenetic analyses
+Neobakuella Li et al., 2011 is assigned to the family Bak- Neobakuella and Apobakuella show a close relationship
+uellidae as a result of possessing three frontal cirri and a based on phylogenetic analyses of their morphology and
+midventral complex composed of cirral pairs and row(s). morphogenesis (Fig. 6). However, comparison of their SSU
+With respect to the presence of buccal and transverse cirri, rDNA sequences shows a distant relationship between N.
+the possession of a continuous adoral zone of membranelles aenigmatica and the cluster of N. flava and A. fusca. Hence,
+and the absence of caudal cirri, at least three bakuellid gen- the systematic position of N. aenigmatica should be recon-
+era should be compared with Neobakuella, namely Bakue- sidered. Due to the lack of morphogenetic data for N. flava,
+lla Agamaliev and Alekperov, 1976, Metaurostylopsis Song two indistinct groups of cirri (groups I and II) were not inter-
+et al., 2001 and Apobakuella Jiang et al., 2013. Neobakuella preted in detail by Li et al. (2011). However, the irregular
+can, however, be easily distinguished from these genera by pattern of cirri in the buccal area of A. fusca was interpreted
+the number of left marginal rows (two and more rows in precisely by Jiang et al. (2013) following an investigation of
+Neobakuella vs. only one row in Bakuella and Apobakuella) its morphogenesis. These indistinct groups of cirri (groups
+Fig. 6 Comparison of some bakuellid genera (Apobakuella, Bakuella, row; MA macronucleus nodules; MC midventral complex; MP mid-
+Metaurostylopsis and Neobakuella). BC buccal cirrus(i); CC caudal ventral pair; MV midventral row; PBR parabuccal cirral row(s); RMR
+cirri; DK dorsal kineties; FC frontal cirri; FTC frontoterminal cirri; right marginal row; TC transverse cirri
+FTVA IV frontoventral-transverse cirral anlage IV; LMR left marginal
+1 3
+
+1 06 Marine Life Science & Technology (2020) 2:97–108
+Fig. 7 The morphology and infraciliature of three species (Neobak- et al. 2013). FC frontal cirri, FTC frontoterminal cirri; a3, b3, c3,
+uella aenigmatica, Neobakuella flava and Apobakuella fusca). a1–a3 arrows show the parabuccal cirri. Scale bars = 100 μm (a1, a2, c1,
+N. aenigmatica (from present work and Moon et al. 2019). b1–b3 N. c2); 80 μm (b1, b2)
+flava (from Li et al. 2011). (c1–c3) Apobakuella fusca (from Jiang
+I and II, sometimes group III is also present) originate from Metaurostylopsis vs. more than one in the other three gen-
+frontoventral-transverse cirral anlagen IV and V, or from era); (2) the number of left marginal rows formed (only one
+IV to VI. We believe that the parabuccal cirri in N. flava in Bakuella and Apobakuella vs. more than one in Neoba-
+probably developed in the same way as those in A. fusca. kuella and Metaurostylopsis); (3) the number of right mar-
+The pattern of development of parabuccal cirri in N. aenig- ginal rows formed (only one in Neobakuella and Bakuella
+matica, however, differs as they form from anlage III in the vs. more than one in Apobakuella and Metaurostylopsis);
+Qingdao population and probably from anlage III or anlagen (4) frontoterminal cirri formed from an anlage n (absent in
+III to V in the Korean population (Moon et al. 2019). We Apobakuella, present in the other three genera); and (5) the
+deduce that the number of parabuccal rows is important in number of parabuccal cirral rows formed (only one in Bak-
+the phylogeny of Bakuella-like species. Differences in the uella and Metaurostylopsis vs. two or more in Apobakuella,
+arrangement of parabuccal cirri among N. aenigmatica, N. one or more in Neobakuella) (Jiang et al. 2013; Li et al.
+flava and Apobakuella are shown in Fig. 7. 2011; Moon et al. 2019; Song et al. 2001).
+For N. aenigmatica, all key morphogenetic characters
+Morphogenetic comparison of Neobakuella
+except the division of the nuclear apparatus were reported in
+with similar genera
+the Korean population (Moon et al. 2019). The present study
+of the Qingdao populations shows that the numerous macro-
+Three other genera in the order Urostylida, namely Bakuella nuclear nodules fuse into a single mass before dividing.
+Metaurostylopsis and Apobakuella, resemble Neobakuella in
+possessing three frontal cirri, midventral rows, buccal cirri
+and transverse cirri. Furthermore, morphogenesis in these
+three genera resembles that in Neobakuella. Differences
+among them are as follows: (1) the number of buccal cirri
+formed from the undulating membrane anlage (only one in
+1 3
+
+Marine Life Science & Technology (2020) 2:97–108 107
+Materials and methods number: MN204486) using the Clustal W implemented in
+Bioedit 7.2.6 (Hall 1999). The alignments were then modi-
+Sample collection and cultivation fied manually by deleting both ends with BioEdit 7.2.6. The
+final alignment included 1560 bp and had a GC content of
+On 5 November 2016, a mixture of water and rotten leaves 44.55%.
+was collected from a brackish water stream in Tangdao Bay
+Park, Qingdao (35°56′18″N; 120°12′44″E), when the water Acknowledgements This work was supported by the Natural Science
+Foundation of China (No. 31872190). Many thanks are given to Prof.
+temperature was 13 ºC, and salinity was 6‰. The sample
+Weibo Song (OUC) for his many kind suggestions during drafting of
+was processed within two hours. Individuals of N. aenig- the manuscript.
+matica were isolated using micropipettes under the stereo-
+scope and clonal cultures were established using artificial Author contributions Shao and Zhang wrote the manuscript. Zhang,
+Dong, Cheng and Duan collected the samples and performed the
+water (salinity 6‰) at room temperature (23 ºC). Diatoms
+staining.
+were isolated from the same sample and cultivated in Petri
+dishes in a light–dark cycle incubator at a temperature of Compliance with ethical standards
+(25 ºC). These diatoms were used as a food source for N.
+aenigmatica.
+Conflict of interest The authors declare that they have no conflict of
+interest.
+Morphology and morphogenesis Animal and human rights statement We declare that all applicable
+international, national, and/or institutional guidelines for sampling,
+care, and experimental use of organisms for the study have been fol-
+Living cells were observed with bright field and differential
+lowed and all necessary approvals have been obtained.
+interference contrast microscope (Olympus BX53, Tokyo,
+Japan). The infraciliature was revealed by protargol staining
+(Wilbert 1975). Counts, measurements and line diagrams
+of stained cells were performed at × 1000 magnification. To
+References
+illustrate the changes occurring during morphogenesis, old
+(parental) ciliary structures are depicted by contour whereas
+Agamaliev FG, Alekperov IK (1976) A new genus Bakuella
+new structures are shaded black. For general and specific (Hypotrichida) from the Caspian Sea and the Djeiranbatansky
+terms, see Berger (2006, 2008). For the designation of the water reservoir. Zool Zh 55:128–131
+frontoventral-transverse cirri and frontoventral-transverse Berger H (1999) Monograph of the Oxytrichidae (Ciliophora, Hypotri-
+chia). Monogr Biol 78:1–1080
+cirral anlagen, the numbering system of Wallengren (1900)
+Berger H (2006) Monograph of the Urostyloidea (Ciliophora, Hypotri-
+is used. cha). Monogr Biol 85:1–1304
+Berger H (2008) Monograph of the Amphisiellidae and Trachelostyli-
+dae (Ciliophora, Hypotricha). Monogr Biol 88:1–737
+DNA extraction, PCR amplification and sequencing
+Berger H (2011) Monograph of the Gonostomatidae and Kahliellidae
+(Ciliophora, Hypotricha). Monogr Biol 90:1–741
+Chen XM, Lu XT, Luo XT, Jiang JM, Shao C, Al-Rasheid KAS, War-
+One or more cells were isolated from the single-cell cultures
+ren A, Song WB (2017) The diverse morphogenetic patterns in
+and washed four times with Fuwick mineral water (boiled spirotrichs and philasterids: researches based on five-year-projects
+and cooled) to remove potential contaminants. The SSU supported by IRCN-BC and NSFC. Eur J Protistol 61:439–452
+rDNA was amplified according to Gao et al. (2016), using Gao F, Warren A, Zhang QQ, Gong J, Miao M, Sun P, Xu DP, Huang
+JA, Yi ZZ, Song WB (2016) The all-data-based evolutionary
+the primers 18S-F (5′-AAC CTG GTT GAT CCT GCC
+hypothesis of ciliated protists with a revised classification of the
+AGT-3′) and 18S-R (5′-TGAT CCT TCT GC AGGT TCA CC phylum Ciliophora (Eukaryota, Alveolata). Sci Rep 6:24874
+TAC- 3′) (Medlin et al. 1988). To minimize the possibility Hall TA (1999) BioEdit: a user-friendly biological sequence align-
+of amplification errors, Q5® Hot Start High-Fidelity DNA ment editor and analysis program for Windows 95/98/NT. Nucleic
+Acids Symp Ser 41:95–98
+Polymerase (New England BioLabs, USA) was used (Huang
+Hu XZ, Lin XF, Song WB (2019) Ciliate atlas: species found in the
+et al. 2016). Sequencing was performed bidirectionally on South China Sea. Science Press, Beijing
+an ABI 3700 sequencer (Applied Biosystems). Huang JB, Luo XT, Bourland WA, Gao F, Gao S (2016) Multigene-
+based phylogeny of the ciliate families Amphisiellidae and Tra-
+chelostylidae (Protozoa: Ciliophora: Hypotrichia). Mol Phylo-
+Comparison of the SSU rDNA sequences genet Evol 101:101–110
+Jiang JM, Huang JA, Li LQ, Shao C, Al-Rasheid KAS, Al-Farraj SA,
+Chen ZG (2013) Morphology, ontogeny, and molecular phylogeny
+The 18S rRNA gene sequence of N. aenigmatica (Qingdao of two novel bakuellid-like hypotrichs (Ciliophora: Hypotrichia),
+population) was aligned with that of N. aenigmatica (Korean with establishment of two new genera. Eur J Protistol 49:78–92
+population) acquired from the GenBank database (accession
+1 3
+
+1 08 Marine Life Science & Technology (2020) 2:97–108
+Li FC, Qu ZS, Luo D, Filker S, Hu XZ, Stoeck T (2019) Morphol- Song WB, Petz W, Warren A (2001) Morphology and morphogenesis
+ogy, morphogenesis and molecular phylogeny of a new obligate of the poorly-known marine urostylid ciliate, Metaurostylopsis
+halophile ciliate, Schmidtiella ultrahalophila gen. nov., spec. nov. marina (Kahl, 1932) nov. gen., nov. comb. (Protozoa, Ciliophora,
+(Ciliophora, Hypotrichia) isolated from a volcanic crater on Sal Hypotrichida). Eur J Protistol 37:63–76
+(Cape Verde Islands). J Eukaryot Microbiol 66:694–706 Song WB, Shao C (2017) Ontogenetic patterns of hypotrich ciliates.
+Li LQ, Khan SN, Ji DD, Shin MK, Berger H (2011) Morphology and Science Press, Beijing
+small subunit (SSU) rRNA gene sequence of the new brackish Wallengren H (1900) Zur Kenntnis der vergleichenden Morphologie
+water ciliate Neobakuella flava n. gen., n. sp. (Ciliophora, Spiro- der hypotrichen Infusorien. Bih K Svensk Vetensk Akad Handl
+tricha, Bakuellidae), and SSU rRNA gene sequences of six addi- 26:1–31
+tional hypotrichs from Korea. J Eukaryot Microbiol 58:339–351 Wang JY, Li JB, Qi SY, Warren A, Shao C (2019) Morphogenesis
+Luo XT, Huang JA, Li LF, Song WB, Bourland WA (2019) Phylogeny and molecular phylogeny of a soil ciliate Uroleptoides longiseries
+of the ciliate family Psilotrichidae (Protista, Ciliophora), a curi- (Foissner, Agatha and Berger, 2002) Berger 2008 (Ciliophora,
+ous and poorly-known taxon, with notes on two algae-bearing Hypotrichia). J Eukaryot Microbiol 66:334–342
+psilotrichids from Guam, USA. BMC Evol Biol 19:125 Wilbert N (1975) Eine verbesserte Technik der Protargolimprägnation
+Lyu Z, Wang JY, Huang JA, Warren A, Shao C (2018) Multigene-based für Ciliaten. Mikrokosmos 64:171–179
+phylogeny of Urostylida (Ciliophora, Hypotrichia), with establish- Zhang TY, Qi HL, Zhang TT, Sheng YL, Warren A, Shao C (2018)
+ment of a novel family. Zool Scr 47:243–254 Morphology, morphogenesis and molecular phylogeny of a new
+Medlin L, Elwood HJ, Stickel S, Sogin ML (1988) The characterization brackish water subspecies, Neourostylopsis flava paraflava nov.
+of enzymatically amplified eukaryotes 16S-like ribosomal RNA subsp. (Ciliophora, Hypotrichia, Urostylidae), with redefinition of
+coding regions. Gene 71:491–500 the genus Neourostylopsis. Eur J Protistol 66:48–62
+Moon J, Kim J, Jung J (2020) Morphology, morphogenesis, and molec- Zhu E, Ba S, Lyu Z, Li J, Shao C (2019) Morphogenesis and molecular
+ular phylogeny of Neobakuella aenigmatica n. sp. (Ciliophora, phylogeny of the soil ciliate Holostichides chardezi (Ciliophora,
+Spirotrichea, Bakuellidae). J Eukaryot Microbiol 67:54–65 Hypotrichia, Bakuellidae), with redefinition of Holostichides
+Shao C, Hu CX, Fan YB, Warren A, Lin XF (2019) Morphology, Foissner, 1987 and establishment of a new genus Anteholos-
+morphogenesis and molecular phylogeny of a fresh water cili- tichides. J Eukaryot Microbiol 66:730–739
+ate, Monomicrocaryon euglenivorum euglenivorum (Ciliophora,
+Oxytrichidae). Eur J Protistol 68:25–36
+1 3
+

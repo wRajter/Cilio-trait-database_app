@@ -1,0 +1,1214 @@
+ZZoooollooggiiccaall JJoouurrnnaall ooff tthhee LLiinnnneeaann SSoocciieettyy,, 22001176, .1W79it, h4755fi–g4u91re. sWith 5 figures
+Taxonomy and molecular phylogeny of two new brackish
+hypotrichous ciliates, with the establishment of a new
+genus (Ciliophora, Spirotrichea)
+XIAOTIAN LUO1,2†, FENG GAO2†, ZHENZHEN YI1*, YING PAN3, SALEH A. AL-FARRAJ4
+and ALAN WARREN5
+1Guangzhou Key Laboratory of Subtropical Biodiversity and Biomonitoring, School of Life Science,
+475 South China Normal University, Guangzhou 510631, China
+2Institute of Evolution and Marine Biodiversity, Ocean University of China, Qingdao 266003, China
+3Department of Biology & Chemistry, City University of Hong Kong, Tat Chee Avenue, Kowloon, Hong
+Kong, China
+4Zoology Department, King Saud University, Riyadh 11451, Saudi Arabia
+5Department of Life Sciences, Natural History Museum, London SW7 5BD, UK
+Received 14 July2015; revised 8March 2016;accepted forpublication 18April 2016
+One new genus and two new species of hypotrich ciliates isolated from brackish-water habitats in China were
+investigated. The new genus Polystichothrix gen nov. is defined by having a continuous adoral zone and more
+than 18 frontal-ventral-transverse cirri; undulating membranes in Oxytricha-pattern; three clearly differentiated
+frontal cirri; frontal and ventral cirri aligned in rows; one marginal cirral row on each side of the cell; more than
+three dorsal kineties; buccal cirrus and transverse cirri present. Polystichothrix monilata sp. nov. can be
+recognized by having a citrine-brownish cell colour caused by its citrine-yellow cortical granules; two frontal rows
+with a frontoventral cirrus to the left of them; four or five postoral ventral cirri; four or five short ventral rows;
+five dorsal kineties; about eight moniliform macronuclear segments. Lamtostyla ovalis sp. nov. is characterized
+by an ovoidal, flexible body; an amphisiellid median cirral row comprising about 11 cirri; about four frontoventral
+cirri; two pretransverse ventral and five transverse cirri; three dorsal kineties. We also provide the first record of
+the small subunit ribosomal RNA gene sequences for the genera Lamtostyla and Polystichothrix gen. nov.
+Phylogenetic analyses show that Pol. monilata sp. nov. is a member of the family Oxytrichidae, and that
+L. ovalis sp.nov. shouldbeassigned to the familyAmphisiellidae, although neitherfamilyis monophyletic.
+©22001167The LinneanSociety ofLondon, ZoologicalJournal ofthe Linnean Society,22001167
+doi:10.1111/zoj.12451
+ADDITIONAL KEYWORDS: Lamtostyla ovalis – new species – Polystichothrix monilata – small
+subunit rRNA gene – systematics.
+this group is even more diverse than previously sup-
+INTRODUCTION
+posed (Foissner, Filker & Stoeck, 2014; Heber,
+Hypotrichs, with their highly diverse cortical struc- Stoeck & Foissner, 2014; Jung, Park & Min, 2014;
+tures and nuclear apparatus, play a major role in Kim et al., 2014; Kumar et al., 2014, 2015; Ku€ppers,
+enhancing our understanding of the systematics and 2014; Lu et al., 2014; Shao et al., 2014a,b; Hu &
+evolutionary relationships amongst ciliates (Berger, Kusuoka, 2015; Singh & Kamra, 2015). Moreover,
+1999, 2006, 2008, 2011; Song, Warren & Hu, 2009). much work has been carried out on the morphogene-
+Recent faunistic studies have revealed numerous sis and molecular phylogeny of hypotrichs, which
+new taxa of hypotrichous ciliates, suggesting that has led to a better understanding of their systemat-
+ics and the evolutionary relationships amongst them
+(Yi et al., 2009; Chen, Huang & Song, 2011; Miao
+*Correspondingauthor.E-mail:zyi@scnu.edu.cn
+†Theseauthorscontributedequally. et al., 2011; Song et al., 2011; Yi & Song, 2011;
+©© 22001167 TThhee LLiinnnneeaann SSoocciieettyy ooff LLoonnddoonn,, ZZoooollooggiiccaall JJoouurrnnaal loof fththe eLLininnneaeann SSocoiceiteyt,y 2,021071,6 179, 475–491 4715
+
+4276 X.XL.U LOUEOT EATL A.L. TWO NEW BRACKISH HYPOTRICHOUS CILIATES 3
+Huang, Dunthorn & Song, 2012; Chen et al., 2014; apolatum were selected as outgroup taxa. NCBI
+MATERIAL AND METHODS POLYSTICHOTHRIX MONILATA SP. NOV.
+Fan et al., 2014a,b,c; Huang et al., 2014; Luo et al., accession numbers are provided after the species
+(FIGS 1A–G, 2A–T; TABLE 1)
+2015; Lv et al., 2015; Wang et al., 2015; Zhao et al., COLLECTION, CULTURES, AND MICROSCOPY METHODS names in the phylogenetic tree (Fig. 5). All
+2015). sequences were aligned using MUSCLE implemented
+Polystichothrix monilata sp. nov. was collected on 7
+One of the major groups of hypotrichous ciliates is on the website http://www.ebi.ac.uk/Tools/msa/mus- Diagnosis
+December 2013 from Zhanjiang Mangrove National
+the family Oxytrichidae Ehrenberg, 1838, which is cle/. The resulting alignment was manually edited Body flexible; 125–155 9 25–35 lm in vivo; citrine-
+Nature Reserve (21°55N, 109°75E), Guangdong Pro-
+defined as follows: usually with 18 frontal-ventral- 0 0 using the program BIOEDIT 7.2.5 (Hall, 1999) and yellow cortical granules about 1 lm in diameter;
+vince, southern China. The water temperature was
+transverse cirri clustered into six distinct groups (i.e. both ends of the alignment were trimmed. The final about 35 adoral membranelles; one buccal cirrus, one
+23 °C and the salinity 15 psu. Lamtostyla ovalis sp.
+three frontal, four frontoventral, one buccal, three alignment used for phylogenetic analyses included anterior and one posterior frontal row with a fron-
+nov. was collected on 28 September 2010 from Zhan
+postoral ventral, two pretransverse ventral, and five 1767 positions and 88 taxa. Maximum likelihood toventral cirrus to the left of them; four or five pos-
+Qiao Pier in Qingdao (36°06N, 120°31E) on the Yel-
+transverse cirri), which originate from six longitudi- 0 0 (ML) analysis, with 1000 bootstrap replicates, was toral ventral cirri; four or five ventral rows; two
+low Sea coast of Shandong Province, northern China.
+nal streaks and/or at least one fragmenting dorsal carried out using RAxML-HPC2 on XSEDE v. 8.1.11 pretransverse ventral cirri; c. seven transverse cirri;
+The water temperature was 21 °C and the salinity
+kinety, usually kinety 3, although fragmentation has (Stamatakis, Hoover & Rougemont, 2008) on the on average 37 left and 38 right marginal cirri; five
+20 psu. Samples comprised a mixture of water and
+been secondarily lost in some taxa (Berger, 1999). CIPRES Science Gateway (Miller, Pfeiffer & dorsal kineties, dorsal kinety 4 starting at level of
+sediments with organic debris, collected directly from
+However, there are oxytrichids with more than 18 Schwartz, 2010) with the GTR + I + G (general time buccal vertex; about eight macronuclear segments;
+small puddles.
+frontal-ventral-transverse cirri, i.e. Ancystropodium reversible + invariable sites + gamma) model two micronuclei; brackish water habitat.
+Cultures from fresh samples of both isolates were
+Faur(cid:31)e-Fremiet, 1907, Apoamphisiella Foissner, 1997, selected by MODELTEST v. 3.4. Bayesian inference
+maintained in Petri dishes at a temperature of 24 °C
+Apoterritricha Kim et al., 2014, Gastrostyla Engel- (BI) was performed using MrBayes 3.2.3 on XSEDE Type locality and ecology
+using habitat water with rice grains to enrich the
+mann, 1862, Hemigastrostyla Song & Wilbert, 1997, (Ronquist & Huelsenbeck, 2003) on the CIPRES Zhanjiang Mangrove National Nature Reserve
+growth of bacterial food for the ciliates. Living cells
+Kerona Muller, 1786, Laurentiella Dragesco & Njine, Science Gateway with the model GTR + I + G (21°55N, 109°75E), Guangdong Province, China.
+were isolated from raw cultures using micropipettes 0 0
+1971, Onychodromopsis Stokes, 1887, Onychodromus selected by MrModeltest v. 2 according to the Akaike Water temperature 23 °C, salinity 15 psu.
+and observed with bright field and differential inter-
+Stein, 1859, Paraparentocirrus Kumar et al., 2014, information criterion (Nylander, 2004). Markov chain
+ference contrast microscopy. The protargol staining
+Paraurostyla Borror, 1972, Parentocirrus Voss, 1997, Monte Carlo simulations were run for 6 000 000 Type specimens
+method of Wilbert (1975) was used to reveal the
+Pattersoniella Foissner, 1987, Styxophrya Foissner generations with a sampling frequency of 100 and a A protargol slide containing the holotype specimen
+infraciliature and nuclear apparatus. In vivo mea-
+et al., 2004, and Territricha Berger & Foissner, 1988, burn-in of 6000 trees. The remaining trees were (see Figs 1B, C, 2J, K; registration no.
+surements were taken at 40–1000 9 magnifications.
+andinsomeofthese(e.g.Paraurostyla,Pattersoniella, used to calculate the posterior probabilities with a LXT2013120701/1) and one paratype slide (registra-
+Counts and measurements of the stained specimens
+Territricha, and Styxophrya) the frontal-ventral- majority-rule consensus. Tree topologies were visual- tion no. LXT2013120701/2) were deposited in the
+were carried out at a magnification of 1000 9 .
+transverse cirri originate from more than six streaks ized using MEGA 6.0 (Tamura et al., 2007). The Laboratory of Protozoology, Ocean University of
+Drawings of stained specimens were performed at a
+(Berger,1999;Kimet al.,2014;Kumaret al.,2014). systematic classification follows Lynn (2008) and Adl China (OUC). A second paratype slide was deposited
+magnification of 1250 9 with the help of a camera
+The family-level classification of the hypotrich et al. (2012). in the Natural History Museum, London (registra-
+lucida and photomicrographs. Terminology is accord-
+genus Lamtostyla has been ambiguous since it was tion number NHMUK 2015.7.10.1).
+ing to Berger (1999, 2006, 2008).
+established by Buitkamp (1977), mainly because of
+the lack of morphogenetic information for the type RESULTS Etymology
+species and of molecular phylogenetic information AMPLIFICATION OF DNA AND MOLECULAR The species-group name monilata is a composite of
+SUBCLASS HYPOTRICHIA STEIN, 1859
+for any species in the genus. Buitkamp (1977) PHYLOGENY METHODS the Latin noun ‘monile’ (necklace) and the suffix ‘ata’
+ORDER SPORADOTRICHIDA FAURE(cid:31)-FREMIET, 1961
+assigned Lamtostyla to the family Holostichidae, a (having a feature) and refers to the moniliform
+In order to remove potential contamination prior to FAMILY OXYTRICHIDAE EHRENBERG, 1830
+placement that was accepted by Corliss (1979) and macronucleus.
+molecular analyses, cells were washed four times in GENUS POLYSTICHOTHRIX GEN. NOV
+Tuffrau (1979). Small & Lynn (1985) classified
+filtered (0.22 lm) habitat water using a micropipette.
+Lamtostyla in the family Cladotrichidae, whereas Description
+One to several cells were then transferred to a
+Lynn & Small (2002) assigned it to Trachelostyli- Diagnosis Body 125–155 9 25–35 lm in vivo, flexible but not
+1.5 mL microfuge tube with a minimum volume of
+dae. Jankowski (1979) placed it in Oxytrichidae. Oxytrichid sensu Berger (2006) with continuous ado- contractile, sometimes slightly twisted, elongate,
+water. Genomic DNA was extracted using the
+Petz & Foissner (1996) were the first to include ral zone and more than 18 frontal-ventral-transverse generally elliptical in outline with both ends rounded
+Dneasy Blood & Tissue Kit (Qiagen, Hilden, Ger-
+Lamtostyla in the family Amphisiellidae, which was cirri; undulating membranes in Oxytricha-pattern; and head region slightly bent to left. Ratio of length
+many) following the manufacturer’s instructions. The
+accepted by Shi (1999), Berger (2008), and Lynn three clearly differentiated frontal cirri; buccal cirrus to width about 5:1, dorsoventrally flattened about 2:1
+SSU rRNA gene was amplified using the primers
+(2008). In his comprehensive review of the family and transverse cirri present; frontal and ventral cirri with ventral side flat and dorsal side bulging evenly
+18s-F (5-AAC CTG GTT GAT CCT GCC AGT-3) and
+Amphisiellidae, Berger (2008) recognized 12 species 0 0 aligned in rows; one marginal cirral row on each side when viewed laterally (Figs 1A, 2A–E). Anterior end
+18s-R (5-TGA TCC TTC TGC AGG TTC ACC TAC-
+of Lamtostyla. 0 of cell; more than three dorsal kineties. with a conspicuous transparent, thin collar. Adoral
+3) (Medlin et al., 1988). Cloning and sequencing
+In the current study, we provide descriptions of 0 zone occupying about 28% of body length (Figs 1A,
+were performed according to Huang et al. (2014).
+two new hypotrichous species, Polystichothrix moni- Etymology 2A–D). Buccal cavity wide, right margin of cavity in
+The SSU rRNA gene sequences of Pol. monilata
+lata sp. nov. (which has more than 18 frontal-ven- Polystichothrix is a composite of the Greek adjective mid-cell region. Pellicle thin and flexible. Cortical
+sp. nov. and L. ovalis sp. nov. were aligned with
+tral-transverse cirri) and Lamtostyla ovalis sp. nov. ‘poly’ (many), the Greek noun ‘sticho’ (row), and the granules citrine-yellow, spherical, approximately
+sequences of 82 other hypotrich taxa downloaded
+In addition, the small subunit ribosomal RNA (SSU Greek noun ‘thrix’ (hair, ciliate) and alludes to the 1 lm in diameter, rendering cell citrine-brownish at
+from the National Center for Biotechnology Informa-
+rRNA) gene of the two novel species was sequenced, elevated number of cirral rows. Feminine gender. low magnification (Fig. 2A–E, H). Several cortical
+tion (NCBI) Database. The strombidiids Parastrom-
+and molecular phylogenetic analyses based on SSU granules grouped together around dikinetids,
+bidinopsis minima, Novistrombidium orientale,
+rRNA gene sequence data were performed to evalu- Type species arranged in short rows between dorsal kineties and
+Strombidinopsis acuminata, and Strombidium
+ate their systematic relationships. Polystichothrix monilata sp. nov. cirral rows (Figs 1E, F, 2G). Cytoplasm colourless,
+© 2017 The L©in2n0e1a6n TShoceieLtiyn onfe LanonSdoocnie, tZyooolfoLgoicnadlo Jno,uZronoallo gofi ctahleJ Loiunrnneaalno SfothcieetLyi,n 2n0e1a7n, 1S7o9c,i e4t7y5,–2409116 ©2016TheLinneanSocietyofLondon,ZoologicalJournaloftheLinneanSociety,2016
+
+2 X. LUO ET AL. TWTOW NOENWE WBRBARCAKCISKHIS HHYHPYOPTORTICRHICOHUOSU CSILCIIALTIAETSE S4737
+Huang, Dunthorn & Song, 2012; Chen et al., 2014; apolatum were selected as outgroup taxa. NCBI
+MATERIAL AND METHODS POLYSTICHOTHRIX MONILATA SP. NOV.
+Fan et al., 2014a,b,c; Huang et al., 2014; Luo et al., accession numbers are provided after the species
+(FIGS 1A–G, 2A–T; TABLE 1)
+2015; Lv et al., 2015; Wang et al., 2015; Zhao et al., COLLECTION, CULTURES, AND MICROSCOPY METHODS names in the phylogenetic tree (Fig. 5). All
+2015). sequences were aligned using MUSCLE implemented
+Polystichothrix monilata sp. nov. was collected on 7
+One of the major groups of hypotrichous ciliates is on the website http://www.ebi.ac.uk/Tools/msa/mus- Diagnosis
+December 2013 from Zhanjiang Mangrove National
+the family Oxytrichidae Ehrenberg, 1838, which is cle/. The resulting alignment was manually edited Body flexible; 125–155 9 25–35 lm in vivo; citrine-
+Nature Reserve (21°55N, 109°75E), Guangdong Pro-
+defined as follows: usually with 18 frontal-ventral- 0 0 using the program BIOEDIT 7.2.5 (Hall, 1999) and yellow cortical granules about 1 lm in diameter;
+vince, southern China. The water temperature was
+transverse cirri clustered into six distinct groups (i.e. both ends of the alignment were trimmed. The final about 35 adoral membranelles; one buccal cirrus, one
+23 °C and the salinity 15 psu. Lamtostyla ovalis sp.
+three frontal, four frontoventral, one buccal, three alignment used for phylogenetic analyses included anterior and one posterior frontal row with a fron-
+nov. was collected on 28 September 2010 from Zhan
+postoral ventral, two pretransverse ventral, and five 1767 positions and 88 taxa. Maximum likelihood toventral cirrus to the left of them; four or five pos-
+Qiao Pier in Qingdao (36°06N, 120°31E) on the Yel-
+transverse cirri), which originate from six longitudi- 0 0 (ML) analysis, with 1000 bootstrap replicates, was toral ventral cirri; four or five ventral rows; two
+low Sea coast of Shandong Province, northern China.
+nal streaks and/or at least one fragmenting dorsal carried out using RAxML-HPC2 on XSEDE v. 8.1.11 pretransverse ventral cirri; c. seven transverse cirri;
+The water temperature was 21 °C and the salinity
+kinety, usually kinety 3, although fragmentation has (Stamatakis, Hoover & Rougemont, 2008) on the on average 37 left and 38 right marginal cirri; five
+20 psu. Samples comprised a mixture of water and
+been secondarily lost in some taxa (Berger, 1999). CIPRES Science Gateway (Miller, Pfeiffer & dorsal kineties, dorsal kinety 4 starting at level of
+sediments with organic debris, collected directly from
+However, there are oxytrichids with more than 18 Schwartz, 2010) with the GTR + I + G (general time buccal vertex; about eight macronuclear segments;
+small puddles.
+frontal-ventral-transverse cirri, i.e. Ancystropodium reversible + invariable sites + gamma) model two micronuclei; brackish water habitat.
+Cultures from fresh samples of both isolates were
+Faur(cid:31)e-Fremiet, 1907, Apoamphisiella Foissner, 1997, selected by MODELTEST v. 3.4. Bayesian inference
+maintained in Petri dishes at a temperature of 24 °C
+Apoterritricha Kim et al., 2014, Gastrostyla Engel- (BI) was performed using MrBayes 3.2.3 on XSEDE Type locality and ecology
+using habitat water with rice grains to enrich the
+mann, 1862, Hemigastrostyla Song & Wilbert, 1997, (Ronquist & Huelsenbeck, 2003) on the CIPRES Zhanjiang Mangrove National Nature Reserve
+growth of bacterial food for the ciliates. Living cells
+Kerona Muller, 1786, Laurentiella Dragesco & Njine, Science Gateway with the model GTR + I + G (21°55N, 109°75E), Guangdong Province, China.
+were isolated from raw cultures using micropipettes 0 0
+1971, Onychodromopsis Stokes, 1887, Onychodromus selected by MrModeltest v. 2 according to the Akaike Water temperature 23 °C, salinity 15 psu.
+and observed with bright field and differential inter-
+Stein, 1859, Paraparentocirrus Kumar et al., 2014, information criterion (Nylander, 2004). Markov chain
+ference contrast microscopy. The protargol staining
+Paraurostyla Borror, 1972, Parentocirrus Voss, 1997, Monte Carlo simulations were run for 6 000 000 Type specimens
+method of Wilbert (1975) was used to reveal the
+Pattersoniella Foissner, 1987, Styxophrya Foissner generations with a sampling frequency of 100 and a A protargol slide containing the holotype specimen
+infraciliature and nuclear apparatus. In vivo mea-
+et al., 2004, and Territricha Berger & Foissner, 1988, burn-in of 6000 trees. The remaining trees were (see Figs 1B, C, 2J, K; registration no.
+surements were taken at 40–1000 9 magnifications.
+andinsomeofthese(e.g.Paraurostyla,Pattersoniella, used to calculate the posterior probabilities with a LXT2013120701/1) and one paratype slide (registra-
+Counts and measurements of the stained specimens
+Territricha, and Styxophrya) the frontal-ventral- majority-rule consensus. Tree topologies were visual- tion no. LXT2013120701/2) were deposited in the
+were carried out at a magnification of 1000 9 .
+transverse cirri originate from more than six streaks ized using MEGA 6.0 (Tamura et al., 2007). The Laboratory of Protozoology, Ocean University of
+Drawings of stained specimens were performed at a
+(Berger,1999;Kimet al.,2014;Kumaret al.,2014). systematic classification follows Lynn (2008) and Adl China (OUC). A second paratype slide was deposited
+magnification of 1250 9 with the help of a camera
+The family-level classification of the hypotrich et al. (2012). in the Natural History Museum, London (registra-
+lucida and photomicrographs. Terminology is accord-
+genus Lamtostyla has been ambiguous since it was tion number NHMUK 2015.7.10.1).
+ing to Berger (1999, 2006, 2008).
+established by Buitkamp (1977), mainly because of
+the lack of morphogenetic information for the type RESULTS Etymology
+species and of molecular phylogenetic information AMPLIFICATION OF DNA AND MOLECULAR The species-group name monilata is a composite of
+SUBCLASS HYPOTRICHIA STEIN, 1859
+for any species in the genus. Buitkamp (1977) PHYLOGENY METHODS the Latin noun ‘monile’ (necklace) and the suffix ‘ata’
+ORDER SPORADOTRICHIDA FAURE(cid:31)-FREMIET, 1961
+assigned Lamtostyla to the family Holostichidae, a (having a feature) and refers to the moniliform
+In order to remove potential contamination prior to FAMILY OXYTRICHIDAE EHRENBERG, 1830
+placement that was accepted by Corliss (1979) and macronucleus.
+molecular analyses, cells were washed four times in GENUS POLYSTICHOTHRIX GEN. NOV
+Tuffrau (1979). Small & Lynn (1985) classified
+filtered (0.22 lm) habitat water using a micropipette.
+Lamtostyla in the family Cladotrichidae, whereas Description
+One to several cells were then transferred to a
+Lynn & Small (2002) assigned it to Trachelostyli- Diagnosis Body 125–155 9 25–35 lm in vivo, flexible but not
+1.5 mL microfuge tube with a minimum volume of
+dae. Jankowski (1979) placed it in Oxytrichidae. Oxytrichid sensu Berger (2006) with continuous ado- contractile, sometimes slightly twisted, elongate,
+water. Genomic DNA was extracted using the
+Petz & Foissner (1996) were the first to include ral zone and more than 18 frontal-ventral-transverse generally elliptical in outline with both ends rounded
+Dneasy Blood & Tissue Kit (Qiagen, Hilden, Ger-
+Lamtostyla in the family Amphisiellidae, which was cirri; undulating membranes in Oxytricha-pattern; and head region slightly bent to left. Ratio of length
+many) following the manufacturer’s instructions. The
+accepted by Shi (1999), Berger (2008), and Lynn three clearly differentiated frontal cirri; buccal cirrus to width about 5:1, dorsoventrally flattened about 2:1
+SSU rRNA gene was amplified using the primers
+(2008). In his comprehensive review of the family and transverse cirri present; frontal and ventral cirri with ventral side flat and dorsal side bulging evenly
+18s-F (5-AAC CTG GTT GAT CCT GCC AGT-3) and
+Amphisiellidae, Berger (2008) recognized 12 species 0 0 aligned in rows; one marginal cirral row on each side when viewed laterally (Figs 1A, 2A–E). Anterior end
+18s-R (5-TGA TCC TTC TGC AGG TTC ACC TAC-
+of Lamtostyla. 0 of cell; more than three dorsal kineties. with a conspicuous transparent, thin collar. Adoral
+3) (Medlin et al., 1988). Cloning and sequencing
+In the current study, we provide descriptions of 0 zone occupying about 28% of body length (Figs 1A,
+were performed according to Huang et al. (2014).
+two new hypotrichous species, Polystichothrix moni- Etymology 2A–D). Buccal cavity wide, right margin of cavity in
+The SSU rRNA gene sequences of Pol. monilata
+lata sp. nov. (which has more than 18 frontal-ven- Polystichothrix is a composite of the Greek adjective mid-cell region. Pellicle thin and flexible. Cortical
+sp. nov. and L. ovalis sp. nov. were aligned with
+tral-transverse cirri) and Lamtostyla ovalis sp. nov. ‘poly’ (many), the Greek noun ‘sticho’ (row), and the granules citrine-yellow, spherical, approximately
+sequences of 82 other hypotrich taxa downloaded
+In addition, the small subunit ribosomal RNA (SSU Greek noun ‘thrix’ (hair, ciliate) and alludes to the 1 lm in diameter, rendering cell citrine-brownish at
+from the National Center for Biotechnology Informa-
+rRNA) gene of the two novel species was sequenced, elevated number of cirral rows. Feminine gender. low magnification (Fig. 2A–E, H). Several cortical
+tion (NCBI) Database. The strombidiids Parastrom-
+and molecular phylogenetic analyses based on SSU granules grouped together around dikinetids,
+bidinopsis minima, Novistrombidium orientale,
+rRNA gene sequence data were performed to evalu- Type species arranged in short rows between dorsal kineties and
+Strombidinopsis acuminata, and Strombidium
+ate their systematic relationships. Polystichothrix monilata sp. nov. cirral rows (Figs 1E, F, 2G). Cytoplasm colourless,
+©2016TheLinneanSocietyofLondon,ZoologicalJournaloftheLinneanSociety,2016 ©© 22001167 TThhee LLiinnnneeaann SSoocciieettyy ooff LLoonnddoonn,, ZZoooollooggiiccaall JJoouurrnnaal loof fththe eLLininnneaeann SSocoiceiteyt,y 2,021071,6 179, 475–491
+
+4478 X.XL.U LOUEOT EATL A.L. TWO NEW BRACKISH HYPOTRICHOUS CILIATES 5
+J, L). Two frontal rows; anterior row composed of was deposited in the Laboratory of Protozoology,
+five to eight cirri, posterior row four to six cirri. One Ocean University of China (OUC). A paratype slide
+frontoventral cirrus located left of posterior end of was deposited in the Natural History Museum, Lon-
+anterior frontal row (Figs 1B, G, 2J). Four or five don (registration number NHMUK 2015.7.10.2).
+short ventral cirri rows, each composed of three to
+eight cirri. Four or five sparsely distributed postoral Etymology
+ventral cirri located left of ventral cirral rows, ante- The species-group name ovalis (Latin adjective; egg-
+rior-most one just behind buccal vertex (Figs 1B, D, shaped, oval) refers to the oval body outline.
+G, 2R–T). Six to eight transverse cirri arranged in
+J-shaped row; two fine pretransverse ventral cirri Description
+located close to transverse cirri (Figs 1B, D, G, 2P, Cell about 70–110 9 40–60 lm in vivo, oval in out-
+Q). Two marginal rows, almost confluent posteriorly. line (Figs 3A, 4A–F), anterior end slightly narrowed
+Right marginal row composed of 32–44 cirri, com- and bends leftwards when cell changes direction dur-
+mencing near anterior end of anterior frontal row; ing locomotion, posterior end more or less broadly
+left marginal row composed of 32–41 cirri, starting rounded. Ratio of length to width about 5:3–2:1;
+about level with posterior end of paroral membrane dorsoventrally flattened about 2:1. Pellicle very flexi-
+(Figs 1B, G, 2J). Five dorsal kineties; dorsal kinety 4 ble. Buccal field narrow, transparent, and conspicu-
+commences at about level of buccal vertex, the other ous in vivo, occupying about 1/3 of body length.
+four extend almost entire body length; dorsal bristles Cytoplasm colourless; whole body except buccal field
+about 4 lm long in vivo (Figs 1B, C, 2K, M–O). usually packed with numerous dark-greenish algae
+Strong fibres associated with cirri are visible in pro- (3–10 lm across; we are unsure whether they are
+targol-stained specimens; pharyngeal fibres extre- endosymbionts or not) and several food vacuoles con-
+mely strong, extending posteriorly and occupying taining diatoms and small ciliates, rendering cell
+about one-third of body length (Figs 1G, 2T). slightly grey-greenish (Figs 3I, 4A–G). Several bacte-
+Macronucleus left of cell median, moniliform, usually rial plaques of varying size on dorsal surface, each
+composed of eight globular to ellipsoidal segments; composed of c. 1–2 9 0.5 lm bacilli (Fig. 4H). Corti-
+consistently two ellipsoidal micronuclei (Figs 1C, G, cal granules absent. Contractile vacuole about 10 lm
+2J, L, M, P). across, positioned left of midline in mid-body region
+Figure 1. Polystichothrix monilata sp. nov. from live specimens (A, E, F) and after protargol staining (B–D, G). A,
+(Fig. 3A). Locomotion by slowly crawling on sub-
+ventral view of a representative specimen. B, C, ventral (B) and dorsal (C) view of holotype, showing infraciliature and
+strate; swimming cells not observed.
+nuclearapparatus;arrowheadsindicatepostoralventralcirri,arrowin(B)indicatesfrontoventralcirrus,whereasin(C) ORDER STICHOTRICHIDA FAURE(cid:31)-FREMIET, 1961
+Cilia of anterior membranelles approximately
+thearrowindicatesanterior-mostdikinetidsofdorsalkinety4,dottedlinesin(B)indicatepresumptiveontogeneticrela- FAMILY AMPHISIELLIDAE JANKOWSKI, 1979
+12 lm long in vivo. All ventral cirri about 8–10 lm
+tionships amongst cirri, deduced from interphase specimens. D, detail from a specimen with five postoral ventral cirri GENUS LAMTOSTYLA BUITKAMP, 1977
+long except frontal and transverse cirri, which have
+(arrowheads) and eight transverse cirri; arrows indicate two fine pretransverse ventral cirri and dotted lines indicate LAMTOSTYLA OVALIS SP. NOV.
+cilia about 12 lm long; transverse cirri do not project
+presumptive ontogenetic relationships amongst cirri, deduced from interphase specimens. E, F, distribution of cortical (FIGS 3A–I, 4A–H; TABLE 2)
+beyond posterior body margin (Fig. 3A). Dorsal bris-
+granules on ventral (E) and dorsal (F) sides. G, ventral view of a representative specimen, showing infraciliature,
+nuclear apparatus, and the fibre system; arrow indicates the strong pharyngeal fibres. Abbreviations: AFR, anterior tles about 3 lm long in vivo.
+frontal row; AZM, adoral zone of membranelles; BC, buccal cirrus; DK1–5, dorsal kineties 1–5; EM, endoral membrane; Diagnosis Infraciliature as shown in Figure 3B–I. Adoral
+FC,frontalcirri; LMR,leftmarginal cirrirow; Ma,macronuclear segments;Mi, micronuclei; PFR,posteriorfrontalrow; Body 70–110 9 40–60 lm in vivo; generally oval in zone composed of 19–25 membranelles with about
+PM, paroral membrane; PTVC, pretransverse ventral cirri; RMR, right marginal cirri row; TC, transverse cirri; VR1–5, outline, colourless to slightly grey-greenish; about 22 four membranelles in distal portion located apically.
+ventralrows1–5.Scalebars = 60 lm(A);30 lm(B,C,G). adoral membranelles; three frontal cirri; one buccal Bases of distal membranelles comprise three short
+cirrus; amphisiellid median cirral row comprises equal-length rows of kinetosomes; bases of proximal
+usually packed with granules (1–5 lm in diameter), side of cell (Distal End of adoral zone-value c. 0.4; about 11 cirri and terminates ahead of mid-body; membranelles comprise one short and three long
+and food vacuoles usually containing diatoms and Berger, 1999, 2006). Bases of membranelles unequal three to seven frontoventral cirri; two pretransverse rows of kinetosomes (Fig. 3B, D, E). Paroral and
+sometimes small ciliates (Fig. 2I, L, T). Contractile in length, those in distal part comprise three short, ventral cirri; five transverse cirri; 19 left and 24 endoral membranes equal in length, arranged in par-
+vacuole not observed. Locomotion by slowly crawling equal-length rows of kinetosomes, those in proximal right marginal cirri on average; three dorsal kin- allel, occupying only about half length of buccal field
+on substrate and amongst debris, or occasionally by part with four rows, one short and three long eties; two macronuclear segments; two micronuclei; (Fig. 3B, D, I). Consistently three enlarged frontal
+swimming in water. (Figs 1B, G, 2J, L). Undulating membranes more or brackish water habitat. cirri located near anterior end of cell, arranged in a
+Cilia of anterior membranelles approximately less in Oxytricha-pattern; paroral and endoral mem- slightly oblique pseudorow (Fig. 3B, D, G). Single
+15 lm long in vivo. All cirri on ventral side about branes almost equal in length, slightly curved and Type locality and ecology enlarged buccal cirrus located right of anterior end
+10–12 lm long except the stronger frontal cirri, optically intersect in posterior third; endoral mem- A small puddle near Zhan Qiao Pier in Qingdao of paroral membrane (Fig. 3B, D, G–I). Amphisiellid
+which have cilia about 15 lm long, and the trans- brane with single-rowed kinetosomes, starting at (36°06 0N, 120°31 0E), Shandong Province, China. median cirral row (ACR) usually composed of eight
+verse cirri, which are about 15–20 lm long and pro- midpoint of buccal field; paroral with multiple-rowed Water temperature 21 °C, salinity 20 psu. to 11 cirri, commencing behind rightmost frontal cir-
+ject beyond posterior cell margin. kinetosomes, commencing ahead of endoral (Fig. 1B, rus and terminating at about level of buccal vertex
+Infraciliature as shown in Figures 1B–D, G, 2J–T. G). Constantly three enlarged frontal cirri, rightmost Type specimens (Fig. 3B, D, I). Three to seven (usually four) fron-
+Adoral zone composed of 27–41 membranelles, distal one just behind distal end of adoral zone; single buc- The protargol slide containing the holotype specimen toventral cirri left of anterior portion of ACR
+end of adoral zone extending far onto right-ventral cal cirrus right of paroral membrane (Figs 1B, G, 2F, (see Fig. 3B, C, G; registration no. PY2010092801/1) (Fig. 3B, D, G, H). Usually five transverse cirri
+© 2017 The L©in2n0e1a6n TShoceieLtiyn onfe LanonSdoocnie, tZyooolfoLgoicnadlo Jno,uZronoallo gofi ctahleJ Loiunrnneaalno SfothcieetLyi,n 2n0e1a7n, 1S7o9c,i e4t7y5,–2409116 ©2016TheLinneanSocietyofLondon,ZoologicalJournaloftheLinneanSociety,2016
+
+4 X. LUO ET AL. TWTOW NOENWE WBRBARCAKCISKHIS HHYHPYOPTORTICRHICOHUOSU CSILCIIALTIAETSE S4759
+J, L). Two frontal rows; anterior row composed of was deposited in the Laboratory of Protozoology,
+five to eight cirri, posterior row four to six cirri. One Ocean University of China (OUC). A paratype slide
+frontoventral cirrus located left of posterior end of was deposited in the Natural History Museum, Lon-
+anterior frontal row (Figs 1B, G, 2J). Four or five don (registration number NHMUK 2015.7.10.2).
+short ventral cirri rows, each composed of three to
+eight cirri. Four or five sparsely distributed postoral Etymology
+ventral cirri located left of ventral cirral rows, ante- The species-group name ovalis (Latin adjective; egg-
+rior-most one just behind buccal vertex (Figs 1B, D, shaped, oval) refers to the oval body outline.
+G, 2R–T). Six to eight transverse cirri arranged in
+J-shaped row; two fine pretransverse ventral cirri Description
+located close to transverse cirri (Figs 1B, D, G, 2P, Cell about 70–110 9 40–60 lm in vivo, oval in out-
+Q). Two marginal rows, almost confluent posteriorly. line (Figs 3A, 4A–F), anterior end slightly narrowed
+Right marginal row composed of 32–44 cirri, com- and bends leftwards when cell changes direction dur-
+mencing near anterior end of anterior frontal row; ing locomotion, posterior end more or less broadly
+left marginal row composed of 32–41 cirri, starting rounded. Ratio of length to width about 5:3–2:1;
+about level with posterior end of paroral membrane dorsoventrally flattened about 2:1. Pellicle very flexi-
+(Figs 1B, G, 2J). Five dorsal kineties; dorsal kinety 4 ble. Buccal field narrow, transparent, and conspicu-
+commences at about level of buccal vertex, the other ous in vivo, occupying about 1/3 of body length.
+four extend almost entire body length; dorsal bristles Cytoplasm colourless; whole body except buccal field
+about 4 lm long in vivo (Figs 1B, C, 2K, M–O). usually packed with numerous dark-greenish algae
+Strong fibres associated with cirri are visible in pro- (3–10 lm across; we are unsure whether they are
+targol-stained specimens; pharyngeal fibres extre- endosymbionts or not) and several food vacuoles con-
+mely strong, extending posteriorly and occupying taining diatoms and small ciliates, rendering cell
+about one-third of body length (Figs 1G, 2T). slightly grey-greenish (Figs 3I, 4A–G). Several bacte-
+Macronucleus left of cell median, moniliform, usually rial plaques of varying size on dorsal surface, each
+composed of eight globular to ellipsoidal segments; composed of c. 1–2 9 0.5 lm bacilli (Fig. 4H). Corti-
+consistently two ellipsoidal micronuclei (Figs 1C, G, cal granules absent. Contractile vacuole about 10 lm
+2J, L, M, P). across, positioned left of midline in mid-body region
+Figure 1. Polystichothrix monilata sp. nov. from live specimens (A, E, F) and after protargol staining (B–D, G). A,
+(Fig. 3A). Locomotion by slowly crawling on sub-
+ventral view of a representative specimen. B, C, ventral (B) and dorsal (C) view of holotype, showing infraciliature and
+strate; swimming cells not observed.
+nuclearapparatus;arrowheadsindicatepostoralventralcirri,arrowin(B)indicatesfrontoventralcirrus,whereasin(C) ORDER STICHOTRICHIDA FAURE(cid:31)-FREMIET, 1961
+Cilia of anterior membranelles approximately
+thearrowindicatesanterior-mostdikinetidsofdorsalkinety4,dottedlinesin(B)indicatepresumptiveontogeneticrela- FAMILY AMPHISIELLIDAE JANKOWSKI, 1979
+12 lm long in vivo. All ventral cirri about 8–10 lm
+tionships amongst cirri, deduced from interphase specimens. D, detail from a specimen with five postoral ventral cirri GENUS LAMTOSTYLA BUITKAMP, 1977
+long except frontal and transverse cirri, which have
+(arrowheads) and eight transverse cirri; arrows indicate two fine pretransverse ventral cirri and dotted lines indicate LAMTOSTYLA OVALIS SP. NOV.
+cilia about 12 lm long; transverse cirri do not project
+presumptive ontogenetic relationships amongst cirri, deduced from interphase specimens. E, F, distribution of cortical (FIGS 3A–I, 4A–H; TABLE 2)
+beyond posterior body margin (Fig. 3A). Dorsal bris-
+granules on ventral (E) and dorsal (F) sides. G, ventral view of a representative specimen, showing infraciliature,
+nuclear apparatus, and the fibre system; arrow indicates the strong pharyngeal fibres. Abbreviations: AFR, anterior tles about 3 lm long in vivo.
+frontal row; AZM, adoral zone of membranelles; BC, buccal cirrus; DK1–5, dorsal kineties 1–5; EM, endoral membrane; Diagnosis Infraciliature as shown in Figure 3B–I. Adoral
+FC,frontalcirri; LMR,leftmarginal cirrirow; Ma,macronuclear segments;Mi, micronuclei; PFR,posteriorfrontalrow; Body 70–110 9 40–60 lm in vivo; generally oval in zone composed of 19–25 membranelles with about
+PM, paroral membrane; PTVC, pretransverse ventral cirri; RMR, right marginal cirri row; TC, transverse cirri; VR1–5, outline, colourless to slightly grey-greenish; about 22 four membranelles in distal portion located apically.
+ventralrows1–5.Scalebars = 60 lm(A);30 lm(B,C,G). adoral membranelles; three frontal cirri; one buccal Bases of distal membranelles comprise three short
+cirrus; amphisiellid median cirral row comprises equal-length rows of kinetosomes; bases of proximal
+usually packed with granules (1–5 lm in diameter), side of cell (Distal End of adoral zone-value c. 0.4; about 11 cirri and terminates ahead of mid-body; membranelles comprise one short and three long
+and food vacuoles usually containing diatoms and Berger, 1999, 2006). Bases of membranelles unequal three to seven frontoventral cirri; two pretransverse rows of kinetosomes (Fig. 3B, D, E). Paroral and
+sometimes small ciliates (Fig. 2I, L, T). Contractile in length, those in distal part comprise three short, ventral cirri; five transverse cirri; 19 left and 24 endoral membranes equal in length, arranged in par-
+vacuole not observed. Locomotion by slowly crawling equal-length rows of kinetosomes, those in proximal right marginal cirri on average; three dorsal kin- allel, occupying only about half length of buccal field
+on substrate and amongst debris, or occasionally by part with four rows, one short and three long eties; two macronuclear segments; two micronuclei; (Fig. 3B, D, I). Consistently three enlarged frontal
+swimming in water. (Figs 1B, G, 2J, L). Undulating membranes more or brackish water habitat. cirri located near anterior end of cell, arranged in a
+Cilia of anterior membranelles approximately less in Oxytricha-pattern; paroral and endoral mem- slightly oblique pseudorow (Fig. 3B, D, G). Single
+15 lm long in vivo. All cirri on ventral side about branes almost equal in length, slightly curved and Type locality and ecology enlarged buccal cirrus located right of anterior end
+10–12 lm long except the stronger frontal cirri, optically intersect in posterior third; endoral mem- A small puddle near Zhan Qiao Pier in Qingdao of paroral membrane (Fig. 3B, D, G–I). Amphisiellid
+which have cilia about 15 lm long, and the trans- brane with single-rowed kinetosomes, starting at (36°06 0N, 120°31 0E), Shandong Province, China. median cirral row (ACR) usually composed of eight
+verse cirri, which are about 15–20 lm long and pro- midpoint of buccal field; paroral with multiple-rowed Water temperature 21 °C, salinity 20 psu. to 11 cirri, commencing behind rightmost frontal cir-
+ject beyond posterior cell margin. kinetosomes, commencing ahead of endoral (Fig. 1B, rus and terminating at about level of buccal vertex
+Infraciliature as shown in Figures 1B–D, G, 2J–T. G). Constantly three enlarged frontal cirri, rightmost Type specimens (Fig. 3B, D, I). Three to seven (usually four) fron-
+Adoral zone composed of 27–41 membranelles, distal one just behind distal end of adoral zone; single buc- The protargol slide containing the holotype specimen toventral cirri left of anterior portion of ACR
+end of adoral zone extending far onto right-ventral cal cirrus right of paroral membrane (Figs 1B, G, 2F, (see Fig. 3B, C, G; registration no. PY2010092801/1) (Fig. 3B, D, G, H). Usually five transverse cirri
+©2016TheLinneanSocietyofLondon,ZoologicalJournaloftheLinneanSociety,2016 ©© 22001167 TThhee LLiinnnneeaann SSoocciieettyy ooff LLoonnddoonn,, ZZoooollooggiiccaall JJoouurrnnaal loof fththe eLLininnneaeann SSocoiceiteyt,y 2,021071,6 179, 475–491
+
+4680 X.XL.U LOUEOT EATL A.L. TWO NEW BRACKISH HYPOTRICHOUS CILIATES 7
+Figure 2. Polystichothrix monilata sp. nov. from live specimens (A–I) and after protargol staining (J–T). A–D, ven-
+tral views of typical individuals, showing the slightly twisted, elongate body shape and different body size; arrowheads
+mark the conspicuous transparent and thin collar. E, lateral view of a representative specimen. F, ventral view of ante-
+rior region, showing frontal cirri (arrows), buccal cirrus (double arrowhead), and postoral ventral cirri (arrowheads). G,
+distribution of cortical granules on ventral and dorsal sides; arrowheads mark cortical granules distributed between
+cirri.H,showingcitrine-yellowishcorticalgranules.I,nuclearapparatus andthe foodvacuolesfilled withdiatoms(dou-
+ble arrowhead); arrowheads mark macronuclear segments; arrow indicates micronucleus. J, K, ventral (J) and dorsal
+(K) views of holotype specimen, showing infraciliature and nuclear apparatus; arrowheads in (J) indicate the micronu-
+clei, whereas in (K) arrowheads indicate dikinetids of dorsal kineties and arrow indicates anterior-most dikinetids of
+dorsal kinety 4. L, ventral view, showing infraciliature and nuclear apparatus; arrows indicate macronuclear segments;
+arrowhead indicates a micronucleus, double arrowhead indicates an ingested diatom. M, N, dorsal view of the same
+specimen with seven macronuclear segments (arrows in M), showing dorsal infraciliature; arrow in (N) indicates ante-
+B C D rior-most dikinetids of dorsal kinety 4. O, dorsal view of anterior region of cell; arrow indicates anterior-most dikinetids
+of dorsal kinety 4. P, ventral view of a specimen with eight transverse cirri; arrows indicate rightmost and leftmost
+E
+transverse cirri; arrowhead marks a micronucleus. Q, ventral view of a specimen with six transverse cirri. R, ventral
+view of a specimen with five postoral ventral cirri (arrowheads). S, ventral view of the fibre system. T, strong pharyn-
+F G
+A geal fibres (double arrowhead), four postoral ventral cirri (arrowheads), and small ingested ciliates (arrows). Abbrevia-
+tions:BC,buccalcirrus;FC,frontalcirri;FVC,frontoventralcirrus.Scalebars = 60 lm(A–E);30 lm(J–N).
+H
+Table 1. Morphometric characterization of Polystichothrix monilata sp. nov. based on protargol-stained specimens
+(measurementsinlm)
+Character Min. Max. Med. Mean SD CV N
+Body,length 88 135 110 116.7 13.6 11.7 25
+Body,width 30 50 35 37.1 5.3 14.3 25
+Adoralzone,length 27 39 32 32.4 4.0 12.5 25
+Adoralmembranelles,number 27 41 35 35.1 3.5 10.1 25
+Frontalcirri,number 3 3 3 3.0 0.0 0.0 25
+J K L M N I Buccalcirrus,number 1 1 1 1.0 0.0 0.0 25
+Frontoventralcirrus,number 1 1 1 1.0 0.0 0.0 25
+Cirriinanteriorfrontalrow,number 5 8 6 6.4 0.7 11.4 23
+Cirriinposteriorfrontalrow,number 4 6 5 6.0 0.8 12.9 23
+Cirriinventralrow1,number 3 5 4 4.0 0.5 13.4 25
+Cirriinventralrow2,number 3 5 4 3.7 0.6 16.4 25
+Cirriinventralrow3,number 3 5 4 3.6 0.6 17.6 25
+Cirriinventralrow4,number 3 8 4 4.6 1.2 26.1 25
+Cirriinventralrow5,number 0 7 5 4.5 1.7 36.7 25
+Cirriinpostoralventralcirri,number 4 5 4 4.1 0.3 6.9 25
+Cirriinleftmarginalrow,number 32 41 37 37.0 2.8 7.4 25
+O P Q R S T Cirriinrightmarginalrow,number 32 44 37 37.8 3.5 9.3 25
+Pretransversecirri,number 2 2 2 2.0 0.0 0.0 25
+Transversecirri,number 6 8 7 7.2 0.6 7.7 25
+Dorsalkineties,number 5 5 5 5.0 0.0 0.0 19
+arranged in J-shaped or U-shaped row. One to three, to right (Fig. 3C, F). Two ellipsoidal macronuclear
+Dikinetidsindorsalkinety1,number 18 24 21 21.2 1.9 9.0 11
+usually two, pretransverse ventral cirri positioned segments slightly left of cell midline, transparent
+Dikinetidsindorsalkinety2,number 20 26 24 23.6 1.9 8.1 11
+ahead of transverse cirri. Two marginal rows not in vivo, conspicuously separated but connected to
+Dikinetidsindorsalkinety3,number 21 28 26 25.0 2.2 8.8 11
+reaching posterior end of body and thus separated each other via a thread (Figs 3A, C, E, 4A, E); rear
+Dikinetidsindorsalkinety4,number 8 10 9 9.2 0.8 8.7 11
+posteriorly. Right marginal row commencing near end of anterior macronuclear segment a little behind
+Dikinetidsindorsalkinety5,number 23 35 28 28.2 3.8 13.5 11
+anterior part of ACR, composed of 19–31 cirri; left level of buccal vertex, rear end of posterior segment
+Macronuclearsegments,number 7 8 8 7.9 0.3 3.5 25
+marginal row starting about level with buccal vertex, slightly anterior of transverse cirri when observed
+Micronuclei,number 2 2 2 2.0 0.0 0.0 11
+composed of 16–24 cirri (Fig. 3B, G–I). Invariably in vivo. Two spherical micronuclei, c. 2 lm in diame-
+three dorsal kineties more or less shortened anteri- ter, each closely associated with a macronuclear CV, coefficient of variation in %; Max., maximum; Mean, arithmetic mean; Med., median value; Min., minimum; N,
+orly;number ofbristlesper kinety increases from left segment (Fig. 3C, H). numberofspecimensexamined;SD,standarddeviation.
+© 2017 The L©in2n0e1a6n TShoceieLtiyn onfe LanonSdoocnie, tZyooolfoLgoicnadlo Jno,uZronoallo gofi ctahleJ Loiunrnneaalno SfothcieetLyi,n 2n0e1a7n, 1S7o9c,i e4t7y5,–2409116 ©2016TheLinneanSocietyofLondon,ZoologicalJournaloftheLinneanSociety,2016
+
+6 X. LUO ET AL. TWTOW NOENWE WBRBARCAKCISKHIS HHYHPYOPTORTICRHICOHUOSU CSILCIIALTIAETSE S4871
+Figure 2. Polystichothrix monilata sp. nov. from live specimens (A–I) and after protargol staining (J–T). A–D, ven-
+tral views of typical individuals, showing the slightly twisted, elongate body shape and different body size; arrowheads
+mark the conspicuous transparent and thin collar. E, lateral view of a representative specimen. F, ventral view of ante-
+rior region, showing frontal cirri (arrows), buccal cirrus (double arrowhead), and postoral ventral cirri (arrowheads). G,
+distribution of cortical granules on ventral and dorsal sides; arrowheads mark cortical granules distributed between
+cirri.H,showingcitrine-yellowishcorticalgranules.I,nuclearapparatus andthe foodvacuolesfilled withdiatoms(dou-
+ble arrowhead); arrowheads mark macronuclear segments; arrow indicates micronucleus. J, K, ventral (J) and dorsal
+(K) views of holotype specimen, showing infraciliature and nuclear apparatus; arrowheads in (J) indicate the micronu-
+clei, whereas in (K) arrowheads indicate dikinetids of dorsal kineties and arrow indicates anterior-most dikinetids of
+dorsal kinety 4. L, ventral view, showing infraciliature and nuclear apparatus; arrows indicate macronuclear segments;
+arrowhead indicates a micronucleus, double arrowhead indicates an ingested diatom. M, N, dorsal view of the same
+specimen with seven macronuclear segments (arrows in M), showing dorsal infraciliature; arrow in (N) indicates ante-
+B C D rior-most dikinetids of dorsal kinety 4. O, dorsal view of anterior region of cell; arrow indicates anterior-most dikinetids
+of dorsal kinety 4. P, ventral view of a specimen with eight transverse cirri; arrows indicate rightmost and leftmost
+E
+transverse cirri; arrowhead marks a micronucleus. Q, ventral view of a specimen with six transverse cirri. R, ventral
+view of a specimen with five postoral ventral cirri (arrowheads). S, ventral view of the fibre system. T, strong pharyn-
+F G
+A geal fibres (double arrowhead), four postoral ventral cirri (arrowheads), and small ingested ciliates (arrows). Abbrevia-
+tions:BC,buccalcirrus;FC,frontalcirri;FVC,frontoventralcirrus.Scalebars = 60 lm(A–E);30 lm(J–N).
+H
+Table 1. Morphometric characterization of Polystichothrix monilata sp. nov. based on protargol-stained specimens
+(measurementsinlm)
+Character Min. Max. Med. Mean SD CV N
+Body,length 88 135 110 116.7 13.6 11.7 25
+Body,width 30 50 35 37.1 5.3 14.3 25
+Adoralzone,length 27 39 32 32.4 4.0 12.5 25
+Adoralmembranelles,number 27 41 35 35.1 3.5 10.1 25
+Frontalcirri,number 3 3 3 3.0 0.0 0.0 25
+J K L M N I Buccalcirrus,number 1 1 1 1.0 0.0 0.0 25
+Frontoventralcirrus,number 1 1 1 1.0 0.0 0.0 25
+Cirriinanteriorfrontalrow,number 5 8 6 6.4 0.7 11.4 23
+Cirriinposteriorfrontalrow,number 4 6 5 6.0 0.8 12.9 23
+Cirriinventralrow1,number 3 5 4 4.0 0.5 13.4 25
+Cirriinventralrow2,number 3 5 4 3.7 0.6 16.4 25
+Cirriinventralrow3,number 3 5 4 3.6 0.6 17.6 25
+Cirriinventralrow4,number 3 8 4 4.6 1.2 26.1 25
+Cirriinventralrow5,number 0 7 5 4.5 1.7 36.7 25
+Cirriinpostoralventralcirri,number 4 5 4 4.1 0.3 6.9 25
+Cirriinleftmarginalrow,number 32 41 37 37.0 2.8 7.4 25
+O P Q R S T Cirriinrightmarginalrow,number 32 44 37 37.8 3.5 9.3 25
+Pretransversecirri,number 2 2 2 2.0 0.0 0.0 25
+Transversecirri,number 6 8 7 7.2 0.6 7.7 25
+Dorsalkineties,number 5 5 5 5.0 0.0 0.0 19
+arranged in J-shaped or U-shaped row. One to three, to right (Fig. 3C, F). Two ellipsoidal macronuclear
+Dikinetidsindorsalkinety1,number 18 24 21 21.2 1.9 9.0 11
+usually two, pretransverse ventral cirri positioned segments slightly left of cell midline, transparent
+Dikinetidsindorsalkinety2,number 20 26 24 23.6 1.9 8.1 11
+ahead of transverse cirri. Two marginal rows not in vivo, conspicuously separated but connected to
+Dikinetidsindorsalkinety3,number 21 28 26 25.0 2.2 8.8 11
+reaching posterior end of body and thus separated each other via a thread (Figs 3A, C, E, 4A, E); rear
+Dikinetidsindorsalkinety4,number 8 10 9 9.2 0.8 8.7 11
+posteriorly. Right marginal row commencing near end of anterior macronuclear segment a little behind
+Dikinetidsindorsalkinety5,number 23 35 28 28.2 3.8 13.5 11
+anterior part of ACR, composed of 19–31 cirri; left level of buccal vertex, rear end of posterior segment
+Macronuclearsegments,number 7 8 8 7.9 0.3 3.5 25
+marginal row starting about level with buccal vertex, slightly anterior of transverse cirri when observed
+Micronuclei,number 2 2 2 2.0 0.0 0.0 11
+composed of 16–24 cirri (Fig. 3B, G–I). Invariably in vivo. Two spherical micronuclei, c. 2 lm in diame-
+three dorsal kineties more or less shortened anteri- ter, each closely associated with a macronuclear CV, coefficient of variation in %; Max., maximum; Mean, arithmetic mean; Med., median value; Min., minimum; N,
+orly;number ofbristlesper kinety increases from left segment (Fig. 3C, H). numberofspecimensexamined;SD,standarddeviation.
+©2016TheLinneanSocietyofLondon,ZoologicalJournaloftheLinneanSociety,2016 ©© 22001167 TThhee LLiinnnneeaann SSoocciieettyy ooff LLoonnddoonn,, ZZoooollooggiiccaall JJoouurrnnaal loof fththe eLLininnneaeann SSocoiceiteyt,y 2,021071,6 179, 475–491
+
+4882 X.XL.U LOUEOT EATL A.L. TWO NEW BRACKISH HYPOTRICHOUS CILIATES 9
+G
+A
+E
+B C D
+H
+B C D F
+A
+Figure 4. Lamtostyla ovalissp.nov. fromlivespecimens. A,ventralviewofarepresentative specimen.B–D,ventral
+viewsofthesamespecimen,showingflexibilityanddifferentbodyshapes.E,F,specimenfilledwithalgae(arrowheads);
+arrows in(E) mark macronuclear segments.G,detailofcellshowing possiblyendosymbiotic algae (arrowheads). H,dor-
+salsurfaceofcellshowingbacterialplaquesofdifferentsizecomposedofbacilli(arrows).Scalebars = 30 lm.
+Table 2. Morphometric characterization of Lamtostyla ovalis sp. nov. based on protargol-stained specimens (mea-
+surementsinlm)
+Character Min. Max. Med. Mean SD CV N
+E F G H I
+Body,length 65 105 83 82.7 10.4 12.6 21
+Figure 3. Lamtostyla ovalis sp. nov. from live specimens (A) and after protargol staining (B–I). A, ventral view of a
+Body,width 35 62 48 48.2 7.5 15.6 21
+representativespecimen.B,C,ventral(B)anddorsal(C)viewsofholotypespecimen,showinginfraciliatureandnuclear
+Adoralzone,length 23 35 29 28.8 3.2 11.3 21
+apparatus; arrowhead in (B) indicates buccal cirrus, arrowheads in (C) indicate micronuclei. D, ventral view of a speci-
+Adoralmembranelles,number 19 25 22 21.9 1.6 7.1 21
+men with six frontoventral and four transverse cirri; arrowhead indicates the buccal cirrus. E, ventral view, showing
+Frontalcirri,number 3 3 3 3.0 0.0 0.0 21
+macronuclear segments (arrowheads) and the thread (arrow) between them. F, dorsal view of anterior region of cell,
+Buccalcirrus,number 1 1 1 1.0 0.0 0.0 21
+showing distribution of dikinetids (arrowheads). G, ventral view of holotype specimen, showing infraciliature and
+Frontoventralcirri,number 3 7 3 3.8 1.3 33.8 21
+nuclear apparatus, arrowhead indicates buccal cirrus. H, I, ventral view of representative specimen; arrowhead indi-
+CirriinanteriorpartofACR,number 4 10 6 6.4 1.2 19.4 21
+cates buccal cirrus, arrows show pretransverse ventral cirri; double arrowhead in (H) indicates micronucleus and in (I)
+CirriinposteriorpartofACR,number 4 6 5 4.8 0.7 14.7 21
+indicates a small ingested ciliate. Abbreviations: ACR, amphisiellid median cirral row; AZM, adoral zone of mem-
+CirriinACR,number 8 16 11 11.2 1.7 15.2 21
+branelles;CV,contractilevacuole;DK1–3,dorsalkineties1–3;EM,endoralmembrane;FC,frontalcirri;FVC,frontoven-
+Cirriinleftmarginalrow,number 16 24 19 19.2 2.6 13.7 21
+tral cirri; LMR, left marginal cirri row; Ma, macronuclear segments; PM, paroral membrane; PTVC, pretransverse
+Cirriinrightmarginalrow,number 19 31 23 23.8 3.3 14.0 21
+ventralcirri;RMR,rightmarginalcirrirow;TC,transversecirri.Scalebars = 30 lm.
+Pretransversecirri,number 1 3 2 1.7 0.6 37.5 21
+Transversecirri,number 4 6 5 5.0 0.4 8.0 21
+The topologies of the BI and ML trees inferred Dorsalkineties,number 3 3 3 3.0 0.0 0.0 21
+SSU RRNA GENE SEQUENCE AND PHYLOGENETIC
+from SSU rRNA gene sequences were basically con- Dikinetidsindorsalkinety1,number 9 15 11 11.4 1.9 16.7 16
+ANALYSES
+gruent with variable support values; therefore, only Dikinetidsindorsalkinety2,number 13 20 14 15.2 2.6 17.1 6
+The SSU rRNA gene sequence of Pol. monilata sp. the ML topology (with nodal support from both Dikinetidsindorsalkinety3,number 13 20 15 16.0 2.4 15.0 8
+nov. (GenBank accession number KT192639) is methods) is shown (Fig. 5). The phylogenetic analy- Macronuclearsegments,number 2 2 2 2.0 0.0 0.0 25
+1698 bp long and has a G + C content of 45.11%; sesshowedthat neitherorder Stichotrichida norSpo- Micronuclei,number 1 2 2 1.6 0.5 31.3 8
+that of L. ovalis sp. nov. (GenBank accession number radotrichida is monophyletic. Within these two
+KP266625) is 1729 bp long and has a G + C content orders, three families out of seven (i.e. Trachelostyli- ACR, amphisiellid median cirral row; CV, coefficient of variation in %; Max., maximum; Mean, arithmetic mean; Med.,
+of 45.58%. dae, Gonostomatidae, and Spirofilidae) and one medianvalue;Min.,minimum;N,numberofspecimensexamined;SD,standarddeviation.
+© 2017 The L©in2n0e1a6n TShoceieLtiyn onfe LanonSdoocnie, tZyooolfoLgoicnadlo Jno,uZronoallo gofi ctahleJ Loiunrnneaalno SfothcieetLyi,n 2n0e1a7n, 1S7o9c,i e4t7y5,–2409116 ©2016TheLinneanSocietyofLondon,ZoologicalJournaloftheLinneanSociety,2016
+
+8 X. LUO ET AL. TWTOW NOENWE WBRBARCAKCISKHIS HHYHPYOPTORTICRHICOHUOSU CSILCIIALTIAETSE S4893
+G
+A
+E
+B C D
+H
+B C D F
+A
+Figure 4. Lamtostyla ovalissp.nov. fromlivespecimens. A,ventralviewofarepresentative specimen.B–D,ventral
+viewsofthesamespecimen,showingflexibilityanddifferentbodyshapes.E,F,specimenfilledwithalgae(arrowheads);
+arrows in(E) mark macronuclear segments.G,detailofcellshowing possiblyendosymbiotic algae (arrowheads). H,dor-
+salsurfaceofcellshowingbacterialplaquesofdifferentsizecomposedofbacilli(arrows).Scalebars = 30 lm.
+Table 2. Morphometric characterization of Lamtostyla ovalis sp. nov. based on protargol-stained specimens (mea-
+surementsinlm)
+Character Min. Max. Med. Mean SD CV N
+E F G H I
+Body,length 65 105 83 82.7 10.4 12.6 21
+Figure 3. Lamtostyla ovalis sp. nov. from live specimens (A) and after protargol staining (B–I). A, ventral view of a
+Body,width 35 62 48 48.2 7.5 15.6 21
+representativespecimen.B,C,ventral(B)anddorsal(C)viewsofholotypespecimen,showinginfraciliatureandnuclear
+Adoralzone,length 23 35 29 28.8 3.2 11.3 21
+apparatus; arrowhead in (B) indicates buccal cirrus, arrowheads in (C) indicate micronuclei. D, ventral view of a speci-
+Adoralmembranelles,number 19 25 22 21.9 1.6 7.1 21
+men with six frontoventral and four transverse cirri; arrowhead indicates the buccal cirrus. E, ventral view, showing
+Frontalcirri,number 3 3 3 3.0 0.0 0.0 21
+macronuclear segments (arrowheads) and the thread (arrow) between them. F, dorsal view of anterior region of cell,
+Buccalcirrus,number 1 1 1 1.0 0.0 0.0 21
+showing distribution of dikinetids (arrowheads). G, ventral view of holotype specimen, showing infraciliature and
+Frontoventralcirri,number 3 7 3 3.8 1.3 33.8 21
+nuclear apparatus, arrowhead indicates buccal cirrus. H, I, ventral view of representative specimen; arrowhead indi-
+CirriinanteriorpartofACR,number 4 10 6 6.4 1.2 19.4 21
+cates buccal cirrus, arrows show pretransverse ventral cirri; double arrowhead in (H) indicates micronucleus and in (I)
+CirriinposteriorpartofACR,number 4 6 5 4.8 0.7 14.7 21
+indicates a small ingested ciliate. Abbreviations: ACR, amphisiellid median cirral row; AZM, adoral zone of mem-
+CirriinACR,number 8 16 11 11.2 1.7 15.2 21
+branelles;CV,contractilevacuole;DK1–3,dorsalkineties1–3;EM,endoralmembrane;FC,frontalcirri;FVC,frontoven-
+Cirriinleftmarginalrow,number 16 24 19 19.2 2.6 13.7 21
+tral cirri; LMR, left marginal cirri row; Ma, macronuclear segments; PM, paroral membrane; PTVC, pretransverse
+Cirriinrightmarginalrow,number 19 31 23 23.8 3.3 14.0 21
+ventralcirri;RMR,rightmarginalcirrirow;TC,transversecirri.Scalebars = 30 lm.
+Pretransversecirri,number 1 3 2 1.7 0.6 37.5 21
+Transversecirri,number 4 6 5 5.0 0.4 8.0 21
+The topologies of the BI and ML trees inferred Dorsalkineties,number 3 3 3 3.0 0.0 0.0 21
+SSU RRNA GENE SEQUENCE AND PHYLOGENETIC
+from SSU rRNA gene sequences were basically con- Dikinetidsindorsalkinety1,number 9 15 11 11.4 1.9 16.7 16
+ANALYSES
+gruent with variable support values; therefore, only Dikinetidsindorsalkinety2,number 13 20 14 15.2 2.6 17.1 6
+The SSU rRNA gene sequence of Pol. monilata sp. the ML topology (with nodal support from both Dikinetidsindorsalkinety3,number 13 20 15 16.0 2.4 15.0 8
+nov. (GenBank accession number KT192639) is methods) is shown (Fig. 5). The phylogenetic analy- Macronuclearsegments,number 2 2 2 2.0 0.0 0.0 25
+1698 bp long and has a G + C content of 45.11%; sesshowedthat neitherorder Stichotrichida norSpo- Micronuclei,number 1 2 2 1.6 0.5 31.3 8
+that of L. ovalis sp. nov. (GenBank accession number radotrichida is monophyletic. Within these two
+KP266625) is 1729 bp long and has a G + C content orders, three families out of seven (i.e. Trachelostyli- ACR, amphisiellid median cirral row; CV, coefficient of variation in %; Max., maximum; Mean, arithmetic mean; Med.,
+of 45.58%. dae, Gonostomatidae, and Spirofilidae) and one medianvalue;Min.,minimum;N,numberofspecimensexamined;SD,standarddeviation.
+©2016TheLinneanSocietyofLondon,ZoologicalJournaloftheLinneanSociety,2016 ©© 22001167 TThhee LLiinnnneeaann SSoocciieettyy ooff LLoonnddoonn,, ZZoooollooggiiccaall JJoouurrnnaal loof fththe eLLininnneaeann SSocoiceiteyt,y 2,021071,6 179, 475–491
+
+41804 XX. L. LUUOOE ETTA ALL.. TWO NEW BRACKISH HYPOTRICHOUS CILIATES 11
+Parabistichella variabilis, and Orthoamphisiella bre- morphogenetic stages of Polystichothrix monilata
+viseries, near the base of the SSU rRNA gene trees sp.nov. areavailable, however, wecannot completely
+forming a group that is sister to a large assemblage exclude the possibility that Polystichothrix gen. nov.
+comprising most of the stichotrichids, spo- is a stichotrichid. Furthermore, Polystichothrix also
+radotrichids, and (core) urostyloids for which SSU differs from the typical oxytrichids, which have 18
+rRNA gene sequence data are available. Polysti- frontal-ventral-traverse cirri arranged in six groups
+chothrix monilata sp. nov. is sister to Pseudogas- (Berger, 1999). There are, however, some oxytrichids
+trostyla flava with high support (96% ML, 1.00 BI), with more than 18 frontal-ventral-transverse cirri
+and is next most closely related to Rubrioxytricha that should be compared with Polystichothrix gen
+ferruginea, Rubrioxytricha haematoplasma, Pontur- nov.
+ostyla enigmatica, and Pseudocyrtohymena koreana. In addition to differences in their cirral pattern,
+Except for Pseudogastrostyla flava, all of these spe- Onychodromus and Styxophrya can be easily sepa-
+cies have 18 frontal-ventral-transverse cirri and are rated from Polystichothrix gen nov. by having a rigid
+members of the subfamily Oxytrichinae. In order to (vs. flexible) body, the presence (vs. absence) of
+further investigate evolutionary relationships within unique cytoplasmic processes (horns) on the dorsal
+the family Oxytrichidae, we mapped morphological surface, and more than six (vs. five) dorsal kineties.
+characters onto the phylogenetic tree (Fig. 5). Based Laurentiella and Pattersoniella are also rigid oxytri-
+on cirral patterns, Oxytrichidae is divided into three chids that can be distinguished from Polystichothrix
+groups, viz. oxytrichids with 18 frontal-ventral-trans- gen nov. by having more than six dorsal kineties
+verse cirri (blue stars), oxytrichids with more than with multiple fragmented kineties (vs. five dorsal
+18 cirri (red stars), and oxytrichids with fewer than kineties) and a conspicuously large, wide adoral zone
+18 cirri (green stars). The Oxytrichidae can also be of membranelles that extends for about 50% of the
+separated into two groups based on the presence or body length (vs. not conspicuously wide and extend-
+absence of dorsal kinety fragmentation, viz. those ing for only about 30% of the body length). In addi-
+with dorsomarginal kineties but lacking dorsal kin- tion, Laurentiella has five frontal-ventral-traverse
+ety fragmentation (orange triangles), and those both cirral rows (vs. two frontal rows and four or five
+with dorsomarginal kineties and dorsal kinety frag- ventral rows in Polystichothrix gen. nov.), and
+mentation (black triangles). However, grouping pat- Pattersoniella has six frontal cirri and four cirri
+terns based on either of these two morphological forming a so-called ‘bicorona’ (vs. three frontal cirri
+character states are not possible in the topology of in Polystichothrix gen. nov.) (Berger, 1999).
+the SSU rRNA gene trees (Fig. 5). Ancystropodium has a club-shaped body, two
+slightly obliquely arranged frontoventral rows, and
+three conspicuous caudal cirri, whereas Polysti-
+DISCUSSION chothrix gen. nov. has an elliptical body outline, two
+frontal and four or five ventral rows, and lacks cau-
+ESTABLISHMENT OF THE NEW GENUS
+dal cirri (Berger, 1999).
+POLYSTICHOTHRIX GEN. NOV
+Territricha can be distinguished from Polysti-
+Polystichothrix monilata sp. nov. possesses more chothrix gen. nov. by having frontoventral cirri
+than 18 frontal-ventral-traverse cirri with the frontal arranged in a V-shaped pattern and more than six
+and ventral cirri arranged in short rows, and five dorsal kineties (vs. two short frontal rows, four or
+dorsal kineties with dorsal kinety 4 shortened. five short ventral rows, and five dorsal kineties;
+Unfortunately we failed to obtain any morphogenetic Berger, 1999).
+Figure 5. The maximum likelihood (ML) tree inferred from small subunit ribosomal RNAgene sequences, showing the stages in our preparations; therefore, the ontogenetic Compared with Polystichothrix gen. nov., Kerona
+position of the new species Polystichothrix monilata sp. nov. and Lamtostyla ovalis sp. nov. (indicated in bold pattern of development of the frontal-ventral-tra- has numerous frontal and frontoventral cirri
+font). Bootstrap values above 50 for ML and posterior probability values above 0.5 for Bayesian inference (BI) are given
+verse cirri or dorsal kineties is unknown. From the arranged in six slightly to distinctly curved rows (vs.
+at nodes. Stars in different colours mark oxytrichids with frontal-ventral-transverse cirri of different numbers (green
+characteristics of interphase specimens we speculate two short frontal rows and four to five short ventral
+< 18; blue = 18; red > 18). Orange triangles mark oxytrichids with dorsomarginal kineties but lacking dorsal kinety
+that the frontal-ventral-traverse cirri originate from rows), a large adoral zone of membranelles that occu-
+fragmentation; black triangles mark oxytrichids with dorsomarginal kineties and dorsalkinety fragmentation; black tri-
+more than six frontal-ventral-traverse anlagen, the pies about 50% (vs. 30%) of the body length, and dor-
+angles with question marks indicate oxytrichids lacking morphogenetic information but that we speculate have dorso-
+shortened dorsal kinety 4 may derive from dorsal sal kineties arranged in about 16–20 indistinct rows
+marginal kineties and dorsal kinety fragmentation; green triangle marks oxytrichids with dorsal kinety fragmentation
+kinety 3 fragmentation, and dorsal kinety 5 may (vs. five well-defined dorsal kineties) (Berger, 1999).
+but lacking dorsomarginal kineties. All branches are drawn to scale. Scale bar corresponds to five substitutions per 100
+come from the dorsomarginal anlage. Apoamphisiella, Parentocirrus, and Paraurostyla
+nucleotidepositions.
+Regarding its general infraciliature, the new genus differ from Polystichothrix gen. nov. by having at
+Polystichothrix resembles neither stichotrichids, least two long frontoventral rows (vs. two short fron-
+subfamily (i.e. Stylonychinae) are monophyletic. Pro- ingroup. Lamtostyla ovalis sp. nov. clusters with five which have one or more ventral cirral rows, nor the tal rows and four or five short ventral rows) and sev-
+togastrostyla pulchra and Protogastrostyla sterkii stichotrichid species, i.e. Uroleptoides magnigranulo- urostylids, which have midventral cirri arranged in a eral caudal cirri (vs. caudal cirri absent) (Berger,
+cluster in a clade that branches off at the base of the sus, Bistichella cystiformans, Bistichella variabilis, typical zigzag pattern (Berger, 2006, 2008). As no 1999).
+© 2017 The L©in2n0e1a6n TShoceieLtiyn onfe LanonSdoocnie, tZyooolfoLgoicnadlo Jno,uZronoallo gofi ctahleJ Loiunrnneaalno SfothcieetLyi,n 2n0e1a7n, 1S7o9c,i e4t7y5,–2409116 ©2016TheLinneanSocietyofLondon,ZoologicalJournaloftheLinneanSociety,2016
+
+10 X. LUO ET AL. TTWWOO NNEEWW BBRRAACCKKISISHH HHYYPPOOTTRRICICHHOOUUSS CCILILIAIATTEES S 41815
+Parabistichella variabilis, and Orthoamphisiella bre- morphogenetic stages of Polystichothrix monilata
+viseries, near the base of the SSU rRNA gene trees sp.nov. areavailable, however, wecannot completely
+forming a group that is sister to a large assemblage exclude the possibility that Polystichothrix gen. nov.
+comprising most of the stichotrichids, spo- is a stichotrichid. Furthermore, Polystichothrix also
+radotrichids, and (core) urostyloids for which SSU differs from the typical oxytrichids, which have 18
+rRNA gene sequence data are available. Polysti- frontal-ventral-traverse cirri arranged in six groups
+chothrix monilata sp. nov. is sister to Pseudogas- (Berger, 1999). There are, however, some oxytrichids
+trostyla flava with high support (96% ML, 1.00 BI), with more than 18 frontal-ventral-transverse cirri
+and is next most closely related to Rubrioxytricha that should be compared with Polystichothrix gen
+ferruginea, Rubrioxytricha haematoplasma, Pontur- nov.
+ostyla enigmatica, and Pseudocyrtohymena koreana. In addition to differences in their cirral pattern,
+Except for Pseudogastrostyla flava, all of these spe- Onychodromus and Styxophrya can be easily sepa-
+cies have 18 frontal-ventral-transverse cirri and are rated from Polystichothrix gen nov. by having a rigid
+members of the subfamily Oxytrichinae. In order to (vs. flexible) body, the presence (vs. absence) of
+further investigate evolutionary relationships within unique cytoplasmic processes (horns) on the dorsal
+the family Oxytrichidae, we mapped morphological surface, and more than six (vs. five) dorsal kineties.
+characters onto the phylogenetic tree (Fig. 5). Based Laurentiella and Pattersoniella are also rigid oxytri-
+on cirral patterns, Oxytrichidae is divided into three chids that can be distinguished from Polystichothrix
+groups, viz. oxytrichids with 18 frontal-ventral-trans- gen nov. by having more than six dorsal kineties
+verse cirri (blue stars), oxytrichids with more than with multiple fragmented kineties (vs. five dorsal
+18 cirri (red stars), and oxytrichids with fewer than kineties) and a conspicuously large, wide adoral zone
+18 cirri (green stars). The Oxytrichidae can also be of membranelles that extends for about 50% of the
+separated into two groups based on the presence or body length (vs. not conspicuously wide and extend-
+absence of dorsal kinety fragmentation, viz. those ing for only about 30% of the body length). In addi-
+with dorsomarginal kineties but lacking dorsal kin- tion, Laurentiella has five frontal-ventral-traverse
+ety fragmentation (orange triangles), and those both cirral rows (vs. two frontal rows and four or five
+with dorsomarginal kineties and dorsal kinety frag- ventral rows in Polystichothrix gen. nov.), and
+mentation (black triangles). However, grouping pat- Pattersoniella has six frontal cirri and four cirri
+terns based on either of these two morphological forming a so-called ‘bicorona’ (vs. three frontal cirri
+character states are not possible in the topology of in Polystichothrix gen. nov.) (Berger, 1999).
+the SSU rRNA gene trees (Fig. 5). Ancystropodium has a club-shaped body, two
+slightly obliquely arranged frontoventral rows, and
+three conspicuous caudal cirri, whereas Polysti-
+DISCUSSION chothrix gen. nov. has an elliptical body outline, two
+frontal and four or five ventral rows, and lacks cau-
+ESTABLISHMENT OF THE NEW GENUS
+dal cirri (Berger, 1999).
+POLYSTICHOTHRIX GEN. NOV
+Territricha can be distinguished from Polysti-
+Polystichothrix monilata sp. nov. possesses more chothrix gen. nov. by having frontoventral cirri
+than 18 frontal-ventral-traverse cirri with the frontal arranged in a V-shaped pattern and more than six
+and ventral cirri arranged in short rows, and five dorsal kineties (vs. two short frontal rows, four or
+dorsal kineties with dorsal kinety 4 shortened. five short ventral rows, and five dorsal kineties;
+Unfortunately we failed to obtain any morphogenetic Berger, 1999).
+Figure 5. The maximum likelihood (ML) tree inferred from small subunit ribosomal RNAgene sequences, showing the stages in our preparations; therefore, the ontogenetic Compared with Polystichothrix gen. nov., Kerona
+position of the new species Polystichothrix monilata sp. nov. and Lamtostyla ovalis sp. nov. (indicated in bold pattern of development of the frontal-ventral-tra- has numerous frontal and frontoventral cirri
+font). Bootstrap values above 50 for ML and posterior probability values above 0.5 for Bayesian inference (BI) are given
+verse cirri or dorsal kineties is unknown. From the arranged in six slightly to distinctly curved rows (vs.
+at nodes. Stars in different colours mark oxytrichids with frontal-ventral-transverse cirri of different numbers (green
+characteristics of interphase specimens we speculate two short frontal rows and four to five short ventral
+< 18; blue = 18; red > 18). Orange triangles mark oxytrichids with dorsomarginal kineties but lacking dorsal kinety
+that the frontal-ventral-traverse cirri originate from rows), a large adoral zone of membranelles that occu-
+fragmentation; black triangles mark oxytrichids with dorsomarginal kineties and dorsalkinety fragmentation; black tri-
+more than six frontal-ventral-traverse anlagen, the pies about 50% (vs. 30%) of the body length, and dor-
+angles with question marks indicate oxytrichids lacking morphogenetic information but that we speculate have dorso-
+shortened dorsal kinety 4 may derive from dorsal sal kineties arranged in about 16–20 indistinct rows
+marginal kineties and dorsal kinety fragmentation; green triangle marks oxytrichids with dorsal kinety fragmentation
+kinety 3 fragmentation, and dorsal kinety 5 may (vs. five well-defined dorsal kineties) (Berger, 1999).
+but lacking dorsomarginal kineties. All branches are drawn to scale. Scale bar corresponds to five substitutions per 100
+come from the dorsomarginal anlage. Apoamphisiella, Parentocirrus, and Paraurostyla
+nucleotidepositions.
+Regarding its general infraciliature, the new genus differ from Polystichothrix gen. nov. by having at
+Polystichothrix resembles neither stichotrichids, least two long frontoventral rows (vs. two short fron-
+subfamily (i.e. Stylonychinae) are monophyletic. Pro- ingroup. Lamtostyla ovalis sp. nov. clusters with five which have one or more ventral cirral rows, nor the tal rows and four or five short ventral rows) and sev-
+togastrostyla pulchra and Protogastrostyla sterkii stichotrichid species, i.e. Uroleptoides magnigranulo- urostylids, which have midventral cirri arranged in a eral caudal cirri (vs. caudal cirri absent) (Berger,
+cluster in a clade that branches off at the base of the sus, Bistichella cystiformans, Bistichella variabilis, typical zigzag pattern (Berger, 2006, 2008). As no 1999).
+©2016TheLinneanSocietyofLondon,ZoologicalJournaloftheLinneanSociety,2016 ©© 22001167 TThhee LLiinnnneeaann SSoocciieettyy ooff LLoonnddoonn,, ZZoooollooggiiccaall JJoouurrnnaal loof fththe eLLininnneaeann SSocoiceiteyt,y 2,021071,6 179, 475–491
+
+41826 XX. L. LUUOOE ETTA ALL.. TWO NEW BRACKISH HYPOTRICHOUS CILIATES 13
+Two oxytrichid genera, i.e. Gastrostyla and Hemi- Apoterritricha, and Paraurostyla branched in sepa- 54–52 54–52 alytsotmaL nwonktoN regrebmeH -mem -ges
+gastrostyla, and two non-oxytrichid genera, i.e. Pro- rate groups, although all nested within the .la snatpar 04 )5891(
+togastrostyla and Apogastrostyla, can be separated Oxytrichinae clade A (Fig. 5). This indicates that the 9 63–33 raelcunorcam
+from Polystichothrix gen. nov. by having most of character state of more than 18 frontal-ventral-tra- alytsotmaL 9 9 terenssioF 002 1:5 %52 fo
+snagele 002–041 091–621 gnikcaL %32–61 )2002( – – 1 5 5 2 enoz
+their frontoventral and postoral ventral cirri in a verse cirri might have evolved several times. Gene 92–81
+more or less continuous, slightly oblique row (vs. two sequence data from a wider range of taxa, however, 1:5 %13 5–0 3–2 8–4 laroda
+0
+short frontal rows and four to five short ventral are needed in order to investigate this hypothesis 05–53
+rows) and four or five (vs. six to eight) transverse and to establish a robust classification of the family &ahtagA,renssioF ,aM
+cirri. In addition, Hemigastrostyla and Apogas- Oxytrichidae. 52–51 62–61 alytsotmaL nwonktoN regrebmeH fo
+trostyla have two ‘extra’ cirri behind the right mar- )2002(regreB 9 031–58 %52–02 )5891( htgnel ;seitenik
+ginal row, these being absent in Polystichothrix gen. alytsotmaL 9 9 agnol 91–81
+SYSTEMATIC POSITION OF THE GENUS LAMTOSTYLA nov. (Song & Wilbert, 1997; Berger, 1999; Gong arecorp 012–031 271–211 gnikcaL 32–71 – 1:3 – 2 5 5 2 ,LB:MZA lasrod
+et al., 2007; Li et al., 2010; Shao et al., 2011). Historically,thegenusLamtostylahasbeenclassified 1:1.6 %51 %03 6–3
+in the families Holostichidae (Buitkamp, 1977; Cor-
+0 2 2
+55–02 08–94
+liss, 1979; Tuffrau, 1979), Oxytrichidae (Jankowski, PHYLOGENETIC ANALYSIS, FAMILIAL ASSIGNMENT AND 1979), Cladotrichidae (Small & Lynn, 1985), alytsotmaL nwonktoN pmaktiuB )7991(renssioF ;sellenarbmem ,KD
+SYSTEMATIC POSITION OF Amphisiellidae (Petz & Foissner, 1996; Shi, 1999; iettomal )7791( alytsotmaL arefilunarg 9 9 sselruoloC ;snoitaraperp
+POLYSTICHOTHRIX GEN. NOV. Berger, 2008; Lynn, 2008), and Trachelostylidae ?001 1:5.3 %32 %62 071–021 061–521
+91 1:6–2 72–32
+The present phylogenetic analyses based on SSU (Lynn&Small,2002).Thepresentstudyprovidesthe – 0 2 4 2 %82 %72 2–1
+rRNA gene sequence data suggest that Polysti- first SSU rRNA gene sequence data for Lamtostyla. 04–03 23–32 )8891(renssioF 5 3 2
+chothrix monilata sp. nov. is an oxytrichid, and is Our phylogenetic analyses place Lamtostyla in a laroda logratorp
+most closely related to Pseudogastrostyla, followed by cladethatincludesrepresentatives ofgenerathatare mlnistnemerusaem,seicepsalytsotmaLfosnosirapmoccirtemohpromdnalacigolohproM alytsotmaL &rerettalB
+Rubrioxytricha, Ponturostyla, and Pseudocyrtohy- either already assigned to the family Amphisiellidae, mena (Fig. 5). These five genera share some morpho- i.e. Uroleptoides (Lynn, 2008) or that have been sug- silartsua 9 031–09 9 721–77 gnikcaL 1:5.3 %03–%42 %64–83 62–12 53–02 43–02 .la ,MA
+logical characters that are phylogenetic markers for gested might belong to Amphisiellidae, i.e. Orthoam- 6–2 alytsotmaL 9 9 sselruoloC %32–%41 terenssioF ni
+oxytrichids, for example the possession of dorso- phisiella, Bistichella, and Parabistichella (Eigner, 0 3 2 ataroced 071–001 451–09 )2002( ;snoitaraperp oitar
+marginal kineties (Song & Wilbert, 1989; Blatterer & 1997; Berger, 2008; He & Xu, 2011; Jiang et al., 03–02 81–21 )4891(madA 1:9–4 %12 12–81 9–6 4–2
+Foissner, 1990; Berger, 1999, 2006, 2008; Song, 2013; Fan et al., 2014b). This is consistent with the alytsotmaL arricnisirep &renssioF 1 3 htdiw
+2001; Chen et al., 2015; Jung, Park & Min, 2015; morphology of genera within this clade, all of which 9 9 gnikcaL ,regreB
+Shao, Lu & Ma,2015). By contrast, amongst the taxa havethreemoreorlessenlargedfrontalcirriandone 08–05 75–43 1:8.2 %03 81–51 5–2 4–3 05–03 24–23 )7891(renssioF logratorp ydob .tonrosnemicepsgnivilrofsi)ml001(mutadsihtrehtehwniatrecnusitI,?
+within this clade, only Pon. enigmatica, possibly marginal cirral row on each side of cell, the main dif-
+– 0 2
+Pol. monilata sp. nov., and R. ferruginea possess dor- ferenceamongstthembeingthenumberandoriginof alytsotmaL :htgnel
+sal kinety fragmentation (Song, 2001; Chen et al., the frontoventral rows (Berger, 2008; He & Xu, 2011; renssioF&regreB alihpitiv 9 9 gnikcaL .deticecruosehtmorfelbaliavatonerew’–‘htiwdekramsretcarahC
+021–09 001–67
+2015; Fan et al., 2015; Jung et al., 2015). This Jiang et al., 2013; Fan et al., 2014b). By contrast, 52–02 12–71 32–02 ni
+conflicts with the hypotheses that dorsal kinety frag- Lamtostyla and Amphisiella, the type genus of the alytsotmaL 1:4.2 %52 %24 2–1 5–4 htgnel ydob
+0 3
+mentation is the main apomorphy of the Oxytrichi- familyAmphisiellidae,areindifferentclades(Fig. 5). acidnalsi 9 9 gnikcaL )8891( ,WB:LB
+dae, and that species that lack dorsal kinety This placement partly agrees with the morphological 08–06 07–65 61–51
+1:4.3 %72 %72 ydob .irricesrevsnart,CT;irricesrevsnarterp,CVTP;stnem
+fragmentation are non-oxytrichid Dorsomarginalia evidence, which shows that Lamtostyla can be distin- renssioF&regreB
+(Berger, 1999, 2008). In other clades, some species guishedfromAmphisiellabyhavingfewerdorsalkin- 0 3 3 2 ataelcunirdauq 23–12
+03 :htgnel ;snoitaraperp
+with dorsomarginal kineties but lacking dorsal kin- eties, fewer transverse cirri, and a short (vs. long) 06–04
+ety fragmentation (species marked with orange tri- amphisiellid median cirral row (Berger, 2008). These 54–04 krowtneserP alytsotmaL 9 9
+angles in Fig. 5) also cluster with oxytrichids genera, however, share a number of characters alytsotmaL 9 521–001 501–07 gnikcaL 91–41 )9891( wor
+possessing dorsomarginal kineties (species marked including a continuous adoral zone of membranelles, 011–07 9 gnikcaL 1:4.3 %02 %83 4–2
+silavo 57–55 52–91
+with black triangles in Fig. 5). Consequently, we straight and parallel undulating membranes, three 1:7.1 %53 %03 3–1 6–4 0 2 4 larric logratorp
+here classify Polystichothrix gen. nov. as a member enlarged frontal cirri, a buccal cirrus, two or more 3 2
+of the family Oxytrichidae. cirri located left of the anterior portion of the snoitaraperplogratorpnieziS snoitaraperplogratorpnieziS naidem
+It has been suggested that oxytrichids with 18 amphisiellid median cirral row and which originate
+ni
+frontal-ventral-traverse cirri are ancestral and that fromtwoseparateanlagen,andoneleftandoneright
+htgnel
+those with more than 18 frontal-ventral-traverse marginal row (Berger, 2008). Consequently, based dilleisihpma
+cirri, e.g. Polystichothrix gen. nov., Apoterritricha, both on the morphological and molecular data, we
+selunarglacitroC selunarglacitroC
+Paraurostyla, Pattersoniella, and Territricha, evolved suggest that Lamtostyla should be treated as a mem- ydob
+rebmun,CVTP rebmun,CVTP
+by a secondary increase in the numbers of frontal- ber of the family Amphisiellidae. Phylogenetic analy-
+ovivnieziS rebmun,MA rebmun,CT rebmun,KD rebmun,aM ecruosataD ovivnieziS rebmun,MA rebmun,CT rebmun,KD rebmun,aM ecruosataD
+ventral-transverse cirri anlagen and of cirri originat- ses inferred from other gene markers and retcarahC retcarahC :
+ing from the right anlagen (Berger, 1999; Kim et al., morphogeneticstudiesfromawiderrangeoftaxaare .3 WB:LB LB:MZA LB:RCA WB:LB LB:MZA LB:RCA ,LB:RCA sellenarb
+elbaT
+2014). In our phylogenetic analyses based on SSU urgently needed in order to elucidate whether the
+rRNA gene sequence data, Pol. monilata sp. nov., familyAmphisiellidaeismonophyletic.
+© 2017 The L©in2n0e1a6n TShoceieLtiyn onfe LanonSdoocnie, tZyooolfoLgoicnadlo Jno,uZronoallo gofi ctahleJ Loiunrnneaalno SfothcieetLyi,n 2n0e1a7n, 1S7o9c,i e4t7y5,–2409116 ©2016TheLinneanSocietyofLondon,ZoologicalJournaloftheLinneanSociety,2016
+
+12 X. LUO ET AL. TTWWOO NNEEWW BBRRAACCKKISISHH HHYYPPOOTTRRICICHHOOUUSS CCILILIAIATTEES S 41837
+Two oxytrichid genera, i.e. Gastrostyla and Hemi- Apoterritricha, and Paraurostyla branched in sepa- 54–52 54–52 alytsotmaL nwonktoN regrebmeH -mem -ges
+gastrostyla, and two non-oxytrichid genera, i.e. Pro- rate groups, although all nested within the .la snatpar 04 )5891(
+togastrostyla and Apogastrostyla, can be separated Oxytrichinae clade A (Fig. 5). This indicates that the from Polystichothrix gen. nov. by having most of character state of more than 18 frontal-ventral-tra- alytsotmaL 9 9 terenssioF 9 002 1:5 %52 63–33 fo raelcunorcam
+snagele 002–041 091–621 gnikcaL %32–61 )2002( – – 1 5 5 2 enoz
+their frontoventral and postoral ventral cirri in a verse cirri might have evolved several times. Gene 92–81
+more or less continuous, slightly oblique row (vs. two sequence data from a wider range of taxa, however, 1:5 %13 5–0 3–2 8–4 laroda
+0
+short frontal rows and four to five short ventral are needed in order to investigate this hypothesis 05–53
+rows) and four or five (vs. six to eight) transverse and to establish a robust classification of the family &ahtagA,renssioF ,aM
+cirri. In addition, Hemigastrostyla and Apogas- Oxytrichidae. 52–51 62–61 alytsotmaL nwonktoN regrebmeH fo
+trostyla have two ‘extra’ cirri behind the right mar- )2002(regreB 9 031–58 %52–02 )5891( htgnel ;seitenik
+ginal row, these being absent in Polystichothrix gen. alytsotmaL 9 9 agnol 91–81
+SYSTEMATIC POSITION OF THE GENUS LAMTOSTYLA nov. (Song & Wilbert, 1997; Berger, 1999; Gong arecorp 012–031 271–211 gnikcaL 32–71 – 1:3 – 2 5 5 2 ,LB:MZA lasrod
+et al., 2007; Li et al., 2010; Shao et al., 2011). Historically,thegenusLamtostylahasbeenclassified 1:1.6 %51 %03 6–3
+in the families Holostichidae (Buitkamp, 1977; Cor-
+0 2 2
+55–02 08–94
+liss, 1979; Tuffrau, 1979), Oxytrichidae (Jankowski, PHYLOGENETIC ANALYSIS, FAMILIAL ASSIGNMENT AND 1979), Cladotrichidae (Small & Lynn, 1985), alytsotmaL nwonktoN pmaktiuB )7991(renssioF ;sellenarbmem ,KD
+SYSTEMATIC POSITION OF Amphisiellidae (Petz & Foissner, 1996; Shi, 1999; iettomal )7791( alytsotmaL arefilunarg 9 9 sselruoloC ;snoitaraperp
+POLYSTICHOTHRIX GEN. NOV. Berger, 2008; Lynn, 2008), and Trachelostylidae ?001 1:5.3 %32 %62 071–021 061–521
+91 1:6–2 72–32
+The present phylogenetic analyses based on SSU (Lynn&Small,2002).Thepresentstudyprovidesthe – 0 2 4 2 %82 %72 2–1
+rRNA gene sequence data suggest that Polysti- first SSU rRNA gene sequence data for Lamtostyla. 04–03 23–32 )8891(renssioF 5 3 2
+chothrix monilata sp. nov. is an oxytrichid, and is Our phylogenetic analyses place Lamtostyla in a laroda logratorp
+most closely related to Pseudogastrostyla, followed by cladethatincludesrepresentatives ofgenerathatare mlnistnemerusaem,seicepsalytsotmaLfosnosirapmoccirtemohpromdnalacigolohproM alytsotmaL &rerettalB
+Rubrioxytricha, Ponturostyla, and Pseudocyrtohy- either already assigned to the family Amphisiellidae, mena (Fig. 5). These five genera share some morpho- i.e. Uroleptoides (Lynn, 2008) or that have been sug- silartsua 9 031–09 9 721–77 gnikcaL 1:5.3 %03–%42 %64–83 62–12 53–02 43–02 .la ,MA
+logical characters that are phylogenetic markers for gested might belong to Amphisiellidae, i.e. Orthoam- 6–2 alytsotmaL 9 9 sselruoloC %32–%41 terenssioF ni
+oxytrichids, for example the possession of dorso- phisiella, Bistichella, and Parabistichella (Eigner, 0 3 2 ataroced 071–001 451–09 )2002( ;snoitaraperp oitar
+marginal kineties (Song & Wilbert, 1989; Blatterer & 1997; Berger, 2008; He & Xu, 2011; Jiang et al., 03–02 81–21 )4891(madA 1:9–4 %12 12–81 9–6 4–2
+Foissner, 1990; Berger, 1999, 2006, 2008; Song, 2013; Fan et al., 2014b). This is consistent with the alytsotmaL arricnisirep &renssioF 1 3 htdiw
+2001; Chen et al., 2015; Jung, Park & Min, 2015; morphology of genera within this clade, all of which 9 9 gnikcaL ,regreB
+Shao, Lu & Ma,2015). By contrast, amongst the taxa havethreemoreorlessenlargedfrontalcirriandone 08–05 75–43 1:8.2 %03 81–51 5–2 4–3 05–03 24–23 )7891(renssioF logratorp ydob .tonrosnemicepsgnivilrofsi)ml001(mutadsihtrehtehwniatrecnusitI,?
+within this clade, only Pon. enigmatica, possibly marginal cirral row on each side of cell, the main dif-
+– 0 2
+Pol. monilata sp. nov., and R. ferruginea possess dor- ferenceamongstthembeingthenumberandoriginof alytsotmaL :htgnel
+sal kinety fragmentation (Song, 2001; Chen et al., the frontoventral rows (Berger, 2008; He & Xu, 2011; renssioF&regreB alihpitiv 9 9 gnikcaL .deticecruosehtmorfelbaliavatonerew’–‘htiwdekramsretcarahC
+021–09 001–67
+2015; Fan et al., 2015; Jung et al., 2015). This Jiang et al., 2013; Fan et al., 2014b). By contrast, 52–02 12–71 32–02 ni
+conflicts with the hypotheses that dorsal kinety frag- Lamtostyla and Amphisiella, the type genus of the alytsotmaL 1:4.2 %52 %24 2–1 5–4 htgnel ydob
+0 3
+mentation is the main apomorphy of the Oxytrichi- familyAmphisiellidae,areindifferentclades(Fig. 5). acidnalsi 9 9 gnikcaL )8891( ,WB:LB
+dae, and that species that lack dorsal kinety This placement partly agrees with the morphological 08–06 07–65 61–51
+1:4.3 %72 %72 ydob .irricesrevsnart,CT;irricesrevsnarterp,CVTP;stnem
+fragmentation are non-oxytrichid Dorsomarginalia evidence, which shows that Lamtostyla can be distin- renssioF&regreB
+(Berger, 1999, 2008). In other clades, some species guishedfromAmphisiellabyhavingfewerdorsalkin- 0 3 3 2 ataelcunirdauq 23–12
+03 :htgnel ;snoitaraperp
+with dorsomarginal kineties but lacking dorsal kin- eties, fewer transverse cirri, and a short (vs. long) 06–04
+ety fragmentation (species marked with orange tri- amphisiellid median cirral row (Berger, 2008). These 54–04 krowtneserP alytsotmaL 9 9
+angles in Fig. 5) also cluster with oxytrichids genera, however, share a number of characters alytsotmaL 9 521–001 501–07 gnikcaL 91–41 )9891( wor
+possessing dorsomarginal kineties (species marked including a continuous adoral zone of membranelles, 011–07 9 gnikcaL 1:4.3 %02 %83 4–2
+silavo 57–55 52–91
+with black triangles in Fig. 5). Consequently, we straight and parallel undulating membranes, three 1:7.1 %53 %03 3–1 6–4 0 2 4 larric logratorp
+here classify Polystichothrix gen. nov. as a member enlarged frontal cirri, a buccal cirrus, two or more 3 2
+of the family Oxytrichidae. cirri located left of the anterior portion of the snoitaraperplogratorpnieziS snoitaraperplogratorpnieziS naidem
+It has been suggested that oxytrichids with 18 amphisiellid median cirral row and which originate
+ni
+frontal-ventral-traverse cirri are ancestral and that fromtwoseparateanlagen,andoneleftandoneright
+htgnel
+those with more than 18 frontal-ventral-traverse marginal row (Berger, 2008). Consequently, based dilleisihpma
+cirri, e.g. Polystichothrix gen. nov., Apoterritricha, both on the morphological and molecular data, we
+selunarglacitroC selunarglacitroC
+Paraurostyla, Pattersoniella, and Territricha, evolved suggest that Lamtostyla should be treated as a mem- ydob
+rebmun,CVTP rebmun,CVTP
+by a secondary increase in the numbers of frontal- ber of the family Amphisiellidae. Phylogenetic analy-
+ovivnieziS rebmun,MA rebmun,CT rebmun,KD rebmun,aM ecruosataD ovivnieziS rebmun,MA rebmun,CT rebmun,KD rebmun,aM ecruosataD
+ventral-transverse cirri anlagen and of cirri originat- ses inferred from other gene markers and retcarahC retcarahC :
+ing from the right anlagen (Berger, 1999; Kim et al., morphogeneticstudiesfromawiderrangeoftaxaare .3 WB:LB LB:MZA LB:RCA WB:LB LB:MZA LB:RCA ,LB:RCA sellenarb
+elbaT
+2014). In our phylogenetic analyses based on SSU urgently needed in order to elucidate whether the
+rRNA gene sequence data, Pol. monilata sp. nov., familyAmphisiellidaeismonophyletic.
+©2016TheLinneanSocietyofLondon,ZoologicalJournaloftheLinneanSociety,2016 ©© 22001167 TThhee LLiinnnneeaann SSoocciieettyy ooff LLoonnddoonn,, ZZoooollooggiiccaall JJoouurrnnaal loof fththe eLLininnneaeann SSocoiceiteyt,y 2,021071,6 179, 475–491
+
+41848 XX. L. LUUOOE ETTA ALL.. TWO NEW BRACKISH HYPOTRICHOUS CILIATES 15
+McmanusH,MitchellEAD,Mozley-StanridgeSE,Par- of Apoholosticha sinica n. g., n. sp. (Ciliophora, Hypotri- Notohymena australis (Ciliophora, Sporadotrichida). Acta
+COMPARISON OF LAMTOSTYLA OVALIS SP. NOV. WITH
+frey LW, Pawlowski J, Rueckert S, Shadwick L, chia), with consideration of its systematic position among Protozoologica54:107–122.
+ITS CONGENERS AND RELATED SPECIES
+Schoch CL, Smirnov A, Spiegel FW. 2012. The revised urostylids.EuropeanJournalofProtistology50:78–88. Huang J, Dunthorn M, Song W. 2012. Expanding charac-
+In his comprehensive review of the family Amphisiel- classification of eukaryotes. Journal of Eukaryotic Microbi- Fan Y, Hu X, Gao F, Al-Farraj SA, Al-Rasheid KAS. ter sampling for the molecular phylogeny of euplotid cili-
+lidae, Berger (2008) recognized 12 species of Lam- ology54:201–209. 2014b. Morphology, ontogenetic features and SSU rRNA ates (Protozoa, Ciliophora) using three markers, with a
+tostyla. Of these, Lamtostyla islandica Berger & BergerH.1999.MonographoftheOxytrichidae(Ciliophora, gene-based phylogeny of a soil ciliate, Bistichella cystifor- focus on the family Uronychiidae. Molecular Phylogenetics
+Foissner, 1988, most closely resembles L. ovalis sp. Hypotrichia).MonographiaeBiologicae.78:1–1080. mans spec. nov. (Protista, Ciliophora, Stichotrichia). Inter- andEvolution63:598–605.
+BergerH. 2006. Monograph of the Urostyloidea (Ciliophora, national Journal of Systematic and Evolutionary Huang J, Chen Z, Song W, Berger H. 2014. Three-gene
+nov. in that both have a similar cirral pattern, three
+Hypotricha).MonographiaeBiologicae85:1–1304. Microbiology64:4049–4060. based phylogeny of the Urostyloidea (Protista, Ciliophora,
+dorsal kineties, two macronuclear segments each
+Berger H. 2008. Monograph of the Amphisiellidae and Fan Y, Pan Y, Huang J, Lin X, Hu X, Warren A. 2014c. Hypotricha), with notes on classification of some core taxa.
+with a closely associated micronucleus, and lack cor-
+Trachelostylidae (Ciliophora, Hypotricha). Monographiae Molecular phylogeny and taxonomy of two novel brackish MolecularPhylogeneticsandEvolution70:337–347.
+tical granules. However, the former can be distin-
+Biologicae88:1–737. water hypotrich ciliates, with the establishment of a new Jankowski AW. 1979. Revision of the order Hypotrichida
+guished from the latter by having a relatively
+Berger H. 2011. Monograph of the Gonostomatidae and genus, Antiokeronopsis gen. n. (Ciliophora, Hypotrichia). Stein,1859.Genericcatalogue,phylogeny,taxonomy.Trudy
+smaller body size (60–80 9 20–25 lm vs. 70–
+Kahliellidae(Ciliophora,Hypotricha).MonographiaeBiolog- JournalofEukaryoticMicrobiology61:449–462. Zoologischeski Institute Leningrad 86: 48–85. (in Russian
+110 9 40–60 lm in vivo), a more slender body
+icae90:1–741. Fan Y, Zhao X, Hu X, Miao M, WarrenA, Song W. 2015. withEnglishsummary).
+(length: width ratio about 3.4:1 vs. 1.7:1 in protargol
+Berger H, Foissner W. 1988. Revision of Lamtostyla Taxonomy and molecular phylogeny of two novel ciliates, Jiang J, Huang J, Li L, Shao C, Al-Rasheid KAS,
+preparations), fewer adoral membranelles (15–16 vs.
+Buitkamp, 1977 and description of Territricha nov. gen. with establishment of a new genus, Pseudogastrostyla n. g. Al-Farraj SA, Chen Z. 2013. Morphology, ontogeny, and
+19–25), three transverse cirri that project distinctly
+(Ciliophora: Hypotrichida). Zoologischer Anzeiger 220: 113– (Ciliophora, Hypotrichia, Oxytrichidae). European Journal molecular phylogeny of two novel bakuellid-like hypotrichs
+beyond the posterior body margin (vs. usually five 134. ofProtistology51:374–385. (Ciliophora: Hypotrichia), with establishment of two new
+transverse cirri that do not project beyond the poste- Berger H, Foissner W. 1989. Morphology and biometry of Foissner W. 1987. Neue und wenig bekannte hypotriche genera.EuropeanJournalofProtistology49:78–92.
+rior body margin), and pretransverse ventral cirri some soil hypotrichs (Protozoa, Ciliophora) from Europe und colpodide Ciliaten (Protozoa: Ciliophora) aus B€oden JungJH,ParkKM,MinGS.2014.Morphologyandmolec-
+absent (vs. one to three pretransverse ventral cirri in and Japan. Bulletin of the British Museum (Natural His- undMoosen.ZoologischeBetra€geNeueFolge31:187–282. ular phylogeny of Pseudouroleptus jejuensis nov. spec., a
+an oblique pseudorow) (Berger & Foissner, 1988). tory):ZoologySeries55:19–46. Foissner W. 1997. Soil ciliates (Protozoa: Ciliophora) from newsoilciliate(Ciliophora,Spirotrichea)fromSouthKorea.
+Even though there are some overlapping characters Berger H, Foissner W, Adam H. 1984. Taxonomie, Biome- evergreen rain forests of Australia, South America and ActaProtozoologica53:195–206.
+between L. ovalis sp. nov. and other Lamtostyla spe- trieundMorphogeneseeinigerterricolerCiliaten(Protozoa: CostaRica:diversityanddescriptionofnewspecies.Biology JungJH,ParkKM,MinGS.2015.Morphologyandmolec-
+cies, we still found sufficient features to distinguish Ciliophora). Zoologische Jahrbu€cher Systematik 111: 339– andFertilityofSoils25:317–339. ular phylogeny of Pseudocyrtohymena koreana n. g., n. sp.
+them and establish our new species (Table 3). 367. FoissnerW,AgathaS,BergerH.2002.Soilciliates(Proto- and Antarctic Neokeronopsis asiatica Foissner et al., 2010
+Blatterer H, Foissner W. 1988. Beitrag zur terricolen Cili- zoa, Ciliophora) from Namibia (Southwest Africa), with (Ciliophora, Sporadotrichida), with a brief discussion of the
+atenfauna(Protozoa:Ciliophora)Australiens.Stapfia17:1– emphasis on two contrasting environments, the Etosha Cyrtohymena undulating membranes pattern. Journal of
+ACKNOWLEDGEMENTS
+84. region and the Namib Desert. Part I: text and line draw- EukaryoticMicrobiology62:280–297.
+This work was supported by: the Natural Science Blatterer H, Foissner W. 1990. Beitra€ge zur Ciliatenfauna ings.PartII:photographs.Denisia5:1–1459. Kim JH, Vdacny P, Shazib SU, Shin MK. 2014. Mor-
+Foundation of China (project numbers: 31430077, (Protozoa: Ciliophora) der Amper (Bayern, Bundesrepublik Foissner W, Filker S, Stoeck T. 2014. Schmidingerothrix phology and molecular phylogeny of Apoterritricha lutea
+41276139, 31471973); China Postdoctoral Science Deutschland).Archivfu€rProtistenkunde138:93–115. salinarum nov. spec. is the molecular sister of the large n. g., n. sp. (Ciliophora, Spirotrichea, Hypotrichia): a
+Foundation (2015T80746); the Postdoctoral Founda- Buitkamp U. 1977. Die Ciliatenfauna der Savanne von oxytrichid clade (Ciliophora, Hypotricha). Journal of putative missing link connecting Cyrtohymena and Afro-
+tion in Qingdao and Shandong Province; the Dean- Lamto(Elfenbeinku€ste).ActaProtozoologica16:249–276. EukaryoticMicrobiology61:61–74. keronopsis. Journal of Eukaryotic Microbiology 61: 520–
+ship of Scientific Research, King Saud University, Chen X, Huang J, Song W. 2011. Ontogenyand phylogeny Gong J, Kim SJ, Kim SY, Min GS, Roberts DM, Warren 536.
+of Metaurostylopsis cheni spec. nov. (Protozoa, Ciliophora), A,ChoiJK.2007.Taxonomicredescriptionsoftwociliates, Kumar S, Bharti D, Marinsalti S, Insom E, Terza AL.
+Prolific Research Group funding award (PRG-1436-
+withestimatingthesystematicpositionofMetaurostylopsis. Protogastrostyla pulchra n. g., n. comb. and Hemigas- 2014. Morphology, morphogenesis, and molecular phy-
+24); the Royal Society/The National Natural Science
+ZoologicaScripta40:99–111. trostylaenigmatica(Ciliophora: Spirotrichea,Stichotrichia), logeny of Paraparentocirrus sibillinensis n. gen., n. sp., a
+Foundation of China (31411130122) International
+Chen X, Miao M, Ma H, Al-Rasheid KAS, Xu K, Lin X. with phylogenetic analyses based on 18S and 28S rRNA “Stylonychine Oxytrichidae” (Ciliophora, Hypotrichida)
+ExchangesScheme;an awardfrom the Biotechnology
+2014.Morphology,ontogeny,andphylogenyoftwobrackish gene sequences. Journal of Eukaryotic Microbiology 54: without transverse cirri. Journal of Eukaryotic Microbiol-
+and Biological Sciences Research Council of China
+urostylid ciliates (Protist, Ciliophora, Hypotricha). Journal 468–478. ogy61:247–259.
+Partnering Award Scheme; and the Fundamental
+ofEukaryoticMicrobiology61:594–610. Hall TA. 1999. BioEdit: a user-friendly biological sequence KumarS,KamraK,BhartiD,TerzaAL,SehgalN,War-
+Research Funds for the Central Universities
+Chen L, Zhao X, Ma H, Warren A, Shao C, Huang J. alignment editor and analysis program for Windows 95/98/ ren A, Sapra GR. 2015. Morphology, morphogenesis, and
+(201564022, 201562029). We would like to thank Dr
+2015.Morphology,morphogenesisandmolecularphylogeny NT.NucleicAcidsSymposiumSeries41:95–98. molecular phylogeny of Sterkiella tetracirrata n. sp. (Cilio-
+Helmut Berger for his suggestions during drafting,
+of a soil ciliate, Pseudouroleptus caudatus caudatus Hem- HeY,XuK.2011.MorphologyandsmallsubunitrDNAphy- phora,Oxytrichidae),fromtheSilentValleyNational Park,
+Prof. Weibo Song and Prof. Xiaozhong Hu (OUC), berger,1985(Ciliophora, Hypotricha),fromLhaluWetland, logenyofanewsoilciliate,Bistichellavariabilisn.sp.(Cil- India.EuropeanJournalofProtistology51:86–97.
+who critically read the drafts and gave many helpful Tibet.EuropeanJournalofProtistology51:1–14. iophora, Stichotrichia). Journal of Eukaryotic Microbiology Ku€ppers G. 2014. Morphology of Clapsiella magnifica gen.
+suggestions, Ms Chundi Wang (OUC) for gene Corliss JO. 1979. The ciliated Protozoa: characterization, 58:332–338. n., sp. n., a new hypotrichous ciliate with a curious dorsal
+sequencing, and Prof. Xiaofeng Lin, Southern China classification, and guide to the literature, 2nd edn. Oxford: Heber D, Stoeck T, Foissner W. 2014. Morphology and ciliary pattern. European Journal of Protistology 50: 373–
+Normal University, for ensuring institutional sup- Pergamon. ontogenesis of Psilotrichides hawaiiensis nov. gen., nov. 381.
+port for this research. EignerP.1997.Evolutionofmorphogeneticprocessesinthe spec. and molecular phylogeny of the Psilotrichidae (Cilio- Li L, Huang J, Song W, Shin ML, Al-RasheidKAS,Ber-
+Orthoamphisiellidaen.fam.,Oxytrichidae,andParakahliel- phora,Hypotrichia).JournalofEukaryoticMicrobiology61: ger H. 2010. Apogastrostyla rigescens (Kahl, 1932) gen.
+lidae n. fam., and their depiction using a computer method 260–277. nov., comb. nov. (Ciliophora, Hypotricha): morphology,
+REFERENCES
+(Ciliophora,Hypotrichida).JournalofEukaryoticMicrobiol- Hemberger H. 1985. Neue Gattungen und Arten hypotri- notes on cell division, SSU rRNA gene sequence data, and
+AdlSM,SimpsonAGB,LaneCE,Luke�sJ,BassD,Bow- ogy44:553–573. cherCiliaten.Archivfu€rProtistenkunde130:397–417. neotypification.ActaProtozoologica49:195–212.
+ser SS, Brown MW, Burki F, Dunthorn M, Hampl V, Fan Y, Chen X, Hu X, Shao C, Al-Rasheid KAS, Al- Hu X, Kusuoka Y. 2015. Two oxytrichids from the ancient LuX,GaoF,ShaoC,HuX,WarrenA.2014.Morphology,
+Heiss A, Hoppenrath M, Lara E, Gall LL, Lynn DH, Farraj SA, Lin X. 2014a. Morphology and morphogenesis Lake Biwa, Japan, with notes on morphogenesis of morphogenesis and molecular phylogeny of a new marine
+© 2017 The L©in2n0e1a6n TShoceieLtiyn onfe LanonSdoocnie, tZyooolfoLgoicnadlo Jno,uZronoallo gofi ctahleJ Loiunrnneaalno SfothcieetLyi,n 2n0e1a7n, 1S7o9c,i e4t7y5,–2409116 ©2016TheLinneanSocietyofLondon,ZoologicalJournaloftheLinneanSociety,2016
+
+14 X. LUO ET AL. TTWWOO NNEEWW BBRRAACCKKISISHH HHYYPPOOTTRRICICHHOOUUSS CCILILIAIATTEES S 41859
+McmanusH,MitchellEAD,Mozley-StanridgeSE,Par- of Apoholosticha sinica n. g., n. sp. (Ciliophora, Hypotri- Notohymena australis (Ciliophora, Sporadotrichida). Acta
+COMPARISON OF LAMTOSTYLA OVALIS SP. NOV. WITH
+frey LW, Pawlowski J, Rueckert S, Shadwick L, chia), with consideration of its systematic position among Protozoologica54:107–122.
+ITS CONGENERS AND RELATED SPECIES
+Schoch CL, Smirnov A, Spiegel FW. 2012. The revised urostylids.EuropeanJournalofProtistology50:78–88. Huang J, Dunthorn M, Song W. 2012. Expanding charac-
+In his comprehensive review of the family Amphisiel- classification of eukaryotes. Journal of Eukaryotic Microbi- Fan Y, Hu X, Gao F, Al-Farraj SA, Al-Rasheid KAS. ter sampling for the molecular phylogeny of euplotid cili-
+lidae, Berger (2008) recognized 12 species of Lam- ology54:201–209. 2014b. Morphology, ontogenetic features and SSU rRNA ates (Protozoa, Ciliophora) using three markers, with a
+tostyla. Of these, Lamtostyla islandica Berger & BergerH.1999.MonographoftheOxytrichidae(Ciliophora, gene-based phylogeny of a soil ciliate, Bistichella cystifor- focus on the family Uronychiidae. Molecular Phylogenetics
+Foissner, 1988, most closely resembles L. ovalis sp. Hypotrichia).MonographiaeBiologicae.78:1–1080. mans spec. nov. (Protista, Ciliophora, Stichotrichia). Inter- andEvolution63:598–605.
+BergerH. 2006. Monograph of the Urostyloidea (Ciliophora, national Journal of Systematic and Evolutionary Huang J, Chen Z, Song W, Berger H. 2014. Three-gene
+nov. in that both have a similar cirral pattern, three
+Hypotricha).MonographiaeBiologicae85:1–1304. Microbiology64:4049–4060. based phylogeny of the Urostyloidea (Protista, Ciliophora,
+dorsal kineties, two macronuclear segments each
+Berger H. 2008. Monograph of the Amphisiellidae and Fan Y, Pan Y, Huang J, Lin X, Hu X, Warren A. 2014c. Hypotricha), with notes on classification of some core taxa.
+with a closely associated micronucleus, and lack cor-
+Trachelostylidae (Ciliophora, Hypotricha). Monographiae Molecular phylogeny and taxonomy of two novel brackish MolecularPhylogeneticsandEvolution70:337–347.
+tical granules. However, the former can be distin-
+Biologicae88:1–737. water hypotrich ciliates, with the establishment of a new Jankowski AW. 1979. Revision of the order Hypotrichida
+guished from the latter by having a relatively
+Berger H. 2011. Monograph of the Gonostomatidae and genus, Antiokeronopsis gen. n. (Ciliophora, Hypotrichia). Stein,1859.Genericcatalogue,phylogeny,taxonomy.Trudy
+smaller body size (60–80 9 20–25 lm vs. 70–
+Kahliellidae(Ciliophora,Hypotricha).MonographiaeBiolog- JournalofEukaryoticMicrobiology61:449–462. Zoologischeski Institute Leningrad 86: 48–85. (in Russian
+110 9 40–60 lm in vivo), a more slender body
+icae90:1–741. Fan Y, Zhao X, Hu X, Miao M, WarrenA, Song W. 2015. withEnglishsummary).
+(length: width ratio about 3.4:1 vs. 1.7:1 in protargol
+Berger H, Foissner W. 1988. Revision of Lamtostyla Taxonomy and molecular phylogeny of two novel ciliates, Jiang J, Huang J, Li L, Shao C, Al-Rasheid KAS,
+preparations), fewer adoral membranelles (15–16 vs.
+Buitkamp, 1977 and description of Territricha nov. gen. with establishment of a new genus, Pseudogastrostyla n. g. Al-Farraj SA, Chen Z. 2013. Morphology, ontogeny, and
+19–25), three transverse cirri that project distinctly
+(Ciliophora: Hypotrichida). Zoologischer Anzeiger 220: 113– (Ciliophora, Hypotrichia, Oxytrichidae). European Journal molecular phylogeny of two novel bakuellid-like hypotrichs
+beyond the posterior body margin (vs. usually five 134. ofProtistology51:374–385. (Ciliophora: Hypotrichia), with establishment of two new
+transverse cirri that do not project beyond the poste- Berger H, Foissner W. 1989. Morphology and biometry of Foissner W. 1987. Neue und wenig bekannte hypotriche genera.EuropeanJournalofProtistology49:78–92.
+rior body margin), and pretransverse ventral cirri some soil hypotrichs (Protozoa, Ciliophora) from Europe und colpodide Ciliaten (Protozoa: Ciliophora) aus B€oden JungJH,ParkKM,MinGS.2014.Morphologyandmolec-
+absent (vs. one to three pretransverse ventral cirri in and Japan. Bulletin of the British Museum (Natural His- undMoosen.ZoologischeBetra€geNeueFolge31:187–282. ular phylogeny of Pseudouroleptus jejuensis nov. spec., a
+an oblique pseudorow) (Berger & Foissner, 1988). tory):ZoologySeries55:19–46. Foissner W. 1997. Soil ciliates (Protozoa: Ciliophora) from newsoilciliate(Ciliophora,Spirotrichea)fromSouthKorea.
+Even though there are some overlapping characters Berger H, Foissner W, Adam H. 1984. Taxonomie, Biome- evergreen rain forests of Australia, South America and ActaProtozoologica53:195–206.
+between L. ovalis sp. nov. and other Lamtostyla spe- trieundMorphogeneseeinigerterricolerCiliaten(Protozoa: CostaRica:diversityanddescriptionofnewspecies.Biology JungJH,ParkKM,MinGS.2015.Morphologyandmolec-
+cies, we still found sufficient features to distinguish Ciliophora). Zoologische Jahrbu€cher Systematik 111: 339– andFertilityofSoils25:317–339. ular phylogeny of Pseudocyrtohymena koreana n. g., n. sp.
+them and establish our new species (Table 3). 367. FoissnerW,AgathaS,BergerH.2002.Soilciliates(Proto- and Antarctic Neokeronopsis asiatica Foissner et al., 2010
+Blatterer H, Foissner W. 1988. Beitrag zur terricolen Cili- zoa, Ciliophora) from Namibia (Southwest Africa), with (Ciliophora, Sporadotrichida), with a brief discussion of the
+atenfauna(Protozoa:Ciliophora)Australiens.Stapfia17:1– emphasis on two contrasting environments, the Etosha Cyrtohymena undulating membranes pattern. Journal of
+ACKNOWLEDGEMENTS
+84. region and the Namib Desert. Part I: text and line draw- EukaryoticMicrobiology62:280–297.
+This work was supported by: the Natural Science Blatterer H, Foissner W. 1990. Beitra€ge zur Ciliatenfauna ings.PartII:photographs.Denisia5:1–1459. Kim JH, Vdacny P, Shazib SU, Shin MK. 2014. Mor-
+Foundation of China (project numbers: 31430077, (Protozoa: Ciliophora) der Amper (Bayern, Bundesrepublik Foissner W, Filker S, Stoeck T. 2014. Schmidingerothrix phology and molecular phylogeny of Apoterritricha lutea
+41276139, 31471973); China Postdoctoral Science Deutschland).Archivfu€rProtistenkunde138:93–115. salinarum nov. spec. is the molecular sister of the large n. g., n. sp. (Ciliophora, Spirotrichea, Hypotrichia): a
+Foundation (2015T80746); the Postdoctoral Founda- Buitkamp U. 1977. Die Ciliatenfauna der Savanne von oxytrichid clade (Ciliophora, Hypotricha). Journal of putative missing link connecting Cyrtohymena and Afro-
+tion in Qingdao and Shandong Province; the Dean- Lamto(Elfenbeinku€ste).ActaProtozoologica16:249–276. EukaryoticMicrobiology61:61–74. keronopsis. Journal of Eukaryotic Microbiology 61: 520–
+ship of Scientific Research, King Saud University, Chen X, Huang J, Song W. 2011. Ontogenyand phylogeny Gong J, Kim SJ, Kim SY, Min GS, Roberts DM, Warren 536.
+of Metaurostylopsis cheni spec. nov. (Protozoa, Ciliophora), A,ChoiJK.2007.Taxonomicredescriptionsoftwociliates, Kumar S, Bharti D, Marinsalti S, Insom E, Terza AL.
+Prolific Research Group funding award (PRG-1436-
+withestimatingthesystematicpositionofMetaurostylopsis. Protogastrostyla pulchra n. g., n. comb. and Hemigas- 2014. Morphology, morphogenesis, and molecular phy-
+24); the Royal Society/The National Natural Science
+ZoologicaScripta40:99–111. trostylaenigmatica(Ciliophora: Spirotrichea,Stichotrichia), logeny of Paraparentocirrus sibillinensis n. gen., n. sp., a
+Foundation of China (31411130122) International
+Chen X, Miao M, Ma H, Al-Rasheid KAS, Xu K, Lin X. with phylogenetic analyses based on 18S and 28S rRNA “Stylonychine Oxytrichidae” (Ciliophora, Hypotrichida)
+ExchangesScheme;an awardfrom the Biotechnology
+2014.Morphology,ontogeny,andphylogenyoftwobrackish gene sequences. Journal of Eukaryotic Microbiology 54: without transverse cirri. Journal of Eukaryotic Microbiol-
+and Biological Sciences Research Council of China
+urostylid ciliates (Protist, Ciliophora, Hypotricha). Journal 468–478. ogy61:247–259.
+Partnering Award Scheme; and the Fundamental
+ofEukaryoticMicrobiology61:594–610. Hall TA. 1999. BioEdit: a user-friendly biological sequence KumarS,KamraK,BhartiD,TerzaAL,SehgalN,War-
+Research Funds for the Central Universities
+Chen L, Zhao X, Ma H, Warren A, Shao C, Huang J. alignment editor and analysis program for Windows 95/98/ ren A, Sapra GR. 2015. Morphology, morphogenesis, and
+(201564022, 201562029). We would like to thank Dr
+2015.Morphology,morphogenesisandmolecularphylogeny NT.NucleicAcidsSymposiumSeries41:95–98. molecular phylogeny of Sterkiella tetracirrata n. sp. (Cilio-
+Helmut Berger for his suggestions during drafting,
+of a soil ciliate, Pseudouroleptus caudatus caudatus Hem- HeY,XuK.2011.MorphologyandsmallsubunitrDNAphy- phora,Oxytrichidae),fromtheSilentValleyNational Park,
+Prof. Weibo Song and Prof. Xiaozhong Hu (OUC), berger,1985(Ciliophora, Hypotricha),fromLhaluWetland, logenyofanewsoilciliate,Bistichellavariabilisn.sp.(Cil- India.EuropeanJournalofProtistology51:86–97.
+who critically read the drafts and gave many helpful Tibet.EuropeanJournalofProtistology51:1–14. iophora, Stichotrichia). Journal of Eukaryotic Microbiology Ku€ppers G. 2014. Morphology of Clapsiella magnifica gen.
+suggestions, Ms Chundi Wang (OUC) for gene Corliss JO. 1979. The ciliated Protozoa: characterization, 58:332–338. n., sp. n., a new hypotrichous ciliate with a curious dorsal
+sequencing, and Prof. Xiaofeng Lin, Southern China classification, and guide to the literature, 2nd edn. Oxford: Heber D, Stoeck T, Foissner W. 2014. Morphology and ciliary pattern. European Journal of Protistology 50: 373–
+Normal University, for ensuring institutional sup- Pergamon. ontogenesis of Psilotrichides hawaiiensis nov. gen., nov. 381.
+port for this research. EignerP.1997.Evolutionofmorphogeneticprocessesinthe spec. and molecular phylogeny of the Psilotrichidae (Cilio- Li L, Huang J, Song W, Shin ML, Al-RasheidKAS,Ber-
+Orthoamphisiellidaen.fam.,Oxytrichidae,andParakahliel- phora,Hypotrichia).JournalofEukaryoticMicrobiology61: ger H. 2010. Apogastrostyla rigescens (Kahl, 1932) gen.
+lidae n. fam., and their depiction using a computer method 260–277. nov., comb. nov. (Ciliophora, Hypotricha): morphology,
+REFERENCES
+(Ciliophora,Hypotrichida).JournalofEukaryoticMicrobiol- Hemberger H. 1985. Neue Gattungen und Arten hypotri- notes on cell division, SSU rRNA gene sequence data, and
+AdlSM,SimpsonAGB,LaneCE,Luke�sJ,BassD,Bow- ogy44:553–573. cherCiliaten.Archivfu€rProtistenkunde130:397–417. neotypification.ActaProtozoologica49:195–212.
+ser SS, Brown MW, Burki F, Dunthorn M, Hampl V, Fan Y, Chen X, Hu X, Shao C, Al-Rasheid KAS, Al- Hu X, Kusuoka Y. 2015. Two oxytrichids from the ancient LuX,GaoF,ShaoC,HuX,WarrenA.2014.Morphology,
+Heiss A, Hoppenrath M, Lara E, Gall LL, Lynn DH, Farraj SA, Lin X. 2014a. Morphology and morphogenesis Lake Biwa, Japan, with notes on morphogenesis of morphogenesis and molecular phylogeny of a new marine
+©2016TheLinneanSocietyofLondon,ZoologicalJournaloftheLinneanSociety,2016 ©© 22001167 TThhee LLiinnnneeaann SSoocciieettyy ooff LLoonnddoonn,, ZZoooollooggiiccaall JJoouurrnnaal loof fththe eLLininnneaeann SSocoiceiteyt,y 2,021071,6 179, 475–491
+
+41960 XX. L. LUUOOE ETTA ALL.. TWO NEW BRACKISH HYPOTRICHOUS CILIATES 17
+ciliate, Trichototaxis marina n. sp. (Ciliophora, Urostylida). ShaoC,LiL,ZhangQ,SongW,BergerH.2014b.Molec- Wilbert N. 1975. Eine verbesserte Technik der Protar- suggest that Psammomitra (Ciliophora, Urostylida) should
+EuropeanJournalofProtistology50:524–537. ular phylogeny and ontogeny of a new ciliate genus, Para- golimpra€gnationfu€rCiliaten.Mikrokosmos64:171–179.(in representanurostylidfamily,basedonsmallsubunitrRNA
+Luo X, Gao F, Al-Rasheid KAS, Warren A, Hu X, Song cladotricha salina n. g., n. sp. (Ciliophora, Hypotrichia). German). and alpha-tubulin gene sequence information. Zoological
+W. 2015. Redefinition of the hypotrichous ciliate Uncinata, JournalofEukaryoticMicrobiology61:371–380. Yi Z, Song W. 2011. Evolution of the order Urostylida (Pro- JournaloftheLinneanSociety157:227–236.
+withdescriptionsofthemorphologyandphylogenyofthree Shao C, Lu X, Ma H. 2015. A general overview of the typi- tozoa, Ciliophora): new hypotheses based on multi-gene Zhao X, Gao S, Fan Y, Strueder-Kypke M, Huang J.
+urostylids (Protista, Ciliophora). Systematics and Biodiver- cal18frontal-ventral-transversecirriOxytrichidaes.l.gen- information and identification of localized incongruence. 2015. Phylogenetic framework of the systematically
+sity13:455–471. era (Ciliophora, Hypotrichia). Journal of Ocean University PLoSONE6:e17471. confused Anteholosticha-Holosticha complex (Ciliophora,
+Lv Z, Shao C, Yi Z, Warren A. 2015. A molecular phyloge- ofChina14:522–532. Yi Z, Song W, Stoeck T, Al-Rasheid KAS, Al-Khedhairy Hypotrichia)basedonmultigeneanalysis.MolecularPhylo-
+netic investigation of Bakuella, Anteholosticha, and Caudi- ShiX.1999.SystematicrevisionoftheorderHypotrichidaI. AA, Gong J, Ma H, Chen Z. 2009. Phylogenetic analyses geneticsandEvolution91:238–247.
+holosticha (Protista, Ciliophora, Hypotrichia) based on Protohypotrichina and Stichotrichina (Ciliophora). Acta
+three-gene sequences. Journal of Eukaryotic Microbiology Zootaxonomica Sinica 24: 241–264. (in Chinese with Eng-
+62:391–399. lishsummary).
+LynnDH.2008.TheciliatedProtozoa:characterization,clas- Singh J, Kamra K. 2015. Molecular phylogeny of Uroso-
+sification, and guide to the literature, 3rd edn. New York, moida agilis, and new combinations: Hemiurosomoida
+NY:Springer. longa gen. nov., comb. nov., and Heterourosomoida lanceo-
+Lynn DH, Small EB. 2002. Phylum Ciliophora. In: Lee JJ, lata gen. nov., comb. nov. (Ciliophora, Hypotricha). Euro-
+Leedale GF, Bradbury P, eds. An illustrated guide to the peanJournalofProtistology51:55–65.
+Protozoa:organismstraditionallyreferredtoasProtozoa,or Small EB, Lynn DH. 1985. Phylum Ciliophora Doflein,
+newly discovered groups, 2nd edn, Vol. I. Lawrence, KS: 1901.In:LeeJJ,HutnerSH,BoveeEC,eds.Anillustrated
+SocietyofProtozoologists. guide to the Protozoa. Lawrence, KS: Society of Protozoolo-
+Medlin L, Elwood HJ, Stickel S, Sogin ML. 1988. The gists.
+characterization of enzymatically amplified eukaryotes SongW.2001.Morphologyandmorphogenesisofthemarine
+16S-like ribosomal RNA coding regions. Gene 71: 491– ciliate Ponturostyla enigmatica (Dragesco & Dragesco-Ker-
+500. n(cid:31)eis, 1986) Jankowski, 1989 (Ciliophora, Hypotrichida,
+Miao M, Shao C, Chen X, Song W. 2011. Evolution of dis- Oxytrichidae). European Journal of Protistology 37: 181–
+cocephalid ciliates: molecular, morphological and ontoge- 197.
+netic data support a sister group of discocephalids and Song W, Wilbert N. 1989. Taxonomische Untersuchungen
+pseudoamphisiellids (Protozoa, Ciliophora) with establish- an Aufwuchsciliaten (Protozoa, Ciliophora) im Poppelsdor-
+ment of a new suborder Pseudoamphisiellina subord. n. ferWeiher,Bonn.Lauterbornia3:2–221.
+ScienceChinaLifeSciences54:634–641. Song W, Wilbert N. 1997. Morphological investigations on
+Miller MA, Pfeiffer W, Schwartz T. 2010. Creating the some free living ciliates (Protozoa, Ciliophora) from China
+CIPRES Science Gateway for inference of large phyloge- Sea with description of a new hypotrichous genus, Hemi-
+netic trees. Proceedings of the Gateway Computing gastrostyla nov. gen. Archiv fu€r Protistenkunde 148: 413–
+Environments Workshop (GCE), 14 November, New 444.
+Orleans, LA: Institute of Electrical and Electronics Engi- Song W, Warren A, Hu X. 2009. Free-living Ciliates in the
+neers.pp.1–8. BohaiandYellowSeas,China.Beijing:SciencePress.
+Nylander JA. 2004. MrModeltest. Uppsala: Evolutionary SongW,WilbertN,LiL,ZhangQ.2011.Re-evaluationon
+BiologyCentre,UppsalaUniversity. the diversity of the polyphyletic genus Metaurostylopsis
+Petz W, Foissner W. 1996. Morphology and morphogenesis (Ciliophora, Hypotricha): ontogenetic, morphologic, and
+of Lamtostyla edaphoni Berger and Foissner and Ony- molecular data suggest the establishment of a new genus
+chodromopsis flexilis Stokes, two hypotrichs (Protozoa: Cil- Apourostylopsis nov. gen. Journal of Eukaryotic Microbiol-
+iophora) from Antarctic soils. Acta Protozoologica 35: 257– ogy58:11–21.
+280. Stamatakis A, Hoover P, Rougemont J. 2008. A rapid
+Ronquist F, Huelsenbeck JP. 2003. MRBAYES 3: Baye- bootstrapalgorithmfortheRAxMLWeb-Servers.Systemat-
+sian phylogenetic inference under mixed models. Bioinfor- icsandBiodiversity75:758–771.
+matics19:1572–1574. Tamura K, Dudley J, Nei M, Kumar S. 2007. MEGA 4:
+ShaoC,SongW,Al-RasheidKAS,BergerH.2011.Redef- Molecular Evolutionary Genetics Analysis (MEGA) soft-
+inition and reassignment of the 18-cirri genera Hemigas- ware Ver. 4.0. Molecular Biology and Evolution 24: 1596–
+trostyla, Oxytricha, Urosomoida, and Actinotricha 1599.
+(Ciliophora, Hypotricha), and description of one new genus Tuffrau M. 1979. Une nouvelle famille d’hypotriches,
+andtwonewspecies.ActaProtozoologica50:263–287. Kahliellidae n. fam., et ses consequences dans larepartition
+Shao C, Chen L, Pan Y, Warren A, Miao M. 2014a. Mor- desStichotrichina.TransactionsoftheAmericanMicroscop-
+phology and phylogenetic position of the oxytrichid ciliates, icalSociety98:521–528.
+Urosoma salmastra (Dragesco and Dragesco-Kerneis, 1986) Wang P, Gao F, Huang J, Struder-Kypke M, Yi Z. 2015.
+Berger,1999andU.karinaesinensenov.sspec.(Ciliophora, A case study to estimate the applicability of secondary
+Hypotrichia). European Journal of Protistology 50: 593– structures of SSU-rRNA gene in taxonomy and phyloge-
+605. neticanalysesofciliates.ZoologicaScripta44:574–585.
+© 2017 The L©in2n0e1a6n TShoceieLtiyn onfe LanonSdoocnie, tZyooolfoLgoicnadlo Jno,uZronoallo gofic tahleJ Loiunrnneaalno SfothcieetLyi,n 2n0e1a7n, 1S7o9c,i e4t7y5,–2409116 ©2016TheLinneanSocietyofLondon,ZoologicalJournaloftheLinneanSociety,2016
+
+16 X. LUO ET AL. TTWWOO NNEEWW BBRRAACCKKISISHH HHYYPPOOTTRRICICHHOOUUSS CCILILIAIATTEES S 41971
+ciliate, Trichototaxis marina n. sp. (Ciliophora, Urostylida). ShaoC,LiL,ZhangQ,SongW,BergerH.2014b.Molec- Wilbert N. 1975. Eine verbesserte Technik der Protar- suggest that Psammomitra (Ciliophora, Urostylida) should
+EuropeanJournalofProtistology50:524–537. ular phylogeny and ontogeny of a new ciliate genus, Para- golimpra€gnationfu€rCiliaten.Mikrokosmos64:171–179.(in representanurostylidfamily,basedonsmallsubunitrRNA
+Luo X, Gao F, Al-Rasheid KAS, Warren A, Hu X, Song cladotricha salina n. g., n. sp. (Ciliophora, Hypotrichia). German). and alpha-tubulin gene sequence information. Zoological
+W. 2015. Redefinition of the hypotrichous ciliate Uncinata, JournalofEukaryoticMicrobiology61:371–380. Yi Z, Song W. 2011. Evolution of the order Urostylida (Pro- JournaloftheLinneanSociety157:227–236.
+withdescriptionsofthemorphologyandphylogenyofthree Shao C, Lu X, Ma H. 2015. A general overview of the typi- tozoa, Ciliophora): new hypotheses based on multi-gene Zhao X, Gao S, Fan Y, Strueder-Kypke M, Huang J.
+urostylids (Protista, Ciliophora). Systematics and Biodiver- cal18frontal-ventral-transversecirriOxytrichidaes.l.gen- information and identification of localized incongruence. 2015. Phylogenetic framework of the systematically
+sity13:455–471. era (Ciliophora, Hypotrichia). Journal of Ocean University PLoSONE6:e17471. confused Anteholosticha-Holosticha complex (Ciliophora,
+Lv Z, Shao C, Yi Z, Warren A. 2015. A molecular phyloge- ofChina14:522–532. Yi Z, Song W, Stoeck T, Al-Rasheid KAS, Al-Khedhairy Hypotrichia)basedonmultigeneanalysis.MolecularPhylo-
+netic investigation of Bakuella, Anteholosticha, and Caudi- ShiX.1999.SystematicrevisionoftheorderHypotrichidaI. AA, Gong J, Ma H, Chen Z. 2009. Phylogenetic analyses geneticsandEvolution91:238–247.
+holosticha (Protista, Ciliophora, Hypotrichia) based on Protohypotrichina and Stichotrichina (Ciliophora). Acta
+three-gene sequences. Journal of Eukaryotic Microbiology Zootaxonomica Sinica 24: 241–264. (in Chinese with Eng-
+62:391–399. lishsummary).
+LynnDH.2008.TheciliatedProtozoa:characterization,clas- Singh J, Kamra K. 2015. Molecular phylogeny of Uroso-
+sification, and guide to the literature, 3rd edn. New York, moida agilis, and new combinations: Hemiurosomoida
+NY:Springer. longa gen. nov., comb. nov., and Heterourosomoida lanceo-
+Lynn DH, Small EB. 2002. Phylum Ciliophora. In: Lee JJ, lata gen. nov., comb. nov. (Ciliophora, Hypotricha). Euro-
+Leedale GF, Bradbury P, eds. An illustrated guide to the peanJournalofProtistology51:55–65.
+Protozoa:organismstraditionallyreferredtoasProtozoa,or Small EB, Lynn DH. 1985. Phylum Ciliophora Doflein,
+newly discovered groups, 2nd edn, Vol. I. Lawrence, KS: 1901.In:LeeJJ,HutnerSH,BoveeEC,eds.Anillustrated
+SocietyofProtozoologists. guide to the Protozoa. Lawrence, KS: Society of Protozoolo-
+Medlin L, Elwood HJ, Stickel S, Sogin ML. 1988. The gists.
+characterization of enzymatically amplified eukaryotes SongW.2001.Morphologyandmorphogenesisofthemarine
+16S-like ribosomal RNA coding regions. Gene 71: 491– ciliate Ponturostyla enigmatica (Dragesco & Dragesco-Ker-
+500. n(cid:31)eis, 1986) Jankowski, 1989 (Ciliophora, Hypotrichida,
+Miao M, Shao C, Chen X, Song W. 2011. Evolution of dis- Oxytrichidae). European Journal of Protistology 37: 181–
+cocephalid ciliates: molecular, morphological and ontoge- 197.
+netic data support a sister group of discocephalids and Song W, Wilbert N. 1989. Taxonomische Untersuchungen
+pseudoamphisiellids (Protozoa, Ciliophora) with establish- an Aufwuchsciliaten (Protozoa, Ciliophora) im Poppelsdor-
+ment of a new suborder Pseudoamphisiellina subord. n. ferWeiher,Bonn.Lauterbornia3:2–221.
+ScienceChinaLifeSciences54:634–641. Song W, Wilbert N. 1997. Morphological investigations on
+Miller MA, Pfeiffer W, Schwartz T. 2010. Creating the some free living ciliates (Protozoa, Ciliophora) from China
+CIPRES Science Gateway for inference of large phyloge- Sea with description of a new hypotrichous genus, Hemi-
+netic trees. Proceedings of the Gateway Computing gastrostyla nov. gen. Archiv fu€r Protistenkunde 148: 413–
+Environments Workshop (GCE), 14 November, New 444.
+Orleans, LA: Institute of Electrical and Electronics Engi- Song W, Warren A, Hu X. 2009. Free-living Ciliates in the
+neers.pp.1–8. BohaiandYellowSeas,China.Beijing:SciencePress.
+Nylander JA. 2004. MrModeltest. Uppsala: Evolutionary SongW,WilbertN,LiL,ZhangQ.2011.Re-evaluationon
+BiologyCentre,UppsalaUniversity. the diversity of the polyphyletic genus Metaurostylopsis
+Petz W, Foissner W. 1996. Morphology and morphogenesis (Ciliophora, Hypotricha): ontogenetic, morphologic, and
+of Lamtostyla edaphoni Berger and Foissner and Ony- molecular data suggest the establishment of a new genus
+chodromopsis flexilis Stokes, two hypotrichs (Protozoa: Cil- Apourostylopsis nov. gen. Journal of Eukaryotic Microbiol-
+iophora) from Antarctic soils. Acta Protozoologica 35: 257– ogy58:11–21.
+280. Stamatakis A, Hoover P, Rougemont J. 2008. A rapid
+Ronquist F, Huelsenbeck JP. 2003. MRBAYES 3: Baye- bootstrapalgorithmfortheRAxMLWeb-Servers.Systemat-
+sian phylogenetic inference under mixed models. Bioinfor- icsandBiodiversity75:758–771.
+matics19:1572–1574. Tamura K, Dudley J, Nei M, Kumar S. 2007. MEGA 4:
+ShaoC,SongW,Al-RasheidKAS,BergerH.2011.Redef- Molecular Evolutionary Genetics Analysis (MEGA) soft-
+inition and reassignment of the 18-cirri genera Hemigas- ware Ver. 4.0. Molecular Biology and Evolution 24: 1596–
+trostyla, Oxytricha, Urosomoida, and Actinotricha 1599.
+(Ciliophora, Hypotricha), and description of one new genus Tuffrau M. 1979. Une nouvelle famille d’hypotriches,
+andtwonewspecies.ActaProtozoologica50:263–287. Kahliellidae n. fam., et ses consequences dans larepartition
+Shao C, Chen L, Pan Y, Warren A, Miao M. 2014a. Mor- desStichotrichina.TransactionsoftheAmericanMicroscop-
+phology and phylogenetic position of the oxytrichid ciliates, icalSociety98:521–528.
+Urosoma salmastra (Dragesco and Dragesco-Kerneis, 1986) Wang P, Gao F, Huang J, Struder-Kypke M, Yi Z. 2015.
+Berger,1999andU.karinaesinensenov.sspec.(Ciliophora, A case study to estimate the applicability of secondary
+Hypotrichia). European Journal of Protistology 50: 593– structures of SSU-rRNA gene in taxonomy and phyloge-
+605. neticanalysesofciliates.ZoologicaScripta44:574–585.
+©2016TheLinneanSocietyofLondon,ZoologicalJournaloftheLinneanSociety,2016 ©© 22001167 TThhee LLiinnnneeaann SSoocciieettyy ooff LLoonnddoonn,, ZZoooollooggiiccaall JJoouurrnnaal loof fththe eLLininnneaeann SSocoiceiteyt,y 2,021071,6 179, 475–491
+

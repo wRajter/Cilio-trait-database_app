@@ -1,0 +1,923 @@
+AQUATIC MICROBIAL ECOLOGY
+Vol. 16: 217-232.1999 Published February 24
+Aquat Microb Ecol
+l
+Plankton community structure and carbon cycling
+on the western coast of Greenland during the
+stratified summer situation. 11. Heterotrophic
+dinoflagellates and ciliates
+Henrik Torkel Gissel Benni Winding ~ a n s e n ~
+Levinsenlp*, ~ i e l s e n ' ,
+'National Environmental Research Institute. Department of Marine Ecology and Microbiology. Frederiksborgvej 399.
+PO Box 358, DK-4000 Roskilde. Denmark
+2~oskildUe niversity, Department of Life Sciences and Chemistry, PO Box 260, DK-4000 Roskilde, Denmark
+ABSTRACT: The structure and ecological role of protozooplankton (ciliates and heterotrophic dinofla-
+gellates) were studied in D~skoB ay, West Greenland, from mid-July to mid-September 1994. Hetero-
+trophic dinoflagellates dominated the protozooplankton biomass. When diatoms formed subsurface
+blooms, heterotrophic dinoflagellates averaged 70 % of the integrated protozooplankton biomass. After
+the diatoms declined, large heterotrophic dinoflagellates became less abundant. Ciliates followed the
+same vertical distribution as heterotrophic dinoflagellates. However, in contrast to heterotrophic
+dinoflagellates, maximum ciliate biomasses developed in surface water after the diatom blooms, when
+the large copepods (Calanuss pp.) migrated to the deeper water. Mixotrophic oligotrich ciliates, mainly
+Laboea strobila, contributed on average 209" to the integrated ciliate biomass. Growth experiments
+revealed similar specific maximu~ng rowth rates for ciliates and heterotrophic dinoflagellates. Maxi-
+mum growth rates were allometrically related to cell volume. Ciliates and heterotrophic dinoflagellates
+appear to be key organisms in the cycling of organlc matter in this Arctic pelagic ecosystem.
+KEY WORDS: Arctic pelagic food web . Protozooplankton structure . Ciliates . Heterotrophic dino-
+flagellates
+INTRODUCTION mented the significance of ciliates and heterotrophic
+dinoflagellates in temperate waters (Lessard et al.
+Ciliates and heterotrophic dinoflagellates are major 1988, Montagnes et al. 1988, Riemann et al. 1990,
+microplankton (20 to 200 pm size range) components; Hansen 1991, Leakey et al. 1992). Only few data are
+species in nanoplankton size (2 to 20 pm) may also available on their role in arctic waters. Andersen
+contribute significantly to protozooplankton biomass (1988) reported from the North BeringKhukchi seas
+and activity (Smetacek 1981, Sherr EB et al. 1986, that 64 % of the primary production was processed
+1989, Sherr BF et al. 1989, Dolan 1991, Burkill et al. by the microbial food web at stations dominated by
+1993, Verity et al. 1993). As constituents of the micro- pico- and nanophytoplankton. At stations dominated
+bial food web, they have received much attention in entirely by diatoms, only 5 % of the primary production
+plankton research during the past decades. Protozoo- was consumed by microbial grazers. However, hetero-
+plankton ingest particles too small to be efficiently uti- trophic dinoflagellates >20 pm which may have been
+lized by copepods (Berggreen et al. 1988) and they are important at the diatom-dominated stations were not
+preyed upon by copepods (Stoecker & Capuzzo 1990). examined. In another study from Disko Bay, conducted
+This makes them key organisms in the carbon path- in connection with the spring bloom (Nielsen &
+ways (Azam et al. 1983). Several studies have docu- Hansen 1995), it was concluded that the grazing
+impact by the protozooplankton was 3 times higher
+than that of the copepods. Finally, Hansen et al. (1996)
+O Inter-Research 1999
+
+218 Aquat Microb Ecol 16: 217-232, 1999
+concluded that the community grazing by copepods Protozooplankton biomass and taxonomic compo-
+was less important for the pelagic carbon flow than the sition. For identification and enumeration of all ciliates
+microbial grazers in the Barents Sea. and of dinoflagellates >20 pm, 250 m1 samples were
+Much literature on planktonic c~ateiss restricted to fixed in 2% v/v final concentration acid Lugol's solu-
+biomass studies, relying on indirect estimates of in situ tion. Samples were kept cold and dark until examina-
+growth, such as extrapolation from laboratory-derived tion using an inverted microscope. Depending on the
+growth rates to calculate production (e.g. Burlull 1982, concentration of organisms, 50 or 100 m1 water, corre-
+Leakey et al. 1992). Few measurements of 'natural' cil- sponding to at least 400 cells, was settled and counted
+iate growth have been undertaken in marine waters, using the Utermohl technique. Identification of ciliates
+the majority of these focusing on tintinnids (Stoecker to species, group or morphotype was based on Lee-
+et al. 1983, Verity 1986, Gilron & Lynn 1989) though gaard (1915), Kahl (1932), Lynn et al. (1988), Lynn &
+measurements of oligotrichs have appeared recently Montagnes (1988),K rainer & Foissner (1990) and Lynn
+(Leakey et al. 1994, Nielsen & Ki~rboe1 994, Perez et et al. (1991). Dinoflagellates were identified according
+al. 1997). Likewise, few studies have measured popu- to Drebes (1974), Dodge (1985) and Thomsen (1992).
+lation growth rates of heterotrophic dinoflagellates un- Unidentified spherical to subspherical gymnodinoid
+der natural or semi-natural conditions (Bjornsen & Ku- dinoflagellates were divided into size groups covering
+parinen 1991, Hansen et al. 1995, 1996).T he studies of equivalent spherical diameter (ESD) size ranges of
+Bjsrnsen & Kupannen (1991) and Hansen et al. (1996) 10 pm starting with ESD 20 to 30 pm. ESD and cell vol-
+are apparently the only reports of protozooplankton ume are related by: 7t/6 X ESD~= cell volume.
+growth from cold-water ecosystems except for recent Enumeration of heterotrophic dinoflagellates <20 pm
+published growth rate estimates derived from popula- and assessment of the ratio between unidentified auto-
+tion dynamics within sea ice from the Canadian High and heterotrophic dinoflagellates >20 pm were made
+Arctic (Laurion et al. 1995, Sime-Ngando et al. 1997). by epifluorescence microscopy using the appropriate
+Accordingly, more growth estimates from low temper- exciter/barrier filter sets for blue (435 to 490 nm) and
+atures are needed to support a concept of an actively UV (330 to 380 nm) excitation. Two different fluor-
+growing protozooplankton community and important ochromes and procedures for cells smaller and larger
+microbial food web in the Arctic. than 20 pm were used as described below.
+The aim of this study was to evaluate the structure Heterotrophic dinoflagellates <20 pm were enumer-
+and trophic role of the nano- and micro-sized ciliates ated together with other nanoflagellates using a pro-
+and heterotrophic dinoflagellates in an Arctic, pelagic flavine staining technique (Haas 1982). Duplicate
+ecosystem during the stratified ice-free period after the water samples of 20 m1 were fixed in a mixture of 25 %
+phytoplankton spring bloom. The data obtained are formaldehyde, 25% glutaraldehyde, demineralized
+used in a comprehensive carbon flow model in the water and a 15% solution of glucose (1:1:2:1 v/v) to
+companion paper by Hansen et al. (1999, in this issue). yield a final concentration of 2% v/v. Before micro-
+scopical analysis, aliquots of 20 to 40 m1 were stained
+with 15 p1 0.2 pm pre-filtered proflavine ml-I, filtered
+MATERIALS AND METHODS onto 0.8 pm black Nucleopore polycarbonate filters
+with a GF/C backing filter (vacuum <2 mm Hg) and
+Locality and sampling. The present investigation mounted with paraffin oil onto slides. The preparations
+was conducted from July 17 to September l?, 1994, at were excited with blue light to visualize the red-
+a 250 m deep station located in Disko Bay on the west orange chlorophyll autofluorescence. Dinoflagellates
+coast of Greenland, approximately 1 nautical mile off <20 pm were divided in the following size classes: ESD
+Qeqertarsuaq (Godhavn)( 69"1 5'N,5 3'33'W). The sta- 6-10, 11-14 and 15-18 pm.
+tion was visited 18 times by RV 'Porsild' (Arctic Station, The ratio between >20 pm unidentified auto- and
+University of Copenhagen). On each occasion vertical heterotrophic dinoflagellates in the 10 pm size classes
+profiles of chlorophyll a (chl a) fluorescence, tempera- was assessed by using the fluorochrome DAPI (Porter
+ture and salinity were recorded. From the vertical dis- & Feig 1980). Aliquots of 50 to 200 m1 from glutaralde-
+tribution of these parameters, 3 to 6 depths were sam- hyde fixed samples (final concentration 1 % v/v) were
+pled from the euphotic zone (0 to 30 m). Water was stained and prepared as described above. The filter
+collected with a Niskin bottle and transferred to a dark preparations of 25 randomly selected samples were
+plastic container. All subsamples were taken from this excited with blue light or UV light to visualize the
+container after mixing. Discrete sampling dates and characteristic blue-white dinoflagellate nuclei and
+depths for the euphotic zone are shown in Fig. 3. On red-orange chlorophyll autofluorescence, respectively.
+a few occasions, samples were also collected below At least 75 cells were counted, most of these in the
+30 m. 20-30 pm size class. The ratio between auto- and het-
+
+Levinsen et al.: Arctic plankton community structure. I1 219
+erotrophic forms in this size class was assumed to be the subsurface chlorophyll maximum. The water was
+representative of the 30-40 and 40-50 pm size classes gently screened through a 160 pm mesh by reverse fil-
+also. Naked unidentified dinoflagellates >50 pm, pre- tration to remove larger predators. On Days 0, l, 2 and
+sumably Gyrnnodinium/Gyrodininrn spp., were con- 4, 250 m1 aliquots were fixed with acid Lugol's solution
+sidered as heterotrophic. The heterotrophic ratios for later quantification.
+obtained from the glutaraldehyde samples were multi- Protozooplankton population or species maximum
+plied with the dinoflagellate biomasses estimated from growth rates (p)w ere calculated assuming exponential
+the Lugol fixed samples to determine the heterotrophic growth from: p = (1nN,2- InN,,) t-l, where Nt2a nd NtI
+dinoflagellate biomass. are the number of protozooplankton at time t2 and t,,
+Biovolumes of all protozoans were estimated from respectively, and t is the duration of incubation in days.
+linear dimensions using appropriate geometric shapes, Only species present with >200 ind. 1-' in the initial
+and converted to biomass using conversion factors of samples which increased were considered. Due to a
+0.1 1 pg C pm-3 for ciliates and athecate dinoflagellates decline in protozooplankton abundance between Day
+and 0.13 pg C pnr3 for thecate dinoflagellates (Edler 0 and Day 1, we excluded the PO-, growth estimates.
+1979).L ength and width measurements of the ciliates Incubations with a general decline of organisms were
+were made in order to fit individuals into 1 of more than also not included in the estimation of growth. Accord-
+100 morphotypes. Exceptions were Laboea strobila and ingly, species growth rates approximating maximum
+some unidentified aloricate choreotrichs for whch fixed rates were calculated as a mean of all measurements
+length-width relationships were used (based on mea- on and p2-4 These maximum growth rates were
+surements of at least 30 individuals from different sam- plotted against mean cell volumes of fixed specimens
+ples). For these ciliates only the length was measured. and a volume-growth rate relationship was established
+Dinoflagellates were measured and grouped according for both ciliates and heterotrophic dinoflagellates.
+to the same rules as ciliates. For Gyrodinium spirale a To examine whether or not chl a becomes depleted
+fixed length-width relationship was used and only the during incubations, triplicate 50 m1 water samples
+length measured. No corrections were made for cell were filtered onto GF/C filters, extracted in 96%
+shrinkage due to fixation. Since variations in size and ethanol (Jespersen & Christoffersen 1987) and mea-
+shape of the ciliate and dinoflagellate species often are sured on a Turner Designs fluorometer calibrated
+considerable, some species may have been divided into against spectrophotometrically determined chl a mea-
+more than 1 morphotype or group. Therefore, the num- surements. Phytoplankton growth rates (p) were calcu-
+ber of ciliate morphotypes possibly overestimates the lated as the mean of ,UO-~, p1-2a nd according to the
+number of species actually present. same equation as used for protozooplankton. Informa-
+Mixotrophic ciliates. Due to loss of autofluorescence tion on chlorophyll and temperature of the experimen-
+from glutaraldehyde fixed samples (as a result of pro- tal water used for incubations is shown in Table 1.
+longed storage time), only the obligate mixotrophic Statistical tests. To test if the obtained protozoan
+species Laboea strobila (McManus & Fuhrman 1986), maximum growth rates were different from the 'poten-
+the potential mixotrophic Tontonia appendiculari- tial' rates (calculated by the multiple regression pro-
+formis (Laval-Peuto & Febvre 1986) and Tontonia spp. vided by Miiller & Geller 1993) at T= 1.4"C, the slopes
+were included in the estimation of mixotrophic contri- and intercepts of the 2 growth versus volume regres-
+bution to the ciliate community. These species were all sion lines were compared. The regression line of the
+identified from Lugol samples. obtained relationship was estimated using a weighted
+Growth experiments. Protozooplankton maximum least squares (WLS) regression with measurements of
+growth rates were calculated from changes in cell growth rates pooled into 1 weighted observation for
+abundance in fractionated water samples mounted on each species. Using the inverse of the variance as
+a rotating plankton wheel (2 rpm). The plankton wheel weight for each species provides a best linear unbiased
+was submerged in an opaque 1.5 m3 large PVC con- estimate (BLUE). The calculations were performed
+tainer covered with a lid and placed in a glacier stream using SAS/PROC REG.
+*
+(1.4 0.6"C). A continuous flow of stream water Production and grazing. Potential ciliate and hetero-
+through the container ensured that temperature re- trophic dinoflagellate production were calculated as
+mained constant. Irradiance inside the polycarbonate biomass times the volume-specific growth rates for
+bottles was 26 % of the incident light, corresponding to each morphotype, using the volume-maximum growth
+the light climate at -7.5 m depth at the sampling sta- rate relationships obtained in the growth experiments.
+tion. Thus, potential community production of either the cil-
+Each experiment lasted 4 d and was as follows: iates or the heterotrophic dinoflagellates was the sum
+duplicate 2.5 1 acid-washed polycarbonate bottles of all the morphotype specific production estimates
+were filled with surface water or water collected from calculated in each sample (C biomass produced per
+
+220 Aquat Microb Ecol 16: 217-232. 1999
+morphotype). Potential ingestion was cal- Table 1. Water for growth incubations conducted in a stream at 1.4 + 0.6'C.
+culated from growth rates assuming HNF: heterotrophic flagellates <20 pm. (-) NO chlorophyll fractionation
+measurements
+plete heterotrophy and a carbon growth
+yield of 33% (Hansen et al. 1997). Both
+the production and the ingestion esti- Date Depth Temperature HNF Chlorophyll Chlorophyll
+mates therefore do not represent the (m1 ('C] (pg C I-') (pg l-'1 <l1 pm (% of total)
+actual rates at a given time but rather give
+7 Aug 20 2.9 0.16 2.52 -
+information on the potential capacity of 18 Aug 20 3.3 0.91 7.34 -
+the ciliate and dinoflagellate community. 27 Aug 1 5.9 0.34 0.75 68
+Production and ingestion estimates were 1 Sep 1 6.6 0.21 0.63 90
+15 5.0 1.03 0.72 83
+transformed from 1.4"C to in situ temper-
+4 Sep 1 6.1 0.32 0.81 56
+atures by using a Qloo f 2.8 (Hansen et al. 15 3.7 0.91 0.96 9 1
+1997).B iomass, production and ingestion 6 Sep 1 5.9 0.60 0.78 8 1
+per m2 were calculated by trapezoidal 2 0 4.3 0.61 1.14 89
+8 Sep 1 5.1 0.40 0.63 62
+integration over the depth strata down to
+2 0 4.4 0.45 0.96 8 1
+30 m (Nielsen & Bresta 1984). Integrated
+average ciliate and heterotrophic dinofla-
+gellate concentration and biomass equal
+the integrated values divided by 30. surface water was partly separated from high salinity
+water rich in inorganic nutrients during the study
+period. The phytoplankton was dominated by nano-
+RESULTS sized cells except for 3 pronounced subsurface blooms
+associated with the pycnocline (Fig. 1).T he first bloom
+Hydrography and phytoplankton was dominated by haptophytes and the subsequent
+blooms were dominated by chain-forming diatoms. For
+Disko Bay is influenced by fresh water from melting more details on hydrography, nutrients and primary
+icebergs and runoff from land, resulting in a stratified producers see Nielsen & Hansen (1999, in this issue).
+water column from the time of the ice break and
+throughout the summer (Andersen 1981a,b).T he main
+diatom bloom develops concurrently with the ice Protozooplankton composition and abundance
+break and leaves the euphotic zone after the nutrients
+are depleted a few weeks later (Nielsen & Hansen The protozooplankton community was dominated by
+1995). Accordingly, nutrient depleted and low salinity aloricate choreotrich ciliates and gymnodinoid dino-
+flagellates. Tintinnids, 'other' ciliates
+(haptorids, holotrichs, prostomatids)
+and thecate dinophysoid and peridi-
+noid dinoflagellates were less fre-
+8.0
+quently observed. Table 2 sumrna-
+7.0 rizes the identified genera, species
+6.0 and morphotypes.
+5.0 The integrated average concen-
+4,0 trations of ciliates and heterotrophic
+dinoflagellates >20 pm were of the
+3.0
+same order of magnitude, ranging
+2.5
+from -2 to 8 and 2 to 10 cells
+2.0 ml-', respectively. If dinoflagellates
+1.5 <20 pm are included, the hetero-
+1.0 trophic dinoflagellate concentration
+17 1 1 17 0.5 ranged from 3 to 17 cells ml-'
+July August September
+0.0 (Table 3). The highest concentration
+of ciliates was recorded on August
+chl a
+29 with values between 7 and
+Fig. 1. Vertical distribution of chl a (pg 1-l) shown as shaded areas and water den-
+12 cells ml-'. Maximum concentra-
+sity (kg+ 1000m-3) calculated from salinity and temperature measurements (dots)
+shown as isolines with numbers. Chl a sampling depths are similar to protozoo- tions of heterotrophic dinoflagellates
+plankton sampling depths (see Fig. 3) >20 p followed the diatom subsur-
+
+Levinsen et al.: Arctic plankton community structure. I1 22 1
+Table 2. Protozooplankton identified from Disko Bay. Left column: cili- biomass generally was higher than ciliates
+ates; right column: heterotrophic dinoflagellates during summer (July 17 to August 29), aver-
+aging 486 and 286 mg C m-2, respectively
+Oligotrichs AUlecate (Fig. 2B,C).I n September, the ciliate biomass
+Laboea strobila Amphidinium crassum did not change significantly from summer
+Strombidium spp. A sphenoides
+values (Fig. 2B). Conversely the biomass of
+Ton tonia appendiculadfornlis Cocl~lodiniumh elix
+heterotrophic dinoflagellates decreased
+Tontonia spp C pulchellum
+Cochlodinium sp. gradually to 47 mg C m-2 at the last sampling
+Naked choreotrichs Gymnodinium gracile (Fig. 2C). Generally, few species contributed
+LeegaardieUa spp. G. perparvum to the bulk of the biomass, even though the
+Lohmaniella oviformis G. rubrocinctum
+diversity of protozooplankton was large. This
+Strobilidium spiralis G. rubrum
+Strobilidium spp. Gymnodinium spp. was particularly true for the heterotrophic
+Strombidinopsis spp. Gyrodinium crassum dinoflagellates where Gyrodinium spirale
+G, dominans and Gymnodinium spp. >50 pm roughly con-
+Tintinnids G. spirale
+tributed half of the biomass in July-August
+PtychocyD's obtusa Gyrodiniun~s pp.
+and 25% of the biomass in September.
+Parafavella den ticula ta Ka todinium glaucum
+Eu tintinn us ten uis Laboea strobila was the major biomass con-
+Acanthostomella norvegica Thecate tributor among the ciliates (see below).
+Dinophysis rotundata The vertical distributions of ciliate and het-
+Others Diplopsalis group
+erotrophic dinoflagellate biomass followed
+Askenasia spp. Protoperidinium bipes
+Balanion sp. P brevipes the phytoplankton with maximum values in
+Cyclotrichium sp. P. depressum subsurface waters associated with the pycno-
+Didinium sp. P. pellucidurn/pallium cline (Figs. 1 & 3). This general trend was
+Mesodinium rubruni P steinii
+also shown by the most significant ciliate and
+Protoperidinjum spp.
+dinoflagellate species (Fig. 3B,D) though the
+distribution pattern was more heterogenous
+for L. strobila. An important exception to the
+face blooms around August 3 and 18, with values of >8 close relationship between the phytoplankton and pro-
+and >l5 cells ml-' (data not shown). tozooplankton was the observation of a ciliate maxi-
+mum in surface waters during late August and the
+beginning of September after the subsurface bloom
+Biomass period. This ciliate biomass maximum developed fol-
+lowing the downward migration of the large copepod
+The integrated biomass of protozooplankton from species (Calanus spp.) to their deep-water hibernation
+the upper 30 m shows that heterotrophic dinoflagellate refuge. Overall, a definitive depth trend was found
+Table 3. Cell concentration and biomass ranges and mean values for major ciliate and heterotrophic &noflagellate groups in
+Disko Bay (July to September). Values are integrated averages from 0 to 30 m
+Protozooplankton group Concentration (cells X 103 1-l) Biomass (pg C I-')
+Range Mean Range Mean
+Mesodinjum rubrum 0.03-0.75 0.28 0.02-1.23 0.43
+Tintinnids 0.02-0.16 0 05 0.02-0.74 0.21
+Heterotrophic oligo- and choreotrichs 1.82-5.17 3.30 2.20-9.63 4.68
+Mixotrophic oligotrichsa 0.18-1.50 0.66 0.73-11.8 2.65
+Othersb 0.20-2.54 1.13 0.27-2.41 1.33
+Total ciliatesc 2.32-8.22 5.15 4.74-24.1 8.87
+Dinoflagellates c 20 pm 0.45-11.80 3.55 0.01-1.16 0.37
+Dinoflagellates > 20 pm 2.13-10.37 5.93 1.53-32.0 12.70
+Total heterotrophic dinoflagellates 3.19-16.82 9.48 1.57-32.6 13.07
+aLaboea strobila, Tontonia appendiculariformis and Tontonia spp.
+bNumerically dominated by the small Balanion sp.
+CExcludmgM . rubrum
+
+222 Aquat Microb Ecol 16: 217-232, 1999
+Table 4. Abundance (cells X 103 I-') and biomass (pg C I-')
+of ciliates and heterotrophic dinoflageUates in the euphotic
+zone (0 to 30 m) and below during July to September 1994
+(mean SD)
+Depth Ciliates Heterotrophic
+(m) dinoflagellates
+Abundance Biomass Abundance Biornass
+*
+Euphoticzone 5.1 1.7 8.9r4.3 9.5 k3.7 13.1+ 6.9
+50 2.1 k 0.7 3.0* 2.2 1.3 k 0.9 2.3 + 2.3
+100 0.5*0.1 0.4k0.1 0.6k0.4 0.5k0.2
+150 0.6 0.3 0.9 0.5
+250 0.1 0.1 0.4 0.2
+Pot. mixotrophic
+Tintinnids during the study period, with decreasing abundance
+Others and biomass of ciliates and dinoflagellates below the
+euphotic zone (Table 4).
+The autotrophic ciliate Mesodinium rubrum com-
+prised an average of only 3 and 5 % of the ciliate num-
+bers and biomass, respectively. The integrated aver-
+age abundance and biomass of this species peaked
+towards the autumn (Fig. 4A).
+Species succession
+Individual ciliate and heterotrophic dinoflagellate
+species had different temporal distribution patterns
+(Fig. 4). Some protozooplankton species had maximum
+occurrence in the first part of the study with a decline
+starting at the end of August and continuing during
+September. This pattern was shown by Gymno-
+diniumlGyrodiniurn spp. >50 pm (Fig. 41). Other spe-
+cies had a biomass peak in mid-August. This was
+clearly demonstrated by the potential mixotrophic cili-
+ate Tontonia spp., but also by Protopendinium spp.,
+Gymnodinium/Gyrodiniurn spp. 20-50 pm and Gyro-
+dinium spirale (Fig. 4B,K,H,J).A third group includes
+species which peaked in early autumn. These were
+Mesodinium rubrum, tintinnids and Balanion sp.
+(Fig. 4A,E,F).F inally, some protozoopIankton species
+had no apparent temporal variation (Fig. 4C,D,G,L).
+-
+Cell size distribution and relation to temperature
+17 1 1 17
+July August September
+The numerically dominant size group of cdiates con-
+Fig. 2. Integrated biomass (0 to 30 m) of (A) phytoplankton sisted of species with an equivalent spherical diameter
+expressed as chl a, (B) ciliates, (C) heterotrophic dinoflagel-
+(ESD) <20 pm. They contributed 40% of the ciliate
+lates and (D) protozooplankton production d-' In (B), 'others'
+refers to non oligo- and choreotrichs. In (C),' GymIGyr' refers abundance in the beginning of the study, increasing to
+to Gymnodinium spp. and Gyrodinium spp. with an equiva- 60 % along with a decrease of ciliates >30 pm. The rel-
+lent spherical diameter (ESD) of 20 to 50 and >50 pm; 'G. spi- ative contribution of ciliates between 20 and 30 pm
+rala' to Gyrodinium spuale; 'others' to Amphidinium spp , was constant (Fig. 5A). However, larger species (ESD
+Gyrodinium spp.; and 'thecate' to Dinophysis rotundata,
+>40 pm) contributed most to the biomass. They
+Diplopsalis group, Protopendnium spp. Note the dfferent
+scales accounted for -70% during July-August and 50 to
+
+Levinsen et al.. Arctic plankton community structure. I1 223
+60% in September (Fig. 5B). All size groups
+were dominated by oligotrichs and
+choreotrichs, but 'other' ciliates occasionally
+contributed substantially to the biomass in
+the ESD >40 pm size group. Heterotrophic
+dinoflagellates, like ciliates, were numeri-
+cally dominated by smaller cells (<30 pm).
+They also increased in number towards the
+end of the study, but in contrast to ciliates
+small heterotrophic dinoflagellate cells
+became significant in terms of biomass
+(Fig. 5C,D). A major change in the relative
+size distribution was observed following the
+decline of the 2 subsurface diatom blooms in
+August. Thus, the relative importance of
+larger (>40 pm) heterotrophic dinoflagel-
+lates in terms of biomass decreased from -80
+to <30%.
+The smallest ciliates recorded during this
+study were Strornbidium-like cells with an
+ESD of 8 pm (length X width = 12.5 X 10 pm).
+The largest ciliates were Strornbidinopsis sp.
+which had an ESD of 134 pm (length X width
+= 165 X 120 pm).H eterotrophic dinoflagel-
+lates also covered a wide cell size range, the
+smallest and largest species both belonging
+to the gymnodinoid type, with an ESD rang-
+ing from 8 to 110 pm. Thus, the interspecific -1 0
+variation in cell volume of protozooplankton
+species from Disko Bay covers at least 4
+orders of magnitude.
+Intraspecific variation in cell volume was
+correlated to temperature as illustrated by -30
+Laboea strobila and Gyrodinium spirale 17 1 1 17
+July August September
+(Fig. 6). Linear regression analysis revealed
+slopes significantly different from zero (p <
+0.03 and p < 0.05 for L. strobila and G. spi- Fig. 3. Vertical distribution (pg C l-') of (A) mixo-heterotrophic ciliates
+excluding Laboea strobila, (B) L strobila, (C)h eterotrophic dnoflagel-
+rale, respectively). An analysis of residuals
+lates excluding Gyrodinium spirale and (D) G. spirale. Dots indicate
+did not reveal deviations from assumptions sampling depths
+involved in regression analysis.
+of 26 pg C I-' was recorded on August 29 at 20 m.
+Mixotrophy This high L. strobila occurrence coincided with ele-
+vated chl a values (Figs. 1 & 3B). Tontonia spp.,
+In the contribution of mixotrophic ciliates to the although numerically abundant, was always of minor
+total ciliate community only Laboea strobila and the importance in terms of biomass. Average integrated
+potential mixotrophic Tontonia spp. are included as biomass never exceeded 1.3 1-19 C 1-'. Biomass had a
+such. Among the Tontonia spp., T appendiculari- unimodal distribution with a build up throughout the
+formis was recognized as a known potential mixo- summer. In September, biomass rapidly declined
+trophic species. The other Tontonia morphotypes (Fig. 4B). Together, L. strobila and Tontonia spp. con-
+were not identified to species level. However, in this tributed an estimated average of 20% (9 to 32%) of
+study they are all regarded as rnixotrophic. L, strobila the total ciliate biomass in the euphotic zone. No sig-
+numerically accounted for <l0% of all ciliates. Due to nificant linear correlations were found between mixo-
+its large cell size, the biomass contribution averaged trophic cihate biomass and chl a or primary produc-
+15% with a peak value of 42 %. A maximum biomass tivity (data not shown).
+
+224 Aquat Microb Ecol 16 211-232, 1999
+c 750 6
+2
+i Mesodinium rubrum A
+- - 500 4
+0 .O. . . 0.
+1 - '. . ... . .
+... . ..
+- 250 2
+.. .o. . :
+0 " . .
+0 0 0
+12 750 12 750
+Laboea strobila C
+8 - - 500 8 500
+4 250
+0 0
+0.75 -2 00 750
+Tintinnids E
+0
+0.50 - 500
+. . - 100
+250
+0 0
+0.75 2400 0.3 1500
+Balanion sp. -"-.E Amphidinium spp L
+0 n
+17 1 1 17 17 1 1 17
+July August September July August September
+Fig. 4 Average blomass (left axis: pg C I-', bars) and concentration (right axis: cells I-', line) of cihate and heterotrophlc cllnoflagel-
+late species and slze groups integrated for the euphotic zone (0 to 30 m).N ote different scales on y-axes
+
+Levlnsen et a1 Arctic plankton community structure. I1 225
+Heterotrophic Dinoflagellates
+I
+C
+E LESD
+> 1
+ESD 30
+L
+~ E S2D0
+ESD < :
+0 .................... .................... ... .
+17 1 1 1717 1 1 17
+July August September July August September
+Fig. 5. Relative cell size dlstnbuhon (po)f c hate and heterotrophlc dlnoflagellate abundance (A, C) and biomass (B, D], respecbely
+Growth and production sented in Tables 5 & 6. In Fig. 7 the growth rates are
+plotted against cell volume. Data points present the
+The estimated maximum growth rates obtained for mean value of maximum growth for each species.
+ciliates and heterotrophic dinoflagellates are pre- Growth rates decreased with cell volume according to
+the allometnc equation p = 0.1248 V-0331
+for ciliates (r2 = 0.67) and p =
+Table 5 Growth of clliates. Maximum growth rate d ' at 1.4'C (p),s tandard 0.0479 V-' lf'"or heterotrophic dinofla-
+error (SE),n umber of replicates (n).p normallzed to 5°C by usmg a Qlo of 2.8 gellates (r2 = 0.78). Two data points were
+(psaC)a. nd potential growth rate d-' denved from the multiple regressions
+omitted from the regression between till-
+presented by Muller & Geller (1993) normallzed to 5OC (pwI
+ate growth rate and cell volume: Meso-
+dinjum rubrum, which is a funct~onal
+Group/species Volume (pm3) p (SE) autotrophic ciliate, and an Euplotes-like
+ciliate, which was not considered a true
+Mesod~n~urrunb rurn
+pelagic species. During all but 2 growth
+Choreotrichs 10-20pm"
+Choreotnchs 20-30 pmd incubations, the chlorophyll concentra-
+Choreotnchs 30-40 p111 tion increased with phytn~lankton
+Choreotrichs >40 pm a growth rates between 0 and 0.29 d-'
+Lohrnaniella ov~formis
+(mean = 0.13 d.'; data not shown).
+Tontonla sp.
+Balanlon sp. Daily potential protozooplankton pro-
+Strobjlidium sp. ductlon, reflecting biomass and tempera-
+Euplotes-like ciliate ture, reached a peak of 360 mg C n1r2
+d-' in mid-August (Fig. 2D). Hetero-
+'Chates from the subclass Choreotnchla dommated by Strombidium
+trophic dinoflagellate potential produc-
+spp. and Strobdld~umsp p. Number ranges refer to cell length in pm
+tion, on average, exceeded that of cili-
+
+226 Aquat Microb Ecol 16: 217-232, 1999
+I , , , , , , , ,
+3
+10
+Temperature ("C)
+Fig. 6. Relationship between temperature and cell volume of
+(A) Laboea strobila and (B) Gyrodinium spirale. Note logarith-
+mic scale
+Cell volume @m3)
+ates by a factor of 5. The vertical distribution of the
+Fig. 7. Relationship between maximum growth rates (mean
+potential production followed the same pattern as the values) determined at 1.4OC and cell volumes of (A) 9 differ-
+biomass, with elevated values in subsurface water, ent species and size groups of ciliates and (B) 8 different
+though the influence of temperature reduced the dif- species and size groups of heterotrophic dinoflagellates.
+ferences between production in surface and subsur- (m) Mesodinium rubrum, (A) Euplotes-like ciliate. (.-) 'Poten-
+tial' maximum growth versus volume relationships calculated
+face water (Fig. 8).
+by the multiple regression provided by Miiller & Geller
+(1993)
+DISCUSSION
+Heterotrophic dinoflagellates dominated the proto-
+Protozooplankton in an Arctic food web zooplankton and were primarily associated with sum-
+mer subsurface blooms of diatoms, supporting the idea
+This study documents that both ciliates and hetero- that heterotrophic dinoflagellate concentrations often
+trophic dinoflagellates are significant components of are high when diatoms are abundant (Bursa 1961,
+the Arctic pelagic food web during the stratified ice- Hansen 1991, Lessard 1991, Verity et al. 1993). The
+free period after the spring bloom. Ciliate biomass declining biomass in September reflects the decreas-
+remained relatively high, but larger heterotrophic ing diatom concentration. Heterotrophic dinoflagellate
+dinoflagellates declined from the beginning of Sep- biomasses were comparable to those found during the
+tember and occurred mainly in mid-August. spring diatom bloom in Disko Bay in 1992 (Nielsen &
+Hansen 1995) and those associated with the spring and
+autumn phytoplankton blooms at lower latitudes
+Table 6. Growth of heterotrophc dinoflagellates. Maximum
+(Smetacek 1981, Hansen 1991, Bralewska & Witek
+growth rate d-' at 1.4"C (p), standard error (SE), number of
+replicates (n).E SD: equivalent spherical diameter (pm) 1995).
+The abundance, Sicmass and species composition of
+the Disko Bay ciliate community were comparable to
+Group/species Volume (pm3) p (SE)
+those reported from Arctic Canada (Paranjape 1987,
+Amphidinium crassum 1988), the North BeringKhukchi seas (Andersen
+Amphidinium sphenoides 1988), the Greenland Sea (Putt 1990, Auf dem Venne
+Gyrodinium gla ucum
+1994) and an earlier study from Disko Bay (Nielsen &
+Gyrodinium spirale
+Hansen 1995), and not different from lower latitudes
+Gyrodinium sp.
+Dinoflagellates, ESD 20-30a (Taniguchl 1984, Leakey et al. 1992, Pierce & Turner
+Dlnoflagellates, ESD 30-40" 1992, Nielsen & karboe 1994, Edwards & Burkill
+Dinoflagellates, ESD 40-50d
+1995).
+Mixotrophic ciliates contributed on average 20% to
+'Naked dmoflagellates dominated by Gymnodlnium and
+Gyrodinium spp. the integrated ciliate biomass. This is comparable to
+other studies from different geographical areas
+
+Levinsen et al.: Arctic plankton community structure. I1 227
+0 lowing the decline in total copepod biomass
+caused by the migration of the large Calanus
+spp. to thelr deep water hibernation refuge
+-1 0
+(Hansen et al. 1999). The large number of
+different copepod species and stages makes
+- -20 such an analysis complex. For example, as
+opposed to the adult A. tonsa, the nauplii of
+E
+this same species had higher clearance for
+5 -30
+8 small than for large ciliates (Stoecker &
+o y
+n Egloff 1987) and late copepodid stages of
+Eucalanus pileatus did not prefer larger
+-10. compared to smaller cells (Verity & Paffen-
+hofer 1996). Still, it is possible that large and
+relatively slow-growing ciliates were regu-
+-20
+lated by the copepods as found in the Katte-
+gat, Denmark (Nielsen & Ki~rboe 1994),
+leading to low abundance.
+17 1 1 17
+July August September
+Fig. 8. Vertical and temporal distribution of temperature corrected Cell size in relation to temperature
+potential (A) ciliate and (B) heterotrophic dinoflagellate production (pg C
+1-' d-') calculated from biomass and the volume-growth rate relationship Laboratory studies (James & Read 1957,
+obtained in the growth experiments. Dots indicate biomass sampling ~ ~ 1968,~ &~ ~ h~ 197~2)~ havel ~ h ~ l
+depths
+shown that the ciliates Tetrahymena, Uro-
+nema and Euplotes increase in cell volume
+(Stoecker et al. 1989, Putt 1990, Verity & Vernet 1992, at low temperatures. Such an increase was evident
+Bernard & Rassoulzadegan 1994, Auf dem Venne also in Laboea strobila in the present study, when
+1994), and suggests that mixotrophy among ciliates is comparing its mean cell volumes with the tempera-
+widespread also in the Arctic. tures observed in Disko Bay. Furthermore, a similar
+The relative cell size distribution of the ciliates and increase in cell volume was found for the dominant
+heterotrophic dinoflagellates revealed a similar sea- heterotrophic dinoflagellate Gyrodinium spirale. Both
+sonal trend, with an increasing abundance of small relationships reflect large variation, but, to our
+cells towards autumn. Also smaller cells were always knowledge, represent the first attempt to establish
+most abundant in the 2 groups. However, in terms of and document such a relationship for in situ popula-
+biomass the relative cell size distribution of the ciliates tions of protozooplankton. The different food regimes
+and heterotrophic dinoflagellates differed. Small cili- encountered under natural growth conditions compli-
+ates were always of minor importance compared to cate the cell size versus temperature relationship due
+large ciliates. By contrast smaller heterotrophic to the potential influence of food quantity and quality
+dinoflagellate cells became the major heterotrophic on predator cell size. This is particularly true for G.
+dinoflagellate biomass component after the diatom spirale, in which cell shape shifts when it is offered
+subsurface blooms sedimented. Size selective preda- large prey items (Hansen 1992). Recalling that cell
+tion of copepods preying on ciliates has been found to volume estimates of L. strobila and G. spirale are
+occur in laboratory experiments with suggested influ- based on fixed length-width relationships, this
+ences on population dynamics in natural waters implies potentially large errors in the cell volume
+(Stoecker & Egloff 1987). These authors found higher estimation. Even though the L. strobila length-width
+clearance rates for adult Acartia tonsa on large ciliates relationship seems rather constant con~paredt o G.
+compared to small ones. It might be that the domi- spirale, both species were potentially affected by food
+nance of small cells in the size structure of the proto- since regression analyses show significant relation-
+zooplankton community in Disko Bay was due to such ships between temperature and chl a (Table 7). In
+size selective feeding behavior by the copopods. If this order to evaluate the effect of food on cell size, a
+mechanism was the main factor regulating ciliate (and regression analysis on chl a and mean cell volumes
+heterotrophic dinoflagellate) dynamics, however, one was conducted. In fact, cell volume of G. spirale was
+would have expected a cell size succession somewhat significantly correlated with chl a (Table 7), indicat-
+opposed to the one we observed. Large cells should ing covariation of cell volume with both temperature
+have become more abundant in a relative sense fol- and potential food.
+
+228 Aquat Mlcrob Ecol
+Table 7. Regression data for chl a versus temperature and the Miiller & Geller equation to predict growth rates at
+2 dominant protozooplankton species versus potent~alf ood 5"C, it gave values almost s~milart o our maximum
+availability [chl a). ns non s~gn~f~cant
+growth rates transformed from 1.4 to 5°C applying a
+Qla of 2.8 (Table 5; the calculated mean community
+Temp Laboea stroblla Gyrodiniurn splrale growth rates were similar). Also, the community
+("C) (Pg C 1-I) (PS c I-') growth rate of 0.201 d-' (at 1.4"C) was not very differ-
+ent from 0.135 d-' estimated for phagotrophic ciliates
+Chl a r2= 0.22 r2= 0 04 r2= 0 22
+(pg l-') p < 0 001 p > 0 5"' p < 0 001 within the sea ice in Resolute Passage, Canadian High
+n = 72 n = 61 n = 72 Arctic (presumably at about -1.8"C; Sime-Ngando et
+al. 1997). Arctic protozoans may consist of subspecies
+or clones which have adapted to an extreme environ-
+Growth in cold-water ecosystems ment. This makes it difficult to predict their growth
+rates from data obtained at higher temperatures. On
+If the concentration of < 11 pm chl a is used as an esti- this basis there is clearly a need for conducting more
+mate of ciliate food availability and the C:chl a conver- ciliate growth experiments in cold waters (where max.
+sion factor of 43 (Nielsen & Hansen 1999) is applied, temperatures < -5°C) to improve the very convenient
+then the initial food concentration in the growth exper- predictive tool provided by multiple regressions as
+iments was 28 rt 9 pg C 1-' (mean + SD). Heterotrophic those noted above in for example the construction of
+nanoflagellates which also potentially contributed to food-web models.
+the total ciliate food availability further add a biomass In evaluating our maximum heterotrophic dinofla-
+of 0.54 + 0.3 pg C l-'to this value. Threshold concentra- gellate growth rates we have made a comparison with
+tions for growth from 7.5 to 325 pg C 1-' have been the only other low-temperature growth estimate for
+measured for StrobiLidium and Strombidium species heterotrophic dinoflagellates available. Applying the
+(see Table 4 in Montagnes 1996). This implies that cold-water growth data of Bjgrnsen & Kupannen
+some species were possibly food limited. In fact, we did (1991) for a small gymnodinoid dinoflagellate from the
+not succeed in measuring growth of large ciliates. Southern Ocean and the volume-based growth rate
+They might have been starving due to higher threshold equation from the present study revealed that the
+concentrations. It should be mentioned that alternative obtained growth rates in this study are not severely
+food sources (e.g. bacteria) which potentially con- overestimated (Table 8). Overall the growth experi-
+tributed to the total ciliate food availability were not ments showed that the ciliate and heterotrophic
+included in the above considerations. Mesodinium dinoflagellate growth rates observed in Disko Bay at
+rubrum was the fastest growing ciliate. Apparently this times were close to maximum rates, stressing these
+autotrophic ciliate was superior to the heterotrophic organisms' potential significance as grazers and
+and mixotrophic ciliates during the incubations. Mon- trophic intermediates in the food web.
+tagnes (1996) analyzed the predictability of multiple
+regressions provided by Montagnes et al. (1988),
+Miiller & Geller (1993) and Nielsen & Kirarboe (1994), Ecological impact and role in the food web
+who all used temperature and cell volume to predict
+maximum ciliate growth. By comparing with labora- Ciliates have often been thought of as the 'typical'
+tory-derived maximum growth estimates, he con- microheterotrophic protist grazers on phytoplankton
+cluded that the equation provided by Muller & Geller even though heterotrophlc dinoflagellate biomass
+(1993)w as the best predictor of growth in Strobilidiurn often equals that of ciliates in the plankton (Sherr &
+and Stl-ornbldium species. Accordingly, we have cho- Sherr 1994).B ased on the biomass and the cell volume-
+sen this equation to represent the maximum cell- maximum growth rate relationship obtained in this
+volume based growth-rate relationship. As observed study, heterotrophic dinoflagellates seem to be even
+from Fig. ?A this implies that we may have overesti-
+mated ciliate growth as our growth rates were signifi-
+cantly larger than the potential rates (p < 0.0001; see Table 8 Maxlrnum growth rate d-' for a heterotroph~c
+Fig. 7) The discrepancy may also reflect that the equa- Gymnodimurn sp (volume 1250 pm3) obtained from quasl-
+tion of Muller & Geller (1993) inadequately pred~cts natural rmcrocosms expenrnents conducted dt 1°C (Bjarnsen
+& Kupannen 1991) compared mth the growth rate pred~cted
+growth rates at low temperatures. Furthermore, the
+from the volume-growth relat~onshlpo btained In thls study
+conclusion drawn by Montagnes (1996) regarding the
+superionty of the Muller & Geller equation IS largely
+Bjarnsen & Kupannen (1991) 0.31
+based on comparisons with growth rates obtained at
+Thls study 0.49
+the high temperature end (l? + 6 "C). When using the
+
+Levinsen et al.: Arctic plank: ton community structure. 11 229
+*
+more significant herbivorous consumers than do cili- m-' d-' (mean SD). As the biomass was 692 295 mg
+ates. Thus, the main part of the protozooplankton pro- C m-2, an average turnover rate for the protozooplank-
+duction (and ingestion) was due to heterotrophic ton community of 0.29 d-l could be calculated during
+dinoflagellates. Their production on average exceeded late summer in Disko Bay. This P/B ratio corresponds
+ciliates by a factor of 5. Apart from the general higher to a generation time of -3.5 d for an 'average protozoo-
+biomass of heterotrophic dinoflagellates, this could be plankton organism'. In the second part of the study in
+due to higher specific community production, at least which data on primary production are available
+during the second half of the study period, where the (Nielsen & Hansen 1999) the estimated protozooplank-
+heterotrophic dinoflagellate biomass was composed of ton production was 152 + 71 mg C n1r2 d-' compared to
+*
+smaller cells (Fig. 5B,D). Also, the heterotrophic a primary production of 154 66 mg C m-2 d-'. By
+dinoflagellate scaling exponent of -0.16 compared to assuming a carbon growth yield of 33% and a pure
+that of the ciliates of -0.33 caused a relatively fast autotrophic diet of ciliates and heterotrophic dinofla-
+decrease in growth rates of ciliates with size, thereby gellates, protozooplankton on average could remove
+amplifying the difference in production between the 2 44 % of the phytoplankton standing stock and 362 % of
+groups, particularly at large cell sizes. Finally, we sim- primary production daily. By including the het-
+ply obtained higher growth rates for heterotrophic erotrophic nanoflagellates (ignoring bacteria), proto-
+dinoflagellates compared to ciliates (Tables 5 & 6). This zooplankton would still potentially be able to remove
+is in contrast to other studies mainly from the labora- >40% of their food d-'. Thus, even though the proto-
+tory which report heterotrophic dinoflagellate maxi- zooplankton potentially were able to grow at their
+mum growth rates lower than planktonic ciliates of maximum rates, probably not all of them did so in situ,
+similar size (Hansen 1992, Sherr & Sherr 1994). Even as they would otherwise graze down their prey in a
+though there might be a discrepancy between maxi- few days, which they did not. Rather, as protozoo-
+mum growth rates obtained in the laboratory and plankton are able to ingest each other, cannibalism
+under field conditions (e.g. because of suboptimal diet reduced grazing pressure, allowing prey organisms to
+in the laboratory studies compared with the field), it is increase their concentration slightly, and thus serve
+not possible to evaluate such potential discrepancy again as food (Paffenhofer 1998). In Disko Bay there-
+based on this study alone due to the large variation in fore it could be assumed that the protozooplankton
+the growth estimates. More growth studies particularly experienced an ever shifting variation in growth rate
+at low temperatures are certainly needed. between low or even negative and maximum.
+Recently, attention has been given to the hetero-
+trophic dinoflagellates as studies suggest that they
+occupy a different niche with regard to prey than pre- Dynamics and regulation
+dicted by the concept of the microbial loop. A linear
+size ratio between dinoflagellate predators and their High phytoplankton concentrations were associated
+optimal prey size of 1:l has been proposed (Hansen et with the pycnocline throughout the study. A pro-
+al. 1994), far from the general assumption of 10:l nounced response in protozooplankton biomass was
+(Azam et al. 1983). An implication of this predator:prey observed following this phytoplankton distribution.
+relationship is that small (<20 pm) heterotrophic The presence of a large protozooplankton biomass in
+dinoflagellates will compete with ciliates for nano- subsurface water probably reflects the higher food
+plankton prey, while heterotrophic dinoflagellates concentrations encountered in these layers, but food
+>20 pm ingest prey which in general are too large for may not have been the sole factor influencing the cili-
+ciliates (Hansen 1992). Dinoflagellates >20 pm there- ates' and heterotrophic dinoflagellates' vertical struc-
+fore are likely to compete primarily with copepods for ture. The vertical distribution pattern of the protozoo-
+food, and not with ciliates and other heterotrophic pro- plankton was probably influenced by the copepods
+tists in the pelagic food web. In the present study the also. In general the clearance of calanoid copepods
+majority of the heterotrophic dinoflagellate biomass increases with decreasing food concentration (Frost
+consisted of Gymnnodinium and Gyrodinium spp. 1972). Moreover. food retention efficiency increases
+> 20 pm, indicating a significant grazing impact on rel- with increasing food size (Frost 1977). In our case, with
+atively large prey items such as the diatoms in the sub- small phytoplankton being dominant and in low con-
+surface water and ciliates; indeed when comparing centration in the surface water and large phytoplank-
+estimates of potential heterotrophic dinoflagellate and ton being dominant and in high concentration in the
+copepod grazing, it shows that heterotrophic dinofla- subsurface water, one could assume that the copepods
+gellates exert a major impact (Hansen et al. 1999). influenced these environments very differently. This
+The calculated potential protozooplankton produc- would imply that the copepod clearance on protozoo-
+tion from July to September 1994 was 200 i 80 mg C plankton was relatively low in subsurface water and
+
+230 Aquat Microb Ecol 16: 217-232, 1999
+hence predation on ciliates and heterotrophic dinofla- is important that the subsurface protist communities
+gellates probably was less significant in these layers are included in future studies of Arctic carbon cycling.
+(Fessenden & Cowles 1994).
+During the summer the diatom subsurface blooms
+Acknowledgements. We greatly acknowledge Hanne Ferh-
+declined and phytoplankton changed towards a nano-
+nand, Dorte Grastrup Hansen, Jens Larsen and Birgit Soeborg
+plankton dominated community (Nielsen & Hansen for technical assistance. Jacob Larsen identified the naked
+1999) with pronounced implications for the ciliates and heterotrophic dinoflagellates from live samples. We are grate-
+heterotrophic dinoflagellates. While the large hetero- ful to the crew of RV 'Porslld', the 'plankton group' and Helge
+A. Thomsen, University of Copenhagen, for help during sam-
+trophic dinoflagellates declined after the diatom sub-
+pling and The Board of Arctic Station for providing excellent
+surface blooms disappeared, the ciliates obtained a facilities. We thank Per Juel Hansen, David Montagnes, Alf
+high biomass. The heterotrophic dinoflagellates Skovgaard and Jefferson Turner for cntical comments on an
+declined after the chl a concentrations decreased to earlier version of the manuscript. The investigation was
+financially supported by The Commission for Scientific
+<l pg I-', corresponding to 43 pg C 1-' (Figs. 1 & 3C,D),
+Research in Greenland (l.no.5.111/80),B eckett's Foundation
+supporting the suggested higher food threshold con-
+and The Danish National Research Council (No 9501038).
+centrations for growth of these organisms compared to
+ciliates (Hansen 1992).
+LITERATURE CITED
+The change in the composition of the protozooplank-
+ton community coincided with the migration to the Andersen OG (1981a)T he annual cycle of temperature, salin-
+deep water of the large Calanus spp. Since Calanus ity, currents and water masses In Disko Bugt and adjacent
+spp. formed most of the copepod biomass, the grazing waters, West Greenland. Medd Gr~nl5
+Andersen OG (1981b)T he annual cycle of phytoplankton, pri-
+pressure was greatly reduced after they left the
+mary production and hydrography in the Disko Bugt area,
+euphotic zone. Until mid-August the copepod commu-
+West Greenland. Medd Grml 6
+nity had an estimated grazing potential of -20% of the Andersen P (1988)T he quantitative importance of the 'micro-
+water column d-', which decreased to -3 % d-' in Sep- bial loop' in the marine pelagic: a case study from the
+tember (Hansen et al. 1999). Accordingly, the increas- North BeringKhukchi Seas. Arch Hydrobiol Beih Ergebn
+Lirnnol 31:243-251
+ing ciliate population in late August could be attrib-
+Auf dem Venne H (1994) Zur Verbreitung und okologischen
+uted to a reduced predation pressure. At this time most Bedeutung planktischer Ciliaten in zwei verschiedenen
+heterotrophic dinoflagellates were probably food lim- Meeresgebieten: Gronlandsee und Ostsee. Dissertation,
+ited and not affected by the released top-down regula- Christian-Albrechts-Universitat zu Kiel
+Azam F, Fenchel T. Field JG, Gray JS, Meyer-Reil LA,
+tion.
+Thingstad F (1983) The ecological role of water-column
+There were still some heterotrophic dinoflagellates
+microbes in the sea. Mar Ecol Prog Ser 10:257-263
+growing in September, however, as evident from the Berggreen U, Hansen B, Kierrboe T (1988) Food size spectra,
+growth experiments. Apparently, the low phytoplank- ingestion and growth of the copepod Acartia tonsa during
+ton concentrations were able to sustain a small popula- development: implications for determination of copepod
+production. Mar Biol 99:341-355
+tion of heterotrophic dinoflagellates relying on small-
+Bernard C, Rassoulzadegan F (1994) Seasonal variations of
+scale patches of phytoplankton and ciliates as food. mixotrophic ciliates in the northwest Mediterranean Sea.
+Mar Ecol Prog Ser 108:295-301
+Bjnrnsen PK, Kuparinen J (1991) Growth and herbivory by
+heterotrophic chnoflagellates in the Southern Ocean, stud-
+Conclusion
+ied by microcosm experiments. Mar Biol 109:397-405
+Bralewska J, Witek Z (1995) Heterotrophic dinoflagellates in
+The prominent late summer feature of enhanced the ecosystem of the Gulf of Gdansk. Mar Ecol Prog Ser
+phytoplankton concentrations in subsurface water 117.241-248
+associated with the pycnocline was reflected in the Burkill PH (1982) Ciliates and other microplankton compo-
+nents of a nearshore food web: standing stocks and pro-
+succeeding heterotrophic links in the food chain. Par-
+ductlon processes Ann Inst Oceanogr 58:335-350
+ticularly, heterotrophic dinoflagellates, which were the Eurkill PH, Edwards ES, John AWG, Sleigh MA (1993)M icro-
+most significant heterotrophic protist in terms of bio- zooplankton and their herbivorous activity in the north-
+mass, showed vertical profiles with pronounced sub- eastern Atlantic Ocean. Deep-Sea Res 40:479-493
+Bursa AS (1961)T he annual oceanographical cycle at Igloolik
+surface maxima concurrently with the phytoplankton.
+in the Canadian Arctic. 11. The phytoplankton. J Fish Res
+Apart from elevated biomasses of heterotrophic
+Bd Can 18:563-615
+dinoflagellates and ciliates, bacteria and nanoflagel- Dodge JD (1985) Marine dinoflagellates of the British Isles.
+late patches of high biomass were also observed here Her Majesty's Stationery Office, London
+(Nielsen & Hansen 1999).S ince these patches of high Dolan JR (1991) Guilds of ciliate microzooplankton in the
+Chesapeake Bay. Estuar Coast Shelf Sci 33:137-152
+phytoplankton concentration provided a potential
+Drebes G (1974) Marine Phytoplankton, eine Auswahl, der
+shelter from e.g. copepod and fish larvae predation Helgolander Planktonalgen (Diatomeen, Peridineen).
+compared with the nutrient depleted surface water, it Georg Thieme Verlag, Stuttgart
+
+Levinsen et al. Arctic plankton community structure. I1 231
+Edler L (1979)R ecommendations for marine biological studies in Southampton Water: abundance, biomass, production,
+in the Baltic sea. Baltic Mar Biol Publ 5:l-38 and role in pelagic carbon flow. Mar Biol 114:67-83
+Edwards ES, Burklll PH (1995) Abundance, biomass and dis- Leakey RJG, Burkill PH, Sleigh MA (1994) Ciliate growth
+tribution of microzooplankton in the Irish Sea. J Plankton rates from Plymouth Sound: comparison of direct and indi-
+Res l7:771-782 rect estimates. J Mar Biol Assoc UK 74:849-861
+Fenchel T (1968) The ecology of marine microbenthos 111. The Lee CC, Fenchel T (1972) Studies on ciliates associated with
+reproductive potential of ciliates. Ophelia 51123-136 sea ice from Antarctica 11. Temperature responses and tol-
+Fessenden L. Cowles TJ (1994) Copepod predation on erances in ciliates from antarctic, temperate and tropical
+phagotrophic ciliates in Oregon waters. Mar Ecol Prog Ser hab~tatsA. rch Protistenk 114:23?-244
+10?:103-111 Leegaard C (1915) Untersuchungen iiber einige Planktoncill-
+Frost BW (1972)E ffects of size and concentration of food par- aten des Meeres. Nytt Mag Naturvidensk 53:l-37
+ticles on the feeding behavior of the marine planktonic Lessard EJ (1991) The trophic role of heterotrophic dinofla-
+copepod Calanus pacificus. Limnol Oceanogr 17:805-815 gellates in diverse marine environments. Mar Microb
+Frost BW (1977) Feeding behavior of Calanus pacificus in Food Webs 5:49-58
+mixtures of food particles. Limnol Oceanogr 22:472-491 Lessard EJ, Brownlee DC, Sellner K, Caron DA (1988) Role of
+Gilron GL, Lynn DH (1989) Estimates of in situ population microzooplankton biomass, growth, and grazing in plank-
+growth rates of four tintinnine ciliate species near Kingston ton dynamics in Chesapeake Bay. EOS 69:1103
+Harbour, Jamaica. Estuar Coast Shelf Sci 29:l-10 Lynn DJ, Montagnes DJS (1988) Taxonomic descriptions of
+Haas LW (1982) Improved epifluorescence microscopy for ob- some conspicuous species of strobilidiine dates (Cilio-
+serving planktonic micro-organisms. Ann Inst Oceanogr phora: Choreotrichida) from the Isles of Shoals, Gulf of
+Paris 58:261-266 Maine. J Mar Biol Assoc UK 68:639-658
+Hansen B. Bjarnsen PK, Hansen PJ (1994) The size ratio Lynn DJ, Montagnes DJS. Small EB (1988) Taxonomic
+between planktonic predators and their prey. Limnol description of some conspicuous species in the family
+Oceanogr 39:395-403 Sti-ombidiidae (Ciliophora: Oligotrichida) from the Isles
+Hansen B, Christiansen S, Pedersen G (1996) Plankton of Shoals, Gulf of Maine. J Mar Biol Assoc UK 62:
+dynamics in the marginal ice zone of the central Barents 252-259
+Sea during spring: carbon flow and structure of the grazer Lynn DJ, Montagnes DJS, Dale T, Gilron GL, Strom SL (1991)
+food chain. Polar Biol 16:115-128 A reassessment of the genus Strombidinopsis (Ciliophora,
+Hansen BW. Nielsen TG, Levinsen H (1999) Plankton com- Choreotrichida) with descriptions of four new planktonic
+munity structure and carbon cycling on the western coast species and remarks on its taxonomy and phylogeny.
+of greenland during the stratified summer situation. 111. J Mar Biol Assoc UK 7 1: 597-612
+Mesozooplankton. Aquat Microb Ecol 16:233-249 McManus GB, Fuhrman JA (1986) Photosynthetic pigment in
+Hansen PJ (1991) Quantitative importance and trophic role of the ciliate Laboea strobila from Long Island Sound, USA.
+heterotroph~c& noflagellates in a coastal pelagial food J Plankton Res 8.317-327
+web. Mar Ecol Prog Ser 73:253-261 Montagnes DJS (1996) Growth responses of planktonic cili-
+Hansen PJ (1992) Prey size selection, feeding rates and growth ates in the genera Strobiljdium and Strombidium. Mar
+dynamics of heterotrophic dinoflagellates with special em- Ecol Prog Ser 130:241-254
+phasis on Gyrodinium spirale. Mar Biol 114:327-334 Montagnes DJS, Lynn DH, Roff JC, Taylor WD (1988) The
+Hansen PJ, Nielsen TG, Kaas H (1995) Distribution and annual cycle of heterotrophic planktonic ciliates in the
+growth of protists and mesozooplankton dunng a bloom of waters surrounding the Isles of Shoals, Gulf of Maine: an
+Chrysochromulina spp. (Prymnesiophyceae, Prymnesi- assessment of their trophic role. Mar Biol 99:21-30
+ales). Phycologia 34:409-416 Muller H, Geller W (1993) Maximum growth rates of aquatic
+Hansen PJ, Bjerrnsen PK, Hansen BW (1997) Zooplankton ciliated protozoa: the dependence on body size and tem-
+grazing and growth: scaling within the 2-2000 pm body perature reconsidered. Arch Hydrobiol 126:315-327
+size range. Limnol Oceanogr 42:687-704 Nielsen GE, Bresta AM (1984) Guidelines for measurements
+James TW, Read CP (1957) The effect of incubation of tem- of phytoplankton primary production. Baltic Mar Biol Publ
+perature on the cell size of Tetrahymena pyriformis. Exp 1:1-23
+Cell Res 13:510-516 Nielsen TG, Hansen B (1995) Plankton community structure
+Jespersen AM, Christoffersen K (1987) Measurements of and carbon cycling in Arctic West Greenland during and
+chlorophyll a from phytoplankton using ethanol as extrac- after the sedimentation of a diatom bloom. Mar Ecol Prog
+tion solvent. Arch Hydrobiol 109:445-454 Ser 125239-257
+Kahl A (1932) Urtiere oder Protozoa. I. Wimpertiere oder Cili- Nielsen TG, Hansen B (1999) Plankton community structure
+ata (Infusoria).3 . Spirotricha. In: Dahl F (ed) Die Tierwelt and carbon cycling on the western coast of Greenland dur-
+Deutschlands und der angrenzenden Meeresteile. Gustav ing the stratified summer situation. I. Hydrography, phyto-
+Fischer Verlag, Jena plankton and bacterioplankton. Aquat Microb Ecol 16:
+Krainer K, Foissner W (1990) Revision of the genus Askenasia 205-216
+Blochmann, 1895, with proposal of two new species, and Nielsen TG, l~rboTe (1994) Regulation of zooplankton bio-
+description of Rhabdoasicenasia minima n. g., n, sp. (Cilio- mass and production in a temperate, coastal ecosystem. 2.
+phora, Cyclotrichida). J Protozool37:414-427 Ciliates. Limnol Oceanogr 39:508-519
+Laurion I, Demers S, Vezina AF (1995)T he microbial food web Paffenhijfer GA (1998) Heterotrophic protozoa and small
+associated with the ice algal assemblage: biomass and bac- metazoa: feeding rates and prey-consumer interactions.
+teriovory of nanoflagellate protozoans in Resolute Passage J Plankton Res 20:121-133
+(High Canadian Arctic). Mar Ecol Prog Ser 120:77-87 Paranjape MA (1987) Grazing by microzooplankton in the
+Laval-Peuto M, Febvre M (1986) On plastid symbiosis in Ton- eastern Canadian Arctic in summer 1983. Mar Ecol Prog
+tonia appendiculariformis (Ciliophora. Oligotrichina). Ser 40:239-246
+BioSyst 19:137-158 Paranjape MA (1988) Microzooplankton in Lancaster Sound
+Leakey RJG, Burkill PH, Sleigh MA (1992) Planktonic ciliates (eastern Canadian Arctic) in summer: biomass and d~strib-
+
+232 Aquat Mlcrob Ecol 16. 217-232, 1999
+utlon Deep-Sea Res 35:1547:1563 Smetacek V (1981) The annual cycle of protozooplankton In
+Perer bIT, Dolan JR, Fukai E (1997).P lanktonic ohgotrich cll- the Klel Blght Mar Biol 63.1 1 1
+iates in the NW Mediterranean: growth rates and con- Stoecker DK, Capuzzo JM (1990) Predation on protozoa. its
+sumption by copepods. Mar Ecol Prog Ser 155:89-101 ~mportanceto zooplankton J Plankton Res 12 891-908
+Pierce RW, Turner JT (1992) Ecology of planktonlc ciliates in Stoecker DK, Egloff DA (1987) Predation by Acartia tonsa
+marine food webs. Rev Aquat Scl 6:139-181 Dana on planktonlc clliates and rotifers. J Exp Mar B101
+Porter KG, Feig YS (1980) The use of DAPI for identifying Ecol 110 53-68
+and counting aquatlc mlcroflora Limnol Oceanogr 25. Stoecker DK, Davis LH, Provan A (1983) Growth of Favella sp.
+943-948 (Ciliata. Tintinnlna) and other microzooplankters in cages
+Putt M (1990) Abundance, chlorophyll content and photosyn- incubated m situ and cornpanson to growth in mtro. Mar
+thetic rates of ciliates in the Nordlc Seas during summer. Biol 75.293-302
+Deep-Sea Res 3?:1713-1731 Stoecker DK, Taniguchi A, Michaels AE (1989) Abundance of
+Rlemann B, Ssrensen HM, Bjsrnsen PK, Horsted SJ, Jensen autotrophic, mixotrophlc and heterotrophic planktonlc cll-
+LM, Nlelsen TG, Ssndergaard M (1990) Carbon budgets iates in shelf and slope waters. Mar Ecol Prog Ser 50:
+of the microbial food web in estuarine enclosures. Mar 241-254
+Ecol Prog Ser 65:159-170 Taniguchi A (1984) Microzooplankton biomass In the Arctlc
+Sherr BF, Sherr EB, Pedros-ALio C (1989) Simultaneous mea- and Subarctic Pacific Ocean in summer. Memoirs of the
+surement of bactenoplankton produmon and protozoan bac- National Institute of Polar Research, Special Issue No. 32.
+terivory in estuanne water. Mar Ecol Prog Ser 54:209-219 Proc Sixth Symp Polar Biol, p 63-76
+Sherr EB, Sherr BF (1994) Bacterivory and herbivory: key Thomsen HA (ed) (1992) Plankton i de indre danske farvande.
+roles of phagotrophic protists in pelagic food webs. Miljsstyrelsen
+Microb Ecol 28:223-235 Verity PG (1986) Growth rates of natural tintinnid populations
+Sherr EB, Sherr BF, Fallon RD, Newel1 SY (1986) Small alori- in Narragansett Bay Mar Ecol Prog Ser 29:117126
+cate cihates as a major component of the marine hetero- Verity PG, Vernet M (1992) Mlcrozooplankton grazing, pig-
+trophic nanoplankton. Llmnol Oceanogr 31:177-183 ments, and composition of plankton communities dunng
+Sherr EB, Rassoulzadegan F, Sherr BF (1989) Bacterivory by late spring in two Norwegian fjords Sarsia 77:263-274
+pelagic choreotrichous ciliates in coastal waters of the NW Verity PG, Stoecker DK, Sieracki ME, Burkill PH, Edwards
+Mediterranean Sea. Mar Ecol Prog Ser 55:235-240 ES, Tronzo CR (1993) Abundance, biomass and distribu-
+Sime-Ngando T, Gosselln M, Junlper K, Levasseur M (1997). tion of heterotrophic dinoflagellates during the North
+Changes in sea-lce phagotrophic microprotists (20-200 Atlantic spring bloom. Deep-Sea Res I1 40:227-244
+pm) during the spnng algal bloom, Canadian Arctic Arch- Verity PG, Paffenhofer GA (1996) On assessment of prey
+ipelago. J Mar Syst 11 :163-172 Ingestion by copepods. J Plankton Res 18.1767-1779
+Editorial responsibility: John Dolan, Submitted: October 30, 1997; Accepted. July 17, 1998
+V~llefranche-sur-Mer,F rance Proofs received from aufhor(s): February 22, 1999
+

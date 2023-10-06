@@ -1,0 +1,598 @@
+Deep-SeaResearchI49(2002)1217–1232
+Microzooplankton diversity: relationships of tintinnid ciliates
+with resources, competitors and predators from the Atlantic
+Coast of Morocco to the Eastern Mediterranean
+J.R. Dolana,*, H. Claustrea, F. Carlottib, S. Plounevezb, T. Moutinc
+aLOV-CNRSUMR7093,StationZoologique,B.P.28,F-06230Villefranche-Sur-Mer,France
+bLOB-CNRSUMR5805,StationMarined’Archacon,Univ.Bordeaux1,2,rueduProfessorJolyet,F-33120Arcachon,France
+cCOM,Case901,CampusdeLuminy,F-13288Marseille,France
+Received19December2001;receivedinrevisedform15March2002;accepted18March2002
+Abstract
+We examined tintinnid (loricate ciliate microzooplankton) diversity using data from 11 stations between the
+Moroccan upwelling system and the oligotrophic Eastern Mediterranean. Taxonomic and morphological diversity of
+tintinnidswascomparedtophytoplanktondistributionandsize-structure,totheabundanceofcompetitorsintheform
+ofoligotrichciliates,andpredatorsascopepods.Tintinnidtaxonomicdiversitywasestimatedasnumbersofspeciesand
+the Shannon Index, H0; morphological diversity was quantified by substituting size classes of lorica dimensions for
+species.Totalchlorophyllwaspartitionedintomicro-,nano-andpico-fractionsusingpigmentdataandasize-diversity
+was estimated by considering the 3 size classes as 3 species. Along a west-to-east gradient, average water column
+concentrations of most organism groups declined approximately an order of magnitude yielding tight correlations.
+However,tintinniddiversity,bothtaxonomicandmorphological,increasedfromtheAtlanticupwellingstationintothe
+westernbasinoftheMediterranean,anddeclinedslightlytowardstheEasternMediterranean,parallelingshiftsinthe
+chlorophyllsize-diversityestimate.Diversityvariedwithabsoluteorrelativeabundanceofoligotrichorcopepods,but
+different diversity metrics were significantly correlated only with phytoplankton size-diversity. We conclude that
+tintinniddiversitymorecloselyreflectsresourcediversitythancompetitiveinteractionsorpredation.r2002Elsevier
+Science Ltd. Allrightsreserved.
+Keywords: Speciesdiversity;Plankton;Protists;Phytoplankton
+1. Introduction
+In recent years, significant advances have been
+madeinexplainingthe‘‘paradoxoftheplankton’’
+(Hutchinson,1961)withregardtophytoplankton.
+*Corresponding author. Centre National de la Recherche The distinct requirements and affinities for nu-
+Scientifique (CNRS), Marine Microbial Ecology, CNRS ESA
+trients and light which have been known for some
+7076, Station Zoologique, B.P. 28, F-06230 Villefranche-Sur-
+time to characterize different high-level taxa,
+Mer,France.Fax:+33-4-93-76-38-34.
+E-mailaddress:dolan@obs-vlfr.fr(J.R.Dolan). such as a genera of diatoms or dinoflagellates
+0967-0637/02/$-seefrontmatterr2002ElsevierScienceLtd.Allrightsreserved.
+PII:S0967-0637(02)00021-3
+
+1218 J.R.Dolanetal./Deep-SeaResearchI49(2002)1217–1232
+(Margalef, 1978), are now known to characterize and taxonomic diversity. Tintinnid diversity was
+different strains of apparent single species such as examinedrelativetothedistributionandcomposi-
+Prochlorococcus (e.g., West and Scanlan, 1999). tion of their food resource, phytoplankton, as
+Thus, phytoplankton display a multitude of well as the abundance of presumed predators,
+individualnichecharacteristics.Spatialortempor- copepods, and presumed competitors, oligotrich
+al heterogeneity in the water column (Flo.der and ciliates.
+Sommer, 1999) and the chaotic nature of multi- There are distinct advantages to examining
+species competitions (Huisman and Weissing, diversity trends among tintinnid ciliates compared
+1999) appear sufficient to explain, if not predict, to other groups of microzooplankters. While
+diversity. Interestingly, with regard to micro- numerically a minority component they are none-
+zooplankton, our knowledge is rudimentary theless much more abundant than foraminifera or
+concerning niche characteristics while indirect radiolarians(Thompsonetal.,1999)andthereisa
+relationships, quite strong statistically, have been wealth of data on their ecology (Dolan, 2000).
+established with diversity and environmental Like foraminifera and radiolarians, species identi-
+parameters. ficationscanbemadeusingcharacteristicsofgross
+Thebestknownisthetightrelationshipbetween morphology, with some caveats (for a discussion
+annual average sea surface temperature and see Cariou et al., 1999; Dolan, 2000; Dolan and
+species richness of planktonic foraminifera, on Gallegos, 2001). Furthermore, tintinnids are a
+both regional (Williams and Johnson, 1975) and monophyletic group, constituting a single order
+global scales (Rutherford et al.,1999). Annual sea even among competing ciliate classification
+surface temperature has been identified asa proxy schemes (e.g., Petz and Foissner, 1992; Lynn and
+measure of the depth of the surface layer, which Small, 1997), in contrast to other groups of
+probably reflects the number of niches available planktonic ciliates, for example, ‘‘oligotrichs’’.
+with depth within the surface layer (Rutherford Thus tintinnids are a group united ecologically as
+et al., 1999). Similarly, the diversity of tintinnid microzooplankters, morphologically as loricate
+ciliates in the surface layer (top 100m) of the ciliates, and phylogenetically as members of the
+Mediterranean Sea was correlated to the depth of order Tintinnida.
+the chlorophyll maximum (Dolan, 2000). The underlying hypotheses of our study were
+The Mediterranean relationship was based on firstly that tintinnid diversity was related to
+datafrom2cruisesinlatespringyieldingasuiteof phytoplankton diversity, distribution or produc-
+stations between Spain and Cyprus. Both taxo- tion. Although the mechanism is unclear, over
+nomicmeasures,species-richnessandH0;aswellas large spatial scales diversity in the plankton
+a rough measure of morphological diversity, appears inversely related to production (e.g.,
+standard deviations of lorica dimensions, in- Huston, 1994). More directly, diversity among
+creased with the depth of the chlorophyll max- primary producers may generate consumer diver-
+imum. However, the data set did not allow sity (e.g., Lasserre, 1994). Alternatively, or in
+examination of other likely correlates or direct addition, resource (in this case phytoplankton)
+influences such as abundance of tintinnid con- patchiness, for example in a turbulent environ-
+sumers, copepods, or the community composition ment, may inhibit single species dominance. We
+of the phytoplankton. employed taxonomic pigment markers to estimate
+Here, we exploit a more complete data set and size-class diversity of phytoplankton. Chlorophyll
+one covering a wider range of water column distributionwasexaminedintermsofthedepthof
+conditions,from11stationssampledinSeptember the chlorophyll maximum and phytoplankton
+1999andbetweentheproductiveupwellingsystem patchiness as discrete depth deviations from the
+of the Atlantic coast of Morocco and the average water column concentrations. Secondly,
+oligotrophic Eastern Mediterranean Sea. We tintinniddiversitymayberestrictedbecauseofthe
+evaluated several possible direct influences on occupation of niches by oligotrich ciliates, which,
+tintinniddiversity,intermsofbothmorphological like tintinnids, feed largely on nanoplankton-size
+
+J.R.Dolanetal./Deep-SeaResearchI49(2002)1217–1232 1219
+prey(KiviandSeta.la.,1995;Rassoulzadeganetal., and Marrase! (1995). Briefly, samples were pre-
+1988). We examined trends with regard to the concentrated in 500ml graduated cylinders, and
+absolute abundance of oligotrichs and ratios of concentrates settled in standard sedimentation
+oligotrich to tintinnid abundance. Lastly, correla- chambers. Concentrates equivalent to 333ml of
+tions with copepod concentrations were examined whole water were examined with an inverted
+as copepods, perhaps by feeding on the most microscope at 200(cid:2). Tintinnids were identified
+abundant tintinnids (e.g., Dolan and Gallegos, using lorica morphology and the species descrip-
+2001), or more intensely on medium-sized com- tions found in Campbell (1942), Jo.rgensen (1924)
+paredtolargeorsmallforms(Cariouetal.,1999), and Kofoid and Campbell (1929, 1939) and
+increase diversity by reducing dominance, akin to Marshall (1969).
+a ‘‘killing the winner’’ (Thingstad, 1998). These Estimatesofbothtaxonomicandmorphological
+hypothetical relationships were examined in an diversity were based on data pooled from
+attempt to determine factors directly related to all samples, equivalent to a total volume of about
+microzooplankton diversity. 2–3l of water, from each station. While this
+procedure obscures depth-related shifts in com-
+munity composition, found thus far to be insig-
+2. Methods nificant (Cariou et al., 1999; Dolan, 2000; Dolan
+and Gallegos, 2001), it maximizes sample popula-
+Betweenthe10thand30thofSeptember1999of tion size. We have found that examining volumes
+thePROSOPEcruise,sampleswereobtainedfrom of 1–2l allows reliable distinction between tintin-
+11 of the 12 stations located along a cruise track nid populations from a variety environments
+from the Moroccan Atlantic coast to the Eastern (Dolan, 2000; Dolan and Gallegos, 2001). Metrics
+MediterraneanandbacktotheFrenchMediterra- of taxonomic diversity were the Shannon index
+nean coast (Fig.1 and Table 1). Samples for (ln-based, e.g., Magurran, 1988), and species
+ciliates and chlorophyll determinations were ob- richness or number of species.
+tained witha CTD-Niskin bottlerosette using 12l Estimates of the morphological diversity of
+Niskin bottles. Between the surface and 100m tintinnids were made with the formulae used for
+depth 6–10 depths were sampled. calculating the Shannon index H0 employing size-
+For ciliate enumeration, 500ml samples of classes of lorica oral diameters and lorica lengths
+whole water were preserved with Lugol’s (2% in the place of species. Subjective judgement
+finalconc.)andstoredrefrigeratedandindarkness concerning the number of possible size classes
+except during transport and settling. The whole was avoided by allowing the number of possible
+water samples were concentrated via settling and classestoequalthenumberofspeciesfound.Thus,
+examinedfollowingtheprotocoldetailedinDolan for the population of each station, the total range
+found of lorica diameters or lengths was divided
+intoanumberofequalsizeclasseswithnumberof
+sizeclassessetasequaltothenumberofspeciesin
+the population found at that particular station.
+Morphological diversity was then potentially as
+great as taxonomic diversity but in practice, most
+size-classes were empty categories. Diversity of
+size-classes was employed rather than standard
+deviations of lorica dimensions to facilitate com-
+parisons and avoid biases from the relationship
+between increases in standard deviations and
+means.
+Ciliatesotherthantintinnidswereplacedinsize-
+Fig.1. Cruise track of the PROSOPE cruise in September
+1999.StationlocationsgiveninTable1. shape and, where possible, trophic categories. For
+
+1220 J.R.Dolanetal./Deep-SeaResearchI49(2002)1217–1232
+Table1
+Stationlocations,characteristicsandsamplingdates
+Station Latitude Longitude Date 1Cat0m sigma-t:0m-100m
+UPW 301590N 101030W 10/09/99 27.4 26.2-26.8
+1 361050N 051120W 14/09/99 28.5 25.6-27.8
+2 361240N 001510W 15/09/99 28.7 24.9-28.3
+3 371590N 031500E 16/09/99 28.5 24.5-28.2
+4 371590N 081320E 17/09/99 28.4 25.4-28.5
+5 361280N 131190E 18/09/99 28.4 25.8-28.8
+6 351040N 18.180E 19/09/99 28.0 25.4-29.0
+7 371240N 151370E 26/09/99 29.0 25.6-29.0
+9 411540N 101260E 28/09/99 24.5 26.1-28.6
+DYF 431240N 071490E 30/09/99 29.3 26.7-28.9
+example, the mixotrophic (Gustafson et al., 2000) (2–20mm) are diagnosed using 190 hexanoyl-
+ciliate Mesodinium rubrum, which was rare, was oxyfucoxanthin, 190 butanolyoxyfucoxanthin, and
+pooled with taxa of large morphologically distinct alloxanthin. Diatoms and dinoflagellates, taken as
+mixotrophic ciliates (Tontonia, Laboea). All re- micro-sized (>20mm), are estimated using fuco-
+mainingciliateswereconsideredheterotrophic.As xanthin and peridinin. The proportion of pico- or
+the use of Lugol’s fixative precluded identification nano-ormicro-attributedpigments,relativetothe
+of mixotrophic ciliates without distinctive gross sumofall7accessorypigmentsisusedtoestimate
+morphologies (i.e., certain Strombidium species), the fraction of total chlorophyll as occurring in
+the heterotrophic group likely contained some pico-, nano- or micro-sized phytoplankton taxa.
+mixotrophs. 3 major size-categories were used Trapezoidal integration was employed to calcu-
+(o25mm, 25–40mm, >40mm) as the overwhel- late average concentrations of total chlorophyll a
+mingly commonest sizes found. The smallest and chlorophyll in pico-, nano- and micro-size
+oligotrichs were Strobilidium species of 15–20mm taxa. Based on average water column concentra-
+in length; the next commonest forms were tions (0–100m), an estimate of chlorophyll diver-
+Strombidium species 30–45mm in length. Larger sity,cell-sizediversity,wasmadebycalculatingthe
+oligotrichswereaheterogenousmixture ofStrom- Shannon index, H0 (ln-based) considering pico-,
+bidiumandStrombidinopsis-likecellsrangingfrom nano- and micro-chlorophyll as 3 species. Two
+50 to 100mm in length. Here only pooled cell total chlorophyll a distributional parameters were
+concentrations are reported as separate trophic or also employed, the depth of the chlorophyll
+sizegroupsshowedveryfewdistinctrelationships. maximumandchlorophylldispersion.Chlorophyll
+For chlorophyll and other pigment determina- dispersion was calculated as the average discrete
+tions, 2l aliquots were filtered through GF/F depth deviation, in terms of a percentage, from
+filters, pigments extracted in methanol and sam- the overall water column average. Thus, a low
+plesprocessedbyHPLCasdetailedinVidussietal. value indicates homogenous chlorophyll concen-
+(1996). Pigment data was translated into data on trations and a high value represents patchy
+the taxonomic and size composition of the distribution. Calculation of phytoplankton para-
+chlorophyllcropfollowingtheproceduresdetailed meters using data only from depths where ciliates
+and justified in Vidussi et al. (2000, 2001). Briefly, were sampled or all depths sampled yielded very
+7 diagnostic pigments are used to estimate the slight differences.
+portion of total chlorophyll attributable pico-, Primary production was estimated by the 14C
+nano-andmicro-sizedphytoplankton.Zeaxanthin technique (e.g., Moutin et al., 1999). Single light-
+and chlorophyll b are used as markers of level, short-term incubations were employed. At
+pico-sized (o2mm) autotrophs. Nanoflagellates each station, beginning at 12:00, samples from
+
+J.R.Dolanetal./Deep-SeaResearchI49(2002)1217–1232 1221
+10m depth were incubated for 1h on deck under phyll patchiness or dispersion higher in the east
+44% incident illumination, roughly equivalent to thanthewest.Attheupwellingsite,discretedepth
+light conditions at 10m depth. concentrations deviated from the water column
+Copepod concentrations were estimated from 0 average of the station by 110% compared to
+to 200m vertical WP2 standard net tows (mesh 70–80% in the Eastern Mediterranean.
+size 200mm). Net tow material was preserved with Phytoplankton community composition, based
+borax-bufferedformaldehyde(4%)forsubsequent ondiagnosticpigments,shiftedpredictablyfroma
+taxonomic analysis using a stereomicroscope. micro-sizeddominatedcommunityofdiatomsand
+Zooplankton samples were subsampled by the dinoflagellatesattheupwellingsitetonearlyequal
+surface method: zooplankton were poured into a proportions of nanoflagellates and autotrophic
+flat-bottomed receptacle of known surface area. bacteriaintheEasternMediterranean.Incontrast
+After homogenization of the sample, three sub- to other phytoplankton parameters, chlorophyll
+samples were picked out and each was decanted cell-size diversity, estimated by treating the calcu-
+into a Dolfuss bowl. Specimens were sorted into lated micro-, nano- and pico-chlorophyll concen-
+different taxa and identified to species level for trations as different species, shifted irregularly
+adult copepods, and genus level for copepodites. from west-to-east. While minimal for the upwel-
+The number and relative abundance of the ling station, dominated by micro-sized taxa,
+different taxa were calculated per cubic meter. maxima were estimated for the Western Mediter-
+Hereonlytotalconcentrationsofallpost-naupliar ranean with estimated values showing declines
+forms are reported and considered. Detailed towards the east.
+information on size and taxonomic composition
+willappearelsewhere.AtStationsDYFandMIO, 3.2. Zooplankton distributions
+net tows were repeated at 24 or 48h intervals and
+average values were employed. For all the populations examined, concentra-
+Statistical relationships were examined using tions differed by about an order of magnitude
+organism average water column concentrations, between west and east (Fig.3). Tintinnid concen-
+phytoplanktondistributionparameters,anddiver- trations declined from about 100l(cid:3)1 to around
+sity metrics of tintinnids and phytoplankton 20l(cid:3)1; copepod abundance sampled over the top
+employing the non-parametric Spearman rank 200m, ranged from approximately 0.6l(cid:3)1 in the
+correlation analysis. Western Mediterranean(cid:3)0.2l(cid:3)1 at the eastern
+stations. Oligotrich concentrations of about
+3000l(cid:3)1 declined to about 500l(cid:3)1 at the Eastern
+3. Results Mediterranean stations. Thus overall, concentra-
+tions of tintinnids, oligotrichs and copepods all
+3.1. Phytoplankton characteristics declined from west-to-east, paralleling declines in
+primary production, chlorophyll concentrations,
+From the Atlantic upwelling site to the Eastern and chlorophyll dispersion and increases in
+Mediterranean, primary production estimates the depth of the chlorophyll maximum layer. The
+(10m depth) declined from about 200 to o2mg distributional trends were reflected in positive
+Cl(cid:3)1d(cid:3)1 (Fig.2). Average integrated (0–100m) correlations with chlorophyll concentrations and
+chlorophyll concentrations declined from 1.4 to dispersionaswellasnegativecorrelationswiththe
+0.1mgl(cid:3)1. Corresponding with these differences depthofthechlorophyllmaximumlayer(Table2).
+was an increase in the depth of the chlorophyll
+maximumlayerfromnearsurfaceattheupwelling 3.3. Tintinnid community characteristics
+site to about 100m in the easternmost station.
+Chlorophyll dispersion, the average discrete depth The upwelling assemblage was dominated by
+deviation of chlorophyll from the water column openwaterformsbutincludedtintinnidsgenerally
+average, showed an opposite trend with chloro- found in coastal waters such as Tintinnopsis
+
+1222 J.R.Dolanetal./Deep-SeaResearchI49(2002)1217–1232
+Fig.2. CharacteristicsofthephytoplanktoncommunitysampledbetweentheAtlanticcoastofMorocco(plottedas(cid:3)101East)and
+Cretein the Eastern MediterraneanSea: averagechlorophyll a concentration overthe top 100m and surfacelayer(10m) primary
+production,depthofthechlorophyllmaximumlayerandchlorophylldispersionasaveragediscretedepthdifferencefromthewater
+columnaverageofchlorophyllconcentration,calculatedconcentrationsofchlorophyllinmicro-,nano-andpico-sizedtaxabasedon
+accessorypigmentdata,chlorophyllcell-sizediversityestimatedasln-basedH0 Shannonindexvaluescalculatedusingmicro-,nano-
+andpico-chlorophyllas3species.
+
+J.R.Dolanetal./Deep-SeaResearchI49(2002)1217–1232 1223
+Fig.3. Characteristics of the zooplankton communitysampledbetweenthe Atlanticcoastof Morocco(plottedas (cid:3)101East) and
+CreteintheEasternMediterraneanSea:averagewatercolumnconcentrationsoftintinnidciliates,oligotrichciliates(0–100m),and
+copepods(0–200m).Tintinnid,oligotrich,andcopepodconcentrationsdeclinedfromwest-to-eastasdidchlorophylla.
+species. The dominant species (Fig.4) were the indices of morphological diversity, H0 values
+Salpingella decurta and Metacylis mereschkowskii, for lorica diameters and length, were also low.
+which together formed over 50% of the tintinnid From the upwelling site into the Western Medi-
+community. Overall community averages for terranean,thedominantspeciesremainedSalpingel-
+lorica dimensions were the highest of all the la species. However, smaller species of the genus
+stations, due in part to the presence of the large werecommon.ThecommonestspecieswereS.curta
+speciesFavellaserrata.Diversitywasthelowestof representing 20% of tintinnid numbers, and
+all station estimates, with only 16 species found S. Faurie, S. minuta and S. decurtata, each
+and an H0 value estimate of 2.1 (Fig.5). Corre- representing about 10% of the tintinnid population
+sponding with estimates of taxonomic diversity, (Fig.4). In addition to evenness, reflected by higher
+
+1224 J.R.Dolanetal./Deep-SeaResearchI49(2002)1217–1232
+Table2
+Spearmanrankcorrelationrelationships(Rhovalues)amongaveragewatercolumnconcentrationsofzooplanktonpopulationsand
+phytoplanktonparameters
+SChl mChl nChl pChl CMD Disp Primprod
+Tintinnids 0.518 0.618* 0.393 (cid:3)0.055 (cid:3)0.691* 591 0.539
+Oligotrichs 0.891** 0.855** 0.834** (cid:3)0.082 (cid:3)0.791** 0.873** 0.600
+Copepods 0.405 0.286 0.125 0.024 0.095 (cid:3)0.024 (cid:3)0.163
+Tintinnids and oligotrichs showed similar relationships with phytoplankton parameters. Average water column (approx. 0–100m)
+integratedvaluesof:totalchlorophyll(SChl),chlorophyllattributabletomicro-sizedcells(mChl),nano-sizecells(nChl),pico-sizecells
+(pChl),oligotrichsandtintinnids.Copepodconcentrationestimateswerebasedonmaterialcollectedfrom0to200m.‘‘CMD’’denotes
+thedepthofthemaximumconcentrationofchlorophylland‘‘Disp’’denoteschlorophylldispersion,estimatedforeachstationasthe
+average deviation of discrete depth measures of chlorophyll from the overall water column average concentration of chlorophyll.
+Primaryproduction(primprod)incubationsemployed44%incidentsurfaceilluminationForallpairs,n¼11exceptcomparisons
+withcopepodsinwhichn¼8andprimaryproductionwithn¼10:Asterisksdenoteprobabilitylevelsof0.05,0.01.
+Fig.4. Examplesofdominant(50%ofcell numbers) tintinnidspecies.Theupwellingstationcommunitywascomposedmainlyof
+Salpingelladecurtata(A)andMetacylismereschkowskii(B).PeakdiversitywasrecordedforStation2amongthe4commonestspecies
+S.curta(D)represented20%ofcellnumbersandS.decurtata,S.minuta(C),andS.faurei(E)eachrepresentedabout10%ofthe
+tintinnid community. The DYF community station was composed mainly of the species S. decurtata (19%) with Acanthostemella
+conicoides(G)andA.lata(F)forming17%and12%ofcellnumbers.Inthefareasternstation,MIO,thecommunitywasdominated
+byDadayiellaganymedes(H),Undellaclevei(I),andS.faurie(E).
+
+J.R.Dolanetal./Deep-SeaResearchI49(2002)1217–1232 1225
+Fig.5. CharacteristicsofthetintinnidcommunitysampledbetweentheAtlanticcoastofMorocco(plottedas(cid:3)101East)andCretein
+theEasternMediterraneanSea:tintinnidcommunityaveragesofloricaoraldiameterandloricalength,(7SD),taxonomicdiversityas
+speciesrichness,Shannonindexvalues(ln-based)andmorphologicaldiversityasH0 values.
+H0 values, species richness was markedly higher as identityofthedominantspeciesandgenusdiffered
+well. Increases in the estimates of morphological in each eastern station. At stations 5, 6, and MIO
+diversity accompanied the increases in estimates of the commonest species were, respectively, Crater-
+taxonomic diversity. Peak values of all the diversity ella tortulata, Acanthostomella conicoides and
+estimates occurred in the Western Mediterranean. Dadayiella ganymedes (Fig.4). The tintinnid com-
+FromthewesterntotheEasternMediterranean munity of the Tyrheninean Sea (Station 9),
+changes in the species pool were noted. However, dominated by Salpingella decurtata and S. faurie,
+Salpingella species remained common but the resembled that of the western basin stations.
+
+1226 J.R.Dolanetal./Deep-SeaResearchI49(2002)1217–1232
+Overall, 73 species, representing a surprising 4. Discussion
+variety of lorica architectures (Fig.6) were en-
+countered in examining about 1000 individuals Bothphytoplanktonandmetazoanzooplankton
+found in material from a total of roughly 22l of diversity appear inversely related to primary
+water. The general pattern was that species production in the world ocean (e.g., Huston,
+richness and H0 estimates of taxonomic and 1994). The pattern has been explained in terms
+morphologicaldiversityalldeclinedfromthepeak oftherelationshipbetweenwatercolumnstructure
+values recorded for the Western Mediterranean. and primary production. High diversity is asso-
+Althoughthedifferentmeasuresoftaxonomicand ciated with stable water column structure of
+morphological diversity showed similar spatial markedchemicalandphysicalgradients,providing
+trends,among the different measures, only species a structured environment but with low input of
+richness and species H0 were correlated with one nutrients for phytoplankton production (Angel,
+another (Table 2) suggesting that species diversity 1993).However,withinastructuredwatercolumn,
+and morphological diversity were independent the identity of the main mechanism maintaining
+parameters (Table 3). metazoan zooplankton diversity, be it resource
+partitioning, predation or ‘‘contemporaneous dis-
+equilibrium’’, remains obscure (McGowan and
+3.4. Relationships with Tintinnid diversity Walker, 1979; Longhurst, 1985).
+Themechanismsmaintainingmicrozooplankton
+Tintinnid diversity as species richness, diversity diversity are no less obscure. The thickness of the
+of lorica diameters and diversity of lorica lengths surface mixed layer has been related to species
+was significantly correlated only with phytoplank- richness of foraminifera in the world ocean
+ton cell-size diversity (Table 4 and Fig.7). Other (Rutherford et al., 1999). North–south trends in
+phytoplankton parameters (primary production, tintinnid diversity found in the southern Atlantic
+chlorophyll concentration, depth of the maximum havebeenattributedtowatercolumnstratification
+layer, dispersion) produced non-significant, and (Thompson et al., 1999) and the depth of the
+inconsistent (both positive and negative) relation- chlorophyll maximum correlated with tintinnid
+ships with measures of the taxonomic and diversity in the Mediterranean Sea (Dolan, 2000).
+morphological diversity of tintinnids. Likewise, Theseareallindirectrelationships,thatis,without
+oligotrich abundance, both absolute and relative a direct link to the maintenance of diversity. Here
+to tintinnid concentrations was neither signifi- we made an attempt to identify a dominant
+cantly nor consistently related to tintinnid diver- mechanism acting within the water column.
+sity estimates. Interestingly, although copepod The magnitude of taxonomic and morphologi-
+concentrations were not related significantly to cal diversity we encountered in late summer was
+any tintinnid diversity metrics, all the correlations very similar to that found before based on early
+were positive. Complete reanalysis of the data summer sampling (Dolan, 2000). The species
+excluding the upwelling station, as a possible found were largely the same and average station
+outlier, gave largely identical results. values of H0 and numbers of species (averages of
+Fig.6. ExamplesoftintinnidloricaarchitectureamongspeciesfoundintheMediterraneanSea.Therewasacommonloricastructure
+todominantspecies.Specieswithahoneycombloricastructure,whetherlargesuchasXystonellatreforti(A),Xystonellopsisparadoxa
+(B) and Climacocylis sipho (E), or small like Poroecous curta (F) or Climacocylis scalaroides (D) were overall very rare. Likewise,
+species characterized by loricas with windows such as Dictyocysta elegans (H) or with a coarse structure such as Codonellopsis
+orthoceras(C)orCodonellanationalis(J)whilecommondidnotdominatethetintinnidcommunity.Theoverwhelmingmajorityofthe
+tintinnidcommunitywascomposedofspecieswithnearlytransparenthyalineloricasuchasseeninthedominantspeciesshownin
+Fig.4andinCraterellatortulata(I),Paraundellaaculeata(K),Dadayiellapachytoecus(M)Amphorellopsistetragonaoranunidentified
+Salpingellaspecieswithaprismaticlorica(N).
+
+J.R.Dolanetal./Deep-SeaResearchI49(2002)1217–1232 1227
+
+1228 J.R.Dolanetal./Deep-SeaResearchI49(2002)1217–1232
+Table3
+Spearmanrankcorrelationrelationships(Rhovalues)amongmetricsoftaxonomicandmorphologicaldiversityoftintinnids
+Taxonomic Morphometric
+H0 No.ofspecies LODH0 LLH0
+H0 — 0.875* 0.445 0.464
+No.ofspecies — — 0.484 0.416
+LODH0 — — — 0.591
+LLH0 — — — —
+Althoughmeasuresoftaxonomicdiversityvs.morphologicaldiversitylargelyco-varypositively,theyarenottightlyrelated.Foreach
+station,estimatesoftaxonomicandmorphologicaldiversitywerebasedonapooledsampleconsistingofallindividualsencounteredin
+allsamplesfromthestation.TaxonomicmetricsweretheShannonindex,ln-based(H0)andnumbersofspecies.Morphologicalmetrics
+wereShannonindexesofthediversityofloricaoraldiameters(LOD-H0)andloricalengths(LL-H0)wascalculatedbysubstitutingsize-
+classesforspecies(seemethodsfordetails).Forallpairs,n¼11:
+*Denotethesinglesignificantrelationship(p¼0:01).
+Table4
+Spearmanrankcorrelationrelationships(Rhovalues)betweenparametersofplanktonicpopulationsandmetricsofthetaxonomicand
+morphologicaldiversityoftintinnids
+Taxonomic Morphometric
+No.ofspecies H0 LODH0 LLH0
+(Chla) 0.002 (cid:3)0.118 0.100 0.582
+ChlMaxZ (cid:3)0.216 0.027 (cid:3)0.373 (cid:3)0.382
+ChlDispers (cid:3)0.061 (cid:3)0.245 0.255 0.436
+ChlSizeH0 0.611* 0.455 0.755* 0.664*
+(Oligotrichs) (cid:3)0.002 (cid:3)0.191 0.082 0.545
+(Oligo)/(Tin) (cid:3)0.298 (cid:3)0.355 0.309 0.427
+(Copepod) 0.399 0.452 0.024 0.119
+Chlorophyllsize-diversityappearstobethemostcloselyrelatedparametertomeasuresofbothtaxonomicandmorphologicaldiversity
+oftintinnids.Foreachstation,estimatesoftaxonomicandmorphologicaldiversitywerebasedonapooledsampleconsistingofall
+individualsencounteredinallsamplesfromthestation.TaxonomicmetricsweretheShannonindex,ln-based(H0)andnumbersof
+species.MorphologicalmetricswereShannonindexesofthediversityofloricaoraldiameters(LOD-H0)andloricalengths(LL-H0)
+wascalculatedbysubstitutingsize-classesforspecies(seemethodsfordetails).Fortheplanktonicpopulations,averagewatercolumn
+(approx. 0–100m) integrated values were used: total chlorophyll (Chl a), total oligotrichs (Oligotrichs). Copepod concentration
+estimateswerebasedonmaterialcollectedfrom0–200m.Chlorophylldispersion(ChlDispers)estimatedastheaveragediscretedepth
+deviation (%) from the water column average, and a phytoplankton size diversity parameter (Size H0) reflecting the relative
+contributionsofmicro-,nano-andpico-sizecells.Forallpairs,n¼11exceptcomparisonswithcopepodsinwhichn¼8:
+*Denotetheprobabilitylevelof0.05.
+about 2.5 and 20 tintinnid species, respectively) Exploiting a more complete data set, we
+found before resemble closely the data presented searched for simple correlations between para-
+here (Fig.5). Morphological diversity, in the form meters corresponding with a direct diversity-
+of standard deviations of lorica lengths accom- maintaining or promoting mechanism. We
+paniedincreasesinH0 valueswiththedepthofthe recognized that only strong relationships would
+chlorophyll maximum. Predation pressure was bedetectableasdatawerefromasmallnumberof
+hypothesized as possibly explaining the trends, stations but covering large gradients. Our data
+but data permitting evaluation of possible preda- analysis leads to the conclusion that phytoplank-
+tion pressure or resource diversity were not ton diversity, in terms of cell sizes, is more closely
+available (Dolan, 2000). related to tintinnid diversity, both morphological
+
+J.R.Dolanetal./Deep-SeaResearchI49(2002)1217–1232 1229
+food diversity. Morphological diversity trends
+paralleled phytoplankton size-diversity trends
+(Figs.2 and 5). This finding implies that tintinnid
+morphology should be related to prey size. For
+tintinnids, prey size hasbeen commonlyrelatedto
+loricadimensions,inparticularoraldiameters,but
+the relationship has not been well quantified.
+For individual species, a general rule of max-
+imumpreysizeofabouthalftheoraldiameterwas
+formulated by Heinbokel (1978). Observations on
+the community level consist of data showing
+seasonal changes in overall community averages
+of oral diameters shifting with phytoplankton
+composition (Middlebrook et al., 1987; Verity,
+1987). Nonetheless, individual species generally
+appeartoingestawidespectrumofpreysizes;for
+Fig.7. Scatterplotofphytoplanktonsizediversityrepresented
+example, a large variety of Mediterranean tintin-
+by Shannon index values for communities composed of 3
+‘‘species’’,micro-,nano-andpico-chlorophyllagainsttintinnid nids examined in a field study contained the
+species diversity and diversity of tintinnid lorica diameters. autotrophic picoplankter Synechococcus (Bernard
+Bothrelationshipsaresignificant(Table4)andspeciesrichness and Rassoulzadegan, 1993). Given our results
+isnotdirectlyrelatedtoloricaoraldiameter(Table3).
+suggesting a strong relationship between morpho-
+logical diversity of tintinnids and phytoplankton
+size diversity, we wished to determine if a more
+and taxonomic, than the abundance of competi- precise relationship could be drawn between
+torsorpredatorsorthedistributionofchlorophyll tintinnid lorica diameters and prey ingested.
+in the water column. Clearly, we do not exclude Weexaminedresultsoftintinnidfeedingstudies
+the influence of resource distribution, competition in which a wide spectrum of prey were offered in
+or predation but merely found that resource the form of individual prey species or results of
+diversityappearsmoreimportantorismoreeasily studiesexaminingfeedingonanaturalspectrumof
+detected. possible food items. Data we recorded were prey
+The characterization of the phytoplankton size (equivalent spherical diameter) for which
+community based on accessory pigments, while filtrationratewasmaximalandthereportedlorica
+inferior to direct microscopic observation, has oral diameter. Absolute values of clearance rates
+certain advantages.Relative to microscopic exam- were not used as rates vary directly with prey
+inations, pigment analysis is rapid and inexpen- concentration which differed considerably among
+sive. It has been used to distinguish communities studies. Comparing different species, we found a
+of different oceanic regimes (Claustre, 1994; robust relationship showing the size of the prey
+Vidussietal.,2000),quantifyparticulartaxa,such most efficiently filtered to be about 25% of oral
+as those associated with DMSP (Belviso et al., diameter (Fig.8). Thus, it appears reasonable to
+2001) as well as define the size structure of characterize the lorica diameter of a tintinnid
+phytoplankton communities (Vidussi et al., 2001). species as a correlate of its preferred prey size. A
+Although diversity in the phytoplankton com- further complexity can be added in the form of
+munity may appear as a very obvious mechanism selectivefeedingamongpreyofthesameorsimilar
+generating diversity among grazers (e.g., Lasserre, size. Studies have argued both for and against the
+1994),to ourknowledge, it hasneverbeen shown. phenomena in a single species, Favella ehrenbergii
+Although a simple relation between the diversity (Stoecker et al., 1981; Hansen, 1995).
+of food and consumers is appealing, selective Selective feeding among algae of similar size
+feedingisrequiredforconsumerdiversitytoreflect may explain the co-occurrence of species with
+
+1230 J.R.Dolanetal./Deep-SeaResearchI49(2002)1217–1232
+Fig.8. The relationship between tintinnid lorica oral diameter and prey size yielding maximum filtration rate pooling reports on
+speciesin5tintinnidgenera.DatafromCapriulo(1982),KamiyamaandArima(2001),KiviandSeta.la.(1995),Rassoulzadegan(1978),
+RassoulzadeganandEtienne(1981).
+similar lorica diameters, if resource partitioning is of oligotrich filtration rates average about 2mlh(cid:3)1
+the unique mechanism maintaining diversity. For (KiviandSeta.la.,1995).Estimatesoffiltrationrates
+example, in the most diverse tintinnid community of open water copepods vary considerably with
+encountered, Station 2, the 4 species forming prey size, type and abundance (Caparroy et al.,
+50% of the community have very similar sized 1998).However,fromMauchline’sreview(1998),a
+lorica diameters ranging from about 15 to 20mm mean value of 5–10mlh(cid:3)1copepod(cid:3)1 appears
+(Fig.4). The four species would, according to the reasonable for mid-sized Mediterranean copepods
+lorica diameter relationship, prey most efficiently (i.e., Centropages). With average oligotrich con-
+on food within the narrow range of 3.8–5mm centrations of about 1000l(cid:3)1, and copepod con-
+diameter. centrations of 0.3l(cid:3)1 combined, they likely clear
+Nonetheless, we believe the dominant mechan- about 15% of the surface layer per day. Consider-
+ismexplainingtintinnidtaxonomicdiversityinour ing that the algal community appears, on average,
+data set is resource partitioning. Our data show a toreproduceonlyevery3–4daysthroughoutmost
+relationship between phytoplankton size distribu- of the Mediterranean in the summer (Dolan et al.,
+tion and tintinnid lorica size distribution also 1999), and adding in the grazing activity of
+reflected in taxonomic diversity. We can reject the heterotrophic flagellates and metazoan grazers
+possibility that food diversity could be the result other than copepods, it is likely that nearly all
+rather than a cause of a diverse tintinnid commu- phytoplanktonproductionisconsumedbygrazers,
+nity.Fortintinnids,withtypical clearancerates of except at the upwelling station.
+about 10mlh(cid:3)1tintinnid(cid:3)1 (see Kivi and Seta.la., Thus, the community composition of the
+1995) very high population abundances phytoplankton, which we identify as a major
+(>1000l(cid:3)1) would be required for their feeding mechanism influencing tintinnid diversity, is itself
+to significantly influence phytoplankton commu- likely influenced by the aggregate community of
+nity composition. However, we cannotextendthis grazers, an influence super-imposed on resource
+argument to the entire community of grazers. competition within the phytoplankton. It appears
+For example, from our estimates of oligotrich that while proximal influences on diversity for
+ciliate and copepod abundances and rough esti- an individual group may be unidentifiable,
+mates of probable filtration rates, the combined the ultimate explanation likely lies in the chaotic
+activity of these grazers could directly influence nature (Huisman and Weissing, 1999) of
+phytoplanktoncommunitycomposition.Estimates an ecosystem in which a multitude of rapidly
+
+J.R.Dolanetal./Deep-SeaResearchI49(2002)1217–1232 1231
+reproducing taxa, in each trophic level, compete Dolan,J.R.,2000.TintinnidciliatediversityintheMediterra-
+for a number of resources within a physically nean Sea: longitudinal patterns related to water column
+instable system. A major question that remains is structure in late spring-early summer. Aquatic Microbial
+Ecology22,20–30.
+one of quantification—why a peak of 25 (and not
+Dolan, J.R, Gallegos, C.L., 2001. Estuarine diversity of
+more or less) species of Foraminifera in the
+tintinnids (planktonic ciliates). Journal of Plankton Re-
+Atlantic (Rutherford et al., 1999) or tintinnids in search23,1009–1027.
+the Mediterranean (Fig.5)? Dolan,J.R.,Marrase!,C.,1995.Planktonicciliatedistribution
+relative to a deep chlorophyll maximum: Catalan sea,
+NW Mediterranean, June 1993. Deep-Sea Research 1 42,
+1965–1987.
+Acknowledgements
+Dolan,J.R.,Vidussi,F.,Claustre,H.,1999.Planktonicciliates
+in the Mediterranean Sea: longitudinal trends. Deep-Sea
+WeprofitedfromthehelpofJose!phineRasand
+ResearchI46,2025–2039.
+Jean-ClaudeMartyforthepigmentmeasures.The Flo.der, S., Sommer, U., 1999. Diversity in planktonic
+communities: an experimental test of the intermediate
+thoughtful comments on earlier versions of this
+disturbance hypothesis. Limnology and Oceanography 44,
+paper by Peter Verity and anonymous reviewers
+1114–1119.
+aregratefullyacknowledged.Financialsupportfor Gustafson,D.E.,Stoecker,D.K.,Johnson,M.D.,VanHeuke-
+theworkdescribedherewasprovidedbyINSUof lem,W.F.,Snieder,K.,2000.Cryptophytealgaarerobbed
+the CNRS and the shared cost research project oftheirorganellesbythemarineciliateMesodiniumrubrum.
+NTAP(contractno.EVK3-CT-2000-00022)ofthe Nature405,1049–1052.
+Hansen, P.J., 1995. Growth and grazing response of a ciliate
+EU RTD Programme ‘‘Environment and Sustain-
+feedingontheredtidedinoflagellateGyrodiniumaureolum
+ableDevelopment’’andformspartoftheELOISE
+in monoculture and in mixture with a non-toxic alga.
+projects cluster. It is ELOISE contribution no. MarineEcologyProgressSeries121,65–72.
+270/40. This research is a contribution of the Heinbokel, J.F., 1978. Studies on the functional role of
+PROOF program PROSOPE. tintinnids in the Southern California Bight. II. Grazing
+ratesoffieldpopulations.MarineBiology47,191–197.
+Huisman,J.,Weissing,J.F.,1999.Biodiversityofplanktonby
+speciesoscillationsandchaos.Nature402,407–410.
+References Huston, M.A., 1994. Biological Diversity, the Coexistence of
+Species on Changing Landscapes. Cambridge University
+Angel, M.V., 1993. Biodiversity of the Pelagic Ocean. Press,NewYork,681pp.
+ConservationBiology7,760–772. Hutchinson, G.E., 1961. The paradox of the plankton.
+Belviso,S.,Claustre,H.,Marty,J.C.,2001.Evaluationofthe AmericanNaturalist95,137–145.
+Jo.rgensen,E.,1924.MediterraneanTintinnidae.Reportofthe
+utility of chemotaxonomic pigments as a surrogate for
+DMSP.LimnologyandOceanography46,989–995. Danish Oceanographical Expeditions 1908–1910 to the
+Bernard,C.,Rassoulzadegan,F.,1993.Theroleofpicoplank- MediterraneanandAdjacentSeas.Vol.II.Biology,No.8,
+ton(cyanobacteriaandplastidicpicoflagellates)inthediet J.3(Thorexpedition),Copenhagen.
+oftintinnids.JournalofPlanktonResearch15,361–373. Kamiyama,T.,Arima,S.,2001.Feedingcharacteristicsoftwo
+Campbell,A.S.,1942.TheOceanictintinnoinaoftheplankton tintinnidciliatespeciesonphytoplanktonincludingharmful
+gathered during the last cruise of the Carnegie. Carnegie species:effectsofpreysizeoningestionratesandselectivity.
+Institution of Washington, Publication 537, Washington, JournalofExperimentalMarineBiologyandEcology257,
+DC. 281–296.
+Caparroy,P.,Perez,M.-T.,Carlotti,F.,1998.Feedingbehavior Lasserre, P., 1994. The role of biodiversity in marine
+of Centropages typicus in calm and turbulent conditions. ecosystems. In: Solbrig, O.T., van Emden, H.M., van
+MarineEcologyProgressSeries168,109–118. Oordt, P.G.W.J. (Eds.), Biodiversity and Global Change.
+Capriulo, G.M., 1982. Feeding of field collected tintinnid CABInternational,Oxon,UK,pp.107–132.
+microzooplankton on natural food. Marine Biology 71, Kivi,K.,Seta.la.,O.,1995.Simultaneousmeasurementoffood
+73–86. particle selection and clearance rates of planktonic oligo-
+Cariou,J.-B.,Dolan,J.R.,Dallot,S.,1999.Apreliminarystudy trich ciliates (Ciliophora: Oligotrichina). Marine Ecology
+oftintinniddiversityintheNWMediterraneanSea.Journal ProgressSeries119,125–137.
+ofPlanktonResearch21,1065–1075. Kofoid, C.A., Campbell, A.S., 1929. A conspectus of the
+Claustre, H., 1994. The trophic status of various oceanic marine and fresh-water ciliata belonging to the suborder
+provincesasrevealedbyphytoplanktonpigmentsignatures. tintinnoinea, with descriptions of new species principally
+LimnologyandOceanography39,1207–1211. from the Agassiz expedition to the eastern tropical Pacific
+
+1232 J.R.Dolanetal./Deep-SeaResearchI49(2002)1217–1232
+1904–1905.UniversityofCaliforniaPublicationsinZoology matterfromaMediterraneannereticarea.Limnologyand
+34,1–403. Oceanography26,258–270.
+Kofoid, C.A., Campbell, A.S., 1939. The tintinnoinea of the Rassoulzadegan, F., Laval-Peuto, M., Sheldon, R.W., 1988.
+eastern tropical Pacific. Bulletin of the Museum of Partioning of the food ration of marine ciliates between
+ComparativeZoo.logyatHarvardCollege84,1–473. pico-andnano-plankton.Hydrobiologia159,75–88.
+Longhurst,A.R.,1985.Relationshipbetweendiversityandthe Rutherford, S., D’Hondt, S., Prell, W., 1999. Environmental
+verticalstructureoftheupperocean.Deep-SeaResearch32, controls on the geographic distribution of zooplankton
+1535–1570. diversity.Nature400,749–752.
+Lynn, D.H., Small, E.B., 1997. A revised classification of the Stoecker, D., Guillard, R.R.L., Kavee, R.M., 1981. Selective
+phylumCiliophoraDoflein,1901.RevistadelaSociadadde predationbyFavellaehrenbergii(Tintinnia)onandamong
+laHistoriaNaturaledeMexico47,65–78. dinoflagellates.BiologicalBulletin160,136–145.
+Magurran, A.E., 1988. Ecological Diversity and its Measure- Thingstad, T.F., 1998. A theoretical approach to structuring
+ment.CroomHelm,London. mechanisms in the pelagic food web. Hydrobiologia 363,
+Margalef, R., 1978. Life forms of phytoplankton as survival 59–72.
+alternativesinanunstableenvironment.OceanologicaActa Thompson, G.A., Alde, V.A., Boltovskoy, D., Brandini, F.,
+1,493–509. 1999. Abundance and biogeography of tintinnids (Cilio-
+Marshall, S.M., 1969. Protozoa, order Tintinnia. Conseil phora) and associated microzooplankton in the south-
+International pour l’ Exploration de la Mer, Fiches westernAtlanticOcean. JournalofPlanktonResearch21,
+d’IndentificationdeZooplancton,fiches117–127. 1265–1298.
+Mauchline, J., 1998. The biology of calanoid copepods. Verity, P.G., 1987. Abundance, community composition, size
+AdvancesinMarineBiology33,1–710. distribution, and production rates of tintinnids in Narra-
+McGowan,J.A.,Walker,P.W.,1979.Structureinthecopepod gansett Bay, Rhode Island. Estuarine Coastal and Shelf
+community of the North Pacific Central grye. Ecological Science24,671–690.
+Monographs49,195–226. Vidussi, F., Claustre, H., Bustillo-Guzman, J., Cailliau, C.,
+Middlebrook, K., Emerson, C.W., Roff, J.C., Lynn, D.H., Marty,J.-C.,1996.RapidHPLCmethodfordetermination
+1987. Distribution and abundance of tintinnids in the of phytoplankton chemotaxonomic pigments: separation
+QuoddyregionoftheBayofFundy.CanadianJournalof of chlorophyll a from divinyl-chlorophyll a and
+Zoology65,594–601. zeaxanthin from lutein. Journal of Plankton Research 18,
+Moutin, T., Raimbault, P., Poggiale, J.-C., 1999. Primary 2377–2382.
+productioninsurfacewatersofthewesternMediterranean Vidussi, F., Marty, J.C., Chiave!rini, J., 2000. Phytoplankton
+Sea. Calculation of daily production. Comptes Rendus de pigmentvariationsduringthetransitionfromspringbloom
+l’Acade!miedesSciencesSeriesIII—SciencesdelaVie322, to oligotrophy in the Mediterranean Sea. Deep-Sea Re-
+651–659. search147,423–448.
+Petz,W.,Foissner,W.,1992.Morphologyandmorphogenesis Vidussi, F., Claustre, H., Manca, B.B., Luchetta, A., Marty,
+of Strobilidium caudatum (Fromentel), Meseres corlissi N. J.-C.,2001.Phytoplanktonpigmentdistributioninrelation
+Sp.,Halteriagraninella(Mu.ller),andStrombidiumrehwaldi to the upper thermocline circulation in the Eastern
+N. Sp., and a proposed phylogenetic system for oligotrich Mediterranean Sea during winter. Journal of Geophysical
+ciliates(Protozoa,Ciliophora).JournalofProtozoology39, Research106,19939–19956.
+159–176. West, N.J., Scanlan, D.J., 1999. Niche-partitioning of Pro-
+Rassoulzadegan,F., 1978.Dimensions et taux d’ingestiondes chlorococcuspopulationsinastratifiedwatercolumninthe
+particulesconsomme!esparuntintinnide:Favellaehrenbergii easternNorthAtlanticOcean.AppliedandEnvironmental
+(Clap.&Lachm.)Jo.rg.,cilie!pelagiquemarin.Annalesdel’ Microbiology65,2585–2591.
+InstitutOce!anographique(Paris)54,17–24. Williams, D.F., Johnson, C.F.II., 1975. Diversity of recent
+Rassoulzadegan, F., Etienne, M., 1981. Grazing rate of the planktonicforaminiferain thesouthernIndianOceanand
+tintinnid Stenosemella ventricosa (Clap. & Lachm.) Jo.rg. latePleistocenepaleotemperatures.QuaternaryResearch5,
+on the spectrum of the naturally occurring particulate 237–250.
+

@@ -1,0 +1,433 @@
+THE MARINE SAND-DWELLING CILIATES OF CAPE COD
+E. FAURE-FREMIET
+College de France, Paris, and Marine Biological Laboratory, Woods Hole, Mass.
+MARINE SANDS AND PSAMMOPHILOUS CILIATES
+It is well known that the marine sands between the tidemarks, or deeper along
+the seashore, constitute some quite peculiar and interesting biotopes. With regard
+to their fauna, one can distinguish the sand-boring animals of large or small size
+and, on the other hand, the very minute ones which live in the intergranular spaces
+of the sand and constitute an "interstitial" microfauna.
+This interstitial microfauna, or mesopsammon, includes, besides numerous
+copepods, nematodes, gastrotrichs, etc., many protozoa and most particularly nu-
+merous ciliates. Kahl (1933, 1935) has recorded more than 80 ciliate species,
+belonging to about 20 different families, from the sandy bottoms of Kiel and
+Helgoland.
+I found many of these infusorian species and some new ones in the sand of the
+tidal zone of different beaches in Brittany (Faure-Fremiet, 1950). This result ties
+up with some other dispersed data and agrees with a general statement of Calkins
+(1933) who emphasizes the cosmopolitan distribution of the marine littoral proto-
+zoan species. But, from an ecological point of view, it can be noted that the size of
+the intergranular spaces acts as a selective factor in the distribution of the inter-
+stitial ciliates. 1
+The intergranular spaces may be roughly estimated from the dimensions of the
+solid grains which bound them ; a comparison of the granulometric curves plotted
+for different kinds of sand with the associated interstitial fauna leads one to distin-
+guish in the fauna two different types of ciliates.
+If the mean size of the sand grains exceeds 0.4 mm., the interstitial ciliate fauna
+includes some characteristic sand-living species and some occasionally sand-dwelling
+infusorians which are much more numerous. The characteristic sand-living spe-
+cies are generally characterized by their small or medium size, their flattened
+shape, and their jerky motion, with alternately very fast swimming and sudden
+stopping when in contact with solid surfaces. The occasional sand-dwellers, quite
+varied in shape and size and usually widespread along the seashore, display a com-
+mon but more or less accentuated thigmotactic behavior. All these together con-
+stitute, in the medium and coarse sands, what I have called the mesoporal infusorian
+fauna (Faure-Fremiet, 1950).
+If the mean size of the sand grains falls between 0.1 and 0.3 mm., their inter-
+spaces shelter some very peculiar species of ciliates, generally thread-like or ribbon-
+like, often as long as one or two millimeters, always strongly thigmotactic. These
+1 In a previous paper (Faure-Fremiet, 1950) are discussed some of the physical and chemi-
+cal conditions which depend on the enormous development of the solid-liquid interfaces of the
+sand ; they probably play an important role in interstitial life of the sand-dwelling ciliates.
+59
+
+60 E. FAURE-FREMIET
+characteristic sand-dwelling species constitute what I have called the microporal
+infusorian fauna.
+It must be said, however, that some ciliates of the microporal type can live as
+well in the coarse as in the fine sand, and these species may he called euryporal.
+Finally, if the mean size of the sand grains is below 0.1 mm., or if a coarser sand
+is so muddy that the intergranular spaces are filled with very minute organic par-
+ticles, the porosity becomes incompatible with the interstitial life of any species of
+ciliates.
+Numerous observations made on different beaches and sandy flats of the Cape
+Cod region during the months of June and July, 1950, offer new evidence of the
+cosmopolitan distribution of many psammophilous ciliate species, and of the gen-
+eral significance of the two types of infusorian interstitial fauna.
+TECHNIQUE
+The superficial layers of wet sand exposed at low tide were collected with a
+spoon, to a depth of 2 to 10 millimeters, and put in some convenient bottle or carton,
+with just a little sea water. At the laboratory, the samples were transferred to
+large fingerbowls, covered with sea \vater and allowed to stand overnight.
+In order to observe the ciliates, a small quantity of sand, taken from one sample
+with a spatula or a pipette, was put in a Petri dish and gently agitated with sea
+water to which a few drops of a 12 per cent MgCl. 2 solution were added. -
+Then the sand was gathered at one side of the dish and the water examined
+under a low-power binocular microscope. The psammophilous ciliates, now swim-
+ming or gliding on the glass bottom of the dish, are easily picked up with a capillary
+pipette and transferred to a slide for a more careful examination, or placed in small
+covered dishes with normal sea water and sand grains for later examination.
+The granulometric analyses of three different types of sand were made at the
+Woods Hole Oceanographic Institution. The corresponding curves w r ere plotted
+for the very fine sand of the Barnstable Harbor flats, and for the two coarse sands
+from Tarpaulin Cove and Nobska beaches (Fig. 1).
+A rough micrometric estimation of the mean diameter of the grains was quite
+sufficient for the comparative study of many other samples.
+MESOPORAL INFUSORIAN FAUNA
+The sands of almost all the beaches around Woods Hole shelter ciliate species
+of the mesoporal type.
+The samples examined were collected in several places on different beaches at
+Penzance, Woods Hole (M. B. L. beach), Sippiwisset, Quisset, Gansett and Nona-
+messet along the Buzzards Bay coast, and at Tarpaulin Cove, Nobska, Falmouth,
+and Great Pond along the Vineyard Sound.
+In every case the granulometric measurements show that the size of most of
+the sand grains lies roughly between 0.3 mm. and 1.0 mm. These sands are
+quartzous, with very few mica flakes, and contain, with few or no mud particles,
+a variable amount of organic residues.
+2 See Faure-Fremiet (1950). Magnesium chloride, which narcotizes many small metazoans
+rapidly, decreases the thigmotactic adherence of the ciliates, and hence releases them from the
+sand particles, without a sensible alteration of their motility.
+
+MARINE SAND-DWELLING CILIATES 61
+In these somewhat coarse sands, the ciliates are generally neither abundant
+nor very varied ; they belong most often to diatom-ingesting species.
+90-
+70
+60-
+SO-
+40
+30-
+20-
+10-
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^""^"^^^^F^^?^^^^"^^^^^^^^^^^"^^^^^^^^^^^^^^T^T*"fl
+0.0 1 mm. 0.05 0.1 02 0.3 0.5 1 234579
+FIGURE 1. Granulometric characteristics of sands collected on three different beaches of
+Cape Cod. Cumulative curves; abscissa: diameter, in millimeters, of the sand grains (loga-
+rithmic scale) ; ordinate : weight per cent of the sand grains larger than the corresponding diam-
+eter. A Barnstable Harbor flat; Tarpaulin Cove; X Nobska beach.
+The typically mesoporal species observed are the following :
+Holotricha Gymnostomata :
+Mesodinimn piilc.v, f. pnpula Kahl
+Placus (Thoracophyra} buddcnbrocki Sauerbrey
+Remanella margaritifera (?) Kahl
+Oligotricha :
+Strotnbidium sauerbreyae Kahl
+Hypotricha :
+Discocephalits rotatornis Ehrb.
+The other species, widely distributed along the seashore, belong occasionally,
+but not specifically, to the mesoporal fauna ; the following are frequently en-
+countered :
+
+62 E. FAURE-FREMIET
+Holotricha Gymnostomata :
+Lacrymaria sp.
+Coleps tesselatns
+Holotricha Hymenostomata :
+Pleuronema sp.
+Front onia sp.
+Heterotricha :
+Condylostoma patens (O.F.M.) Stein
+Hypotricha :
+Epiclintes ainbiguus O.F.M.
+Euplotcs sp.
+Diophrys scutum Duj.
+Uronychia transjuga O.F.M.
+Aspidisca major Madsen
+Finally, some sand-living ciliates of euryporal character are often present :
+Holotricha Gymnostomata :
+Tracheloccrca phaenicopterus
+Trachelocerca sp.
+Hypotricha :
+Holosticha jasciola (?) Kahl
+It is apparent that these different vegetarian species seem to be living quite
+independently of one another. Their quantitative distribution appears quite vari-
+able and unequal, not only from one beach to another but also along the same beach,
+between two areas only a few meters distant and showing the same physical appear-
+ance. Sometimes a local population of one of these species may be fairly abundant,
+probably in connection with the local growth of some species of diatom or bacteria
+utilized as food. This local growth is conditioned itself, perhaps, by some slight
+local difference in the intensity of light or the tidal agitation.
+MICROPORAL INFUSORIAN FAUNA
+Some of the special conditions needed by the ciliates of the microporal type are
+found in the sand of the Barnstable Harbor flats, on the south coast of Cape Cod
+Bay. There the sand is very fine, slightly muddy, closely packed, and inhabited
+by many burrowing invertebrates, such as clams and worms.
+The ciliates seem to be confined to the superficial layer of clear gray sand, some-
+times reddish spotted by purple bacteria, and covering a deeper black sand rich in
+organic decomposition products.
+The size of the sand grains varies from 0.05 mm. to 0.2 mm. In many samples
+collected on the flats exposed at low tide, there was found a more or less abundant
+and varied association of the following characteristic microporal species :
+
+MARINE SAND-DWELLING CILIATES 63
+Holotricha Gymnostomata :
+H elicoprorodon (Chaenea} gigas Kahl
+Centrophorella fasciolata Sauerbrey
+Centrophorella lanceolata n. sp.
+Geleia simplex n. sp.
+Geleia decolor Kahl
+Geleia jo s sat a Kahl
+Geleia orbis Faure-Fremiet
+Remanella sp.
+Heterotricha :
+Condylostoma remanei Spiegel, Kahl
+Blepharisma darissimum Anigstein
+Blepharisma sp. ?
+Hypotricha :
+Urostrongylum can datum Kahl
+Besides this very specific microporal fauna of ciliates, one observes some of the
+euryporal species already mentioned, and the very curious Parable pharisma pelli-
+tuiii Kahl ; this is much more abundant in a different biotope, such as the felting of a
+dense algal littoral flora in some brackish-water ponds.
+It can be noted that on the Barnstable flats, as well as on the Brittany beaches,
+the different species of Geleia behave like saprobic ciliates ; they are fairly abundant
+where purple bacteria grow. On the other hand, different species of Centro-
+phorella, Remanella and Blepharisma are commonly encountered in the same
+biotope with Geleia, and they may also be found in clean fine sand and occasionally
+in the somewhat coarse sand of the open beaches, with some of the characteristic
+species of the mesoporal infusorian fauna.
+COMPARATIVE STUDY OF THE CILIATE INTERSTITIAL FAUNA
+According to the results above, the mesoporal and the microporal infusorian
+fauna show respectively the same characteristics in the littoral sands of Cape Cod
+and in those of Brittany. However, the mean size of the sand grains available for
+each of the two different interstitial faunas seems to be slightly lower on Cape Cod
+than on the Brittany coasts ; this may be due to the presence in Brittany beaches
+of numerous mica flakes which assure a more compact packing of the sand grains
+than the almost pure quartzous particles of the Cape Cod sands. In other words,
+with equal diameter of sand grains, the interspaces are larger between angular
+particles than between flat and angular particles mixed together ; it is known that
+the dimensions of these spaces act as an important ecological factor in the distribution
+of ciliates (Faure-Fremiet, 1950).
+As a matter of fact, among the different Cape Cod sandy shores examined, the
+typical microporal infusorian fauna was only encountered in sands of the Barn-
+stable Harbor flats. Very fine, slightly muddy, filled with numerous sand-boring
+animals such as annelids and clams, rich in organic residues and in sulfur bacteria,
+this sand resembles closelv in its microfauna the sand of one beach studied in
+
+64 E. FAURE-FREMIET
+Brittany, namely, the beach of Mousterlin, near Concarneau (Faure-Fremiet,
+1950). However, Barnstable Harbor shows some estuarine characteristics, such
+as some tidal variations of the sea water salinitv.
+j
+Considering the cosmopolitan character of the marine littoral ciliates, the data
+gained from study of the Cape Cod sandy shores need some discussion. Many
+of the ciliates found there can be identified without hesitation, and belong to spe-
+cies already described, and found in the European beaches or sandy grounds. Some
+others appear very closely related to known species. Finally, some seem to be
+new species.
+The following species in the sands of the Cape Cod region were positively identi-
+fied with those described in the Brittany coast (Faure-Fremiet. 1950) and the
+Bay of Kiel (Kahl, 1933, 1935) :
+Holotricha Gymnostomata :
+Mesodiniinn pnle.v f. pnpnla Kahl
+Placits (Thauracophrya) buddenbrocki Sauerbrey
+Helicoprorodon (Chacnca} gigas Kahl (Faure-Fremiet, 1950)
+Centrophorella fasciolata Sauerbrey, Kahl
+Coleps tesselatus Kahl
+Heterotricha :
+Condylostoma patens O.F.M.
+Condylostoma remand Spiegel
+Blepharisma clarissiiinuii Anigstein
+Parable pharisma pellitiim Kahl
+Hypotricha :
+Epidintes ambiguiis O.F.M.
+Urostrongyhtm caudatum Kahl
+Discocephalus rota tori us Ehrb.
+Diophrys scutum Duj.
+Uronychia trans juga O.F.M.
+Among these ciliates, Discocephalus rotatorius requires special mention ; this
+apparently uncommon infusorian, first described by Ehrenberg from the seashore
+of the Sinai peninsula, was again observed by Sauerbrey (1928) on the sand
+grounds of the Bay of Kiel. The form found in the coarse sand of Tarpaulin
+Cove shows not only the same morphological characteristics, but also the same
+physiological peculiarity reported by Sauerbrey, namely, the ingestion of small
+sand particles.
+Some species, such as Condylostoma patens, show great variability of shape
+and size, but not of structure ; however, this does not make identification difficult.
+On the other hand, it is hard to decide for some other species whether the differ-
+ences observed between populations living in different regions are of specific value,
+or merely define some geographic varieties, or result from poor descriptions in the
+the literature.
+Among the Holotricha, Geleia orbis, very abundant in the sand of Barnstable
+Harbor, seems to be more flattened and more thigmotactic than the Brittany form
+
+MARINE SAND-DWELLING CILIATES 65
+(Faure-Fremiet. 1950), but one does not observe any significant differences be-
+tween these, either as to size (up to 1.5 mm. in full extension) or structure.
+Geleia decolor Kahl is apparently identical with the Brittany species which T
+described under this name, but both are slightly smaller than the Kahl species
+and differ perhaps from his by the presence of a little anterior and preoral pit.
+Among the Heterotricha a species of Blepharisma with a beaded macro-
+nucleus, very common in Barnstable Harbor, should be considered as B. claris-
+siinnin forma arcnicola Kahl; it is smaller than the latter form, however, being
+275 to 300 micra as opposed to 450 micra (according to Kahl). It seems to be
+similar to a form observed by Dragesco (personal communication) in the sand at
+Roscoff. On the other hand, B. clarissimum Anigstein is so well characterized
+by its cytoplasm (refringent. transparent and hyaline, like that of an Opalina)
+that the so-called "forma arenicola" must be considered as a distinct species.
+Among the Hypotricha, a microporal Holosticha with numerous macronuclear
+beads is shaped nearly like H. e.vtcnsa Kahl, with two frontal cirri ; it is a little
+larger than Kahl's species (about 300 micra contra 140 to 240 micra) and pos-
+sesses four or five transverse cirri like H. jasciola Kahl, as against 6 to 7 as in
+H. e.rtcnsa. But the latter species is narrower and possesses three frontal cirri at
+least.
+A mesoporal Aspidisca, measuring about 50 to 55 micra, resembles very closely
+A. major Madsen, in its two elongated macronuclear pieces and its five transverse
+cirri (as opposed to 6 for A. binucleata Kahl, and 11 to 12 for A. polystyla Stein).
+However, the Madsen species is larger : 60 to 90 micra.
+Three presumably new species need now a more .detailed description.
+NEW SPECIES
+Centrophorella lanceolata n. sp. (Fig. 2)
+The enigmatic genus Centrophorella (see Kahl, 1933, 1935 and Faure-Fremiet,
+1950), first described by Sauerbrey under the name Kentrophoros, probably be-
+longs to the family Amphileptidae, according to Kahl.
+The different species are strongly thigmotactic, very fragile and difficult to ex-
+amine in vitro. The use of MgCL solution shows that they are much more fre-
+quently represented in the microporal interstitial fauna than it was supposed at
+first. I did not observe in the fine sand of Barnstable Harbor the very large spe-
+cies C. fistulosa Faure-Fremiet of the Brittany coast, but I found, besides C.
+jasciolata Sauerbrey, a new one which I call C. lanceolata n. sp. It seems highly
+probable that it can be found elsewhere, and a form recently observed at Roscoff, in
+Brittany, by Dragesco (personal communication) is perhaps the same.
+Centrophorella lanceolata is a very flattened and ribbon-like ciliate, measuring
+about 460 to 520 micra in length, 40 micra wide and 5 to 6 micra thick. It tapers
+at the ends ; the anterior part is slender, with a sort of neck preceding the buccal
+edge, curved on the right side and bearing a row of long cilia. The posterior end
+is pointed.
+The ventral surface is ciliated, and the dorsal one is covered with an accumula-
+tion of dark sulfur bacteria, except at a narrow lateral margin at the neck and at
+the tail.
+
+66 E. FAURE-FREMIET
+0-
+m
+100 -
+m
+FIGURE 2. Centrophorclla lanceolata n. sp. A: View of the living infusorian. showing
+the dorsal brush of sulfur bacteria. B : Outline of the ciliate showing, after staining, the size
+and the position of five macronuclei and one (probably) micronucleus.
+
+MARINE SAND-DWELLING CILIATES 67
+The associated sulfur bacteria, rod-shaped and all of the same length, measure
+about 10 micra ; they are attached to the dorsal surface of the ciliate infusorian body
+by one end, and arranged in a parallel manner like the bristles of a brush. That is
+a characteristic of the so-called Caulobacteria the genus Pasteuria (Metschnikoff),
+for example. As is the case among others of this group, they divide longitudinally.
+The dark appearance of the bacteria of C. lanceolata is due to the presence in
+their cytoplasm of highly refractile sulfur granules ; in fact, these bacteria are really
+colorless, as are those of C. fistitlosa, whereas those of C. jascioJata show a pink
+color.
+It is known that the nuclei of the Centrophorella (Kahl, 1933, 1935; Faure-
+Fremiet, 1950) are very small; C. lanceolata shows five to six globular macronuclei
+about 4 micra in diameter, and some smaller micronuclei.
+FIGURE 3. Remanclla obtusa n. sp. View of the ciliated right side. M, mouth; N, double
+macronucleus with one micronucletis ; V, Miiller's vesicles with refringent bodies.
+The association of the Centrophorella with the Caulobacteria is a perfectly
+constant character ; in each case these bacteria are sulfur bacteria, but they differ in
+size and color with each species of Centrophorella. It would be interesting to de-
+fine the nature, specific or adaptively induced, of these differences. On the other
+hand, it is noteworthy that the bacteria constantly associated with a heterotrichous
+ciliate, Parablepharisina pelUtum Kahl, are quite different and do not contain
+sulfur.
+
+68 E. FAURE-FREMIET
+Remanella obtnsa n. sp. (Fig. 3)
+Whereas the different known species of Remanella belong to the microporal
+interstitial fauna, this new one was found many times in the relatively coarse sand
+of Nobska beach.
+At first sight, R. obtnsa recalls some species of Chlamydodon by its shape and
+its thigmotactic behavior. This ciliate is very flat, yellowish in color, with a brown
+pigmented area around the mouth. It measures about 1 10 micra in length and is
+40 micra wide. Its anterior edge is broadly rounded.
+M
+lit
+III
+- :a 1
+N
+:!.J 50-
+o :;:-
+*!;i-~^J
+prU!!i
+FIGURE 4. Gelcia simplex n. sp. M, mouth ; N, double macronucleus with one micronucleus ;
+V, large posterior contractile vesicle.
+The mouth appears as a lateral semi-circular notch without pharyngeal pro-
+longation. The Miiller's vesicles, with a large refringent granule in each one, are
+6 to 8 in number. The animal possesses two macronuclei, each containing a central
+chromatic body, and a single micronucleus.
+Remanella obtnsa is ciliated only on its flat right side; it is very thigmotactic,
+and glides rapidly on the surface of the sand grains. It is a diatom feeder.
+
+MARINE SAND-DWELLING CILIATES 69
+Geleia simplex n. sp. (Fig. 4)
+Geleia simplex, frequently encountered in the fine sand of the Barnstable Har-
+bor flats, differs from the other species of the genus (see Kahl, 1933, 1935; Faure-
+Fremiet, 1950) by the lack of an anterior prebuccal lobe, the nearly apical location
+of the mouth, and the presence of a large posterior vacuole. Its length is about
+260 to 300 micra, and its width about 30 micra. Its flexible and slightly con-
+tractile body is more or less flattened.
+G. simplex possesses two macronuclei with large karyosomes, and one
+micronucleus.
+The mouth is an oval depression extending anteriorly between two body rows
+of cilia. The buccal ciliation includes a fringe of large cilia on the right side and
+on the left one a field of fine undulating cilia.
+This work was done at the Marine Biological Laboratory under a grant of
+the Commonwealth Fund, and with the aid of the American Philosophical Society.
+It gives me great pleasure to acknowledge here the assistance of Mr. Turner, at
+the Woods Hole Oceanographic Institution, in the exploration of the Barnstable
+Harbor flats and the measurements of some sand samples. I am grateful to Dr.
+M. Harnly and Dr. G. Kidder, who read the manuscript.
+SUMMARY
+1. Two categories of ciliate species dwell in the damp sand of marine beaches;
+some of these seem to be so closely adapted to interstitial conditions that they do
+not live outside ; some others enter the sand readily and can live in it as well as
+anywhere else along the seashore, where they are ordinarily widespread.
+2. With regard to the size of the interstitial sand spaces, which are roughly pro-
+portional to the size of the grains, the sand-dwelling ciliates can be divided into
+two ecological classes :
+In coarse sands, with a mean diameter of the grains above 0.4 mm., the mesoporal
+infusorian fauna includes a few species exclusively sand-living and many occasional
+sand-dwelling forms.
+In fine sands, with a mean grain diameter of 0.3 to 0.7 mm., the microporal in-
+fusorian fauna is composed of true sand-living ciliate species.
+In addition, some typical interstitial species, widespread in fine and coarse sands,
+are called euryporal.
+3. Comparison of the ciliate interstitial fauna observed in Brittany and Cape
+Cod beaches shows that interstitial species are cosmopolitan, and that the distin-
+guishing characteristics of mesoporal and microporal fauna have a generalized
+ecological significance. On the other hand, it appears that the truly microporal
+species are endowed with some peculiarities very interesting from the standpoint
+of cytology, cell-physiology and micro-ecology.
+LITERATURE CITED
+CALKINS, G. X., 1933. The biology of the protozoa. Lea and Febiger, Philadelphia. (2nd
+Edition ).
+
+70 E. FAURE-FREMIET
+FAURE-FREMIET, E., 1950. Ecologie des Cilies psammophiles littoreaux. Bull. Biol. dc la
+France et de la Belgique, 84 : 35-75.
+KAHL, A., 1933. Ciliata libera et ectocommensalia. In: Grimpe und Wagler, Thierwelt der
+Nord- und Ostsee. Akad. Verl., Leipzig.
+KAHL, A., 1935. Wimptiere oder Ciliata. In: Fr. Dahl, Die Tierwelt Deutschlands. Fischer,
+Jena.
+SAUERBREY, E., 1928. Beobachtungen iiber einige neue oder wenig bekannte marine Ciliaten.
+Arch. f. Protistcnk., 62 : 355-407.
+SPIEGEL, A., 1926. Einige neue marine Ciliaten. Arch. f. Protistcnk., 55 : 184-190.
+
+Fauré-Frémiet, E. 1951. "THE MARINE SAND-DWELLING CILIATES OF CAPE
+COD." The Biological bulletin 100, 59–70. https://doi.org/10.2307/1538541.
+View This Item Online: https://www.biodiversitylibrary.org/item/17323
+DOI: https://doi.org/10.2307/1538541
+Permalink: https://www.biodiversitylibrary.org/partpdf/37851
+Holding Institution
+MBLWHOI Library
+Sponsored by
+MBLWHOI Library
+Copyright & Reuse
+Copyright Status: In copyright. Digitized with the permission of the rights holder.
+Rights Holder: University of Chicago
+License: http://creativecommons.org/licenses/by-nc-sa/3.0/
+Rights: https://biodiversitylibrary.org/permissions
+This document was created from content at the Biodiversity Heritage Library, the world's
+largest open access digital library for biodiversity literature and archives. Visit BHL at
+https://www.biodiversitylibrary.org.
+This file was generated 25 August 2023 at 14:25 UTC
+

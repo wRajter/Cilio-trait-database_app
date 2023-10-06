@@ -1,0 +1,504 @@
+Journal of General Microbiology (1993), 139, 2855-2863. Printed in Great Britain 2855
+Diversity of free-living ciliates in the sandy sediment of a Spanish stream
+in winter
+B. J. FINLAY,'C* . TELLEZa~n d G. ESTEBAN'~~
+'Institute of Freshwater Ecology, Windermere Laboratory, The Ferry House, Ambleside, Cumbria LA22 ULP, UK
+'Departamen to de Microbiologi'a III, Facultad de Biologia, Universidad Complutense, 28040 Madrid, Spain
+3Consejo Superior de Investigaciones Cient@cas, Madrid, Spain
+(Received 24 April 1993; revised 7 June 1993; accepted 17 June 1993)
+This study had two objectives: to determine the number of (phenotypic) ciliate species co-existing in 1m 2o f sandy
+river sediment at a maximum temperature of 4 "C;a nd to determine the ecological mechanism(s) facilitating their
+co-existence. The ciliate community was diverse (65 species [8 of which are new], belonging to 50 genera, from 17
+orders). The sediment supported a superficial mat of diatoms (> 30 species). These served as food for at least 16
+ciliate species. The size frequency distribution of ingested diatoms was almost identical to that for the diatoms in
+the sediment: thus the probability of a diatom being ingested appears to be a simple function of its relative
+abundance. Two factors were probably important for the co-existence of ciliate species :w ide variation in cell size
+and shape enabled them to occupy most habitats; and they deployed a variety of feeding mechanisms to consume
+the variety of microbial food types. Taken as a whole, the ciliate community was capable of feeding on all microbes,
+including other protozoa, up to a size of about 80 pm. Considering the broad diversity of ciliate habitats available
+within 1 m2, the importance of physical transport processes in the river basin, and the known cosmopolitan
+distribution of many ciliate species, it is believed likely that the species richness we recorded is representative of
+the expanse of sandy sediment in this river, on this occasion.
+Introduction combine these with relevant features of the genotype.
+This approach appears promising : within the ciliated
+It is rarely an easy task to recognize and identify the protozoa for example, there is broad agreement between
+many species of micro-organisms living in natural classical phylogenies based on phenotype and those
+communities. This is especially true of most prokaryotes, based on rRNA sequences (Baroin-Tourancheau et al.,
+because of their small size and lack of distinguishing 1992; Embley et al., 1992).
+features. These difficulties have promoted several strate- Here, we are concerned with free-living protozoa - the
+gies. There may be serious doubts concerning the validity eukaryotic, unicellular, animal-like microbes which live
+of phenotypic species, and refuge may be sought in the in all aquatic and damp environments (Fenchel, 1987;
+new molecular methods of characterizing the microbial Finlay, 1990). Protozoa are characteristically phago-
+community, now largely based on sequencing rRNAs trophic, especially on bacteria, unicellular algae and
+(references in Pedr6s-Ali6, 1993). Alternatively, the other protists, and their phagotrophy underpins their
+process of identifying micro-organisms on the basis of ecological importance in microbial food webs. In the
+genotype or phenotype may be all but rejected, with the open water of lakes and oceans (Berninger et al., 1991)
+substitution of functional groups such as methanogens, and in anoxic sediments (Fenchel & Finlay, 1990), they
+sulphate reducers or filter feeders, in each of which the are quantitatively the most important consumers of
+organisms have broadly similar effects upon ecosystem other micro-organisms.
+processes (see Chapin et al., 1992). We might also Our objectives were to determine the number of ciliate
+combine the benefits of different approaches, extract the species co-existing in one square metre of river sediment ;
+more valuable characteristics of the phenotype, and and to determine the ecological mechanism(s) facilitating
+co-existence. It would in theory have been possible to use
+*Author for correspondence. Tel. +44 5394 42468; fax +44 5394 genotypic methods alone - e.g. shotgun cloning, selec-
+46914. tion for phage clones with rRNA genes, followed by
+0001-8305 0 1993 SGM
+Downloaded from www.sgmjournals.org by
+IP: 62.252.151.50
+On: Tue, 04 Aug 2015 09:45:53
+
+2856 B. J. Finlay, C. Tdlez and G. Esteban
+sequencing. But these methods are labour-intensive and -we simply wanted to determine the number of ciliate
+they have not yet been tested in the analysis of eukaryotic species which could be identified from the phenotype,
+community diversity (cf. analysis of prokaryote com- and which co-existed in a small area of homogeneous
+munities; e.g. Giovannoni et al., 1990). One of the sandy sediment, in one river, at one point in time. This is
+benefits of genotypic methods is that they do, in principle, probably the first time this has been attempted. Most
+permit the detection and characterization of all geno- effort was devoted to discovering every type of ciliate
+types. This highlights an inherent weakness in phenotypic present and to learning all we could about their
+methods, for these vary greatly in their efficiency. The functional ecology. Finally we hoped that the infor-
+problem is less acute in the case of the ciliates, which mation obtained would tell us something about the true
+show a rich morphological variety, and there exist diversity of ciliate species in aquatic environments
+precise yet simple methods for resolving the patterns of generally.
+their species-specific infraciliature. With a few excep-
+tions, e.g. where genetic drift has occurred with the
+Methods
+retention of some adaptive peak in phenotype (Nanney,
+1982; Finlay 8z Embley, 1992), it is possible to identify all
+Sampling site. Samples were collected from the sublittoral sandy
+species in a natural sample, using silver-stainingm ethods. sediment of the Rio Durathn, approximately 3 km downstream from
+This has been done on numerous occasions, most Sepiilveda,n ear Segovia in Central Spain, at an altitude of 900 m. The
+recently by Esteban et al. (1993 b) : silver-staining was sedimentary rocks are marine-reef cretaceous sandstones and lime-
+stones (Linage, 1989), and the river water is hard. Samples were
+used to identify all 14 ciliate species in a 10 ml sample of
+collected on 3 January 1993, when the water temperature was 4 "C at
+anoxic lake water; and seven of the species were new.
+midday. In many parts of the river the sediment consisted of large
+There are many published records of the numbers of sandy areas (tens of square metres) beneath approximately 15 cm of
+ciliate species living in aquatic habitats, but it is often water. The sand in the study area was apparently homogeneous,
+difficult to evaluate the data-the precision of the without significant quantities of leaf litter or detritus. The sediment
+particle size distribution was analysed later using standard sieving
+identifications is variable, silver staining may or may not
+methods. Most of the sediment was overlain with an obvious, thin,
+have been used, and material may have been collected
+algal mat which we subsequently discovered was composed primarily
+and pooled from a number of occasions and from a of diatoms.
+variety of habitats (e.g. sediment, submerged leaves, Samples were collected within a 1 m2 quadrat. A 3 cm diameter
+open water). It is often claimed that the combined data perspex tube was pushed into the sediment to a depth of 3 cm, capped
+and the tube then removed with its enclosed sediment. This was
+provide a picture of species diversity in some 'habitat'
+repeated 13 times at random locations within the quadrat and all
+(e.g. a river or a lake) although little consideration may
+sediment samples were pooled. Thus we obtained an integrated sample
+have been given to the dimensions of the world actually of the top 3 cm of sediment within 1 m2 of apparently homogeneous
+inhabited by a protozoon. A lake, a river, or a region of sandy sediment. It is likely that this top 3 cm of sediment represented
+marine interstitial sediment will contain hundreds of most of the superficial zone in which sufficient oxygen was available to
+sustain an aerobic microbial community (Finlay, 1980). Approximately
+protozoan habitats (see for example Fenchel, 1969 ;
+50 g of sediment was fixed with formalin (4 %, v/v, final concentration)
+Finlay et al., 1988), such as anoxic microsites in particle
+and used to count and measure the diatoms (measurements were made
+aggregates, the surfaces of large planktonic diatoms, or on diatoms observed at random) and the euglenid Entosiphon. Ciliates
+the undersurface of a floating lily; and if a worm dies and were enumerated in live sediment using the method of Finlay et al.
+decomposes, several generations of prostomatid ciliates (1979b). Samples of the sediment were also introduced into gas-tight
+serum vials and cultured anaerobically as described in Esteban et al.
+may spend their entire lives within a few centimetres of
+(1 993 a) and subsequently sampled periodically by syringe.
+the corpse. Furthermore, protozoa have short generation
+times and the succession of species is often rapid : species Identification of ciliates. Preliminary identification of the ciliates was
+made on site, using a portable, low-power microscope. Thereafter,
+appear and ' disappear' (e.g. encyst) in a matter of weeks,
+more thorough observations of living samples were made in the
+and sometimes days (e.g. Fenchel, 1969; Bick, 1973;
+laboratory within 2 h of sampling. Samples of whole sediment were
+Finlay et al., 1979 a). An organically-polluted river then silver impremated (Fernbndez-Galiano, 1976) to reveal the
+passing through the process of self-purification may infraciliature of the ciliates - the principal characteristic on which
+appear the same from one day to the next but so far as taxonomic identification was made. Semi-permanentp reparations were
+made by preserving impregnated samples with formalin (2 %, v/v, final
+the protozoa are concerned the habitat may be changing
+concentration) in plastic tubes. These preparations were usable for
+dramatically. The number of species recorded for a
+three months. For microscopy and microphotography, the ciliates were
+particular river during the self-purification process will picked out from the tubes with Pasteur pipettes and micropipettes. This
+tell us only how many protozoan habitats appeared, were process continued for a period of three months, by which time we were
+colonized, and disappeared in the river in that period- no longer finding new species. The principal taxonomic works used
+were: Kahl(l930-1935); Small & Lynn (1985); Dragesco & Dragesco-
+it does not necessarily tell us how many species coexist in
+Kern& (1986); Foissner (1991); Curds (1982); Curds et al. (1983);
+that river.
+Song & Wilbert (1989) ; Esteban et al. (1 993 a); and references in each
+In one sense, the aims of this study were quite modest of these.
+Downloaded from www.sgmjournals.org by
+IP: 62.252.151.50
+On: Tue, 04 Aug 2015 09:45:53
+
+Diversity of ciliates in a Spanish stream 2857
+Results present in the trophic state in the sediment, probably in
+very low numbers, within anoxic microniches.
+Species number
+The 65 ciliate species belong to 50 genera, which are
+We recovered 65 different types of ciliates from sandy distributed between 17 orders. Systematics of ciliates at
+sediment within 1 m2 of stream bed. The silver-impreg- the level of higher taxa is still quite volatile. Here we have
+nated infraciliature was observed in all cases, and the used the Small & Lynn (1985) classification of ciliates,
+differences noted (e.g. disposition and pattern of somatic with the sole modification that we have allocated the
+and oral infraciliature, together with cell size and shape Trimyema spp. to the Order Plagiopylida (we have small
+and other characteristics of cell morphology) were subunit rRNA sequence data indicating that Trimyema is
+sufficient to claim that they were 65 separate phenotypic very closely related to Plagiopyla; T. M. Embley & B. J.
+species. With the exception of the suctorian (of which too Finlay, unpublished). The genera and Orders (the latter
+few individuals were recovered) all ciliates were identified in parentheses) are as follows : Arcuospathidium (HAPTO-
+to the level of genus. Forty-three of these were identified RIDA), Askenasia (HAPTORIDA), Aspidisca (EUPLOTIDA),
+to the species level and ascribed species names from the Blepharisma (HETEROTRICHIDA), Caenomorpha (HETERO-
+taxonomic literature. With respect to the remaining 22 TRICHIDA ), Calyptotricha( SCUTICOCILIATIDA), Chilodonella
+species, eight cannot be identified with reference to (CYRTOPHORIDA), Cinetochilum (SCUTICOCILIATIDA), Co-
+published works and they are all probably new species. leps (PRORODONTIDA), Colpidium (HYMENOSTOMATIDA),
+They belong to the genera Halteria, Lacrymaria, Zostero- Colpoda (COLPODIDA), Ctedectoma (SCUTICOCILIATIDA),
+dasys, Paranophrys, Tachysoma, Loxophyllum, Placus Cyclidium (SCUTICOCILIATIDA), Dexiotricha (SCUTICOCILI-
+and Prorodon, and all appear in Fig. 1. The remaining 14 ATIDA), Epistylis (SESSILIDA), Euplotes (EUPLOTIDA), Fron-
+species cannot definitely be called either new or pre- ton ia (P ENICULIDA ), Glaucoma (HYM ENOSTOMA TIDA ), Hal-
+viously described species, for two reasons. Firstly, in teria (OLIGOTRICHIDA), Homalozoon (HAPTORIDA), Lacry-
+several cases we obtained insufficient information about maria (HAPTORIDA), Litonotus (PLEUROSTOMATIDA), Lox-
+the infraciliature because too few cells of that species odes (LOXODIDA), Loxophyllum (PLEUROSTOMATIDA),
+were retrieved from the sediment. Secondly, we were Mesodinium (H APTORIDA ), Meto pus (H ETEROTRICHIDA ),
+sometimes unable to make identifications because it was Paramecium (P ENICULIDA ), Paranoph rys (S CUTICOCILIA-
+difficult to reconcile all published information, some of it TIDA), Philasterides (SCUTICOCILIATIDA), Placus (PRORO-
+incomplete, for an individual species. DONTIDA), Pleuronema (SCUTICOCILIATIDA), Prorodon
+Of the total number of ciliate species retrieved, all but (P RORODONTIDA) , Pseudomicrot horax (C YRTOPHORIDA),
+six (Arcuospathidium vermiforme [anaerobic], Trimyema Sagittaria (PRORODONTIDA), Saprodinium (ODONTOSTO-
+sp. and Trimyema compressum [both anaerobic], Colpi- MATIDA), Sathrophilus (SCUTICOCILIATIDA), Spirostomum
+dium campylum, Colpoda sp. and Tetrahymena thermo- (HETEROTRICHIDA), Stentor (HETEROTRICHIDA), Strom-
+phila) were obtained from the freshly-impregnated bidium (OLIGOTRICHIDA), Stylonychia (STICHOTRICHIDA),
+sediment samples. These six were observed only in live (Suctorian) (sub-class SUCTORIA), Tachysoma (STICHO-
+sediment kept in the laboratory where the stimulation of TRICHIDA ), Tet rahy mena (H YM ENOSTOMATIDA ), Thi gmo-
+bacterial growth encouraged the development of the gaster (CYRTOPHORIDA), Trimyema (PLAGIOPYLIDA),
+bacterivorous Colpidum, Colpoda and Tetrahymena, and Trithigmostoma (CYRTOPHORIDA), Urosoma (STICHO-
+the excystment of Colpoda. The anaerobic species found TRICHIDA), Urotricha (PRORODONTIDA), Vorticella (SES-
+are not known to encyst. It is likely that they were SILIDA), Zosterodasys (CYRTOPHORIDA).
+The ciliates recovered spanned a particularly broad
+size range: from 15 pm (Cinetochilum margaritaceum) to
+Table 1. Distribution of cell sizes of the 65 ciliates about 500 pm (Spirostomum minus), although most were
+identijied in sandy sediment less than 100 pm in length (Table 1, Fig. 1).
+Maximum
+Sediment characteri s tics
+cell Number
+dimension of ciliate
+The sediment was composed mainly of fairly coarse sand
+(c1111) species
+particles (median grain diameter 300 pm) with a silt and
+-=
+50 19
+clay fraction (< 62 pm) accounting for 2% of total
+51-100 29
+10 1-1 50 9 weight. The sediment was covered with a diatom mat
+15 1-200 3 which was obvious to the unaided eye. The mat probably
+201-250 2
+secreted mucilage : this would explain the production of
+25 1-300 2
+> 300 1 microscopic particle aggregates observed in the super-
+ficial sediment layer.
+Downloaded from www.sgmjournals.org by
+IP: 62.252.151.50
+On: Tue, 04 Aug 2015 09:45:53
+
+2858 B. J. Finlay, C. Tkllez and G. Esteban
+Downloaded from www.sgmjournals.org by
+IP: 62.252.151.50
+On: Tue, 04 Aug 2015 09:45:53
+
+Diversity of ciliates in a Spanish stream 2859
+Diatom ingestion community compare with that described in other
+published work? As mentioned earlier, there are few if
+The diatoms in the mat were very abundant (1.47 x
+any other studies which are directly comparable. Gra-
+lo6 cm-*) and easily discriminated from each other on the
+backa (1 97 l), Webb (1 96 l), Wang (1 928) and Small
+basis of size (4-220 pm), shape and frustule architecture.
+(1973) recorded 62, 93, 109 and 155 species respectively;
+They are probably all separate species (total number
+but, with the exception of the last of these, silver-staining
+> 30). The diatoms < 40 pm in length were numerically
+methods were not used. In all four cases, the species total
+dominant. When all diatoms in the community are
+refers to a variety of habitats, sampled on several to
+plotted as a size frequency distribution (Fig. 2), it
+many occasions. The length of these species lists is
+becomes clear that some sizes are particularly abundant
+probably a function of the variable intensity and duration
+(distinct peaks at 12, 19, 26, 38 and 49 pm). There is,
+of the investigation.
+moreover, remarkably good agreement between this
+Where the study was more limited with respect to the
+frequency distribution and that for the diatoms ingested
+size of the habitat investigated, and confined to one
+by the protozoa. Sixteen ciliate genera were observed
+occasion, numerous studies in freshwater have yielded
+with diatom ingesta (see Fig. 1 asterisks). There was
+species numbers in the range 7-36 (e.g. Curds et al.,
+considerable overlap in the sizes of diatoms ingested by
+1986; Finlay et al., 1987; Esteban et al., 1993b). In
+different ciliates, but the maximum size ingested was
+marine sediments, at least 21 species were found living
+positively correlated with overall ciliate length. Big 12-15 cm deep in sandy sediment, and 26 species were
+ciliates, such as Frontonia acuminata (1 10 pm) ate big
+recorded from the Nivi sulphuretum (Fenchel, 1969).
+diatoms but they also ingested small diatoms (total size
+It is a little easier to compare our data with those
+range ingested 9-107 pm). Prorodon palustris (300 pm)
+obtained by Foissner et al. (1992), who also had an
+fed on a narrower size range (20-70 pm). Small scutico-
+interest in finding all ciliate taxa present, at six stations
+ciliates (< 50 pm) ingested only small diatoms, in the size
+on the River Amper near Munich, Germany. They used
+range 4-21 pm. The largest diatoms (> 200 pm) were not
+silver staining, and they present data for species richness
+eaten by any protozoa and ingestion of diatoms larger
+on single occasions. The sample obtained for each
+than 80 pm was rare.
+' station-occasion' was an integrated sample of a variety
+of protozoan habitats. Each of the six stations was
+investigated two or three times and each time, three
+Discussion
+' direct' samples were taken to include all habitats
+It is remarkable that we have recovered representatives available (mud, vegetation, twigs, leaf litter, gravel, etc.),
+of 17 orders of ciliates from 1 m2 of sandy sediment in and an integrated count of species number obtained. The
+one river in Spain. It is even more remarkable because number of species recorded at each station-occasion was
+the total number of orders of free-living ciliates (i.e. in the range 38-77 (arithmetic mean 54). It is interesting
+described from marine, freshwater and terrestrial envi- that of the 209 ciliate taxa they list from the whole study,
+ronments) is only 36. How does the richness of this ciliate only 18 (9 YO)w ere unidentified to the level of species,
+Fig. 1. Ciliate species (and the euglenid Entosiphon sp.) identified in Durat6n River sediment. 1, Cinetochilum margaritaceum
+(Ehrenberg, 1831); 2, Halteria n. sp.; 3, Thigmogaster sp.; 4, Urotricha sp.; 5, Cyclidium citrullus Cohn, 1865; 6, Mesodinium sp.; 7,
+Philasterides sp. ; 8, Chilodonella uncinata (Ehrenberg, 1838) ; 9, Litonotus uninucleatus (Kahl, 193 1); 10, Cyclidium plouneouri Dragesco,
+1963; 11, Aspidisca cicada (Muller, 1786); 12, Lacrymaria n. sp.; 13, Halteria grandinella (Miiller, 1773); 14, Zosterodasys n. sp.; 15,
+Trimyema sp. ; 16, Glaucoma scintillans Ehrenberg, 1830; 17, Ctedectoma wilberti (Small & Lynn, 1985); 18, Calyptotricha lanuginosa
+(Penard, 1922); 19, Paranophrys n. sp.;2 0, Coleps hirtus (Muller, 1786); 21, Saprodinium sp.; 22, Askenasia sp.; 23, Pseudomicrothorax
+dubius (Maupas, 1833); 24, Sathrophilus muscorum Kahl, 1931; 25, Tachysoma n. sp.; 26, Trimyema compressum Lackey, 1925; 27,
+Dexiotricha media Peck, 1974; 28, Colpoda cucullus (Miiller, 1773); 29, Loxophyllum n. sp. ; 30, Colpidium campylum (Stokes, 1886);
+31, Tetrahymena pyriformis-complex; 32, Placus n. sp. ; 33, Strombidium sulcatum Claparede & Lachmann, 1859; 34, Litonotusf asciola
+(Muller, 1773); 35, Prorodon n. sp.; 36, Lacrymaria olor (Miiller, 1786); 37, Vorticella sp.; 38, Epistylis sp.; 39, Stylonychia putrina
+Stokes, 1885 ;4 0, Blepharisma hyalinum Perty, 1849 ;4 1, Arcuospathidium uermiforme Foissner, 1984; 42, Tachysomapellionella (Muller,
+1773); 43, Loxophyllum helus (Stokes, 1884); 44, Entosiphon n. sp. ; 45, Paramecium aurelia - complex; 46, Pleuronema coronatum Kent,
+1881; 47, Metopus es Muller, 1786; 48, Euplotes patella (Muller, 1773); 49, Stentor sp.; 50, Loxodes striatus (Engelmann, 1862); 51,
+Spirostomum teres (Claparbde & Lachmann, 1858-1859); 52, Litonotus cygnus (Muller, 1773) ; 53, Trithigmostoma cucullulus (Muller,
+1786); 54, Caenomorpha sp. ; 55, Frontonia acuminata (Ehrenberg, 1833) ; 56, Frontonia leucas Ehrenberg, 1838; 57, Urosoma cienkowski
+Kowalewski, 1882; 58, Prorodon discolor Ehr.-B1ochm.-Schew.; 59, Homalozoon uermiculare (Stokes, 1887) ;6 0, Prorodon palustris De
+Puytorac & Savoie, 1968; 61, Spirostomum minus (Roux, 1901); 62, Sagittaria poligonalis Grandori, 1934. In addition, four ciliate
+species (unidentified or observed only in cultivated sediment) do not appear in this figure: (63), unidentified suctorian; (64),
+Scuticociliate,L oxocephalus like; (65), Cyclidium porcatum Esteban, 1993 (from culture); (66), unidentified stichotrich (anaerobic;f rom
+culture). Scale bar, 30 pm. Asterisks denote species with ingested diatoms at the time of sampling.
+Downloaded from www.sgmjournals.org by
+IP: 62.252.151.50
+On: Tue, 04 Aug 2015 09:45:53
+
+2860 B. J. Finlay, C. Te'llez and G. Esteban
+Fig. 2. Size frequency distribution of free-living diatoms (n = 997; hatched area), and diatoms ingested (n = 240; area shaded black)
+by ciliates and Entosiphon sp. Photographs of the most abundant diatom species are superimposed where appropriate. The largest
+diatom shown is 220 pm long.
+and some of these could have been new species. Note that restricted to information obtained at one moment in
+12 years previously, in a similarly intense study of small time, so our conclusions are, necessarily, tentative.
+water bodies in the Austrian Alps, Foissner (1980) Furthermore, some of the species are here described for
+discovered 194 ciliate species, 34 % of which were new to the first time, so our knowledge of their functional
+science. Taken together with the results of our study we biology is incomplete.
+might infer (a) that, with the exception of some rare or Some relevant information is readily acquired : the
+unusual habitats (e.g. Esteban et al., 1993b ), the number sizes and shapes of the ciliates, their modes of feeding
+of free-living freshwater phenotypic ciliate species wait- (e.g. filter-feeding, raptorial), the types and sizes of food
+ing to be discovered is decreasing rapidly, and (b) particle they ingest and their modes of locomotion. The
+undiscovered species represent approximately 20 YO of extremely broad range of ciliate sizes (15-500 pm) has
+the current total. already been described (Table 1). The first important
+consequence of this is that there will be very few spaces
+too small to admit grazing ciliates, and they may even
+Co-existence invade organic particle aggregates. Secondly, as the
+sediment is composed mainly of fairly coarse sand
+How do 65 ciliate species co-exist in a small area of sandy particles, a true interstitial habitat is created, as it is in
+sediment in a river? Our knowledge of the community is marine sandy sediments; so long ribbon-like ciliates, e.g.
+Downloaded from www.sgmjournals.org by
+IP: 62.252.151.50
+On: Tue, 04 Aug 2015 09:45:53
+
+Diversity of ciliates in a Spanish stream 2861
+Spirostornurn and Hornalozoon, are free to penetrate. The ponderance of small ingested diatoms they contained are
+smaller particle aggregates are the principal domain of typical.
+the smaller browsing ciliates such as Aspidisca and the On this one occasion, 16 ciliate species were recovered
+small cyrtophorids ; while the larger aggregates provide a with diatom ingesta but, with the probable exception of
+surface for the larger ‘walking ’ browsers (especially the cyrtophorids, it is likely that the diatoms did not
+Euplotes and the stichotrichs). account for the total diet in any of these ciliates. All are
+The ciliate community also displays a surprising known to ingest other particulate food, especially small
+diversity of feeding types. Pre-eminent among the filter algae and flagellates, and in many cases, a proportion of
+feeders are the scuticociliates,m ost falling within the size the ingesta was unrecognizable. It is likely that many of
+range 15-50 pm and specialized for the ingestion of these ciliates supplement their diet with other food and
+different size ranges from the spectrum of sizes of that this flexibility broadens the capacity for co-existence
+suspended bacteria (see Fenchel, 1986). The exceptional in the community. Finally, the ciliate community
+scuticociliate is Calyptotricha lanuginosa ; it is capable of contained the predatory ciliates Litonotus and Loxo-
+ingesting diatoms and it secures its own ‘spatial niche’ by phyllum. These have toxicysts, which are used for killing
+living in a lorica. There was evidence that at least one motile prey, especially small protists.
+small non-filter-feeding ciliate (Mesodinium) was feeding There is little doubt that the diversity and abundance
+on bacteria. Halteria grandinella and Halteria n. sp. were of diatoms in this sandy sediment contribute greatly to
+the only small ‘upstream’ filter feeders (i.e. filtering with the diversity and abundance of ciliates observed. This in
+an adoral zone of membranelles). Small diatoms were the itself is not a new discovery (e.g. Picken, 1937; Gray,
+only identifiable ingesta in H. grandinella but it is likely 1952; Fenchel, 1968, 1969). Fenchel(1969), for example,
+that it was also feeding on small green algae as it does in identified a total of 84 species or genera of ciliates in
+other habitats (Finlay et al., 1988). Diatom-feeding was marine sandy sediment, of which 15 fed exclusively on
+distributed amongst the larger ciliates, irrespective of diatoms. In the case of another 31 forms, diatoms were
+their ‘normal’ mode of feeding. Thus, the raptors an important part of the diet. It is also well known that
+Loxodes striatus and Trithigmostoma cucullulus, the different ciliate species can co-exist by feeding on
+peniculines (with secondarily-adapted raptorial feeding) different size classes of diatoms (Finlay & Berninger,
+Frontonia acurninata and I;. leucas, the raptorial haptorid 1983; Fenchel, 1969, 1987).
+Homalozoon vermiculare, the heterotrich Stentor sp., the Thus, several factors contribute to the co-existence of
+prorodontids Prorodon spp. and Placus n. sp., and the so many ciliate species: their great variation in size and
+stichotrichs Tachysomap ellionella and Urosorna cienkow- shape enables them to occupy a variety of habitats, they
+ski all showed signs of diatom ingesta. are represented by a diversity of feeding types; and the
+The clearest evidence for food niche separation is also combination of the range in ciliate size with variety of
+provided by the diatoms. There was remarkably good oral structures and feeding types permits consumption of
+agreement between their size frequency distribution and most other microbes in the community up to a size of
+that for the diatoms ingested by the protozoa. This about 80 pm. The diversity of the ciliate community is
+suggests that the probability of a diatom being ingested completed by the presence of several species which prey
+is dependent on mechanical factors (rather than ‘ taste ’ on protists in the community.
+for example): diatoms which are very abundant are
+encountered more frequently and thus ingested more
+Patch size and the true species number
+frequently. Size of ciliates is the only important con-
+straint. Small ciliates do eat diatoms, but no ciliate is What can we infer from the number of species found in
+capable of breaking or digesting the diatom frustule, so 1 m2, and how does this relate to larger areas of river
+the maximum size of diatom that can be ingested is close sediment? It is true that by integrating our small samples
+to the maximum length to which the ciliate can be we may have selected from several population patches.
+stretched. This correlation between the size of the ciliate But it may also be true that each individual sample
+predator and the typical size of its prey has been well removed an area that was larger than the patch size of an
+documented (e.g. Fenchel, 1968, 1986; Finlay & Ber- individual species-population. We simply do not know,
+ninger, 1983). It is possible, however, that in the case of and there is very little information available in the
+a few large ciliate species in the Duratbn, particularly literature concerning the patch sizes of natural protozoan
+those which are principally filter feeders (Tachysoma, populations. Fenchel’s (1990) study is the most relevant.
+Urosoma, Stentor, Blepharisrna) on relatively small The bacteria-feeding ciliates Pseudocohnilernbus and
+particles (< 5 p),thi s relationship does not hold true. Uronema have polymorphic life cycles with dispersal
+Too few specimens of Homalozoon vermiculare or stages which seek out patches of elevated bacterial
+Prorodon palustris were observed to say if the pre- concentration. When starved, Pseudocohnilembus forms
+Downloaded from www.sgmjournals.org by
+IP: 62.252.151.50
+On: Tue, 04 Aug 2015 09:45:53
+
+2862 B. J. Finlay, C. Te'llez and G. Esteban
+motile swarmers, about half of which subsequently form This work received financial support from the Natural Environment
+Research Council (UK), the British Council (MDR/980/2 (93/94)
+cysts, and the spatial distribution of these cysts in a
+1337), Direcci6n General de Investigacibn Cientifica y Ttcnica no. PB
+1.5 m2 area of marine sediment indicated that the patch 91-0384, and Consejo Superior de Investigaciones Cientificas (G. E.).
+size was approximately the same as the total area
+sampled. Furthermore, in the case of the dispersal stage
+References
+of Uronema, the mean lateral displacement during its
+lifetime was approximately 40 cm, so a circle with a BAROIN-TOURANCHAE,,A DUE,L GADOP,. , PERASSO,R . & ADOUTTEA, .
+(1992). A broad molecular phylogeny of ciliates: identification of
+radius of 40 cm might be considered the spatial range of
+major evolutionary trends and radiations within the phylum.
+a Uronema cell. This information, if broadly applicable Proceedings of the National Academy of Sciences of the United States
+to the Durat6n ciliates, is consistent with the idea that of America 89, 9764-9768.
+BERNINGEUR.,- G., CAROND, . A., SANDERSR,. W. & FINLAYB, . J.
+sampling within 1 m2 may have encompassed all, or the
+(1 99 1). Heterotrophic flagellates of planktonic communities, their
+greater part of, individual population patches in the case characteristics and methods of study. In The Biology of Free-Living
+of many of the ciliate species. It is also possible that the Heterotrophic Flagellates, pp. 39-56. Edited by D. J. Patterson &
+J. Larsen. Oxford : Clarendon Press.
+patch sizes may be even larger than this: diatoms, their
+BICKH, . (1973). Population dynamics of protozoa associated with the
+mucilage, and sediment particles existed as a loosely decay of organic materials in fresh water. American Zoologist 13,
+bound superficial layer, and the habitat thus created 149-160.
+CHAPINF, . S., SCHULZEE,. -D. & MOONEYH,. A. (1992). Biodiversity
+provided ciliates with shelter from the effects of tur-
+and ecosystem processes. Trends in Ecology and Evolution 7,107-108.
+bulence and the flow of river water. But occasional CURDSC, . R. (1982). British and Other Freshwater Ciliated Protozoa.
+disturbance and displacement of sediment is inevitable, Part 1. Ciliophora : Kinetofragminophora. London : Cambridge
+University Press.
+so the patch size, if indeed this is a realistic concept for
+CURDS,C . R.,G ATESM, . A. & ROBERTDS,. McL. (1983). British and
+river-dwelling ciliates, must be larger than it would be in Other Freshwater Ciliated Protozoa. Part 2. Ciliophora :O ligohymeno-
+a turbulence-free system. phora and Polyhymenophora. Cambridge : Cambridge University
+Press.
+CURDS,C . R., BAMFORTHS,. S. & FINLAYB, . J. (1986). Report on the
+Species number extrapolation freshwater workshop in Kisumu, Kenya (30 June5 July 1985).
+- Insect Science and its Applications 7,4 47-449.
+If we had sampled a much larger area of this sandy DRAGESCOJ., & DRAGESCO-KERNA~.I S(, 1986). Ciliks Libres de
+PAfrique Intertropicale. Paris: ORSTOM.
+sediment, how many more species would we have found?
+EMEJLETY., M ., FINLAYB, . J., THOMASR, . H. & DYAL,P . L. (1992).
+The additional number would probably not have been The use of rRNA sequences and fluorescent probes to investigate the
+very great, for the following reasons. (a) Most, if not all, phylogenetic positions of the anaerobic ciliate Metops palaeformis
+and its archaeobacterial endosymbiont. Journal of General Micro-
+of the ciliates and their habitats found within 1 m2 of
+biology 138, 147S1487.
+sandy sediment will exist elsewhere. Physical transport ESTEBANG,. , GUHL,B . E., CLARKEK, . J., EMBLEYT,. M. & FINLAY,
+processes (e.g. turbulence and the flow of water) will B. J. (1993a). Cyclidium porcatwn n. sp.: a free-living anaerobic
+scuticociliate containing a stable complex of hydrogenosomes,
+ensure that this is so. (b)I n addition, ciliates tend to have
+eubacteria and archaeobacteria.E uropean Journal of Protistology 29,
+very large population sizes (total ciliate abundance in the 262-270.
+Durat6n sediment was 1620 cm-2); so the probability of ESTEBANG, ., FINLAYB, . J. & EMBLEYT,. M. (1993b). New species
+double the diversity of anaerobic ciliates in a Spanish lake. FEMS
+local extinctions, and of speciation leading to endemism,
+Microbiology Letters 109, 93-100.
+is, in both cases, low (T. Fenchel, personal communi- FENCHELT, . (1968). The ecology of marine microbenthos. 11. The food
+cation). (c) In short, the same ciliate species are likely to of marine benthic ciliates. Ophelia 5, 73-121.
+FENCHELT,. (1969). The ecology of marine microbenthos. IV. Structure
+be found in the same habitat types in different parts of
+and function of the benthic ecosystem, its chemical and physical
+the river. If this reasoning is applied on a global scale, factors and the microfauna communities with special reference to the
+then the total number of ciliate species living in river ciliated protozoa. Opheiia 6, 1-182.
+FENCHETL., (1986). Protozoan filter feeding. Progress in Protistology 1,
+sediments may be quite modest.
+65-113.
+There is some support for these ideas in the data we FENCHEL,T . (1987). Ecology of Protozoa. Madison: Science Tech
+present here. Only eight of the 65 species are new. At Publishers/Berlin : Springer-Verlag.
+FENCHETL., (1990). Adaptive significance of polymorphic life cycles in
+least 43 of the remainder have been described from
+protozoa: responses to starvation and refeeding in two species of
+locations in geographically distant areas e.g. Kahl marine ciliates. Journal of Experimental Marine Biology and Ecology
+(1930-35) in Northern Germany, Foissner et al. (1991) in 136, 159-177.
+FENCHELT, . & FINLAYB, . J. (1990). Anaerobic free-living protozoa:
+Austria and Central Europe, and Dragesco & Dragesco-
+growth efficiencies and the structure of anaerobic communities.
+Kerneis (1986) in Central Africa. If a large proportion of FEMS Microbiology Ecology 74, 269-276.
+the ciliates living in a small area of sandy stream bed in FERN~NDEZ-GALIADN.O (,1 976). Silver impregnation of ciliated
+protozoa : procedure yielding good results with the pyridinated silver
+Spain also have a cosmopolitan distribution, there is
+carbonate method. Transactions of the American Microscopical
+little reason to believe that the number of ciliate species Society 95, 557-560.
+in a large area of sandy stream bed is significantly larger FINLAYB,. J. (1980). Temporal and vertical distribution of ciliophoran
+communities in the benthos of a small eutrophic loch with particular
+than the number we recorded.
+reference to the redox profile. Freshwater Biology 10, 15-34.
+Downloaded from www.sgmjournals.org by
+IP: 62.252.151.50
+On: Tue, 04 Aug 2015 09:45:53
+
+Diversity of ciliates in a Spanish stream 2863
+FINLAYB, . J. (1990). Physiological ecology of free-living protozoa. GRABACKEA. ,( 1971). Ciliata in bottom sediments of fingerling ponds.
+Advances in Microbial Ecology 11, 1-35. Polish Archives of Hydrobiology 18, 225-233.
+FINLAYB, . J. & BERNINGEUR.,- G. (1983). Coexistence of congeneric GIOVANNONS.I J, ., BRITSCHGTI., B., MOYERC, . L. & FIELD,K . G.
+ciliates (Karyorelictida:L oxodes) in relation to food resources in two (1 990). Genetic diversity in Sargasso Sea bacterioplankton. Nature,
+freshwater lakes. Journal of Animal Ecology 53, 929-943. London 345, 60-62.
+FINLAYB, . J. & EMBLEYT., M. (1992). On protozoan consortia and the GRAYE, . (1952). The ecology of the ciliate fauna of Hobson's Brook,
+meaning of biodiversity. Society for General Microbiology Quarterly a Cambridgeshire chalk stream. Journal of General Microbiology 6,
+19(3), 67-69. 108-122.
+FINLAYB, . J., BANNISTEPR., & STEWARTJ,. (1979~).T emporal KAHL, A. (1930-1935). Urtiere oder Protozoa. I. In Die Tierwelt
+variation in benthic ciliates and the application of association Deutschlands, pp. 1-886. Edited by F. Dahl. Jena: G. Fischer.
+analysis. Freshwater Biology 9, 45-53. LINAGEA, . (1989). Seprilveda y el Cafion del Duratdn, pp. 159. Le6n
+FINLAYB,. J., LAYBOURJN. ,& STRACHAIN. (, 1979b). A technique for (Spain) : Ediciones Lancia.
+the enumeration of benthic ciliated protozoa. Oecologia 39,375-377. NANNEYD, . L. (1982). Genes and phenes in Tetrahymena. Bioscience
+FINLAYB,. J., CURDSC, . R., BAMFORTSH. , S. & BAFORTJ, . M. (1987). 32, 783-788.
+Ciliated protozoa and other microorganisms from two African soda PEDR~S-ALIOC, . (1993). Diversity of bacterioplankton. Trends in
+lakes (Lake Nakuru and Lake Simbi, Kenya). Archiv fiir Protis- Ecology and Evolution 8, 8690.
+tenkunde 133, 8 1-9 1. PICKENL,. R. (1937). The structure of some protozoan communities.
+FINLAYB, . J., BERNINGERU,. -G., CLARKEK, . J., COWLINGA, . J., Journal of Ecology 25, 368-384.
+HINDLE,R . M. & ROGERSONA,. R. (1988). On the abundance and SMALLE, . B. (1973). A study of ciliate protozoa from a small polluted
+distribution of protozoa and their food in a productive freshwater stream in east-central Illinois. American Zoologist 13, 225-230.
+pond. European Journal of Protistology 23, 205-217. SMALLE, . B. & LYNND, . H. (1985). Phylum Ciliophora Doflein, 1901.
+FOISSNEWR,. (1980). Artenbestand und Struktur der Ciliatenzonose in In An Illustrated Guide to the Protozoa, pp. 393-575. Edited by J. J.
+alpinen Kleingewhsern (Hohe Tauern, Osterreich). Archiv fur Lee, S. H. Hutner & E. C. Bovee. Lawrence, Kansas: Society of
+Protistenkunde 123, 99-126. Protozoologists.
+FOISSNERW, ., BLATTEREHR.,, BERGERH, . & KOHMANNF,. (1991). SONGW, . & WILBERTN, . (1989). Taxonomische Untersuchungen an
+Taxonomische und okologische Revision der Ciliaten des Saprobien- Aufwuchsciliaten (Protozoa, Ciliophora) im Poppelsdorfer Weiher,
+systems. I: Cyrtophorida, Oligotrichida, Hypotrichia, Colpodea. Bonn. Lauterbornia 3, 2-22 1.
+Munich : Bayer. Landesamtes fur Wasserwirtschaft. WANGC, . C. (1928). Ecological studies of the seasonal distribution of
+FOISSNEWR,. , UNTERWGERA,. & HENSCHETL., (1992). Comparison protozoa in a fresh-water pond. Journal of Morphology 46,431-478.
+of direct stream bed and artificial substrate sampling of ciliates WEBB,M . G. (1961). The effects of thermal stratification on the
+(Protozoan, Ciliophora) in a mesosaprobic river. Limnologica 22, distribution of benthic protozoa in Esthwaite Water. Journal of
+97-104. Animal Ecology 30, 137-151.
+Downloaded from www.sgmjournals.org by
+IP: 62.252.151.50
+On: Tue, 04 Aug 2015 09:45:53
+

@@ -1,0 +1,689 @@
+Acta Protozool. 2004 (Suppl.) 43: 1
+Preface of Chief Editor
+This special issue of Acta Protozoologica is dedicated to Alfred Kahl (1877-1946), one of the most outstanding
+protozoologists who ever lived. It was initiated and partially financed by Prof. Wilhelm Foissner, an enthusiastic
+ciliatologist who discovered, together with Prof. Fritz Wenzel, a forgotten monograph of Kahl. I appreciate not only
+the facsimile reproduction of this monograph, but also Kahl’s biography, which is surprisingly short (Corliss 1978).
+Thanks to the authors for the new data and for translating some important passages of Kahl’s papers. They show
+not only Kahl’s scientific thinking, but also that some of our “new” questions and problems are, indeed, not as “new”
+as we thought.
+Jerzy Sikora
+Preface of Authors
+Bibliographies and general wisdom suggest that Kahl’s last publication appeared in 1935 (Kahl 1935, Corliss
+1978). Thus, it was a great surprise for the junior author when Prof. Wenzel showed him a Kahl monograph from
+1943. Wenzel got the monograph as a subscriber of the Mikrokosmos, a widely distributed and still alive journal
+for amateur microscopists, presently edited by Prof. Klaus Hausmann (Berlin University). The Mikrokosmos
+publishers distributed a book addendum to the subscribers biannually. The addendum for the year 1943 was the first
+part of Kahl’s “Infusoria”, the second was planed to be published in volume 38 (1944), but did not appear due to
+the second war troubles, that is, the Mikrokosmos ceased for four years, and the first issue of volume 38 appeared
+only in October 1948. However, we cannot exclude that Kahl’s manuscript still is in private or public archives.
+Likewise, we do not know whether further copies exist of part 1. A search in the web, kindly performed by Prof.
+Helmut Berger, did not reveal any offer for the 1943/44 book supplement of the Mikrokosmos, but it is likely that
+it is available in some of the large libraries. Indeed, Prof. Klaus Hausmann, one of the reviewers, recognized that
+he has the monograph in his records. However, he could not assign it to a certain author because Kahl’s name was
+not mentioned on the article! Professor Hausmann got the monograph together with a complete Mikrokosmos
+series from an old amateur microscopist rather recently.
+Kahl is still a very prominent ciliatologist due to his unsurpassed and invaluable monographs, summarizing the
+existing knowledge and adding thousands of excellent figures. His keys were even translated into English by
+Patterson (1978). Thus, Kahl deserves the honour that his last publication becomes distributed more widely,
+especially because it contains several new species and many improved figures arranged to nice plates.
+We and the present Mikrokosmos publisher were unable to locate the copyright holder. Copyright of Kahl’s
+article ends in 2013. Thus, Wilhelm Foissner declares that he will compensate for all financial claims of the present
+re-print.
+Nine years ago, one of us discovered Dumont’s forgotten monographs, containing hundreds of new protist
+species (Foissner 1995). Now, a forgotten monograph of Kahl is brought to light. How many are waiting to be
+discovered, especially in the old Russian and Asian literature?
+We warmly thank Prof. Jerzy Sikora for giving us the possibility to distribute Kahl’s last monograph to a wide
+audience.
+Wilhelm Foissner
+Fritz Wenzel
+
+Acta Protozool. 2004 (Suppl.) 43: 3 - 69
+Life and Legacy of an Outstanding Ciliate Taxonomist, Alfred Kahl
+(1877-1946), Including a Facsimile of his Forgotten Monograph from 1943
+Wilhelm FOISSNER1 and Fritz WENZEL2
+1Universität Salzburg, FB Organismische Biologie, Salzburg, Austria; 2Universität Hamburg, Zoologisches Institut und Museum,
+Hamburg, Germany
+Summary. The facsimile presentation of a forgotten ciliate monograph of Alfred Kahl from the year 1943 is a convenient occasion for a
+detailed biography of this outstanding ciliate researcher. Kahl was born in the village of Warwerort, that is, at the north coast of Germany
+on 18th February 1877. Nothing is known about his parents and youth. At the turn of the century, when Kahl was twenty, he became a
+primary school master; later, he taught English, French, and natural history in a Gymnasium (high school) in Hamburg, where he married
+and had a daughter, who initiated, as a student of the famous Eduard Reichenow, his microscopic studies.
+Kahl published his first paper, a monograph with 241 pages, in the year 1926, when he was nearly fifty. In the following nine years, Kahl
+produced 1800 printed pages, containing, inter alia, the descriptions of 17 new ciliate families, 57 new genera, about 700 (!) new species,
+and thousands of excellent pen- and -ink drawings. Although Kahl had contact with several academic protozoologists, such as E. Reichenow
+and H. Kirby, he was a self-made man working alone and performing his meticulous live observations with a simple bright field microscope
+equipped, however, with a 100:1 oil immersion objective. Kahl did not only excellent original research, but also thorough taxonomic revisions.
+This culminated in the 1930-35 monographs in Dahl’s Die Tierwelt Deutschlands series. These four reviews, which bring together and freshly
+characterize most ciliates known to that time, soon became “classics” and are Kahl’s most important scientific legacy. Kahl’s meticulous
+observations and phylogenetic ideas also influenced the higher classification of the ciliates, though this is less obvious than for species
+taxonomy.
+After 10 years of intense work, Kahl abruptly stopped publishing in 1935, possibly because of problems with some academic
+protozoologists and zoologists. However, his reviews in the Tierwelt Deutschlands series soon made him famous throughout the
+protozoological landscape. This might have stimulated him to commence work again in the early forties, when he produced a revision of
+the 1930-35 monographs. The revision should be a book addendum for the subscribers of the Mikrokosmos, a popular journal for amateur
+microscopists. Unfortunately, only part 1, here reproduced as a facsimile, was published in 1943, while part 2 was likely lost during the
+Second World War troubles. This fine piece of work is not only a simple repetition of the previous reviews, but contains 10 new taxa, the
+freshwater species described between 1935 and 1940, several nomenclatural novelities, interesting remarks on various genera, and many
+improved figures. Two of the 10 new species were rediscovered recently, and one is redescribed and neotypified here, viz., Phialinides
+muscicola (Kahl, 1943) nov. comb.
+Kahl used the morphospecies concept and emphasized that ciliate diversity is much greater than previously recognized. This and other
+matters caused conflicts with some academic protozoologists, especially A. Wetzel, who disliked Kahl’s simple drawings and splitting of
+seemingly very similar species. However, time confirmed Kahl, whose life and work are an impressive example of how to become an
+unforgettable taxonomist: excellent original research and revisions, diligence, objectivity, respect for the field’s history and, last but not least,
+a good deal of talent. Kahl died in November 1946. The reason and his grave are unknown.
+Key words: biography, ciliate species recognition, Ciliophora, Kahl Alfred, neotypification, new ciliate species, Phialina binucleata,
+Phialinides australis, Phialinides muscicola (Kahl, 1943) nov. comb.
+Address for correspondence: Wilhelm Foissner, Universität Salzburg, FB Organismische Biologie, Hellbrunnerstrasse 34, A-5020
+Salzburg, Austria; E-mail (via): eva.herzog@sbg.ac.at
+
+4 W. Foissner and F. Wenzel
+Fig. 1. The “young” Kahl (likely in his forties), demonstrating one
+of his many drawings. Note his simple microscope in the background.
+The photograph is from the archives of Prof. Dr. Klaus Hausmann
+(Berlin University). He cannot remember the source, but added it to
+a paper by Günkel (2000).
+BIOGRAPHY OF ALFRED KAHL (1877-1946)
+Alfred Detlef Fritz Kahl was born on 18th February
+1877 in the village of Warwerort, that is, in an area called
+Fig. 2. This photograph shows Kahl in April 1934, when he was 57.
+Dithmarschen (E9° N54°) at the north coast of Ger- It was taken by Dr. L. Provasoli in the city of Hamburg, where Kahl
+lived and worked; the background shows a shopping boulevard.
+many, about 80 km NE of the town of Hamburg. Nothing
+Foissner, and likely also Corliss (1978), got this photograph from
+is known about his parents, childhood, and youth. A Dr. Bruno M. Klein, the famous Austrian protozoologist who de-
+consultation of people from Warwerort in the sixties scribed the first silver method and discovered the “Silberliniensystem”
+of the ciliates.
+revealed that nobody could remember the Kahl family.
+However, the Hamburg city archives show that he
+passed the examinations for primary school teachers in gation of the small water bodies in my surroundings at
+1897. Between 1897 and 1901, Kahl was teacher in a the beginning of the year 1924. Within nine months, I got
+private elementary school in Hamburg. a rather solid knowledge in drawing and identifying many
+Our next official record is from 1934, when Kahl species….but literature was a problem, until I got Penard’s
+taught natural history, English and French in a public high (1922) ciliate monograph from Prof. Reichenow. In
+school (Gymnasium) in Hamburg. This shows that he Penard’s fundamental work, I recognized 20-30 new
+passed further examinations to become a high school species which I had seen previously in my material and
+teacher and his interest in natural history. Further, he also classified as undescribed”.
+obviously had married and a daughter who attended the Kahl was now in the late forties and a distinguished
+protozoological lectures and courses given by Prof. person, as obvious from the photograph (Fig. 1). During
+Dr. Eduard Reichenow at the Tropeninstitut (Tropical a period of only 10 years, from about 1925 to 1935, Kahl
+Institute) in Hamburg. In the introduction to his first intensely studied ciliates and published 21 papers, mostly
+monograph, Kahl (1926) informed the readers how he monographs with over fifty pages. Most of these papers
+became a ciliate researcher: “The very interesting litera- appeared in the Archiv für Protistenkunde and in the
+ture and preparations my daughter Lucia brought home famous series edited by F. Dahl (Die Tierwelt
+fascinated me, as a dedicated biologist, and created the Deutschlands / Fauna of Germany) and G. Grimpe &
+desire to study this field more deeply….Thus, I E. Wagler (Die Tierwelt der Nord- und Ostsee / Fauna
+enthusiasticly commenced literature reading and investi- of the North and East Sea).
+
+Alfred Kahl’s life and legacy 5
+In 1934/35, Kahl suddenly ceased his tremendous Measurements were performed with the “number 4”
+research activities with a supplement to his monographs eyepiece micrometer of the Zeiss Company. Unfortu-
+in the Tierwelt Deutschlands, summarizing the species nately, Kahl’s measurements are wrong in the first
+described between 1930 and 1934 and describing sev- monographs because he corrected them upwards by
+eral new species he discovered during this period. The about 25% in the reviews from 1930-1943! Kahl never
+actual reason(s) why Kahl resigned is not known. On the commented on this mistake, but it is obvious from the
+photograph from 1934 (Fig. 2), he still appears as a sizes provided.
+distinguished person, but looks more sceptic than previ- Kahl (1926, 1930b, 1943) gives information on his
+ously (Fig. 1). Likely, Kahl was frustrated by the dispar- methods to observe and illustrate ciliates. Basically, his
+aging critic he experienced from several academic pro- techniques are simple and the same as used by us
+tozoologists, especially Prof. A. Wetzel. This is evident (Wenzel 1953, Foissner 1991). Briefly, specimens are
+from responses Kahl made in several papers (see next isolated with a micropipette and first observed at low
+section). He had problems to publish in acknowledged magnification and without cover glass to note shape,
+journals, such as the Archiv für Protistenkunde and the size, movement, and the location of the main organelles.
+Zeitschrift für Morphologie und Ökologie der Tiere. Then, a cover glass with small pillars of vaseline near its
+But soon Kahl’s monographs became a bible for edges is applied; the latter are pressed down with a
+ciliate taxonomists and other people involved in ciliate needle until the ciliate becomes more or less immobile
+identification. Obviously, this stimulated him to com- and can be studied with the oil immersion objective. See
+mence work again in the forties, when he produced the Foissner (1991) for a detailed description of this method.
+shortened and revised version of his Tierwelt The nuclear apparatus, Kahl studied mainly in vivo,
+Deutschlands monographs reprinted here. Unfortunately, rarely he used acetic methyl green or borax carmine.
+Kahl passed away with 68, that is, in 1946, likely on 20th Kahl emphasizes the need of detailed live observation;
+November. We did not find any obituaries, except the the use of the oil immersion objective; to illustrate only
+simple statement by Dr. Georg Stehli in the 1948 those structures which were really seen; and to be
+Mikrokosmos issue that “Kahl died during the past four critical of his own and literature data.
+years the journal could not appear”. As concerns the famous illustrations, Kahl stated
+(1926, p. 204): “From the many drawings of a species,
+I select those for publication which are most useful for
+KAHL’S MICROSCOPE AND METHODS FOR a solid characterization. These figures, I redraw in
+CILIATE OBSERVATION AND ILLUSTRATION double size so that they can be reduced to the original
+size in the paper. This should help to soften the “hard-
+Ahead, we need to mention that Kahl published only ness” typical for pen - and - ink drawings. Rarely, I use
+in German language, as usual at that time. We decided a camera lucida, mainly for species which remain immo-
+to translate literally the most important passages into bile for longer periods. However, the results are very
+English for the sake of wider understanding. similar to my ordinary freehand drawings”. Frequently, it
+Kahl (1926, p. 203) remarked on the microscope he is overlooked that the original monographs of Kahl
+used and which can be seen in the background of figure (1926, 1927a, b, 1928a, b, 1930a, 1931a, b, 1932a) are
+1: it is a bright field stative III of the W. & S. Seibert much more detailed, both in text and illustration, than the
+company equipped with a compound condenser, a 5 × reviews from 1930-1943, which are extremely con-
+eyepiece, a 2.5½ objective (about 3:1), and an oil immer- densed due to space constraints and the inclusion of
+sion objective 1/12 (100:1). Seen from today’s perspec- literature data.
+tive, this is a simple instrument, providing a highest Kahl’s simple drawings look not very impressive and
+magnification of × 500. However, the oil immersion were thus occasionally criticized. However, anyone who
+objectives produced around 1920 had good resolution ever tried such a “simple drawing” will soon recognize
+and great sharpness in the centre. Thus, the images the talent needed! Kahl was not only a meticulous
+obtained are similar to present-day bright field micro- observer but, like Fauré-Fremiet (1924), also a talented
+scopes, especially if combined with a compound con- illustrator, showing the essence of a species in one or a
+denser. few seemingly simple drawings.
+
+6 W. Foissner and F. Wenzel
+KAHL’S LEGACY TO CILIATE TAXONOMY group introductions of the Tierwelt Deutschlands mono-
+graphs. Unfortunately, this has been widely ignored.
+Within only 10 years, Kahl produced about 1800 However, we believe that Kahl’s hypotheses and me-
+printed pages, containing 17 new ciliate families (Corliss ticulous observations served as idea generator for many
+1979b), 57 new genera (Aescht 2001), about 700 (!) new other researchers (for an example, see Foissner et al.
+species, and thousands of excellent figures of new and 2004b), and several of his families were raised to
+previously poorly described ciliates. Indeed, he almost suborders or orders, usually with insignificant additions
+doubled the number of free-living ciliate species, al- (for reviews, see Corliss 1961, 1979b).
+though he likely had a full-time job as a school master
+and worked alone, except for a single, small paper
+(Jörgensen and Kahl 1932). Thus, we agree with Corliss KAHL’S SCIENTIFIC THINKING AND HIS
+(1978) that this is an “unbelievable record which has PROBLEMS WITH ACADEMIC PROTOZO-
+never been - and is hardly ever likely to be - met in the OLOGISTS
+annals of protozoology and microscopy, past, present, or
+future!”
+Correspondence and contacts
+Most of Kahl’s new species (~ 680) are contained in
+the 1930-35 Tierwelt Deutschlands monographs, the Our knowledge about Kahl’s scientific correspon-
+others are found in the reviews from (1933b) and (1943). dence and contacts is limited to a few remarks Kahl
+Later, many of Kahl’s species were rediscovered and made in some of his papers. Obviously, he had contact
+redescribed with modern methods, showing the accu- with most European ciliate researchers, especially, Penard,
+racy of his descriptions. Thus, Patterson’s (1978) criti- Bresslau, Stiller, and Klein; further, he distributed photo-
+cism that “Kahl often described the different morpho- graphs of himself, for instance, to B.M. Klein (pers. inf.
+logical variants of a species as separate species in their of Klein to WF; Fig. 2). The contact between Kahl and
+own right” is difficult to understand and unjustified. Klein was rather narrow because Kahl dried some of his
+Kahl did not only excellent original research, but also species on slides and sent them to Klein for silver nitrate
+thoroughly reviewed the taxonomic literature on ciliates. preparations (Klein 1930). However, none of these
+This culminated in the 1930–35 monographs in Dahl’s contacts resulted in joint publications, except of a note
+Die Tierwelt Deutschlands series. These are highly with Jörgensen (Jörgensen and Kahl 1932).
+valuable and still frequently cited reviews, which soon Certainly, Kahl had extensive and good contacts with
+became “classics” for experts from various fields, are several editors, especially Max Hartmann, who ac-
+Kahl’s most intriguing legacy and made him famous cepted his first monographs for publication in the Archiv
+nationally and internationally. Text and figures, although für Protistenkunde. Further, book and series editors,
+often very brief and rather small, form a harmonic unit like Dahl and Grimpe, were obviously glad to have a
+making the monographs easy to use. Synonymization competent and productive ciliate taxonomist. For in-
+was done with great care and objectivity, showing that stance, Prof. A. Thienemann, a famous hydrobiologist,
+Kahl deeply respected the work of his predecessors; invited Kahl (1928a, b) to study the ciliates of the
+indeed, he redescribed many old species and avoided the Oldesloe salt marshes at the east coast of Germany and
+establishment of new taxa whenever this was possible. to publish the results in the Archiv für Hydrobiologie he
+Thus, few of Kahl’s species have fallen into synonymy. edited.
+All these attributes are requisites to become an unforget-
+Kahl’s critics
+table taxonomist (Foissner 1996).
+We only partially agree with Corliss (1978) that Kahl Kahl’s early monographs (1926-1930a) soon divided
+little contributed to the higher classification of the cili- the audience into admirers, who acknowledged his de-
+ates, although it is true that he basically used Bütschli’s tailed observations and great knowledge on species, and
+system. However, Kahl established not only several critics, who considered him as a splitter using the wrong
+suborders, such as the Ctenostomata and the sessile method (live observation) and (morphological) species
+peritrichs, but generated also interesting hypotheses on concept, especially Wetzel (1928) and, to some extent,
+the evolution and relationships of several ciliate groups also Pestel (1931). Kahl (1929, 1933a) responded to both
+(Kahl 1931a, b, 1932 a). Most of these ideas were not (see below). Today, we know that Wetzel (1928) was
+published in separate papers, but are contained in the wrong, but his sharp criticism and the more or less subtle
+
+Alfred Kahl’s life and legacy 7
+objection of others caused that Kahl became discredited As concerns the species concept, Kahl (1930a,
+and some of his studies were refused by the leading pp. 315, 318, 319) defends a strictly morphological
+zoological journals. Kahl (1930a, 1935) complained definition: “I consider the species as an abstraction
+about that several times, for instance, when he described which eliminates the individual morphological variabil-
+the stalk of the peritrichs (Kahl 1935, p. 710): “Unfortu- ity and summarizes the useful morphological features
+nately, my detailed research was refused by the in a concise diagnosis. Species can be recognized only
+editors of two influential journals, the Zeitschrift empirically, that is, they cannot be proven in a strict
+für Wissenschaftliche Zoologie and the Zeitschrift sense because empiricism uses only plausibilities”. Wetzel
+für Morphologie und Ökologie der Tiere”. What a (1928), in contrast, defines ciliate species “as those
+loss! individuals which are able to conjugate with each other”.
+Certainly, Kahl made mistakes, as do all diligent Kahl (1930a, pp. 315-318) criticizes this definition for
+people, but compared to the countless correct observa- practical and theoretical reasons, but emphasizes that
+tions, these are negligible. Kahl made some rather conjugation is an excellent additional feature for species
+serious mistakes in nomenclature (Corliss 1979b), previously defined morphologically. Time confirmed
+however we should not forget that the first International Wetzel, because his species concept is very similar
+Code of Zoological Nomenclature was still in its infancy to that used by most modern biologists. On the other
+when Kahl commenced his research. As a non- hand, the practical problems of such a definition remain,
+academic self-made man, Kahl certainly was very sen- for instance, that it may be extremely difficult to exclude
+sible to criticism. Likely, the public objections of sex in two similar morphospecies. Thus, the majority
+Wetzel (1928) and the subtle criticism of several journal of new protist, plant, and animal species described
+editors contributed to Kahl’s stopping work so abruptly these days, is still defined purely morphologically and/or
+in 1935. by gene sequences. Wetzel (1928) also could not solve
+the practical problems of his concept because he diag-
+Kahl’s species and scientific concepts
+nosed his new species in the classical (morphological)
+Kahl (1929, 1933a) responded to his actual and way!
+potential critics in two specific papers and, especially, in In the context of species differentiation and recogni-
+the introduction to the monograph on holotrichous ciliates tion, Kahl (1930a, p. 318) also discusses pure cultures
+(Kahl 1930a, pp. 313-320). We shall cite mainly from the and reaches the following conclusion: “If the species is
+last essay, which is timeless and shows Kahl’s scientific not extraordinarily variable, a pure culture is less useful
+concepts. than observations on ten field populations”. Kahl does
+Kahl (1930a) commences the essay with a literal not deny the advantages of pure cultures, if the users are
+citation of some remarks of Wetzel (1928): “Considering beware of the possibility that poorly thriving or degener-
+the variable shape of many protozoans, it is very easy to ating cultures can produce abnormal specimens seem-
+describe new species. Unfortunately, recent taxonomists ingly bridging the gap between two or more well-defined
+are as thoughtless as previous ones in this respect; morphospecies. Everyone who uses both, pure cultures
+indeed, their descriptions and figures are even more and field populations will agree!
+superficial”. Wetzel (1928) does not explicitly refer to Kahl (1930a, p. 320) closes the essay with a remark-
+Kahl, but the further text shows him as the addressee. able, but impracticable suggestion: ”In protozoans, spe-
+Kahl (1930a, p. 314) responded to this scathing critique cies recognition is highly subjective. Thus, there should
+with some remarkable statements illuminating also the be some standardization, for instance, a species should
+present problems with ciliate diversity (Foissner 1999): be considered as valid only if it has been confirmed by
+“Such views on my publications are not unexpected for at least two specialists”.
+me. The huge number of new species I described must Kahl’s essay shows that some of our “new” problems
+produce the impression that a “species hunter” is at are, in fact, the old ones! There is still intense discussion
+work. However, I will keep up my view, without any about methods (live observation vs. definition from silver
+respect to others, that there are much more protozoan slides only), diversity (few or many species; Foissner
+species than supposed previously. Future research should 1999), species concepts (Foissner et al. 2002), and
+decide whether or not I was correct and whether the material (pure cultures vs. field populations). Certainly,
+above cited remarks apply to me”. discussion will go on and on and each generation of
+
+8 W. Foissner and F. Wenzel
+scientists will have its own view in the light of new new observations. Thus, the 1943 monograph should be
+methods and concepts. consulted in all kinds of taxonomic work.
+New taxa described (arranged alphabetically):
+Askenasia armata (p. 22), Askenasia pelagica (p. 22),
+FACSIMILE OF THE “INFUSORIEN” OF KAHL both not identical with any of the species described in the
+(1943) revision of the genus by Krainer and Foissner (1990);
+Frontonia angusta (p. 45), raised to species level, as
+Our and Hausmann’ s exemplar of Kahl’s (1943) also suggested by Foissner et al. (1994); Lacrymaria
+“Infusorien” is not bound and lacks a title page. It is not muscicola (p. 17), redescribed at the end of this paper;
+known whether a title page exists at all. Possibly, it Loxodes striatus var. fasciformis (p. 33); Paramecium
+should have been distributed with part 2, which never chlorelligerum f. claviforme (p. 36), see also the little-
+appeared. Thus, the monograph ends abruptly with Plate known paper by Baumeister (1969), who described
+XIV showing ophryoglenids and scuticociliates; the three new, likely valid species, viz., P. varionuklei,
+peritrichs and spirotrichs are lacking. P. traunsteineri and P. chilodonides; Prorodon
+geldneri (p. 16), Prorodon sapropelicus (p. 16),
+Complete title in German (obtained from Prorodon discolor f. ovalis (p. 16); and Spathidium
+Dr. Rainer Gerstle, editorial assistant to the Mikrokosmos coemeterii (p. 27), redescribed by Foissner et al. (2004a).
+in the seventies) As mentioned in this compilation, two out of the ten
+Kahl A. (1943) Infusorien (1. Teil). Ein Hilfsbuch zum new taxa described by Kahl (1943) were re-discovered
+Erkennen, Bestimmen, Sammeln und Präparieren der by Foissner: one is redescribed in Foissner et al. (2004a),
+freilebenden Infusorien des Süßwassers und der Moore. the other at the end of this paper. This shows once more
+Buchbeilage zum Mikrokosmos Jahrgang 1942/43, d. h., the excellent work Kahl did. Likely, the other species
+erschienen in der Reihe “Handbücher für die praktische also can be re-discovered on detailed investigations.
+naturwissenschaftliche Arbeit”, Band 31/32, 52 pp. Nomenclatural changes: Kahl (1943, p. 21) trans-
+Franckh’sche Verlagsbuchhandlung, W. Keller & Co., ferred Chaenea mucicola Wang to Enchelyodon. In
+Stuttgart. this genus, however, it is preoccupied by E. mucicola
+Kahl. Thus, he introduced the new name Enchelyodon
+English translation (by W. Foissner) wangi nom.n. Kahl (1943, p. 27) recognized preoccupa-
+Kahl A. (1943) Infusoria (part 1). An assistance book tion of Diceras Eberhard and introduced the new name
+for the knowledge, identification, collection, and prepara- Diceratophrys nom.n. Accordingly, Diceratula Corliss
+tion of free-living infusoria from freshwaters and bogs. (1960), who also recognized this homonymy, is a junior
+Book supplement to the Mikrokosmos years 1942/43. synonym.
+This supplement series appeared under a distinct name, Remarks on generic classifications: The 1943
+viz., “Manuals for practical scientific work”, volume monograph contains, like Kahl’s previous monographs,
+31/32, 52 pp. Franckh’sche Publishers, W. Keller & Co., interesting notes on the morphology and classification of
+Stuttgart. several genera. These remarks are too extensive to be
+fully cited and translated; thus, just a few representative
+Suggestion for citation in taxonomic studies examples were selected. Kahl (p. 49) recognized that
+Kahl A. (1943) Infusorien (1. Teil). Handbücher für Ichthyophthirius belongs to the ophryoglenids, which
+die praktische wissenschaftliche Arbeit 31/32, 52 pp. was later proven by Lynn et al. (1991); that Hemiophrys
+Franckh’sche Verlagsbuchhandlung, Stuttgart. (Reprinted is a junior synonym of Amphileptus (p. 28), later proven
+in Acta Protozoologica 43 (Suppl.): 1-66, 2004) by Foissner (1984b); and that Dileptus tracheloides
+Zacharias represents a new genus (p. 32), which was
+Taxonomic and nomenclatural innovations in the
+independently established by Foissner et al. (1999).
+monograph of Kahl (1943)
+Further, interesting notes concern, for instance, the
+The monograph excludes marine species and con- genera Disematostoma, Stokesia, and Marituja which
+tains several innovations summarized in the following Kahl considers as synonyms. However, this is not sup-
+paragraphs. Further, Kahl has redone all illustrations. ported by recent data compiled in Foissner et al. (1999).
+Usually, the differences are small, but in some species Supplementary observations: Several descriptions
+they are considerable, showing that they are based on and many illustrations are obviously based on additional
+
+Alfred Kahl’s life and legacy 9
+observations. Sometimes, this is obvious, for instance, in in Phascolodon vorticella, Bresslaua discoidea, and
+Lacrymaria vermicularis (p. 17): “Frequently, a large Hemicyclium lucidum. Further, Kahl included illustra-
+variety is found among aquatic plants, while a smaller, tions of several undescribed species, for instance, a
+probably distinct species occurs in the plankton (Fig. 8, 500 µm (!) long, sapropelic Spathidium (Fig. 16 on
+p. 13)”; usually, however, the new data are utilized in p. 19).
+refined illustrations without any comment, for instance,
+
+Alfred Kahl’s life and legacy 11
+
+12 W. Foissner and F. Wenzel
+
+Alfred Kahl’s life and legacy 13
+
+14 W. Foissner and F. Wenzel
+
+Alfred Kahl’s life and legacy 15
+
+16 W. Foissner and F. Wenzel
+
+Alfred Kahl’s life and legacy 17
+
+18 W. Foissner and F. Wenzel
+
+Alfred Kahl’s life and legacy 19
+
+20 W. Foissner and F. Wenzel
+
+Alfred Kahl’s life and legacy 21
+
+22 W. Foissner and F. Wenzel
+
+Alfred Kahl’s life and legacy 23
+
+24 W. Foissner and F. Wenzel
+
+Alfred Kahl’s life and legacy 25
+
+26 W. Foissner and F. Wenzel
+
+Alfred Kahl’s life and legacy 27
+
+28 W. Foissner and F. Wenzel
+
+Alfred Kahl’s life and legacy 29
+
+30 W. Foissner and F. Wenzel
+
+Alfred Kahl’s life and legacy 31
+
+32 W. Foissner and F. Wenzel
+
+Alfred Kahl’s life and legacy 33
+
+34 W. Foissner and F. Wenzel
+
+Alfred Kahl’s life and legacy 35
+
+36 W. Foissner and F. Wenzel
+
+Alfred Kahl’s life and legacy 37
+
+38 W. Foissner and F. Wenzel
+
+Alfred Kahl’s life and legacy 39
+
+40 W. Foissner and F. Wenzel
+
+Alfred Kahl’s life and legacy 41
+
+42 W. Foissner and F. Wenzel
+
+Alfred Kahl’s life and legacy 43
+
+44 W. Foissner and F. Wenzel
+
+Alfred Kahl’s life and legacy 45
+
+46 W. Foissner and F. Wenzel
+
+Alfred Kahl’s life and legacy 47
+
+48 W. Foissner and F. Wenzel
+
+Alfred Kahl’s life and legacy 49
+
+50 W. Foissner and F. Wenzel
+
+Alfred Kahl’s life and legacy 51
+
+52 W. Foissner and F. Wenzel
+
+Alfred Kahl’s life and legacy 53
+
+54 W. Foissner and F. Wenzel
+
+Alfred Kahl’s life and legacy 55
+
+56 W. Foissner and F. Wenzel
+
+Alfred Kahl’s life and legacy 57
+
+58 W. Foissner and F. Wenzel
+
+Alfred Kahl’s life and legacy 59
+
+60 W. Foissner and F. Wenzel
+
+Alfred Kahl’s life and legacy 61
+
+62 W. Foissner and F. Wenzel
+
+Alfred Kahl’s life and legacy 63
+REDESCRIPTION OF Phialinides muscicola (Kahl, et al. 2004a); acontractile in vivo, but probably slightly
+1943) nov. comb. (Figs 3-22; Table 1) contracted in the protargol preparations, as indicated by
+specimens with rather distinctly spiralled ciliary rows;
+length:width ratio moderately variable, on average near
+1943 Lacrymaria muscicola Kahl, Infusorien: 17
+4:1 both in vivo and protargol preparations (Table 1).
+Improved diagnosis: size about 100 × 25 µm Shape cylindroidal to indistinctly fusiform, swimming
+in vivo; acontractile. Cylindroidal with massive oral specimens usually slightly curved; unflattened; oral bulge
+bulge and head. Two ellipsoidal macronucleus nodules and head distinctly separate from trunk, appear as a
+and one micronucleus. On average 21 ciliary rows and conspicuous process in swimming cells, trunk more or
+4 cilia in ciliary circle between head and trunk. Extrusomes less distinctly constricted subapically producing a rather
+rod-shaped to slightly acicular, about 15 µm long. conspicuous shoulder often poorly preserved in protargol-
+Neotype location: spruce-fir-beech forest (Neu- impregnated specimens (Figs 3, 10, 12). Nuclear appa-
+wald) soil in Lower Austria, 47°46’ N 15°32’ E. ratus in or near centre of trunk. Invariably two macro-
+Neotype material: four slides with protargol-im- nucleus nodules close together, but not in fixed position,
+pregnated specimens have been deposited in that is, side by side to up to at right angles and oriented
+the Biologiezentrum of the Oberösterreichische in or transversely to main axis of cell. Individual nodules
+Landesmuseum in Linz (LI), Upper Austria. Relevant ellipsoidal (~ 2:1) to elongate ellipsoidal (~ 4:1), on
+specimens are marked with black ink circles on the average about 20 × 7 µm both in vivo and protargol
+cover glass. preparations; contain many globular nucleoli. One micro-
+Redescription: size 75-130 × 20-30 µm in vivo, nucleus in shallow indentation of one of the two macro-
+usually about 100 × 25 µm; 85-150 × 25-40 µm in vivo, nucleus nodules, inconspicuous because discoidal and
+usually about 120 × 30 µm, in another population from a only 2-3 µm in size (Figs 3, 10-13; Table 1). Contractile
+spruce-fir-beech forest (Rothwald) soil near to the neo- vacuole in posterior body end, several excretory pores in
+type location (detailed site descriptions, see Foissner pole area.
+Table 1. Morphometric data on Phialinides muscicola
+Characteristics1 (cid:1) M SD SE CV Min Max n
+Body, length 89.5 88.0 12.8 2.7 14.3 68.0 115.0 23
+Body, width 22.9 23.0 2.8 0.6 12.0 18.0 29.0 23
+Body length:width, ratio 3.9 3.8 0.4 0.1 11.1 3.2 4.7 23
+Oral bulge, height 4.3 4.0 0.4 0.1 9.9 3.5 5.0 23
+Oral bulge, width at base 9.2 9.0 1.0 0.2 11.3 7.0 11.0 23
+Head, width 11.2 11.0 1.0 0.2 9.3 9.0 13.0 23
+Oral bulge plus head, height 10.8 11.0 0.7 0.2 6.8 10.0 12.0 23
+Anterior body end to trunk kineties, distance 14.0 14.0 1.2 0.3 8.8 12.0 16.0 23
+Anterior body end to macronucleus, distance 38.6 39.0 9.1 1.9 23.7 24.0 62.0 23
+Macronucleus nodules, length 18.6 18.0 2.5 0.5 13.6 14.0 23.0 23
+Macronucleus nodules, width 6.7 7.0 1.0 0.2 14.3 5.0 9.0 23
+Macronucleus nodules, number 2.0 2.0 0.0 0.0 0.0 2.0 2.0 23
+Micronucleus, length 2.1 2.0 – – – 2.0 2.5 14
+Micronucleus, width 1.7 1.5 – – – 1.5 2.0 14
+Micronucleus, number 1.0 1.0 0.0 0.0 0.0 1.0 1.0 18
+Ciliary rows in mid-body, number 20.8 20.0 1.7 0.4 8.3 18.0 24.0 23
+Kinetids in a ciliary row, total numberb 37.4 38.0 8.8 1.8 23.5 21.0 50.0 23
+Brush pairs or triplets in a kinety, number 3.0 3.0 0.7 0.1 22.5 2.0 4.0 23
+Extra kinetids between head and trunk, number 4.1 4.0 2.2 0.5 53.7 1.0 8.0 23
+aData based on mounted, protargol-impregnated (Foissner’s method, see Foissner 1991), randomly selected specimens from a non-flooded
+Petri dish culture (see Foissner et al. 2002). Measurements in µm. CV - coefficient of variation in %, M - median, Max - maximum,
+Min - minimum, n - number of individuals investigated, SD - standard deviation, SE - standard error of arithmetic mean, (cid:1)- arithmetic mean.
+bDikinetids and trikinetids at anterior end of kineties and within kineties each counted as 1 kinetid!
+
+64 W. Foissner and F. Wenzel
+Figs 3-10. Phialinides muscicola from live (3-9) and after protargol impregnation (10). 3 - general views of a representative and a slender
+specimen, length about 100 µm. The cytoplasm contains bundles of rod-shaped extrusomes, a large food vacuole with a just ingested Halteria
+grandinella, many small lipid droplets, and the two conspicuous macronucleus nodules; 4 - original figure by Kahl (1943), length 70 µm;
+5 - oral bulge extrusomes are about 15 µm long, slightly curved and inconspicuously acicular (left) or rod-shaped (right);
+6, 7 - surface view and optical section showing dense cortical granulation. Individual granules about 1 × 0.4 µm; 8 - anterior portion of a trunk
+ciliary row, showing the bristle-like anterior cilium of the brush dikinetids; 9 - extrusomes develop in cytoplasmic vacuoles and are enveloped
+in fluffy material (cp. Fig. 21); 10 - somatic and oral ciliary pattern and nuclear apparatus of main neotype specimen, length 90 µm. Arrow
+marks micronucleus. Arrowheads denote kinetid circle between head and trunk, that is, the main feature of the genus Phialinides. B - dorsal
+brush; CK - circumoral kinety; EP - excretory pores of contractile vacuole; G - cortical granules; H - head; OB - oral bulge. Scale bars 30 µm.
+Extrusomes form conspicuous, posteriorly diverging method used, while some cytoplasmic extrusomes im-
+bundle in centre of oral bulge and head as well as thin, pregnate rather intensely (Figs 3, 5, 11, 17, 20). Cortex
+scattered bundles in the cytoplasm. Individual extrusomes very flexible, contains about seven rows of colourless
+rod-shaped to indistinctly acicular and slightly curved, granules between each two kineties; individual granules
+14-17 × 0.8-1 µm in size; develop in vacuoles 4-6 µm rather refractive and about 1 × 0.4 µm in size, that is,
+across, as shown in figures 9 and 21; oral bulge comparatively large and thus conspicuously dotting cell
+extrusomes rarely impregnate faintly with the protargol surface (Figs 6, 7, 21). Usually contains some fluffy food
+
+Alfred Kahl’s life and legacy 65
+Figs 11-15. Phialinides muscicola from life (11) and after protargol impregnation (12-15). 11 - a specimen squashed by cover glass pressure,
+showing a main feature of this species, viz., the two macronucleus nodules. The arrowhead marks the minute micronucleus; 12, 14 - overview
+and details of ciliary and nuclear apparatus. Arrows mark circumoral dikinetids between head kineties, which bear a circumoral dikinetid at the
+anterior end. Large arrowheads mark kinetid circle between head and trunk. The small arrowheads denote scattered dikinetids within the ciliary
+rows. 13 - anterior half of a specimen with pronounced kinetid circle (arrowheads) between head and trunk, showing that this species belongs
+to Phialinides; 15 - ciliary pattern of a specimen with indistinct kinetid circle (arrowheads) between head and trunk. Arrows mark circumoral
+dikinetids between head kineties. B - dorsal brush; CK - circumoral kinety; E - extrusomes; FV - food vacuole; H - head; MA - macronucleus
+nodules; OB - oral bulge.
+
+66 W. Foissner and F. Wenzel
+Figs 16-22. Phialinides muscicola from life (16, 17, 20, 21) and in the scanning electron microscope (18, 19, 22). 16, 18 - the trunk kineties
+commence with two to four specialized (dorsal brush) dikinetids, each composed of a shortened anterior (arrowheads) and an ordinary
+posterior cilium (C). Shortening of the bristles increases from anterior to posterior; 17, 20 - the oral bulge extrusomes are rod-shaped and about
+15 µm long; 19, 22 - anterior body portion showing the densely ciliated head (H), whose cilia surround the oral bulge (OB). Arrowheads mark
+the kinetid (bristle) circle between head and trunk (cp. Figs 12-15); 21 - the cytoplasm contains many developing extrusomes (arrowheads;
+cp. Fig. 9). Arrow marks distinct cortical granulation. C - ordinary somatic cilia; H - head; OB - oral bulge.
+vacuoles 5-15 µm across and many 0.5-2 µm-sized lipid oral bulge and head can open very widely. Usually
+droplets. In the non-flooded Petri dish culture, preys assuming a slightly curved shape (Figs 3, 11). Swims
+mainly on Halteria grandinella, but ingests also the rapidly and jerkily.
+comparatively large Frontonia depressa without be- Ciliature as typical for the genus, phialinides ciliary
+coming significantly deformed; prey is ingested whole circle, however, often inconspicuous because composed
+and thus integer in young food vacuoles, showing that of an average of only four bristles. Cilia needle-like
+
+Alfred Kahl’s life and legacy 67
+narrowed distally and about 10 µm long in vivo, arranged muscicola, this would not make sense, but only increase
+in an average of 21 equidistant rows commencing under- the number of names. Thus and because no other
+neath trunk shoulder and extending longitudinally to priorities are violated, we suggest to neotypify Kahl’s
+rather distinctly spirally to rear body end. Cilia ordinarily German species with the Austrian population described
+spaced, except of some scattered dikinetids within rows here.
+and an average of three dorsal brush dikinetids or Generic allocation: Phialinides differs from
+trikinetids at anterior end of rows; posterior cilium of Phialina by a circle of rather widely spaced cilia
+brush dikinetids of ordinary shape and length, anterior between head and trunk (Foissner 1988). This circle is
+slightly fusiform and bristle-like decreasing in length very distinct in Pelagolacrymaria Foissner et al. (1999),
+from 4 µm anteriorly to 2 µm posteriorly (Figs 3, 8, 10, where it consists of ciliated dikinetids. Thus, there is no
+12-16, 18, 19; Table 1). doubt that such ciliary circles exist. However, in
+Oral bulge and head conspicuous because about 12 × Phialinides muscicola the ciliary circle is usually incon-
+12 µm in vivo and thus half as wide as trunk. Oral bulge spicuous because it consists of only four cilia on average
+distinct not only in protargol preparations but also in vivo (Table 1). Thus, separation from Phialina appears
+because almost hemispherically protruding and rather indistinct. However, a reinvestigation of several Phialina
+refractive due to the extrusome tips contained, separated species suggests that the present population indeed
+from head by a rather distinct furrow containing the belongs to Phialinides. A ciliary circle is definitely
+circumoral kinety composed of a dikinetid each at ante- lacking in Phialina terricola Foissner (1984a);
+rior end of head kineties and an additional dikinetid P. jankowskii Foissner (1984a); and a new, still
+between each two head ciliary rows. Head shaped like undescribed Phialina from activated sludge. In Phialina
+a truncated cone or a barrel, distinctly furrowed by binucleata Berger et al. (1984), the matter is not
+narrowly spaced, obliquely sigmoidal, densely ciliated entirely clear (see also Foissner 1988): about half of 20
+head kineties each commencing with a dikinetid belong- specimens checked definitely lack a ciliary circle be-
+ing to the circumoral kinety, as described above. Oral tween head and trunk, while the other half has the last
+basket rods neither recognizable in vivo nor in protargol kinetid of some head kineties more or less distinctly
+preparations (Figs 3, 10-15, 18, 19, 22; Table 1). separated from the penultimate kinetid, producing a
+Occurrence and ecology: Kahl (1943) discovered Phialinides-like pattern. However, it is not a true
+P. muscicola in moss, likely from northern Germany. We Phialinides pattern because the kinetids are still in line
+found P. muscicola in soil from two sub-alpine spruce- with the head kineties, whereas the circle kinetids of
+fir-beech forests in Lower Austria, about 1000m above Phialinides cannot be allocated to certain head or trunk
+sea-level (Foissner et al. 2004a). Both samples were an kineties.
+acidic (pH 4-5) mixture of leave litter and mineral soil In vivo, Lagynus spp. also resemble Phialinides.
+from the upper 10 cm. Phialinides muscicola became However, Lagynus has a prostomatid dorsal brush and
+rather abundant two weeks after rewetting the air-dried silverline pattern (Foissner et al. 1995), and thus the
+samples, where it stayed for several weeks although the ciliary circles evolved convergently in Lagynus on the
+soil percolate was collected for preparations two times one hand and Phialinides and Pelagolacrymaria on
+and replaced by fresh water (Eau de Volvic). the other.
+Identification: Kahl’s description of Lacrymaria Comparison with similar species: There are only
+muscicola is very brief: “Length 70 µm. Moss-inhabiting two terrestrial, binucleate lacrymariids which resemble
+species with two macronuclei, otherwise similar to Phialinides muscicola, viz., Phialinides australis
+L. minima”. He provided a single, rather superficial Foissner (1988) and Phialina binucleata Berger et al.
+figure (Fig. 4). Thus, any identification is more or less (1984). Phialinides australis differs from P. muscicola
+arbitrary. However, when comparing sizes, habitats, and by the much more slender body (length:width ratio in
+figures, it is rather obvious that Kahl’s species is the protargol preparations 7:1 vs. 4:1) and the distinctly
+same as Phialina binucleata Berger et al. (1984) or lower number of ciliary rows (on average 11 vs. 21).
+Phialinides australis Foissner (1988). This would re- Phialina binucleata differs from Phialinides muscicola
+quire to synonymize one of these species (but which!) by the lack of a ciliary circle between head and trunk
+with Lacrymaria muscicola and to establish a new (=generic difference) and the much lower number of
+species for the population described here. Considering ciliary rows (on average 10 vs. 21). Phialina terricola
+the incomplete original description of Lacrymaria Foissner (1984a) and Phialinides armatus Foissner et
+
+68 W. Foissner and F. Wenzel
+al. (2002), two other terrestrial lacrymariids, differ from Foissner W. (1999) Protist diversity: estimates of the near-impon-
+Phialinides muscicola in having ≥ eight macronucleus derable. Protist 150: 363-368
+Foissner W., Berger H., Kohmann F. (1994) Taxonomische und
+nodules (vs. two) and only nine (vs. 21) ciliary rows. ökologische Revision der Ciliaten des Saprobiensystems -
+Band III: Hymenostomata, Prostomatida, Nassulida. Informa-
+tionsberichte des Bayer. Landesamtes für Wasserwirtschaft
+Acknowledgements. We thank the following colleagues and institu- 1/94: 1-548
+tions for help: N.G. Günkel (Wartenberg, Germany), G. Göke (Hagen, Foissner W., Berger H., Blatterer H., Kohmann F. (1995) Taxonomische
+Germany), Dr. E. Hartwig (Hamburg), Prof. Dr. K. Hausmann und ökologische Revision der Ciliaten des Saprobiensystems -
+(Berlin), Dr. E. Herzog (Salzburg), K. Karb (Franckh-Kosmos Pub- Band IV: Gymnostomatea, Loxodes, Suctoria. Informationsberichte
+lishers, Stuttgart), Dr. B. Moser (Salzburg), Prof. Dr. J. Schottelius des Bayer. Landesamtes für Wasserwirtschaft 1/95: 1-540
+(Hamburg), Prof. E. Steiner (Vienna), and the city archives of the Foissner W., Berger H., Schaumburg J. (1999) Identification and
+town of Hamburg. The redescribed species was found during a ecology of limnetic plankton ciliates. Informationsberichte des
+project supported by the Austrian Federal Ministry for Agriculture Bayer. Landesamtes für Wasserwirtschaft 3/99: 1-793
+and Forestry, Environment and Watermanagement and was guided by Foissner W., Agatha S., Berger H. (2002) Soil ciliates (Protozoa,
+Prof. Dr. S. Zechmeister-Boltenstern (Vienna). Ciliophora) from Namibia (Southwest Africa), with emphasis on
+two contrasting environments, the Etosha Region and the Namib
+Desert. Denisia 5: 1-1459
+Foissner W., Berger H., Xu K., Zechmeister-Boltenstern S. (2004a)
+A huge, undescribed soil ciliate (Protozoa: Ciliophora) diversity
+KAHL’s BIBLIOGRAPHY AND OTHER REFERENCES in natural forest stands of Central Europe. Biodiv. Conserv.
+(in press)
+Foissner W., Moon-van der Staay S.-Y., van der Staay G. W. M.,
+Hackstein J. H. P., Krautgartner W.-D., Berger H. (2004b)
+The following list contains all known papers of Kahl and those cited
+Reconciling classical and molecular phylogenies in the
+in our text.
+stichotrichines (Ciliophora, Spirotrichea), including new sequences
+from some rare species. Europ. J. Protistol. (in press)
+Aescht E. (2001) Catalogue of the generic names of ciliates (Protozoa, Günkel N. G. (2000) Dilettanten als Könner - Amateure in der
+Ciliophora). Denisia 1: 1-350 Mikroskopie. Mikrokosmos 89: 143-150
+Baumeister W. (1969) Drei Paramecien des chrysalis-Typs (Parame- Jörgensen E., Kahl A. (1932) Tintinnidae (Nachträge). In: Die
+cium varionuklei = P. pseudoputrinum 1931, P. traunsteineri und Tierwelt der Nord- und Ostsee 23 (Teil II. c), (Eds. G. Grimpe,
+2
+P. chilodonides) aus Kleingewässern. Mitt. zool. Ges. Braunau E. Wagler), Leipzig, 27-28
+1: 43-52 Kahl A. (1926) Neue und wenig bekannte Formen der holotrichen und
+Berger H., Foissner W., Adam H. (1984) Taxonomie, Biometrie und heterotrichen Ciliaten. Arch. Protistenk. 55: 197-438
+Morphogenese einiger terricoler Ciliaten (Protozoa: Ciliophora). Kahl A. (1927a) Neue und ergänzende Beobachtungen holotricher
+Zool. Jb. Syst. 111: 339-367 Ciliaten. I. Arch. Protistenk. 60: 34-129
+Corliss J. O. (1960) The problem of homonyms among generic names Kahl A. (1927b) Neue und ergänzende Beobachtungen heterotricher
+of ciliated protozoa, with proposal of several new names. Ciliaten. Arch. Protistenk. 57: 121-203
+J. Protozool. 7: 269-278 Kahl A. (1928a) Die Infusorien (Ciliata) der Oldesloer Salz-
+Corliss J. O. (1961) The Ciliated Protozoa. Characterization, Clas- wasserstellen. Arch. Hydrobiol. 19: 50-123
+sification, and Guide to the Literature. Pergamon Press, Oxford, Kahl A. (1928b) Die Infusorien (Ciliata) der Oldesloer
+London, New York, Paris Salzwasserstellen. Arch. Hydrobiol. 19: 189-246
+Corliss J. O. (1978) A salute to fifty-four great microscopists of Kahl A. (1929) Persönliche Erwiderung auf Wetzel’s Kritik an meiner
+the past: a pictorial footnote to the history of protozoology. Bearbeitung der Gattung Metopus (Infusoria Heterotricha).
+Part I. Trans. Am. microsc. Soc. 97: 419-458 Z. Morph. Ökol. Tiere 15: 723-734
+Corliss J. O. (1979a) Book review: Patterson, D. L. 1978. Kahl’s Kahl A. (1930a) Neue und ergänzende Beobachtungen holotricher
+Keys to the Ciliates. J. Protozool. 26: 234 Infusorien. II. Arch. Protistenk. 70: 313-416
+Corliss J. O. (1979b) The Ciliated Protozoa. Characterization, Kahl A. (1930b) Urtiere oder Protozoa I: Wimpertiere oder Ciliata
+Classification and Guide to the Literature. 2nd ed. Pergamon Press, (Infusoria) 1. Allgemeiner Teil und Prostomata. In: Die Tierwelt
+Oxford, New York, Toronto, Sydney, Paris, Frankfurt Deutschlands 18, (Ed. F. Dahl). G. Fischer, Jena, 1-180
+Fauré-Fremiet E. (1924) Contribution a la connaissance des infusoires Kahl A. (1931a) Über die verwandtschaftlichen Beziehungen der
+planktoniques. Bull. biol. Fr. Belg., (Suppl.) 6: 1-171 Suctorien zu den prostomen Infusorien. Arch. Protistenk. 73:
+Foissner W. (1984a) Infraciliatur, Silberliniensystem und Biometrie 423-481
+einiger neuer und wenig bekannter terrestrischer, limnischer und Kahl A. (1931b) Familie Plagiopylidae (Plagiopylina) Schew., 1896,
+mariner Ciliaten (Protozoa: Ciliophora) aus den Klassen Infusoria, Trichostomata. Annls Protist. 3: 111-135
+Kinetofragminophora, Colpodea und Polyhymenophora. Stapfia Kahl A. (1931c) Urtiere oder Protozoa I: Wimpertiere oder Ciliata
+12: 1-165 (Infusoria) 2. Holotricha außer den im 1. Teil behandelten
+Foissner W. (1984b) Taxonomie und Ökologie einiger Ciliaten Prostomata. In: Die Tierwelt Deutschlands 21, (Ed. F. Dahl).
+(Protozoa, Ciliophora) des Saprobiensystems. I: Genera Litonotus, G. Fischer, Jena, 181-398
+Amphileptus, Opisthodon. Hydrobiologia 119: 193-208 Kahl A. (1931d) Metopus, eine interessante Infusoriengattung (Infu-
+Foissner W. (1988) Gemeinsame Arten in der terricolen Ciliatenfauna soria heterotricha). Mikrokosmos 24 (years 1930/31): 7-12
+(Protozoa: Ciliophora) von Australien und Afrika. Stapfia 17: Kahl A. (1932a) Ctenostomata (Lauterborn) n. subordo. Vierte
+85-133 Unterordnung der Heterotricha. Arch. Protistenk. 77: 231-304
+Foissner W. (1991) Basic light and scanning electron microscopic Kahl A. (1932b) Urtiere oder Protozoa I: Wimpertiere oder Ciliata
+methods for taxonomic studies of ciliated protozoa. Europ. (Infusoria) 3. Spirotricha. In: Die Tierwelt Deutschlands 25,
+J. Protistol. 27: 313-330 (Ed. F. Dahl). G. Fischer, Jena, 399-650
+Foissner W. (1995) 550 forgotten protist species: the monographs by Kahl A. (1933a) Anmerkungen zu der Arbeit von Bruno Pestel:
+Abbé E. Dumas. Europ. J. Protistol. 31: 124-126 Beiträge zur Morphologie und Biologie des Dendrocometes
+Foissner W. (1996) How to become an unforgettable taxonomist: paradoxus Stein. Arch. Protistenk. 80: 65-71
+Christian Gottfried Ehrenberg (1795-1876) reevaluated. In: Kahl A. (1933b) Ciliata libera et ectocommensalia. In: Die Tierwelt
+Schlegel M. & Hausmann K. (Hrsg.), Christian Gottfried Ehrenberg- der Nord - u. Ostsee 23 (Teil II. c), (Eds. G. Grimpe, E. Wagler).
+3
+Festschrift. Leipziger Universitätsverlag, 47-50 Leipzig, 29-146
+
+Alfred Kahl’s life and legacy 69
+Kahl A. (1934a) Ciliata entocommensalia et parasitica. In: Die (Ciliophora: Hymenostomatida). Trans. Am. microsc. Soc. 110:
+Tierwelt der Nord - u. Ostsee 23 (Teil II. c), (Eds. G. Grimpe, 1-11
+4
+E. Wagler). Leipzig, 147-183 Patterson D. J. (1978) Kahl’s Keys to the Ciliates. University of
+Kahl A. (1934b) Suctoria. In: Die Tierwelt der Nord - u. Ostsee 23 Bristol Printing Unit, Bristol
+(Teil II. c), (Eds. G. Grimpe, E. Wagler). Leipzig, 184-226 Penard E. (1922) Études sur les Infusoires d’Eau Douce. Georg & Cie,
+5
+Kahl A. (1934c) Ein neuer Bodenheber für Mikrobiologen. Genève
+Mikrokosmos 27 (years 1933/34): 109-112 Pestel B. (1931) Beiträge zur Morphologie und Biologie des
+Kahl A. (1935) Urtiere oder Protozoa I: Wimpertiere oder Ciliata Dendrocometes paradoxus Stein. Arch. Protistenk. 75: 403-471
+(Infusoria) 4. Peritricha und Chonotricha; Nachtrag I. In: Die Wetzel A. (1928) Der Faulschlamm und seine ziliaten Leitformen.
+Tierwelt Deutschlands 30, (Ed. F. Dahl). G. Fischer, Jena, 651- Z. Morph. Ökol. Tiere 13: 179-328
+886 Wenzel F. (1953) Die Ciliaten der Moosrasen trockner Standorte.
+Kahl A. (1943) Infusorien (1. Teil). Handbücher für die praktische Arch. Protistenk. 99: 70-141
+wissenschaftliche Arbeit 31/32, 52 pp. Franckh’sche
+Verlagshandlung, Stuttgart
+Klein B. M. (1930) Das Silberliniensystem der Ciliaten. Weitere
+Ergebnisse. IV. Arch. Protistenk. 69: 235-326
+Krainer K.-H., Foissner W. (1990) Revision of the genus Askenasia
+Blochmann, 1895, with proposal of two new species, and
+description of Rhabdoaskenasia minima n. g., n. sp. (Ciliophora,
+Cyclotrichida). J. Protozool. 37: 414-427
+Lynn D. H., Frombach S., Ewing M. S., Kocan K. M. (1991) The Received on 22nd June, 2004; revised version on 15th July, 2004;
+organelle of Lieberkühn as a synapomorphy for the Ophryoglenina accepted on July 20th, 2004
+

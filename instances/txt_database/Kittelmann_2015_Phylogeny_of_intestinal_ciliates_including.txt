@@ -1,0 +1,789 @@
+Phylogeny of Intestinal Ciliates, Including Charonina ventriculi, and
+Comparison of Microscopy and 18S rRNA Gene Pyrosequencing for
+Rumen Ciliate Community Structure Analysis
+SandraKittelmann,aSavannahR.Devente,aMichelleR.Kirk,aHenningSeedorf,aBurkA.Dehority,bPeterH.Janssena
+AgResearchLtd.,GrasslandsResearchCentre,PalmerstonNorth,NewZealanda;DepartmentofAnimalSciences,OhioAgriculturalResearchandDevelopmentCenter,
+Wooster,Ohio,USAb
+Thedevelopmentofhigh-throughputmethods,suchastheconstructionof18SrRNAgenecloneorpyrosequencinglibraries,
+hasallowedevaluationofciliatecommunitycompositioninhundredsofsamplesfromtherumenandotherintestinalhabitats.
+However,severalgeneraofmammalianintestinalciliateshavebeendescribedbasedonlyonmorphologicalfeaturesand,todate,
+havenotbeenidentifiedusingmolecularmethods.Here,weisolatedsinglecellsofoneofthesmallestbutwidelydistributedin-
+testinalciliates,Charoninaventriculi,andsequencedits18SrRNAgene.Weverifiedthesequenceinafull-cyclerRNAapproach
+usingfluorescenceinsituhybridizationandtherebyassignedan18SrRNAgenesequencetothisspeciespreviouslyknownonly
+byitsmorphology.Basedonitsfull-length18SrRNAgenesequence,Charoninaventriculiwaspositionedwithinthephylogeny
+ofintestinalciliatesinthesubclassTrichostomatia.Thetaxonomicframeworkderivedfromthisphylogenywasusedfortaxo-
+nomicassignmentoftrichostomeciliate18SrRNAgenesequencedatastemmingfromhigh-throughputampliconpyrosequenc-
+ingofrumen-derivedDNAsamples.The18SrRNAgene-basedciliatecommunitystructurewascomparedtothatobtainedfrom
+microscopiccountsusingthesamesamples.Bothmethodsallowedidentificationofdominantmembersoftheciliatecommuni-
+tiesandclassificationoftherumenciliatecommunityintooneofthetypesfirstdescribedbyEadiein1962.Notably,each
+methodisassociatedwithadvantagesanddisadvantages.Microscopyisahighlyaccuratemethodforevaluationoftotalnum-
+bersorrelativeabundancesofdifferentciliategenerainasample,while18SrRNAgenepyrosequencingrepresentsavaluable
+alternativeforcomparisonofciliatecommunitystructureinalargenumberofsamplesfromdifferentanimalsortreatment
+groups.
+Ciliate protozoa have been found to colonize the intestinal community structure and host phenotype (15). Molecular tools
+tractsofawiderangeofruminantandnonruminantherbi- basedonmarkergenesurveysareveryusefulforthisscaleofinvesti-
+vores(1).Intherumenecosystem,ciliatescanaccountforupto gation.However,despiteongoingefforts,severalgeneraofintestinal
+50%ofthetotalmicrobialnitrogen,reachingdensitiesof105to ciliatesthathavebeenobservedunderthemicroscopehavesofar
+106cells/mlrumenfluid(2,3).Althoughciliatesarenotessential eludedcharacterizationatthemolecularlevel.Therefore,alongwith
+forfeeddegradationandsurvivalofthehost(4),itisbelievedthat the need to pass on and acquire laboratory skills in handling and .452.01.4.19
+they contribute to overall gut function, for example, by adding identifyingrumenandotherintestinalciliates,thereistheneedto
+degradativecomplexity(5),bytheirabilitytoscavengeoxygen(6), expandthenumberofciliategeneraandspeciesrepresentedby18S
+orbytheirgrazingbehavior,whichhelpstoshapeandregulatepro- rRNAgenereferencesequencesthroughtheisolationofsinglecells.
+karyoticpopulations(4,7,8).Duringfermentationofingestedplant Thesedatacanbeusedtobuildarobustphylogenyandtaxonomy, yb
+3202
+material,someoftheknownrumenciliatesreleaselargeamountsof whichcanserveasreferencesformolecular-basedmethodsofsurvey-
+hydrogenproducedintheirhydrogenosomes(9–11),therebypro- ingciliatecommunitiesinlargenumbersofsamples.Finally,thereis rebmetpeS
+vidingidealconditionsforcommensalhydrogenotrophicmethano-
+gens.Asaconsequence,thetotalnumberofrumenciliateprotozoaas
+well as ciliate community composition appears to influence the
+Received10November2014 Accepted19January2015 12
+amountofmethaneemittedbythehost(12–14).However,studiesso
+Acceptedmanuscriptpostedonline23January2015 no
+farhaveusedlimitednumbersofanimalstoanalyzetheimpactof
+CitationKittelmannS,DeventeSR,KirkMR,SeedorfH,DehorityBA,JanssenPH. mea/lanruoj/gro.msa.slanruoj//:sptth
+ciliatecommunitystructureortherolesofindividualmembersof 2015.Phylogenyofintestinalciliates,includingCharoninaventriculi,and
+ciliatecommunitiesinruminantmethaneemissionsinvivo.Thismay comparisonofmicroscopyand18SrRNAgenepyrosequencingforrumenciliate
+belargelyduetothegreattimeandeffortinvolvedinmicroscopic communitystructureanalysis.ApplEnvironMicrobiol81:2433–2444.
+doi:10.1128/AEM.03697-14.
+evaluationofciliatecommunitycompositionandalackofvalidated
+Editor:G.T.Macfarlane
+alternativemethods.
+AddresscorrespondencetoSandraKittelmann,
+Itiswidelyacceptedthatmicroscopicidentificationandcounting
+sandra.kittelmann@agresearch.co.nz,or
+representthegoldstandardforanalyzingciliatecommunitystructure PeterH.Janssen,peter.janssen@agresearch.co.nz.
+inintestinalsamples.Thistechniquereliesonahighlevelofexpertise Supplementalmaterialforthisarticlemaybefoundathttp://dx.doi.org/10.1128
+andexperienceoftheresearcherinrecognizingthefeaturesthatdif- /AEM.03697-14.
+ferentiatebetweenciliategeneraorspecies.Inaddition,thenatural Copyright©2015,AmericanSocietyforMicrobiology.AllRightsReserved.
+variationbetweenanimalsmayrenderitessentialtoexaminelarge doi:10.1128/AEM.03697-14 morf
+numbersofanimalsinordertotestforcorrelationsbetweenciliate
+dedaolnwoD
+April2015 Volume81 Number7 AppliedandEnvironmentalMicrobiology aem.asm.org 2433
+
+Kittelmannetal.
+a need to compare both methods and evaluate the strengths and toDehority(19).Atotalofatleast100cellswerecountedperslide,and
+weaknessesofeachforaddressingdifferenttypesofresearchques- meanvaluesofatleasttwoslidesperfractionarereported.
+tions. Isolationofsingleciliatecells.SinglecellsoftherumenciliateCha-
+Here,weisolatedsinglecellsofoneofthesmallestrumencili- roninaventriculiwereisolatedfromfraction3ofarumensampleofcow
+ates,Charoninaventriculi,andverifiedtheoriginofthenovel18S C1collectedatalaterdateusingthesamesamplingandfractionation
+methodasdescribedabove,butwithouttheadditionofADS.Subsamples
+rRNAgenesequencetypebyfluorescenceinsituhybridizationin
+(10ml)obtainedfromfraction3werecentrifugedat500(cid:4)gfor5min.
+a full-cycle rRNA approach (16). No 18S rRNA gene sequence
+Thepelletwasresuspendedin5mloffixingsolutionmadeupof50%
+data were previously associated with this species. Based on this
+(vol/vol)ethanol,15%(vol/vol)glycerol,and35%(vol/vol)phosphate-
+information, we recalculated the 18S rRNA gene phylogeny of buffered saline, and this was centrifuged again at 500 (cid:4) g for 5 min.
+intestinalciliates(subclassTrichostomatia).Wealsousedthere- Phosphate-bufferedsaline(PBS)contained10mMNa HPO ,10mM
+2 4
+sultingtaxonomyasareferencedatabaseforBLAST-basedtaxo- NaH PO ,and130mMNaCl,andthepHwasadjustedto7.4withHCl.
+2 4
+nomic assignment of sequencing reads stemming from high- Thepelletwasresuspendedin5mloffixingsolutionandstoredat4°C
+throughput454-basedpyrosequencingofciliate18SrRNAgenes untilfurtheruse.Subsequently,a30-(cid:3)lsubsamplefromthesettledpellet
+amplifiedfromrumenDNAsamples.Communitystructurere- waswashedtwicebytheadditionof500(cid:3)lofPBSandsubjectedtocen-
+trifugationat1,000(cid:4)gfor2minbeforethepelletwasresuspendedin30
+sultsobtainedbypyrosequencingwerecomparedtomicroscopic
+counts in the same samples. These results allowed us to make (cid:3)l of PBS and 30 (cid:3)l of 99.5% glycerol. A droplet of the solution was
+transferredontoawellofa10-welldiagnosticslide.Theisolationofsingle
+recommendationsforthetypesofresearchquestionsthatmaybe
+cellsofC.ventriculiwasperformedunderaninvertedIX71microscope
+addressedusing18SrRNAgenesequence-basedcommunityanal-
+(Olympus,Melbourne,Victoria,Australia)withMMICellCutPlussys-
+ysesandthosethatshouldnot.
+temsoftware(Eching,Germany).Singlecellswerefirstidentifiedaccord-
+ingtoDehority(19)andthenisolatedusingabentglassmicropipetteata
+MATERIALSANDMETHODS magnificationof(cid:4)10.Cellswerewashedbytransferintoafreewellonthe
+microscopicslidecontainingadropofPBS.Thisprocesswascarriedout
+Rumensamplingandsamplefractionation.Rumensamplingwasap-
+sequentiallyatleastthreetimes.SinglecellsweretransferredintoaPCR
+provedbytheAgResearchGrasslandsAnimalEthicsCommittee,Palmer-
+tubecontaining5(cid:3)lof10(cid:4)PCRbufferplusMgCl (Promega,Alexan-
+ston North, New Zealand, under approvals 12391 and 12174. Rumen 2
+dria,NSW,Australia)and20(cid:3)lofsterilewater,andthetubewaskepton
+contentswerecollectedviatherumenfistulafromapasture-fedsheep
+(S4)andapasture-fedcow(C1)thatwerelikelytoharbordifferenttypes iceuntilatotalof10singlecellswereisolatedandtransferredintothe
+ofciliatecommunities,asestablishedearlier(17).Sampleswereimmedi- same tube. This procedure yielded sufficient PCR product for further
+atelytransferredto39°C,andallfurthersamplefractionationstepswere molecularanalysisofthecells.
+carriedoutatthistemperature.Thetotalsample(fraction1)wasfiltered PCRamplificationandsequencingof18SrRNAgenesfromisolated
+throughadoublelayerofcheesecloth,andapproximately150mlofru- cells.Nested-PCRamplificationonapoolof10isolatedcellswasper-
+menfiltrate(fraction2)wasdirectlytransferredintoaseparationfunnel formed as previously described but with certain modifications (20).
+Briefly,each50-(cid:3)lPCRmixturecontained1(cid:4)PCRbufferplusMgCl
+containing150mlofanaerobicdilutionsolution(ADS)(18).ADSwas 2
+(Promega),50(cid:3)Meachofthedeoxynucleosidetriphosphates(dNTPs;
+preparedasfollows:75mlofmineralsolutionI(0.3%K HPO )and75ml
+)2 04 Promega),1(cid:3)gofbovineserumalbumin(BSA;Ambion,Carlsbad,CA,
+of mineral solution II [0.3% KH PO , 0.6% (NH SO , .6% NaCl,
+2 4 4 2 4
+0.06%MgSO ,0.06%CaCl ]weredilutedwith337mlofdistilledwater, USA),500nMeachoftheprimersEuk-F(5=-AYCTGGTTGATYYTG
+4 2
+spikedwith5dropsofresazurin(0.1%),andboiledandgassedwithCO CCAG-3)(21)andEuk-R(5=-TGATCCATCTGCAGGTTCACCT-3=)
+2
+untilreduced.Atotalof12.5mlNa CO solution(12%)and0.25gof (21),and0.75UofTaqDNApolymerase(Promega).Amplificationwas
+2 3 cysteinewereadded,thebottlewassealed,andthesolutionwasauto- performedasfollowsonaProSthermocycler(Eppendorf,Hamburg,Ger- .452.01.4.19
+claved.Thesampleinthefunnelwaslefttosettlefor50minbeforeglucose many):10cyclesofdenaturation(94°Cfor40s),annealing(55°Cfor40s),
+wasaddedtoaconcentrationof1gliter(cid:2)1ofdilutedrumenliquor.After and elongation (72°C for 2 min), followed by 20 cycles of denaturing
+afurther10min,asamplewastakenfromthesupernatant(fraction3), (92°Cfor30s),annealing(55°Cfor40s),andelongation(72°Cfor2.5
+andthesettledciliatefraction(fraction4)wasreleasedthroughthetapof min),withafinal6-minextensionat72°C.PCRampliconswerepurified yb
+thefunnel.Furtherfractionationoftheciliatefractionwasachievedby usingaQIAquickpurificationkit(Qiagen,Hilden,Germany)according 3202
+tothemanufacturer’srecommendationsandelutedin40(cid:3)lofelution
+consecutively using a series of filters with decreasing pore sizes (Saati,
+AppianoGentile,Italy):90(cid:3)m(62-64UltraOrangePlainWeave;reten- buffer (EB; 10 mM Tris, pH 8.5 with HCl). Twenty microliters of the rebmetpeS
+tatedesignatedfraction5),55(cid:3)m(90-48UltraYellowPlainWeave;re- purifiedPCRproductwasevaporatedfor2hat60°Ctoconcentratethe
+tentate,fraction6),and23(cid:3)m(180-31UltraYellowTwillWeave;reten- DNAbeforetheadditionofthefollowingPCRreagentstoatotalof50(cid:3)l
+foramplificationofrumenciliate18SrRNAgenes:1(cid:4)PCRbufferplus
+tate,fraction7;filtrate,fraction8).Retentatesonfilterswerewashedtwice 12
+with20mlofADSandcarefullyrinsedfromthefilterintoasterileflask MgCl ,50(cid:3)MeachofthedNTPs,1(cid:3)gofBSA,500nMeachoftherumen 2 no
+with20mlofADSdeliveredfromasterileplasticsyringe.Ciliatecommu- ciliate-specificprimersPSSU54F(5=-CAYGTCTAAGTATAAATAACT mea/lanruoj/gro.msa.slanruoj//:sptth
+nitycompositionineachfractionwasevaluatedbymicroscopiccounting AC-3=)(3)andPSSU1747R(5=-CTCTAGGTGATWWGRTTTAC-3=)
+ofspeciesaswellasbyampliconpyrosequencingofrumenciliate18S (3)and0.75UofTaqDNApolymerase.ThecorrectsizesofPCRproducts
+rRNAgenes.Subsamplesforlightmicroscopywerefixedandstainedina wereverifiedbyagarosegelelectrophoresis.Thealmostfull-lengthciliate
+10%(wt/vol)formaldehydesolutioncontaining0.6gofmethylgreenand 18SrRNAgeneswereclonedusingaTopoTAcloningkit(Invitrogen,
+8gofsodiumchlorideperliterandincubatedatroomtemperatureinthe Carlsbad,CA,USA).DNAof30randomlyselectedcloneswassubjectedto
+darkforatleast3days.Subsamplesformolecularanalysiswereimmedi- vector-targetingPCRwithprimersGem2987F(5=-CCCAGTCACGAC
+atelyfrozenandstoredat(cid:2)20°Cuntilfurtheruse. GTTGTAAAACG-3=)andTop168R(5=-ATGTTGTGTGGAATTGTG
+Microscopicidentificationandcountingofciliatecells.Fixedand AGCGG-3=).TheresultingPCRproductswerecolumnpurifiedasde-
+stainedsubsamplesforlightmicroscopywerecentrifugedat1,000(cid:4)g, scribed above, quantified using a Nanodrop instrument (NanoDrop
+andtheformaldehydefixativewasreplacedwith30%glycerolinwater Technologies,Wilmington,DE,USA),andSangersequencedusingse-
+(vol/vol)forunrestrictedairtransportationofsamplestotheAgricultural quencingprimerRP841F(5=-GACTAGGGATTGGAGTGG-3=)(17)at
+ResearchandDevelopmentCenter,Wooster,OH,wheresampleswere theAlanWilsonCentreGenomeSequencingService(MasseyUniversity, morf
+subjectedtomicroscopicanalysisandtaxonomicidentificationaccording PalmerstonNorth,NewZealand).Outofatotalof30clones,onese-
+dedaolnwoD
+2434 aem.asm.org AppliedandEnvironmentalMicrobiology April2015 Volume81 Number7
+
+MolecularPhylogenyofIntestinalCiliates
+TABLE1Oligonucleotideprobesusedforfluorescenceinsitu dateweredownloadedfromNCBI.Ourdatabasefurtherincludedthree
+hybridizationofrumenciliatesinthisstudy almostfull-length18SrRNAgenesequencesobtainedfromCharonina
+Nameof Fluorescent Reference ventriculi(thisstudy)andthe18SrRNAgenesequenceofDidiniumna-
+probe dyea 5=–3=sequence orsource sutumwhichservedasanoutgroup(orderHaptorida;GenBankaccession
+numberU57771).AllsequenceswerealignedusingSINA(24).Thealign-
+CHA1350 Cy3 TGAATATTCACCGAGTGA Thisstudy
+mentwasimportedintoARBandmanuallycorrectedwherenecessary
+ATACCA
+(25).Phylogenetictreeswerecalculatedbasedonalignedsequencesfrom
+EUKb1193 Cy5 GGGCATMACDGACCTGTT 23
+NON1350b Cy5 ACTTATAAGTGGCTCACT Thisstudy anextractedregionbetweenSaccharomycescerevisiae18SrRNAgenepo-
+TATGGT sitions83to1727.Phylogenetictreereconstructionwasperformedusing
+therandomizedacceleratedmaximumlikelihood(RAxML)methodwith
+aProbeswerefluorescentlylabeledusingcyanine3(Cy3)andcyanine5(Cy5).The
+1,000bootstrapreplications(26).ThesequenceofBalantidiumentozoon
+optimalformamideconcentrationforahybridizationtemperatureof46°Cwas25to
+30%. wasaddedtothetreebyusingpositions87to1684andtheARBparsi-
+bThenonsenseprobewasdesignedasthereverseoftheCharoninaventriculi-specific monytool.Atotalof40sequencesthatwere(cid:2)1,300bpbut(cid:6)1,500bpin
+probeandservedasanegativecontrol. lengthandobtainedfromisolatedciliatecellsinapreviousstudy(27)
+wereaddedtothetreebyusingpositions317to1727andtheARBparsi-
+mony tool to obtain genus-level taxonomic assignments for these se-
+quencewasmixedandwasthereforeomittedfromfurtheranalyses.The quences.Thisphylogeny,consistingofatotalof168sequences,formed
+remaining29clonesshowedalmost100%sequenceidentityacrossthe the basis of the newly established sequence database and taxonomic
+sequencedregion((cid:5)635bpinlength).Threeofthesecloneswereran- framework containing reference sequences of all (to date) molecularly
+domlyselectedtobesequencedwiththreedifferentadditionalsequencing describedintestinalciliatespecieswithinthesubclassTrichostomatia.
+primerstocoverthefullsequence(primersPSSU54F,Syl316F[5=-GCT Positionalcoverageandvariabilityoftrichostome18SrRNAgenes.
+TTCGWTGGTAGTGTATT-3=],andSyl539R[5=-CTTGCCCTCYAA SequencevariabilityofbasesineachalignmentpositionwasanalyzedinR
+TCG TWC T-3=]) (3). Sequence contigs were assembled from shorter (28) using the seqinR library (29), and results were plotted using the
+fragmentsusingContigExpress,version11.1,aspartoftheVectorNTI ggplot2library(30).Shannondiversityindiceswerecalculatedforeach
+Advance11suite(Invitrogen). alignmentpositionusingthefrequenciesofbasesA,T(UandTwereused
+Probedesignandfluorescenceinsituhybridization.Forfluores- synonymously),G,andC(31).TheShannondiversityindexiszeroifall
+cenceinsituhybridization,samplesderivedfromfraction3oftherumen
+thebasesatacertainpositioninthealignmentarethesame,andtheindex
+sampleofcowC1wereimmediatelyfixedbyadding3volumesofa4%
+increasesasthepositionbecomesmorevariable.
+(wt/vol) paraformaldehyde solution (dissolved in PBS) and stored at
+Amplicon pyrosequencing of rumen ciliate 18S rRNA genes. A
+(cid:2)20°Cuntilfurtheruse.Anoligonucleotideprobe(CHA1350)specific
+1.5-mlaliquotfromeachfractionofthesheepandcowrumensamplewas
+for the putative 18S rRNA gene sequence of Charonina ventriculi was
+centrifugedat500(cid:4)g,andthepelletwasresuspendedin282(cid:3)lofbuffer
+designedaccordingtoHugenholtzetal.(22)(Table1).Fluorescencein
+A(NaCl0.2M,Tris0.2M,EDTA0.02M;pH8).Nucleicacidswere
+situhybridizationwasperformedasdescribedpreviouslywithslightmod-
+extractedusingacombinedbead-beating,phenol-chloroform,andcol-
+ifications (22), using different fluorescently labeled oligonucleotide
+probes(Table1).A250-(cid:3)laliquotfromthefixedsamplewascentrifuged umnpurificationmethod(32).Briefly,theresuspendedpelletwassub-
+jectedtobeadbeatingfor45sat6.5ms(cid:2)1inaFastPrepFP120instrument
+at10(cid:4)gfor3min.Thepelletwasthenwashedsixtimesbytheaddition
+of450(cid:3)lofPBS–96%ethanol(1:1[vol/vol]);cellswereharvestedeach (Qbiogene, Carlsbad, CA, USA) in the presence of 0.7 g of zirconium
+time by centrifugation at 10 (cid:4) g for 3 min, and the supernatant was beads(0.1-mmdiameter),200(cid:3)lofsodiumdodecylsulfate(20%[wt/
+discarded.Subsequently,thepelletwasresuspendedin50(cid:3)lofPBS–96% vol]),268(cid:3)lofbufferPM(QIAquick96PCRpurificationkit,Qiagen),
+and550(cid:3)lofphenol-chloroform-isoamylalcohol(25:24:1;pH8).After .452.01.4.19
+ethanol(1:1[vol/vol]).Thissamplewaslefttosettlefor5min,without
+furthercentrifugation.Then3(cid:3)lofsupernatantwasappliedtoeachwell centrifugationat18,000(cid:4)gfor20minat4°C,thesupernatantwasmixed
+ofa10-wellmicroscopicslide,andtheslidewasairdriedovernight.Prior with650(cid:3)lofbufferPMinasteriledeep96-wellplate,andthemixture
+tohybridization,theair-driedslidesweresubjectedtoanascendingeth- wastransferredontoaQIAquick96plate(QIAquick96PCRpurification
+yb
+anolseriesof50%,80%,and100%ethanolfor3mineach.Hybridization kit;Qiagen).DNAfromeachsamplewasindividuallycolumnpurified
+wasgenerallyperformedwithtwoprobessimultaneously,theCharonina- accordingtothemanufacturer’srecommendationandelutedin80(cid:3)lof 3202
+specific probe CHA1350-Cy3 and the universal eukaryote probe EB. Roche 454 GS FLX Titanium amplicon pyrosequencing was per- rebmetpeS
+EUKb1193-Cy5(Table1)(23).Throughouttheexperiment,onesample formedsimultaneouslywithallsamplesusingbarcodedprimersRP841F
+oneachslidewashybridizedwiththenonsenseprobeNON1350-Cy5to andReg1302R(5=-AATTGCAAAGATCTATCCC-3=),whichflank
+serveasanegativecontrol(Table1).Theoptimalformamideconcentra-
+variableregionsV5toV8oftheciliate18SrRNAgene,asdescribedearlier
+tioninthehybridizationbufferforthenewlydesignedprobewas25to (15,33).TheresultantsequencedatawereprocessedinQIIMEv.1.8(34). 12
+30%.Hybridizationbufferand50ngofthefluorescentlylabeledprobes no
+Quality control and mapping of sequence reads to the corresponding
+wereappliedtoeachwell,andhybridizationwascarriedoutat46°Cfor90 mea/lanruoj/gro.msa.slanruoj//:sptth
+rumensamplebasedoninspectionoftheuniqueGolaybarcodeswere
+min.Slideswerebrieflyrinsedwithprewarmedwashingbuffer(48°C)and
+carriedoutasdescribedpreviously(33).Samplesforwhichfewerthan750
+transferredintoa50-mlFalcontubecontainingwashingbuffertoincu-
+sequencereadswereobtainedafterqualityfilteringwereexcludedfrom
+bateat48°Cfor15min.Finally,slidesweredriedat39°C,spikedwith
+furtheranalysis.Sequencereadswerephylogeneticallyassignedusingthe
+Vectashieldmountingmedium(VectorLaboratories,Burlingame,CA,
+novelsequenceandtaxonomyfilesderivedfromtheexpandedphylogeny
+USA),andcoveredwithacoverslip.Visualizationofcellswascarriedout
+oftrichostomeciliates(seeFileS1inthesupplementalmaterial)andthe
+usingaDM2500fluorescencemicroscope(LeicaMicrosystems,Wetzlar,
+Germany)andamagnificationof(cid:4)200.Microscopicimageswereob- BLASTalgorithm(35).Relativeabundancetablesweregeneratedatthe
+tainedusingaLeicaDFC420Ccamera(LeicaMicrosystems)andtheLeica genuslevel(level10[-L10])usingthesummarize_taxa.pyQIIMEscript.
+Application suite software (Leica Microsystems), and colors were ex- Nucleotide sequence accession numbers. Almost full-length se-
+changedinCorelPaintShopProPhotoXI(Ottawa,Canada). quencesofCharoninaventriculiweredepositedintheGenBankdatabase
+Expansionoftheintestinalciliate18SrRNAgenetaxonomicframe- underaccessionnumbersKJ870172,KJ870173,andKJ870174.Pyrose-
+work.Atotalof123referencesequencesof(cid:2)1,500bpinlengthfromall quencing data obtained in this study were deposited in the NCBI Se- morf
+publiclyavailablesequencesobtainedfromisolatedtrichostomeciliatesto quenceReadArchive(SRA)underBioProjectnumberPRJNA247677.
+dedaolnwoD
+April2015 Volume81 Number7 AppliedandEnvironmentalMicrobiology aem.asm.org 2435
+
+Kittelmannetal.
+.452.01.4.19
+FIG1Rumenciliatecommunitycompositioninfractionsofarumensample,evaluatedbymicroscopiccountingofciliatecells(microscopy)andnext-
+generationampliconsequencingofciliate18SrRNAgenes(sequencing).(a)RumensampleobtainedfromsheepS4.(b)RumensampleobtainedfromcowC1.
+yb
+Novisiblecellsweredetectedinfractions5ofsheepS4andcowC1.Fraction5ofsheepS4didalsonotprovide(cid:2)750sequencingreads.Fr,fraction.Buetschlia
+3202
+parvawasobservedonlyrarelyandisnotshown.
+rebmetpeS
+RESULTS todiniumspp.(38.9%oftotalobservedciliates),Epidiniumcau-
+Ciliate community composition as evaluated by microscopic datum(24.6%),Diplodiniumspp.(11.9%),Dasytricharuminan-
+12
+counting.Rumensampleswerecollectedfromacowandasheep tium(11.4%),Eudiplodiniummaggii(10.1%),andIsotrichaspp.
+no
+thathadpreviouslybeenshowntohavedifferentciliatecommu- (3.1%).Fractions2,3,and4aswellasfraction8weredominated
+mea/lanruoj/gro.msa.slanruoj//:sptth
+byEntodiniumspp.(75.4%(cid:7)19.9%,average(cid:7)standarddevia-
+nities(17).Asexpected,microscopiccountsrevealedthatthedif-
+ferentfractionsoftherumensamplescollectedfromsheepS4and tion).Incontrast,fractions6and7weredominatedbyEudiplo-
+cowC1containeddifferentrelativeabundancesofrumenciliates diniummaggii(98.0%)andEpidiniumcaudatum(58.7%),respec-
+(Fig.1;seealsoTableS1inthesupplementalmaterial).Thesam- tively,whilefraction5didnotcontainanyvisiblecells.
+pleofsheepS4harboredaB-typeciliatecommunity.Intheclas- ThesampleobtainedfromcowC1harboredanA-typeciliate
+sificationdevelopedbyEadie(36),B-typeciliatecommunitiesare community.Eadie’sA-typeciliatecommunitiesarecharacterized
+characterizedbythepresenceofthekeyspeciesEpidiniumcauda- bythepresenceofthepredatoryciliatePolyplastronmultivesicula-
+tum and/or Eudiplodinium maggii. Here, the following species tum(36).Inoursample,thefollowingspeciesweredetectedby
+were observed: Entodinium spp., Epidinium caudatum, Eudiplo- microscopy:Charoninaventriculi,Diplodiniumspp.,Entodinium
+diniummaggii,Dasytricharuminantium,Diplodiniumspp.,Isotri- spp.,Isotrichaspp.,Ostracodiniumspp.,andPolyplastronmultive-
+chaspp.,andveryrarelyBuetschliaparva(Fig.1a).Theuntreated siculatum(Fig.1b).Fractions1,2,3,4,and8weredominatedby morf
+sample,fraction1,containedamixedcommunityofciliates:En- Entodiniumspp.(84.7%(cid:7)6.7%).Fraction6waslargelydomi-
+dedaolnwoD
+2436 aem.asm.org AppliedandEnvironmentalMicrobiology April2015 Volume81 Number7
+
+MolecularPhylogenyofIntestinalCiliates
+nated by Polyplastron multivesiculatum (66.7%) and Ostraco-
+diniumspp.(26.7%),whereasfraction7wasmorediverse.Frac-
+tion 5 did not contain any visible cells. Fractions 1, 2, 3, and 4
+harbored considerable proportions of cells identified as Charo-
+ninaventriculi(5.1%(cid:7)3.8%).
+IsolationofsinglecellsofCharoninaventriculiandsequenc-
+ingofcloned18SrRNAgenes.SinglecellsofCharoninaventriculi
+wereisolatedfromthefixedrumencontentofcowC1.Tencells
+werepooled,andampliconsofthe18SrRNAgeneweregenerated
+usinganestedPCR.Aclonelibrarywasconstructedfromalmost
+full-length18SrRNAgeneamplicons.Partialsequencingofclones
+andpreliminaryBLASTanalysisrevealedanovelsequencetype
+onlydistantlyrelatedtosequencesofothermolecularlycharacter-
+ized intestinal ciliates. We hypothesized that this sequence type
+was derived from Charonina ventriculi. Almost full-length 18S
+rRNAgenesequenceinformationwasobtainedfromthreeclones.
+Thesesequencesshowed(cid:2)99.8%sequencesimilarityamongeach
+otherbasedonS.cerevisiaepositions83to1727.
+Verification of 18S rRNA gene sequence types by fluores-
+cenceinsituhybridization.Aspecific18SrRNA-targetingfluo-
+rescentprobewasdesignedbasedonthealmostfull-length18S
+rRNA gene sequence information of this novel sequence type
+likely derived from Charonina ventriculi. This probe, named
+CHA1350(accordingtoits5=bindingpositiontotheS.cerevisiae
+18SrRNAgene),bindstotheV7regionoftheciliate18SrRNA
+gene.Fluorescenceinsituhybridizationwasperformedtodeter-
+minethemorphologyofthecellswiththisparticular18SrRNA
+sequencetype.Cellsinthesamplesweresubjectedtodoublehy-
+bridization with the Charonina ventriculi-specific probe labeled
+FIG 2 Bright-field and fluorescence in situ hybridization identification of
+withCy3andtheuniversaleukaryoticprobeEUKb1193labeled
+Charoninaventriculicells.Theimagesweretakenfromthesamefieldoffrac-
+withCy5.Anonsenseprobe,NON1350,wasappliedtoatleastone tion3ofarumensamplecollectedfromcowC1.(a)Bright-fieldimage.Scale
+sampleoneveryslideandconsistentlygavenosignal.TheCharo- bar,10(cid:3)m.(b)Overlayfluorescenceinsituhybridizationimageofthesame
+nina ventriculi probe gave a strong and specific signal for cells fieldasshowninpanela.Ciliatesweresimultaneouslyhybridizedwiththe
+universaleukaryoticprobeEUKb1193(Cy5)andtheCharoninaventriculi-
+identifiedasCharoninaventriculibasedonmorphologicalfeatures
+specificprobeCHA1350(Cy3).Colorreplacementwasusedtoshowcells
+usingbright-fieldmicroscopyonthesamefield(Fig.2aandb;see
+stainedwithEUKb1193ingreenandcellsstainedwithCHA1350inblue.In
+alsoFig.S1andS2inthesupplementalmaterial).CellsofCharo- theoverlayofbothimages,cyanindicatescellsthatwerestainedwithboth
+nina ventriculi could be distinguished from other rumen ciliate probes.Charoninaventriculicellsareindicatedbyarrows.Separateimagesare .452.01.4.19
+cellsbasedontheirextremelysmallbodysize(lessthan40(cid:3)min showninFig.S1inthesupplementalmaterial.
+length)withciliaontheanteriorendandtwocharacteristictufts
+ofciliaontheposteriorendofthecell(Fig.2a)(19).Theeukary-
+yb
+oticprobehybridizedtoallciliatecellspresentinthesample(Fig. AB533538)(Fig.4)(37).Fortysequencesgeneratedinaprevious
+3202
+2b;seealsoFig.S1andS2). study(27),coveringS.cerevisiaepositions317to1710,wereadded
+PhylogeneticplacementofCharoninaventriculiwithinthe tothetreeusingtheARBparsimonytool.Fromthisinformation rebmetpeS
+Trichostomatia.ToassessthephylogeneticpositionofCharonina andbasedontherecommendationsofItoetal.(38),wederiveda
+ventriculiwithintheintestinalciliates(subclassTrichostomatia), sequencedatabaseandtaxonomicframework.Thisframeworkis
+threealmostfull-length18SrRNAgenesequences,obtainedfrom compatible with the QIIME pipeline (see File S1 in the supple-
+12
+clonedCharoninaventriculicells,werealignedwith123reference mentalmaterial)(34)andcanbeusedforBLAST-basedassign-
+no
+sequences from isolated and described ciliate species inhabiting mentofintestinalciliate18SrRNAgeneampliconpyrosequence
+mea/lanruoj/gro.msa.slanruoj//:sptth
+the intestinal tracts of herbivorous animals (subclass Tricho- data.Theframeworkcomprisesatotalof168sequencesderived
+stomatia).ThealignmentincludedvariableregionsV2toV9.The from isolated cells of intestinal ciliates, including our new data
+variabilityofeachalignmentpositionwasevaluatedbycalculation from Charonina ventriculi. In this framework, genera that clus-
+ofShannon’sdiversityindexforeachalignmentpositionacross teredmonophyleticallywereassignedthecommongenusname.
+the almost full-length trichostome 18S rRNA gene (Fig. 3). A Genera that clustered tightly but contained members of other
+RAxML tree was constructed with 1,000 bootstrap replications generawereassignedacombinedgroupnameatgenuslevel.Sev-
+(Fig. 4; see also Fig. S3 in the supplemental material). The 18S eral genera, namely, Balantidium, Bandia, Blepharocorys, and
+rRNAgeneofDidiniumnasutumservedasanoutgroupsequence. Bundleia,formedtwodifferentclustersinthetreethatwereonly
+Inthistree,Charoninaventriculiformedanewcladewithinthe distantlyrelated.Therefore,thesegeneraweredividedintosub-
+Trichostomatia.Itsharedonly97.1%sequencesimilaritywithits groups.Inthefuture,thesegroupsshouldundergorevisionand
+closest relative, Triplumaria selenica, which was isolated from a potentiallybereclassifiedintonovelgenera.Theframeworkcom- morf
+fecalsamplefromanAsianelephant(GenBankaccessionnumber prisesatotalof11taxonomiclevels(kingdom,superphylum,phy-
+dedaolnwoD
+April2015 Volume81 Number7 AppliedandEnvironmentalMicrobiology aem.asm.org 2437
+
+Kittelmannetal.
+AfterinclusionofCharoninaventriculiintheBLASTdatabase,
+allgenerapresentinthecowsampledetectedusingmicroscopy
+werealsodetectedusingthemolecularapproach(Fig.1b).Similar
+to the sheep sample, discrepancies were observed in relative
+abundances of the different genera when the sample was as-
+sessedusingthetwodifferentmethods.Smaller-celledgenera
+suchasEntodinium,Charonina,andDiplodiniumspp.madeup
+smallerproportionsofthecommunitiesaccordingtothemolec-
+ularapproach,whilelargergenerasuchasPolyplastronandOstra-
+codiniumappearedtobemoreabundant.Initially,thelarge-celled
+rumenciliateMetadiniummediumwasnotdetectedusingmicro-
+scopic analysis of the samples, while amplicon pyrosequencing
+revealeditspresenceinalmosteveryfractionofthesampleofcow
+C1. The presence of M. medium in an A-type community was
+surprising,giventhatearlierstudieshadreportedantagonismbe-
+tween M. medium and P. multivesiculatum (39). However, re-
+peatedanalysisofsinglefractionsunderthemicroscopeeventu-
+allyconfirmedthepresenceofM.mediumintherumensampleof
+cowC1.
+FIG3 Sequencevariabilityofthetrichostome18SrRNAgene.Sequencevari-
+abilityisexpressedastheShannonindexforeachalignmentpositionofthe126 DISCUSSION
+alignedtrichostomeciliatesequences(blackcircles).Shannonindicesfora
+subsetof54alignedsequencesfromgeneraknowntooccurintherumenare Ciliateprotozoamakeupalargeproportionofthemicrobialbio-
+shown in gray circles. The sequence of Balantidium entozoon was omitted massintheintestinaltractsofruminantandnonruminantherbi-
+becauseitwasshorterthanallotherremainingreferencesequences.A20-bp vores. However, knowledge of the involvement of the different
+movingaveragewasused.Approximatepositionsoffrequentlytargetedvari-
+ciliategenerainintestinalfermentationprocessesislimited,and
+ableregions(V2toV9)forcommunitystructureanalysisareshownforori-
+theirinteractionswithothermembersofthemicrobialcommu-
+entation.Labelingofvariableregionscorrespondstoeukaryotic18SrRNA
+gene variable region designations (75). V6 is highly conserved among eu- nity(inparticular,methanogenicarchaea)ortheirpotentialim-
+karyotesingeneralandthereforeindistinct(76).Nucleotidenumberingcor- pactonproductiontraitsofthehostarenotwellunderstood.This
+respondstobasepositionsintheSaccharomycescerevisiaestrainNCYC50518S isdueinparttothedifficultyofculturingintestinalciliateproto-
+rRNAgene(GenBankaccessionnumberZ75578).
+zoa and the challenge of developing a sound high-throughput
+alternativetomicroscopiccountingforciliatecommunitystruc-
+lum,subphylum,class,subclass,order,suborder,family,genus, tureanalysis.Here,weobtainedthe18SrRNAgenesequenceof
+andspecies)(seeFileS1inthesupplementalmaterial).Werec- the common rumen ciliate Charonina ventriculi and demon-
+ommenduseatthegenuslevel(passoption“-L10”withQIIME stratedthatexpandingandcuratingthe18SrRNAgenerefer-
+scriptsummarize_taxa.py)forhigh-resolutionciliatecommunity ence database will significantly improve ciliate community
+structureanalysisbasedonshort-readhigh-throughputsequence structureanalysisbasedonnext-generationampliconsequenc-
+data. ing.Theseadvancesareneededtomakethistechnologyause- .452.01.4.19
+Ciliatecommunitycompositionasevaluatedfrom18SrRNA fulalternativetomicroscopiccounting,especiallywhendeal-
+genepyrosequencing.Weusedthetrichostomeciliate18SrRNA ingwithalargenumberofrumensamples.
+gene reference database and taxonomic framework described Charoninaventriculiandphylogeneticplacementofits18S
+yb
+above with BLAST to assign the ciliate 18S rRNA gene pyrose- rRNAgenesequence.Charoninaventriculiwasfirstdescribedby
+3202
+quencingreadsamplifiedfromDNAextractedfromthefraction- JamesonasCharonventriculi,familyBlepharocorythidae,inru-
+atedrumensamplesusedearlierinthisstudy. mencontentsfromsheepandcattle(40).Almostatthesametime, rebmetpeS
+Based on the pyrosequencing results, ciliate communities in Dogiel reported this protozoon as Blepharocorys bovis (41) and
+boththesheepandthecowsamplescouldbecategorizedintoone later proposed the name Blepharocorys ventriculi (42). Strelkov
+oftheciliatecommunitytypesdescribedbyEadie(36).Thesheep (43)andWolska(44),however,afterthoroughanalysisofitsin-
+12
+sampleharboredaB-typeandthecowsampleharboredanA-type fraciliatureandmorphogenesis,placedthisspeciesintothemore
+no
+ciliatecommunity,inagreementwiththemicroscopy-basedas- primitivegenusCharoninaStrand(45).Todate,thegenusCha-
+mea/lanruoj/gro.msa.slanruoj//:sptth
+sessment(Fig.1;seealsoTableS1inthesupplementalmaterial). roninacomprisesninedifferentspecies,withC.ventriculirepre-
+Inthesheepsample,allspeciesdetectedmicroscopicallywere sentingthetypespecies.BothC.nudaandC.equihavebeenob-
+alsofoundusingthemolecularapproach(Fig.1a),withtheexcep- servedincattle(46,47),butC.equiwasfirstreportedtooccurin
+tionoftherarelyobservedBuetschliaparvaforwhichthereissofar thecolonofthehorse(48).C.dicerotis,C.odontophora,C.tenuis,
+no18SrRNAgenereferencesequenceavailable.Intermsofrela- C.tetragona,andC.tortuosahavebeenfoundinthecolonofwild
+tiveabundancesoftheobservedgenera,wedetectedaquantitative African rhinoceroses (49), while C. hippopotami was reported
+discrepancybetweenbothmethods.Inparticular,thesmall-celled fromthestomachofthehippopotamus(50).Charoninaspp.are
+genus Entodinium was detected at significantly lower relative infrequentlyobservedbutcanoccurathighrelativeabundances,
+abundancesbythemolecularapproachthanwereobtainedfrom sometimesmakingupmorethan30%(51)oreven50%(52)of
+themicroscopydata.Thelarger-celledgenera(Epidinium,Ano- thetotalciliatecommunity.DehorityandMattos(51)reported
+plodinium-Diplodinium, and Eudiplodinium) were detected at thatC.ventriculiconcentrationsweremuchlowerwhenreadily morf
+higherrelativeabundancesthanwithmicroscopy. digested carbohydrates were included in the diet. Whether this
+dedaolnwoD
+2438 aem.asm.org AppliedandEnvironmentalMicrobiology April2015 Volume81 Number7
+
+.452.01.4.19
+yb
+3202
+rebmetpeS
+12
+no
+mea/lanruoj/gro.msa.slanruoj//:sptth
+FIG4Randomizedacceleratedmaximumlikelihood(RAxML)treeofalmostfull-lengthtrichostomeciliate18SrRNAmarkergenesequences(S.cerevisiaepositions
+83to1727)calculatedfrom1,000replications(opencirclesindicatenodeswithbootstrapvaluesof(cid:2)75%;filledcirclesindicatebootstrapvaluesof(cid:2)95%;
+bootstrapvaluesof(cid:6)75%arenotshown).Thescalebarindicates0.1nucleotidesubstitutionpernucleotideposition.Forclarity,somecoherentgroupsof
+sequencesareindicatedonlyastrianglesortrapezoids,withthenumberofsequencesclusteringintothesegroupsandaccessionnumbersofsequencesobtained
+fromisolatesgiveninparenthesesbehindtheclustername.Genus/cladedesignationsusedinthetaxonomicframeworkprovidedinFileS1inthesupplemental
+materialareshowninFig.S3.Branchesmarkedwithdoubleslashes(//)aredrawnat25%oftheactualbranchlength.The18SrRNAgenesequenceofDidinium
+nasutum(orderHaptorida;GenBankaccessionnumberU57771)servedastheoutgroup.Oph,familyOphryoscolecidae;Tro,familyTroglodytellidae;Cyc,
+familyCycloposthiidae;Uncf1toUncf6,unclassifiedfamily1to6;Spi,familySpirodiniidae;Pod,familyPolydiniellidae;Ble,familyBlepharocorythidae;Par,
+familyParentodiniidae;Pse,familyPseudoentodiniidae;Iso,familyIsotrichidae;Amy,familyAmylovoracidae;Mac,familyMacropodiniidae;Poc,family
+Polycostidae;Pis,familyParaisotrichidae;Pyc,familyPycnotrichidae;Bal,familyBalantidiidae;Bue,familyBuetschliidae;En,suborderEntodiniomorphina;Bl,
+suborderBlepharocorythina;Uncs1toUncs6,unclassifiedsuborder1to6;Ar,suborderArchistomatina;EN,orderEntodiniomorphida;MA,orderMacropo- morf
+diniida;VE,orderVestibuliferida;Unco1,unclassifiedorder1.
+dedaolnwoD
+April2015 Volume81 Number7 AppliedandEnvironmentalMicrobiology aem.asm.org 2439
+
+Kittelmannetal.
+was the result of an inability to utilize these substrates or of a (66).Thetypespecies,Balantidiumentozoon,wasgiventhegroup
+loweredpHfromrapidfermentationofthesesubstratesbybacte- name Balantidium_a, to distinguish it from Balantidium cteno-
+riaisnotknown.Interestingly,theseauthorsalsofoundthatcon- pharyngodoni(groupnameBalantidium_b).Thenewgenusname
+centrationsofC.ventriculiintherumenfollowedadiurnalcycle Neobalantidium was adopted for the cluster of sequences stem-
+morecloselyrelatedtotheentodiniomorphsthantheholotrichs, ming from Neobalantidium coli (formerly Balantidium coli), as
+namely,DasytrichaandIsotrichaspp.(51).Thisobservationwas suggestedinarecentstudyonthegeneticdiversityofthegenus
+supportedbyItoetal.(38),whofoundthatRaabenabella,which Balantidium(66).ThegenusBandiawasalsorepresentedbytwo
+isconsideredacloserelativetoC.ventriculibasedonmorpholog- sequenceclusters.Sinceno18SrRNAgenesequenceiscurrently
+icalfeatures,isphylogeneticallymorecloselyrelatedtotheEnto- availableforthetypespecies Bandiabeveridgei,theclustercon-
+diniomorphinathantotheholotrichgeneraDasytrichaandIsotri- taining the sequences of Bandia smalesae, Bandia tammar, and
+cha.Thephylogeneticplacementofthe18SrRNAgenesequence BandiadeveneyiwasnamedBandia_a,whilethesequenceofBan-
+of Charonina ventriculi within the trichostome ciliates indicates diacribbiiwasclassifiedasBandia_b.Atotalofthreesequencesare
+thatCharoninaandRaabenadonotbelongtothefamilyBlepha- named Triadinium caudatum according to NCBI. Two of these
+rocorythidae(suborderBlepharocorythina)buttoasyetunclas- clustered into the Spirodiniidae (GenBank accession numbers
+sifiedfamilieswithinthesuborderEntodiniomorphina. AB530163andAB794968),whiletheremainingoneclusteredinto
+Intestinalciliate18SrRNAgenephylogenyandtaxonomy. theBuetschliidae(GenBankFM201782)andwascloselyrelatedto
+Untilthelate1990s,understandingofthetaxonomyandevolu- Blepharoconushemiciliatus(GenBankAB795027).Forseparation
+tionoftheintestinalciliatesofherbivorousmammalswaspurely ongenusandspecieslevel,theformergroupwasdesignatedTria-
+basedonmorphologicalcharacteristics(53–55).Despitethefact dinium(containingTriadiniumcaudatum_a),whilethelatterwas
+thatintestinalciliatesoccurinagreatvarietyofshapesandsizes assignedtothe“Blepharoconus-Triadinium”group(containing
+andharboragreatnumberofdistinguishablefeatures,classifica- Triadiniumcaudatum_b).
+tionofspeciesintohighertaxonomicrankssuchasgenera,fami- Oneofthedistinctsequenceclustersinthetreewascomprised
+lies,andordersbasedonultrastructuralfeatureshasprovedchal- ofsequencesofspeciesidentifiedasDiploplastronspp.andEremo-
+lenging (56–61). With the advances in molecular methods, the plastron spp., which clustered polyphyletically. Until this genus
+acquisition and analysis of molecular marker genes, e.g., 18S isformallyreappraised,weclassifiedallsequenceswithinthisclus-
+rRNAgenes,becameanimportanttoolforunambiguousspe- terasbelongingtothecombined“Diploplastron-Eremoplastron”
+ciesidentificationandthedevelopmentofaphylogeny-based group.Similarly,sequencesofspeciesidentifiedasAnoplodinium
+classification scheme. Embley et al. (62) were the first to de- spp. and Diplodinium spp. clustered closely together, but poly-
+scribethemonophyleticpositionoftheanaerobicrumencili- phyletically, and were assigned to the “Anoplodinium-Diplo-
+ates Dasytricha ruminantium and Polyplastron multivesiculatum dinium” group. Sequence clusters containing two sequences
+(originallynamedEntodiniumsimplex)amongthefree-livingaer- with different genus designations that shared (cid:2)99.5% se-
+obicciliatesbasedon18SrRNAgenes.Thisworkwascloselyfol- quencesimilarityweregivenacombinedgroupname.Thiswas
+lowedbyWrightetal.(63–65),whoprovidedmoleculardatafor donefortwosequences,oneeachfromEudiplodiniumandEr-
+Diplodiniumdentatum,Entodiniumcaudatum,Epidiniumcauda- emoplastron,thatgroupedtogetherbutdistantlyfromthe“true”
+tum, Eudiplodinium maggii, Isotricha intestinalis, Ophryoscolex membersofthesetwogenera.Weassignedthemtothe“Eudiplo-
+purkynjei,andPolyplastronmultivesiculatum.Sincethen,numer- dinium-Eremoplastron” group, but a new formal genus name
+ous18SrRNAgenereferencesequenceshavebeendepositedin shouldbeassignedinfuture.Thisrulealsoappliedtosequences .452.01.4.19
+publicdatabases,whichhasallowedphylogeneticreconstruction within the “Hemiprorodon-Prorodonopsis” and “Blepharoco-
+ofintestinalciliateevolution.Despitethesenovelinsights,relicts nus-Triadinium”groups.
+ofapurelymorphology-basedphylogenystillremainapparentin Family-levelreclassifications.Severalfamiliesthathadbeen
+yb
+thetaxonomytodate,andseveralpolyphyleticgenera,families, described based on morphological characteristics appeared to
+3202
+suborders,andordershaverecentlybeenidentified(38).Tocarry clusterpolyphyleticallybasedonthemolecularanalysis.Forex-
+outhigh-resolutioncommunitystructureanalysisbasedonciliate ample,thefamilyCycloposthiidaeformallycomprisesthegenus rebmetpeS
+18SrRNAgenes,anexacttaxonomicnomenclatureisdesirable, CycloposthiumaswellasthegeneraBozasellaandTriplumaria,but
+yet it is not absolutely essential. However, to detect differences thesegeneradonotformamonophyleticcluster.Basedonour
+betweensamples,itisessentialthatdistinctsequenceclustersare data, which is in accordance with Ito et al. (38), we suggest the
+12
+givenuniquetaxonomicidentifiers(Fig.4;seealsoFig.S3inthe transferofBozasellaandTriplumariafromthefamilyCyclopost-
+no
+supplemental material). The following reclassifications were hiidaetoan“unclassifiedfamily1(Uncf1).”ThefamilyBlepha-
+mea/lanruoj/gro.msa.slanruoj//:sptth
+madetodevelopaworking18SrRNAgenetaxonomyofmamma- rocorythidaewasfoundtobemonophyleticwiththeexceptionof
+lianintestinalciliates. thegeneraCharoninaandRaabena.Thesegeneraweretherefore
+Genus-level reclassifications. The genus Blepharocorys clus- assigned to two novel families, the so far unclassified families 2
+tered into two distant groups in the phylogenetic tree based on (Uncf2) and 3 (Uncf3), respectively. Based on morphological
+RAxML.Todistinguishbetweenthetwogroups,wesubdivided characteristics, especially the skeletal plates and the macronu-
+thisgenusintoBlepharocorys_aandBlepharocorys_b.Thegroup cleus,itseemsjustifiabletoincludeTripalmariadogieli(formerly
+containingthetypespecies,Blepharocorysuncinata(GenBankac- assignedtothefamilyCycloposthiidae)inthefamilySpirodinii-
+cessionnumberAB530162),wascalledBlepharocorys_a.Thesame dae(38).Thisreclassificationachievedmonophylyofboththese
+was done for the genus Bundleia with its type species Bundleia families.
+postciliata(Bundleia_a).SpecieswiththegenusnameBalantidium IncontrasttotheresultsofastudybyItoetal.(38),thefamily
+occurred in two different clusters in the phylogenetic tree. The Paraisotrichidaewasmonophyleticinthisstudy,albeitwithlow morf
+polyphyletic nature of this genus has been described previously bootstrap support of 42%. The sequence of Gassovskiella galea
+dedaolnwoD
+2440 aem.asm.org AppliedandEnvironmentalMicrobiology April2015 Volume81 Number7
+
+MolecularPhylogenyofIntestinalCiliates
+(familySpirodiniidae)didnotclustermonophyleticallywiththe rRNA gene-based community structure analysis of mammalian
+remainingmembersofthefamilySpirodiniidaebutwithPolydi- intestinalciliateprotozoa(Fig.1).
+niella mysorea (family Polydiniellidae). Therefore, Gassovskiella Tofullyaddressandresolvetheremainingdiscrepancies(e.g.,
+galeawasclassifiedintounclassifiedfamily4(Uncf4)untilmore clusteringatfamilyandsuborderlevel),markergeneinformation
+information is available. The sequence of Balantidium cteno- offurtherrepresentativesofmammalianintestinalciliates,more
+pharyngodoniwasisolatedfromthegrasscarphindgut(GenBank comprehensivetaxonsampling,andthecalculationofmorereli-
+accession number GU480804). Clustering of this sequence into ablephylogeniesareneeded(38).
+thetrichostomeciliatesissurprisingsincesofarthissubclassof Comparisonofciliatecommunitystructureasassessedby
+ciliateswasthoughttobeexclusivelycomprisedofciliatesfrom microscopiccountsandampliconpyrosequencing.Thisstudy
+mammalianhosts.Balantidiumctenopharyngodoniclusteredsep- comparedtwomethodsofciliatecommunitystructureanalysisin
+arately from the members of the Balantidiidae. Instead, it clus- ordertodetermineifhigh-throughputampliconpyrosequencing
+teredasasistergrouptotheorderMacropodiniida.Sinceitsse- couldserveasavalidalternativetomicroscopiccountingwhen
+quencetypewasclearlydifferentfromtheotherthreedesignated theexperimentrequiresalargenumberofsamplestobeanalyzed.
+familiesinthisorder,itwasassignedtoasyetunclassifiedfamily5 Todate,microscopiccountingisstilllargelyregardedasthegold
+(Uncf5).The18SrRNAgenesequenceofBalantidiumentozoon standardforstudyingthediversityandtherelativeandabsolute
+alsoclusteredclearlyseparatelyfromthemembersoftheBalanti- abundance of rumen ciliates in individual samples. Microscopy
+diidae and was thus assigned to as yet unclassified family 6 holdsseveraladvantagesoverPCR-basedmolecularmethodsfor
+(Uncf6). studyingciliateprotozoa.First,whilethevastmajorityofintesti-
+Suborder-level reclassifications. Based on the phylogenetic nalciliateshasbeencharacterizedmorphologically,thereisalack
+clustering, the suborders Entodiniomorphina and Blepharoco- of18SrRNAgenereferencesequencesformanyoftheobserved
+rythinaarepolyphyletic.Wehavethereforeadoptedthesugges- generaandspecies.Second,copynumbervariationofrRNAgenes
+tionofItoetal.(38)toassigntheasyetunclassifiedfamiliesUncf2 acrossthedifferentgeneramayskewtheobservedproportionsof
+(representedbyCharonina)andUncf3(representedbyRaabena) thesegenerainasample(67).Previousstudiesusing18SrRNA
+to the suborder Entodiniomorphina and to assign the families genesurveys,however,haverevealedahigh“hidden”diversityof
+ParentodiniidaeandPseudoentodiniidaetothesuborderBlepha- intestinal ciliates that may only have been poorly identified by
+rocorythina.ThefamilyIsotrichidaehadsofarnotbeenassigned conventionalmorphologicalmethods(17,68),andrecentinterest
+to a suborder. For consistency, and until more molecular and inunderstandingtheinvolvementofrumenciliatesinlivestock
+morphological evidence is available, we suggest assigning this methaneemissionsrequirestheanalysisoflargenumbersofsam-
+familytotheasyetunclassifiedsuborder1(Uncs1).Similarly,the ples. Therefore, research into the comparability of microscopic
+threedescribedfamilieswithintheorderMacropodiniidaandthe andmolecularmethodsseemedmorethanjustified.Inourstudy,
+sofarunclassifiedfamily5areassignedtotheasyetunclassified both microscopic and molecular methods were successfully ap-
+suborder2(Uncs2).MembersofthefamiliesBalantidiidae,Para- pliedtoidentifytheciliateprotozoapresentintheanalyzedrumen
+isotrichidae,andPycnotrichidaeclusteredassistergroupstothe samples.Bothmethodsmaythereforebeusedtoaddresstheques-
+BuetschliidaeandcanbeplacedinthesuborderArchistomatina. tion of “who is there.” This could, for example, include studies
+However,untilthisisrevisited,andduetothelowbootstrapsup- aiming at describing geographic extension or host specificity of
+port, the three families are individually categorized into the as intestinalciliates.Whilemicroscopicanalysiswillallowdetection
+yet unclassified suborders Uncs3 (Balantidiidae), Uncs4 (Para- ofspeciesthatarestillelusivetomolecularcharacterization,py- .452.01.4.19
+isotrichidae),andUncs5(Pycnotrichidae).Balantidiumentozoon rosequencing may allow detection of rare taxa that may easily
+wasassignedtoasyetunclassifiedsuborder6(Uncs6). be missed by microscopy (such as Metadinium medium in this
+Order-levelreclassifications.TheorderEntodiniomorphida study).
+yb
+wasfoundtobepolyphyletic,asreportedpreviously(38),withthe Thetwodifferentmethodsproducedquantitativelydifferent
+3202
+membersofthesuborderArchistomatina(familyBuetschliidae) resultsinregardtorelativeabundancesofdifferentciliategenera.
+clusteringdistantlyfromtheremainingmembersoftheorderEn- Whilethesmaller-celledgenerasuchasEntodinium,Charonina, rebmetpeS
+todiniomorphida (suborders Entodiniomorphina, Blepharoco- and Diplodinium tended to be underrepresented, larger-celled
+rythina,andUncs1).Thus,weadoptedtherecommendationto generasuchasMetadinium,Epidinium,Eudiplodinium,Ostraco-
+movethesuborderArchistomatinaintotheorderVestibuliferida dinium,andPolyplastrontendedtobeoverrepresentedbythepy-
+12
+(38). The former vestibuliferid family Isotrichidae formed a rosequencingapproachcomparedtomicroscopy.Thisresultcor-
+no
+monophyleticsistergrouptotheorderEntodiniomorphidawith roborates earlier findings from the molecular and microscopic
+mea/lanruoj/gro.msa.slanruoj//:sptth
+96%bootstrapsupportandwasthusreclassifiedintothisorder,as assessmentofalveolatediversityandabundanceinafreshwater
+suggestedbyItoetal.(38).ThespeciesBalantidiumentozoonclus- lake (67). Overrepresentation may be explained by primer bias
+teredoutsidethethreedescribedordersandwasthereforeplaced towardcertaingeneraor,morelikely,bythepresenceofdifferent
+intotheunclassifiedorder1(Unco1)untilitsrelationshiptothe numbersof18SrRNAgenecopiesinthegenomesofthedifferent
+otherintestinalciliatescanbefullyresolved. species.rRNAcopynumberwasfoundtobecorrelatedwithge-
+All reclassifications described above have been incorporated nomesize(69),anditwassuggestedbyCavalier-Smith(70)and
+into a new database and taxonomic framework of trichostome laterdemonstratedforphytoplanktonbyBoucheretal.thatge-
+ciliates(seeFileS1inthesupplementalmaterial).Thisworking nomesize(DNAcontent)isalsocorrelatedwithbodysize(71).A
+taxonomicframeworkiscompatiblewithsoftwaresuchasQIIME directcorrelationbetweenrRNAgenecopynumberandbodysize
+(34)asdescribedpreviously(33),whichallowstaxonomicassign- waspresentedbyZhuetal.(72).Similarly,morerecentliterature
+mentofsequencedataobtainedfromhigh-throughputsequenc- onrumenciliatessuggeststhatEpidiniumcaudatum,whichisap- morf
+ingtechnologiesbasedonBLAST(35)andcanbeusedfor18S proximatelyfivetimeslargerbyvolumethanEntodiniumcauda-
+dedaolnwoD
+April2015 Volume81 Number7 AppliedandEnvironmentalMicrobiology aem.asm.org 2441
+
+Kittelmannetal.
+tum(19),alsohasapproximatelyfivetimesmore18SrRNAgene 5. ColemanGS.1986.Themetabolismofrumenciliateprotozoa.FEMS
+copiesencodedinitsgenome(73).Theseresultsagreewiththe Microbiol Lett 39:321–344. http://dx.doi.org/10.1111/j.1574-6968.1986
+.tb01864.x.
+findingthatPCR-basedmethodsreturnlowerestimatesofabun-
+6. EllisJE,WilliamsAG,LloydD.1989.Oxygenconsumptionbyruminal
+dance of small Entodinium spp. (27) and overestimates of the
+microorganisms:protozoalandbacterialcontributions.ApplEnvironMi-
+abundance of, e.g., Polyplastron spp. (74). For this reason, the crobiol55:2583–2587.
+pyrosequencingmethodcannotbeusedtoestimate(cid:8)-diversityor 7. BonhommeA.1990.Rumenciliates:theirmetabolismandrelationships
+relativeabundancesofdifferentgeneraandspeciesinasample. withbacteriaandtheirhosts.AnimFeedSciTechnol30:203–266.http:
+//dx.doi.org/10.1016/0377-8401(90)90016-2.
+However,itmayturnoutthat18SrRNAgene-basedanalysesare
+8. ColemanGS.1989.Theroleofprotozoaandfungiinruminantdigestion.
+aproxyforthebiomassofindividualgenera.Whatwecanmea- PenambulBooks,Armidale,Australia.
+surereliablyusingmolecularmethods,despitecopynumberdif- 9. YarlettN,HannAC,LloydD,WilliamsA.1981.Hydrogenosomesin
+ferences,aretrendsinrelativeabundancesofgeneraandspecies therumenprotozoonDasytricharuminantiumSchuberg.BiochemJ200:
+between different samples ((cid:9)-diversity). The higher sample 365–372.
+10. YarlettN,HannAC,LloydD,WilliamsAG.1983.Hydrogenosomesin
+throughput that can be achieved by using molecular tools may
+amixedisolateofIsotrichaprostomaandIsotrichaintestinalisfromovine
+allowevensubtleshiftsordifferencesbetweentreatmentgroupsto rumencontents.CompBiochemPhysiolBBiochemMolBiol74:357–364.
+bedetectable. http://dx.doi.org/10.1016/0305-0491(83)90025-1.
+Inconclusion,bothmethodshaveadvantagesanddisadvan- 11. YarlettN,ColemanGS,WilliamsAG,LloydD.1984.Hydrogenosomes
+inknownspeciesofrumenentodiniomorphidprotozoa.FEMSMicrobiol
+tages.Aswitheverymethod,limitationsneedtobeacknowledged,
+Lett21:15–19.http://dx.doi.org/10.1111/j.1574-6968.1984.tb00178.x.
+andresultsmustbeinterpretedcorrespondingly.Here,thebest
+12. JouanyJ,ZainabB,SenaudJ,GroliereC,GrainJ,ThivendP.1981.Role
+methodtobeusedstronglydependsontheresearchquestiontobe oftherumenciliateprotozoaPolyplastronmultivesiculatum,Entodinium
+addressed and the number of samples to be analyzed. If exact sp.andIsotrichaprostomainthedigestionofamixeddietinsheep.Reprod
+determinationoftheproportionsofcertainciliatesinagivensam- NutrDev21:871–884.http://dx.doi.org/10.1051/rnd:19810701.
+13. KreuzerM,KirchgessnerM,MüllerH.1986.Effectofdefaunationonthe
+ple is crucial, we recommend the use of microscopic counting.
+lossofenergyinwethersfeddifferentquantitiesofcelluloseandnormalor
+However,ifexactproportionsarenotessentialandiftheoverall steamflakedmaizestarch.AnimFeedSciTechnol16:233–241.http://dx
+aim is to estimate (cid:9)-diversity by comparing ciliate community .doi.org/10.1016/0377-8401(86)90114-8.
+structureinhundredsofsamplesderivedfromdifferentanimals, 14. WhitelawF,EadieJM,BruceL,ShandW.1984.Methaneformationin
+faunatedandciliate-freecattleanditsrelationshipwithrumenvolatile
+geographic locations, treatment groups, time points, etc., then
+fattyacidproportions.BrJNutr52:261–275.http://dx.doi.org/10.1079
+high-throughput amplicon pyrosequencing will provide a valu-
+/BJN19840094.
+ablealternative.Inthefuture,moredetailedknowledgeonrRNA 15. Kittelmann S, Pinares-Patiño CS, Seedorf H, Kirk MR, Ganesh S,
+genecopynumberinthevariousspecies(e.g.,bysequencingand McEwanJC,JanssenPH.2014.Twodifferentbacterialcommunitytypes
+assemblyofwholegenomes)mayprovideameanstocorrectmo- are linked with the low-methane emission trait in sheep. PLoS One
+9:e103171.http://dx.doi.org/10.1371/journal.pone.0103171.
+lecularmarkergenedataforthosedifferences.Tofurtherimprove
+16. AmannRI,LudwigW,SchleiferK-H.1995.Phylogeneticidentification
+molecularcommunitystructureanalysisofintestinalciliates,the and in situ detection of individual microbial cells without cultivation.
+aim should be to obtain and deposit 18S rRNA gene reference MicrobiolRev59:143–169.
+sequencesfrommicroscopicallydescribedspeciessothattheycan 17. KittelmannS,JanssenPH.2011.Characterizationofrumenciliatecom-
+munitycompositionindomesticsheep,deer,andcattle,feedingonvary-
+beincorporatedintoexistingtaxonomicframeworks.Deposition
+ingdiets,bymeansofPCR-DGGEandclonelibraries.FEMSMicrobiol
+ofreferencesequencesofthesespecieswouldhelpconservecen-
+Ecol75:468–481.http://dx.doi.org/10.1111/j.1574-6941.2010.01022.x.
+turiesofknowledgebylinkingthespeciesnamesdescribedinearly 18. BryantMP,BurkeyLA.1953.Culturalmethodsandsomecharacter- .452.01.4.19
+and current literature with unique molecular marker gene se- isticsofsomeofthemorenumerousgroupsofbacteriainthebovine
+quenceinformation. rumen. J Dairy Sci 36:205–217. http://dx.doi.org/10.3168/jds.S0022
+-0302(53)91482-9.
+19. DehorityBA.1993.Laboratorymanualforclassificationandmorphology yb
+ACKNOWLEDGMENTS ofrumenciliateprotozoa,CRCPress,BocaRaton,FL.
+3202
+20. Dyal P, Hope S, Roberts D, Embley T. 1995. Use of the PCR and
+ThisresearchwascarriedoutundercontracttothePastoralGreenhouse
+fluorescentprobestorecoverSSUrRNAgenesequencesfromsinglecells
+GasResearchConsortium(PGgRc)andtheNewZealandAgricultural rebmetpeS
+oftheciliateprotozoonSpathidium.MolEcol4:499–504.http://dx.doi
+GreenhouseGasResearchCentre(NZAGRC).ThevisitbyS.K.tothelab
+.org/10.1111/j.1365-294X.1995.tb00244.x.
+ofB.A.D.inWooster,OH,wassupportedbyfundingfromthePGgRc. 21. MedlinL,ElwoodHJ,StickelS,SoginML.1988.Thecharacterizationof
+We thank Jeffrey I. Gordon for access to the 454 Life Sciences se- enzymaticallyamplifiedeukaryotic16S-likerRNA-codingregions.Gene
+12
+quencerandSuDeng(CenterforGenomeSciencesandSystemsBiology, 71:491–499.http://dx.doi.org/10.1016/0378-1119(88)90066-2.
+no
+Washington University in St. Louis, Missouri) and Jason Peters 22. HugenholtzP,TysonGW,BlackallLL.2002.Designandevaluationof
+mea/lanruoj/gro.msa.slanruoj//:sptth
+(AgResearch)forexcellenttechnicalassistance. 16SrRNA-targetedoligonucleotideprobesforfluorescenceinsituhybrid-
+ization.MethodsMolBiol179:29–42.http://dx.doi.org/10.1385/1-59259
+-238-4:029.
+REFERENCES
+23. Baker BJ, Hugenholtz P, Dawson SC, Banfield JF. 2003. Extremely
+1. Dehority BA. 1986. Protozoa of the digestive tract of herbivorous acidophilic protists from acid mine drainage host Rickettsiales-lineage
+mammals.IntJTropInsectSci7:279–296.http://dx.doi.org/10.1017 endosymbiontsthathaveinterveningsequencesintheir16SrRNAgenes.
+/S1742758400009346. Appl Environ Microbiol 69:5512–5518. http://dx.doi.org/10.1128/AEM
+2. HobsonPN,StewartCS.1997.Therumenmicrobialecosystem,2nded. .69.9.5512-5518.2003.
+Springer,NewYork,NY. 24. PruesseE,PepliesJ,GlöcknerFO.2012.SINA:accuratehigh-throughput
+3. SylvesterJT,KarnatiSKR,YuZ,MorrisonM,FirkinsJL.2004.Devel- multiplesequencealignmentofribosomalRNAgenes.Bioinformatics28:
+opmentofanassaytoquantifyrumenciliateprotozoalbiomassincows 1823–1829.http://dx.doi.org/10.1093/bioinformatics/bts252.
+usingreal-timePCR.JNutr134:3378–3384. 25. Ludwig W, Strunk O, Westram R, Richter L, Meier H. 2004. ARB: a
+4. Williams AG, Coleman GS. 1997. The rumen protozoa, p 73–139. In softwareenvironmentforsequencedata.NucleicAcidsRes32:1363–1371.
+HobsonPN,StewartCS(ed),Therumenmicrobialecosystem,2nded. http://dx.doi.org/10.1093/nar/gkh293. morf
+BlackieAcademicandProfessional,London,UnitedKingdom. 26. StamatakisA.2006.RAxML-VI-HPC:maximumlikelihood-basedphy-
+dedaolnwoD
+2442 aem.asm.org AppliedandEnvironmentalMicrobiology April2015 Volume81 Number7
+
+MolecularPhylogenyofIntestinalCiliates
+logeneticanalyseswiththousandsoftaxaandmixedmodels.Bioinformat- 48. HsiungTS.1930.Somenewciliatesfromthelargeintestineofthehorse.
+ics22:2688–2690.http://dx.doi.org/10.1093/bioinformatics/btl446. TransAmMicroscSoc49:34–41.http://dx.doi.org/10.2307/3222293.
+27. Tymensen L, Barkley C, McAllister TA. 2012. Relative diversity and 49. GilchristF,VanHovenW,StensonM.1994.FivenewspeciesofTri-
+communitystructureanalysisofrumenprotozoaaccordingtoT-RFLP chostomatida(ciliatedprotozoa)fromthecolonofwildAfricanrhinoc-
+andmicroscopicmethods.JMicrobiolMethods88:1–6.http://dx.doi.org eroses.SystParasitol28:187–196.http://dx.doi.org/10.1007/BF00009517.
+/10.1016/j.mimet.2011.09.005. 50. ThurstonJP,GrainJ.1971.HolotrichciliatesfromthestomachofHip-
+28. RDevelopmentCoreTeam.2014.R:alanguageandenvironmentfor popotamusamphibius,withdescriptionsoftwonewgeneraandfournew
+statisticalcomputing.RFoundationforStatisticalComputing,Vienna, species. J Protozool 18:133–141. http://dx.doi.org/10.1111/j.1550-7408
+Austria. .1971.tb03295.x.
+29. CharifD,LobryJR.2007.SeqinR1.0-2:acontributedpackagetothe 51. DehorityB,MattosW.1978.Diurnalchangesandeffectofrationon
+R project for statistical computing devoted to biological sequences concentrationsoftherumenciliateCharonventriculi.ApplEnvironMi-
+retrievalandanalysis,p207–232.InBastollaU,PortoM,RomanHE, crobiol36:953–958.
+Vendruscolo M (ed), Structural approaches to sequence evolution. 52. SyrjäläL,SaloniemiH,LaalahtiL.1976.Compositionandvolumeofthe
+Springer,NewYork,NY. rumen microbiota of sheep fed on grass silage with different sucrose,
+30. WickhamH.2009.ggplot2:elegantgraphicsfordataanalysis.Springer, starchandcellulosesupplements.JSciAgricSocFinl48:138–153.
+NewYork,NY. 53. DogielVA.1927.MonographiederFamilieOphryoscolecidae.ArchPro-
+31. Shannon CE. 1948. A mathematical theory of communication. Bell tistenkd59:1–288.
+System Tech J 27:379–423. http://dx.doi.org/10.1002/j.1538-7305 54. DogielVA.1925.Newparasiticinfusoriafromthestomachofreindeer
+.1948.tb01338.x. (Rangifertarandus).ArchRussProtistol4:43–65.
+32. Rius AG, Kittelmann S, Macdonald KA, Waghorn GC, Janssen PH, 55. DogielVA.1947.Thephylogenyofthestomach-infusoriansofruminants
+SikkemaE.2012.Nitrogenmetabolismandrumenmicrobialenumera- inthelightofpalaeontologicalandparasitologicaldata.QJMicroscSci
+tion in lactating cows with divergent residual feed intake fed high- 3:337–344.
+digestibilitypasture.JDairySci95:5024–5034.http://dx.doi.org/10.3168 56. dePuytoracP.1994.TraitédeZoologie:anatomie,systématique,biolo-
+/jds.2012-5392. gie. Infusoires ciliés biologie. Infusoires ciliés, tome II. Masson, Paris,
+33. KittelmannS,SeedorfH,WaltersWA,ClementeJC,KnightR,Gordon France.
+JI,JanssenPH.2013.Simultaneousampliconsequencingtoexploreco- 57. dePuytoracP,GrainJ,MignotJ-P.1987.Précisdeprotistologie.Société
+occurrencepatternsofbacterial,archaealandeukaryoticmicroorganisms NouvelledesÉditionsBoubée,Paris,France.
+inrumenmicrobialcommunities.PLoSOne8:e47879.http://dx.doi.org 58. de Puytorac P, Legendre P, Devaux J. 1984. Essai d’application de
+/10.1371/journal.pone.0047879. l’analysephénétiqueàlaclassificationduphylumdesCiliophora.JProto-
+34. Caporaso JG, Kuczynski J, Stombaugh J, Bittinger K, Bushman FD, zool31:496–507.http://dx.doi.org/10.1111/j.1550-7408.1984.tb05491.x.
+Costello EK, Fierer N, Gonzales-Pena A, Goodrich JK, Gordon JI, 59. LynnDH,CorlissJO.1991.Ciliophora.InHarrisonFW,CorlissJO(ed),
+HuttleyGA,KelleyST,KnightsD,KoenigJE,LeyRE,LozuponeCA, Microscopicanatomyofinvertebrates.Wiley-Liss,NewYork,NY.
+McDonald D, Muegge BD, Pirrung M, Reeder J, Sevinsky JR, Turn- 60. SmallEB,LynnDH.1981.AnewmacrosystemforthephylumCilio-
+baughPJ,WaltersWA,WidmanJ,YatsunenkoT,ZaneveldJ,KnightR. phoraDoflein,1901.Biosystems14:387–401.http://dx.doi.org/10.1016
+2010.QIIMEallowsanalysisofhigh-throughputcommunitysequencing /0303-2647(81)90045-9.
+data.NatMethods7:335–336.http://dx.doi.org/10.1038/nmeth.f.303. 61. SmallEB,LynnDH.1985.PhylumCiliophoraDoflein,1901.InLeeJJ,
+35. AltschulSF,GishW,MillerW,MyersEW,LipmanDJ.1990.Basiclocal HutnerSH,BoveeED(ed),Anillustratedguidetotheprotozoa.Allen
+alignmentsearchtool.JMolBiol215:403–410.http://dx.doi.org/10.1016 Press,Lawrence,KS.
+/S0022-2836(05)80360-2. 62. EmbleyTM,FinlayBJ,DyalPL,HirtRP,WilkinsonM,WilliamsAG.
+36. EadieJM.1962.Inter-relationshipsbetweencertainrumenciliateproto- 1995.Multipleoriginsofanaerobicciliateswithhydrogenosomeswithin
+zoa.JGenMicrobiol29:579–588.http://dx.doi.org/10.1099/00221287-29 theradiationofaerobicciliates.ProcRSocLondBBiolSci262:87–93.
+-4-579. http://dx.doi.org/10.1098/rspb.1995.0180.
+37. ItoA,HonmaH,GürelliG,GöçmenB,MishimaT,NakaiY,ImaiS. 63. WrightA-DG,DehorityBA,LynnDH.1997.Phylogenyoftherumen
+2010.RedescriptionofTriplumariaselenica(Ciliophora,Entodiniomor- ciliatesEntodinium,EpidiniumandPolyplastron(Litostomatea:Entodin-
+.452.01.4.19
+phida)anditsphylogeneticpositionbasedontheinfraciliarybandsand iomorphida)inferredfromsmallsubunitribosomalRNAsequences.J
+18SSUrRNAgenesequence.EurJProtistol46:180–188.http://dx.doi.org Eukaryot Microbiol 44:61–67. http://dx.doi.org/10.1111/j.1550-7408.1997
+/10.1016/j.ejop.2010.01.005. .tb05693.x.
+38. Ito A, Ishihara M, Imai S. 2014. Bozasella gracilis n. sp. (Ciliophora, 64. WrightA-DG,LynnDH.1997.Monophylyofthetrichostomeciliates
+Entodiniomorphida)fromAsianelephantandphylogeneticanalysisof (phylumCiliophora:classLitostomatea)testedusingnew18SrRNAse- yb
+entodiniomorphidsandvestibuliferids.EurJProtistol50:134–152.http: quencesfromtheVestibuliferids,IsotrichaintestinalisandDasytricharu-
+3202
+//dx.doi.org/10.1016/j.ejop.2014.01.003. minantium,andtheHaptorian,Didiniumnasutum.EurJProtistol33:
+39. Dogiel VA, Fedorowa T. 1925. U¨ber den Bau und die Funktion des 305–315.http://dx.doi.org/10.1016/S0932-4739(97)80008-9.
+rebmetpeS
+innerenSkelletsdesOphryoscoleciden.ZoolAnz62:97–107. 65. WrightA-DG,LynnDH.1997.Phylogeneticanalysisoftherumenciliate
+40. JamesonAP.1925.Anewciliate,Charonventriculin.g.,n.sp.,fromthe familyOphryoscolecidaebasedon18SribosomalRNAsequences,with
+stomach of ruminants. Parasitology 17:403–405. http://dx.doi.org/10 newsequencesfromDiplodinium,Eudiplodinium,andOphryoscolex.Can
+.1017/S0031182000004807. JZool75:963–970.http://dx.doi.org/10.1139/z97-117.
+12
+41. DogielVA.1926.UnenouvelleespècedugenreBlepharocorys,B.bovisn. 66. Pomajbíková K, Oborník M, Horák A, Petrželková KJ, Grim JN,
+no
+sp.habitantl’estomacduboeuf.AnnParasitolHumComp4:61–64. LeveckeB,ToddA,MulamaM,KiyangJ,ModrýD.2013.Novelinsights
+mea/lanruoj/gro.msa.slanruoj//:sptth
+42. DogielVA.1934.AngabenüberdieOphryoscolecidaedesWildschafes into the genetic diversity of Balantidium and Balantidium-like cyst-
+ausKamtschatka,desElchesunddesYaks,nebstderenzoogeographis- formingciliates.PLoSNeglTropDis7:e2140.http://dx.doi.org/10.1371
+chenVerwertung.ArchProtistenkd82:290–297. /journal.pntd.0002140.
+43. StrelkovA.1939.ParasiticinfusoriafromtheintestineofUngulatabe- 67. MedingerR,NolteV,PandeyRV,JostS,OttenwaelderB,Schloetterer
+longingtothefamilyEquidae.UchenyeZapiskiLeningradskiiGosudarst- C,BoenigkJ.2010.Diversityinahiddenworld:potentialandlimitation
+vennyiPedagogicheskiiInstitutGercena17:1–262. ofnext-generationsequencingforsurveysofmoleculardiversityofeu-
+44. Wolska M. 1967. Study on the family Blepharocorythidae Hsiung. II. karyoticmicroorganisms.MolEcol19:32–40.http://dx.doi.org/10.1111/j
+Charoninaventriculi(Jameson).ActaProtozool4:279–283. .1365-294X.2009.04478.x.
+45. StrandE.1928.MiscelaneanomenclatoricaetpaleontologicaIundII. 68. Moon-vanderStaaySY,vanderStaayGW,MichalowskiT,JouanyJP,
+ArchNaturgesch92:30–75. PristasP,JavorskýP,KicˇidayováS,VaradyovaZ,McEwanNR,New-
+46. ClarkeRTJ.1964.Ciliatesoftherumenofdomesticcattle(BostaurusL.). boldCJ,vanAlenT,deGraafR,SchmidM,HuynenMA,Hackstein
+NewZealJAgrRes7:248–257.http://dx.doi.org/10.1080/00288233.1964 JHP. 2014. The symbiotic intestinal ciliates and the evolution of their
+.10416409. hosts.EurJProtistol50:166–173.http://dx.doi.org/10.1016/j.ejop.2014
+47. HsiungTS.1932.Ageneralsurveyoftheprotozoanfaunaoftherumenof .01.004. morf
+theChinesecattle.BullFanMemInstBiol3:87–104. 69. ProkopowichCD,GregoryTR,CreaseTJ.2003.Thecorrelationbetween
+dedaolnwoD
+April2015 Volume81 Number7 AppliedandEnvironmentalMicrobiology aem.asm.org 2443
+
+Kittelmannetal.
+rDNAcopynumberandgenomesizeineukaryotes.Genome46:48–50. ationtimeandadjust18SribosomalDNAcopiestoadapttodecreased
+http://dx.doi.org/10.1139/g02-103. transferinterval,starvation,andmonensin.JDairySci92:256–269.http:
+70. Cavalier-SmithT.1985.Eukaryotegenenumbers,non-codingDNAand //dx.doi.org/10.3168/jds.2008-1417.
+genomesize.JohnWiley&Sons,Ltd.,NewYork,NY. 74. IshaqSL,WrightA-DG.2014.Designandvalidationoffournewprimers
+71. BoucherN,VaulotD,PartenskyF.1991.Flowcytometricdetermination fornext-generationsequencingtotargetthe18SrRNAgeneofgastroin-
+ofphytoplanktonDNAinculturesandoceanicpopulations.MarEcol testinalciliateprotozoa.ApplEnvironMicrobiol80:5515–5521.http://dx
+ProgSer71:75–84.http://dx.doi.org/10.3354/meps071075. .doi.org/10.1128/AEM.01644-14.
+72. Zhu F, Massana R, Not F, Marie D, Vaulot D. 2005. Mapping of 75. NeefsJ-M,VandePeerY,DeRijkP,ChapelleS,DeWachterR.1993.
+picoeucaryotesinmarineecosystemswithquantitativePCRofthe18S CompilationofsmallribosomalsubunitRNAstructures.NucleicAcids
+rRNAgene.FEMSMicrobiolEcol52:79–92.http://dx.doi.org/10.1016/j Res21:3025–3049.http://dx.doi.org/10.1093/nar/21.13.3025.
+.femsec.2004.10.006. 76. NeefsJ-M,VandePeerY,HendriksL,DeWachterR.1990.Compila-
+73. Sylvester JT, Karnati SKR, Dehority BA, Morrison M, Smith GL, tion of small ribosomal subunit RNA sequences. Nucleic Acids Res
+St-PierreNR,FirkinsJL.2009.Rumenciliatedprotozoadecreasegener- 18(Suppl):2237–2317.http://dx.doi.org/10.1093/nar/18.suppl.2237.
+.452.01.4.19
+yb
+3202
+rebmetpeS
+12
+no
+mea/lanruoj/gro.msa.slanruoj//:sptth
+morf
+dedaolnwoD
+2444 aem.asm.org AppliedandEnvironmentalMicrobiology April2015 Volume81 Number7
+

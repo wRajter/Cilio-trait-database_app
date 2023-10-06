@@ -1,0 +1,958 @@
+Vol. 62: 215–230, 2011 AQUATIC MICROBIAL ECOLOGY
+Published online February 8
+doi: 10.3354/ame01468 Aquat Microb Ecol
+OPPEENN
+ACCCCEESSSS
+Ciliate distributions and forcing factors in the
+Amundsen and Bellingshausen Seas (Antarctic)
+Stephen A. Wickham1,*, Ulrike Steinmair1, Nina Kamennaya2
+1Department of Organismal Biology, University of Salzburg, Hellbrunnerstr. 34, 5020 Salzburg, Austria
+2Department of Plant and Environmental Sciences, Hebrew University of Jerusalem,
+Edmond J. Safra Campus, Jerusalem 91904, Israel
+ABSTRACT: Data for ciliate abundance, biomass and taxonomic composition, along with relevant
+biotic and abiotic parameters, were gathered from 9 profiles in the Bellingshausen and Amundsen
+Seas (Southern Ocean) during late summer and early autumn 2006. A total of 70 species were found,
+with extrapolations using species accumulation curves suggesting that the true diversity lay between
+77 and 90 species. Ciliate abundance and biomass were low, but not unexpectedly so, given the time
+of year and productivity of the system. Despite the harsh environment, species richness was not less
+than that found for protists from more temperate habitats, and declined with depth less steeply than
+abundance and biomass. Ciliate biomass was driven primarily by productivity, with tighter correla-
+tions between chlorophyll a (chl a) and either abundance or biomass than those seen from other
+marine systems. Community composition was also driven by productivity, with a principal compo-
+nents analysis (PCA) on species data showing the first axis strongly correlated with productivity para-
+meters. Moreover, species abundance distributions (SADs) were most often best matched by the geo-
+metric distribution, thought to be expected when relatively few parameters determine species
+distributions. Abundance and diversity were also compared using settled and quantitative protargol
+stain (QPS) samples. QPS samples had lower mean abundance, higher total species richness and
+higher taxonomic resolution than did the settled samples. However, per-sample species (or morpho-
+type) richness was the same in settled and QPS samples.
+KEY WORDS: Ciliate community · Antarctic species abundance
+Resale or republication not permitted without written consent of the publisher
+INTRODUCTION habitats, and while the taxonomic resolution is out-
+standing, it is not possible to obtain an idea of which
+That ciliates can form a substantial proportion of species are dominant and which are rare. Moreover,
+planktonic biomass, and play a central role in aquatic many studies on ciliates of the Southern Ocean have
+carbon fluxes, is well established (Weisse et al. 1990, concentrated on sea-ice or ice-edge communities (e.g.
+Burkill et al. 1995, Calbet & Landry 2004). It is also Garrison & Buck 1989, Song & Wilbert 2000, Garrison
+apparent that there can be high taxonomic diversity et al. 2005). On the other hand, total ciliate abundance
+among ciliates, with both endemic and cosmopolitan or biomass has often been calculated, but taxonomic
+species (Katz et al. 2005, Doherty et al. 2007, Foissner resolution often has not gone beyond that of tintinnids
+et al. 2008). However, studies which combine quantita- or oligotrichs (e.g. Garrison et al. 1993, Edwards et al.
+tive abundance and biomass data with good taxonomic 1998, Froneman 2004, Santoferrara & Alder 2009). The
+resolution for ciliates, particularly in the Southern lack of taxonomic detail can result in the loss of ecolog-
+Ocean, are quite rare. Petz (2005, and references cited ically relevant information, as ciliates can fill the func-
+therein) list a total of 161 ciliate species found in the tional roles of autotrophs, mixotrophs and het-
+Southern Ocean from various studies, time periods and erotrophs—grazing particles from picoplankton to
+*Email: steve.wickham@sbg.ac.at © Inter-Research 2011 · www.int-res.com
+
+216 Aquat Microb Ecol 62: 215–230, 2011
+large diatoms—and are themselves consumed by zero-sum multinomial distribution, or, if species are not
+predators ranging from dinoflagellates to krill (Sanders dispersal limited, the log-series distribution (Hubbell
+1991, Sanders & Wickham 1993, Stoecker et al. 1995, 2001, McGill et al. 2007). In contrast, a geometric dis-
+Christaki et al. 1999, Wickham & Berninger 2007). tribution is thought to occur when only a few environ-
+Using settled samples fixed with Lugol’s solution or mental parameters are driving species distributions,
+Bouin’s solution to enumerate ciliates can be a hin- such as in harsh environments (Magurran 1988). By
+drance to better taxonomic resolution, as, in these sam- using these varied approaches, we attempted to pro-
+ples, it is often difficult to identify the small aloricate vide a more complete picture of the ciliate community
+ciliates which often dominate pelagic communities of the Southern Ocean—during a part of the year that
+(Garrison et al. 1993, Claessens et al. 2008). has received relatively little attention: the late austral
+In order to better characterize both the pelagic ciliate summer and early autumn.
+community of the Southern Ocean and the factors that
+influence its size and composition, samples for ciliates
+and other biotic and abiotic parameters were taken in MATERIALS AND METHODS
+9 profiles during the late austral summer in 2006 in the
+Bellingshausen and Amundsen Seas. While a descrip- Profiles were taken as part of the ANT XXIII/4
+tive study cannot definitively assign causes to ob- cruise of RV ‘Polarstern’ during the period February
+served distributions, we used a number of approaches 16 to March 26, 2006. The research area was the
+to at least generate hypotheses about putative commu- Bellingshausen and Amundsen Seas, west of the
+nity and biomass drivers. For one, we correlated abun- Antarctic Peninsula, between 69°W and 125°W and
+dance and biomass data against a number of biotic and between 68°S and 72°S. Stns P1 to P4 were located
+abiotic parameters to determine associations. We also on an east-to-west transect from the west coast of the
+conducted regressions of species richness against Antarctic Peninsula to Peter I Island: from 68°12’S,
+chlorophyll a (chl a) and ciliate biomass to determine 69°48’W to 68°43’S, 90°5’W (Fig. 1, Table 1). Profile
+whether these relationships were similar to those P1 was taken on the continental shelf in 496 m
+found for ciliates from different habitats. In addition, depth, P2 on the shelf break, and P3 and P4 in the
+we compared estimates of species richness and abun- open ocean (Table 1). The next 5 profiles were more
+dance obtained by counting settled samples with those scattered, but they also featured stations on the con-
+from the quantitative protargol stain (QPS) which tinental shelf, on the shelf slope and in the open
+offers higher taxonomic resolution (Montagnes & Lynn ocean. The minimum water depth was 276 m in Pine
+1987). In order to determine how close the species rich- Island Bay (P5), the maximum depth 3447 m (P3). Stn
+ness estimates were to the true species richness, spe- P7 was on the continental shelf slope near Thurston
+cies accumulation curves were calculated (Colwell & Island. Stn P9, while in the open ocean, was above
+Coddington 1994). The response of the ciliate commu- the Marie Byrd Seamounts, and therefore in some-
+nity, at the species level, to varying environmental what more shallow water. The dates, depths and
+conditions was examined using principal components locations of the sampling stations are given in
+analysis (PCA), correlating the generated axes against Table1. When the water depth allowed, samples
+the measured environmental parameters. Finally, were taken at 20 m intervals from the surface to
+there has been recent interest in
+whether Hubbell’s (2001) neutral the-
+ory of biodiversity applies to ciliates,
+and what, if anything, this says about
+how ciliate communities are assembled
+(Dolan et al. 2007, Claessens et al.
+2010). Hubbell’s model suggests that
+communities are random assortments
+of competitively similar species gov-
+erned by random processes of recruit-
+ment from a larger metacommunity,
+speciation and extinction (Hubbell
+2001). While so-called species abun-
+dance distribution (SAD) curves can
+have multiple theoretical causes, com-
+Fig. 1. Sampling stations P1 to P9 during the RV ‘Polarstern’ cruise ANT XXIII/4,
+munities conforming to the neutral the- from February 16, 2006 (Stn P1) to March 26, 2006 (Stn P9) in the Bellingshausen
+ory are thought to show either the and Amundsen Seas, Antarctica
+
+Wickham et al.: Antarctic ciliate community in late summer 217
+Table 1. Summary of the 9 profiles sampled during cruise ANT XXIII/4. The brate the chlorophyll measurements
+depths 0–180 mwere sampled at 20 m intervals from the fluorometer on the CTD,
+using the regression:
+Profile Date Water depth Sample depths Latitude Longitude
+Chla = 0.724 ×Chla – 0.024
+(dd/mm/yy) (m) (m) (S) (W) fluor
+(R2= 0.91, p < 0.0001),
+P1 16/02/06 496 0–180, 300, 400, 480 68°12.10’ 69°48.34’
+P2 17/02/06 1080 0–180, 300, 500 68°16.08’ 75°33.32’ where Chla is the concentration of
+P3 18/02/06 3447 0–180, 300, 500 68°40.80’ 87°6.12’ chla measured with acetone extrac-
+P4 18/02/06 2964 0–180, 300, 500 68°43.94’ 90°5.04’ tion (assumed to be the ‘true’ concen-
+P5 01/03/06 276 0–180, 250 74°19.73’ 110°16.15’
+tration of chl a) and Chla is the
+P6 10/03/06 600 0–180, 300, 500 72°46.36’ 115°19.25’ fluor
+value of chl ameasured by the fluoro-
+P7 18/03/06 1520 0–180, 300, 500 71°0.05’ 105°39.67’
+P8 22/03/06 2887 0–180, 300, 500 70°15.04’ 119°41.22’ meter.
+P9 26/03/06 1590 0–180, 300, 500 69°47.37’ 125°58.51’ Ciliates were identified using stan-
+dard literature (Kofoid & Campbell
+1929, Adler 1999, Petz 1999, 2005) as
+180m, as well as at 300 m and 500 m, giving a total well as a number of original papers (Lynn & Mon-
+of 12 samples per profile. The sampling device was a tagnes 1988, Lynn et al. 1988, Lynn & Gilron 1993,
+SeaBird SBE 911+ CTD rosette equipped with a Dr. Agatha & Riedel-Lorje 1997, Suzuki & Song 2001,
+Haardt fluorometer and twenty-four 12 l Nisken bot- Modeo et al. 2003, Agatha et al. 2005, Skovgaard &
+tles as well as sensors for conductivity, pressure and Legrand 2005). Dinoflagellates were identified using
+temperature (CTD). A total of 108 samples were McMinn & Scott (2005) and Steidinger & Tangen
+taken from 9 profiles. At the end of each profile, (1977). Ciliate abundance was converted to biovolume
+samples were taken immediately for ciliates, dinofla- by measuring between 1 (for species with a single
+gellates, nanoplanktonic flagellates, bacteria and occurrence) and 10 individuals per species from the
+nutrients. For ciliates and dinoflagellates, 950 ml was settled samples and applying standard geometric for-
+drawn off, fixed with 50 ml of Bouin’s solution, and mulae or combinations thereof (e.g. for many Strom-
+later concentrated 10× by sedimentation; counting bidiumspecies, a half-sphere on top of a cone). Biovol-
+was carried out in settling chambers on an inverted ume was then converted to biomass using a factor of
+microscope (100 to 500 ml of the original sample). 0.14 pg C µm3(Putt & Stoecker 1989).
+For 55 samples (all depths in profiles P1 to P5, and 2 Ciliate and dinoflagellate data were analysed using
+depths each from P5 to P9), subsamples were also sil- correlations, regressions, and PCA with the programs
+ver stained using the QPS methodology for identifi- JMP, SAS and CONOCO (Ter Braak 1986, SAS Insti-
+cation to genus or species level (Skibbe 1994). 100 ml tute 1989). The PCA was conducted on the QPS sam-
+samples for flagellates were fixed with glutaralde- ples, as these had greater taxonomic resolution than
+hyde (2% final conc.), but damage in transport made the settled samples counted with an inverted micro-
+the majority of the samples uncountable. 2 ml sam- scope. SADs were fitted using relative abundances and
+ples were taken for bacteria, fixed in 2% (final conc.) compared to the theoretical geometric, log-normal,
+glutaraldehyde and stored in liquid nitrogen. Both log-series, and zero-sum multinomial (zsm) distribu-
+heterotrophic and autotrophic prokaryotes were enu- tions. The geometric distribution was calculated
+merated by flow cytometry after staining with Cyber according to Magurran (1988), the log-series by using
+green (Marie et al. 2001). Dissolved phosphorus and May’s (1975) approximation and the log-normal by
+oxygenated dissolved nitrogen (NO – + NO –) were using the means and standard deviation of per-species
+2 3
+measured spectrophotometrically with a QuikChem ln(abundance) in each sample to generate 1000 log-
+8000 flow injection analyser (Lachat Instruments). normal distributions for each sample, with species rich-
+Concentrations of ammonium were determined by ness equal to the actual species richness in the sample.
+the orthophthaldialdehyde method (Holmes et al. The zsm distribution was calculated using the
+1999) and quantified by fluorescence detection on a optimal.theta and rand.neutral functions of the untb
+TBS-380 mini-fluorometer (Turner BioSystems) cali- package in R (Harkin 2009). The goodness of fit of the
+brated with the standard curve of a wide range. Con- distributions was ranked using the Akaike Information
+centrations of chl a were measured in sea water, pre- Criterium (AIC), as calculated in Dolan et al. (2007).
+filtered through a 100 µm mesh, from 101 samples. Species accumulation curves, which estimate the total
+The chl a was extracted from samples of 250 ml, col- species richness from the increase in richness as sam-
+lected on GF/F filters, extracted in 90% acetone for ples are consecutively added together, were calculated
+24 h at 4°C and measured on a TBS-380 fluorometer. using the specaccum function of the vegan package in
+These chlorophyll measurements were used to cali- R (Oksanen et al. 2009).
+
+218 Aquat Microb Ecol 62: 215–230, 2011
+RESULTS Total ciliate abundance and biomass, as well as spe-
+cies richness, were strongly correlated with a number
+Environmental conditions of environmental parameters. These parameters were
+often correlated among themselves, the degree to
+In addition to low temperatures, the stations were which can be seen as the angle between the environ-
+characterised by low algal biomass and nutrient con- mental vectors in Fig. 4, where an angle of 90°repre-
+centrations, a shallow mixed layer, and beneath sents zero linear correlation, and 0° or 180° perfect
+~200 m, a relatively warm, high-density layer. The positive or negative correlations. Abundance, biomass
+mixed layer (defined as depths with a water density and richness were positively related to productivity,
+within 0.125 kg m-3of that at the surface, Levitus 1982) measured as chl a(Table 3). In all 3 cases, the relation-
+had an average depth of 53 m (range: 14 to 165 m) and ship was log-linear, with the following equations
+a median temperature of –1.1°C (range: –1.7 to 1.9). describing the data:
+Beneath the mixed layer there was often a colder layer
+ln(ciliate abundance) = 6.80 + 1.18 ×ln(chl a)
+extending to ~150 m, and beneath that, a warmer,
+(R2= 0.48, p < 0.0001)
+denser layer (median temperature and salinity, 1.7°C
+and34.7,respectively; Fig. 2). In the mixed layer, chl a ln(ciliate biomass) = 0.88 + 1.19 ×ln(chl a)
+was generally low, with a median value of 0.36 µg chla (R2= 0.47, p < 0.0001)
+l–1, although surface values in profiles P2 and P3 were and
+over an order of magnitude higher, with maximum val-
+ln(species richness) = 2.82 + 0.27 ×ln(chl a)
+ues around 4.5 µg chl a l–1 (Fig. 2). In profiles P6, P8
+(R2= 0.26, p < 0.0001)
+and P9 there was evidence of at least a small subsur-
+face chlorophyll maximum, but no deeper than ~80 m. in which ciliate abundance is in cells l–1, biomass in µg
+Total dissolved nitrogen within the mixed layer had a C l–1and chlorophyll ain µg chl al–1.
+median of 19.8 µg l–1, with an N:P ratio of 11.6. Bacter- The difference in slopes of the equations (1.18 for
+ial and picoautotroph abundance in the mixed layer abundance, 1.19 for biomass but 0.27for richness) indi-
+was low (median values: 0.21 ×106and 770 cells ml–1, cates that abundance and biomass increased more
+respectively). In the cold layer beneath the mixed zone steeply with increasing productivity than did species
+values were even lower (0.12 × 106 bacteria ml–1 and richness. This trend can also be seen in the regression
+410 picoautotrophs ml–1), and lower still in the deepest of species richness against abundance:
+samples (0.081 × 106 bacteria ml–1 but 570 pico-
+ln(richness) = 0.815 + 0.387 ×ln(abundance)
+autotrophs ml–1).
+(R2= 0.67, p < 0.0001)
+The greater dependence of abundance and biomass
+Ciliate abundance and biomass patterns on productivity, compared to species richness, resulted
+in abundance and biomass decreasing with depth
+Calculated over all depths and samples, median cil- more rapidly than species richness (Fig. 3). The ratio of
+iate abundance was 139 ciliates l–1, or 0.34 µg C l–1. ciliate biomass to chl a(µg C l–1:µg chl al–1) also varied
+This was not distributed evenly over all depths, with with depth and was generally low. In the mixed layer,
+both abundance and biomass concentrated in the the ratio was 2.1, while the ratio was marginally higher
+surface layers (Fig. 3). In the mixed layer, median in the mid depths (2.6) and considerably lower in the
+abundance and biomass were 452 ciliates l–1and 0.82 deep layers (0.6).
+µg C l–1, in the mid depths 147 ciliates l–1and 0.40 µg Total ciliate abundance was also strongly positively
+C l–1, and in the deep layer 33 ciliates l–1 and 0.06 µg correlated with bacterial abundance and negatively
+C l–1 (Table 2). Maximum abundance was 2140 cili- correlated with depth and salinity (Table 3). Chl aand
+ates l–1 while maximum biomass was 4.55 µg C l–1. In bacterial abundance were themselves positively corre-
+the mid depths, ciliate biomass was roughly equal to lated, and, in turn, negatively correlated with depth
+that of dinoflagellates (not differentiating between and salinity (|r| > 0.65, Table 3). Species richness was
+s
+autotrophic, mixotophic and heterotrophic species). In related to bacterial abundance, depth and salinity in a
+the mixed layer, however, dinoflagellate biomass was manner similar to abundance, although the relation-
+usually twice that of ciliate biomass, and in the deep ships tended to be weaker than for abundance (r =
+s
+layers, 3 times greater than ciliate biomass. The rela- 0.53 to r = –0.44, p < 0.013). Both ciliate abundance
+s
+tive biomass proportions were highly variable, with and species richness were largely unrelated to picoau-
+some samples in which ciliates made up almost 100% totroph abundance (r < 0.2, p > 0.04, Table 3).
+s
+of the combined ciliate–dinoflagellate biomass, even NO – + NO – and PO 3– were negatively correlated
+2 3 4
+in the deep layers. with chl a (r = –0.53 and r = –0.51, respectively, p <
+s s
+
+Wickham et al.: Antarctic ciliate community in late summer 219
+Temperature (°C) and chlorophyll a (µg l–1)
+–2 –1 0 1 2 –2 –1 0 1 2 –2 –1 0 1 2
+0 0 0
+100 100 100
+200 200 200 )m(
+htpeD
+P1 P2 P3
+300 300 300
+400 400 400
+500 500 500
+32 33 34 35 32 33 34 35 32 33 34 35
+–2 –1 0 1 2 3 4 5 –2 –1 0 1 2 –2 –1 0 1 2
+0 0 0
+100 100 100
+200 200 200 )m(
+htpeD
+P4 P5 P6
+300 300 300
+Salinity
+400 400 400
+Temperature
+Chlorophyll a
+500 500 500
+32 33 34 35 32 33 34 35 32 33 34 35
+–2 –1 0 1 2 –2 –1 0 1 2 –2 –1 0 1 2
+0 0 0
+100 100 100
+200 200 200 )m(
+htpeD
+P7 P8 P9
+300 300 300
+400 400 400
+500 500 500
+32 33 34 35 32 33 34 35 32 33 34 35
+Salinity
+Fig. 2. Temperature, chlorophyll a(chl a) and salinityprofile for the 9 stations (P1 to P9) of the study. Measurements were taken
+with a SeaBird SBE 911+ CTD rosette and a Dr. Haardt fluorometer. Values of chl awere corrected using values derived from
+samples analysed with acetone extraction (see ‘Materials and methods’). Note that the maximum value on the temperature/
+chlorophyll scale for profile P4 is 5, while on all other panels it is 2. Maximum depth in profile P5 was 276 m, resulting in a
+truncated profile
+
+220 Aquat Microb Ecol 62: 215–230, 2011
+Species richness
+0 5 10 15 20 25 0 5 10 15 20 25 0 5 10 15 20 25
+0 0 0
+100 100 100
+)m(
+200 200 200
+P1 P2 P3 htpeD
+300 300 300
+400 400 400
+500 500 500
+0 0 2 0.4 0.6 0.8 1 0 1 2 3 4 5 0 1 2 3 4 5
+0 5 10 15 20 25 0 5 10 15 20 25 0 5 10 15 20 25
+0 0 0
+100 100 100
+)m(
+200 200 200
+P4 P5 P6 htpeD
+300 300 300
+Abundance
+400 400 400
+Biomass
+Richness
+500 500 500
+0 1 2 3 4 5 0 0.2 0.4 0.6 0.8 1 0 1 2 3 4 5
+0 5 10 15 20 25 0 5 10 15 20 25 0 5 10 15 20 25
+0 0 0
+100 100 100
+)m(
+200 200 200
+P7 P8 P9
+htpeD
+300 300 300
+400 400 400
+500 500 500
+0 0.2 0.4 0.6 0.8 1 0 1 2 3 4 5 0 0.2 0.4 0.6 0.8 1
+Abundance (cells ml–1) and biomass (µg C l–1)
+Fig. 3. Ciliate species richness, abundance and biomass for the 9 stations (P1 to P9) of the study. Abundance is given in cells ml–1
+while biomass is in µg C l–1in order to present abundance and biomass on the same scale. Note that the maximal value for abun-
+dance and biomass is 1 for profiles P1, P5, P7 and P9, while it is 5 in the remaining panels. Maximum depth in profile P5 was
+276 m, resulting in a truncated profile
+
+Wickham et al.: Antarctic ciliate community in late summer 221
+Table 2. Median ciliate abundance, biomass and species rich- was stronger for abundance than for richness (Table 3).
+ness for the mixed layer (where density was within 0.125 kg While NH +was not related to chl a(r = 0.19, p = 0.15),
+m–3of the surface density), the mid layer (from the bottom of 4 s
+there was still a positive correlation with ciliate abun-
+the mixed layer to 180 m depth) and the deep layer (all
+dance, and, in particular, species richness. The N:P
+samples from >180 m depth). Values in brackets are the
+abundance, biomass and species richness ranges ratio, however, was not related to either abundance or
+richness (Table 3).
+Layer Abundance Biomass Richness
+(cells l–1) (µg C l–1)
+Ciliate taxonomic patterns
+Mixed 452.6 (18.9–2139.0) 0.82 (0.06–4.35) 15 (6–22)
+Mid 147.4 (14.7–1126.3) 0.40 (0.06–4.55) 11 (3–25)
+A total of 70 ciliate and 15 dinoflagellate species or
+Deep 32.6 (4.2–208.4) 0.06 (0.01–0.72) 8 (4–9)
+morphotypes (which could be distinguished, but not
+identified to species) could be identified in the sam-
+0.0001) and perhaps, as a result, there were also nega- ples. Ciliate species richness ranged from 25 to 3 spe-
+tive correlations with these nutrients and ciliate abun- cies at any depth in the profiles. Species richness was
+dance and species richness, although the relationship similar in the mixed and mid layers, despite ciliate
+0.8
+Naked oligotrich
+Tintinnid Oligotr1
+Mixotroph
+Loh_ovif
+Raptorial
+Strob3
+Other Strob_ep
+Lee_sol
+Rhabd_sp
+NH
+Cym_subc 2
+NO 2 + NO 3 Pelago_s
+Strom_su Asken Cym_ovat Cym_cris
+Cod_bied Strom_an
+Strob1 Cod_gaus
+O Uli rg oo nt _r3 sp CS ymtro _m co2 n S ut nro kb 3S 2trom6 Strom_ Ti on nt_gra
+Density Por_nota Paraf_ve Strom_em Didinium
+Salp_sp Strom_no Cym_inco
+Strom8 Parac_ac Strom3 Hapt1 Strom5 Dileptus Salinity un Ak m2 p_la Strob_mu Gym_vivi Chl a 2 sixa
+Pseu_cor
+Hel_sub Tint1 Front Dino_SR Pelago_n ACP
+Cod_cyl Lee_ov
+Strom1 Oligotr2 Paraf_di StroL ma 4a_nav Hapt2 Dino_Abun
+Depth Cym_meri Strom_da
+unk1
+Meso_pul Uron_ac Gym_symp
+Strom_cr Lag_sp Spiro_rh
+Meso_rub Tont_ant
+Mono_bal Strom_co
+Bacteria
+Strom7
+Temp
+Picoauto
+Strom_wu
+–0.6
+–0.8 1.0
+PCA axis 1
+Fig. 4. Results of the principal components analysis (PCA) of the ciliate data, overlaid with the correlations between the PCA
+scores and the environmental factors potentially influencing the ciliate distributions. The x-axis is the first PCA axis, the y-axis is
+the second PCA axis. Symbols: ciliate species, broken into taxonomic and functional groups. Abbreviations are expanded in
+Table 4. Arrows: Pearson correlation coefficients between the PCA axes and the environmental factors, where the length and
+direction of the arrow gives the correlation with the 2 axes (e.g. chl ahad a correlation of 0.77 with PCA axis 1, and 0.03 with
+PCAaxis 2). The angle between the environmental factors gives the degree of correlation among the factors, with 0°indicating
+r= 1.0, 90°r = 0, and 180°r = –1. Dino_SR = dinoflagellate species richness; Dino_Abun = dinoflagellate abundance; Picoauto =
+picoautotroph abundance; Temp = temperature
+
+222 Aquat Microb Ecol 62: 215–230, 2011
+Table 3. Spearman (non-parametric) correlations of ciliate dance, and 70% of the total biomass, a proportion that
+total biomass and species richness with the environmental was roughly constant over depths. Tintinnids were on
+parameters measured. For each parameter, the Spearman average 16% of total abundance and 9% of total bio-
+correlation coefficient (Coeff.) and the probability (p) that the
+mass, while raptorial litostomes (primarily Didinium
+correlation is not different from 0 are shown. Because ciliate
+abundance and biomass were closely correlated (r = 0.95), gargantua, Gymnozoum viviparum and an unidenti-
+S
+only the biomass values are given fied haptorid; Table 4) were 8% and 5% of abundance
+and biomass, respectively. Mixotrophic ciliates (pri-
+Parameter Biomass Richness marily Mesodinium rubrum and Strombidium
+Coeff. p Coeff. p antarcticum) made up on average 15% of total abun-
+dance, with the percentage being higher in the mixed
+Chlorophyll a 0.74 <0.0001 0.53 0.0001
+layer than in the mid or deep layers (20, 13 and 10% of
+Temperature –0.35 0.0002 –0.27 0.044
+total abundance, respectively). There was a group of
+Salinity –0.69 <0.0001 –0.44 0.0007
+Depth –0.67 <0.0001 –0.43 0.001 12 species that appeared in at least 20 of the 55 QPS
+PO 43– –0.40 0.0001 –0.38 0.009 samples (Table 4). Most common among these were
+NO 2–+ NO 3– –0.43 <0.0001 –0.13 0.36 the naked oligotrichs Lohmanniella oviformis, Lee-
+NH+ 0.43 <0.0001 0.52 0.0002
+4 gaardiella sol, Strombidium antarcticum, Lee-
+N:P –0.05 0.65 0.26 0.074
+Bacteria 0.77 <0.0001 0.34 0.012 gaardiella ovalis and the tintinnid Amphorides laack-
+Picoautotrophs 0.23 0.018 0.06 0.69 manni. Conversely, there were 14 species, including
+what appear to be new haptorid and Strombidiumspe-
+cies, which appeared in only a single sample (Table 4).
+abundance and biomass in the mid depths being con- PCA was used to examine relationships between
+siderably lower than in the mixed layer (Table 2, individual species and the environmental parameters.
+Fig. 3). A median of 15 species (range: 6 to 22) were Dinoflagellate total abundance and species richness
+found in the mixed layer, with 11 species in the mid were included as environmental parameters, as
+depths (range: 3 to 25, summed over all depths in the dinoflagellates can be simultaneously prey for, com-
+layer). The mixed layer had approximately twice the petitors with, and predators on, ciliates, and they were
+biomass and 3 times the abundance of the middle therefore likely to influence ciliate distributions
+depths (Table 2), but more samples were usually taken (Hansen 1991, Levinsen & Nielsen 2002, Johnson et al.
+in the mid depths, thus increasing the probability of 2003). The analysis showed that, while ciliate species
+finding rare species. While samples beneath 180 m had could be clearly separated along environmental axes,
+the lowest abundances (median: 33 ciliates l–1, range: 4 the separation was much more of a continuum than
+to 208 ciliates l–1), species richness was relatively high, distinct groups with clear discontinuities between
+with a median of 8 species found (Table 2). Unlike the them (Fig. 4). The first PCA axis was a depth–produc-
+relatively high species richness in the mid layers, the tivity axis, with a strong positive correlation to chl a(r
+species richness in the deep samples was unlikely to = 0.77) and negative correlations to depth, salinity
+be due to a sampling effect, as there were only 1 to 3 (with a tendency to increase with depth in Antarctic
+samples from these depths, compared to 2 to 8 samples waters in the summer and early autumn, Fig. 2), and
+in the mid layers and 1 to 9 samples in the mixed layer. water density(r = –0.52, –0.53 and –0.60, respectively).
+Despite the low number of samples from deeper wa- The species with the most negative value on this axis,
+ters, it would appear that a higher sampling intensity Propostoma notatum, was found at a mean depth of
+would have revealed only a limited number of addi- 149 m and with a mean abundance-weighted chloro-
+tional species. With 55 samples where the taxonomic phyll concentration of 0.22 µg l–1, while Pelagostrobi-
+resolution was good, we could construct species accu- lidium neptuni, at the positive end of the axis, was
+mulation curves to estimate the total number of ciliate found at a mean depth of 35 m with a mean chlorophyll
+species in our study area. The estimated total number concentration of 2.67 µg l–1 (Fig. 4, Table 2). Dinofla-
+of species varied with the method used (Chao, Jack- gellate abundance and, in particular, species richness
+knife or Bootstrap) but the estimates ranged between were closely correlated with chl a, and explained little
+77 (Bootstrap) and 90 (Jackknife) species, with standard variance in the ciliate distribution not already ex-
+errors in the range of 8.6 to 2.7 species. This compares plained by chl a(Fig. 4).
+favourably to the 70 species actually found. The second PCA axis was mostly a nutrient axis, with
+In all samples, the dominant ciliate group were the positive correlations to NH +and NO –+NO –(r = 0.30
+4 2 3
+aloricate choreotrichs and oligotrichs (hereafter and r = 0.39, respectively) and negative correlations to
+referred to collectively as ‘naked oligotrichs’), in terms picoautotroph abundance as well as temperature (r =
+of abundance, biomass and species richness. Naked –0.39 and r = –0.34, Fig. 4). There was no indication
+oligotrichs made up on average 56% of the total abun- that mixotrophic ciliates grouped together along this
+
+Wickham et al.: Antarctic ciliate community in late summer 223
+Table 4. Summary of ciliate species ranked by their frequency of occurrence. N is the number of samples in which the species oc-
+curred, mean depth and mean chl aare the means of the depths and chlorophyll aconcentrations at which the species were
+found, weighted by the abundance at each depth or chlorophyll concentration. Abbreviated names are those used in Fig. 4.
+‘Group’ = functional or taxonomic group: Oligo = aloricate, heterotrophic choreotrichs and oligotrichs; Mixo = mixotrophs; Tint =
+tintinnids; Rapt = heterotrophic raptorial litostomes; Other = species not falling into the previous 4 groups
+Taxon Abbrev. Group N Abundance (cells l–1) Mean Mean chl a
+Median Maximum depth (m) (µg l–1)
+Lohmanniella oviformis Loh_ovif Oligo 44 18 158 81 1.00
+Leegaardiella sol Lee_sol Oligo 40 9 123 68 0.95
+Strombidium antarcticum Strom_an Mixo 39 11 118 50 1.06
+Leegaardiella ovalis Lee_oval Oligo 35 11 63 73 0.98
+Amphorides laackmanni Amp_la Tint 33 21 1396 22 2.30
+Oligotrich1 Oligotr1 Oligo 29 7 67 59 1.66
+Unidentified1 unk1 Other 27 11 46 92 0.36
+Strobilidiumsp2 Strob2 Oligo 23 8 112 77 1.97
+Gymnozoum viviparum Gym_vivi Rapt 22 8 59 34 2.04
+Porpostoma notatum Por_nota Other 21 4 14 149 0.22
+Unidentified3 unk3 Other 21 7 35 112 0.31
+Pelagostrobilidium neptuni Pelago_n Oligo 20 13 101 33 2.67
+Oligotrich2 Oligotr2 Oligo 18 4 18 95 0.63
+Strobilidium multinucleatum Strob_mu Oligo 18 5 38 87 0.55
+Strombidium conicum Strom_co Mixo 18 7 456 12 2.52
+Haptorid sp1 Hapt1 Rapt 15 4 14 89 0.33
+Mesodinium rubrum Meso_rub Mixo 14 16 38 35 0.84
+Oligotrich3 Oligotr3 Oligo 14 7 18 116 0.28
+Spirostrombidium rhyticollare Spiro_rh Oligo 13 7 263 12 4.02
+Strombidium wulffi Strom_wu Oligo 13 17 535 5 0.65
+Tontonia antarctica Tont_ant mixo 13 13 49 16 2.37
+Didinium gargantua Didinium Rapt 12 4 14 21 1.19
+Tontonia gracillima Tont_gra Mixo 12 6 63 46 2.17
+Uronemasp. Uron_sp Other 12 4 11 101 0.31
+Strombidiumsp6 Strom6 Oligo 11 7 13 88 0.68
+Laackmanniella naviculaefera Laa_navi Tint 10 12 202 14 3.81
+Strobilidiumsp3 Strob3 Oligo 9 8 17 69 0.47
+Strombidiumsp5 Strom5 Oligo 9 7 48 74 0.50
+Codonellopsis gaussi Cod_gaus Tint 8 19 91 23 2.09
+Strombidium dalum Strom_da Oligo 8 4 21 26 2.57
+Strombidiumsp8 Strom8 Oligo 8 8 29 13 2.14
+Gymnozoum sympagicum Gym_symp Rapt 7 8 17 32 0.52
+Lagynophryasp. Lag_sp Rapt 7 4 7 126 0.20
+Salpingellasp. Salp_sp Tint 5 7 14 83 0.38
+Strobilidium epacrum Strob_ep Oligo 5 18 42 66 0.71
+Codonellopsis biedermanni Cod_bied Tint 4 14 20 58 1.92
+Mesodinium pulex Meso_pul Rapt 4 4 4 81 0.38
+Pseudotontonia cornuta Pseu_cor Mixo 4 4 8 59 0.55
+Strombidium sulcatum Strom_su Oligo 4 4 17 74 0.51
+Strombidiumsp3 Strom3 Oligo 4 6 11 124 0.25
+Askenasiasp. Asken Rapt 3 7 7 64 0.29
+Codonellopsis gaussif. cylindroconica Cod_cyl Tint 3 8 17 6 0.41
+Dileptussp. Dileptus Rapt 3 7 7 32 0.46
+Parafavellac.f. ventricosa Paraf_ve Tint 3 4 4 64 0.24
+Rhabdonellopsissp. Rhabd_sp Tint 3 4 8 60 0.64
+Strobilidiumsp1 Strob1 Oligo 3 4 11 52 0.47
+Strombidiumsp4 Strom4 Oligo 3 4 13 24 0.62
+Strombidiumsp7 Strom7 Oligo 3 20 98 15 2.93
+Cymatocylis convallaria Cym_conv Tint 2 8 8 60 3.28
+Frontonia frigida Front Mixo 2 4 4 100 0.41
+Monodinium balbianii Mono_bal Rapt 2 6 8 88 0.25
+Paractedoctema acruosa Parac_ac Other 2 5 7 140 0.22
+Strombidium crassulum Strom_cr Oligo 2 4 4 10 0.71
+Strombidium inclinatum Strom_in Oligo 2 14 25 35 5.56
+Strombidiumsp2 Strom2 Oligo 2 7 11 157 0.23
+Uronema acutum Uron_ac Mixo 2 7 13 11 0.58
+Cymatocylis cristallina Cym_cris Tint 1 2 2 20 0.37
+
+224 Aquat Microb Ecol 62: 215–230, 2011
+Table 4 (continued)
+Taxon Abbrev. Group N Abundance (cells l–1) Mean Mean chl a
+Median Maximum depth (m) (µg l–1)
+Cymatocylis incondita Cym_inco Tint 1 8 8 20 6.31
+Cymatocylis meridiana Cym_meri Tint 1 4 4 60 0.58
+Cymatocylis ovata Cym_ovat Tint 1 2 2 20 0.37
+Cymatocylis subconica Cym_subc Tint 1 4 4 0 0.18
+Haptorid sp2 Hapt2 Rapt 1 4 4 0 0.43
+Helicostomella subulata Hel_subu Tint 1 4 4 120 0.25
+Parafavella dilatata Paraf_di Tint 1 2 2 20 0.37
+Pelagohalteriasp. Pelago_s Oligo 1 4 4 40 1.10
+Strombidium emergens Strom_em Oligo 1 4 4 40 0.64
+Strombidiumnov. spec. Strom_no Oligo 1 4 4 40 0.64
+Strombidiumsp1 Strom1 Oligo 1 7 7 300 0.19
+Tintinnid 1 Tint1 Tint 1 20 20 0 4.43
+Unidentified2 unk2 Other 1 4 4 180 0.11
+axis, and in fact there was the identical trend of nega- cies were 22, 36, 34 and 48% when the geometric dis-
+tive correlations between mixotroph abundance and tribution was ranked from best to worst fit; the median
+NO –+NO –or PO 3–as for total ciliate abundance (r = absolute abundances of the most abundant species
+2 3 4 s
+–0.40 and –0.52 respectively; p < 0.01). A third axis (not were 19, 72, 114 and 267 ciliates l–1 (Kruskal–Wallis
+shown) was strongly correlated with the total depth of test: p ≤ 0.0004). The opposite trend, though weaker,
+the station where the profile was taken (r = –0.57). Col- was observed based on the ranking of the zsm distrib-
+lectively, the first 3 axes of the PCA explained 42% of ution. When the zsm distribution gave the best fit, the
+the species data (22, 12 and 8%, respectively) and 66% dominant species made up 53% of the total abun-
+of the species–environmental factor correlations. dance, or 46 ciliates l–1; when it gave the worst fit, the
+One small group that could be distinguished in the most abundant species was 28% of the total, or 23 cili-
+PCA was made up of the 3 species at the top end of the ates l–1, a significant difference (relative abundance: p
+second PCA axis: Oligotrich1, Lohmanniella oviformis, = 0.024; absolute abundance: p = 0.004). No clear trend
+Strobilidium sp3 (Fig. 4). All 3 species were common, could be seen in species richness based on the ranking
+appearing in at least 23 of 55 QPS samples. The 3 spe- of the other distributions.
+cies were mid-water species, found at mean depths Using both settled samples and QPS to examine cili-
+between 60 and 81 m (Table 2), with low picoautotroph ates allowed a comparison of the two methodologies.
+abundance (775 to 836 cells ml–1), and at similar Total ciliate numbers were consistently higher in the
+NO –+NO – and NH + concentrations (17 to 22 µmol settled samples, on average 72 ciliates l–1, or 11%, a
+2 3 4
+NO –+NO –l–1; 1.3 to 1.7 µmol NH +l–1). significant difference (paired t-test: p = 0.006).
+2 3 4
+There were 52 samples in which species richness Regressing ciliate abundance as measured by the 2
+could be accurately estimated with QPS preparations methods produced the equation:
+and where species richness was ≥5. These were used
+Abundance = 0.81 ×Abundance – 9.73
+to construct SADs, and then to compare the measured QPS Settled
+(R2= 0.82, p < 0.0001)
+data to theoretical distributions. Of the theoretical dis-
+tributions (geometric, log-normal, log-series and zsm in which Abundance and Abundance are the
+QPS Settled
+distributions), the geometric distribution gave the best abundances measured in the QPS and settled samples,
+fit to the species abundance curves for 30 samples, as respectively. The slope of the line was significantly <1
+measured by the AIC statistic. An example of this is the (p < 0.001), indicating that the difference between the
+40 m sample in profile P4 (Fig.5A). The log-series dis- abundance estimates was not constant, but became
+tribution gave the best fit on 9 occasions (e.g. Fig. 5B), less at higher abundances.
+the log-normal for 7 samples (Fig.5C) and the zsm dis- Surprisingly, there was no significant difference in
+tribution for 6 samples (Fig. 5D). There was a general the estimated species richness (paired t-test: p = 0.071)
+trend that the geometric distribution gave the best fit to in the individual samples, although the total species
+the relative abundances when the most abundant spe- richness was considerably higher in QPS samples (70
+cies was less dominant, i.e. when both the relative and species or morphotypes in the QPS samples, 25 in the
+absolute abundance of the most common species was settled samples). Regressing species richness mea-
+low. The relative abundances of the most common spe- sured by the 2 methods produced a line with a slope
+
+Wickham et al.: Antarctic ciliate community in late summer 225
+0.5 A) P4, 40 m, geometric 0.5 B) P8, 60 m, log-series
+Leegaardiella sol s Mesodinium rubrum
+s
+s
+sss
+0.1 0.1
+ss s
+s ecnadnuba
+s
+sss
+sss
+sss
+ss ss
+ssssss
+evitaleR
+ssssss
+0.01 0.01
+ssssss
+0.001 0.001
+0 5 10 15 20 25 0 5 10 15 20 25
+0.5 s C) P2, 180 m, log-normal 0.5 s D) P6, surface, zsm
+Lohmanniella oviformis Strombidium wulffi
+s
+s Relative abundance
+0.1 Geometric 0.1
+s Log-normal
+s s Log-series ecnadnuba
+ss Zsm s
+sss s s
+s
+sss
+s
+s
+evitaleR
+0.01 sssss 0.01 ssss
+sss
+sssssss
+0.001 0.001
+0 5 10 15 20 25 0 5 10 15 20 25
+Species rank Species rank
+Fig. 5. Examples of the actual and estimated species abundance distributions, with the relative abundance of each species found
+in the sample plotted against its ranked abundance. In each panel, the station and depth of the sample for the distribution
+is given, along with the theoretical distribution giving the best fit to the data as well as dominant species in the sample.
+Zsm: zero-sum multinominal distribution
+and intercept not significantly different from 1 and 0, Strombidium conicum could be identified to species
+respectively (p > 0.05), indicating that the lack of dif- level, resulting in similar-appearing morphotypes from
+ference in species richness estimates was consistent different samples being lumped together.
+across the range of species richness observed in our
+study. The higher total species richness in the QPS
+samples was due to the higher taxonomic resolution DISCUSSION
+this procedure allows: of the 70 morphotypes found in
+the QPS samples, 59 could be identified at least to The ciliate community in the Bellingshausen and
+genus, and 42 to species. There were also 2 morpho- Amundsen Seas was a diverse one, given the generally
+types (a Strombidium species and a haptorid species) extreme conditions—and given that the samples were
+which appeared to be new. In contrast, in the settled taken at a time of rapidly declining productivity. Both
+samples, only a few obvious morphotypes such as temperature and chlorophyll a were low (mean tem-
+
+226 Aquat Microb Ecol 62: 215–230, 2011
+perature and chl a in the mixed layer: –0.5°C and 2006). However, common marine species have rela-
+0.7µg chl al–1, respectively), with maximum values in tively little genetic diversity compared to geographi-
+the mixed layer reaching only 2.0°C and 4.5 µg chl a cally (e.g. rock pool or freshwater) isolated species
+l–1. Despite the extreme conditions, the ratio of ciliate (Katz et al. 2005), implying that the Antarctic Circum-
+biomass to chlorophyll biomass (2.1 in the mixed layer, polar Current provides the isolation required to foster
+2.6 in the mid layers) was only moderately lower than high enough diversity within ciliate species to allow
+that previously found in more temperate environ- cold-water clones of cosmopolitan species.
+ments, where values mostly ranged from 2.8 to 5 (sum- It has been suggested that Southern Ocean micro-
+marised in Dolan & Marrase 1995). plankton communities exist in 1 of 2 phase states,
+As shown in many other studies, there was a domi- pelagic and sea-ice (Priddle et al. 1996), and we were
+nance of aloricate oligotrich ciliates, both in terms of clearly sampling only the pelagic community. While
+abundance and biomass (e.g. Garrison & Buck 1989, Petz (2005)lists 161 known species from the Southern
+Klaas 1997, Edwards et al. 1998, Santoferrara & Alder Ocean, many of these are associated with sea-ice. Petz
+2009). Given the declining light levels during the et al. (1995) state that 55 of the 68 species they found
+Antarctic autumn, it was unexpected that mixotrophic were unique to sea-ice, and groups such as hypotrichs
+species would make up 20% of total abundance in the and stichotrichs for example, while typical of sea-ice
+mixed layer, similar to that found for the Mediter- communities, were absent from our samples. Only 2
+ranean, an area with considerably higher light intensi- species that Petz et al. (1995)list as common in sea-ice
+ties (Pitta & Giannakorou 2000, Pitta et al. 2001). How- (Strombidium antarcticum and Gymnozoum vivipa-
+ever, mixotrophs have been found even during the rum) were also common in our pelagic samples
+Antarctic winter, contributing up to 10% of large cili- (Table4). With our samples being taken so late in the
+ate abundance (Gowing & Garrison 1992). Mixotrophs, austral summer, it is not surprising that species typical
+as a group, had the same positive correlation with chl a of sea-ice communities were largely absent. Even in
+(r = 0.72) and negative correlation with NO –+NO – profile P5, closest to the ice edge (Fig. 1), the dominant
+s 2 3
+and PO 3– as did total ciliate abundance. Individual species were Tontonia antarctica and Lohmanniella
+4
+mixotroph species were largely within the main cluster oviformis, both pelagic species. Thus the 70 species
+of species in the PCA (Fig. 4), although, consistent with found in the current study, and, in particular, the pro-
+their positive correlation with chl aand higher propor- jected 77 to 90 species expected to be found, represent
+tion of total abundance in shallower depths, shifted to an accurate picture of the true morphological diversity
+the right of the first (depth and chl a)PCA axis. It was of the pelagic ciliate fauna of the Southern Ocean.
+therefore difficult to discern a trend which distin- Comparing the diversity found in our samples to previ-
+guished mixotrophic ciliate distributions from those of ous studies is difficult in that most previous work with
+heterotrophic ciliates. good taxonomic resolution from the Southern Ocean has
+The 70 species found in the 55 samples where QPS concentrated either on sea-ice and ice-edge communi-
+was used appear to be close to the maximum that could ties or on tintinnids (e.g. Buck & Garrison 1983, Garrison
+be expected to be found: the rarefaction curves sug- 1991, Wasik 1998). An annual cycle of sampling at
+gested that the true diversity was in the range of 77 to Signey Island yielded 24 ciliate taxa, using Lugol’s-fixed,
+90 species. Moreover, the slope of the richness–abun- settled samples, similar to the 25 morphotypes that could
+dance curve (0.39) is almost exactly that found by be identified in our Bouin’s-fixed settled samples
+Hillebrand et al. (2001) as a global pattern for ciliate (Leakey et al. 1994). A total of 22 ciliate species were
+species richness (0.40), suggesting that the ciliate com- found in 36 samples from coastal stations in the Ross
+munities in the late summer Bellingshausen and Sea,but samples were concentrated on a 20µm mesh
+Amundsen Seas are not species-poor, compared to and fixed in buffered formaldehyde, which is likely to
+more temperate habitats. However, the taxonomic data result in considerable cell loss (Fonda Umani et al. 1998).
+collected in the present study indicate that one cannot Another coastal site yielded only 18 species even though
+speak of an ‘antarctic’ ciliate community, at least in the protargol staining was used (Grey et al. 1997). The
+pelagia. While some of the species found (e.g. Fronto- richness–chlorophyll and richness–abundance regres-
+nia frigida, Tontonia antarctica) are specific to the sions presented in ‘Results: Ciliate abundance and
+Southern Ocean, many others are cosmopolitan (e.g. biomass patterns’would suggest that, at the maximum
+Mesodinium rubrum, Leegaardiella sol, Strombidium chlorophyll concentrations and ciliate abundances found
+conicum; Montagnes et al. 1988, Petz 2005, Claessens by Grey (1997), between 23 and 29 species should have
+et al. 2008). That there are Antarctic examples of com- been found, which, in turn, suggests that the coastal
+mon ciliate species should not be surprising, as geo- stations visited by Grey et al. (1997) were relatively
+graphically distant clones can have different tempera- species-poor compared to the Bellingshausen and
+ture optima (Wickham & Lynn 1990, Gächter & Weisse Amundsen Seas’ stations sampled in the presentstudy.
+
+Wickham et al.: Antarctic ciliate community in late summer 227
+Comparable data for the same geographic area, or relationships between tintinnid abundance and chl a
+even from different areas of the Southern Ocean at have been found in the equatorial Pacific and the
+approximately the same time of year, particularly Mediterranean, but unlike the current study, no rela-
+from open water sites, are rare in comparison to data tionship between tintinnid species richness and chl a
+from the austral spring and summer. The ciliate abun- (Dolan et al. 2002,2007). Thus, while productivity was
+dance found in our study was roughly similar to that a clear driver of ciliate abundance and biomass in our
+found previously in the Bellingshausen Sea, although study, the positive productivity–richness relationship
+samples in the previous study were taken at the begin- we found is far from being a general phenomenon.
+ning of the austral summer (November–December, This could be partly due to the large effort necessary to
+Edwards et al. 1998). In that study, there was a definite obtain accurate estimates of aloricate ciliate species
+trend of increasing biomass in a transect from ice- richness, but the work with tintinnids cited above had
+covered to open water, in an area east of our station P3. the requisite taxonomic resolution to find a productiv-
+A study that included the southern reaches of the ity–richness relationship if one were present. What dri-
+Drake passage in April found ciliate abundance and ves the species richness of marine ciliate communities
+biomass (575 ciliates l–1and 1.08 µg C l–1, respectively) remains to be determined.
+that were very similar to those found in the mixed layer A factor that was not measured in our study, preda-
+in our study (Table 2). Interestingly, that study found tion, also has the potential to structure ciliate commu-
+much weaker correlations between ciliate abundance nities. Many copepods are selective predators on cili-
+or biomass with temperature or chlorophyll, although ates, choosing ciliates over phytoplankton prey and
+data from both north and south of the polar front were selecting among ciliate species (Jonsson & Tiselius
+grouped, which may have masked 2 separate trends 1990, Atkinson et al. 2002). Both the adult and larval
+(Santoferrara & Alder 2009). Ciliate abundance and forms of the Antarctic krill Euphausia superba have
+biomass in the Weddell Sea in March was similar to the ability to impose significant mortality on ciliates,
+those found in the current study, though with generally and while selection for ciliates over other prey has
+lower chlorophyll values (Garrison & Buck 1989). In been shown, there is as yet little evidence for krill
+summary, the ciliate abundance and biomass found in being able to structure the ciliate community through
+the current study are roughly comparable to previous selective predation (Atkinson & Snÿder 1997, Wick-
+work done at the same time of year, but chlorophyll ham & Berninger 2007).
+was a better predictor of ciliate abundance and bio- Dolan et al. (2007)examined the species-abundance
+mass in our study. patterns for tintinnids in the equatorial Pacific, and
+The PCA indicated that the composition of the ciliate found that the log-series distribution most often gave
+community in the Bellingshausen and Amundsen Seas the best fit to their data. In considerable contrast to
+was driven by relatively few ecological factors. The these results, the geometric distribution gave the best
+first PCA axis, strongly correlated with chl a, explained fit to the majority of the species-abundance distribu-
+22% of the species distribution, and chl a alone tions from the Bellingshausen and Amundsen Seas,
+could explain 48% of the variation in ciliate abun- with the log-series distribution providing the best fit
+dance. The slopes of the ln(abundance):ln(chl a) and to only 9 of the 52 distributions. This is relevant in that
+ln(biomass):ln(chl a) regressions from our study were the log-series distribution, and more often, the zsm
+considerably steeper than those found for an oligo- distribution (which provided the best fit to 6 of our
+trophic region of the Mediterranean (Dolan & Marrase distributions) is cited as evidence of the neutral theory
+1995), indicating a greater dependence on productivity biodiversity providing the best explanation of species
+in our system. The comparable slopes were approxi- distributions (Hubbell 2001, Alonso & McKane 2004,
+mately 0.7 vs. 1.18 for ln(abundance):ln(chl a) and 0.8 Dolan et al. 2007). According to the neutral theory,
+vs. 1.19 for ln(biomass):ln(chla) (data redigitised from species assemblages are a collection of competitively
+Fig. 4 in Dolan & Marrase 1995). Thus, a productivity similar species, assembled through random processes
+gradient, both between and within sampling stations, of immigration from a larger metacommunity, local
+was the major driver of most aspects of the ciliate com- extinction and speciation (Hubbell 2001). In contrast,
+munity (species composition, species richness, abun- the geometric distribution is often thought to be a
+dance and biomass). While positive productivity– result of niche partitioning, with each species taking
+abundance or biomass relationships have been found the same percentage of available resources. If the
+within planktonic ciliate communities (Dolan & Mar- competitive dominant species takes 20% of the avail-
+rase 1995, Pitta et al. 2001, Zingel et al. 2002), this is able resources, the second best takes 20% of the
+not always the case, and the productivity–species rich- remaining 80% and so on (Magurran 1988). This is
+ness relationship is less clear (Dolan et al. 1999, 2002, expected to occur when relatively few environmental
+Claessens et al. 2010). For instance, strong positive factors structure a community, although it is fre-
+
+228 Aquat Microb Ecol 62: 215–230, 2011
+quently acknowledged that multiple hypotheses can smaller sample volumes being used for QPS. When
+generate the same theoretical distribution (Magurran abundance and within-sample species richness (alpha
+1988, McGill et al. 2007). However, the hypothesis of diversity) is all that is required, then the minimum half
+a single environmental driver, as suggested by the day required to prepare 10 to 12 QPS samples is
+geometric distribution, is consistent with the results of unnecessary. However, QPS has a clear advantage
+the PCA, which showed that a depth–productivity when evaluating regional (gamma) diversity. Marine
+axis could explain 22% of total variance in the species plankton samples are often dominated by small olig-
+distribution. otrichs, scuticociliates and prostomes (e.g. Claessens et
+A pattern which emerged from the SADs is that al. 2008) which are difficult to differentiate between
+when the geometric distribution gave the best fit to the similar morphotypes within samples, a problem that is
+data, there was no clear competitive dominant, with a compounded when comparing between samples. Sim-
+fairly even distribution in the species-abundance pat- ilarly, distinguishing between a new species and a sim-
+tern. However, there was a positive correlation to how ilar, already described species requires a level of detail
+well the geometric distribution fits the data, and the not available in settled samples. The unknown hap-
+proportion of raptorial litostomes and ‘other’ ciliates in torid species found in our samples, for example, is evi-
+the samples (ciliates that were neither heterotrophic dently a new species, with characters (equitoral kini-
+aloricate oligotrichs, tintinnids, litostomes, nor mixo- ties, longitudinal kinity, microtubules in oral area) not
+trophs; r > 0.42, p < 0.01). The opposite was true for visible in settled samples, that would most likely have
+s
+the zsm distribution. The zsm distribution gave a poor led to the species being misidentified as a known spe-
+fit when the relative abundance of the rarest species, cies. Moreover, Lugol’s-fixed samples tend to be more
+particularly those appearing only once in sample, was darkly stained than those fixed in Bouin’s solution,
+high, but also when the proportion of litostomes and making Lugol’s-fixed samples still harder to identify.
+‘other’ ciliates was low. (r < –0.41, p < 0.02; Fig. 5). The Conversely, using QPS alone is ill advised, as the
+s
+neutral theory has the assumption of ‘hard symmetry’, method was shown to underestimate abundance sub-
+the explicit assumption that all species and individuals stantially, with cells evidently being lost during the
+are equivalent (Alonso et al. 2008). This is consistent many staining and dehydration steps. That ciliates are
+with the zsm distribution giving a poor fit when species frequently a critical group in aquatic food webs is
+with different feeding modes (i.e. filter-feeding olig- clear. However, the drivers of ciliate diversity are not
+otrichs and raptorial litostomes) are present. The geo- always self-evident, and without the combination of
+metric distribution is based on an assumption of niche both good taxonomic and abundance/biomass data, it
+partitioning, which would be more likely when differ- will be impossible to determine how the role of ciliates
+ent feeding modes were common. However, the pro- is modulated by the species composition of the ciliate
+portion of different feeding modes can only explain so community and smooth running.
+much about which distribution gave a better fit: the
+proportion of mixotrophs in the samples was not corre- Acknowledgements. We thank Captain U. Pahl and the
+lated with any distribution giving a better fit. More- crew of RV ‘Polarstern’ for their help and support, and
+over, the dominance of a single species would appear cruise leader K. Gohl for the many stations and smooth run-
+ning of Cruise ANT XXIII/4. T. Walter and E. Neubacher
+to contradict the expectations of neutral theory, where
+gave invaluable help during the cruise, and C. Lorenz and
+species are competitively equivalent. An alternative
+A. Pitt helped immeasurably with the packing before the
+explanation is, of course, that only a limited amount cruise, and counting the samples afterwards. The manu-
+can be inferred by abundance distributions alone, and script was improved by the comments of U.-G. Berninger
+while observational patterns can generate hypotheses, and 2 anonymous reviewers. This work was funded by the
+Austrian FWF grant P18822 to S.A.W.
+experimental work is necessary to confirm or reject
+them.
+LITERATURE CITED
+The comparison of results obtained by QPS and set-
+tled samples suggests that Bouin’s-fixed, settled sam- Adler VA (1999) Tintinnoinea. In: Boltovskoy D (ed) South
+ples are adequate to describe within-sample species Atlantic zooplankton. Backhuys, Leiden, p 321–384
+AgathaS, Riedel-LorjeJC(1997) Morphology, infraciliature,
+richness, with no significant difference in the species
+and ecology of halteriids and strombidiids (Ciliophora,
+richness measured by the 2 methods. There is a trade-
+Oligotrichea) from coastal brackish water basins. Arch
+off in that, while QPS offers much higher resolution, Protistenkd148:445–459
+there are fewer cells to be identified, and therefore a Agatha S, Struder-Kypke MC, Beran A, Lynn DH (2005)
+lower likelihood of finding rare species. The reasons Pelagostrobilidium neptuni(Montagnes and Taylor, 1994)
+and Strombidium biarmatumnov. spec. (Ciliophora, Olig-
+for this are 2-fold: cells are lost during the processing
+otrichea): phylogenetic position inferred from morphol-
+steps, and the smaller surface area of the filter used in ogy, ontogenesis, and gene sequence data.Eur J Protistol
+QPS compared to that of a settling chamber results in 41:65–83
+
+Wickham et al.: Antarctic ciliate community in late summer 229
+Alonso D, McKane AJ (2004) Sampling Hubbell’s neutral ciliate Meseres corlissi. I. Temperature response. Aquat
+theory of biodiversity.Ecol Lett7:901–910 Microb Ecol45:291–300
+AlonsoD, OstlingA, EtienneRS(2008) The implicit assump- GarrisonDL(1991) Antarctic sea ice biota.Am Zool31:17–33
+tion of symmetry and the species abundance distribution. GarrisonDL, BuckK(1989) Protozooplankton in the Weddell
+Ecol Lett11:93–105 Sea, Antarctica: abundance and distribution in the ice-
+Atkinson A, Snÿder R (1997) Krill-copepod interactions at edge zone.Polar Biol9:341–351
+South Georgia, Antarctica, I. Omnivory by Euphausia GarrisonDL, BuckKR, GowingMM(1993) Winter plankton
+superba.Mar Ecol Prog Ser160:63–76 assemblage in the ice edge zone of the Weddell and Sco-
+AtkinsonA, MeyerB, StubingD, HagenW, SchmidtK, Bath- tia Seas: composition, biomass and spatial distributions.
+mannUV(2002) Feeding and energy budgets of Antarctic Deep-Sea Res I40:311–338
+krill Euphausia superbaat the onset of winter—II. Juve- Garrison DL, Gibson A, Coale SL, Gowing MM, Okolodkov
+niles and adults.Limnol Oceanogr47:953–966 YB, FritsenCH, JeffriesMO(2005) Sea-ice microbial com-
+BuckK, GarrisonDL(1983) Protists from the ice-edge region munities in the Ross Sea: autumn and summer biota.Mar
+of the Weddell Sea.Deep-Sea Res30:1261–1277 Ecol Prog Ser300:39–52
+BurkillPH, EdwardsES, SleighMA(1995) Microzooplankton Gowing MM, Garrison DL (1992) Abundance and feeding
+and their role in controlling phytoplankton growth in the ecology of larger protozooplankton in the ice edge zone of
+marginal ice-zone of the Bellingshausen Sea. Deep-Sea the Weddell and Scotia Seas during the austral winter.
+Res II42:1277–1290 Deep-Sea Res39:893–919
+Calbet A, Landry MR (2004) Phytoplankton growth, micro- Grey J, Laybourn-Parry J, Leakey RJG, McMinn A (1997)
+zooplankton grazing, and carbon cycling in marine sys- Temporal patterns of protozooplankton abundance and
+tems.Limnol Oceanogr49:51–57 their food in Ellis fjord, Princess Elizabeth Land, eastern
+ChristakiU, JacquetS, DolanJR, VaulotD, RassoulzadeganF Antarctica.Estuar Coast Shelf Sci45:17–25
+(1999) Growth and grazing on Prochlorococcusand Syne- Hansen PJ (1991) Dinophysis—a planktonic dinoflagellate
+chococcusby two marine ciliates.Limnol Oceanogr44:52–61 genus which can act both as a prey and a predator of a cil-
+ClaessensM, WickhamSA, PostAF, ReuterM(2008) Ciliate iate.Mar Ecol Prog Ser69:201–204
+community in the oligotrophic Gulf of Aqaba, Red Sea. HankinRKS(2009) Introducing untb, an R package for simu-
+Aquat Microb Ecol53:181–190 lating ecological drift under the unified neutral theory of
+ClaessensM, WickhamS, PostA, ReuterM(2010) A paradox biodiversity. J Stat Soft 22(12). Available at www.jstat-
+of the ciliates? High ciliate diversity in a resource-poor soft.org/v22/i12/
+environment.Mar Biol157:483–494 Hillebrand H, Watermann F, Karez R, Berninger UG (2001)
+ColwellRK, CoddingtonJA(1994) Estimating terrestrial bio- Differences in species richness patterns between unicellu-
+diversity through extrapolation. Phil Trans R Soc Lond B lar and multicellular organisms.Oecologia126:114–124
+345:101–118 Holmes RM, Aminot A, Kérouel R, Hooker BA, Peterson BJ
+Doherty M, Costas BA, McManus GB, Katz LA (2007) Cul- (1999) A simple and precise method for measuring ammo-
+ture-independent assessment of planktonic ciliate diver- nium in marine and freshwater ecosystems. Can J Fish
+sity in coastal northwest Atlantic waters. Aquat Microb Aquat Sci56:1801–1808
+Ecol48:141–154 HubbellSP(2001) The unified neutral theory of biodiversity and
+DolanJR, MarraseC(1995) Planktonic ciliate distribution rel- biogeography. Princeton University Press, Princeton, NJ
+ative to a deep chlorophyll maximum: Catalan Sea, NW JohnsonMD, RomeM, StoeckerDK(2003) Microzooplankton
+Mediterranean, June 1993.Deep-Sea Res I42:1965–1987 grazing on Prorocentrum minimum and Karlodinium
+DolanJR, VidussiF, ClaustreH(1999) Planktonic ciliates in micrumin Chesapeake Bay.Limnol Oceanogr48:238–248
+the Mediterranean Sea: longitudinal trends.Deep-Sea Res Jonsson PR, Tiselius P (1990) Feeding behavior, prey detec-
+I46:2025–2039 tion and capture efficiency of the copepod Acartia tonsa
+DolanJR, ClaustreH, CarlottiF, PlounevezS, MoutinT(2002) feeding on planktonic ciliates.Mar Ecol Prog Ser60:35–44
+Microzooplankton diversity: relationships of tintinnid cili- Katz LA, McManus GB, Snoeyenbos-West OLO, Griffin A,
+ates with resources, competitors and predators from the Pirog K, Costas B, Foissner W (2005) Reframing the
+Atlantic Coast of Morocco to the Eastern Mediterranean. ‘Everything is everywhere’ debate: evidence for high
+Deep-Sea Res I49:1217–1232 gene flow and diversity in ciliate morphospecies. Aquat
+DolanJR, RitchieME, RasJ(2007) The ‘neutral’ community Microb Ecol41:55–65
+structure of planktonic herbivores, tintinnid ciliates of the KlaasC(1997) Microprotozooplankton distribution and their
+microzooplankton, across the SE Tropical Pacific Ocean. potential grazing impact in the Antarctic Circumpolar
+Biogeosciences4:297–310 Current.Deep-Sea Res II44:375–393
+EdwardsES, BurkillPH, SleighMA(1998) Microbial commu- KofoidCA, CampbellAS(1929) A conspectus of the marine
+nity structure in the marginal ice zone of the Bellings- and fresh-water Ciliata belonging to the suborder Tintin-
+hausen Sea.J Mar Syst17:87–96 noinea, with descriptions of new species principally from
+FoissnerW, ChaoA, KatzLA(2008) Diversity and geographic the Agassiz expedition to the eastern tropical Pacific
+distribution of ciliates (Protista: Ciliophora). Biodivers 1904–1905.Univ Calif Publ Zool35:1–403
+Conserv17:345–363 Leakey R, Fenton N, Clarke A (1994) The annual cycle of
+Fonda UmaniS, MontiM, NuccioC(1998) Microzooplankton planktonic ciliates in nearshore waters at Signy Island,
+biomass distribution in Terra Nova Bay, Ross Sea (Antarc- Antarctica.J Plankton Res16:841–856
+tica).J Mar Syst17:289–303 Levinsen H, Nielsen TG (2002) The trophic role of marine
+FronemanPW(2004) Protozooplankton community structure pelagic ciliates and heterotrophic dinoflagellates in arctic
+and grazing impact in the eastern Atlantic sector of the and temperate coastal ecosystems: a cross-latitude com-
+Southern Ocean in austral summer 1998.Deep-Sea Res II parison.Limnol Oceanogr47:427–439
+51:2633–2643 LevitusS(1982) Climatological atlas of the world oceans. US
+Gächter E, Weisse T (2006) Local adaptation among geo- Department of Commerce, National Oceanic and Atmos-
+graphically distant clones of the cosmopolitan freshwater pheric Administration, Rockville, MD
+
+230 Aquat Microb Ecol 62: 215–230, 2011
+Lynn DH, Gilron GL (1993) Strombidid ciliates from coastal trends of standing stocks, distributions and analysis of
+waters near Kingston Harbour, Jamaica (Ciliophora, food vacuole contents.Aquat Microb Ecol24:297–311
+Oligotrichia, Strombidiidae). J Mar Biol Assoc UK 73: PriddleJ, LeakeyRJG, ArcherSD, MurphyEJ(1996) Eukary-
+47–65 otic microbiota in the surface waters and sea ice of the
+Lynn DH, Montagnes DJS (1988) Taxonomic descriptions of Southern Ocean: aspects of physiology, ecology and biodi-
+some conspicuous species of strobilidiine ciliates (Cilio- versity in a ‘two-phase’ ecosystem. Biodivers Conserv 5:
+phora: Choreotrichida) from the Isles of Shoals, Gulf of 1473–1504
+Maine.J Mar Biol Assoc UK68:639–658 Putt M, Stoecker DK (1989) An experimentally determined
+Lynn DH, Montagnes DJS, Small EB (1988) Taxonomic carbon:volume ratio for marine ‘oligotrichous’ ciliates from
+descriptions of some conspicuous species in the family estuarine and coastal waters. Limnol Oceanogr 34:
+Strombidiidae (Ciliophora: Oligotrichida) from the Isles of 1097–1103
+Shoals, Gulf of Maine.J Mar Biol Assoc UK68:259–276 SandersRW(1991) Mixotrophic protists in marine and fresh-
+Magurran AE (1988) Ecological diversity and its measure- water ecosystems.J Protozool38:76–81
+ment. Princeton University Press, Princeton NJ Sanders RW, Wickham SA (1993) Planktonic protists and
+MarieD, PartenskyF, VaulotD, BrussaardC(2001) Enumer- metazoa: predation, food quality and population control.
+ation of phytoplankton, bacteria, and viruses in marine Mar Microb Food Webs7:197–223
+samples. Curr Protoc Cytom:Unit 11.11 SantoferraraL, AlderV(2009) Abundance trends and ecology
+MayRM(1975) Patterns of species abundance and diversity. of planktonic ciliates of the south-western Atlantic (35–
+In: Cody ML, Diamond J (eds) Ecology and evolution of 63°S): a comparison between neritic and oceanic environ-
+communities. Harvard University Press, Cambridge, MA, ments.J Plankton Res31:837–851
+p 81–120 SAS Institute (1989) SAS/STAT users guide, version 6, 4th
+McGillBJ, EtienneRS, GrayJS, AlonsoDand others(2007) edn. SAS Institute, Cary, NC
+Species abundance distributions: moving beyond single SkibbeO(1994) An improved quantitative protargol stain for
+prediction theories to integration within an ecological ciliates and other planktonic protists.Arch Hydrobiol130:
+framework.Ecol Lett10:995–1015 339–347
+McMinn A, Scott FJ (2005) Dinoflagellates. In: Scott FJ, Skovgaard A, Legrand C (2005) Observation of live speci-
+Marchant HJ (eds) Antarctic marine protists. Australian mens of Pseudotontonia cornuta (Ciliophora: Oligo-
+Biological Resources Study & Australian Antarctic Divi- trichida) reveals new distictive characters. J Mar Biol
+sion, Canberra & Hobart, p 202–250 Assoc UK 85:783–786
+Modeo L, Petroni G, Rosati G, Montagnes DJS (2003) A Song W, Wilbert N (2000) Ciliates from Antarctic sea ice.
+multidisciplinary approach to describe protists: redescrip- Polar Biol23:212–222
+tions of Novistrombidium testaceum Anigstein 1914 Steidinger KA, Tangen K (1977) Dinoflagellates. In: Tomas
+and Strombidium inclinatum Montagnes, Taylor & Lynn CR (ed) Identifying marine phytoplankton. Academic
+1990 (Ciliophora, Oligotrichia). J Eukaryot Microbiol 50: Press, San Diego, CA, p 387–584
+175–189 StoeckerDK, GallagerSM, LangdonCJ, DavisLH(1995) Par-
+Montagnes DJS, Lynn DH (1987) A quantitative protargol ticle capture by Favellasp. (Ciliata, Tintinnina).J Plank-
+stain (qps) for ciliates: method description and test of its ton Res17:1105–1124
+quantitative nature.Mar Microb Food Webs2:83–93 SuzukiT, SongW(2001) A redescription of Tontonia cornuta
+MontagnesDJS, LynnDH, StoeckerDK, SmallEB(1988) Tax- (Leegaard, 1915) comb. nov., a planktonic oligotrichous
+onomic descriptions of one new species and redescriptions ciliate (Ciliophora: Oligotrichia) from the northern Pacific
+of four species in the family Strombidiiae (Ciliophora, Ocean.Hydrobiologia457:119–123
+Oligotrchida).J Protozool35:189–197 Ter Braak CJF (1986) Canonical correspondence analysis: a
+OksanenJ, KindtR, LegendreP, O’HaraBand others (2009) new eigenvector technique for multivariate direct gradi-
+vegan: Community Ecology Package. R package version ent analysis.Ecology67:1167–1179
+1.15–2(http://cran.r-project.org/) Wasik A (1998) Antarctic tintinnids: their ecology, morphol-
+PetzW(1999) Ciliophora. In: Boltovskoy D (ed) South Atlantic ogy, ultrastructure and polymorphism.Acta Protozool37:
+zooplankton. Backhuys, Leiden, p 265–319 5–15
+PetzW(2005) Ciliates. In: Scott FJ, Marchant HJ (eds) Ant- WeisseT, MüllerH, Pinto-CoelhoRM, SchweizerA, Spring-
+arctic marine protists. Australian Biological Resources mann D, Baldringer G (1990) Response of the microbial
+Study & Australian Antarctic Division, Canberra & Hobart, loop to the phytoplankton spring bloom in a large pre-
+p 347–448 alpine lake.Limnol Oceanogr35:781–794
+PetzW, SongW, WilbertN(1995) Taxonomy and ecology of WickhamSA, BerningerUG(2007) Krill larvae, copepods and
+the ciliate fauna (Protozoa, Ciliophora) in the endopagial the microbial food web: interactions during the Antarctic
+an pelagial of the Weddell Sea, Antarctica. Stapfia fall.Aquat Microb Ecol46:1–13
+40:1–233 Wickham SA, Lynn DH (1990) Relations between growth
+PittaP, GiannakorouA(2000) Planktonic ciliates in the oligo- rates, cell size and DNA content in colpodean ciliates (Cil-
+trophic Eastern Mediterranean: vertical, spatial distribu- iophora: Colpodea).Eur J Protistol25:345–352
+tion and mixotrophy.Mar Ecol Prog Ser194:269–282 ZingelP, HuituE, MäkeläS, ArvolaL(2002) The abundance
+Pitta P, Giannakourou A, Christaki U (2001) Planktonic cili- and diversity of planktonic ciliates in 12 boreal lakes of
+ates in the oligotrophic Mediterranean Sea: longitudinal varying trophic state.Arch Hydrobiol155:315–332
+Editorial responsibility: Urania Christaki, Submitted: April 29, 2010; Accepted: October 12, 2010
+Wimereux, France Proofs received from author(s): December 22, 2010
+

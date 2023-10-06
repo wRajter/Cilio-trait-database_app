@@ -1,0 +1,921 @@
+AQUATIC MICROBIAL ECOLOGY
+Vol. 43: 193–207, 2006 Published June 27
+Aquat Microb Ecol
+Phagotrophic ciliates and flagellates in an
+oligotrophic, deep, alpine lake: contrasting
+variability with seasons and depths
+Bettina Sonntag1,2,*, Thomas Posch4, Susanne Klammer3, Katrin Teubner5,
+Roland Psenner2
+1Laboratory of Aquatic Photobiology & Plankton Ecology, 2Institute of Ecology, and 3Institute of Microbiology,
+Leopold-Franzens-University Innsbruck, Technikerstrasse 25, 6020 Innsbruck, Austria
+4Limnological Station, Institute of Plant Biology, University of Zürich, Seestraße 187, 8802 Kilchberg, Switzerland
+5Department Freshwater Ecology, Faculty of Life Sciences, University of Vienna, Althanstrasse 14, 1090 Vienna, Austria
+ABSTRACT: We followed the changes in the protist assemblage over an annual cycle at 3 sites and
+different depths of Traunsee in the Austrian Alps and quantified the variability of the ciliate assem-
+blage along successive depth and time intervals, respectively. More than 60 ciliate species were iden-
+tified alive and after quantitative protargol staining (QPS). The ciliate diversity was high, and is
+described in detail for 50 taxa in time–depth intervals. Rimostrombidium brachykinetum/Rimostrom-
+bidium hyalinumand Balanion planctonicumwere the most frequent species, accounting for 44% of
+the annual mean abundance and 15% of the annual mean biovolume, respectively. Our results sug-
+gested a stronger variability in the ciliate assemblage structure within seasons than along the depth
+gradient. Gradual changes in the assemblage structure with depths: (1) were accompanied by a
+decrease of algivorous and mixotrophic and an increase of bacterivorous ciliates from surface to
+deeper layers; (2) were highly significantly altered with steep depth gradients of their potential food
+resources, i.e. the biomass of heterotrophic flagellates, bacteria and algae; and (3) were related with
+lower significance to environmental parameters. High similarity (>80%) between successive months
+was reached only when net changes in the total ciliate abundance were negligible, while a strong
+increase or decrease in the ciliate abundance was associated with pronounced changes in the species
+composition. These seasonal changes in the ciliate assemblage structure (4) were linked to shifts of
+algivorous and mixotrophic, but not of bacterivorous ciliates and (5) were less predictable with food
+resources compared to the depth gradient. The phagotrophic flagellates generally followed the
+seasonal and vertical patterns described for ciliates, and were shown to be important members of the
+planktonic food web in a cold, deep, oligotrophic lake.
+KEY WORDS: Microbial assemblage structure · Functional analysis · Microbial food web · Aquatic
+protists · Seasonal succession · Ciliate species list
+Resale or republication not permitted without written consent of the publisher
+INTRODUCTION 1999 and references therein). Nonetheless, reliable
+data sets on planktonic protistan species are still rare,
+It is well known that protists (unicellular eukary- especially from oligotrophic lakes (Laybourn-Parry
+otes) play a pivotal role in the food web of oceans and 1994, Pfister et al. 2002, Sonntag et al. 2002). In initial
+lakes (e.g. Azam et al. 1983, Weisse & Müller 1998). In studies on planktonic protists, this lack was related to
+recent years, knowledge about single ciliate and fla- methodological difficulties in the determination of
+gellate species has accumulated, a prerequisite to species present at low numbers, i.e. <1 ml–1. This
+understanding their contribution and importance to problem, however, has partly been solved by intro-
+the cycling of carbon and nutrients (see Foissner et al. duction of the Quantitative Protargol Stain (QPS;
+*Email: bettina.sonntag@uibk.ac.at © Inter-Research 2006 · www.int-res.com
+
+194 Aquat Microb Ecol 43: 193–207, 2006
+Montagnes & Lynn 1987, Skibbe 1994), which has soda industries and described, for example, microbial
+been tested for its reliability (Pfister et al. 1999). The activities such as primary and bacterial production
+microbial community structure in aquatic ecosystems (Griebler et al. 2002, Klammer et al. 2002, Schmidt et
+is variable both in time and space; however, few eco- al. 2002, Sonntag et al. 2002, Teubner & Dokulil 2002,
+logical studies have been explicitly devoted to analy- Teubner 2003).
+sis of the magnitude of both kinds of variability oper- Monthly samples taken from November 1997 to
+ating simultaneously and their underlying causes. In October 1998 were analysed at 3 sites selected for a
+the present study, we focused on 2 major questions. reference study on the microbial community with
+(1) What factors—biotic and/or abiotic—govern the respect to the disposal of alkaline wastes (sampling
+distribution of phagotrophic ciliates and flagellates map in Sonntag et al. 2002): (1) Viechtau (VI; the refer-
+in the water column of a deep, oligotrophic lake? ence site at a maximum depth of 191 m), (2) Ebensee
+(2) Does the ciliate assemblage structure correspond Bay (EB; the site of industrial waste release; depth
+to the temporal and spatial distributions of its poten- 50 m), and (3) Rindbach Bay (RB; unpolluted area,
+tial food resources? We interpreted changes in the influenced by allochthonous material from the main
+protist assemblage from high taxonomic and spatial tributary, the Traun River; depth 50 m). Sampling
+resolution data. According to literature (see below), depths were 0, 10, 20, 40 m at the 3 sites, and, addition-
+single ciliate species were categorised according to ally, 60, 80, 120 and 160 m at VI. Throughout the inves-
+their prevailing mode of nutrition, i.e. algivorous, tigation period, Traunsee had a fully oxygenated water
+mixotrophic, bacterivorous and omnivorous, and were column down to the maximum depth (191 m) and
+analysed along a time and depth gradient. As poten- increased chloride accumulation with depth. The lake
+tial food sources for the ciliates, we considered chloro- is holomictic, and mixis occurred in February/March
+phyll a (chl a), in different size fractions (see below), 1998.
+to be equivalent to autotrophic prey organisms, Sample treatments and statistics. Oxygen, pH, con-
+heterotrophic bacteria and heterotrophic flagellates. ductivity, temperature and underwater light were
+Bacteria were considered the main food for phago- measured immediately after sampling by sensors
+trophic flagellates. (WTW) and in situ by a profiler (multi-parameter pro-
+filer YSI 6920, 4π quantum sensor, LI-COR). Protocols
+MATERIALS AND METHODS
+Table 1. Hydrological, morphometric and physico-chemical
+parameters of Traunsee. Temperature (T), pH, O, conductiv-
+2
+As the study site (Table 1) and sampling design have ity, chloride concentrations, total phosphorus (TP), chloro-
+already been described in detail (Klammer et al. 2002, phyll a(chl a), mixing depth (z mix) and euphotic zone (z eu) are
+averages for the period November 1997 to October 1998, if
+Sonntag et al. 2002, Teubner & Dokulil 2002), we give
+not otherwise stated (modified from Pechlaner & Sossau 1982,
+only brief descriptions.
+Sonntag et al. 2002, Teubner & Dokulil 2002, Teubner 2003).
+Investigation site. Traunsee is the second largest Annual means are given with minimum and maximum values
+and deepest lake situated in the north of the Austrian in brackets
+limestone Alps. The lake has been influenced by the
+discharge from salt and soda industries for almost Latitude 47°48’ to 47°55’N
+100yr. A study was carried out to investigate the Longitude 13°46’ to 13°49’E
+Altitude (m a.s.l.) 422
+impact of these wastes on organisms (Schmidt et al.
+Volume (109m3) 2.3
+2002 and references therein). Results have shown that
+Lake surface area (km2) 24.4
+Traunsee receives 135000 tons of alkaline and saline Catchment area (km2) 1417
+industrial waste per year (Jagsch et al. 2002, Müller et Maximum length (km) 12.2
+al. 2002). The dissolved salts are mixed with lake Maximum width (km) 2.9
+Maximum depth (m) 191
+water, with maximum concentrations in the hypo-
+Mean depth (m) 95
+limnion, whereas solids are deposited in the southern
+z (Jul–Aug) (m) 6.8
+mix
+part of the lake and have, in the meantime, covered z (m) 11.3 (7.6–17.6)
+eu
+~20% of the lake bottom via turbidity currents (Müller Water renewal time (yr) 1.04
+Average discharge (m3s–1) 70
+et al. 2002). Benthic microorganisms in this southern
+T(°C) 7.8 (4.2–20.2)
+part of Traunsee are heavily affected by their alkaline
+pH 8.4 (6.9–9.8)
+environment (pH > 9 in the pore water), e.g. bacterial O (mg l–1) 10.6 (7.3–15.0)
+2
+abundance and biomass have been reduced by a factor Conductivity (µS cm–1) 536 (272–840)
+of 10 compared to undisturbed sediment areas Chloride (mg l–1) 95 (46–172)
+TP (µg l–1) 7.7 (4–13.2)
+(Griebler et al. 2002). Several publications on the lake
+Chl a (0–40 m) (µg l–1) 1.04 (0.14–3.3)
+have focused on the effect of pollution from salt and
+
+Sonntag et al.: Protists in a deep oligotrophic lake 195
+for the measurements of concentrations of chloride, Therefore, we used the same time intervals as for Bray-
+total phosphorus, chlorophyll, phytoplankton composi- Curtis similarity. As most of the abundant ciliates
+tion and bacterial parameters are described in Griebler (35species) were not distributed normally (Kolmog-
+et al. (2002), Klammer et al. (2002), Teubner & Dokulil orov-Smirnov), changes in the ciliate assemblage were
+(2002) and Teubner (2003). Ciliates and flagellates analysed by non-metric multidimensional scaling
+were fixed immediately after sampling with either 5% (NMS, based on the standardised Bray-Curtis distance
+Bouin’s solution (final concentration) or 2% formalde- matrix), with 2 predefined dimensions to reduce the
+hyde (final concentration), respectively. Living ciliates final stress of the ordination to 0.12 (Clarke 1993).
+and flagellates were gathered for detailed taxonomic Stress values explain the correspondence between the
+information with a 10 µm plankton net and observed matrix and the final plot, i.e. ‘0’ in the case of perfect
+within 24 h after sampling. Subsequently, ciliate concordance; <0.05 (5%), very good concordance; and
+samples were stained (with QPS in the modification of between 0.05 and 0.30, reliable concordance. Changes
+Pfister et al. 1999), and flagellates were stained with were separated for time and depth along the first and
+DAPI (4’,6-diamidino-2-phenylindole, Sigma; further the second NMS axis, respectively, and their relation-
+details described in Porter & Feig [1980], Sherr & Sherr ship was analysed by Spearman rank correlations.
+[1993] and Sonntag et al. [2000]). The protists were Bray–Curtis similarity and NMS were carried out with
+investigated with a Zeiss Axiophot II microscope (DIC, the software packages PRIMER 5 and PCORD 4 for
+brightfield, phase contrast, epifluorescence) and iden- Windows, respectively.
+tified morphologically after Foissner et al. (1991, 1992, Following the literature (Foissner et al. 1999), we
+1994, 1995, 1999) and Patterson & Larsen (1991 and catagorised the detected ciliates into 4 functional
+references therein). The microscopic permanent slides guilds, i.e. algivorous, bacterivorous, mixotrophic and
+with the QPS-stained ciliates from this investigation omnivorous. The potential food resources were hetero-
+were deposited and are available from the Oberöster- trophic bacteria, 3 size fractions of chl a (<11 µm,
+reichische Landesmuseum in Linz (LI), Austria (www. 11–33 µm and >33 µm) and phagotrophic flagellates.
+biologiezentrum.at). The relationship between the protists and their poten-
+Fixed phagotrophic flagellates were measured by tial food sources was analysed by stepwise multiple
+the use of a semi-automatic image analysis system linear regressions (MLR) and Pearson’s correlation
+(Lucia D V3.52 laboratory imaging software; for details after log-transformation (data transformed to normal
+see Sonntag et al. 2000). Ciliate dimensions were distribution). The persistence of the ciliate assemblage
+either measured on living specimens, if available, or on over seasons and depths was analysed by notched box-
+QPS-stained individuals with an eyepiece micrometer. whisker plots created in SYSTAT 8.0 for Windows.
+Cell volumes of all protists were calculated from Boxes were notched at the median, with 95% confi-
+appropriate geometric shapes. Neither correction dence intervals. The length of each box corresponds to
+factors for biovolumes, nor conversion factors for 50% of the values used for the analysis. Statistically
+biomasses were applied, as shrinkage/enlargement of significant differences between data sets are indicated
+ciliate cells is species specific and errors might by non-overlapping notches (equal to 95% confidence
+increase (for details see Pfister et al. 1999). However, limit).
+for the more-or-less uniform phagotrophic flagellates
+(see below), we applied the carbon conversion factor of
+Menden-Deuer & Lessard (2000). RESULTS AND DISCUSSION
+For the size fractionation of chl a, 2 l of lake water
+was filtered in cascades over nylon (33 µm, 11 µm) and Ciliates
+GF/F filters (Teubner & Dokulil 2002) and analysed
+according to APHA (1992) and Wright et al. (1991). The distribution patterns for ciliates over seasons
+The persistence in the ciliate assemblage was mea- and depths at the 3 sampling sites VI, EB and RB in
+sured as Bray-Curtis similarity between each pair of Traunsee are shown in Figs. 1A & 2. Highest cell
+successive monthly samples. The similarity was based densities occurred in the top 30 m at all sites, including
+on continuous data, i.e. we considered species that the euphotic zone, and in epi- and metalimnetic strata
+represented >1% of the total abundance over seasons during summer stratification (Fig. 1A, Tables 1 & 2).
+and depths (n = 192), respectively. Further, we calcu- Abundance and biovolume of ciliates were not signifi-
+lated the net change (k ) of ciliate abundance (a) with cantly different between the 3 sampling sites from 0 to
+a
+time (t)as: 40 m depths (Fig. 2E). We observed 3 peaks in abun-
+dance and biovolume, i.e. in March (with highest val-
+k = lna 2−lna 1 ues at VI), in May at the time of the phytoplankton
+a t 2−t 1 maximum and a major peak in autumn (Fig. 1A,
+
+196 Aquat Microb Ecol 43: 193–207, 2006
+Month Month
+Fig. 1. Vertical and seasonal distribution of the abundance of ciliates (left panel, cells ml–1) and phagotrophic flagellates (right
+panel, cells ml–1) at the 3 sites (EB: Ebensee Bay; RB: Rindbach Bay; VI: Viechtau) in Traunsee from November 1997 through
+October 1998 (crosses: sampling dates and depths; lines: mixing depth [z ] and euphotic zone [z ])
+mix eu
+Table2, see also Sonntag et al. 2002). Long-term stud- lakes by Beaver & Crisman (1989) in Florida, James et
+ies on mesotrophic lakes in temperate zones generally al. (1995) for Lake Taupo in New Zealand and Félip et
+showed a bimodal seasonal pattern, with distinct al. (1999) for the 70 m deep, alpine Lake Redó in the
+peaks in spring (major peak) and in summer/autumn Pyrenees, Spain. As already shown elsewhere, the
+(Müller et al. 1991a,b, review of Laybourn-Parry 1994, trophic status of a lake affects the composition of
+Schweizer 1994, Pfister et al. 2002). Throughout the pelagic ciliate assemblages (e.g. Beaver & Crisman
+year, Rimostrombidium brachykinetum/Rimostrombi- 1989, Pfister et al. 2002). In an investigation of several
+dium hyalinum (not recorded separately), Rimostrom- meso- to hypertrophic shallow lakes (<10 m depth) in
+bidium humile and Balanion planctonicum were the northern Germany, Pfister et al. (2002) found that eu-
+most abundant ciliate species in the surface waters, i.e. trophic lakes generally showed the most diverse ciliate
+they accounted for 44% of the annual mean abun- assemblage in all seasons sampled, while mesotrophic
+dance and 15% of the annual mean biovolume, re- lakes were dominated by oligotrichs and peritrichs
+spectively (Table 2). Further quantitatively important in spring/summer and prostomatids and hymeno-
+ciliates were Urotricha spp. <50 µm, Pelagohalteria stomatids in autumn. The dominant groups in hyper-
+cirrifera/Halteria bifurcata, Limnostrombidium pelag- trophic lakes were oligotrichs, peritrichs, hypotrichs,
+icum, Pelagostrombidium fallax/Pelagostrombidium heterotrichs and prostomatids. Under eutrophic and
+mirabile (not recorded separately due to taxonomical hypertrophic conditions high bacterial numbers sup-
+ambiguities—see discussion in Foissner et al. 1999), port large assemblages of scuticociliates, mostly of the
+Tintinnopsis cylindrata, Tintinnidium pusillum and genera Cyclidium and Uronema, and oligotrichs, e.g.
+Histiobalantium bodamicum. Halteria spp. (Nakano et al. 1998, Sˇimek et al. 2000).
+The relative contribution of the different ciliate In Traunsee, we identified around 60 pelagic ciliate
+groups to total ciliate abundance from November 1997 species, and recent findings of Sonntag & Foissner
+through October 1998 is shown in Fig. 3. The dominant (2004, unpubl. data) indicate the occurrence of several
+group in the top 40 m was the Oligotrichida, followed further still poorly or undescribed taxa. With depth, we
+by Prostomatida > Hymenostomata > Gymnostomatea/ followed the increase of various scuticociliates (1 prob-
+Peritrichia, while in the 60 to 160 m layers Hymenos- ably undescribed species, Histiobalantium bodamicum,
+tomata dominated over Oligotrichida > Gymnostom- and others) and confirm the assumption of Müller et al.
+atea > Prostomatida > Peritrichia. Predominance of (1991b) that a decrease of ciliates with depth and low
+oligotrichs (‘Oligotrichetea’ as defined by Foissner et numbers of scuticociliates are characteristic for deep
+al. 1991) has been reported earlier for oligotrophic lakes with aerobic hypolimnia. In 2 neighbouring lakes,
+
+Sonntag et al.: Protists in a deep oligotrophic lake 197
+A B C
+)%(
+70 0-10 VI )m(
+10-20 noitisopmoc 57
+ni slavretni
+60 20-40 ytiralimiS )%(
+40-60
+noitisopmoc 55
+60-80
+50 htpeD
+80-120 etailic
+120-160 EB D-N J-D F-J M-F A-M M-A J-M J-J A-J S-A O-S
+57
+Monthly intervals 65 70 75 80 etailic
+Similarity in ciliate composition (%)
+D 55
+ni
+100 E
+VI 60-160 m 2 )%( ytiralimiS
+VI 0-40 m Sites
+EB+RB 0-40 m EB 0-40 m RB 80 1 RB 0-40 m noitisopmoc 2 57
+VI 0-40 m ni sixa
+VI 60-160 m ytiralimiS
+60 0 SMN
+55
+–1 etailic
+40
+seasons depths
+–2 –1 0 1 2 –1.0 –0.5 0.0 0.5 1.0
+Net-change of ciliate abundance NMS axis 1
+Fig. 2. Similarity in the ciliate assemblage between depths and seasons. (A) Similarity according to the Bray-Curtis index between
+successive monthly samples for the 3 sites (mean ±SD). (B) Same as Panel A for depths. (C) Similarity with seasons and along
+depths for each site as notched box-whisker plots. (D) Relationship between the monthly change in the ciliate species composition
+(Bray–Curtis similarity) and the monthly net change of the ciliate abundance for individual sites and depths. Sites EB and RB not
+labelled separately as their distributions are similar. (E) Non-metric multidimensional scaling analysis (NMS) of the 35 most abun-
+dant ciliate taxa. Each point represents the mean by season and depth for each sampling site: points were labelled by sites.
+The label overlay for seasons and depths for the first and the second axis, respectively, is shown in Fig. 4A,F. Stress: 0.12 (12%)
+i.e. the oligotrophic Attersee and the oligo-meso- on the other hand (Table 4). This medium-sized phy-
+trophic Hallstättersee, we observed the same tendency toplankton fraction was composed of 36% diatoms,
+(Sonntag et al. 2002). In Traunsee, the ciliate assem- 26% cryptophytes, 22% chrysophytes, 9% chloro-
+blage changed significantly with depth in relation to phytes and 7% dinoflagellates. Bacterivorous species
+environmental parameters (Fig. 2B, Table3). Further- occurred primarily in the deeper layers, from 60 to
+more, no anaerobic ciliates were found during the in- 160m, where they accounted for around 50% of total
+vestigation period, which agrees with our observations abundance. A similar increase in abundance with
+that the whole water column was always oxygenated depth was observed earlier by Taylor & Heynen (1987),
+(Klammer et al. 2002). Occasionally, the main tributary, Müller et al. (1991a) and Carrias et al. (1998a). The
+the Traun River, carried some single cyrtophorid cili- decrease in potential food sources, i.e. bacteria, pha-
+ates into the lake. As the river water flows along the gotrophic flagellates and algae, from surface to deeper
+south-west coast of Traunsee, we detected such ciliates layers was significantly related to changes in the ciliate
+mainly at RB, but also at VI and EB. assemblage (Fig. 4F–J). Furthermore, the ciliate as-
+Throughout the year, changes in algal and bacterial semblage structure along depths was also significantly
+numbers led to specific ciliate successions (Figs. 4 & 5). associated with depth gradients of temperature, con-
+Ciliate functional guilds were related to their poten- ductivity and concentrations of dissolved organic car-
+tialfood resources (Figs. 4 & 5, Tables 2 & 4). Through- bon (DOC), total phosphorus, oxygen and chloride
+out the year, total ciliate numbers were composed of (NMS Axis 2; Table 3A). Food sources, however, were
+around 90% algivores, 8% mixotrophs and 2% bac- the primary factors driving the ciliate assemblage
+teri- and omnivores (Fig. 5C). The most predictive food structure along the depth gradient (correlation coeffi-
+sources for total, algivorous and bacterivorous ciliates cients > 0.81, p < 0.01; Fig. 4I–J) compared to environ-
+were heterotrophic bacteria, on the one hand, and mental parameters ( NMS Axis 2: correlation coeffi-
+phytoplankton species in the size fraction of 11–33µm, cients < 0.68, p < 0.01; Table 3A).
+
+198 Aquat Microb Ecol 43: 193–207, 2006
+Table 2. Annual mean abundance of total and single ciliate species (cells l–1), ciliate biovolume (mm3l–1), free-living flagellates
+(106cells l–1), epiphytic flagellates (103cells l–1), heterotrophic bacteria (109cells l–1), picocyanobacteria (107cells l–1) and chl a
+(µgl–1) in Traunsee from Nov 1997 through Oct 1998. Minimum and maximum values are given in brackets. Ciliates present
+below 0.2 cells ml–1are recorded as ‘single’ findings. Black boxes indicate months with highest values (peaks), grey boxes the
+presence and white boxes the absence of the respective parameter. Values 0–40 m were depth and site integrated, values
+for60–160 m integrated for VI only. Ciliates’ preferred food or feeding mode are given as: a: algae, b: bacteria, m: mixotrophic,
+o: omnivorous, ?: food not known
+Depths Month Abundance Preferred food
+(m) N D J F M A M J J A S O or volume or feeding mode
+Ciliate abundance 0–40 j j j j j j j j j j j j 4435 (235–36 574)
+(cells l–1) 60–160 j j j j j j j j j j j j 1387 (320–2764)
+Ciliate biovolume 0–40 j j j j j j j j j j j j 0.069 (0.015–0.973)
+(mm3l–1) 60–160 j j j j j j j j j j j j 0.009 (0.002–0.024)
+Free-living flagellate 0–40 j j j j j j j j j j j j 0.6 (0.05–2.8)
+abundance (106cells l–1) 60–160 j j j j j j j j j j j j 0.16 (0.04–0.34)
+Free-living flagellate 0–40 j j j j j j j j j j j j 0.014 (0.005–0.085)
+biovolume (mm3l–1) 60–160 j j j j j j j j j j j j 0.006 (0.001–0.014)
+Sessile flagellate 0–40 h h h h h h j j j j j j 5.8 (0–134.0)
+abundance (103cells l–1) 60–160 h h h h h h h j j j h j 2.0 (0–25.0)
+Bacterial abundance 0–40 j j j j j j j j j j j j 1.4 (0.7–2.7)
+(109cells l–1)a 60–160 j j j j j j j j j j j j 0.6 (0.4–1.1)
+Picocyanobacterial 0–40 j j j j j j j j j j j j 1.9 (0.2–9.9)
+abundance (107cells l–1)a
+Chl a (µg l–1) 0–20 j j j j j j j j j j j j 1.1 (0.1–3.4)
+Oligotrichida (cells l–1)
+Codonella cratera 0–40 h h h h h j j h h h h h Single a
+(Leidy, 1877)
+Limnostrombidium 0–40 j j h h h h j j j j j j 121 (0–3833) a
+pelagicum (Kahl, 1932) 60–160 h h h h h h h h h j j h Single
+Pelagohalteria cirrifera 0–40 j j j j j j j j j j j j 367 (0–2223) a
+(Kahl, 1932)/ 60–160 h j j j j j j j j j j j 142 (0–620)
+Halteria bifurcata
+(Tamar, 1968)
+Pelagohalteria viridis 0–40 j j h h j h h j j j j j 151 (0–3153) m
+(Fromentel, 1876)
+Pelagostrombidium fallax 0–40 j j j j j j j j j j j j 83 (0–3426) m
+(Zacharias, 1895)/ 60–160 h h h h j h h h h h h h Single
+P. mirabile(Penard, 1916)
+Rimostrombidium 0–40 j j j j j j j j j j j j 884 (47–10 548) a
+brachykinetum 60–160 j j j j j j j j j j j j 128 (16–360)
+(Krainer, 1995)/R. hyalinum
+(Mirabdullaev, 1985)
+Rimostrombidium 0–40 j j j j j j j j j j j j 287 (0–4151) a
+humile(Penard, 1922) 60–160 j j j j j j j j j h j j 27 (0–161)
+Rimostrombidium 0–40 j h h j j h j h h j h j 30 (0–905) a
+lacustris(Foissner, 60–160 h h h h j h h h h h h h Single
+Skogstad & Pratt, 1988)
+Tintinnopsis cylindrata 0–40 h h h h h h j j j j j j 246 (0–12 153) a
+Kofoid & Campbell, 1929 60–160 h h h h h h j j j h j j 4 (0–61)
+Tintinnidium pusillum 0–40 h j h j j j j j h j j j 88 (0–4248) a
+Entz, 1909 60–160 h h h j j j j j j j h j 8 (0–76)
+Prostomatida (cells l–1)
+Balanion planctonicum 0–40 j j j j j j j j j j j j 611 (0–5446) a
+(Foissner, Oleksiv & 60–160 j j j j j j j j j j j j 44 (0–158)
+Müller, 1990)
+Coleps spetai Foissner, 1984 0–40 h h j h j j h h j j j j 42 (0–1318) m
+Urotricha spp. 0–40 j j j j j j j j j j j j 526 (0–6019) a
+(at least 4 species) 60–160 j h j j j j j j j j j j 37 (0–185)
+Urotricha venatrix 0–40 h h h h h h h h h j j j 9 (0–516) o
+Kahl, 1935
+Gymnostomatea (cells l–1)
+Askenasia chlorelligera 0–40 j j h h j j h j j j j j 72 (0–1813) m
+Krainer & Foissner, 1990 60–160 h j h h h h h h h h h h Single
+Askenasia sp.b 0–40 h h h h h h h h j h j j 114 (0–3888) a
+Askenasia volvox 0–40 j h j j j j j j j j j j 37 (0–344) a
+(Eichwald, 1852)/ 60–160 h h j h j j h j h h j h 3 (0–23)
+A. acrostomia
+Krainer & Foissner, 1990
+
+Sonntag et al.: Protists in a deep oligotrophic lake 199
+Table 2 (continued)
+Depths Month Abundance Preferred food
+(m) N D J F M A M J J A S O or volume or feeding mode
+Monodinium chlorelligerum 0–40 h h h h h h h h j j j j 41 (0–4217) m
+Krainer, 1995
+Mesodinium sp. 0–40 j h j j j j j j j j j j 21 (0–172) o
+60–160 j h j j j j h j j j j j 41 (0–184)
+Paradileptus 0–40 h h h h h h h h h h j j 2 (0–115) o
+elephantinus (Svec, 1897)
+Rhabdoaskenasia minima 0–40 j j j j j j j j j j j j 43 (0–351) a
+Krainer & Foissner, 1990 60–160 j j j j j j j j j j j j 114 (0–344)
+Spathidium cf.depressum 0–40 h h h h h h h h h h h j Single a
+Kahl, 1930 60–160 h h h h h h h h h h h j Single
+Pleurostomatida (cells l–1)
+Enchelys gasterosteus 0–40 h h h h h j h h j h h h Single o
+Kahl, 1926
+Lacrymaria sp.b 0–40 h h h h h h j j h h h h Single o
+60–160 h h h h h j j h h h h h Single
+Lagynophrya acuminata 0–40 h h h h j j h h j j j j 8 (0–213) a
+Kahl, 1935/ 60–160 h h h h j h h h h j h h Single
+Lagynophrya sp.b
+Amphileptus piger 0–40 h h h h h h j j j j j h Single ?
+(Vuxanovici, 1962) 60–160 h h h h h h h h h j h h Single
+Hypotrichia (cells l–1)
+Aspidisca cicadac 0–40 h h h h j h j h h h h h Single a
+(Mueller, 1786)
+Holosticha spp.c 0–40 h h h h j h h h h h h h Single o
+(at least 2 species)
+Uroleptus sp.d 0–40 h h h h j h h j h h j h Single m
+Hymenostomata (cells l–1)
+Cinetochilum margaritaceum 0–40 h h j j h h j h h h h h Single b
+(Ehrenberg, 1831)
+Histiobalantium bodamicum 0–40 j j j j j j j j j j j j 268 (0–2035) a
+Krainer & Müller, 1995 60–160 j j j j j j j j j j j j 52 (0–246)
+Paramecium sp. 0–40 h j h h j h h h h h h h Single b
+Pleuronema sp. 0–40 h h h h j h h h h h h h Single b
+Scuticociliatab 0–40 j h j j j j j j j j j j 21 (0–453) b
+60–160 j j j j j j j j j j j j 528 (64–1624)
+Scuticociliata 0–40 j j j j j j j j j j j j Single b
+(at least 4 species) 60–160 h h h h h h j j j j j j 186 (0–988)
+Uronema nigricans 0–40 h h h h h h h h j h j j Single b
+(Mueller, 1786)
+Peritrichia (cells l–1)
+Epistylis sp. 0–40 j h h h h h h h h j h h 12 (0–1299) b
+Pelagovorticella natans 0–40 j j j j j j j j j j h j 18 (0–344) b
+(Fauré-Fremiet, 1924) 60–160 h j j h h h h h h h j h Single
+Pseudohaplocaulus 0–40 h h h h h h h h j j j h 13 (0–1462) a & m
+infravacuolatus Foissner
+& Brozek, 1996 + Vorticella
+chlorellataStiller, 1940
+Vaginicola ingenita 0–40 j h h h h h h j j j j j 28 (0–344) b
+(Mueller, 1786) 60–160 h h h h h h h j j h h h 5 (0–66)
+Vorticella vernalis 0–40 j j j j j j j j j j j j 62 (0–602) a
+Stokes, 1887 60–160 h j h h h h h j h h h h Single
+Suctoria (cells l–1)
+Gajewskaiophrya melosirae 0–40 j h h h j h j j j j j j 8 (0–172) o
+(Gajewskaja, 1933) 60–160 h h h h h h h j j j h h Single
+Cyrtophorida (cells l–1)
+Gastronauta membranaceusc 0–40 h h h h h h h h j h h h Single b
+Buetschli, 1889
+Pseudochilodonopsis fluviatilisc 0–40 h h h h j h h h h h h h Single a
+Foissner, 1988
+Cyrtophoridac(at least 2 species) 0–40 j j j h h h h h j h h h Single a
+aData from Klammer et al. (2002)
+bProbably new species
+cCiliates imported into Traunsee by the Traun River
+d Description in prep.
+
+200 Aquat Microb Ecol 43: 193–207, 2006
+0 - 40m Table 3. Correspondence between environmental parameters
+100 and the ciliate assemblage structure changing with seasons
+and depths. The assemblage structure is summarised by
+scores of the first and second axis of NMS. The community
+80 structure along seasons and depths is summarised by scores
+of the first and second axis of NMS, respectively. (A)Relation-
+ship between environmental data and scores of the NMS
+axis (Pearson correlation coefficients) (DOC: dissolved or-
+60
+ganic carbon; TP: total phosphorus; O: oxygen). (B)Spear-
+2
+man rank order correlation between NMS axis and seasons,
+sites and depths (codes in brackets). Scores are displayed
+40
+in Figs. 2E & 4A,F
+20 NMS Axis 1 NMS Axis 2
+(indicating (indicating
+mainly seasons) mainly depths)
+0
+(A)
+Temperature –0.67** 0.68**
+60 - 160m DOC ns 0.55**
+100 TP ns 0.42**
+O ns 0.35**
+2
+Conductivity ns –0.56**
+80 Chloride 0.33* –0.66**
+(B)
+Sites (coded as: ns 0.37**
+60
+1 = VI, 2 = EB, 3 = RB)
+Seasons (coded as: –0.67** ns
+1 = winter, 2 = spring,
+40 3 = summer, 4 = autumn)
+Depths (coded with 0.34** –0.85**
+increasing numbers: 0, 10,
+20 20, 40, 60, 80, 120, 160 m)
+0
+N D J F M A M J J A S O relationship to changes in the total ciliate assemblage
+along depths (Fig. 4G). Mixotrophic ciliates followed
+Oligotrichida Hymenostomata Peritrichia the trend of algivorous ones (Fig. 4G). Both guilds were
+Prossttomatida Gymnostomatea Others
+most numerous in the surface layers of Traunsee,
+Fig. 3. Monthly percentages of the different ciliate groups at decreasing with depth. Omnivorous ciliates followed
+VI integrated over depths from 0 to 40 m (representative also the same vertical trend, however not significantly, and
+for EB and RB) and from 60 to 160 m, respectively bacterivorous ciliates were inversely related to depth
+and increasingly important at deeper layers (Fig. 4H).
+In the following, we describe in detail the pro-
+The most remarkable change in the ciliate species nounced changes of the ciliate assemblage structure
+composition along depths was found below both the during the 4 seasons in a functional model based on
+euphotic and the mixing depth, i.e. between 20 and the mean annual abundance of the different nutritional
+40 m and 40 and 60 m, respectively (Figs. 1A & 2B). modes in the top 20 m of the water column, as well as
+Changes in the ciliate assemblage structure were more of the heterotrophic bacteria, phagotrophic flagellates
+persistent along depths than during seasons at all 3 and chl a (Fig. 5A,B). In addition, the relative contribu-
+sites (Fig. 2C). In particular, the persistence along tions of the different nutritional modes are given
+depths was significantly higher at VI and EB than at according to season (Fig. 5C).
+RB. The more detailed similarity analysis by NMS
+showed that changes between months were less grad-
+ual, i.e. the relationship between the total abundance Seasonal succession of free-living ciliates
+of ciliates and changes in the assemblage structure and functional guilds
+during seasons explained 66% of the similarity
+(Fig.4A), along depths, 83% (Fig. 4F). The high The seasonal succession of the whole ciliate assem-
+percentage of algivorous ciliates explains the close blage was significantly related to the seasonal abun-
+
+Sonntag et al.: Protists in a deep oligotrophic lake 201
+NMS Axis 1: Variation with seasons NMS Axis 2: Variation along depth gradient
+A Cil0m Cil R = 0.83** F
+Cil R = - 0.66** all
+a Cll Cil10m
+0.2 il
+winter Cil20m
+Cil 1
+spring Cil40m
+Cil summer Cil60m
+Cil autumn Cil80m
+-0.8
+-1 Cil120m nihtiw sixa gnola sixa
+Cil160m
+ts1 dn2
+erutcurts erutcurts
+B CCilialalglgiviv R = 0.96** G fo fo
+CCililmmixixotr R = 0.86** 0.2 serocs serocs
+Cilomni n.s.
+1
+egalbmessa egalbmessa
+SMN SMN
+-0.8 Cilalgiv R = – 0.59**
+CilmixotrR = – 0.62** -1 sa sa
+CilomnivR = – 0.27* snosaes shtped
+etailiC etailiC
+C Cil bacterivR = – 0.53** H
+2
+0.2
+1
+0
+-0.8
+-1
+Cil n.s.
+bacteriv
+10 100 1000 10000 10 100 1000 10000
+Abundance of ciliates (ind. l–1) Abundance of ciliates (ind. l–1)
+D CC HheFtflaRg = 0.84** I
+CC R = 0.95**
+bhaetcbtact
+0.2 gnola sixa
+1 gnola sixa
+ts1
+erutcurts dn2
+fo erutcurts
+-0.8 C HCFHR F = – 0.47** -1 serocs fo
+C bC acbtaRct = – 0.50** serocs
+egalbmessa
+E J SMN egalbmessa
+SMN
+C R = 0.81**
+0.2 phyto sa
+1 snosaes sa
+etailiC
+shtped
+etailiC
+-0.8
+C R = – 0.45** -1
+phyto
+0.1 1 10 100 0.1 1 10 100
+Carbon (µgl–1) Carbon (µgl–1)
+Fig. 4. Summary of the ciliate assemblage structure over seasons (scores of the first NMS axis, left panels) and depths (scores of
+the second NMS axis, right panels) related to the functional guilds of phagotrophic ciliates and flagellates, and bacteria and
+algae. Label overlay for seasons is shown in Panel A; for depths, in Panel F. Scores of the first NMS axis are most closely related
+to seasons; of the second axis, to depths (Spearman rank correlation coefficients and codes as in Table 3B). Relationship between
+NMS scores and abundance of total ciliates (A, F); algivorous, mixotrophic and omnivorous ciliates (B, G); bacterivorous ciliates
+(C, H); the carbon of phagotrophic flagellates and heterotrophic bacteria (D, I); and the carbon of phytoplankton (E, J) are shown.
+Pearson correlation coefficients are given (*p < 0.05; **p < 0.01; ns: not significant)
+
+202 Aquat Microb Ecol 43: 193–207, 2006
+high Askenasia Pelagohalteria
+A spp. spp.
+Balanion Rimostrombidium
+ness planctonicum b Rr .a hc yh ay lk inin ue mtu m/
+h
+peciesric R ui rm momo il-
+C spo ele tap is s ht eb i dium
+mixotrophic
+s
+Rimo-
+low Epiphytic strombidium
+peritrichs lacustris
+Tintinnopsis
+Halteria cylindrata/
+low spp. Tintinnidium
+pusillum
+Histio-
+balantium Urotrichs
+bodamicum <50 µm
+Limno-
+strombidium Urotrichs
+pelagicum > 50 µm
+Mesodinium
+spp.
+Vaginicola sp.
+Monodinium
+Lateautumn Winter Spring Summer Autumn chlorelligerum
+Vorticella
+B chlorellata &
+Paradileptus Pseudo-
+300 Bacterivorous elephantinus h ina frp alo vac ca uu olu las t us )1–l
+Omnivorous on Anabaena sp.
+Bacteria FH401(
+200
+HF
+100
+)1–l
+0 airetcab701(
+10000 Algivorous C
+Mixotrophic Phyto-bloom 2
+8000 Chl a 100 )1–l )1–l setailic
+6000 75 Algivorous 1 Bacterivorous setailic( gµ(alhC
+4000 50 Omnivorous latot
+2000 0 Mixotrophic
+25 no
+0
+%
+0
+N D J F M A M J J A S O winter spring summer autumn
+Fig. 5. Seasonal development of the ciliate assemblage for the upper 0 to 20 m. (A) Scheme of species richness with the dominant
+ciliate taxa shown (drawings from Foissner et al. 1999). (B) Mean monthlyabundance of ciliates attributed to different nutritional
+modes (see ‘Materials and methods’), phagotrophic flagellates (HF), heterotrophic bacteria and chlorophyll a (chl a). (C) Relative
+contribution of ciliate nutritional modes by season
+dance of algivorous, mixotrophic and omnivorous total biovolume. Conversely, a strong increase or
+ciliates and their potential food sources (Fig. 4B,D & E, decrease in the abundance of ciliates was associated
+respectively). Bacterivorous ciliates, however, were with pronounced changes in the species composition
+evenly distributed throughout seasons (Fig. 4C). Ex- (similarity < 50% between successive samples; Fig. 2A).
+cept for temperature and chloride concentration, the
+seasonal ciliate assemblage was not predictable
+by other environmental parameters (NMS Axis 1; Winter
+Table 3A). The stability of the ciliate ‘standing crop’
+was evaluated by the net change of the abundance In winter (November to February) and during holo-
+(Fig. 2D). At all depth layers, >80% similarity in the cil- mixis, only a few ciliate species were found, and these
+iate assemblage between successive monthly samples in low numbers, due to the poor nutrient situation and
+was found associated with almost zero net changes of low temperatures (Figs. 1A & 5A,B, Table 2). In Decem-
+
+Sonntag et al.: Protists in a deep oligotrophic lake 203
+Table 4. Stepwise multiple linear regression (MLR) for the control of multiple food resources (carbon) of ciliates and phagotrophic
+flagellates (R2: squared correlation coefficient of MLP; coeff.: unstandardised coefficient [*p < 0.05, **p < 0.01, n.s: not signifi-
+cant]; SE: standard error of unstandardised coefficient; beta: standardised coefficient; algiv.: algivorous; bacteriv.: bacterivorous;
+mixotr.: mixotrophic; omniv.: omnivorous; HF: carbon of phagotrophic flagellates; na: not applicable)
+Dependent Independent variable entered
+variable Carbon from Carbon from Carbon from Carbon from Carbon from Constant
+heterotrophic phagotrophic chlorophyll chlorophyll chlorophyll
+bacteria flagellates (fraction <11 µm) (fraction 11–33 µm) (fraction >33 µm)
+Group R2 Coeff. Beta Coeff. Beta Coeff. Beta Coeff. Beta Coeff. Beta Coeff.
+(SE) (SE) (SE) (SE) (SE) (SE)
+Total 0.80 0.51* 0.25 ns ns 1.17** 0.63 ns 5.62**
+ciliates (0.22)0 (0.19)0 (0.49)0
+Algiv. 0.97 1.59** 0.65 ns ns 0.76** 0.36 ns 2.72**
+ciliates (0.15)0 (0.13)0 (0.34)0
+Bacteriv. 0.80 –3.49** –1.09 ns –0.72** –0.39 2.65** 0.96 ns 13.43**
+ciliates (0.53)0 (0.27)0 (0.42)0 (1.09)0
+Mixotr. 0.83 ns0 2.50* 0.40 ns 2.12* 0.47 ns ns
+ciliates (1.12)0 (0.80)0
+Omniv. 0.26 ns0 ns ns 0.70* 0.26 ns 2.82**
+ciliates (0.35)0 (0.30)0
+HF 0.87 0.58** 0.70 na na 0.10* 0.21 ns ns ns –0.48*0
+(0.09)0 (0.05)0 (0.18)0
+ber 1997, >80% of the ciliates were represented by pelagicumandHistiobalantium bodamicumappeared
+oligotrichs, i.e. Pelagohalteria cirriferaand Rimostrom- during the phytoplankton bloom and the chl a maxi-
+bidium spp. (Figs. 3 & 5A,B). Towards the end of the mum (Fig. 5A,B, Table 2). At this time of the year, cili-
+winter, predominantly algivorous raptorial and filter ates might be strong competitors with metazoan
+feeders, such as Balanion planctonicum, Rimostrombid- organisms, due to low generation times; hence, ciliates
+ium spp., P. cirriferaand Rhabdoaskenasia minima,in- like B. planctonicum were assumed to be important
+creased in abundance parallel to the development of contributors to the beginning of the so-called clear-
+chl a. In March, we noticed an exceptional peak of water phase in meso- to eutrophic lakes, in addition to
+mainly algivorous and omnivorous ciliates at VI at rotifers and other ciliates (Sommaruga & Psenner 1993,
+depths of 10 to 20 m, presumably influenced by nutrient 1995). Generally, they were among the first grazers of
+inputs by the Traun River during spring snowmelt. Cor- algal biomass in spring, with a preference for crypto-
+respondingly, peaks in picocyanobacteria, centric and phytes (Carrick & Fahnenstiel 1989, Müller et al.
+pennate diatoms and cryptophytes were observed 1991b, Müller & Schlegel 1999).
+(data not shown). B. planctonicum, Rimostrombidium
+spp., P. cirrifera, Mesodinium sp. and Urotricha spp. re-
+sponded numerically to this increase in food, even at Summer
+temperatures of 4 to 5°C. The food vacuoles of, e.g., Ri-
+mostrombidium lacustris or R. humile were densely At the onset of the stratification from May to June
+packed with centric diatoms. Müller and co-workers (Fig. 1A), ciliate and phytoplankton abundance de-
+(Müller 1989, Müller et al. 1991b, Müller & Schlegel creased (Fig. 5B). Concurrently, the ciliate species
+1999) observed that the spring assemblage of Lake composition changed abruptly (low similarity of 55%
+Constance (mainly B. planctonicumand Rimostrombid- for May to June; Figs. 2A & 5B). In June and July, pro-
+iumspp.) was closely related to food resources and able stomatids, hymenostomatids and peritrichs appeared in
+to respond rapidly to a bloom of small phytoplankton. low numbers (Table 2). Predation by copepods and
+cladocerans might have been the reason for low total
+ciliate abundance during these months (Müller 1989,
+Spring Stockner & Shortreed 1989, Carrick et al. 1991, Müller
+et al. 1991a, Laybourn-Parry & Rogerson 1993, Lay-
+In spring (March to May), algivorous and omnivo- bourn-Parry 1994, Jersabek pers. comm.). Free-living
+rous ciliates, namely Balanion planctonicum, Rimo- ciliates, namely Pelagohalteria viridis, halteriids and ri-
+strombidium spp., Urotricha spp., Tintinnopsis cylin- mostrombidiids were most likely able to resist grazing
+drata, Pelagohalteria cirrifera, Limnostrombidium pressure by their jumping behaviour (Gilbert 1994,
+
+204 Aquat Microb Ecol 43: 193–207, 2006
+review of Jürgens 1994, Wickham 1995). In contrast, Epiphytic ciliates
+epiphytic ciliates gained an advantage by their attach-
+ment to diatom colonies, thus becoming inedible for Sessile, bacterivorous peritrich ciliates appeared along
+zooplankton predators (Carrias et al. 1998b, detailed with the occurrence of colonial algae, their preferred
+discussion see below). Most likely, Balanion plancton- attachment sites, i.e. Vorticella vernalis on Fragilaria
+icum was outcompeted in June by other algivorous crotonensisand V. ingenitaon Tabellaria fenestrataand
+ciliates like Histiobalantium bodamicumand haptorids Dinobryon spp. (Table 2). We observed their highest
+(Askenasia volvox/Askenasia acrostomia, Rhabdoask- abundance in April, with V. vernalis as the dominant
+enasia minima, Mesodiniumspp.) or grazed, e.g., by ro- species. In autumn, this ciliate species appeared again
+tifers like Keratella cochlearis(Weisse & Frahm 2002). together with V. ingenita. In August, the epiphytic
+Then again B. planctonicumincreased in abundance in Pseudohaplocaulus infravacuolatuswas associated with
+July and had its maximum in autumn. These findings Vorticella chlorellata, both attached to the chain-like
+are similar to those of Müller et al. (1991b) recorded colonies of the cyanobacterium Anabaena lemmer-
+from Lake Constance. Further, the scuticociliate H. mannii. Ruttner (1937) previously described the occur-
+bodamicumhas been described as a ‘superior competi- rence of 2 vorticellids on Anabaena flos-aquaein Traun-
+tor at relatively low algal food concentrations’ (Müller & see, and Carrias et al. (1998a) found this association in
+Weisse 1994), which might explain its constantly rising Lake Pavin. However, in the meantime, A. flos-aquae
+mean abundance from May through September. has disappeared from Traunsee, indicating a shift to
+more oligotrophic conditions. Hunt & Chein (1983 and
+references therein) described vorticellids attached to
+Late summer and autumn Anabaena colonies as typical members of the ciliate
+assemblage of the Great Lakes. In general, epibiotic
+Throughout the summer months the number of co- ciliates and flagellates have a major grazing impact on
+existing species increased (Fig. 5A,B, Table 2). From free bacteria, even when they are present in low num-
+August through October, a heterogeneous assemblage bers (Carrias et al. 1996). The attachment of peritrichs to
+including many mixotrophic species appeared. The colonial algae apparently provides a refuge from poten-
+abundance of the zoochlorella-bearing species, e.g. tial grazers, as they are too bulky to be ingested by
+Pelagohalteria viridis, Monodinium chlorelligerum, zooplankton (Carrick et al. 1991, Carrias et al. 1996).
+Coleps spetai and Askenasia chlorelligera, increased
+in surface layers of Traunsee to a maximum of about
+9000cells l–1 in September, which accounted for 25% Seasonal succession of free-living
+of the total ciliate abundance at this time. Mixotrophic phagotrophic flagellates
+ciliates can reach up to 53% of the total abundance at
+certain times (Carrias et al. 1998a). Ciliates containing The seasonal dynamics of phagotrophic flagellates
+symbiotic algae are known to accumulate either in (HF) showed 2 peaks, one during the phytoplankton
+clear surface waters or near the oxycline (Hecky & bloom in spring and another in autumn (Figs. 1B & 5B).
+Kling 1981, Pace 1982, Berninger et al. 1986, Müller et Abundance and biovolume in the top 40 m were not
+al. 1991a, Carrias et al. 1998a). Mixotrophy, in general, significantly different between EB, RB and VI (Fig. 1B).
+is often considered as an adaptation permitting ex- Taxa <5 µm in length (fixed) accounted for 88 to 90%
+ploitation of food-poor oligotrophic environments, but of total HF at depths from 0 to 40 m and 82% from 60
+serves a variety of purposes (Dolan & Pérez 2000). The to 160 m (Sonntag et al. 2002). Those small HF were
+diversity of ciliates and food availability further represented primarily by Monas-like cells and a so far
+increased in autumn, and the relationships between unidentified HF with a decentral nucleus. An unidenti-
+these 2 parameters became less clear, as various envi- fied HF >5 µm with a kinetoplast increased numeri-
+ronmental factors might have enhanced the species cally with depth. Kathablepharis sp., another HF
+diversity at this time (Müller et al. 1991a). At the end of >5µm assumed to be mixotrophic, was also present at
+the autumnal ciliate peak in Traunsee, large-sized low densities. In total, numbers of HF in Traunsee were
+predators, i.e. Urotricha venatrixand Paradileptus ele- within the range reported for oligo- to mesotrophic
+phantinus, appeared and even had rotifers in their food water bodies (e.g. Carrias et al. 1998b, Sonntag et al.
+vacuoles. However, bacterivorous and predatory cili- 2002), i.e. between 40 and 2900 ml–1 for the present
+ates seemed to be of minor importance when they study.
+occurred in summer and late autumn, as algivorous The flagellate assemblage structure changed during
+and omnivorous species were able to ingest around the transition from the phytoplankton spring bloom to
+43% of the primary production per year in Lake Con- summer, with small HF such as heterokonts and epi-
+stance (Müller et al. 1991a, Straile 1995). phytic flagellates becoming increasingly abundant, as
+
+Sonntag et al.: Protists in a deep oligotrophic lake 205
+already reported for Lake Constance (Cleven & Weisse distribution demonstrate that the phagotrophic protists
+2001). The time of the phytoplankton bloom was also occupy a number of different ecological niches at vari-
+the time of the highest bacterial numbers (Table 2). ous trophic levels (primary and secondary consumers).
+Free-living HF in Traunsee were significantly corre- High taxonomic resolution was a prerequisite to inter-
+lated to ciliates (Fig. 4D) and heterotrophic bacteria in pret the findings precisely, and we would like to
+the top 40 m (Table 4). Small heterotrophic flagellates, encourage researchers to use the high-standard meth-
+e.g. Spumella spp., are known to be efficient bacteri- ods available, especially for ciliate identification, e.g.
+vores, able to consume around half of the bacterial pro- QPS instead of Lugol’s solution.
+duction (Weisse 1990, 1991, Simon et al. 1998). A coin- We assessed the strength of predictive relationships
+cidence of bacterial and HF densities and the structuring the ciliate assemblage along the depth gra-
+predominance of HF <5 µm in length has already been dient by parameters of the bottom-up control cascade,
+reported for Lake Constance (Weisse 1990, 1991, i.e. by nutrients (phosphorus, DOC) and food sources
+Cleven & Weisse 2001), Mondsee (Salbrechter & Arndt from algae to bacteria and flagellates. Hence, the
+1994) and Lake Pavin (Carrias et al. 1998b). However, coherent correlation pattern of food and environmen-
+the relationship between HF and bacteria seems to be tal variables predicting changes in the ciliate assem-
+stronger in systems with low bacterial abundance com- blage structure clearly mediated bottom-up cascades
+pared to systems with higher bacterial numbers (Gasol through the food web. The seasonal succession in the
+& Vaqué 1993). ciliate assemblage was also significant, but less pre-
+dictable by food-source parameters in contrast to its
+depth distribution. Hence, the seasonal changes in the
+Epiphytic flagellates ciliate structure were not primarily mediated by bot-
+tom-up control. We assume that seasonal community
+Sessile flagellates were present in the whole water structure in Traunsee was also driven by effects of the
+column (0 to 160 m depth) from May through October, top-down control not studied.
+appearing along with the occurrence of suitable
+attachment sites, i.e. colonial diatoms. They accounted
+Acknowledgements. We thank C. Griebler and B. Mindl for
+for up to 7% of total HF in Traunsee and 9 to 11% in
+cooperation, discussions and logistics; K. Maier for technical
+Lake Pavin (Carrias et al. 1996, 1998b). In Traunsee, support in the field; and C. Jersabek for the contribution of
+epiphytic flagellates were mainly represented by a unpublished data on zooplankton. Comments by H. Müller,
+choanoflagellate of the genus Salpingoeca (for taxo- H. Zimmermann-Timm and T. Weisse on an earlier version
+and by 3 anonymous reviewers are gratefully acknowledged.
+nomic considerations see Sonntag et al. 2000) attached
+The project was funded by the Government of Upper Austria
+to the diatom Asterionella formosa, and an unidenti- (contract with the Austrian Academy of Sciences).
+fied epiphytic flagellate on the diatom Fragilaria croto-
+nensis. In May, Salpingoeca sp. accounted for around
+LITERATURE CITED
+50% of total epiphytic flagellates; from June through
+August, an unidentified morphotype dominated the APHA (American Public Health Association) (1992) Standard
+sessile assemblage. Then, Salpingoeca sp. again in- methods for the examination of water and wastewater,
+creased numerically in September and October, 18th edn. APHA, Washington, DC
+Auer B, Arndt H (2002) Taxonomic composition and biomass
+accounting for ~100% of epiphytic flagellate abun-
+of heterotrophic flagellates in relation to lake trophy and
+dance. However, its occurrence was not restricted to
+season. Freshw Biol 46:959–972
+late summer and autumn as previously described Azam FT, Fenchel T, Field JG, Gray JS, Meyer-Reil LA,
+(Weisse et al. 1995, Cleven & Weisse 2001, Auer & Thingstad F (1983) The ecological role of water-column
+Arndt 2002). Sˇimek et al. (2004) observed that at microbes in the sea. Mar Ecol Prog Ser 10:257–263
+Beaver JR, Crisman TL (1989) The role of ciliated protozoa
+certain times Salpingoeca sp. is the most important
+in pelagic freshwater ecosystems. Microb Ecol 17:
+bacterivorous species in the plankton. 111–136
+Berninger UG, Finlay BJ, Canter HM (1986) The spatial distri-
+bution and ecology of zoochlorellae-bearing ciliates in a
+productive pond. J Protozool 33:557–563
+CONCLUSIONS
+Carrias JF, Amblard C, Bourdier G (1996) Protistan bac-
+terivory in an oligomesotrophic lake: importance of
+Here, we showed that phagotrophic ciliates assigned attached ciliates and flagellates. Microb Ecol 31:249–268
+to at least 4 different guilds and flagellates are impor- Carrias JF, Amblard C, Bourdier G (1998a) Seasonal dynam-
+tant members of the planktonic food web in a cold, ics and vertical distribution of planktonic ciliates and their
+relationship to microbial food resources in the oligomeso-
+deep, oligotrophic lake, an environment previously
+trophic Lake Pavin. Arch Hydrobiol 143:227–255
+thought to be unfit for many protists. Although present Carrias JF, Amblard C, Quiblier-Lloberas C, Bourdier G
+in low numbers, our data on the seasonal and vertical (1998b) Seasonal dynamics of free and attached hetero-
+
+206 Aquat Microb Ecol 43: 193–207, 2006
+trophic nanoflagellates in an oligomesotrophic lake. lake impacted by salt industry. Water Air Soil Pollut 2:
+Freshw Biol 39:91–101 9–20
+Carrick HJ, Fahnenstiel GL (1989) Biomass, size structure, James MR, Burns CW, Forsyth DJ (1995) Ciliated protozoa in
+and composition of phototrophic and heterotrophic two monomictic, southern temperate lakes of contrasting
+nanoflagellate communities in Lakes Huron and Michi- trophic state: seasonal distribution and abundance.
+gan. Can J Fish Aquat Sci 46:1922–1928 JPlankton Res 17:1479–1500
+Carrick HJ, Fahnenstiel GL, Stoermer EF, Wetzel RG (1991) Jürgens K (1994) Impact of Daphniaon planktonic microbial
+The importance of zooplankton–protozoan trophic cou- food webs—A review. Mar Microb Food Webs 8:295–324
+plings in Lake Michigan. Limnol Oceanogr 36:1335–1345 Klammer S, Posch T, Sonntag B, Griebler C, Mindl B, Psenner
+Clarke KR (1993) Non-parametric multivariate analyses of R (2002) Dynamics of bacterial abundance, biomass, activ-
+changes in community structure. Aust J Ecol 18:117–143 ity, and community composition in the oligotrophic Traun-
+Cleven EJ, Weisse T (2001) Seasonal succession and taxon-spe- see and the Traun River (Austria). Water Air Soil Pollut 2:
+cific bacterial grazing rates of heterotrophic nanoflagellates 137–163
+in Lake Constance. Aquat Microb Ecol 23:147–161 Laybourn-Parry J (1994) Seasonal successions of protozoo-
+Dolan JR, Pérez MT (2000) Costs, benefits and characteristics plankton in freshwater ecosystems of different latitudes.
+of mixotrophy in marine oligotrichs. Freshw Biol 45: Mar Microb Food Webs 8:145–162
+227–238 Laybourn-Parry J, Rogerson A (1993) Seasonal patterns of
+Félip M, Bartumeus F, Halac S, Catalan J (1999) Microbial protozooplankton in Lake Windermere, England. Arch
+plankton assemblages, composition and biomass, during Hydrobiol 129:24–43
+two ice-free periods in a deep high mountain lake (Estany Menden-Deuer S, Lessard EJ (2000) Carbon to volume rela-
+Redó, Pyrenees). In: Straskrabová V, Callieri C, Fott J (eds) tionships for dinoflagellates, diatoms and other protist
+Pelagic food webs in mountain lakes. Mountain Lakes Re- plankton. Limnol Oceanogr 45:569–579
+search Program. J Limnol58:193–202 Montagnes DJS, Lynn DH (1987) A quantitative protargol
+Foissner W, Blatterer H, Berger H, Kohmann F (1991) Tax- stain (QPS) for ciliates: method description and test of its
+onomische und ökologische Revision der Ciliaten des quantitative nature. Mar Microb Food Webs 2:83–93
+Saprobiensystems, Band I: Cyrtophorida, Oligotrichida, Müller H (1989) The relative importance of different ciliate
+Hypotrichia, Colpodea. Informationsbericht 1/91, Bayer. taxa in the pelagic food web of Lake Constance. Microb
+Landesamtes für Wasserwirtschaft, Munich, p 1–478 Ecol 18:261–273
+Foissner W, Berger H, Kohmann F (1992) Taxonomische und Müller H, Schlegel A (1999) Responses of three freshwater
+ökologische Revision der Ciliaten des Saprobiensystems, planktonic ciliates with different feeding modes to crypto-
+Band II: Peritrichia, Heterotrichida, Odontostomatida. phyte and diatom prey. Aquat Microb Ecol 17:49–60
+Informationsbericht 5/92, Bayer. Landesamtes für Wasser- Müller H, Weisse T (1994) Laboratory and field observations
+wirtschaft, Munich, p 1–502 on the scuticociliate Histiobalantium from the pelagic
+Foissner W, Berger H, Kohmann F (1994) Taxonomische und zone of Lake Constance, FRG. J Plankton Res 16:391–401
+ökologische Revision der Ciliaten des Saprobiensystems, Müller H, Schöne A, Pinto-Coelho RM, Schweizer A, Weisse
+Band III: Hymenostomata, Prostomatida, Nassulida. Infor- T (1991a) Seasonal succession of ciliates in Lake Con-
+mationsbericht 1/94, Bayer. Landesamtes für Wasser- stance. Microb Ecol 21:119–138
+wirtschaft, Munich, p 1–548 Müller H, Geller W, Schöne A (1991b) Pelagic ciliates in Lake
+Foissner W, Berger H, Blatterer H, Kohmann F (1995) Tax- Constance: comparison of epilimnion and hypolimnion.
+onomische und ökologische Revision der Ciliaten des Verh Int Verein Limnol 24:846–849
+Saprobiensystems, Band IV: Gymnostomatea, Loxodes, Müller J, Wallner J, Kroemer E (2002) Industrial tailings in
+Suctoria. Informationsbericht 1/95, Bayer. Landesamtes Traunsee revisited—the status of 1999. Water Air Soil Pol-
+für Wasserwirtschaft, Munich, p 1–540 lut 2:21–32
+Foissner W, Berger H, Schaumburg J (1999) Identification and Nakano S, Ishii N, Manage PM, Kawabata Z (1998) Trophic
+ecology of limnetic plankton ciliates. Informationsbericht roles of heterotrophic nanoflagellates and ciliates among
+3/99, Bayer. Landesamtes für Wasserwirtschaft, Munich, planktonic organisms in a hypertrophic pond. Aquat
+p1–793 Microb Ecol 16:153–161
+Gasol JM, Vaqué D (1993) Lack of coupling between hetero- Pace ML (1982) Planktonic ciliates: their distribution, abun-
+trophic nanoflagellates and bacteria: A general phenome- dance, and relationship to microbial resources in a mono-
+non across aquatic systems? Limnol Oceanogr 38:657–665 mictic lake. Can J Fish Aquat Sci 39:1106–1116
+Gilbert JJ (1994) Jumping behaviour in the oligotrich ciliates Patterson DJ, Larsen J (1991) The biology of free-living
+Strobilidium veloxand Halteria grandinella, and its signif- heterotrophic flagellates. Clarendon Press, Oxford
+icance as a defense against rotifer predators. Microb Ecol Pechlaner R, Sossau C (1982) Die Ergebnisse der fünfjährigen
+27:189–200 Studie ‘Limnologische Untersuchung Traunsee-Traun’.
+Griebler C, Sonntag B, Mindl B, Posch T, Klammer S, Psenner Limnologische Untersuchung Traunsee-Traun 13, Amt der
+R (2002) Assessment of the ecological integrity of Traun- Oberösterreichischen Landesregierung, Linz, p 1–100
+see (Austria) via analysis of sediments and benthic micro- Pfister G, Sonntag B, Posch T (1999) Comparison of a direct
+bial communities. Water Air Soil Pollut 2:33–62 live count and an improved quantitative protargol stain
+Hecky RE, Kling HJ (1981) The phytoplankton and protozoo- (QPS) in determining abundance and cell volumes of pel-
+plankton of the euphotic zone of Lake Tanganyika: species agic freshwater protozoa. Aquat Microb Ecol 18:95–103
+composition, biomass, chlorophyll content, and spatio- Pfister G, Auer B, Arndt H (2002) Pelagic ciliates (Protozoa,
+temporal distribution. Limnol Oceanogr 26:548–564 Ciliophora) of different brackish and freshwater lakes—a
+Hunt GW, Chein SM (1983) Seasonal distribution, composi- community analysis at the species level. Limnologica 32:
+tion and abundance of the planktonic Ciliata and Testacea 147–168
+of Cayuga Lake. Hydrobiologia 98:257–266 Porter KG, Feig YS (1980) The use of DAPI for identifying
+Jagsch A, Dokulil MT, Gassner H (2002) Long-term changes and counting aquatic microflora. Limnol Oceanogr
+in environmental variables of Traunsee, an oligotrophic 25:943–948
+
+Sonntag et al.: Protists in a deep oligotrophic lake 207
+Ruttner F (1937) Limnologische Studien an einigen Seen der Protozooplankton in the deep oligotrophic Traunsee (Aus-
+Ostalpen. Arch Hydrobiol Spec Iss Adv Limnol tria) influenced by discharges of soda and salt industries.
+32:167–319 Water Air Soil Pollut 2:211–226
+Salbrechter M, Arndt H (1994) The annual cycle of protozoo- Stockner JG, Shortreed KS (1989) Algal picoplankton produc-
+plankton in the alpine, mesotrophic lake Mondsee (Aus- tion and contribution to food-webs in oligotrophic British
+tria). Mar Microb Food Webs 8:217–234 Columbia lakes. Hydrobiologia 173:151–166
+Schmidt R, Dokulil MT, Psenner R, Wanzenboeck J (2002) Straile D (1995) Die saisonale Entwicklung des Kohlenstoff-
+Ecological integrity: concept, assessment, evaluation: the kreislaufes im pelagischen Nahrungsnetz des Boden-
+Traunsee case. Water Air Soil Pollut 2:249–261 sees—Eine Analyse von massenbilanzierten Flussdia-
+Schweizer A (1994) Seasonal dynamics of Ciliophoraalong a grammen mit Hilfe der Netzwerktheorie. PhD disserta-
+transect in Lake Constance. Mar Microb Food Webs 8: tion, Hartung Gorre, University of Konstanz
+283–293 Taylor WD, Heynen ML (1987) Seasonal and vertical distribu-
+Sherr EB, Sherr BF (1993) Preservation and storage of sam- tion of Ciliophora in Lake Ontario. Can J Fish Aquat Sci
+ples for enumeration of heterotrophic protists. In: Kemp 44:2185–2191
+PF, Sherr BF, Sherr EB, Cole JJ (eds) Handbook of Teubner K (2003) Phytoplankton, pelagic community and
+methods in aquatic microbial ecology. Lewis Publishers, nutrients in a deep oligotrophic alpine lake: ratios as sen-
+London sitive indicators of the use of P-resources (DRP:DOP:PP
+Sˇimek K, Jürgens K, Nedoma J, Comerma M, Armengol J and TN:TP:SRSi). Water Res 37:1583–1592
+(2000) Ecological role and bacterial grazing of Halteria Teubner K, Dokulil MT (2002) 14C-photosynthesis of phyto-
+spp.: small freshwater oligotrichs as dominant pelagic cili- plankton in an oligotrophic alpine lake (Traunsee, Austria)
+ate bacterivores. Aquat Microb Ecol 22:43–56 and its response to turbidity caused by industrial tailings.
+Sˇimek K, Jezbera J, Hornˇák K, Vrba J, Sed’a J (2004) The role Water Air Soil Pollut 2:181–190
+of diatom-attached choanoflagellates of the genus Salpin- Weisse T (1990) Trophic interactions among heterotrophic
+goeca as pelagic bacterivores. Aquat Microb Ecol 36: microplankton, nanoplankton, and bacteria in Lake Con-
+257–269 stance. Hydrobiologia 191:111–122
+Simon M, Tilzer MM, Müller H (1998) Bacterioplankton in a Weisse T (1991) The annual cycle of heterotrophic freshwater
+large mesotrophic lake. I. Abundance, production and nanoflagellates: role of bottom-up versus top-down con-
+growth control. Arch Hydrobiol 143:385–407 trol. J Plankton Res 13:167–185
+Skibbe O (1994) An improved quantitative protargol stain for Weisse T, Frahm A (2002) Direct and indirect impact of two
+ciliates and other planktonic protists. Arch Hydrobiol 130: common rotifer species (Keratellaspp.) on two abundant
+339–347 ciliate species (Urotricha furcata, Balanion planctonicum).
+Sommaruga R, Psenner R (1993) Nanociliates of the order Freshw Biol 47:53–64
+Prostomatida: their relevance in the microbial food web of Weisse T, Müller H (1998) Planktonic protozoa and the micro-
+a mesotrophic lake. Aquat Sci 55:179–187 bial food web in Lake Constance. Arch Hydrobiol Spec
+Sommaruga R, Psenner R (1995) Trophic interactions within Issues 53:223–254
+the microbial food web in Piburger See (Austria). Arch Weisse T, Springmann D, Müller H (1995) Ökologie des het-
+Hydrobiol 132:257–278 erotrophen Nanoplanktons im Süßwasser und Meer. In:
+Sonntag B, Foissner W (2004) Urotricha psenneri n. sp. Röttger R (ed) Praktikum der Protozoologie. Fischer Ver-
+and Amphileptus piger (Vuxanovici, 1962) n. comb., two lag,Stuttgart, p 40–47
+planktonic ciliates (Protozoa, Ciliophora) from an oligotro- Wickham SA (1995) Cyclops predation on ciliate species—
+phic lake in Austria. J Eukaryot Microbiol 51:670–677 specific differences and functional responses. J Plankton
+Sonntag B, Posch T, Psenner R (2000) Comparison of three Res 17:1633–1646
+methods for determining flagellate abundance, cell size, Wright SW, Jeffrey SW, Mantoura RFC, Llewellyn CA, Bjorn-
+and biovolume in cultures and natural freshwater sam- land T, Repela D, Welschmeyer N (1991) Improved me-
+ples. Arch Hydrobiol 149:337–351 thod for the analysis of chlorophylls and carotenoids from
+Sonntag B, Posch T, Klammer S, Griebler C, Psenner R (2002) marine phytoplankton. Mar Ecol Prog Ser 77:183–196
+Editorial responsibility: John Dolan, Submitted: May 1, 2005; Accepted: December 16, 2005
+Villefranche-sur-Mer, France Proofs received from author(s): May 23, 2006
+

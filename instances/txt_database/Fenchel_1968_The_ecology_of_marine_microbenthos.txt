@@ -1,0 +1,615 @@
+OPHELIA, 5: 123-136 (May 1968)
+THE ECOLOGY OF MARINE MICROBENTHOS
+III. THE REPRODUCTIVE POTENTIAL
+OF CILIATES
+2102
+TOM FENCHEL
+rebmeceD
+Marine Biological Laboratory, Helsinger, Denmark.
+ABSTRACT
+22
+Growth rates ofpopulations of9 benthic marineciliate species were measured in purecultures 71:10
+at differenttemperatures. All specieshad a maximalgrowth rateabove20°Cwhich isabovethe
+average temperature in their natural environment. Several species multiplied at 4°C and one
+ta
+species also at O°C, and it is suggested that all species are able to multiply at temperatures be- ]lehcneF
+tween0 and4°C at very slow rates afterlongperiodsofadaptation.
+At 20°Cgeneration times varied between2.4 hours (Uronema marina) and 46 hours (Condy-
+lostomapatulum) correspondingto intrinsic rates ofnatural increase (r, per day): 6.65-0.36 and
+moT
+finite rates ofincrease(A" perday): ca. 1000-1.4.
+The maximal reproductive rate ofciliates was found to be correlated with cell size. It was
+found thatT = kXVO.44,whereT isgeneration timeandvisthe average bodyvolume. rM[
+The reproductiverates ofciliates are compared with values ofr for small metazoans (based
+,]yrarbiL
+on the literature orestimated from published data on fecundity and generation times). Itis re-
+commendedthatr isevaluatedfor a greaternumberofspeciesas a measureofreproductivepo-
+tentialsincethisrenderscomparisons between different animalspossible.
+ytisrevinU
+INTRODUCTION
+negahnepoC[
+Knowledge on the reproductive potentials is of importance when the role played
+by different organisms in natural environments is to be evaluated. The purpose
+ofthe presentpaperis to report on the reproductive rates of some benthicciliates
+and to compare them with the reproductive rates ofother animal groups.
+It is well known that when an animal population is allowed to increase un- yb
+checked, the increase ofthe population is at any moment proportional to the size dedaolnwoD
+ofthe population at that particular moment, thus:
+dNjdt = rN
+or in an integrated form:
+(1)
+
+124 TOM FENCHEL
+where No and N, are the population sizes at time 0 and t respectively, e is the
+base of natural logarithms and r is a constant known as the "intrinsic rate of
+natural increase". IfT is the generation time and R, is the net reproductive rate
+per generation (viz. N, +TINt) (1) gives
+loge R,
+r=~-- (2)
+T
+For protozoa and other animals which multiply by division into two daughter 2102
+individuals T is the period oftime between two successive divisions and R o = 2,
+rebmeceD
+thus:
+loge2 0.693
+r=~T-= - T- (3)
+The "finite rate of increase" it is defined as it = e"and is, as may be seen from 22
+(1), a measure of how many times a population will multiply per unit of time. 71:10
+Several authors (Andrewartha & Birch, 1954; Macfadyen, 1963; Slobodkin,
+1962; Smith, 1954) have stressed the great value ofr in ecological work since it is ta
+a true measure ofthe reproductive potential which allows comparisons between ]lehcneF
+very different kinds of animals. The fact that this measure has been used to a
+small extent only in practical ecological work is due to difficulties in determining
+r in the great majority ofmetazoan species which have overlapping generations moT
+and deposit their eggs over a longer period of time, and r has only been deter-
+rM[
+mined with accuracy in few cases (see above-mentioned literature and the discus-
+sion in the present paper for references and methods for determination of r in ,]yrarbiL
+metazoan populations).
+For any animal population r may assume several values, one for each set of
+environmental factors (availability and nature offood, salinity, temperature, pH, ytisrevinU
+etc., etc.,). Ifr = 0 thepopulation sizeisconstantand ifr is negativeit isdecreas-
+ing. Under optimal conditions r will assume a value characteristic for the species
+in question. This value will be a measure ofthe reproductive potential ofthe spe-
+negahnepoC[
+cies. In practice absolute optimal conditions will probably never be observed in
+the field nor will they be reproduced in the laboratory, but close approximations
+are often easily obtained.
+The value or r is ofinterest becausethis as mentionedabove, makesit possible
+to compare reproductive rates ofdifferent kinds ofanimals and also because ex- yb
+ponential growth of populations of small animal species is not uncommon in dedaolnwoD
+nature. Bick (1964) demonstrated exponential growth in protozoan successions
+under laboratory conditions. I have observed exponential growth phases ofciliate
+populations in succession experimentsas wellas in thefield (unpublished observa-
+tions). Similar blooms ofplanktonic organisms are well known.
+The generation time (T) or the intrinsic rate of natural increase (r) of some
+protozoan species frequently used in physiological and biochemical work have
+often been determined (see for example Phelps (1946) and Prescott (1957) for the
+
+REPRODUCTIVE POTENTIAL OF CILIATES 125
+ciliate Tetrahymena (since the rate of the logarithmic growth of these organisms
+is used as a measure of the effect ofvariousfactors (temperature, nutrition, drugs,
+etc.) but few ofthese works have an ecological scope and no comparisons have
+been made between the values ofr for a larger number ofspecies.
+Bick (1964) determined r from the growth ofa number ofciliate species and
+the coelenterate Hydra in mixed cultures and demonstrated the importance of r
+for the understanding ofthe course ofmicrofaunal successions.
+2102
+My sincere gratitudeis due to Miss Harriet H. Hansenfor maintainingand countingtheciliate
+cultures and to Dr. Grete M011erChristensen for making cultures ofunicellular algae available rebmeceD
+for me. I also acknowledge the support rendered through contract no. F 6 1052 67 C 0089 be-
+tween the United States' Office ofNaval Research, Department ofthe Navy, and the Marine
+Biological Laboratory, Heisinger.
+22
+71:10
+MATERIAL AND METHODS
+ta
+Nine species were used in the present study. Uronema marina Dujardin, 1841, ]lehcneF
+Aspidisca angulata Bock, 1952,and Litonotus lamella (Ehrenberg, 1838)were iso-
+lated from sand samples from the Helsingor Beach; Euplotes vannus (0.F.M.,
+1786), Diophrys scutum Dujardin, 1841, Lacrymaria marina Dragesco, 1963 and moT
+Condylostomapatulum Claparede & Lachmann, 1858were isolatedfrom sediment
+rM[
+samples from the Niva Bay; Keronopsis rubra (Ehrenberg, 1838) was isolated
+from the trays in the sea-water system ofthe laboratory and an undescribed phi- ,]yrarbiL
+lasterid was isolated from a culture of lamellibranch larvae (see Fenchel, 1968).
+Animals which were used for initiating cultures were taken from cultures in
+their logarithmic phase with the exception of Condylostoma and Lacrymaria be- ytisrevinU
+causethe reproductive rate ofthesespecies always decreased somewhataftersome
+generations in pure culture, probably due to some deficiency of micro-nutrients
+in the food offered. These species were taken directly from mixed cultures.
+negahnepoC[
+All cultureswereinitiatedwith 2to 12individuals. Thesmall species (Uronema
+and the philasterid)were cultured in a drop ofculturefluid betweentwocoverglas-
+ses sealed with vaseline, the other species were kept in Boveri dishes. Aged sea-
+water (19%0 S) with the food item added was used as culture fluid.
+After the culture fluid and ciliates had been added to the culture vessels these yb
+were incubated at the desired temperature. At intervals ofsome hours or once a dedaolnwoD
+day - according to the expected reproductive rate ofthe species examined - the
+culture vessels were placed under the dissection microscope and the number of
+ciliates counted. An experiment was terminated when the logarithmic growth
+phase hadendedor when the numberofanimalswas too large for directcounting.
+In the lattercasethe animalswerecountedalast time byremovingthemone byone
+with a pipette or after killing and staining them with methyl green in acetic acid.
+Due to the method ofdirect countings the accuracy is considered to be absolute'
+
+126 TOM FENCHEL
+10.05g/100ml
+• 'c"
+°
+o
+9 ~
+~
+'"
+2102
+1000
+rebmeceD
+I 0.005gl100ml
+6
+22
+71:10
+5
+00005g/100ml ta
+]lehcneF
+100
+moT
+rM[
+,]yrarbiL
+22°C
+•
+ytisrevinU
+•
+10
+negahnepoC[
+o
+100 hours
+FIG. 1.GrowthofculturesofAspidiscaangulata
+in differentconcentrationsofpeptonesolutions.
+yb
+dedaolnwoD
+Most species were tested at several temperatures between 0° and 22°C, Dio-
+phrys also at 27° and 32°C (see Fig. 5). All experiments were at least made in
+duplicates.
+Bacteria grownin peptone solutions were used as food for Uronema, Aspidisca
+and Euplotes (yeast gave a slightly lower value of r in Euplotes); the diatom
+PhaeodactylumwasusedforKeronopsisandDiophrys(yeast,the flagellate Dunaliella
+and benthic diatoms gave a slightly slower growth,and Isochrysisgave no growth
+
+REPRODUCTIVE POTENTIAL OF CILIATES 127
+2102
+o
+rebmeceD
+22
+..
+71:10
+.,.
+f
+ta
+]lehcneF
+moT
+rM[
+,]yrarbiL
+ytisrevinU
+Uronemo rrorina
+negahnepoC[
+100 200 300 hours
+FIG.2. Growth ofculturesof Uronema marinaat fourtemperatures.
+yb
+dedaolnwoD
+at all in Diophrys). Dunaliella was used for Condylostoma. Bits of living mussel
+tissue were used for the histophagous philasterid. The carnivores Litonotus and
+Lacrymaria were fed with Uronema marina which were taken from peptone cul-
+tures and rinsed in sea-water before feeding.
+The concentration of the food item influences the value of r as seen in Fig. I,
+.which shows the growth of Aspidisca in different concentrations of peptone in
+sea-water. An about 25 hour old solution of 25-50 mg peptone in 100 ml sea-
+
+128 TOM FENCHEL
+number of ir-dividucls
+L1TONOTUS LAMELLA
+/"0'
+• 2102
+/0 0/
+100 rebmeceD
+22
+.
+I
+/ 71:10
+/0
+ta
+]lehcneF
+,,{//"
+moT
+rM[
+_._._. --.-. -.-e-. -. --ooe
+,]yrarbiL
+100 200 hours
+FIG. 3. Growth ofcultures ofLitonotuslamella at four differenttemperatures. ytisrevinU
+water was found to give best results for species which were fed with bacteria.
+negahnepoC[
+Freshly made solutions gave rise to a comparatively long lag phase in the growth
+ofthe populations.
+The optimal concentrations ofotherfood items was notinvestigated,butsince
+these items were considered harmless to the ciliates, even in very high concentra-
+tions, they were added in so large amounts thatthe reproductiverateofthe ciliates yb
+could not be affected by lack offood. In most cases the experiments were reason- dedaolnwoD
+ably reproducible even though two series ofcultures of Uronema gave somewhat
+diverging results (Fig. 4).
+Figs. 2 and 3 show the development of cultures of Uronema and Litonotus
+respectively at various temperatures.
+T was estimated from growth curves describing the logarithmic phase and r
+was calculated from (3).
+The volumes ofciliates were measured as described in Fenchel (1967).
+
+REPRODUCTIVE POTENTIAL OF CILIATES 129
+10 r(per 24hours) Uronemo marina
+/ gene-ration time
+/: (hours)
+0 • /.&?R'd'SCOongulata
+«
+9lRtotE'S vennus
+o 0 • // ..........L.itono!u5 lomella 2102
+,_J' . .// .....,. .0"OioRb.!.y~ 10
+,,/ ./ /' ,,/ / /
+. 15 rebmeceD
+..// / ..,6 /' ...."'" ,,./
+..........
+/ /'.... /
+/ ./.......... // 20
+• /' .........."'" 0
+I / /. /' __ 0 , Ke-ronORsis rubra 25
+;,'0 0: ,:/ .// /',,/ ~Y!llil~a mar~c;... .o // 30 22
+,Condylostoma Rotulurn
+40 . 71:10
+// / /'/ / 50
+,0 / 60
+// / /'/' // ta
+.
+/ 80 ]lehcneF
+,/ /
+100
+o /
+/
+moT
+o 10 12 14 16 18 20 22 24 26 28 30 I(CO)
+FIG. 4. Reproductive rates (r and T) at different temperatures of 8 species ofciliates. Curves
+rM[
+fitted by eye.
+,]yrarbiL
+In all experiments - with the exception of those on Uronema, Litonotus and
+Diophrys at temperatures above lODe - a lag phasewas apparentin the beginning ytisrevinU
+ofthe experiments. The lag phase was longest at low temperatures (Figs. 2, 3).
+A lag phase seems sometimes inevitable in protozoan cultures (see Hall, 1967)
+and the reason for this is not always clear. I my experiments the long lag phase
+negahnepoC[
+at low temperatures is probably to some extent due to a period of temperature
+adaptation (stock cultures were kept at room temperature). The lag phase of the
+two species which were taken from mixed cultures may also be due to a period of
+adaptation, in this case to a new diet.
+yb
+dedaolnwoD
+RESULTS
+In Fig. 4 the reproductive rates of the investigated species (as r and as T) are
+plottedagainst temperature. As pointed out by Phelps (1946)QI0 may beexpected
+to vary with temperature. The number ofdifferent temperatures used during the
+present study is therefore too small to give a detailed picture ofthe effect of tem-
+perature on the reproductive rate.
+
+130 TOM FENCHEL
+For Tetrahymena Phelps found three distinct values ofQI0 with sharp breaks
+betweenthem:QI0 was 9.7at7.8-12.3°C,2.9at l2.3-20.0°Cand 1.5at20.0-28.6°C.
+Highest growth rate was found at 29°C, and at about 32°C no growth occurs.
+Neither did growth occur below 5_6°C.
+The results ofthe present investigation indicate a constant QI0 in the interval
+from 4-8°C to 20°C for Uronema and Aspidisca which weretestedatseveraltem-
+peratures. At lower temperatures QlO increases in accordance with the findings of
+Phelps. The values ofQlO ofthe various species in the interval 8-20°C varied be- 2102
+tween 3.5 (Uronema) and 2.3 (Litonotus).
+Only one species, Diophrysscutum, was cultured at temperatures above 23°C. rebmeceD
+The highest growth rate was found at 27°C while nearly no growth occurred at
+31-32°C.
+Uronema grew both at 4°C and at0°C. Aspidiscagrew at 4°C, and it was not
+22
+incubated at lower temperatures. Litonotusmultiplied at 5°C but not atO°C dur- 71:10
+ing 10 days of incubation. Diophrys did not grow at 4°C and O°C. All species
+survived for at least 2-3 weeks at 0°C and behaved normally even though no ta
+multiplication took place. ]lehcneF
+James & Read (1957) demonstrated thatthe cell sizeofTetrahymena increased
+in incubations at low temperatures. This effect was observed in several ofthe spe-
+cies studied; it was especially evident in Uronema. moT
+On Fig. 5the reproductive rate at 20°C,as expressed by r, A,and T, isplotted
+rM[
+against the volume ofthe animals. A correlation between cell size and reproduc-
+tive rate is evident. Calculation of the regression line gives the equation r (per ,]yrarbiL
+day) = 105.9XV-O.44orT(hours) = 0.0065XVO.44when the volumevisgivenin fL3.
+At 15° the calculation gave a somewhat different exponent (0.42) since QlO is not
+quite identical in the different species. ytisrevinU
+The largest and the smallest species studied (Condylostoma and Uronema
+respectively) almost represent the extremes in size ofciliates, and their reproduc-
+tive rates are therefore considered as nearly showing the limits in variation of
+negahnepoC[
+reproductive rates in these animals.
+At 20°C, r for Uronema has the value 6.65 per day, i.e. a generation time of
+2.5 hours. At the same temperature Condylostoma has a generation time ofabout
+46 hours corresponding to a value ofr = 0.36perday. Theenormousdifferencein
+reproductive potential between these two species is made clear when Ais consi- yb
+dered. A population of Condylostoma will under optimal conditions at 20°C in- dedaolnwoD
+creasebyafactor 1.4in24hours. Duringthe same periodapopulationof Uronema
+will increase by a factor of 1000.
+
+~ I:It lt" ~ o I:t c o <.l-..>.. I:It lt" o l-> I:It Z l.-..>.. -> -r o lT' .i..(.. -r ..... -> l-> I:It )/( ..w...
+fo )
+tLesaercni
+etar
+etinif
+0001 001 0 81 6 2 8.1 6.1 4.1 2.1
+01 51 02 52 03 04 05 06 oe 001
+emiI
+m~SOIYdnOC
+2102 noilareneg
+)sruoh(
+rebmeceD
+.emulov
+mutucssyrhpoiD
+22 ydob
+71:10 •
+C'02 ~s~onor~K 501 tsniaga
+ta
+]lehcneF
+dettolpC°02
+moT
+ta
+rM[
+sunnavsel )T
+dnaA
+,]yrarbiL
+allemalsulonotiL 401
+•Olp~ ,r(
+QIQIugl!.Q....Qi~~ setarevitcudorpeR.5.GIF
+ytisrevinU
+•
+,Rs-eadir"
+•ftsolihP
+negahnepoC[
+301
+yb
+~ aniram
+dedaolnwoD
+cmenorU
+)sruoh42rep(r
+01
+
+132 TOM FENCHEL
+DISCUSSION
+Previous studies have shown that several freshwater ciliates have an optimum
+temperature in the region 25-32°C (Phelps, 1946; Prescott, 1957, a.o.). During
+the presentinvestigation this was also shownto be the case with Diophrysscutum,
+and all species studied - with the possible exception ofLacrymaria - have their
+temperature optimum above 20°e. Thus the optimum temperature is far above
+the average temperature of the sea. In temperate regions temperatures of25-30°C
+2102
+can only be reached in very shallow water on hot summer days. However, the re-
+lations between temperature and reproductive rates ofthe well studied species in-
+rebmeceD
+dicate a better adaptation to low temperatures than found for the Tetrahymena
+studied by Phelps (1946), which would not divide below 5-6°C. The present
+findings indicate that reproduction will occur nearly troughout the year exept in
+22
+very shallow water during periods ofextreme cold.
+71:10
+Studies on field populations of sand ciliates indicated multiplication even at
+o +
+to 1°C (Fenchel, 1967,and unpublished observations).It is possible that the
+ta
+other species studied may divide at even lower temperatures than 4°C like Uro-
+]lehcneF
+nema which divided at O°e. Efimoff(1924) found that Paramecium has a genera-
+tion time of 13days at O°e. Ifa long lag perioddue tocoldadaptationexists, my
+experiments have been too short to show these very slow rates.
+moT
+It is obvious that the standing crop will not be a measure of the biological
+activity when comparisons at different temperatures are made. The population rM[
+sizesneed not decrease much with decreassing temperatures since the smallerrate
+,]yrarbiL
+ofreproduction will be counteracted by a smaller rate ofpredation. Some morta-
+lity factors will of course remain constant and a small decrease in population size
+of ciliates may therefore be expected in winter though not at all comparable to
+ytisrevinU
+the decrease in the reproductive rate which will be 10 to 20 times lower at 4°C
+than at 20°e. A small decrease in size ofciliate populations was actually found
+in field populations (Fenchel, 1967). In contrast, several groups of micro-meta-
+zoans do not reproduce at all in winter (Muus, 1967; Theisen, 1966) and field negahnepoC[
+populations of species belonging to these groups show much more pronounced
+summer peaks and winter minima.
+It is well known that when the total animal kingdom is considered the repro-
+ductive potential tends to decrease with increasing body size (see Smith, 1954).
+yb
+A clear correlation between body size and reproductive potential within an
+dedaolnwoD
+animalgrouphas not, however, been demonstrated before. This correlationallows
+one to estimate the generation time of a ciliate species when its body volume is
+known and the great variation in reproductive potential within the ciliates may
+be explained by the greatvariationin sizeofthis group (more than three decades).
+The reason why the exponent in the equation r = k X volume-o•44 just takes
+the value -0.44 is not understood. Before a theoretical discussion can be fruitful
+more data should be provided, also from other groups, and the intrinsic rates of
+
+REPRODUCTIVE POTENTIAL OF CILIATES 133
+rfper day)
+1000
+"+virus
+r: rInrR:o
+100
+,
++ 'A.= er
+bact +er-ia ,
+2102
+10
+rebmeceD
+o'
+~0 :1 10
+e.
+6
+0" 4
+3 22
+71:10
+1.5
+12 ta
+]lehcneF
+I.!
+105
+moT
+102
+101 rM[
+,]yrarbiL
+0.001
+ytisrevinU
+negahnepoC[
+0.1 10 100 1000 days 10000
+0.3Q40.6 1 46810 20 hours 1 yecr
+GENERATION TIME(T)
+FIG.6. Graph showingtheinterrelationshipsbetweenr, A,T and Roand themaximalreproduc- yb
+tive ratesofsomeanimals. Redrawn andmodifiedafterSmith(1954). Dataon reproductiverates dedaolnwoD
+havebeentaken from Smith when not otherwisestated in the text.
+natural increase should be compared at the optimum temperature rather than at
+an arbitrarily chosen temperature.
+Fig. 6 allows one to compare the reproductive potential (r and Ie), generation
+time and the net reproductive rate per generation (R a) for all types of organisms
+from virus to man.
+
+134 TOM FENCHEL
+Measurements of r of bacteria are numerous. The data on Escherichia coli
+represents populations grown on peptone broth and glucose respectively and
+show the order ofmagnitude ofr for bacteria.
+The data on ciliates derive from the present study (20°C values, thus some-
+what below optimumrate in contrast to other data on the figure) except those on
+Paramecium caudatum and Tetrahymenapyriformis which fit into the present data
+accordingto theirsizes(Datafrom Andrewartha & Birch, 1954andPhelps, 1946).
+Since several groups of protozoa - especially within the flagellates - contain 2102
+species which are much smaller than the smallest ciliates it is probable that the
+range ofthe reproductive rates ofprotozoa in general should be extended some- rebmeceD
+what in the direction of higher rates as indicated on Fig. 6.
+Due to the difficulties in calculating the reproductive potential of metazoans
+not multiplying by division there are still very few data with which the present 22
+findings may be compared. Most ecologists have given egg numbers, develop- 71:10
+ment time and/or estimates ofgeneration time as measures ofreproductive rates,
+but these data are very difficult or impossible to evaluate. As may be seen from ta
+(2) and Fig. 6 and as pointed out by Smith (1954) and Slobodkin (1962) the effect ]lehcneF
+ofincreasing R, (viz. the offspringperfemale per generation) is surprisingly small
+compared with the effect ofdecreasingT. Thus, for example, the tape worm does
+not have an especially high reproductive rate as is commonly believed, in spite of moT
+the enormous numbers ofeggs produced (Fig. 6).
+rM[
+Andrewartha & Birch (1954) give methods available for calculating r in me-
+tazoan populations. This requires a life-table ofthe animalpopulationin question ,]yrarbiL
+and a table of age-specific fecundity. If Ix is the chance ofsurvival at age x and
+mxisthe fecundity at age xthen R o= ~Ixmx. Forapproximatecalculation, T may
+be estimated and r calculated from (2). The real value of T may be difficult to ytisrevinU
+evaluate and methods have been developedfor evaluating r independent ofT and
+the exact value ofT is then calculated from rand R o.
+In the present investigation it is of interest to compare the reproductive po-
+negahnepoC[
+tential ofciliates with that of micro-metazoans living in soft sediments.
+Stiven (1962) gives r = 0.34 per day for Hydra growing under optimal condi-
+tions, and Cole (1960) found r to be 0.12 for the largeflatworm Dugesia. K.Muus
+(1966) found a generation time for the small coelenterate Protohydra, which lives
+in estuarine sediments, of4 days at 20-22°e. Protohydra reproduces by division. yb
+This gives a value of O.17 per day for r which seems low for this small animal dedaolnwoD
+when compared with Hydra. Maybe conditions were not optimal under the cul-
+ture conditions. Frank et al. (1957) found r of Daphniapulex to be 0.30 per day.
+From the studies of Muus (1967) rough estimates ofr may be calculated for
+anumberofbenthicharpacticoids. R, seems to be ofthe magnitude 100(estimated
+from the total number ofeggs produced by eachfemale in mixed cultures and the
+sex ratio) and generation times are 12to 25 days. This gives values ofr between
+0.2 and 0.4. On the basis ofthe studies by Nielsen (1949) and Hopper & Meyers
+
+REPRODUCTIVE POTENTIAL OF CILIATES 135
+(1966) it seems reasonable to estimate r of small nematodes to be somewhat
+smaller - 0.1 to 0.2 - since R, is ofthe same magnitude as that ofharpacticoids
+but T is higher (from 20 days to more than a month). The relatively small varia-
+tion in reproductive potentials within the micro-metazoa (the "meiofauna")
+could be expected since the "group" is per definition of a restricted size range.
+Very small metazoans (rotifers, chaetonotoid gastrotrichs, small turbellarians)
+may be expected to have somewhat higher values of r, but no data are available.
+Thus r ofthe metazoan microfauna may be estimated to lie between 0.1 and 2102
+0.4 per day under optimal conditions at temperatures around 20DC. The corre-
+spondingA.-valuesrenderthese values intelligible. Thus apopulation of nematodes rebmeceD
+can be expected to increase by a factor 1.1-1.2 per day and a population ofhar-
+pacticoidscan be expectedto increase by a factor 1.2to 1.5perday under optimal
+conditions. For comparison populations of ciliates will, at 20DC, increase by a 22
+factor between 1.4 and about 1000 per day according to the species. The very 71:10
+large ciliates like Condylostoma play a relatively small quantitative role in most
+microfaunalcommunitiesin comparisonto smallerspecies. Thedominatingciliate ta
+species in fine sand are ofthe size range 5X 103 to 5X 104 p.3,thus the reproduc- ]lehcneF
+tive rates ofthe dominating species will be 1.0-2.8 (r, per day) or 2.5-20 (A., per
+day). The very small ciliateslike Uronema dominatethefirst phases of successions
+on decaying organic material, but under other conditions they often playa rela- moT
+tively small quantitative role.
+rM[
+The relatively high values of r for Hydra and Daphnia when compared with
+the estimates ofr for harpacticoids, nematodes andProtohydra are probably due ,]yrarbiL
+to the fact that the former are well known laboratory animals especially cultured
+to find the maximal value of r while the latter have been kept in uncontrolled
+mixed cultures. It must also be stressed again that the values ofr for the latter ytisrevinU
+forms are only rough estimates based on partly inadequate data.
+It is believed that exact evaluations of r for a larger number of metazoans
+inhabiting microfaunal communities would be a great advance for the under-
+negahnepoC[
+standing ofthese communities since this will render it possible to make relevant
+comparisons ofthe reproductive potentials between different species and groups
+oforganisms. Such evaluations can probably now be made without great difficul-
+ties since culture methods are beingdevelopedfor a large numberofforms (Hop-
+per & Meyers, 1966; Muus, 1967; Theisen, 1966; von Thun, 1966)provided that yb
+the relevant data from these cultures are collected. dedaolnwoD
+
+136 TOM FENCHEL
+REFERENCES
+ANDREWARTHA, H. G. & L. C. BIRCH. 1954. The Distribution and AbundanceofAnimals. The
+UniversityofChicago Press, Chicago. 782 pp.
+BICK,H. 1964. Die Sukzession der Organismen bei der Selbstreinigung von organisch verunrei-
+nigtem Wasser unter verschiedene Milieubedingungen. Min. ELF des Landes Nordrhein/
+Westfalen. Dusselsorf, 139pp.
+COLE, L.C. 1960. A note on population parameters in cases ofcomplex reproduction. Ecology,
+41: 372-375.
+2102
+EFIMOFF, W.W. 1924. Uber Ausfrieren und Uberkaltung der Protozoen. Arch. Protistenk., 49:
+431-446.
+rebmeceD
+FENCHEL,T. 1967. Theecologyofmarinemicrobenthos.I. Thequantitativeimportanceofciliates
+as comparedwith metazoansin various types ofsediments. Ophelia, 4: 121-137.
+- 1968. Theecology ofmarine microbenthos. II. Thefood ofmarine benthicciliates. Ibid., 5:
+73-121.
+FRANK, P.W., C.D.BOLL & R.W.KELLY. 1957, Vital statistics of Daphnia pulex DeGeer as 22
+related to density. Physiol.Zoo!., 30: 287-305. 71:10
+HALL,R.P. 1967. Nutrition and growth ofprotozoa. In Tze-Tuan Chen (ed.): Research in Pro-
+tozoology, vo!. I, pp. 337-404, Pergamon Press, Oxford.
+ta
+HOPPER, B.E. & S.P.MEYERS. 1966. Aspectsofthe life cycleofmarinenematodes. Helgolander ]lehcneF
+wiss. Meeresunters., 13: 444-449.
+JAMES, T.W. & C.P.READ. 1957. Theeffect ofincubation temperatureon the cell size ofTetra-
+hymenapyriformis. Exp!. Cell. Res., 13: 510-516.
+MACFADYEN, A. 1964. Animal Ecology. Aims and Methods. SirIsaacPitman & Sons Ltd. Lon- moT
+don. 34·~pp.
+Muus, B. 1967. Thefauna ofDanishestuariesandlagoons. MeddrDanm. Fisk.-og Havunders., rM[
+N.S., 5: 1-316.
+,]yrarbiL
+Muus, K. 1966.Noteson thebiology ofProtohydra leuckartiGreef(Hydroidea, Protohydridae).
+Ophelia,3: 141-150.
+NIELSEN, C.OVERGAARD. 1949.Studieson thesoil microfauna. II. Thesoil inhabitingnematodes.
+Naturajut!., 2: 1-131. ytisrevinU
+PHELPS, A. 1946. Growth ofprotozoain pureculture. J. expoZool., 102: 277-292.
+PRESCOTT, D.M. 1957. Relation between multiplication rate and temperature in Tetrahymena
+pyriformis, strains HS and GL. J. Protozool., 4: 252-256.
+SLOBODKIN, L.B. 1962. Growth and Regulation of Animal Populations. Holt, Rinehart and
+negahnepoC[
+Winston, New York. 184pp.
+SMITH, F.E. 1954. Quantitative aspects ofpopulation growth. In E.J.Boell (ed.): Dynamics of
+Growth Processes, pp: 277-294. Princeton University Press, Princeton.
+STIVEN, A.E. 1962. The effect of temperature and feeding on the intrinsic rate of increase of
+threespeciesofHydra. Ecology, 43: 325-328.
+yb
+THEISEN, B.F. 1966. Thelife historyofsevenspeciesofostracodesfrom a Danish brackish-water
+locality. Meddr. Danm. Fisk.- og Havunders., N.S., 4: 215-270. dedaolnwoD
+THUN,WOLFVON. 1966. Eine Methode zur Kultivierung der Mikrofauna. Veroff, lost. Meeres-
+forsch. Bremerh., Sonderband II: 277-280.
+

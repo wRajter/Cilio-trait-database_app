@@ -1,0 +1,569 @@
+MolecularPhylogeneticsandEvolution64(2012)308–317
+ContentslistsavailableatSciVerseScienceDirect
+Molecular Phylogenetics and Evolution
+journal homepage: www.elsevier.com/locate/ympev
+Insights into the phylogenetic and taxonomy of philasterid ciliates (Protozoa,
+Ciliophora, Scuticociliatia) based on analyses of multiple molecular markers
+Feng Gaoa, Laura A. Katzb,c, Weibo Songa, ⇑
+aLaboratoryofProtozoology,InstituteofEvolutionandMarineBiodiversity,OceanUniversityofChina,Qingdao266003,China
+bDepartmentofBiologicalSciences,SmithCollege,Northampton,MA01063,USA
+cPrograminOrganismicandEvolutionaryBiology,UMass-Amherst,Amherst,MA01003,USA
+a r t i c l e i n f o a b s t r a c t
+Articlehistory: Scuticociliatesarearichassemblageofspecieswithmostlyunresolvedphylogeneticrelationships,espe-
+Received30November2011 ciallyintheorderPhilasterida.Inthepresentwork,48newsequencesforthreelinkedgenesarecharac-
+Revised2April2012 terized and phylogenetic trees are constructed to assess the inter- and intra-generic relationships of
+Accepted6April2012
+philasterids.Resultsrevealthefollowing:(1)thecombinedthree-genetreeprovidesmoreresolution
+Availableonline16April2012
+innodesthanintheSSU-rDNAtopologies;(2)thefamilyOrchitophryidaeisnon-monophyleticasitis
+splitintotwopartsandParanophrysmagna,Metanophryssp.andMetanophryssinensisaredesignated
+Keywords:
+incertaesedisatthefamiliallevel;(3)Uronematidaeisnon-monophyleticandHomalogastrasetosaisdes-
+Ciliophora
+ignatedincertaesedis;(4)ParauronematidaebecomesajuniorsynonymofUronematidaeandtheclade
+Scuticociliate
+containingA.haemophila,Miamiensisavidus,andGlauconematrihymenemightstandforanewfamily;
+Multigene-phylogeny
+SSU-rDNA (5)ParauronemabeingajuniorsynonymofUronemaissupportedandP.longumshouldberemovedfrom
+LSU-rDNA thegenusParauronema;(6)UronemaisnotmonophyleticandmolecularanalysesrevealthatUronemasp.
+ITS1-5.8S-ITS2region QDsharesamorerecentcommonancestorwithUronemellaspeciesthanwithotherUronemaspecies;(7)
+ITS2secondarystructure Metanophrysispolyphyletic;(8)multiplesamplesoftwohighlycontroversialspecies,viz.,Mesanophrys
+pugettensisandM.chesapeakensishaveidenticalITS1-5.8S-ITS2regionsequenceandweproposethey
+shouldbesynonymouswithM.carcini,and(9)theremaybecrypticspeciesinM.carciniandM.avidus.
+!2012ElsevierInc.Allrightsreserved.
+1.Introduction basedonSSU-rDNAsequenceshavebeenincreasinglyusedinre-
+cent few years (Foissner et al., 2009; Gao et al., 2010; Li et al.,
+Scuticociliatesarearichassemblageofspeciesthatisgenerally 2010; Miao et al., 2009; Yi et al., 2009; Zhang et al., 2010a,
+smallinsize,shareabasicpatternofsilverlinesystemandinfracil- 2011).However,therelationshipsamongmostfamiliesofthePhil-
+iature, and show similar characters in vivo (Fan et al., 2010, asteridaremainunresolvedasmolecularandmorphologicalinter-
+2011a,b;Lobbanetal.,2011;Small,1967;Songetal.,2003).There pretations conflict: ciliates assigned to the same family with
+isconsiderablevariationinclassificationsoftheciliateswithinthe similaroralstructuresareinseparatedmolecularcladesandcili-
+subclassScuticociliatia.Thisisbecauseclassificationsofscuticocil- ates assigned to different families with different oral features
+iateshavebeenlargelydependentontheinfraciliature,mainlythe sometimes fall in the same molecular clade (Lynn and Strüder-
+structureofbuccalapparatusandgeneralappearanceinmorphol- Kypke, 2005). Therefore, greater taxon sampling as well as addi-
+ogy,andonlyafewdiagnosticcharacteristicsinthescuticociliates tionalmolecularmarkersareneededtoprovideabetterresolution
+canbeusedtodefinetaxa(Fig.1;Corliss,1979;Lynn,2008;Lynn ofthephylogeneticpositionsofscuticociliates.
+andSmall,2002). Duetothepoorresolutionofphylogeniesbasedonsinglegenes,
+Philasterida,whichiscomprisedofover70genera,isthemost multigeneanalysesareprovingusefulininferringbetter-resolved
+controversialgroupofscuticociliates.InCorliss’srevisionbasedon phylogenieswithinciliates(Hewittetal.,2003;Snoeyenbos-West
+infraciliature, Philasterida was divided into 12 families (Corliss, et al., 2002; Yi et al., 2011). Considering the advantage of being
+1979) while in Lynn’s revision it was divided into 16 families accommodatedbyasinglemodelofsequenceevolutionforacom-
+(Lynn,2008).Inordertoinvestigatefurthertheevolutionaryrela- binedanalysis,thelinkedlociITS1-5.8S-ITS2region,LSU-rDNAand
+tionshipsamongthephilasterids,molecularphylogeneticanalyses SSU-rDNAcanbecombinedtoperformmulti-geneanalyses.Such
+combined phylogenetic analyses within scuticociliates are rela-
+tively rare and the ITS1-5.8S-ITS2 region analyses have been re-
+Correspondingauthor.Address:No.5YushanRoad,Qingdao266003,China.
+⇑ ported only twice (Goggin and Murphy, 2000; Miao et al., 2008)
+Fax:+8653282032283.
+whiletheLSU-rDNAlocushasneverbeenusedforthisgroup.
+E-mailaddress:wsong@ouc.edu.cn(W.Song).
+1055-7903/$-seefrontmatter!2012ElsevierInc.Allrightsreserved.
+http://dx.doi.org/10.1016/j.ympev.2012.04.008
+
+F.Gaoetal./MolecularPhylogeneticsandEvolution64(2012)308–317 309
+Fig.1. Classificationsofphilasteridciliates.(A)ClassificationschemeofLynn(2008);(B)ClassificationschemeofCorliss(1979);(C)Infraciliatureofthephilasteridgenera
+appearedinthepresentwork(a,fromBerger(1961);bandc,fromProfant(1965);d,e,h,j,k,m,n,p,q,r,s,t,fromSongetal.(2009);f,fromLynnandBerger(1973);g,from
+LynnandBerger(1972);i,fromMiaoetal.(2009);l,fromBoulandetal.(1987);o,fromDePuytoracandGrolière(1979);u,fromBuitkamp(1977)).ArrowsinFig.Aindicate
+thenewlysuggestedfamiliesinLynn’ssystem,whileadditionalgeneramarkedwith‘‘!’’.NotethatthefamilyassignmentoffivegenerainCorliss’system(Fig.B,markedin
+gray)waschangedinLynn’sarrangement.
+Based on the background above, we have substantially im- byZhangetal.(2010b).ThePCRamplificationsofSSU-rDNAwere
+proved the taxonomic sampling of SSU-rDNA, ITS1-5.8S-ITS2 re- performedwiththeuniversalprimers(Medlinetal.,1988).Afrag-
+gion and LSU-rDNA, providing 48 new sequences, enabling us to mentofapproximately500bpcontainingtheITS1,5.8Sribosomal
+include19philasteridsonLSUtreesforthefirsttime.Thisstudy gene,andITS2wasamplifiedusingprimersITS-F(50-GTAGGTGAA
+alsorepresentsthefirstattempttoreconstructgenericlevelrela- CCT GCG GAA GGA TCA TTA-30) and ITS-R (50-TAC TGA TAT GCT
+tionshipswithinPhilasteridawithmolecularcharactersfrommul- TAAGTTCAGCGG-30)(Shang,2004).ThePCRamplificationsofpart
+tiplegenes.Moreover,morphologicaldataarediscussedinlightof of the LSU-rDNA (ca. 1800bp) were amplified using modified
+themolecularphylogeneticanalysistoelucidateevolutionaryhis- primers 28S-1F (50-ACC/G CGC TGA/G AT/CT TAA GCA T-30) and
+toryofphilasteridciliates. 28S-3R (50-AAC CTT GGA GAC CTG AT-30) from Moreira et al.
+(2007).Sometimes,ITS1-5.8S-ITS2andpartialLSU-rRNAgenewere
+2.Materialsandmethods amplified together using the primers ITS-F and 28S-3R. Cycling
+parameters for PCR amplifications were as follows: 5min initial
+2.1.Ciliatecollectionandidentification denaturation at 94!C; 40 cycles of 30s at 95!C, 1min at 56–
+60!C, and 1–2min at 72!C; with a final extension of 10min at
+Nineteentaxainthisstudywereselectedtorepresentthemor- 72!C. Purified PCR product of the appropriate size was inserted
+phologicaldiversityofPhilasterida(Table1).Microscopicalobser- into the pMD™18-T vector (Takara Biotechnology, Dalian Co.,
+vations and silver impregnations were performed according to Ltd.) and sequenced on an ABI-PRISM 3730 automatic sequencer
+Wilbert(1975).TerminologyandsystematicsfollowLynn(2008). (AppliedBiosystems).
+2.2.DNAextractionandgenesequencing 2.3.Datasetassemblyandalignments
+TotalgenomicDNAwasextractedfromcellsusingtheREDEx- Newly-characterized sequences were combined with relevant
+tract-N-Amp Tissue PCR Kit (Sigma, St. Louis, USA) as described sequences obtained from the NCBI GenBank (Table 1). Seven
+
+310 F.Gaoetal./MolecularPhylogeneticsandEvolution64(2012)308–317
+Table1
+ListofphilasteridspeciesforwhichSSU-rDNA,ITS1-5.8S-ITS2regionandLSU-rDNAwerenewlysequencedinthepresentwork.
+Species Collectionsite SSU-rDNA ITS1-5.8S-ITS2 LSU-rDNA
+Accession Length Accession Length Accession Length
+number (bp) number (bp) number (bp)
+Cohnilembusverminus Gaoetal.(2012) – – JN885093 555 JN885111 1869
+MesanophryscarciniGD ClearWaterBay,HongKong JN885086 1701 JN885104 538 JN885113 1871
+MesanophryscarciniQD JiaozhouBay,Qingdao JN885085 1756 JN885094 541 JN885112 1870
+Metanophryssinensis Gaoetal.(2012) – – JN885092 593 JN885114 1872
+Metanophryssp.QD JiaozhouBay,Qingdao JN885084 1735 JN885110 565 JN885129 1864
+Miamiensissp.QD Mariculturepond,Weifang JN885091 1760 JN885095 554 JN885115 1866
+ParanophrysmagnaQD Mariculturepond,Weifang JN885089 1756 JN885105 548 JN885116 1862
+Parauronemacf.virginianum JiaozhouBay,Qingdao JN885082 1754 JN885106 536 JN885117 1856
+QD
+Parauronemalongum Gaoetal.(2012) – – JN885096 540 JN885118 1862
+ParauronemavirginianumQD JiaozhouBay,Qingdao JN885087 1758 JN885109 536 JN885128 1856
+Philasterapodigitiformis Miaoetal.(2009) – – JN885097 520 JN885119 1863
+Philasteridesarmatalis Gaoetal.(2012) – – JN885098 521 JN885120 1865
+Porpostomanotata Gaoetal.(2012) – – JN885099 532 JN885121 1862
+PseudocohnilembushargisiGD NansanIsland,Zhanjiang JN885090 1648 JN885100 472 JN885122 1822
+Uronemaheteromarinum Gaoetal.(2012) – – JN885101 466 JN885123 1847
+Uronemamarinum Panetal.(2010) – – JN885102 536 JN885124 1856
+Uronemasp.GD DayaBay,Guangdong JN885088 1758 JN885107 532 JN885125 1832
+Uronemasp.QD JiaozhouBay,Qingdao JN885083 1753 JN885108 528 JN885126 1863
+Uronemellaparafilificum Panetal.(2010) – – JN885103 534 JN885127 1863
+Table2
+Datasetassembledinthepresentanalyses.
+Dataset No.oftaxa Description
+1 69 SSU-rDNAsequencesincludingallavailablescuticociliates
+2 39 ITS1-5.8S-ITS2sequencesincludingallavailablescuticociliates
+3 24 LSU-rDNAsequencesincludingallavailablescuticociliates
+4 19 ConcatenationofthealignedSSU-rDNA,ITS1-5.8S-ITS2,andLSU-rDNAsequencesincludingallavailablephilasteridspecies
+5 19 SSU-rDNAsequencesinDataset4
+6 19 ITS1-5.8S-ITS2sequencesinDataset4
+7 19 LSU-rDNAsequencesinDataset4
+datasets were evaluated in the present analyses (Table 2). Se- v.2.4.4(GuindonandGascuel,2003)usingthebestmodelaccord-
+quencesofDataset1werealignedusingHmmerPackageversion ing to the AIC criterion selected by Modeltest v.3.4 (Posada and
+2.3.2. In summary, the secondary structure-based SSU-rDNA se- Crandall, 1998). The reliability of internalbranches was assessed
+quencealignmentofoligohymenophoreansdownloadedfromthe usingnonparametricbootstrappingwith1000replicates.Phyloge-
+European Ribosomal Database (Wuyts et al., 2002) was used as netictreeswerevisualizedwithTreeViewv.1.6.6(Page,1996)and
+the ‘‘seed’’ alignment to build a profile hidden Markov model MEGAv.4(Tamuraetal.,2007).
+(HMM) using Hmmer Package version 2.3.2. The resulting HMM
+profilewasthenusedtocreateanalignmentofthe69sequences
+2.5.Topologytesting
+using Hmmalign within the package. The resulting alignment
+was further modified manually using BioEdit 7.0.0 (Hall, 1999)
+To test the monophyly of the focal group against competing
+and1677characterswereusedforsubsequentphylogeneticanal-
+phylogenetic hypotheses, the Approximately Unbiased (AU) tests
+yses. Sequences of Datasets 2, 3, 5, 6, and 7 were aligned using
+wasused(Shimodaira,2002).MLtreesweregeneratedwithacon-
+Muscle v3.7 with default parameters (Dereeper et al., 2010,
+straintblock,enforcingthemonophyleticconstraintoftherespec-
+2008; Edgar, 2004). Resulting alignments were further edited by
+tivefocusgroupinPAUP(Swofford,2002),underthesamemodel
+eyeusingBioEdit7.0.0.ThefinalalignmentsofDatasets2–7were
+asestimatingtheglobalMLtree.Thethreebestscoringtrees(i.e.
+631,1931,4128,1666,571,1891positionsinlength,respectively.
+with lowest-Ln likelihood score) that met the constraint of each
+alternative hypothesis were used for comparison (Table 3). The
+site-wiselikelihoodswerecalculatedforeachtreetopologyusing
+2.4.Phylogeneticanalyses
+PAUPUP(Calendini and Martin, 2005) interface relying on PAUP⁄
+DOSversionandwerethensubjectedtotheAUtest(Shimodaira,
+Bayesianinference(BI)analyseswereperformedwithMrBayes
+2002) as implemented in Consel (Shimodaira and Hasegawa,
+v.3.1.2 (Ronquist and Huelsenbeck, 2003) using the GTR+I+G
+2001).
+model selected by MrModeltest v.2.2 (Nylander, 2004) according
+to the AIC criterion. Markov chain Monte Carlo (MCMC) simula-
+tionswererunwithtwosetsoffourchainsusingthedefaultset- 2.6.PredictingsecondarystructuresofITS2
+tings: chain length 1,000,000–3,000,000 generations, with trees
+sampled every 100 generations. The first 25% of sampled trees Consensus structures of ITS2 region were predicted using the
+werediscardedasburn-in.Allremainingtreeswereusedtocalcu- Alifold Sever (http://rna.tbi.univie.ac.at/cgi-bin/alifold.cgi), which
+lateposteriorprobabilities(PPs)usingamajorityruleconsensus. predicts structures from an alignment of related RNA sequences
+Maximum likelihood (ML) trees were constructed with PhyML (Hofacker et al., 2002). With the guidance of these consensus
+
+F.Gaoetal./MolecularPhylogeneticsandEvolution64(2012)308–317 311
+Table3
+Approximatelyunbiasedtestresults.Pvalues>0.05arehighlightedingray.
+Fig.2. PhylogenyofthesubclassScuticociliatiainferredbyBayesiananalysisofSSU-rDNAsequences.NumbersatnodesrepresenttheposteriorprobabilityofBayesian
+analysisandthebootstrapvaluesofmaximumlikelihoodoutof1000replicates.Fullysupported(1.00/100%)branchesaremarkedwithsolidcircles.Asterisks(!)indicatethe
+disagreementbetweenBayesianandML.Thescalebarcorrespondstofivesubstitutionsper100nucleotidepositions.Newlysequencedspeciesinthisworkareinbold.
+
+312 F.Gaoetal./MolecularPhylogeneticsandEvolution64(2012)308–317
+Fig.3. PhylogenyofthesubclassScuticociliatiainferredbyBayesiananalysisofITS1-5.8S-ITS2regionsequences(A)andLSU-rDNAsequences(B).Numbersatnodes
+representtheposteriorprobabilityofBayesiananalysisandthebootstrapvaluesofmaximumlikelihoodoutof1000replicates.Fullysupported(1.00/100%)branchesare
+markedwithsolidcircles.Asterisks(!)indicatethedisagreementbetweenBayesianandML.Thescalebarcorrespondsto10/5substitutionsper100nucleotidepositions.
+Newlysequencedspeciesinthisworkareinbold.
+Fig.4. Phylogenyofthe19philasteridsinferredbyBayesiananalysis.NumbersatnodesrepresenttheposteriorprobabilityofBayesiananalysisandthebootstrapvaluesof
+maximumlikelihoodoutof1000replicates.Fullysupported(1.00/100%)branchesaremarkedwithsolidcircles.Asterisks(!)indicatethedisagreementbetweenBayesianand
+ML.Thescalebarcorrespondsto10/5substitutionsper100nucleotidepositions.CirclednumbersinB–Drefertonodenumberscorrespondingtosixnodeswithhighsupport
+inAinordertoevaluatetheinfluenceofcombininggenesonnodalsupport(Table4).
+structures, the secondary structures of ITS2 sequences were pre- ?q=mfold)(Zuker,2003)usingdefaultsettings.Resultsforthevar-
+dicted with Mfold version 3.2 (http://mfold.rna.albany.edu/ iousspecieswerecomparedtorevealthefoldingpatterncommon
+
+F.Gaoetal./MolecularPhylogeneticsandEvolution64(2012)308–317 313
+Table4
+BootstrapsupporttonodesinFig.4.
+Nodes Threegenes SSU-rDNA ITS1-5.8S-ITS2 LSU-rDNA
+1 1.00/100 0.97/! 1.00/88 0.95/74
+2 1.00/79 !/! !/! 0.74/65
+3 1.00/75 !/! 0.59/28 0.91/73
+4 1.00/99 1.00/93 0.99/87 0.86/60
+5 1.00/74 0.81/55 0.91/18 !/!
+6 0.99/91 !/! 0.96/50 0.99/92
+Alterationoverallnodes 0.21/ 25 0.54/ 168 0.54/ 80
+" " " " " "
+to them all, which in turn, established the conserved structural results compared to SSU-rDNA trees (Fig. 3). The differences are
+models for philasterids. The structures were edited for esthetic thatinLSU-rDNAtreesPorpostomanotataclusterswiththeclade
+purposeswithRnaViz2.0(RijkandWachter,1997). ofPhilasterapodigitiformisandPhilasteridesarmataliswithlowsup-
+port(0.73BI,66%ML),whichinturnfallsinthegroupofParauro-
+nema species, Uronema species and Uronemella species with
+3.Results
+moderatesupport(0.84BI,73%ML).
+3.1.Sequencesdepositionandanalyses
+3.4.Comparisonofphylogeneticanalysesbasedon19-taxadatasets
+Atotalof10SSU-rDNA,19ITS1-5.8S-ITS2regions,and19LSU- (Datasets4–7,Table2)
+rDNAsequencedinouranalyseshavebeendepositedintheGen-
+Bankdatabase(Table1).ThenucleotidesequencesofSSU-rDNA, Giventheoverallcongruencebetweenthetopologies,aconcat-
+ITS1-5.8S-ITS2regionandLSU-rDNAamong19philasteridsshare enatedalignmentoftheSSU-rDNA,ITS1-5.8S-ITS2region,andLSU-
+identities of 83.9–99.3% (avg. 90.77%), 58.5–99.3% (avg. 73.61%), rDNAsequencesiscompiledtoevaluatefurtherphylogeneticrela-
+and82.1–99.4%(avg.88.21%),respectively(SupplementaryTables tionships in philasterids. The topologies of the combined three-
+S1andS2).DespiteofthelowsequenceidentitiesofITS1-5.8S-ITS2 genetreeswiththe19taxaarebasicallyconsistentwiththetopol-
+region,theidentitiesof5.8S-rDNAisveryhigh(93.2–100.0%,avg. ogies inferred from the single-gene analyses, and the combined
+97.24%), while the identities of ITS2 region is very low (54.2– dataprovidesbettersupportforrelationshipsthanthesingle-gene
+99.1, avg. 76.20%) and ITS1 even lower (23.6–99.2, avg. 50.98%; analyses (Fig. 4, Table 4): (1) In the phylogenetic trees based on
+SupplementaryTablesS2andS3). Datasets4–6,alltheParauronema,UronemaandUronemellaspecies
+formamonophyleticgroupwithvariablesupport(1.00BI,74%ML;
+3.2.PhylogeneticanalysesbasedonDataset1(SSU-rDNA,69taxa) 0.81BI,55%ML;0.91BI,18%ML),whiletheyformapolytomywith
+the clade of Philaster apodigitiformis, Philasterides armatalis, and
+AllavailableSSU-rDNAsequencesofscuticociliatesareincluded Porpostoma notata in the phylogenetic trees based on Datasets 7
+inourphylogeneticanalyses.Theresultingtopologiesofthephylo- (0.74BI,65%ML);(2)P.apodigitiformis,P.armatalis,andP.notata
+genetic trees generated using two algorithms (MrBayes and cluster together with variable support (1.00 BI, 75% ML; 0.59 BI,
+PhyML)aregenerallyconcordant;therefore,onlyonetopologyis 28%ML;0.91BI,73%ML),exceptinthephylogenetictreesbased
+presented with support values from both analyses indicated on onDatasets5;(3)allthefourphylogenetictreesshowthatParan-
+branches (Fig. 2). The order Philasterida is a well defined mono- ophrysmagna,MetanophryssinensisandMetanophryssp.QDforma
+phyleticgroup(1.00BI,78%ML)andissistertothecladecontain- fully supported clade, which is distant from the clade of two
+ing thigmotrichids and pleuronematids. Within the order Mesanophrys species; (4) the relationships of Cohnilembus vermi-
+Philasterida,all20availablegenerarepresenting10familiesarein- nus, Pseudocohnilembus and Miamiensis are unstable among the
+cluded(Figs.1and2).Parauronemalongumclusterswiththeclade fourphylogenetictrees.
+formedbyEntorhipidiidaeandThyrophylacidae(1.00BI,93%ML; Inordertoevaluatetheinfluenceofcombininggenesonnode
+Fig.2).ExceptforP.longum,otherspeciesofParauronema,Uronema support,weselectsixnodeswithhighsupportinthreegenecom-
+andUronemellaformonecladewithlowsupport(0.78BI,23%ML); binedtrees(Fig.4A).Three,five,andfiveofthesixnodescanbe
+this clade also contains Entodiscus borealis. Two Philaster species found in trees inferred from Datasets 5–7, respectively (Fig. 4B–
+cluster with Philasterides armatalis with high support (1.00 BI, D).Consideringallthesixnodes,thebootstrapvaluesinthecom-
+94%ML).FivespeciesofPseudocohnilembusformafullysupported binedthree-genetreearehigherthaninthethreesingle-genetrees
+monophyletic group. The family Orchitophryidae is divided into (Table4).
+three parts: (1) Paranophrys magna, Metanophrys sinensis and
+Metanophryssp.QDformingafullysupportedcladewhichissister 3.5.PutativesecondarystructuresofITS2inphilasterids
+to the clade of Pseudocohnilembus, (2) Mesanophrys carcini and
+Metanophryssimilisformingapoorlysupported(0.91BI,53%ML) Putative secondary structures of the ITS2 transcript of the 26
+cladewhichthengroupswithHomalogastra,and(3)Anophryoides speciesarepresentedinSupplementaryFigure,fromwhichagen-
+haemophilagroupingwithMiamiensisspp.andGlauconematrihym- eralsecondarystructurewasconstructed(Fig.5).Asthesecondary
+ene. Cohnilembus verminus, Porpostoma notata, and Schizocaryum structure preserved the pairing potential with a compensatory
+dogielieachbranchesseparately. base change (CBC) or hemi-CBC (compensatory change on only
+oneside of a helix pairing) (Coleman, 2003), these taxa shared a
+3.3.PhylogeneticanalysesbasedonDataset2(ITS1-5.8S-ITS2,39 very similar pattern of secondary structure with homologous se-
+Taxa)andDataset3(LSU-rDNA,24Taxa) quence segments having similar locations in spite of distinct se-
+quence variation. The generally putative secondary structure
+Although the ITS1-5.8S-ITS2 and LSU-rDNA trees have fewer modelconsistsof:(1)aclosedloopwiththreehelices(helixI,II,
+speciesthantheSSURNAtrees,analysesoftheselocishowsimilar and III); (2) helix I is highly conserved with a motif 50-GGA vs.
+
+314 F.Gaoetal./MolecularPhylogeneticsandEvolution64(2012)308–317
+etal.,1987).AsOrchitophryaisthetypegenusofOrchitophryidae,
+thetwofamiliesbecameonefamilynamedOrchitophryidae,com-
+prising six mostly marine genera: Orchitophrya, Anophryoides,
+Paranophrys, Metanophrys, Mugardia, and Mesanophrys (Lynn,
+2008).
+Inthepresentanalysis,fiveofthesixParanophryidaegeneraare
+included.AnophryoideshaemophilaalwaysclusterswithMiamiensis
+while Metanophrys sinensis, Metanophrys sp. QD and Paranophrys
+magna always forma fully supportedmonophyletic groupto the
+exclusion of a clade containing Metanophrys similis, Mesanophrys
+spp.andOrchitophryastellarum.AsOrchitophryaisthetypegenus
+ofOrchitophryidae,weproposetoremoveA.haemophila,M.sinen-
+sis,Metanophryssp.QDandP.magnafromthefamilyOrchitophryi-
+dae. The position of A. haemophila is discussed in the following
+section.However,consideringthatthereisnomolecularinforma-
+tionofthetypespeciesofParanophrysandMetanophrys,itwould
+notbe appropriatetocreatea newfamilyforthisgroup.Forthe
+timebeing,M.sinensis,Metanophryssp.QDandP.magnaaredes-
+Fig.5. TheputativesecondarystructuremodeloftheITS2transcriptinphilasterids, ignatedincertaesedisatthefamiliallevel.
+supported by CBCs and hemi-CBCs that preserve the helix pairing. The three
+domains,eachwithastem-loop,arelabeledI–III.Linesinhelicesandunpaired
+regionareinboldtosuggesttherelativelywell-conservednucleotidepositions. 4.3.PhylogeneticassignmentofthefamiliesUronematidaeand
+Parauronematidae
+UCC-30;(3)helixIIisconservedcontainingamotif50-GYGRUUGA NeitherofthefamiliesUronematidaeandParauronematidaeis
+vs.UCUCYCRY-30atitsbase;(4)helixIIIisthelongestofthethree monophyleticinourtrees(Figs.2and3).Thehypothesesthatall
+andbearsthreebulgeloops(Fig.5).Thethreehelicesdifferinsize UronematidaespeciesandParauronematidaespeciesclusteredto-
+fromoneanother:helixIis3bplonginmostspecieswhile5bp gether respectively are also rejected by the AU test (AU<0.001)
+longinUronemaelegansand4bplonginMetanophryssp.,M.sinen- basedonallthedata(Table3).ThefamilyUronematidaewaspro-
+sis,MesanophryscarciniGD,M.carciniQD,andOrchitophryastella- posed by Thompson (1964) for the genus Uronema. According to
+rum; helix II was from 7 to 11bp; helix III was longest and the classification schemes of Corliss (1979) and Lynn (2008),
+generally35–38bplong. HomalogastraandUronemellawerealsoassignedtoUronematidae.
+However,basedonourphylogeneticanalysis,Homalogastrasetosa
+doesnotclusterwithUronemaandUronemellaandinsteadshowsa
+4.Discussion
+closerelationshipwithMesanophrysspp.andM.similis(Fig.2)and
+isclosertoMiamiensisandAnophryoideshaemophila(Fig.3A).Thus,
+4.1.ComparisonofsequencesandtopologiesbasedonSSU-rDNA,
+wedesignateH.setosaasincertaesedisduetoitsunresolvedposi-
+ITS1-5.8S-ITS2regionandLSU-rDNA
+tionrelativetodifferentdatasets.
+ThefamilyParauronematidaewasproposedbySmallandLynn
+HereweshowthateitherITS-5.8S-ITS2regionorLSU-rDNAcan
+(1985)tocontainthegeneraofParauronema,Miamiensis,Glauco-
+inferwell-supportednodesofthephilasterids.Furthermore,most
+nema and Potomacus. However, Parauronema spp. do not cluster
+ofthenodesintheindividualgenetrees(Fig.4CandD)arecongru-
+with the putative relatives, viz. Miamiensis and Glauconema and
+entwiththosethatarewellsupportedintheSSU-rDNAanalyses
+was synonymized with Uronema (Foissner, 1971). Likewise, the
+(Figs. 2 and 3B). Though ITS1-5.8S-ITS2 region and LSU-rDNA do
+family Parauronematidae, whose type genus is Parauronema,
+notprovidemoreresolutionthanSSU-rDNA,thecombinedthree-
+shouldbecomethejuniorsynonymofUronematidaewiththegen-
+gene trees do provide better support in nodes that were poorly
+era under Parauronematidae being assigned to Uronematidae.
+supportedin theSSU-rDNA gene topologies (e.g. nodes1, 2, 3 in
+However,thecurrentstudyshowsthatMiamiensisandGlauconema
+Fig. 4A). These results demonstrate that phylogenetic analysis of
+do not group with Uronematidae but show a close relationship
+concatenation of the SSU-rDNA, ITS1-5.8S-ITS2 region, and LSU-
+withA.haemophila.Morphologically,M.avidusandA.haemophila
+rDNA sequences is an efficient way to solve the relationships
+are very similar in buccal apparatus, body size, and body shape
+among scuticociliates. However, many taxa are not sequenced
+andtheydifferonlyinparoralmembrane(twopartsvs.onepart)
+theITS1-5.8S-ITS2regionandLSU-rDNAandweanticipateabetter
+and fewer somatic kineties(12 or 13–14 vs. 16–18). Considering
+resolutionamongscuticociliateswithwhentheITS1-5.8S-ITS2re-
+these, the clade containing A. haemophila, Miamiensis avidus, and
+gionandLSU-rDNAaresequencedfromadditionaltaxa.
+Glauconematrihymenemightstandforanewfamilyifitcontinues
+to be well-supported with additional information of more taxa
+4.2.TaxonomicassignmentofspeciesinthefamilyOrchitophryidae especiallytypespecies.
+Based on the molecular data reported here, the family 4.4.PhylogeneticanalysesofParauronema
+Orchitophryidae is polyphyletic. The hypothesis that all
+Orchitophryidae species clustered together is rejected by the AU All Parauronema spp. do not cluster together and the mono-
+test based on Datasets 1, 2, and 4 (Table 3). The family phylyofthisgenusisrejectedbytheAUtestbasedonourDatasets
+Orchitophryidae was proposed for the genus Orchitophrya which 1,3,and4(Table3).Inouranalyses(Figs.2–4),P.virginianumal-
+wasdescribedoriginallyasaparasiticastomeofechinoderms(Ce- waysclustersintheUronemaclade,whichisconsistentwiththeir
+pede, 1907). Orchitophrya was later placed in the family Para- very similar morphology, the only exception being a two-rowed
+nophryidae, which was created by Small and Lynn (1985) based M1(vs.one-rowed).Additionally,bothU.marinumandP.virginia-
+on the possession of scuticociliate-like oral organelle complexes numhavethesamenumberofsomatickinetiesandinconspicuous
+thataresimilartoothermembersoftheParanophryidae(Bouland extrusomes(Songetal.,2009).Thisobservationsuggeststhatthe
+
+F.Gaoetal./MolecularPhylogeneticsandEvolution64(2012)308–317 315
+difference of M1 does not warrant a separation at generic level data(Table4).Basedonthephylogeneticdata,M.similisisdiver-
+which was also supported by Petz et al. (1995) who argued that gent with its congeners, which is consistent with their morphol-
+U. marinum, the type species of Uronema, sometimes also had a ogy. Metanophrys was defined with the length of the paroral
+paired basal body in M1, i.e. a very short second row. We thus membraneextendedanteriorlytoabouthalfwayalongM2,which
+agree with Foissner (1971) who synonymized Parauronema with can be thus separated from the morphologically closely-related
+Uronema. genusMesanophrysandParanophrys(itstretchedonlytothepos-
+ParauronemalongumwasfirstreportedbySong(1995)andwas teriorendofM2inMesanophrysanditextendedanteriorlytothe
+putinParauronemamainlybecauseofitsapicalplateandtwo-ro- anterior end of M2 in Paranophrys) (Song et al., 2009). However,
+wed M1. However, based on both morphological data and SSU- M. similis can be separated from M. sinensis in: (1) absence (vs.
+rDNAtopology,itwassuggestedthatP.longumberemovedfrom presence)ofextrusomes;(2)3-rowedmembranelle1inM.similis
+thegenusParauronemaandtobeassignedasincertaesediswithin (vs.2-rowedinM.sinensis);(3)lowernumberofbasalbodiesinso-
+thecladecontainingthefamiliesEntorhipidiidaeandThyrophylac- matickinetyNo.1(23–28inM.similisvs.31–39inM.sinensis)and
+idae(Gaoetal.,2012).ThephylogeniesbasedonITS1-5.8S-ITS2re- (4)differentarrangementofthescutica(solitaryandsparselydis-
+gion,LSU-rDNAandthecombinedthree-genetreesalsoshowthe tributedinalongrowinM.similisvs.basalbodiesinpairsandclo-
+same result (Figs. 3 and 4A). Comparison of the ITS2 secondary sely packed in M. sinensis) (Song et al., 2002). Hence the level at
+structurealsoindicatesthathelixIIis7bplonginP.longumwhile whichtheparoralmembraneterminatesanteriorlyisaspeciesle-
+itis9bplonginP.virginianum(SupplementaryFigure).Theresult vel,ratherthanagenus-level,character.
+isconsistentwiththehypothesisthatthestructureofM1should
+notbeusedasadiagnosticcharacteratgenericlevel. 4.7.PhylogeneticanalysesofMesanophrys
+4.5.PhylogeneticanalysesofUronemaandUronemella MesanophryswasproposedbySmallandLynn(1985)andwas
+definedbytwocharacters:(1)M2aslongasM1;(2)theparoral
+UronemaandUronemellaarenotonlymorphologicallysimilar membrane terminates anteriorly at the level of M3. Four species
+toeachotherbutalsoshowacloserelationshipinthephylogenetic ofMesanophryshavebeendescribed:M.maggii,M.carcini,M.pug-
+trees(Figs.2–4).ThehypothesisthatallUronemaspp.clusterto- ettensis,andM.chesapeakensis.However,anexaminationofthelit-
+getherisrejectedbytheAUtest(AU<0.01)basedonDatasets1, erature reveals a very confused taxonomic history of this genus
+2,3,and4(Table3),supportingtheparaphylyofthegenus.Prior anditscloselyrelatedciliategenera.Basedonmorphologicalchar-
+to thisstudy, SSU-rDNAhad onlybeenavailablefromthree Uro- acters,Wiackowskietal.(1999)concludedthatM.carcini,M.pug-
+nema species (U. marinum, U. elegans and U. heteromarinum) and ettensis,andM.chesapeakensisshouldbereferredtoMesanophrys
+twoUronemellaspecies(U.filificumandU.parafilificum)andanaly- maggii.Thishypothesisneededtobetestedbynewevidence,such
+sesofthesesequencesrevealedthatUronemawasnotmonophy- ashostspecificity,lifehistoryormolecularinformation(Wiackow-
+letic(Gaoetal.,2012;Panetal.,2010).Inthepresentstudy,we skietal.,1999).Subsequently,GogginandMurphy(2000)submit-
+isolate another two Uronema species and sequence their SSU- ted two ITS1-5.8S-ITS2 region sequences under the name of M.
+rDNA. The ITS1-5.8S-ITS2 region and LSU-rDNA of four Uronema pugettensis and M. chesapeakensis, which provided a way to test
+speciesandoneUronemellaspeciesarealsosequenced.Ourphylo- whether M. carcini, M. pugettensis, and M. chesapeakensis should
+genetictreesrevealthatthegenusUronemaisparaphyletic,asU. be considered the samespecies. We find that thetwo ITS1-5.8S-
+marinumandUronemasp.GDclusterinthecladeformedbyParau- ITS2regionsequencesofM.pugettensisandM.chesapeakensisare
+ronemavirginianumandEntodiscusborealis,U.elegansandU.heter- identical, and only have three nucleotide site changes compared
+omarinum form a separate clade while Uronema sp. QD clusters tothatofM.carciniQD.Thethreeisolatesformafullysupported
+with Uronemella clade (Figs. 2–4). Noticeably, Uronema sp. QD is clade(Fig.3A),suggestingthattheymightbeconspecific.However,
+assignedinUronemaasitsfeaturesinvivoareverysimilartoUro- duetothelackofadequatemorphologicalinformationandtheab-
+nemaspp.,namelyovalbodyshape,andnon-thigmotacticlocomo- senceofmoleculardata,itisnotcurrentlypossibletodetermine
+tion.However,Uronemasp.QDisalsoverysimilartoUronemella whetherM.maggiiandM.carciniareconspecific.
+spp., vis. post-equatorially positioned cytostome. Moreover, Uro- ThethreeisolatesofM.carciniclustertogetherbutshowsome
+nemaelegansandU.heteromarinumalsohavesubequatorialcyto- differences at molecular level. Comparison of the SSU-rDNA se-
+stome, being distinct from other Uronema spp., which might quences shows that two nucleotide substitutions exist between
+explainwhytheyformaseparateclade.Thissuggeststhatthepo- thatofM.carciniGDandofpreviousM.carcini(AY103189).How-
+sitionofcytostomemightbeaveryimportantcharactertoidentify ever,anotherisolatesfromQingdao(M.carciniQD),whichcorre-
+thesegenerawhileusingcharactersinvivotodistinguishthesetwo sponds well to the diagnostic characteristics of M. carcini and
+generaismisleading.Hence,basedonmoleculardataandthepost- alsohas10-rowedofsomatickinetiesasM.carciniGDdoes,differs
+equatoriallypositionedcytostome,Uronemasp.QDshouldbeas- fromM.carciniGDwith65nucleotidesintheSSU-rDNAsequence,
+signedtothegenusUronemella. 33nucleotidesintheITS1-5.8S-ITS2regionsequenceand69nucle-
+ThereisalsoahypothesisthatUronemamayjustbealarge,di- otides in the LSU-rDNA sequence, indicating that there might be
+versegenus,andthethreelineagesarethetipsofrelatedlineages crypticspeciesinM.carcini.
+withinthelargeclade.Thespeciesincludedintheanalysesarestill
+toofewtorevealdeeprelationships. 4.8.PhylogeneticanalysesofMiamiensis
+4.6.PhylogeneticanalysesofMetanophrys Asamonotypicgenus,MiamiensiswasfirstreportedbyThomp-
+sonandMoewus(1964)forthemarinefacultativeparasiteMiami-
+The present phylogenetic analyses indicate the genus Metan- ensisavidus.SongandWilbert(2000)redescribedM.avidusbased
+ophrys is non-monophyletic, which was supported in previous on the bimorphic paroral membrane with monokinetid anterior
+study(Gaoetal.,2012).ThemonophylyofMetanophrysisevalu- anddikinetidposteriorpartasitsmaincharacteristic.Inthepres-
+atedusingtheAUtests.TheresultsshowthatM.sinensisclustering entstudy,weisolateanotherstrainofM.avidusthatisverymor-
+with Metanophrys sp. is not rejected based on the concatenated phologically similar to M. avidus described by Song and Wilbert
+three genes data while three Metanophrys species clustering to- (2000) but differs in body size (20–30 15–22lm vs. 25–
+!
+gether is rejected based on SSU-rDNA and ITS1-5.8S-ITS2 region 40 15–20lm) and number of somatic kineties (12 vs. 13 or
+!
+
+316 F.Gaoetal./MolecularPhylogeneticsandEvolution64(2012)308–317
+14). Moreover, the new isolate shows great differences at the Coleman, A.W., 2003. ITS2 is a double-edged tool for eukaryote evolutionary
+molecularlevelwiththestrainfromKorea(Jungetal.,2011):68 comparisons.TrendsGenet.19,417–434.
+Corliss,J.O.,1979.TheCiliatedProtozoa:Characterization,ClassificationandGuide
+nucleotide substitutions (sequence divergence 3.86%) between totheLiterature.PergamonPress,Oxford.
+the SSU-rDNA sequences and 124 nucleotide substitutions (se- DePuytorac,P.,Grolière,C.A.,1979.SurleCilieAnophryoidessalmacida(Mugard,
+quencedivergence21.79%)betweentheITS1-5.8S-ITS2regionse- 1949).Nov.Gen.Protistologica2,223–230.
+Dereeper,A.,Audic,S.,Claverie,J.M.,Blanc,G.,2010.BLAST-EXPLORERhelpsyou
+quences. The current SSU-rDNA trees also show that M. avidus
+buildingdatasetsforphylogeneticanalysis.BMCEvol.Biol.10,8.
+QD.doesnotclusterwithM.avidusbutwithAnophryoideshaemo- Dereeper,A.,Guignon,V.,Blanc,G.,Audic,S.,Buffet,S.,Chevenet,F.,Dufayard,J.F.,
+philawhiletogetherthesetaxaformapolytomyintheITS1-5.8S- Guindon,S.,Lefort,V.,Lescot,M.,Claverie,J.M.,Gascuel,O.,2008.Phylogeny.fr:
+robustphylogeneticanalysisforthenon-specialist.NucleicAcidsRes.36,465–
+ITS2 region trees, indicating that there might be cryptic species
+469.
+inM.avidus. Edgar,R.C.,2004.MUSCLE:multiplesequencealignmentwithhighaccuracyand
+highthroughput.NucleicAcidsRes.32,1792–1797.
+Fan,X.,Chen,X.,Song,W.,Al-Rasheid,K.A.,Warren,A.,2010.Twonewmarine
+5.Conclusion scuticociliates,Sathrophilusplanusn.sp.andPseudoplatynematumdengin.sp.,
+with improved definition of Pseudoplatynematum (Ciliophora,
+Oligohymenophora).Eur.J.Protistol.46,212–220.
+TheSSU-rRNAgeneis arichsourceof phylogenetic andtaxo-
+Fan,X.,Hu,X.,Al-Farraj,S.A.,Clamp,J.C.,Song,W.,2011a.Morphologicaldescription
+nomic characters that makes it a powerful tool for evolutionary ofthreemarineciliates(Ciliophora,Scuticociliatia),withestablishmentofa
+reconstruction,andtherefore,ithasshedmuchlightonthephylog- newgenusandtwonewspecies.Eur.J.Protistol.47,186–196.
+Fan,X.,Lin,X.,Al-Rasheid,K.A.S.,Warren,A.,Song,W.,2011b.Thediversityof
+eny of scuticociliates; however, a number uncertainties remain
+scuticociliates(Protozoa,Ciliophora):areportoneightmarineformsfoundin
+within the group (Foissner et al., 2004; Gao et al., 2012; Lynn, coastalwatersofChina,withadescriptionofonenewspecies.ActaProtozool.
+2003,2008;Zhangetal.,2010a).Also,SSU-rDNAmaynotalways 50,219–234.
+beusefulforresolvingphylogeneticquestionsbecauseofthepossi- Foissner, W., 1971. Das silberliniensystem von Uronema parduczi sp. n. (Ciliata,
+Hymenostomatida,Uronematidae).Arch.Protistenkd113,34–50.
+bilitythatspecificregionsofthegenemayevolveatdifferentratesin Foissner, W., Kusuoka, Y., Shimano, S., 2009. Morphological and molecular
+related clades. In this study, we apply two additional molecular characterization of Histiobalantium natans viridis Kahl, 1931 (Ciliophora,
+markers(ITS-5.8S-ITS2regionandLSU-rDNA)toreconstructrela- Scuticociliatia).Eur.J.Protistol.45,193–204.
+Foissner,W.,Moon-vanderStaay,S.Y.,vanderStaay,G.W.M.,Hackstein,J.H.P.,
+tionshipswithinscuticociliatesespeciallyphilasterids.Wefindthat
+Krautgartner, W.D., Berger, H., 2004. Reconciling classical and molecular
+phylogeneticanalysisofconcatenationoftheSSU-rDNA,ITS1-5.8S- phylogenies in the stichotrichines (Ciliophora, Spirotrichea), including new
+ITS2region,andLSU-rDNAsequencesprovideshighersupportfor sequencesfromsomerarespecies.Eur.J.Protistol.4,265–281.
+Gao, F., Fan, X., Yi, Z., Strüder-Kypke, M.C., Song, W., 2010. Phylogenetic
+relationships among scuticociliates. However, as the ITS1-5.8S-
+consideration of two scuticociliate genera, Philasterides and Boveria
+ITS2andLSU-rDNAhaveonlybeensequencedfromasmallnumber (Protozoa,Ciliophora)basedon18SrRNAgenesequences.Parasitol.Int.59,
+oftaxa,mostoftherelationshipsamongscuticociliatesarestillun- 549–555.
+Gao, F., Strüder-Kypke, M.C., Yi, Z., Miao, M., Al-Farraj, S.A., Song, W., 2012.
+known. At the same time, there is still considerable discrepancy
+Phylogeneticanalysisandtaxonomicdistinctionofsixgeneraofpathogenic
+amongmorphologicalstudiesinscuticociliates,asitishardtodistin- scuticociliates (Protozoa, Ciliophora) inferred from sequences of the small
+guishplesiomorphyand apomorphyofmorphologicalcharacters, subunitrRNAgene.Int.J.Syst.Evol.Microbiol.62,246–256.
+Goggin, C.L., Murphy, N.E., 2000. Conservation of sequence in the internal
+whichinturnleadstodifferentcriteriausedtodefinethetaxaamong
+transcribedspacersand5.8SribosomalRNAamonggeographicallyseparated
+differentresearchers.Insummary,morein-depthstudiesonmor- isolates of parasitic scuticociliates (Ciliophora, Orchitophryidae). Dis. Aquat.
+phologyandmoregeneinformationareneededtocriticallyevaluate Organ.40,79–83.
+thediscordancesbetweenmolecularandmorphologicaldataaswell Guindon,S.,Gascuel,O.,2003.Asimple,fastandaccuratealgorithmtoestimate
+largephylogeniesbymaximumlikelihood.Syst.Biol.52,696–704.
+astoelucidategenealogicalrelationshipsofscuticociliates. Hall,T.A.,1999.BioEdit:auser-friendlybiologicalsequencealignmenteditorand
+analysisprogramforWindows95/98/NT.NucleicAcidsSymp.Ser.41,95–98.
+Hewitt,E.A.,Muller,K.M.,Cannone,J.,Hogan,D.J.,Gutell,R.,Prescott,D.M.,2003.
+Acknowledgments
+Phylogenetic relationships among 28 spirotrichous ciliates documented by
+rDNA.Mol.Phylogenet.Evol.29,258–267.
+This work is supported by the Natural Science Foundation of Hofacker, I.L., Fekete, M., Stadler, P.F., 2002. Secondary structure prediction for
+alignedRNAsequences.J.Mol.Biol.319,1059–1066.
+China(ProjectNo.31030059)andtheUnitedStatesNationalSci-
+Jung, S.J., Im, E.Y., Strüder-Kypke, M.C., Kitamura, S.I., Woo, P.T.K., 2011. Small
+ence Foundation (DEB 0816828 and DEB 0919152) to L.A.K. We subunitribosomalRNAandmitochondrialcytochromecoxidasesubunit1gene
+are grateful for the thoughtful comments of the two anonymous sequences of 21 strains of the parasitic scuticociliate Miamiensis avidus
+reviewers.ManythanksareduetoMr.XinpengFan,Mr.Xuming (Ciliophora,Scuticociliatia).Parasitol.Res.108,1153–1161.
+Li, J., Lin, X., Yi, Z., Clamp, J.C., Liu, W., Al-Rasheid, K.A.S., 2010. Molecules or
+Pan,Ms.JieHuang,andMr.XihanLiufortheirkindhelpwithspe- morphogenesis: how to determine the phylogenetic assignment of
+ciesidentificationandexperimentoperation. Paratetrahymena (Protista, Ciliophora, Oligohymenophorea). Zool. Scr. 39,
+499–510.
+Lobban,C.S.,Raymundo,L.M.,Montagnes,D.J.S.,2011.Porpostomaguamensisn.sp.,
+AppendixA.Supplementarymaterial aphilasterinescuticociliateassociatedwithbrownbanddiseaseofcorals.J.
+Eukaryot.Microbiol.58,103–113.
+Lynn,D.,2003.Morphologyormolecules:howdoweidentifythemajorlineagesof
+Supplementarydataassociatedwiththisarticlecanbefound,in
+ciliates(PhylumCiliophora)?Eur.J.Protistol.39,356–364.
+the online version, at http://dx.doi.org/10.1016/j.ympev.2012. Lynn,D.H.,2008.TheCiliatedProtozoa:Characterization,ClassificationandGuide
+04.008. totheLiterature.SpringerVerlag,Dordrecht.
+Lynn, D.H., Berger, J., 1972. Morphology, systematics, and demic variation of
+Plagiopyliella pacifica Poljansky, 1951 (Ciliatea: Philasterina), an
+References entocommensalofstrongylocentrotidechinoids.Trans.Amer.Micros.Soc.91,
+310–336.
+Lynn, D.H., Berger, J., 1973. The Thyrophylacidae, a family of carnivorous
+Berger, J., 1961. Morphology and systematic position of Schizocaryum dogieli, a
+philasterine ciliates entocommensal in strongylocentrotid echinoids. Trans.
+ciliate entocommensal in strongylocentrotid echinoids (Ciliata:
+Amer.Micros.Soc.92,533–557.
+Trichostomatida).J.Protozool.8,363–369.
+Lynn,D.H.,Small,E.B.,2002.PhylumCiliophoraDoflein,1901.In:Lee,J.J.,Leedale,
+Bouland,C.,DePuytorac,P.,Bricourt,E.,1987.Orchitophryastellarum,ciliéprétendu
+G.F.,Bradbury,P.(Eds.),AnIllustratedGuidetotheProtozoaI.AllenPressInc..
+astome,estunscuticocilié.Ann.Sci.Nat.Zool.Paris13,249–257.
+Lynn, D.H., Strüder-Kypke, M., 2005. Scuticociliate endosymbionts of echinoids
+Buitkamp,U.,1977.DieCiliatenfaunaderSavannevonLamto(Elfenbeinküste).Acta
+(phylum Echinodermata): phylogenetic relationships among species in the
+Protozool.16,249–276.
+genera Entodiscus, Plagiopyliella, Thyrophylax, and Entorhipidium (phylum
+Calendini, F., Martin, J.F., 2005. PaupUP v1.0.3.1. A Free Graphical Frontend for
+Ciliophora).J.Parasitol.91,1190–1199.
+Paup DosSoftware.
+⁄ Medlin, L., Elwood, H.J., Stickel, S., Sogin, M.L., 1988. The characterization of
+Cepede,C.,1907.Lacastrationparasitairedesetoilesdemermalesparunnouvel
+enzymatically amplified eukaryotic 16S-like rRNA-coding regions. Gene 71,
+infusoireastome:Orchitophryastellarumn.g.,n.sp.C.R.Acad.Sci.Paris145,
+491–499.
+1305–1306.
+
+F.Gaoetal./MolecularPhylogeneticsandEvolution64(2012)308–317 317
+Miao,M.,Wang,Y.,Li,L.,Al-Rasheid,K.A.S.,Song,W.,2009.Molecularphylogenyof Song,W.,Shang,H.,Chen,Z.,Ma,H.,2002.Comparisonofsomeclosely-related
+the scuticociliate Philaster (Protozoa, Ciliophora) based on SSU rRNA gene Metanophrys-taxawithdescriptionofanewspeciesMetanophryssimilisnov.
+sequencesinformation,withdescriptionofanewspeciesP.apodigitiformissp. spec.(Ciliophora,Scuticociliatida).Eur.J.Protistol.38,45–53.
+n.Syst.Biodivers.7,381–388. Song,W.,Warren,A.,Hu,X.,2009.Free-livingCiliatesintheBohaiandYellowSeas.
+Miao,M.,Warren,A.,Song,W.,Wang,S.,Shang,H.,Chen,Z.,2008.Analysisofthe SciencePress,Beijing,China.
+internaltranscribedspacer2(ITS2)regionofscuticociliatesandrelatedtaxa Song, W., Wilbert, N., 2000. Redefinition and redescription of some marine
+(Ciliophora,Oligohymenophorea)toinfertheirevolutionandphylogeny.Protist scuticociliatesfromChina,withreportofanewspecies,Metanophryssinensis
+159,519–533. nov.spec.(Ciliophora,Scuticociliatida).Zool.Anz.239,45–74.
+Moreira,D.,vonderHeyden,S.,Bass,D.,Lopez-Garcia,P.,Chao,E.,Cavalier-Smith, Song,W.,Zhao,Y.,Xu,K.,Hu,X.,Gong,J.,2003.PathogenicProtozoainMariculture.
+T., 2007. Global eukaryote phylogeny: Combined small- and large-subunit SciencePress,Beijing.
+ribosomalDNAtreessupportmonophylyofRhizaria,RetariaandExcavata.Mol. Swofford,D.L.,2002.PAUP ⁄.PhylogeneticAnalysisUsingParsimony(!andother
+Phylogenet.Evol.44,255–266. methods).Version4,Sunderland,MA.
+Nylander,J.A.,2004.MrModeltestv2.UppsalaUniversity. Tamura,K.,Dudley,J.,Nei,M.,Kumar,S.,2007.MEGA4:MolecularEvolutionary
+Page, R.D.M., 1996. TREEVIEW: an application to view phylogenetic trees on GeneticsAnalysis(MEGA)softwareversion4.0.Mol.Biol.Evol.24,1596–1599.
+personalcomputers.Comput.Appl.Biosci.12,357–358. Thompson,J.C.,1964.AredescriptionofUronemamarinum,andaproposednew
+Pan,H.,Huang,J.,Hu,X.,Fan,X.,Al-Rasheid,K.A.S.,Song,W.,2010.Morphologyand familyUronematidae.TheVirginiaJ.Sci.15,80–87.
+SSU rRNA gene sequences of three marine ciliates from Yellow sea, China, Thompson,J.C.,Moewus,L.,1964.Miamiensisavidusn.g.,n.sp.,amarinefacultative
+including one new species, Uronema heteromarinum nov. spec. (Ciliophora, parasiteintheciliateorderHymenostomatida.J.Protozool.11,378–381.
+Scuticociliatida).ActaProtozool.49,45–49. Wiackowski,K.,Hryniewiecka-Szyfter,Z.,Babula,A.,1999.Howmanyspeciesarein
+Petz,W.,Song,W.,Wilbert,N.,1995.Taxonomyandecologyoftheciliatefauna the genus Mesanophrys (Protista, Ciliophora, facultative parasites of marine
+(Protozoa, Ciliophora) in the endopagial and pelagial of the Weddell sea, crustaceans)?Eur.J.Protistol.35,379–389.
+Antarctica.Protistologica40,1–223. Wilbert,N.,1975.EineverbesserteTechnikderProtargolimprägnationfürCiliaten.
+Posada,D.,Crandall,K.A.,1998.Modeltest:testingthemodelofDNAsubstitution. Mikrokosmos64,171–179.
+Bioinformatics14,817–818. Wuyts,J.,VandePeer,Y.,Winkelmans,T.,DeWachter,R.,2002.TheEuropean
+Profant, R.J., 1965. The Morphology, Systematics and Distribution of Ciliates databaseonsmallsubunitribosomalRNA.NucleicAcidsRes.30,183–185.
+InfaunatingThreeSpeciesofEchinoidsintheEasternPacificOcean.Doctoral Yi,Z.,Song,W.,Gong,J.,Warren,A.,Al-Rasheid,K.A.S.,Al-Farraj,S.A.,Al-Khedhairy,
+Thesis,UniversityofCalifornia. A.A., 2009. Phylogeny of six oligohymenophoreans (Protozoa, Ciliophora)
+Rijk, P.D., Wachter, R.D., 1997. RnaViz, a program for the visualisation of RNA inferredfromsmallsubunitrRNAgenesequences.Zool.Scr.38,323–331.
+secondarystructure.NucleicAcidsRes.25,4679–4684. Yi,Z.,Wang,Y.,Lin,X.,Al-Rasheid,K.A.S.,Song,W.,2011.Phylogenyofsubclass
+Ronquist,F.,Huelsenbeck,J.P.,2003.MRBAYES3:Bayesianphylogeneticinference Scuticociliatia (Protozoa, Ciliophora) using combined data inferred from
+undermixedmodels.Bioinformatics19,1572–1574. genetic,morphological,andmorphogeneticevidence.Chin.J.Oceanol.Limnol.
+Shang, H., 2004. Molecular Phylogeny of Scuticociliatia (Ciliophora, 28,778–784.
+Oligohymenophorea).OceanUniversityofChina,Qingdao. Zhang,Q.,Fan,X.,Clamp,J.C.,Al-Rasheid,K.A.S.,Song,W.,2010a.Descriptionof
+Shimodaira, H., 2002. An approximately unbiased test of phylogenetic tree Paratetrahymenaparawassin.sp.usingmorphologicalandmolecularevidence
+selection.Syst.Biol.51,492–508. and a phylogenetic analysis of Paratetrahymena and other taxonomically
+Shimodaira, H., Hasegawa, M., 2001. Consel: for assessing the confidence of ambiguous genera in the order Loxocephalida (Ciliophora,
+phylogenetictreeselection.Bioinformatics17,1246–1247. Oligohymenophorea).J.Eukaryot.Microbiol.57,483–493.
+Small,E.B.,1967.TheScuticociliatida,aneworderoftheclassCiliatea(phylum Zhang,Q.,Yi,Z.,Song,W.,Al-Rasheid,K.A.S.,Warren,A.,2010b.Thesystematic
+Protozoa,subphylumCiliophora).Trans.Amer.Micros.Soc.86,345–370. positionofParaspathidiumNoland,1937(Ciliophora,Litostomatea?)inferred
+Small,E.B.,Lynn,D.H.,1985.PhylumCiliophoraDoflein,1901.In:Lee,J.J.,Hutner, from primary SSU rRNA gene sequences and predicted secondary rRNA
+S.H.,Bovee,E.D.(Eds.),AnIllustratedGuidetotheProtozoa.Soc.Protozool. structure.Eur.J.Protistol.46,280–288.
+AllenPress,Lawrence,Kansas,pp.393–575,SpecialPubl.. Zhang,Q.,Miao,M.,Strüder-Kypke,M.C.,Al-Rasheid,K.A.S.,Al-Farraj,S.A.,Song,W.,
+Snoeyenbos-West,O.L.,Salcedo,T.,McManus,G.B.,Katz,L.A.,2002.Insightsintothe 2011. Molecular evolution of Cinetochilum and Sathrophilus (Protozoa,
+diversityofchoreotrichandoligotrichciliates(Class:Spirotrichea)basedon Ciliophora, Oligohymenophorea), two genera ofciliates with morphological
+genealogicalanalysesofmultipleloci.Int.J.Syst.Evol.Microbiol.52,1901– affinitiestoscuticociliates.Zool.Scr.40,317–325.
+1913. Zuker, M., 2003. Mfold web server for nucleic acid folding and hybridization
+Song, W., 1995. Morphological studies on the marine pathogenetic ciliate prediction.NucleicAcidsRes.31,3406–3415.
+Parauronema longum nov. spec. (Ciliophora, Scuticociliatida). J. Ocean Univ.
+Qingdao25,461–465.
+

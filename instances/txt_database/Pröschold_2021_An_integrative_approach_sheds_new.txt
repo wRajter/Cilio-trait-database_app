@@ -1,0 +1,1022 @@
+www.nature.com/scientificreports
+OPEN An integrative approach sheds
+new light onto the systematics
+and ecology of the widespread
+ciliate genus Coleps (Ciliophora,
+Prostomatea)
+Thomas Pröschold1*, Daniel Rieser1, Tatyana Darienko2, Laura Nachbaur1,
+Barbara Kammerlander1, Kuimei Qian1,3, Gianna Pitsch4, Estelle Patricia Bruni4,5,
+Zhishuai Qu6, Dominik Forster6, Cecilia Rad‑Menendez7, Thomas Posch4, Thorsten Stoeck6 &
+Bettina Sonntag1
+Species of the genus Coleps are one of the most common planktonic ciliates in lake ecosystems. The
+study aimed to identify the phenotypic plasticity and genetic variability of different Coleps isolates
+from various water bodies and from culture collections. We used an integrative approach to study the
+strains by (i) cultivation in a suitable culture medium, (ii) screening of the morphological variability
+including the presence/absence of algal endosymbionts of living cells by light microscopy, (iii)
+sequencing of the SSU and ITS rDNA including secondary structures, (iv) assessment of their seasonal
+and spatial occurrence in two lakes over a one‑year cycle both from morphospecies counts and high‑
+throughput sequencing (HTS), and, (v) proof of the co‑occurrence of Coleps and their endosymbiotic
+algae from HTS‑based network analyses in the two lakes. The Coleps strains showed a high phenotypic
+plasticity and low genetic variability. The algal endosymbiont in all studied strains was Micractinium
+conductrix and the mutualistic relationship turned out as facultative. Coleps is common in both lakes
+over the whole year in different depths and HTS has revealed that only one genotype respectively one
+species, C. viridis, was present in both lakes despite the different lifestyles (mixotrophic with green
+algal endosymbionts or heterotrophic without algae). Our results suggest a future revision of the
+species concept of the genus Coleps.
+Ciliates of the genus Coleps Nitzsch, 1827 are widely distributed in diverse marine, brackish and freshwater
+habitats1–11. Currently, more than 20 morphological species originally assigned to Coleps, have been described
+since the first report of C. hirtus, the type species12. Later, most of them have been transferred to new genera
+(see details in Table S1). Colepids are morphologically relatively easily recognized due to their armored calcium
+carbonate plates that are characteristic for their overall appearance1,13 (Fig. 1). Diagnostic features for the dif-
+ferentiation of colepid species, which were used for descriptions of genera, are the number of the armor tiers, the
+structure of the tier plates, the presence/absence of armor spines, and the number of adoral o rganelles12. These
+morphological traits were also used for the subdivision of colepids into several genera (for detailed summary
+and morphological definition of the genera; s ee12,14,15). As a result of the subdivision into genera (Table S1), only
+five described morphospecies remained in the genus Coleps: C. amphacanthus Ehrenberg, 1 83316–20, C. elongatus
+Ehrenberg, 1 8311,21, C. hirtus Nitzsch, 18271,22, C. viridis Ehrenberg, 18311, and C. spetai Foissner, 198412.
+1Research Department for Limnology, Mondsee, University of Innsbruck, Mondsee, Austria. 2Experimental
+Phycology and Culture Collection of Algae, University of Göttingen, Göttingen, Germany. 3College of
+Environmental Engineering, Xuzhou Institute of Technology, Xuzhou, People’s Republic of China. 4Limnological
+Station, Department of Plant and Microbial Biology, University of Zürich, Kilchberg, Switzerland. 5Laboratory of
+Soil Biodiversity, University of Neuchâtel, Neuchâtel, Switzerland. 6Department of Ecology, Technical University
+of Kaiserslautern, Kaiserslautern, Germany. 7Culture Collection of Algae and Protozoa, Scottish Association for
+Marine Science, Oban, Scotland. *email: Thomas.Proeschold@uibk.ac.at
+Scientific Reports | (2021) 11:5916 | https://doi.org/10.1038/s41598-021-84265-y 1
+Vol.:(0123456789)
+
+www.nature.com/scientificreports/
+Figure 1. Morphology and phenotypic plasticity of Coleps viridis (A–P, T–V) and Nolandia nolandi (Q–S) from
+life. (A) Overall plate structure in a heavily squeezed specimen. Note the simultaneous occurrence of four and
+five windows in the posterior main tier (arrows), (B–D) Posterior portion with dorsal spines and one caudal
+cilium, (E–J,M) Posterior portion with spines, (K–L) Anterior protion with spines, (N–O) Lateral Wing, (P)
+Pretzel-shaped plate windows of the hirtus-type, (Q–S) Reniform plate windows of the nolandia-type, (T–V)
+Spine-less specimens; scale bar = 20 m (A), 5 μm (B–S), 30 μm (T), 10 μm (U, V). Amt anterior main tiers, As
+anterior spine, Ast anterior secondary tiers, CC caudal cilium, Pmt posterior main tiers, Ps posterior spine, Pst
+posterior secondary tiers, W lateral wing.
+In freshwater habitats such as lakes and ponds, four colepid species can be frequently found even within
+the same water body1–4,23–27, i.e., C. hirtus hirtus, C. hirtus viridis, C. spetai and Nolandia nolandi Kahl, 1930 (=
+formerly C. nolandi). The morphology of these species is very similar except for the structure of the tier plates,
+i.e., the pretzel-shaped hirtus-type in the three former and the reniform nolandi-type in the latter species12,16
+(Fig. 1P–S). Coleps hirtus hirtus and Nolandia nolandi are considered to be heterotrophic omnivores, whereas
+C. hirtus viridis and C. spetai are known to be mixotrophic because they bear endosymbiotic green algae (for
+an ecological summary on the four species, see Foissner et al.1). The latter two are so far separated by wing-
+like protrusions that occur as conspicuous structures in C. spetai only (Fig. 1N–O), whereas both C. hirtus
+subspecies can be distinguished by the grass-green appearance in C. hirtus viridis caused by the possession of
+endosymbionts22. Moreover, the presence of armor spines has as well been considered as a genus-specific feature
+in both Coleps and Nolandia12.
+Phylogenetic analyses of the Prostomatea using SSU rDNA sequences demonstrated that the colepid taxa
+represented a monophyletic lineage although the generic concept within this group is questionable7,9,28. Even the
+species belonging to Coleps in the revision of Foissner et al.12 are not members of the same clade. For example, C.
+Scientific Reports | (2021) 11:5916 | https://doi.org/10.1038/s41598-021-84265-y 2
+Vol:.(1234567890)
+
+www.nature.com/scientificreports/
+# windows wind# o ws # windows # windows Green
+leC ne gl tl h wC idel tl h L wen idg tt hh : # # o w f i ln end go tw hs of anterior of of posterior posto ef r ior Window Caudal an# te o rf io r pos# t eo rf i or Shape of main Cell shape algal
+[µm] [µm] ratio plates rows pr pi lm ata er sy sea cn ot ner di ao rr y pr pi lm ata er sy secondary type cilia spines spines ridge sye mn bd io o- nt
+plates plates
+C. hirtus 40-65 18-35 2.04 6 15-16 4 2 4 2 hirtus 1 1 3-4 not wing-shaped barrel-shaped No
+C. spetai 50-70 35-55 1.35 6 16-18 5 2 4 2-3 hirtus 1 1 4 wing-shaped barrel-shaped Yes
+CIL-2017/5 63.42 34.07 1.89 6 14-16 5 2 5 2 hirtus 1 1 4 wing-shaped barrel-shaped Yes
+CIL-2017/6 56.32 31.67 1.79 6 14-16 5 2 4 2 hirtus 1 1 4 wing-shaped barrel-shaped Yes/No
+CIL-2017/7 56.38 34.56 1.66 6 14-16 5-6 2 4-5 2 hirtus 1 1 4 wing-shaped barrel-shaped Yes
+CIL-2017/8 63.34 33.62 1.89 6 14-16 5 2 4-5 2 hirtus 1 1 4 wing-shaped barrel-shaped Yes/No
+CIL-2017/9 48.20 27.65 1.75 6 14-16 4 2 4 2 hirtus 1 1 4not wing-shaped barrel-shaped No
+CIL-2017/10 57.89 27.51 2.13 6 14-16 4-5 2 5 2 hirtus 1 1 4 wing-shaped barrel-shaped Yes/No
+CIL-2017/13 56.61 29.87 1.92 6 14-16 4-6 2-3 4-5 2 hirtus 1 0 3 wing-shaped barrel-shaped Yes
+CCAP 1613/3 51.26 24.80 2.17 6 12-13 4-5 2 4 2 hirtus 1 0 0not wing-shaped barrel-shaped No
+C. viridis CCAP 1613/4 51.04 31.79 1.64 6 12 4-5 2 4 2 hirtus 1 0 0not wing-shaped barrel-shaped Yes
+CCAP 1613/5 51.61 24.77 2.08 6 12 4 2 4 2 hirtus 1 0 1not wing-shaped barrel-shaped Yes/No
+CCAP 1613/6 45.11 21.47 2.08 6 12 4 2 4 2 hirtus 1 1 3not wing-shaped barrel-shaped No
+CCAP 1613/7 52.71 35.30 1.49 6 14-16 4-6 2 4-5 2-3 hirtus 1 1 3 wing-shaped barrel-shaped Yes
+CCAP 1613/8 55.26 33.56 1.64 6 12-14 4-5 2-3 4-5 2-3 hirtus 1 1 3not wing-shaped barrel-shaped No
+CCAP 1613/9 47.42 25.49 1.85 6 12 4 2 4 2 hirtus 1 0 2not wing-shaped barrel-shaped No
+CCAP 1613/10 44.95 24.46 1.85 6 12-14 3-4 2 4 2 hirtus 1 0 1not wing-shaped barrel-shaped No
+CCAP 1613/11 56.53 30.40 1.89 6 14-16 4-5 2 4-5 2 hirtus 1 0 3not wing-shaped pear-shaped Yes
+CCAP 1613/12 47.62 26.47 1.82 6 12-14 4 2 4 2 hirtus 1 0 3not wing-shaped barrel-shaped No
+C. hirtus CCAP 1613/14 47.07 24.21 1.96 6 12-13 3-5 2 4-5 2 hirtus 1 0 2not wing-shaped barrel-shaped No
+Table 1. Morphological features of the investigated strains compared to those of Coleps hirtus (color-coded in
+blue) and C. spetai (colour-coded in green) according to F oissner22. Constant and divergent features are marked
+in white and orange, respectively.
+amphacanthus is closely related to the genus Levicoleps12, whereas C. hirtus and C. spetai are sisters of Nolandia
+nolandi9.
+To discover the cryptic diversity within colepid species, Barth et al.29 studied the genetic variability of C.
+hirtus, C. spetai and Nolandia nolandi by comparing their mitochondrial apocytochrome b gene. The authors
+analyzed 111 isolates and revealed a high genetic intraspecific diversity within C. hirtus hirtus (9 haplotypes)
+and C. spetai (11 haplotypes) with a clear separation into hetero- and mixotrophic morphotypes and a sister
+to Nolandia nolandi (3 haplotypes). Cryptic diversity has also been reported for other ciliates (peritrichs30,31;
+t intinnids32; h eterotrichs33).
+However, the phenotypic morphological plasticity of the colepid ciliates as well as the stability of the endos-
+ymbiosis with their green algal partners (facultative or obligate) was not investigated so far. Very little is known
+about the identity of green algal endosymbionts in ciliates or even protists and for convenience, they were usually
+designated as zoochlorellae (see Foissner et al.1, for a compilation of algal-bearing planktonic ciliates). Pröschold
+et al.34 investigated one algal strain, which was isolated from C. hirtus and its SSU/ITS rDNA sequence was
+identical with the green alga Chlorella vulgaris, that is frequently found free-living as well as in symbiosis with
+other ciliates such as Paramecium bursaria. Interestingly, the mutualistic relationship among P. bursaria and
+its algal symbiont is flexible indicating that the ciliate can establish a symbiosis also with ‘foreign’ green algae
+derived from other ciliates35. This flexibility has been also described for an unidentified species of the marine
+colepid genus Tiarina, which bears several cryptic algal species of the genus Zooxanthella (previously known as
+Symbiodinium clade A) as endosymbionts36.
+During a one-year sampling campaign, Coleps spp. were regularly found in the plankton of Lake Mondsee
+(Austria) and Lake Zurich (Switzerland). According to morphological discrepancies especially in the collected
+Coleps specimens compared to those of described species, we performed an integrative approach to gain a deeper
+insight into the ciliates as well as their endosymbionts and, moreover, the stability of the symbiosis. Through-
+out different seasons and from different depths, we isolated several Coleps strains with and without green algal
+endosymbionts and compared them to cultivated strains previously collected from other sites. We established
+clonal cultures of both the ciliates and the green algae (in the case of algal-bearing strains) and investigated (i)
+their morphology and (ii) their molecular sequences (from single cells as well as from HTS), (iii) the facultative
+or obligate nature of the association among the partners, (iv) their ecological preferences (co-occurrence), and,
+finally, (v) their seasonal and spatial distribution in the two lakes.
+Results
+Systematics and molecular phylogeny of Coleps. Morphology and phenotypic plasticity. Among the
+clone cultures, we found a broad spectrum of morphological variations (Table 1 + S2). Out of 19 clones compris-
+ing several Coleps strains and one clone of Nolandia nolandi, only two could be assigned at the morphospecies
+level following to the identification key of Foissner et al.1. All others showed more than 20% variation among the
+investigated individual clones according to their morphometric features and made a final identification ques-
+tionable (Table 1). The features which fit to the descriptions of C. hirtus and C. spetai, were marked in blue and
+green in Table 1, respectively (constant features and differing characters are highlighted in white and in orange,
+respectively). The phenotypic plasticity was high among the strains, which can be seen in pie charts in Fig. 3 by
+the color-coding. In detail, the number of plate rings in the anterior and posterior primary and secondary plates
+Scientific Reports | (2021) 11:5916 | https://doi.org/10.1038/s41598-021-84265-y 3
+Vol.:(0123456789)
+
+www.nature.com/scientificreports/
+CCAP 1613/3 *
+CCAP 1613/4 *
+CCAP 1613/5 *
+CIL-2017/6 *
+CIL-2017/8 *
+CIL-2017/9 *
+CIL-2017/10 *
+CCAP 1613/6 *
+CCAP 1613/7 *
+Coleps viridis
+CIL-2017/13 *
+1.00 CCAP 1613/8 *
+90
+CCAP 1613/9 *
+97
+99
+CCAP 1613/10 *
+CCAP 1613/13 *
+CCAP 1613/1 *
+1.00 CCAP 1613/2 *
+100
+100 AM292312
+100
+CCAP 1613/11 *
+1.00 1.00
+98 98 CCAP 1613/14 *
+100 100 Coleps hirtus
+100 100 AM292311
+1.00
+AM292313
+83
+Nolandia nolandi
+99
+CCAP 1613/15 *
+97
+Levicoleps biwae (AB354737)
+1.00
+100 Coleps amphacanthus (KU525296)
+100
+100 Levicoleps taehwae (KT072633)
+1.00
+100 Apocoleps magnus (FJ858213)
+100
+100 Pinacocoleps pulcher (MG020516)
+Apocoleps caoi (HM747137)
+Nolandia orientalis (KM222103)
+Nolandia sinica (FJ858215)
+#
+Tiarina fusa (FJ858217)
+Pinacocoleps tesselatus (KC349950)
+1.00
+Prorodon teres (X71140)
+100
+100
+Prorodon ovum (KM222104)
+100
+0.005 substitutions/site
+Scientific Reports | (2021) 11:5916 | https://doi.org/10.1038/s41598-021-84265-y 4
+Vol:.(1234567890)
+
+www.nature.com/scientificreports/
+◂Figure 2. Molecular phylogeny of the Colepidae (Prostomatea) based on SSU sequence comparisons. The
+phylogenetic trees shown were inferred using the maximum likelihood method based on the data sets (1750
+aligned positions of 34 taxa) using PAUP 4.0a166. For the analyses, the best model was calculated by Modeltest
+3.7. The setting of the best model was given as follows: GTR + I + G (base frequencies: A 0.2796, C 0.1881, G
+0.2526, T 0.2797; rate matrix A–C 1.0338, A–G 2.5616, A–U 1.2578, C–G 0.4974, C–U 4.5509, G–U 1.0000)
+with the proportion of invariable sites (I = 0.6535) and gamma shape parameter (G = 0.6457). The branches in
+bold are highly supported in all analyses (Bayesian values > 0.95 calculated with MrBayes, 5 million generations;
+bootstrap values > 70%, calculated with PAUP, 1000 replicates using maximum likelihood, neighbour-joining,
+and maximum parsimony). The branch marked with a hashtag was not supported in our analyses. The new
+sequences of this study are marked with an asterisk. The mixotrophic (with green algal endosymbionts) and
+heterotrophic (without algal endosymbionts) strains of Coleps are highlighted with green and blue circles,
+respectively.
+was largely constant, the number of plate windows in the anterior and posterior secondary plates varied even
+within one individual, the shape of the plate windows corresponded to the hirtus-type and the nolandia-type,
+respectively, and, the number and presence/absence of anterior and posterior armour spines differed or they
+were absent at all (Fig. 1). The same was true for N. nolandi, variations in the number of plate windows and the
+presence/absence of anterior/posterior armour spines did not correspond to the description.
+SSU phylogeny of the Colepidae (Prostomatea). The SSU and ITS rDNA of the nuclear ribosomal operon were
+sequenced to infer the genetic variability of the investigated strains. The SSU rDNA sequences were aligned
+according to the secondary structure (exemplarily presented for the strain CCAP 1613/7; Fig. S1) and incorpo-
+rated into a dataset, which included all morphologically described representatives of the Colepidae (Prostoma-
+tea; Fig. 2). Our clonal strains (except for strain CCAP 1613/15 = Nolandia nolandi) could be assigned to two
+genetic groups, i.e., group 1 and group 2 (Fig. 2). The strain CCAP 1613/15 is almost identical (99.8%) to the
+SSU rDNA sequence of N. nolandi obtained by Barth et al.29. Group 1 includes strains with and without green
+algal endosymbionts (indicated by green and blue circles in Fig. 2, respectively). Only strain CCAP 1613/14 is
+identical with the SSU rDNA sequence of C. hirtus hirtus (Genbank accession number AM29231129) and repre-
+sents group 2. Our phylogenetic analyses revealed that strains that were morphologically identified as C. hirtus
+and C. spetai could be found in both genetic groups. The only other already sequenced Coleps species, i.e., C.
+amphacanthus was not closely related to the others and genetically belonged to the genus Levicoleps. In addition,
+the other colepid genera, i.e., Nolandia, Pinacocoleps and Levicoleps that were represented by more than one
+species appeared to be also not monophyletic in our analyses and were intertwined with the genus Tiarina. Our
+findings are highly supported in all bootstrap and Bayesian analyses. Only one clade marked with a hashtag in
+Fig. 2 remained unresolved.
+ITS phylogeny and ITS‑2/CBC approach. To decide if the two genetic groups 1 and 2 represented species, the
+ITS regions of the nuclear ribosomal operon were analyzed. First, the ITS-1 and ITS-2 were aligned accord-
+ing to their secondary structures and a phylogenetic tree was calculated using the methods described below.
+Second, the ITS-2 secondary structures were compared using the ITS-2/CBC approach to detect compensatory
+base changes (CBCs) between the groups 1 and 2. The phylogenetic analyses (Fig. 3) supported the subdivision
+into the two groups. The ITS-1 and ITS-2 of the investigated Coleps strains had a length of ~ 165 bp and ~ 210
+bp, respectively, and revealed differences to the typical secondary structures presented by Coleman & Mai37 for
+green algae and plants, but similarity to the structure of Tetrahymena tropicalis38. The ITS-1 of Coleps formed
+only one helix and the ITS-2 missed the helix I but the helices II–IV were present (Fig. 4). The comparison of
+ITS-1 and ITS-2 secondary structures revealed that the two groups did not only differ in their structures, but also
+a CBC in helix II of the ITS-2 (marked with an asterisk in Fig. 4) could be observed, suggesting that both groups
+represented two separate species (Figs. 3 and 4). In an additional step, we tested if the two putative species could
+also be separated by HTS of the V9 SSU rDNA region, which is commonly used in metabarcoding s tudies39,40.
+Therefore, we checked the secondary structure of the investigated groups to detect their usage as marker for
+HTS. In Fig. 5, we demonstrated that each V9 region of the used sequences had a diagnostic part in its structure
+(highlighted in white).
+Systematics and molecular phylogeny of the green algal endosymbionts. Morphology and phe‑
+notypic plasticity of the green algal endosymbiont. Six Coleps strains belonging to group 1 had green algal en-
+dosymbionts with a Chlorella-like morphology (Figs. 2, 6). These unicellular green algae were characterized by
+a spherical to slightly ellipsoid cell shape possessing cup-shaped chloroplasts containing a single pyrenoid sur-
+rounded by two or four starch grains. The cells were 7–12 μm in diameter and reproduced asexually by 2–8 au-
+tospores. The isolated endosymbionts of three Coleps strains (CCAP 1613/7, CIL-2017/13 and CCAP 1613/11)
+did not vary in their morphological features and resembled the appearance of Micractinium (Fig. 6). The mor-
+phology of the isolated endosymbionts was identical to those described for M. conductrix in Pröschold et al.34.
+SSU and ITS phylogeny of the Chlorellaceae. The SSU and ITS rDNA sequences of the endosymbiotic algal
+strains were aligned according to their secondary structures and incorporated into a dataset containing rep-
+resentatives of the Chlorellaceae (Trebouxiophyceae). The sequences of all three strains (CCAP 248/18, CCAP
+248/19, and CCAP 248/20) were almost identical (99.7%) to the strains SAG 241.80 and CCAP 211/83 (marked
+with an asterisk in Fig. 7) that belong to Micractinium conductrix, a species exclusively known as endosymbiont
+Scientific Reports | (2021) 11:5916 | https://doi.org/10.1038/s41598-021-84265-y 5
+Vol.:(0123456789)
+
+www.nature.com/scientificreports/
+CCAP 1613/1
+CCAP 1613/2
+CCAP 1613/4
+CCAP 1613/5
+CIL-2017/6
+CIL-2017/8
+CIL-2017/9
+1.00
+100
+100 CIL-2017/10
+100
+Coleps viridis
+CIL-2017/13
+CCAP 1613/6
+CCAP 1613/7
+CCAP 1613/11
+1.00 CCAP 1613/8
+100
+100
+100 CCAP 1613/9
+CCAP 1613/10
+CCAP 1613/13
+CCAP 1613/3
+CCAP 1613/14 Coleps hirtus
+CCAP 1613/15 Nolandia nolandi
+not sequenced:
+morphological
+CIL-2017/5 features fit to:
+hirtus
+with green algal
+CIL-2017/7
+spetai endosymbiont
+none
+without green algal
+CCAP 1613/12
+constant endosymbiont
+Scientific Reports | (2021) 11:5916 | https://doi.org/10.1038/s41598-021-84265-y 6
+Vol:.(1234567890)
+
+www.nature.com/scientificreports/
+◂Figure 3. Molecular phylogeny of Coleps based on ITS sequence comparisons. The phylogenetic trees shown
+were inferred using the maximum likelihood method based on the data sets (538 aligned positions of 19 taxa)
+using PAUP 4.0a166. For the analyses, the best model was calculated by Modeltest 3.7. The setting of the best
+model was given as follows: HKY + I (base frequencies: A 0.3525, C 0.2245, G 0.1809, T 0.2421; Ti/Tv ration
+= 0.8758) with the proportion of invariable sites (I = 0.6535). The branches in bold are highly supported
+in all analyses (Bayesian values > 0.95 calculated with MrBayes, 5 million generations; bootstrap values >
+70%, calculated with PAUP, 1000 replicates using maximum likelihood, neighbour-joining, and maximum
+parsimony). The pie charts after each strain number indicate the number of morphological features (see details
+in Table 1), which fitted to the characters of C. hirtus (blue) or C. spetai (green). The number of characters
+in white and in orange did not fit to both species. The mixotrophic (with green algal endosymbionts) and
+heterotrophic (without algal endosymbionts) strains of Coleps are highlighted with green and blue circles,
+respectively.
+of Paramecium bursaria34 so far. All SSU and ITS rDNA sequences of M. conductrix had an intron at position 651
+and varied in only seven base positions from each other (data not shown).
+Seasonal and spatial distribution of Coleps in two lakes. Coleps morphotypes were found through-
+out the whole sampling period in Lake Mondsee in higher average numbers than in Lake Zurich (103 vs. 39
+cells/L; Figs. 8, S2). Cell numbers peaked during spring and summer in Lake Mondsee, while in Lake Zurich
+the maximum abundance was observed once in August (Figs. 8 + S2). Algal-bearing Coleps morphotypes were
+mainly detected in the upper meters in both lakes (>80% of total Coleps abundance) whereas the heterotrophic
+ones were only found in the deepest zones (Fig. S2). Coleps morphotypes without algal endosymbionts were
+frequently found in Lake Zurich during summer but rarely in Lake Mondsee (20% vs. 1% of total abundance;
+Fig. S2). In contrast to Lake Zurich, a clear seasonal distribution pattern appeared among depths in Lake Mond-
+see. The mixotrophic Coleps morphotypes were more abundant during spring and summer at 5 m depth, in
+contrast to the deeper water layer during the cold season (Fig. S2).
+The abundance patterns obtained from morphotype-observations of Coleps in both lakes were compared to
+HTS read counts of Coleps V9 sequences. In deeper layers, Coleps reads were one order of magnitude higher in
+Lake Mondsee than in Lake Zurich. In 5 m depth, Coleps reads were almost two orders of magnitude higher in
+Lake Mondsee than in Lake Zurich. From spring till the end of autumn, the abundance of Coleps reads notably
+increased in the 5 m depth of Lake Mondsee but decreased during winter. No seasonal succession pattern could
+be observed for Coleps reads in the deeper layers of Lake Mondsee. By contrast, seasonal Coleps read abundances
+were very similar in both layers of Lake Zurich, with a pronounced simultaneous peak in summer and another
+small peak in spring. Similar to Lake Mondsee, Coleps read abundances were lowest during winter in Lake Zurich.
+Co‑occurrence networks. In the co-occurrence networks based on HTS-data of the two depths in both
+lakes, we only found Coleps group 1 (i.e., C. viridis) and not group 2 (i.e.,C. hirtus; see below). Moreover, we
+identified a significant relationship between the symbiotic green alga M. conductrix and C. viridis only in Lake
+Mondsee (Fig. 9). Apart from M. conductrix, significant correlations in Lake Mondsee were discovered with
+one cryptophyte (Plagioselmis nannoplanctica), one dinoflagellate (Gymnodinium/Peridinium) and several cili-
+ates (Cinetochilum margaritaceum, Spathidium stammeri, Tintinnidium cf. primitivum). In Lake Zurich, hetero-
+trophic and autotrophic flagellates (Chrysochromulina parva, Goniomonas truncata, Kathablepharis sp.), cerco-
+zoa (some uncultured ones and Protaspis grandis), stramenopiles (uncultured Labyrinthulomycetes) and one
+ciliate (Cyclidium glaucoma) were detected as significant co-occurring protists along with C. viridis (Fig. 9).
+Discussion
+Morphology and phenotypic plasticity. The morphological features of the investigated colepid
+strains differed from those described for C. hirtus, C. spetai and even for N. nolandi1 (Fig. 1). Characteristics
+that matched the descriptions were the ciliate cell length and width, the barrel-shaped cell (except for strain
+CIL-2017/7, which was pear-shaped and strain CCAP 1613/15 that had a cylindrical shape), a number of six
+armor tiers, the structure of the armor tiers (hirtus-type or nolandia-type, respectively), and one caudal cilium
+(Table S2). Variations (CV > 20%) were found (i) in the number of plate windows in the posterior/anterior main
+plates even within individual cells, and (ii) in the presence/absence of anterior and posterior spines (Tables 1 +
+S2, Fig. 1). This phenotypic plasticity of the ciliate could also be observed in freshly collected Coleps specimens
+and was therefore not an artifact resulting from cultivation conditions (Fig. 1A). Wickham and G ugenberger43
+hypothesized that the formation of the spines was a response to grazing pressure on C. hirtus; however, this could
+not be confirmed by respective experiments. Nevertheless, spineless specimens of C. hirtus have obviously been
+found before44–47. Luckily, we were able to investigate two strains (CCAP 1613/1 and CCAP 1613/2) that had
+been kept in the CCAP culture collection since the 1950ies and the 1960ies and which did not bear any spines
+or symbionts and could be clearly assigned to C. hirtus (Fig. 1T–V). These observations suggest that without
+predation pressure, colepid ciliates probably do not need to synthesize spines avoiding ingestion by a predator.
+The presence/absence of green algal endosymbionts, one of the diagnostic features for the discrimination
+among C. hirtus subspecies and C. spetai, was also not a stable feature (Table S2). Under culture conditions, some
+strains lost their endosymbionts completely, other strains consisted of symbiotic and aposymbiotic individuals,
+and some strains showed only symbiont-bearing individuals (e.g., CCAP 1613/5 and CIL-2017/6). This indicates
+that the symbiosis is facultative and might be probably influenced by cultivation or environmental conditions
+(presumably, though not tested, food availability). Consequently, the morphological separation of C. hirtus into
+Scientific Reports | (2021) 11:5916 | https://doi.org/10.1038/s41598-021-84265-y 7
+Vol.:(0123456789)
+
+www.nature.com/scientificreports/
+C C AA- AAAC G
+Coleps GUU UG GAAAGGG GGAGGAG UUUUUUGAGUAUA C
+||| || ||||•|| •||••|| |||||••||•||| |
+viridis
+CAA AC CUUUUCC UCUUUUC AAAAAGUUCGUAU A
+A A CAA CGA- A
+C- C U UU
+Coleps GUU UG GGA GCGCAUUGUUGGCGUAGGU U
+hirtus ||| || ||| |||||•••|||||||||•| |
+CAA AC CCU CGCGUGGUAACCGCAUCUA A
+AA U C UC
+ITS-1 CUA- U
+Nolandia GAGGAGGUUUGUUUA UUGUGA U
+nolandi •|||||••|||•||| |||••| |
+UUCCUCUGAACGAAU AACGUU U
+AAAG A
+A
+Helix II Helix III
+UU CGUA -- AUACA ------ GCG CU
+Coleps GC A A GAAC \ GAAG UUCGC UCGG CCAACGAA GUCACUA \
+|| | | |||| A |||| ||||| |||| |||||||| •|||||| C
+viridis
+CG U U CUUG / CUUC AAGCG AGCC GGUUGCUU UAGUGAU /
+CU AAAA UA C---- AAAACG --- UG
+UU A GAU - - ACACA ------ GCG CU
+Coleps GC G A GA CUCCUUU A GAAG C UUGC UCGG CCAACGAA GUCACUA \
+hirtus || | | || |•||||• | |||| | |||| |||| |||||||| •|||||| C
+CG C U CU GGGGAAG A CUUC G AACG AGCC GGUUGCUU UAGUGAU /
+CU A AAA U U C---- AAAACG --- UG
+*
+UU GUA U- AACA ------ GCG CC
+Nolandia GC G A GAACU \ GAA UCGC UCGG CCAACGAA GUCACU U
+nolandi || | | ||||• A ||| |||| |||| |||||||| •||||| |
+CG C U CUUGG / CUU AGCG AGCC GGUUGCUU UAGUGA C
+CU AAA UU C--- CAAACG --- UG
+Helix IV
+AAA
+II Coleps UUUAGAAAA \
+||||||||| U
+viridis
+AAAUCUUUU /
+GUU
+III
+ITS-2 AAAA
+Coleps UUAGAAAA \
+hirtus |||||||| U
+AAUCUUUU /
+IV
+AGUU
+5.8S LSU A AA
+Nolandia UUUA AAAAA U
+nolandi |||| ||||| |
+AAAU UUUUU U
+C GU
+B
+Figure 4. Comparisons of the ITS-1 (A) and ITS-2 (B) secondary structures among the species of Coleps and
+Nolandia. The line structures were drawn with P seudoViewer341. The structures of the helices were calculated
+with mfold42.
+Scientific Reports | (2021) 11:5916 | https://doi.org/10.1038/s41598-021-84265-y 8
+Vol:.(1234567890)
+
+www.nature.com/scientificreports/
+A GAU C CC GA CUU- GGA A UU
+UCCU CC UU GAGUGAU GGU AC CU CCGA UUGAUC \
+Coleps viridis
+|||| || |• •|||||| ||| || || ||•| ||•|•| C
+AGGA GG AG UUCACUA CCA UG GA GGUU AAUUGG /
+A --- A UU AA AAUU AG- A UA
+A GAU C CC GA CUU- GGA A UCUU
+UCCU CC UU GAGUGAU GGU AC CU CCGA UUAG \
+Coleps hirtus
+|||| || |• •|||||| ||| || || ||•| |||| U
+AGGA GG AG UUCACUA CCA UG GA GGUU AAUC /
+A --- A UU AA AAUU AG- A UGCA
+A GAU C CC GA CUU- GGA U UU
+UCCU CC UU GAGUGAU GGU AC CU CUGCUUUG UC \
+Nolandia nolandi
+|||| || |• •|||||| ||| || || |•|||•|| •| U
+AGGA GG AG UUCACUA CCA UG GA GGCGAGAC GG /
+A --- A UU AA AAUU AG- C AA
+Figure 5. Comparisons of the V9 secondary structures among the species of Coleps and Nolandia. The
+structures were calculated with m fold42.
+Figure 6. Morphology and phenotypic plasticity of Micractinium conductrix. (A) from a squeezed cell of Coleps
+viridis, strain CIL-2017/13, (B) isolated strain CCAP 248/20; scale bar = 10 μm.
+Scientific Reports | (2021) 11:5916 | https://doi.org/10.1038/s41598-021-84265-y 9
+Vol.:(0123456789)
+
+www.nature.com/scientificreports/
+Chlorella
+clade SAG 211-11b C. vulgaris (FM205832) CHLORELLA
+C. vulgaris (AB260895)*
+0.99 SAG 37.88 C. lobophora (FM205833)
+73
+62 NC64A C. variabilis (FN298923) *
+63
+SAG 211-6 C. variabilis (FM205849) *
+SAG 3.83 C. heliozoae (FM205850)
+SAG 211-8k C. sorokiniana (FM205859)
+CCAP 248/7 M. pusillum (FM205835) MICRACTINIUM
+CCAP 248/5 M. pusillum (FM205836)
+SAG 72.80 M. pusillum (FM205837)
+1.00
+91 SAG 48.93 M. pusillum (FM205838)
+78
+80 SAG 241.80 M. conductrix (FM205851) *
+50% CCAP 211/83 M. conductrix (FM205852) *
+CCAP 248/18 M. conductrix (endosymbiont of strain CCAP 1613/7) MT253689
+1.00
+1.00 100 CCAP 248/19 M. conductrix (endosymbiont of strain CCAP 1613/11) MT253690
+100 98
+100 97 CCAP 248/20 M. conductrix (endosymbiont of strain CIL-2017/13) MT253691
+100
+CCAP 222/2D H. dictyosphaeroides (GQ487221)
+HEYNIGIA
+CCAP 222/47 H. riparia (GQ487225)
+1.00
+100 CCAP 222/29 H. fallax (GQ487223)
+100 HINDAKIA
+100 CCAP 222/80 H. tetrachotoma (GQ487233)
+SAG 18.91 D. anomala (FM205839)
+DIDYMOGENES
+SAG 30.92 D. palatina (FM205840)
+SAG 2015 A. hantzschii (FM205841) ACTINASTRUM
+NIES 4033 C. ciliaticola (LC228604) CAROLIBRANDTIA
+CCMP 2446 M. planctonica (AY543040, AY543045) MEYERELLA
+1.00
+99 CCAP 283/1 H. parvula (FM205842)
+75 HEGEWALDIA
+99 CCAP 283/3 H. sp. (FM205844)
+Parachlorella SAG 2046 P. beijerinckii (FM205845)
+PARACHLORELLA
+clade
+SAG 211-11g P. kessleri (FM205846)
+SAG 11.86 C. acicularis (FM205847) CLOSTERIOPSIS
+SAG 41.98 D. acuatus (FM205848) DICLOSTER
+0.01 substitutions/site
+Figure 7. Molecular phylogeny of the Chlorellaceae based on SSU and ITS sequence comparisons. The phylogenetic trees shown
+were inferred using the maximum likelihood method based on the data sets (2604 aligned positions of 31 taxa) using PAUP 4.0a166.
+For the analyses, the best model was calculated by Modeltest 3.7. The setting of the best model was given as follows: GTR+I+G (base
+frequencies: A 0.2160, C 0.2732, G 0.2728, T 0.2380; rate matrix A–C 0.8499, A–G 1.2840, A–U 1.1061, C–G 0.6217, C–U 3.1850, G–U
+1.0000) with the proportion of invariable sites (I = 0.6996) and gamma shape parameter (G = 0.5575). The branches in bold are highly
+supported in all analyses (Bayesian values > 0.95 calculated with MrBayes, 5 million generations; bootstrap values > 70%, calculated
+with PAUP, 1000 replicates using maximum likelihood, neighbour-joining, and maximum parsimony). The endosymbionts that were
+previously detected in Paramecium bursaria are marked with an asterisk.
+Scientific Reports | (2021) 11:5916 | https://doi.org/10.1038/s41598-021-84265-y 10
+Vol:.(1234567890)
+
+www.nature.com/scientificreports/
+Figure 8. Abundance of Coleps in Lake Mondsee, Austria (A) and Lake Zurich, Switzerland (B). The numbers
+of individuals per litre were colour-coded.
+Scientific Reports | (2021) 11:5916 | https://doi.org/10.1038/s41598-021-84265-y 11
+Vol.:(0123456789)
+
+www.nature.com/scientificreports/
+Lake Mondsee (5 m depth) Micractinium Protaspis Lake Zurich (5 m depth)
+conductrix grandis Goniomonas
+uncultured truncata
+cercozoa
+Coleps
+viridis
+Coleps uncultured
+viridis cercozoa
+Chryso-
+chromulina
+parva
+uncultured
+Gymnodinium/Peridinium
+Labyrinthulo-
+Cyclidium
+mycetes
+A C glaucoma
+Lake Mondsee (40 m depth) Lake Zurich
+(120 m depth)
+Spathidium
+Tintinnidium
+stammeri
+cf. primitivum Katablepharis
+Coleps sp.
+viridis
+Coleps
+viridis
+Cinetochilum
+Plagioselmis
+margaritaceum
+nannoplanctica Mychonastes
+cf. jurisii
+B Micractinium conductrix D
+Figure 9. Co-occurence network of Coleps viridis in both lakes at two depths (A, B Lake Mondsee, Austria at 5
+m and 40 m depths, respectively; C, D Lake Zurich, Switzerland at 5 m and 120 m depths, respectively) based on
+HTS approach using the V9 region of the SSU.
+the two subspecies may no longer be valid. We clearly demonstrated that the morphological features used for
+species descriptions can vary and have severe consequences for colepid species identification. Moreover, even
+the strains belonging to the groups 1 and 2 discovered by the phylogenetic analyses (Fig. 2) cannot discriminate
+morphotypes because they can neither be assigned to a certain cell morphology nor to the possession of algal
+endosymbionts. This questions the traditional morphology-based taxonomy. The separation of Coleps hirtus
+hirtus, C. hirtus viridis and C. spetai, which Foissner et al.1 differentiated by the presence of zoochlorellae in
+the latter two species and the number of windows in the armor plates, could not be supported by our analyses.
+C. hirtus viridis was originally described by Ehrenberg48,49 as C. viridis and later transferred as synonym of C.
+hirtus by Kahl50 based on almost identical morphological features. However, Foissner22 described C. spetai for
+the green Coleps because of the morphological discrepancies to the Ehrenberg’s C. viridis (presence of only 11
+windows per plate row and smaller cell size in C. viridis; see Table 1 for comparison). Our study has clearly
+demonstrated that most of the morphological features are variable and the limits for species separation were too
+narrow. Therefore, we propose the re-establishment of C. viridis for group 1 and C. hirtus for group 2, both with
+emended descriptions as follows. Considering our findings, the morphological descriptions of C. spetai, C. hirtus
+viridis and C. hirtus hirtus cannot be applied for (sub-) species separation any more. Consequently, we deal with
+a cryptic species complex, i.e., two genetically different groups that are fused in a highly variable morphotype
+including features of all three (sub-) species. To solve this taxonomic problem, two possible scenarios can be
+proposed: (1) We merge the three morphotypes under C. hirtus, the type species of Coleps. As a consequence,
+two new species needed to be proposed for both groups 1 and 2, which could be done following the suggestion
+of Sonneborn51 for the P. aurelia-complex. However, Sonneborn based his new descriptions on results of mat-
+ing experiments, which are not applicable for Coleps here because conjugations have not been reported and the
+conditions for the induction of sexual reproduction are unknown. (2) To avoid confusion by introducing new
+Scientific Reports | (2021) 11:5916 | https://doi.org/10.1038/s41598-021-84265-y 12
+Vol:.(1234567890)
+
+www.nature.com/scientificreports/
+species names, we propose keeping the already existing names, i.e., C. viridis for group 1 and C. hirtus for group
+2 including the synonyms (see below).
+Clonal cultures of both genetically varying Coleps groups have been deposited in the CCAP culture collec-
+tion. Future studies may therefore be able to investigate, for example, sibling among strains or predator-prey
+experiments revealing spine- or wing-formation.
+Coleps viridis Ehrenberg 1831 (printed 1832), Abh. Königl. Akad. Wiss. Berlin 1832: 101.
+Synonym: Coleps spetai Foissner 1984, Stapfia 12: 21-22, Fig. 7, SP: 1984/10 and 1984/11 (lectotype designated
+here deposited in LI, see Aescht 2008: Denisia 23: 179), Coleps hirtus sensu Kahl 1930, Tierwelt Deutschlands
+18: 134.
+Diagnosis: Differed from other colepid ciliates by their SSU and ITS rDNA sequences (MT253680).
+Lectotype (designated here): Fig. II, Tab. XXXIII, 3 in Ehrenberg 1838, Infusionsthierchen als vollkommene
+Organismen, p. 314.
+Improved Description (specifications in brackets apply to our reference strain CCAP 1613/7): Coleps with
+conspicuous armor composed of six tiers with plate windows of the hirtus-type. With or without green algal
+endosymbionts. Cell size 44–63 × 21–35 μm (52–54 × 35–36 μm). Total number of windows in length rows 12–16
+(14–16), number of windows of anterior primary plates 3–6 (4–6), number of windows of anterior secondary
+plates 2–3 (2), number of windows of posterior primary plates 4–5 (4–5), number of windows of posterior
+secondary plates 2–3 (2–3). One caudal cilium (1). With 0-2 anterior (0–1) and 0–5 posterior (1–4) spines,
+respectively.
+Reference material (designated here for HTS approaches): The reference strain CCAP 1613/7 permanently
+cryopreserved at CCAP in a metabolically inactive stage.
+Locality of reference strain: Plankton of Lake Mondsee, Upper Austria, Austria (47° 50′ N, 13° 23′ E).
+Coleps hirtus (O.F. Müller) Nitzsch ex Ersch & Gruber 1827, Allgemeine Encyclopädie der Wissenschaften und
+Künste 16: 69, NT (proposed by Foissner 1984, Stapfia 12: 22, fig. 8): 1984/12 and 1984/13 (LI, in Aescht 2008:
+Denisia 23: 159).
+Protonym: Cercaria hirta O.F. Müller 1786, Animalcula Infusoria: 128, tab. XIX, fig. 17, 18 (lectotype designated
+here).
+Diagnosis: Differed from other colepid ciliates by their SSU and ITS rDNA sequences (MT253687).
+Improved Description: Coleps with spiny armor composed of six tiers with plates of the hirtus-type. Without
+green algal endosymbionts. Cell size 42–52 × 23–28 μm. Total number of windows in length rows 12-13, number
+of windows of anterior primary plates 3-5, number of windows of anterior secondary plates 2, number of windows
+of posterior primary plates 4-5, number of windows of posterior secondary plates 2. One caudal cilium. Without
+anterior and 1-4 posterior spines, respectively.
+Reference strain (designated here for HTS approaches): The strain CCAP 1613/14 permanently cryopreserved
+at CCAP in a metabolically inactive stage.
+Locality of reference strain: Plankton of Lake Piburg, Tyrol, Austria (47° 11′ N, 10° 53′ E).
+Molecular phylogeny of the Colepidae (Prostomatea). The colepids belonging to the Prostomatea
+form a monophyletic lineage in the phylogenetic analyses of SSU rDNA sequences (Fig. 2). Mixotrophic as
+well as heterotrophic Coleps strains that resembled C. hirtus and C. spetai clustered in group 1 whereas group 2
+included only two specimens which were identified as C. hirtus. These findings confirm the results of Barth et
+al.29 with one exception. The authors found a clear separation into mixotrophic and heterotrophic species, which
+were therefore assigned to a C. spetai-(with endosymbionts) and a C. hirtus-group (without endosymbionts),
+respectively. Despite the difficulties of identifying these species by morphology, both groups clearly differed in
+their SSU and ITS rDNA sequences (Fig. 3). The ITS-2/CBC approach introduced for green algae (details in
+Darienko et al.52) clearly demonstrated that both groups represented two separate ciliate species from a molecu-
+lar point of view, which was also confirmed by analyses of the V9 region of the SSU, a region commonly used for
+metabarcoding (Figs. 4 and 5).
+Our study also confirmed the findings of Chen et al.7, Lu et al.9, and Moon et al.28, showing that the generic
+concept of colepid ciliates needs to be revised. None of the genera represented by more than one species is
+monophyletic. For example, the three species of Nolandia belonged to separate lineages. Nolandia nolandi was
+a sister to our studied strains, whereas both other species were closely related to taxa of Apocoleps, Pinacocoleps,
+and Tiarina (Fig. 2). The genus Levicoleps and Coleps amphacanthus formed a monophyletic clade representing
+Scientific Reports | (2021) 11:5916 | https://doi.org/10.1038/s41598-021-84265-y 13
+Vol.:(0123456789)
+
+www.nature.com/scientificreports/
+Coleps
+Haplotype 1b
+viridis
+10 samples
+1 sample
+Austria - freshwater
+Haplotype 1a
+Germany - freshwater
+Haplotype 1c Haplotype 1d Switzerland - freshwater
+Italy - freshwater
+Greece - freshwater
+Mediterranean Sea - marine
+UK - freshwater
+USA - freshwater
+Haplotype 1e
+South Korea - freshwater
+unknown
+Haplotype 2a Haplotype 2b Haplotype 2c Haplotype 2d
+Coleps
+hirtus
+Figure 10. TCS haplotype network inferred from V4 sequences of Coleps viridis and C. hirtus. This network
+was inferred using the algorithm described by Clement et al.64,65. Sequence nodes corresponding to samples
+collected from different geographical regions and from different habitats.
+another example that the generic conception is artificial and needs to be revised. However, to provide a new
+generic concept of colepid ciliates, it is necessary to study more of the described species by using an integrative
+approach including experimental approaches on, e.g., the formation of spines. For example, we clearly demon-
+strated that one key feature, which is the presence/absence of anterior/posterior spines, is highly variable and
+can therefore not be used to separate colepid genera as indicated by Foissner et al.12 (Fig. 1). There is a need for
+more experimental studies with colepids belonging to the Cyclidium viridis and C. hirtus morphotype. Therefore,
+we deposited all clones used in this study in the CCAP culture collection. One option would be to incorporate
+all species into one genus, i.e., Coleps in revised form.
+Endosymbiosis in Coleps. Some strains of Coleps are known to bear green algal endosymbionts1. These
+green algae have Chlorella-like morphology (Fig. 6) and were identified as Micractinium conductrix (Fig. 7). So
+far, this alga was only known as endosymbiont of the ciliate Paramecium bursaria34. All green algal endosym-
+bionts of Coleps harbored this Micractinium species. In contrast, Pröschold et al.34 found that one ciliate strain
+identified as C. hirtus viridis had Chlorella vulgaris as endosymbiont (the algae has been deposited in the Culture
+Collection of Algae and Protozoa under the number CCAP 211/111). Unfortunately, this ciliate strain is not
+available anymore53.
+Ecology and distribution. For limnological studies, the preservation with Bouin’s solution and QPS is
+an appropriate method for quantifying and identifying ciliate species in environmental s amples54. However,
+the quality in characterization of ciliates at the species level is sometimes limited as, in case of Coleps, the char-
+acteristic armored calcium carbonate plates are dissolved by the acidified fixation solution. Therefore, in our
+study, we could only distinguish between algal-bearing (mixotrophic) and non-algal-bearing (heterotrophic)
+Coleps. Despite that limitation, we could clearly see that the heterotrophic ones were only found in the deep-
+est zones of both lakes (Fig. 8A). Not surprisingly, Coleps is often observed in nutrient- and ion-rich and also
+oxygen-depleted freshwater habitats or areas, e.g., sulfurous and crater l akes1,5,6,27,55,56 or even in the sludge of
+wastewater treatment plants57. Mixotrophic individuals of Coleps were mainly found in the upper layers of both
+lakes, whereas in Lake Mondsee we could also detect specimens down to 40 m depth (Fig. 8). In contrast to the
+mero- and monomictic Lake Zurich4,10,58,59, Lake Mondsee is holo- and d imictic60. During mixis events, algal-
+bearing Coleps specimens can be transferred passively from the upper layers into the deeper zones and vice versa.
+Although morphotype countings and HTS analyses reads matched quite well, we found discrepancies that have
+already been discussed before10,61 (Fig. S2).
+Scientific Reports | (2021) 11:5916 | https://doi.org/10.1038/s41598-021-84265-y 14
+Vol:.(1234567890)
+
+www.nature.com/scientificreports/
+Biogeographic aspects (haplotype network). Our metabarcoding approach showed that C. viridis was
+found in both lakes as a common ciliate (Fig. S2). In contrast, C. hirtus could not be detected during the sam-
+pling period. To obtain more information about the distribution of both species, we used the BLASTn search
+algorithm62 (100 coverage, >97% identity) for the V4 and the V9 regions of the SSU and the ITS-2 sequences.
+No records using the V9 and the ITS-2 approaches could be discovered in GenBank, but 25 reference sequences
+using the V4 (Table S3). Together with the newly sequenced strains, we therefore constructed a V4 haplotype
+network (Fig. 10). Both groups are obviously widely distributed and subdivided into five (group 1) and four
+(group 2) haplotypes, respectively. All reference sequences were collected from freshwater habitats except for
+two marine records63 (EU446361 and EU446396; Mediterranean Sea) and showed no geographical preferences.
+Co‑occurrence networks. In the sub-networks of C. viridis in both lakes, we found several significant cor-
+relations that pointed to either potential prey items, e.g., diverse flagellated autotrophic or heterotrophic protists
+or co-occurring ciliates (Fig. 9). Also, the smaller ciliates such as Cinetochilum margaritaceum or Cyclidium glau‑
+coma may as well be considered as food for the omnivorous C. viridis (for a compilation of the food spectrum;
+see Foissner et al.1). However, we identified the endosymbiont M. conductrix and its host C. viridis from both
+sub-networks of Lake Mondsee but not of Lake Zurich (Fig. 9). Despite this result, we want to point out that we
+may probably not find M. conductrix free-living in a water body because outside their ciliate host the algae were
+immediately attacked and killed by so-called Chlorella-viruses66. Therefore, the HTS-detection of M. conductrix
+was probably only together with a host ciliate. This might further explain why the green algae were detected in
+Lake Mondsee even in the aphotic 40 m zone where photosynthesis was impossible and individuals probably
+passively transferred into the deeper area by lake mixis.
+Outlook. As demonstrated in our study, the combination of traditional morphological investigations, which
+includes the phenotypic plasticity of the cloned strains, and modern molecular analyses using both SSU and ITS
+sequencing as well as HTS approaches advise a taxonomic revision of the genus Coleps. This comprehensive and
+integrative approach is also applicable for other ciliate species and genera and will provide new insights into the
+ecology and evolution of this important group of protists.
+Experimental procedures. Study sites, lake sampling and origin of the Coleps strains. Our main study
+sites were Lake Mondsee (Austria) and Lake Zurich (Switzerland), two pre-alpine oligo-mesotrophic lakes that
+were sampled at the deepest point of each lake (Table S4). Water samples were taken monthly from June 2016
+through May 2017 over the whole water column and additionally biweekly at two main depths, i.e., 5 m in both
+lakes, 40 m in Lake Mondsee, and 120 m in Lake Zurich, respectively. A 5-L-Ruttner water sampler was used for
+Lake Zurich and a 10-L-Schindler-Patalas sampler (both from Uwitec, Austria) for Lake Mondsee. Twelve Coleps
+strains were isolated from Lake Mondsee and one from Lake Zurich. Another six clones could be obtained either
+from already successfully cultivated own strains, fresh isolates or from culture collections. Detailed information
+about sampling sites, dates and strain numbers is given in Table S2.
+Seasonal and spatial distribution and abundance. For quantification, subsamples (200-300 mL) were preserved
+with Bouin’s solution (5% f.c.) containing 15 parts of picric acid, 5 parts of formaldehyde (37%) and 1 part
+of glacial acetic acid54. The samples were filtered through 0.8 μm cellulose nitrate filters (Sartorius, Germany)
+equipped with counting grids. The ciliates were stained following the protocol of the quantitative protargol
+staining (QPS) method after S kibbe54 with slight modifications after Pfister et al.67. The permanent slides were
+analyzed by light microscopy up to 1600x magnification with a Zeiss Axio Imager.M1 and an Olympus BX51
+microscope. For identification of Coleps and Nolandia cells, the identification key of Foissner et al.1 was used.
+Microphotographs were taken with a ProgRes C14 plus camera using the ProgRes Capture Pro imaging system
+(version 2.9.0.1, Jenoptik, Jena, Germany).
+Cloning, identification and cultivation of ciliates and endosymbionts. Single cells of Coleps were isolated and
+washed using the Pasteur pipette method68. The isolated strains were cultivated in 400 μl modified Woods Hole
+medium69 (MWC; modified) and Volvic mineral water in a mixture of 5:1 and with the addition of 10 μl of an
+algal culture (Cryptomonas sp., strain SAG 26.80) as food in microtiter plates. These clonal cultures were trans-
+ferred into larger volumes after successful enrichment. All cultures were maintained at 15–21 °C under a light:
+dark cycle of 12:12 h (photon flux rate up 50 mol m−2 s−1).
+For the isolation of their green algal endosymbionts, single ciliates were washed again and transferred into
+fresh MWC medium. After starvation and digestion of any food, after approx. 24 hrs, cells were washed again
+and the ciliates transferred onto agar plates containing Basal Medium with Beef Extract (ESFl; medium 1a in
+Schlösser70). Before placement of the ciliates onto agar plates, 50 μm of an antibiotic mix (mixture of 1% penicil-
+lin G, 0.25% streptomycin, and 0.25% chloramphenicol) were added to prevent bacterial growth. The agar plates
+were kept under the same conditions as described. After growth (6–8 weeks), the algal colonies were transferred
+onto agar slopes (1.5%) containing ESFl medium and kept under the described culture conditions.
+For light microscopic investigations of the algae, Olympus BX51 and BX60 microscopes (equipped with
+Nomarski DIC optics) were used. Microphotographs were taken with a ProgRes C14 plus camera using the
+ProgRes Capture Pro imaging system (version 2.9.0.1, Jenoptik, Jena, Germany).
+PCR, sequencing and phylogenetic methods. Single-cell PCR was used to obtain the sequences of the Coleps
+strains. Before PCR amplification, single cells of Coleps were washed as described above. After starvation fol-
+Scientific Reports | (2021) 11:5916 | https://doi.org/10.1038/s41598-021-84265-y 15
+Vol.:(0123456789)
+
+www.nature.com/scientificreports/
+lowed by additional washing steps, cells were transferred into 5 μm sterile water in PCR tubes and the prepared
+PCR mastermix containing the primers EAF3 and ITS055R71 was added. After this primary PCR amplification
+and subsequent PCR purification, a nested PCR was conducted using the primer combinations EAF3/N1400R
+and N920F/ITS055R71.
+The sequences of the Coleps strains were aligned according to their secondary structures of the SSU and ITS
+rDNA (see detailed folding protocol described in Darienko et al.52) and included into two data sets: (i) 34 SSU
+rDNA sequences (1,750 bp) of representatives of all members of the Prostomatea and (ii) 19 ITS rDNA sequences
+(538 bp) of the investigated strains. Genomic DNA of the green algae was extracted using the DNeasy Plant Mini
+Kit (Qiagen GmbH, Hilden, Germany). The SSU and ITS rDNA were amplified using the Taq PCR Mastermix
+Kit (Qiagen GmbH, Hilden, Germany) with the primers EAF3 and ITS055R. The SSU and ITS rDNA sequences
+of the isolated green algae (aligned according to the secondary structures) were included into a data set of 31
+sequences (2,604 bp) of representatives of the Chlorellaceae (Trebouxiophyceae).
+GenBank accession numbers of all newly deposited sequences can be found in Table S2 and in Fig. 7, respec-
+tively. For the phylogenetic analyses, the datasets with unambiguously aligned base positions were used. To test
+which evolutionary model fit best for both data sets, we calculated the log-likelihood values of 56 models using
+Modeltest 3.772 and the best models according to the Akaike criterion by Modeltest were chosen for the analyses.
+The settings of the best models are given in the figure legends. The following methods were used for the phylo-
+genetic analyses: distance, maximum parsimony, maximum likelihood, and Bayesian inference. Programs used
+included PAUP version 4.0b16473, and MrBayes version 3.2.374.
+The secondary structures were folded using the software mfold42, which uses the thermodynamic model
+(minimal energy) for RNA folding.
+Haplotype networks. The haplotypes of the V4 region were identified among the groups of Coleps (see Fig. S1).
+The present haplotypes and the metadata (geographical origin and habitat) of each strain belonging to the dif-
+ferent haplotypes are given in Table S3. To establish an overview on the distribution of the Coleps groups, the
+V4 haplotypes were used for a BLASTn s earch62 (100% coverage, >97% identity). To construct the haplotype
+networks, we used the TCS network tool64,65 implemented in PopART 75.
+High‑throughput sequencing of the V9 18S rDNA region and subsequent bioinformatic analyses. On each sam-
+pling date, water samples for a high-throughput sequencing approach (HTS) were taken in depths of 5 m and
+40 m at Lake Mondsee and 5 m and 120 m depths in Lake Zurich. DNA extraction, amplification of the V9 SSU
+rDNA, HTS and quality filtering of the obtained raw reads was conducted as described in Pitsch et al.10. After
+quality filtering, all remaining reads were subjected to a two-level clustering strategy76. In the first level, repli-
+cated reads were clustered in SWARM version 2.2.2 using d=177. In the second level, the representative sequences
+of all SWARM OTUs were subjected to pairwise sequence alignments in VSEARCH version 2.11.078 to construct
+sequence similarity networks at 97% sequence similarity. The network sequence clusters (NSCs) resulting from
+the second level of clustering were then taxonomically assigned by running BLASTn analyses against NCBI’s
+GenBank flat-file release version 230.0 and the Coleps SSU sequences obtained from single-cell sequencing. Net-
+work sequence clusters were assigned to Coleps, if the closest BLAST hit of the NSC representative sequence was
+a Coleps reference sequence. Furthermore, the NSC representative sequence had to share a fragment of at least
+48 consecutive nucleotides and at least 90% sequence similarity to a reference sequence in order to be assigned
+to Coleps.
+Co‑occurrence networks. With the protist community data matrix resulting from HTS, we further conducted
+co-occurrence network analyses to assess biotic and abiotic interactions of Coleps. For each lake and depth,
+we ran network analyses with NetworkNullHPC (https ://githu b.com/lente ndu/Netwo rkNul lHPC) following the
+null model strategy developed by Connor et al.79. This strategy was especially designed for dealing with HTS
+datasets and allows for inferring statistically significant correlations between NSCs while minimizing false posi-
+tive correlation signals. We screened the resulting networks for Coleps nodes and extracted their subnetworks
+including all directly neighbouring co-occurrence partners as well as all edges between Coleps and its neighbours
+and the neighbours themselves.
+Received: 20 July 2020; Accepted: 7 January 2021
+References
+1. Foissner, W., Berger, H. & Schaumburg, J. Identification and ecology of limnetic plankton ciliates. Inf. Bay. Land. Wasserwirt. 3(99),
+1–793 (1999).
+2. Weisse, T. & Rammer, S. Pronounced ecophysiological clonal differences of two common freshwater ciliates, Coleps spetai (Pros-
+tomatida) and Rimostrombidium lacustris (Oligotrichida), challenge the morphospecies concept. J. Plankton Res. 28, 55–63 (2005).
+3. Sonntag, B., Posch, T., Klammer, S., Teubner, K. & Psenner, R. Phagotrophic ciliates and flagellates in an oligotrophic, deep, alpine
+lake: Contrasting variability with seasons and depths. Aquat. Microb. Ecol. 43, 193–207 (2006).
+4. Küppers, G. C. & Clas, M. C. Spatiotemporal variations in abundance and biomass of planktonic ciliates related to environmental
+variables in a temporal pond. Argentina. Zool. Stud. 51, 298–313 (2012).
+5. Sichrowsky, U. et al. Limnological characterization of volcanic crater lakes on Uvea Island (Wallis and Futuna, South Pacific). Pac.
+Sci. 68, 333–343 (2014).
+Scientific Reports | (2021) 11:5916 | https://doi.org/10.1038/s41598-021-84265-y 16
+Vol:.(1234567890)
+
+www.nature.com/scientificreports/
+6. Sichrowsky, U. et al. Limnological characterization of the largest freshwater lake in remote Oceania (Lake Letas, Gaua Island,
+Vanuatu). Pac. Sci. 69, 165–180 (2015).
+7. Chen, X., Sharib, S. U. A., Kim, J. H., Jang, S. W. & Shin, M. K. Morphological description and molecular phylogeny of two species
+of Levicoleps (Ciliophora, Prostomatida), L. taehwae nov. spec. and L. biwae jejuensis nov. subspec., collected in Korea. J. Eukaryot.
+Microbiol. 63, 471–480 (2016).
+8. Debastiani, C., Meira, B. R., Lansac-Tôha, F. M., Velho, L. F. M. & Lansac-Tôha, F. A. Protozoa ciliates community structure in
+urban streams and their environmental use as indicators. Braz. J. Biol. 76, 1043–1053 (2016).
+9. Lu, B.-R., Ma, M.-Z., Gao, F., Shi, Y.-H. & Chen, X.-R. Morphology and molecular phylogeny of two colepid species from China,
+Coleps amphacanthus Ehrenberg, 1833 and Levicoleps biwae jejuensis. Zool. Res. 37, 176–185 (2016).
+10. Pitsch, G. et al. Seasonality of planktonic freshwater ciliates: Are analyses based on V9 regions of the 18S rRNA gene correlated
+with morphospecies counts?. Front. Microbiol. 10, 248 (2019).
+11. Zingel, P., Agasild, H., Karus, K., Buholce, L. & Nõges, T. Importance of ciliates as food for fish larvae in a shallow sea bay and a
+large shallow lake. Eur. J. Protistol. 67, 59–70 (2019).
+12. Foissner, W., Kusuoka, Y. & Shimano, S. Morphology and gene sequence of Levicoleps biwae n. gen., n. sp. (Ciliophora, Prostoma-
+tida), a proposed endemic from the ancient Lake Biwa, Japan. J. Eukaryot. Microbiol. 55, 185–200 (2008).
+13. Lynn, D. H. The Ciliated Protozoa: Characterization, Classification and Guide to the Literature (Springer, New York, 2010).
+14. Chen, X. et al. Morphological studies on two marine colepid ciliates from Qingdao, China, Nolandia orientalis spec. nov. and
+Pinacocoleps similis (Kahl, 1933) comb. nov. (Ciliophora, Colepidae). Eur. J. Protistol. 46, 254–262 (2010).
+15. Chen, X. et al. Taxonomic descriptions of three marine colepid ciliates, Nolandia sinica spec. nov., Apocoleps caoi spec. nov. and
+Tiarina fusa (Claparede & Lachmann, 1858) Bergh, 1881 (Ciliophora, Prorodontida). Int. J. Syst. Evol. Microbiol. 62, 735–744
+(2012).
+16. Huttenlauch, I. Morphologie und Morphogenese des Cortex von Coleps amphacanthus. PhD Thesis, University of Tübingen,
+Tübingen, Germany (1986).
+17. Huttenlauch, I. Ultrastructural aspects of the somatic and buccal infraciliature of Coleps amphacanthus Ehrenberg 1833. Proto‑
+plasma 136, 191–198 (1987).
+18. Huttenlauch, I. & Bardele, C. F. Light and electron microscopical observations on the stomatogenesis of the ciliate Coleps ampha‑
+canthus Ehrenberg, 1833. J. Protozool. 34, 183–192 (1987).
+19. Foissner, W. & O’Donoghue, P. J. Morphology and infraciliature of some freshwater ciliates (Protozoa: Ciliophora) from Western
+and South Australia. Invertebr. Taxon. 3, 661–696 (1990).
+20. Kreutz, M. & Foissner, W. The Sphagnum ponds of Simmelried in Germany: A biodiversity hot-spot for microscopic organisms.
+Protozool. Monogr. 3, 1–267 (2006).
+21. Small, E. B. & Lynn, D. H. Phylum Ciliophora Doflein, 1901. In An illustrated guide to the protozoa (eds Lee, J. J. et al.) 393–575
+(Society of Protozoologists, Lawrence, KS, 1985).
+22. Foissner, W. Infraciliatur, Silberliniensystem und Biometrie einiger neuer und wenig bekannter terrestrischer, limnischer und
+mariner Ciliaten (Protozoa: Ciliophora) aus den Klassen Kinetofragminophora. Colpodea und Polyhymenophora. Stapfia 12, 1–165
+(1984).
+23. Griebler, C. et al. Assessment of the ecological integrity of Traunsee (Austria) via analysis of sediments and benthic microbial
+communities. Water Air Soil Pollut. 2(4), 33–62 (2002).
+24. Xu, R. & Cronberg, G. Planktonic ciliates in Western Basin of Lake Ringsjön, Sweden: Community structure, seasonal dynamics
+and long-term changes. Protistology 6, 173–187 (2010).
+25. Posch, T., Eugster, B., Pomati, F., Pernthaler, J. G. & Eckert, E. M. Network of interactions between ciliates and phytoplankton
+during spring. Front. Microbiol. 6, 1289 (2015).
+26. Tirjaková, E., Krajčovičová, K., Illyová, M. & Vd’ačný, P. Interactions of ciliate communities with cyanobacterial water bloom in a
+shallow, hypertrophic reservoir. Acta Protozool. 55, 173–188 (2016).
+27. Schabetsberger, R. et al. First limnological characterization of the crater-lake Billy Mitchell (Bougainville Island, Papua New
+Guinea). Pac. Sci. 71, 29–45 (2017).
+28. Moon, J. H., Kim, J. H. & Jung, J.-H. Taxonomical reinvestigation of the colepid species Pinacocoleps pulcher (Spiegel, 1926) Foissner
+et al., 2008 (Ciliophora: Prorodontida: Colepidae). Acta Protozool. 56, 161–169 (2017).
+29. Barth, D., Tischer, K., Berger, H., Schlegel, M. & Berendonk, T. High mitochondrial haplotype diversity of Coleps sp. (Ciliophora:
+Prostomatida);. Environ. Microbiol. 10, 626–634 (2008).
+30. Gentekaki, E. & Lynn, D. H. Evidence for cryptic speciation in Carchesium polypinum Linnaeus, 1758 (Ciliophora: Peritrichia)
+inferred from mitochondrial, nuclear, and morphological markers. J. Eukaryot. Microbiol. 56, 508–519 (2010).
+31. Gentekaki, E. & Lynn, D. H. Spatial genetic variation, phylogeography and barcoding of the peritrichous ciliate Carchesium
+polypinum. Eur. J. Protistol. 48, 305–313 (2012).
+32. Santoferrara, L. F., Tian, M., Alder, V. A. & McManus, G. B. Discrimination of closely related species in tintinnid ciliates: New
+insights on crypticity and polymorphism in the genus Helicostomella. Protist 166, 78–92 (2015).
+33. Shazib, S. U. A., Vd‘acny, P., Kim, J. H., Jang, S. W. & Shin, M. K. Molecular phylogeny and species delimitation within the ciliate
+genus Spirostomum (Ciliophora, Postciliodesmatophora, Heterotrichea), using the internal transcribed spacer region. Mol. Phy‑
+logen. Evol. 102, 128–144 (2016).
+34. Pröschold, T., Darienko, T., Silva, P. C., Reisser, W. & Krienitz, L. The systematics of “Zoochlorella” revisited employing an integra-
+tive approach. Environ. Microbiol. 13, 350–364 (2011).
+35. Summerer, M., Sonntag, B. & Sommaruga, R. An experimental test of the symbiosis specificity between the ciliate Paramecium
+bursaria and strains of the unicellular green alga Chlorella. Environ. Microbiol. 9, 2117–2122 (2007).
+36. Mordret, S. et al. The symbiotic life of Symbiodinium in the open ocean within a new species of calcifying ciliate (Tiarina sp.).
+ISME J. 10, 1424–1436 (2016).
+37. Coleman, A. W. & Mai, J. C. Ribosomal DNA ITS-1 and ITS-2 sequence comparisons as a tool for predicting genetic relatedness.
+J. Mol. Evol. 45, 168–177 (1997).
+38. Coleman, A. W. Paramecium aurelia revisited. J. Eukaryot. Microbiol. 52, 68–77 (2005).
+39. de Vargas, C. et al. Eukaryotic plankton diversity in the sunlit ocean. Science 348, 1261605 (2015).
+40. Dunthorn, M., Klier, J., Bunge, J. & Stoeck, T. Comparing the hyper-variable V4 and V9 regions of the small subunit rDNA for
+assessment of ciliate environmental diversity. J. Eukaryot. Microbiol. 59, 185–187 (2012).
+41. Byun, Y. & Han, K. PseudoViewer3: Generating planar drawings of large-scale RNA structures with pseudoknots. Bioinformatics
+25, 1435–1437 (2009).
+42. Zuker, M. Mfold web server for nucleic acid folding and hybridization prediction. Nucleic Acid Res. 31, 3406–3615 (2003).
+43. Wickham, S. & Gugenberger, E. Evaluating inducible morphological defenses in the common freshwater ciliate, Coleps hirtus. J.
+Plankton Res. 30, 1315–1321 (2008).
+44. Perty, M. Zur Kenntnis kleinster Lebensformen nach Bau, Funktionen, Systematik, mit Specialverzeichniss der in der Schweiz beo‑
+bachteten. (Jent & Reinert, Bern, 1852).
+45. Kent, W. S. A manual of the Infusoria: Including a description of all known flagellate, ciliate, and tentaculiferous protozoa, British
+and foreign, and an account of the organization and affinities of the sponges. Vol. I–III. (David Bogue, London, 1880–1882).
+46. Smith, J. C. Notes on some new, or presumably new, infusoria. Am. Mon. Microsc. J. 28, 141–148 (1897).
+Scientific Reports | (2021) 11:5916 | https://doi.org/10.1038/s41598-021-84265-y 17
+Vol.:(0123456789)
+
+www.nature.com/scientificreports/
+47. Bhatia, B. L. Protozoa: Ciliophora. In The Fauna of British India, including Ceylon and Burma (ed. Sewell, R. B. S.) 1–493 (Taylor
+and Francis, London, 1936).
+48. Ehrenberg, C. G. Über die Entwicklung und Lebensdauer der Infusionsthiere; nebst ferneren Beiträgen zu einer Vergleichung
+ihrer organischen Systeme. Abh. Akad. Wiss. Berlin 1831, 1–154 (1832).
+49. Ehrenberg, C. G. Die Infusionsthierchen als vollkommene Organismen. Voss, Leipzig. 612 pp. (1838)
+50. Kahl, A. Urtiere oder Protozoa I: Wimpertiere oder Ciliata (Infusoria) 1. Allgemeiner Teil und Prostomata. Tierwelt Dtl. 18, 1–180
+(1930).
+51. Sonneborn, T. M. The Paramecium aurelia complex of fourteen sibling species. Trans. Am. Microsc. Soc. 94, 155–178 (1975).
+52. Darienko, T., Gustavs, L. & Pröschold, T. Species concept and nomenclatural changes within the genera Elliptochloris and Pseu‑
+dochlorella (Trebouxiophyceae) based on an integrative approach. J. Phycol. 52, 1125–1145 (2016).
+53. Reisser, W. The taxonomy of green algae endosymbiotic in ciliates and a sponge. Br. Phycol. J. 19, 309–318 (1984).
+54. Skibbe, O. An improved quantitative protargol stain for ciliates and other planktonic protists. Arch. Hydrobiol. 130, 339–347 (1994).
+55. Gasol, J. M. et al. Diel changes in the microstratification of the metalimnetic community in Lake Cisó. Hydrobiologia 211, 227–240
+(1991).
+56. Gasol, J. M., Guerrero, R. & Pedrós-Alió, C. Seasonal variations in size structure and procaryotic dominance in sulfurous Lake
+Cisó. Limnol. Oceanogr. 36, 860–872 (1991).
+57. Klimek, B. et al. Toxicity of ammonia nitrogen to ciliated protozoa Stentor coeruleus and Coleps hirtus isolated from activated
+sludge of wastewater treatment plants. Bull. Environ. Contamin. Toxicol. 89, 975–977 (2012).
+58. Posch, T., Köster, O., Salcher, M. M. & Pernthaler, J. Harmful filamentous cyanobacteria favoured by reduced water turnover with
+lake warming. Nat. Clim. Change 2, 809–813 (2012).
+59. Yankova, Y., Neuenschwander, S., Köster, O. & Posch, T. Abrupt stop of deepwater turnover with lake warming: Drastic conse-
+quences for algal primary producers. Sci. Rep. 7, 13770 (2017).
+60. Ficker, H., Luger, M. & Gasser, H. From dimictic to monomictic: Empirical evidence of thermal regime transitions in three deep
+alpine lakes in Austria induced by climate change. Freshw. Biol. 62, 1335–1345 (2017).
+61. Stoeck, T. et al. A morphogenetic survey on ciliate plankton from a mountain lake pinpoints the necessity of lineage-specific
+barcode markers in microbial ecology. Environ. Microbiol. 16, 430–444 (2014).
+62. Altschul, S. F., Gish, W., Miller, W., Myers, E. W. & Lipman, D. J. Basic local alignment search tool. J. Mol. Biol. 215, 403–410 (1990).
+63. Alexander, E. et al. Microbial eukaryotes in the hypersaline anoxic L’Atalante deep-sea basin. Environ. Microbiol. 11, 360–381
+(2009).
+64. Clement, M., Posada, D. & Crandall, K. A. TCS: a computer program to estimate gene genealogies. Mol. Ecol. 9, 1657–1659 (2000).
+65. Clement, M., Snell, Q., Walker, P., Posada, D. & Crandall, K. TCS: Estimating gene genealogies. Parallel Distributed Processing
+Symp., Internat. Proc. 2, 184 (2002).
+66. Kang, M., Dunigan, D. D. & Van Etten, J. L. Chlorovirus: A genus of Phycodnaviridae that infects certain Chlorella-like green algae.
+Mol. Plant Pathol. 6, 213–224 (2005).
+67. Pfister, G., Sonntag, B. & Posch, T. Comparison of a direct live count and an improved quantitative protargol stain (QPS) in deter-
+mining abundance and cell volumes of pelagic freshwater protozoa. Aquat. Microb. Ecol. 18, 95–103 (1999).
+68. Pringsheim, E. G. Pure Cultures of Algae, Their Preparation and Maintenance (Cambridge Univ. Press, Cambridge, 1946).
+69. Guillard, R. R. & Lorenzen, C. J. Yellow-green algae with chlorophyllide c. J. Phycol. 8, 10–14 (1972).
+70. Schlösser, U. G. SAG-Sammlung von Algenkulturen at the University of Göttingen, Catalogue of Strains 1994. Bot. Acta 107,
+113–186 (1994).
+71. Darienko, T., Rad-Menéndez, C., Campbell, C. & Pröschold, T. Are there any true marine Chlorella species? Molecular phyloge-
+netic assessment and ecology of marine Chlorella-like organisms, including description of Droopiella gen. nov. Syst. Biodivers. 17,
+811–829 (2019).
+72. Posada, D. ModelTest: phylogenetic model averaging. Mol. Biol. Evol. 25, 1253–1256 (2008).
+73. Swofford, D. L. PAUP* Phylogenetic Analysis Using Parsimony (*and Other Methods), Version 4.0b10. (Sinauer Associates,
+Sunderland, 2002).
+74. Ronquist, F. et al. MrBayes 3.2: Efficient Bayesian phylogenetic inference and model choice across a large model space. Syst. Biol.
+61, 539–542 (2012).
+75. Leigh, J. W. & Bryant, D. POPART: Full-feature software for haplotype network construction. Meth. Ecol. Evol. 6, 1110–1116 (2015).
+76. Forster, D. et al. Improving eDNA based protist diversity assessments using networks of amplicon sequence variants. Environ.
+Microbiol. 21, 4109–4124 (2019).
+77. Mahé, F., Rognes, T., Quince, C., de Vargas, C. & Dunthorn, M. SWARM v2: highly-scalable and high-resolution amplicon cluster-
+ing. PeerJ 10, e1420 (2015).
+78. Rognes, T., Flouri, T., Nichols, B., Quince, C. & Mahé, F. VSEARCH: A versatile opensource tool for metagenomics. PeerJ 18, e2584
+(2016).
+79. Connor, N., Barberán, A. & Clauset, A. Using null models to infer microbial co-occurrence networks. PLoS One 12, e0176751
+(2017).
+Acknowledgements
+This study was supported by the Austrian Science Fund (FWF; projects P28333-B25 and I2238-B25), the Swiss
+National Science Foundation (SNF; projects SNF 31003A-182489 and SNF 310030E-160603) and the German
+Research Foundation (DFG; project STO 414/13-1). CRM would like to thank NERC (project NE/R017050/1).
+We thank Ulrike Scheffel and Natalja Ring for support in the laboratory and during Lake Mondsee sampling. The
+authors greatly appreciate the technical assistance (lab and/or field) of M. Aigner, V. Bergkemper, S. Blank, A.
+Cieplinski, E. Doubrava, L. Frühe, H.-D. Görtz, V. Handle, H. Höllerer, F. Leitner, E. Loher, X. Lu, D. Marty, K.
+Mayrhofer, H. Ployer, S. Santer, N. Schobesberger, C. Spanner, P. Stadler, M. Summerer, C. Wirth, M. Zeilinger
+and H. Ficker, H. Gassner, M. Luger, J. Schachl, and, G. Bruschek from the Federal Agency for Water Management
+for support during sampling at Lake Mondsee. Kuimei Qian was supported by a Jiangsu Government Scholar-
+ship for Overseas Studies. We are also very grateful to Wolf-Henning Kusber (Botanic Garden and Botanical
+Museum, University of Berlin), Helmut Berger (Consulting Engineering Office for Ecology, Salzburg), and Erna
+Aescht (Oberösterisches Landesmuseum Linz) for their advice in nomenclatural questions. We thank Wilhelm
+Foissner for fruitful discussion about Coleps and dedicate this publication to him.
+Author contributions
+T.Pr. and B.S. conceived and designed the study. D.R. conducted the morphological investigations and isolation of
+the ciliates (Fig. 1). K.Q. tested the best cultivation method of the ciliate strains. T.D. conducted the morphologi-
+cal investigations and isolation of the zoochlorellae (Fig. 6). B.K., L.N., G.P., E.B. and B.S. did the morphospecies
+Scientific Reports | (2021) 11:5916 | https://doi.org/10.1038/s41598-021-84265-y 18
+Vol:.(1234567890)
+
+www.nature.com/scientificreports/
+counts (Fig. 8). D.R., T.D., C.R.M. and T.Pr. did the sequencing of the isolated strains (ciliate and algae; Figs. 2,
+3, 4, 5, 7, 10). Z.Q., D.F., and T.S. conducted and evaluated the HTS analyses (Fig. 9). All authors discussed the
+results and contributed to the manuscript concept. T.Pr., B.K. and T.D. created all figures and tables.
+Competing interests
+The authors declare no competing interests.
+Additional information
+Supplementary Information The online version contains supplementary material available at https ://doi.
+org/10.1038/s4159 8-021-84265 -y.
+Correspondence and requests for materials should be addressed to T.P.
+Reprints and permissions information is available at www.nature.com/reprints.
+Publisher’s note Springer Nature remains neutral with regard to jurisdictional claims in published maps and
+institutional affiliations.
+Open Access This article is licensed under a Creative Commons Attribution 4.0 International
+License, which permits use, sharing, adaptation, distribution and reproduction in any medium or
+format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the
+Creative Commons licence, and indicate if changes were made. The images or other third party material in this
+article are included in the article’s Creative Commons licence, unless indicated otherwise in a credit line to the
+material. If material is not included in the article’s Creative Commons licence and your intended use is not
+permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from
+the copyright holder. To view a copy of this licence, visit http://creat iveco mmons .org/licen ses/by/4.0/.
+© The Author(s) 2021
+Scientific Reports | (2021) 11:5916 | https://doi.org/10.1038/s41598-021-84265-y 19
+Vol.:(0123456789)
+

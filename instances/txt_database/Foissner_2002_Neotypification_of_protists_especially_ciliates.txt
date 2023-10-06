@@ -1,0 +1,226 @@
+Bulletin of Zoological Nomenclature 59(3) September 2002 165
+Neotypification of protists, especially ciliates (Protozoa, Ciliophora)
+Wilhelm Foissner
+Llniversität Salzburg, Institut für Zoolog ie, H e I lbrunners t rasse 3 4,
+A-5020 Salzburg, Austria
+Abstract. Historically, most soft-bodied species of heterotrophic protists (Protozoa)
+have been difficult to preserve and consequently lack type material that can be
+re-investigated. This causes taxonomic and nomenclatural problems and increases
+the degree of subjectivity in the identification ol these organisms. There are hardly :
+:
+any ciliate species whose identity has not been queried, or will be disputed as new
+data become available. However, recently methods have been developed that allow
+ciliates (Ciliophora) to be preserved in a way that allows type material to be preserved
+and re-examined. The current paper proposes that ciliate species are accurately
+re-described and neotypes designated that can be preserved using the new methods.
+The paper also proposes that the Commission should consider waiving Article 75.3.6
+of the Fourth Edition of the International Code of Zoological Nomenclature (1999)
+in relation to ciliates and other groups of protists and small Metazoa. This Article
+states that neotypes should be designated from specimens that come as near as
+practicable from the original type locality. The reasons why the Article should be
+waived lor these organisms are discussed.
+Keywords. Nomenclature; taxonomy; Protozoa; Ciliophora; protists; ciliates;
+neotypification; type locality.
+Introduction
+This paper aims to stimulate discussion about the absence ol or inadequate quality
+of type material lor protists, especially ciliates (Protozoa, Ciliophora). To date, this
+importar-rt problen-r has been largely ignored by the scientists concerned and by the
+scientific community in ger-reral. The lack of interest in protist nomenclatural
+problems is illustrated by the low number of relevant cases published in the Bulletin
+o.f Zoologicul Nomenclature and an ignorance olthe International Code of Zoological
+Nomenclature displayed in recent publications by protozoologists. There are
+probably two main reasons lor this: (i) there are very few people studying these
+minute organisms and even f-ewer are interested in their alpha-taxonomy ar-rd
+nomenclature, and (ii) there is a lack of type material, which causes nomenclatural
+problems and leaves identification extremely subjective. Similar problems exist in
+most 'microfaunal' groups and even more severely in the nematodes (Nematoda).
+material
+lnadequate type .
+The lack ol type material is the result ol l"ristorical problems with the preservation
+oI ciliate specimens and rnore than 90'Yu of all described ciliates lack type material.
+Where it does exist, species are often represented by rnaterial that fails to sl'row the
+diagnostic f-eatures. Further, in some cases material is dilhcult to obtain because it is
+deposited in private collections (see Foissner & Pfister, 1997).
+
+166 Bulletin ol'Zoological Nomenclaturc 59(3) Septcnrbcr 2002
+The lack of type material is one of the most dimcult problems lacing proto-
+zoologists involved in ciliate or other protozoan alpha-taxonomy. There are
+ir.rnumerable examples ol poorly described species, doubtlul identifications, and
+problematic redescriptions. Although n-ry own research group may recognize a
+tlrorough redescription as 'authoritative', others rnay not. Berger (1999),lor example,
+assigned Onychodrontopsis fiexili.s Stokes, 1887, accurately redescribed and neo-
+typified by Petz & Foissner (1996), to Allotricha, a genus and species which has never
+been illustrated or accurately described. Obviously, in the absence of reliabie type
+material, no consensus can be reached and ciliate identification and nomenclature
+must remain a matter of choice.
+Improved methods for preserving ciliates
+At present, most 'modern' ciliate types are deposited at two centres: the
+Smithsonian Institution in the U.S.A. (Corliss, 1972;- Cole, 1994) and the Biology
+Center olthe Museum of Upper Austria in Linz (Aescht, 1994). In the last 30 years,
+protozoologists have developed improved methods for preserving these soft-bodied
+organisms, allowing reliable type material to be obtained and preserved. Specimens
+are impregnated with silver nitrate and/or protargol to show the arrangement of
+somatic and oral cilia (known as infraciliature or the silverline system), which are
+among the most important features in ciliate alpha-taxonomy (Foissner, 1991).
+Under certain circumstances other methods such as the Feulger-r reaction are used to
+examine tl.re main leatures in the nuclear apparatlrs.
+Usually, light- and/or electron-microscopical micrographs and molecular data
+alone ale not sufficient lor description ol species, but may add important additional
+data to the inlormation available from conventional (silver) preparations. The
+methods needed will depend on the group of protists under consideration. What is
+irnportant is that the feature(s) mentioned in the description can be seen in the
+designated type material. Often several 'holotype specimens' might be necessary
+because not all I'eatures can be seen in a single specimen or preparation. Here, tl're
+concept of the hapantotypes can be applied (Article 73.3).
+A solution to taxonomic and nomenclatural difficulties in the ciliates
+Many protist taxonomic and nomenclatural problems could be solved by the
+provision ol type material using the new methods mentioned above. Tl.re present
+practice of using illustrations as holotypes does not solve the underlying problen't
+because these illustrations often cannot be examined to reveal new data when an
+existing description is for"rnd to be incomplete or inaccurate. Fr-rrther, leatures which
+are consiclered as unimportant at the time of description may later become decisive
+taxononric characters lor comparison with new specics. Neotypification is the one
+way to overcome these and related problems and to bring stability in ciliate
+laxononry and identification. This was emphasized by Corliss (1912), who established
+some ncotypes lor'difficult'ciliates in the sixties. Likewise, Medioli & Scott (1985)
+established neotypes fbr some testate amocbae.
+Gencrally, however, neotypification has not been practised widely in the protists.
+It was only recer.rtly tl-rat rny own research group adopted this valuable approach to
+clarilying protist laxonomy and nomenclature (Foissner, 1997, 1999b; Foissner &
+Brozck, 1996; Foissner & Dragesco, 1996; Foissr.rer & Krer,rtz, 1996:Petz & Foissner,
+
+Bullctin of Zoological Nomenclature 59(3) Scpternber 2002 161
+1996). However, it is a practice that several specialists have since lollowed (Agatha &
+Riedel-Lorj6, 1998; Petz et al., 1995; Song et al., 2001).
+Neotypification is especially uselul when:
+(1) no type material is available (holotype specimen and hapantotypes; see Article
+73.3), but identification of the taxon is comparatively straightlorward,
+(2) type material is available, but too poorly preserved for the diagnostic
+features to be recognizable. This situation may need to be relerred to the
+Comrnission;
+(3) the original description is so incomplete and/or based on so few specimens that
+any identification becomes a matter of arbitrary judgement. Alternatively, such
+descriptions could be considered as referring to species indeterminate. How-
+ever, this would greatly increase the number of scientific names because many
+originai descriptions of ciliates are very incomplete. We prefer, where possible,
+to identily our taxa in relation to previously described species, and to redefine
+these species by detailed redescriptions. We ensure that the redescription is
+based on material which shares at least one main distinctive leature ol the
+original material;
+(4) it has been argued that the species has one or more subjective synonyms. This
+indicates that the taxon has a questionable identity in the literature and, in the
+absence of type materiai, creates a 'classical' justification for neotypification,
+(5) there are several similar species whose identity wili be fully differentiated by
+neotypification;
+(6) there are cornpeting redescriptions for a taxon.
+Article 75 of the Code
+Most olthe neotypes that my group has designated are in accordar-rce with Article
+75 of the Code. However, as protists lorm restirrg cysts, have a wide geograpl-rical
+distribution, and olten lack any type material (Corliss, 1993), it is sometimes difficult
+to designate neotypes that lully satisly Article 75. L-r some cases our ciliate neotype
+designations do not comply with Article 75.3.6 as they were not collected from or
+near the type locality. As such, thcse and similar neotypifications could be considered
+to be invalid. However, we do not consider Article 75.3.6 to be relevant to protist
+neorypes lol the following reasons:
+(1) most ciliates and protists are cosmopolitan, at lerist at the morphospecies level
+(Finlay et al., 1996; Foissner, 1999a). In addition, many are syn'rbionts,
+commensals, or parasites ol metazoan animals that often have a n-ruch widcr
+biogeographical distribution than the narrow dehnition of 'type locality'
+implies;
+(2) the existing uncertainties can be overcome only by making types r-rniversally
+available to protozoologists. The improvemellts in protist taxonomy that
+neotypification produces fär outweigh the possible danger ol misidentilled
+ne otypes that czrn occur lrom specimens selected out ol original typc
+locality;
+(3) as there are only a lew alpha-taxor.romists working with ciliates, it is
+difficLrlt for them to obtain neotype material lrom or near the type locality.
+The application of Article 75.3.6 could prcvent neotypes lronr evcr bcing
+designated;
+
+t6E Bulletin ol' Zoological Nomcnclature 59(3) Septcmber 2002
+(4) the likelihood of re-discovering ciliates and other protists at a certain locality
+is not guaranteed because the organisms may be in a dormant (cystic) stage lor
+most of their life and laboratory cultivation is often unsuccessful.
+Conclusion
+To sum up, I suggest that neotypes ol protists, especially ciliates, should be freed
+lrom the type locality regulation of Article 15.3.6 of the Code, provided that
+neotypiflcation is based on a thorough redescription of the organism and usable
+neotype material has been deposited in an acknowledged repository. In addition,
+existing neotypes that have already been designated lrom other than original type
+localities should be validated by the Comrnission.
+Acknowledgements
+I thank David Patterson (Australia), Michael Dolan, John Corliss, Neil Evenhuis
+(U.S.A.) and Andrew Wakeham-Dawson (Commission Secretariat, London) for
+helpful comments on an earlier dralt of this paper.
+References
+Aescht, E. 1994. Die Erlorschung der Urtiere (Protozoen) in Österreich. Kataloga de.s
+Oberö.vterreichischen Lande.stnuseunts, Naue F-olge, 7l: 1'79.
+Agatha, S. & Riedel-Lorj6, J.C. 1998. Morphology, inflraciliature, and ecology ol some
+strobilidiine ciliates (Ciliophora, Oügotricl'rea) from coastal brackish water basins ol
+Germany. Europeun Journol of Prati.ttologl'. 34: 10 17.
+Berger, H. 1999. Monogruph o.f the O-t))tri('hidue (Ciliophoru, Hypotrichiu).1080 pp. Klur.ver.
+Dordrecht, Boston, London.
+Cole, L. 1994. Catalog ol type specimens in the international protozoan type collection.
+I
+Sntitltsoniat Contributions to Zttoktgt,,56l: 28.
+Corliss, J.O. 1912. Current status of the international colleclion of ciliate type-specimens and
+guidelines lor hrture contributors. Trtur.yuttions o.f tlte Atneric'crn Mict ostopitrtl Societr,9l
+221 )_35.
+Corliss, J.O. 1993. Should there be a separate code of nomenclature for the protists')
+|
+BfuSy.stent.t,28: 14.
+Finlay,8.J., Corliss, J.O., Esteban, G. & Fenchel, T. 1996. Biodiversity at the microbial level:
+the number of lree-living ciliates in the biosphere. Quurtcrll, Rat,iatr o.f' Birtlot.t,. 7l'
+22t 231.
+Foissner, W. 1991. Basic light and scanning electron nricroscopic mcthods for taxortomic
+studies of ciliated protozoa. Europctttt Jottrnul o.f Protis'lologl',27: 3ll 330.
+Foissner, W. 1997. Faunistic and laxonomic studies on ciliates (Protozoa, Ciiliophora) fronr
+clean rivcrs in Bavaria (Germany), with descriptions of new species and ecological I'rotes.
+Linrrrologicu, 27. 119 238.
+Foissner, W. 1999a. Protist diversity: estin-ratcs ol' the near-imponderable. Prr.rrr.it, 150:
+363 368.
+Foissner, W. 1999b. Notes on the soil ciliate biota (Protozoa, Ciliophora) lrorn the Shimba
+Hills in Kenya (Africa): diversity and description oltl.rree new genera and ten ncw species.
+Biodivcr.rity und Conservaliort, 8: 319 189
+Foissner, W., Agatha, S. & Berger, H.2002. Soil ciliates (Protozoa, Ciliophora) from Namibia
+(Southwest Alrica), with emphasis on two contrasting cnvironments, the Etosha regiort
+arrd the Namib Desert. Deni.viu (Lin-).5: I 1490.
+Foissner, !V. & Brozek, S. 1996. Taxonomic characterization of Psezrrlrthuplotuulu.s irtfiu-
+t,rrct«tltttus nov. spec. and Vrtrtit'clltt cltlorallutu Stillcr 1940, epiplanktonic periLricits
+(Ciliophora. Poritrichia) attachecl to coerrobia ol' Anultucnu (Cyanophyta), including a
+
+2002
+Bulletin of Zoological Nornenclature 59(3) Septenrbcr 169
+redescription of V. chbro.stignta (Ehrenberg, l83l). Internutk;nula Rame der gesontten
+Hydrobiologic, 8l: 329-351.
+Foissner, W. & Dragesco, J. 1996. Updating the trachelocercids (Ciliophora, Karyorelictea).
+III. Redefinition of the genera Truchelocertu Ehrenberg and Tracheloroplti.s Dragesco,
+an«J evolution in trachelocercid ciliates. Archiv/ür Protistenkurule, 147:43 9l .
+Foissner' w' & Kreutz' M' 1996' Redescription ol Platyophrvu spltugtti (Penard 1922) Foissner
+I 993 (Protozoa, Ciliophora). Lin:er bioIogische Beit rüge, 28: 7 45-7 56.
+Foissner, W. & Pfister, G: 1997. Taxonomic and ecologic revision ol urotrichs (Ciliophora,
+Prostomatida) with three or more caudal cilia, including a user-friendly key. Limnologica,
+27: 3ll-347.
+Medioli, F.S. & Scott, D.B. 1985. Designation ol rypes, lor one genus and nine species ol
+arcellaceans (thecamoebians), with additional original relerence material lor lour other
+species. Journal of Foraminiferal Re.search, 15 24-37.
+Petz, iV. & Foissner, W. 1996. Morphology and morphogenesis of Lrarr tost),lo edaphoni Berger
+and Foissner and Onyclndrontop.sisfiexilrs Stokes, two hypotrichs (Protozoa: Ciliophora)
+from Antarctic soils. Acta Protozoologica,35 257 280-
+Petz, W., Song, W. & Wilbert, N. 1995. Taxonomy and ecology of the ciliate launa (Protozoa,
+Ciliophora) in the endopagial and pelagiat olthe Weddell Sea, Antarctica. Stapfo (Lin:),
+40: I 223.
+Song, W., Petz, W. & Warren, A. 2001. Morphology and morphogenesis ol the poorly-known
+marine urostytid ciliate, Metaurostylopsis marina (Kahl, 1932) nov. gen., nov. comb.
+(Protozoa, Ciliophora, Hypotrichida). European Journal of Pro t is tol ogy, 37 : 63-7 6.
+Commenrs on this article are invited lor publication (subject to editing) in the Bulletin; they
+shoul<i be sent to the Executive Secretary, I.C.Z.N., c/o The Natural History Museum,
+Cromwell Road. London SW7 5BD, U.K. (e-mail: iczn@nhm.ac.uk).
+\
+\
+Figs. I .3. T'wq ol'several ciliate spccies neotypificd in Foissner et al. (2002). l, 2: Ventral views of Metopus
+grD.-bri,i Kahl. 1927 in vivo and at'ter protargoI silver impregnation. This species was errot.tcously
+synonynrizccl will'r M. .striutu.r McMurrich, 1884 in a recent rovision. l: Silver nitrate impregnatecl specimen
+it' ptitrl,,pttr.ridt,.s lutu.: (Kahl. 1930). a specie s with a complicatetl taxononric history settled by
+neotypilica t ion.
+

@@ -1,0 +1,489 @@
+P.S.Z.N.: Marine Ecology, 19 (3): 229-243 (1998)
+FI 1998 Blackwell Wissenschafts-Verlag, Berlin Accepted: June 17, 1998
+ISSN 0173-9565
+The Ecology of a Novel Symbiosis
+Between a Marine Peritrich Ciliate and
+Chemoautotrophic Bacteria
+JORC A. OTT.M ONIKBAR IGHT& FRIEDRICSCHH IEMER
+Institute of Zoology, University of Vienna, Althanstr. 14. A-1090 Vienna. Austria.
+E-mail: joerg.ottm univie.ac.at
+With 12 figures
+Key words: Zoollrunrriiuni nii~euni.C iliophora, Peritrichida, sulfur bacteria, symbiosis.
+mangal.
+Abstract. A symbiosis between a sessile colonial ciliate, Zoolharnriiroir nii~cwrir( HEMPRICH & EHRENBERG.
+1831). and chemolithoautotrophic bacteria oxidizing reduced sulfur compounds is described. The
+ciliates and their ectosymbionts occur on mangrove peat in the Caribbean. The feather-shaped ciliate
+colonies expand and contract, thus exposing the microbes alternately to oxygenated water above and
+sulfidic water within the boundary layer developed on the surface of the highly sulfidic peat. The
+symbioticciliates colonize sites with high sulfide flux where the microbial surface mat has been disturbed
+and grow there until the microbe mat re-establishes itself.
+Problem
+Symbioses between chemolithoautotrophic sulfur-oxidizing bacteria and protists
+or invertebrates are common in marine habitats where reduced sulfur compounds
+are abundant. The discovery of animal communities around deep-sea hot vents
+and cold seeps (for reviews see TUNNICLIFF19E9,1 , 1992; CHILDRE&SS F ISHER,
+1992; CAVANAUG1H99, 4; NELSON& FISHER1,9 95; FISHER1,9 96) which depend
+largely on the organic production of symbiotic bacteria that utilize sulfide as an
+energy source for the reduction of carbon dioxide, has spurred the search for such
+symbioses in shallow waters. Not surprisingly, similar microbe/animal associations
+have been found in all marine sulfidic habitats such as sheltered and organic-rich
+sediments, seagrass-rhizome mats and mangrove peat. The bacteria occur as ecto-
+or endosymbionts and the animal hosts are protists (FENCHE&L FINLAY1.9 89;
+BAUER-NEBELSPIIC aKl., 1996a,b), plathelminthes (OTT et al., 1982), nematodes
+(OTT et al., 1982; OTT & NOVAK1 989), polychaetes (GIERE1, 996), oligochaetes
+(GIERE1, 981), echiurids (MENON& ARP,1 993), priapulids (OESCHGE&R S CHMAL-
+IOHANN, 1988), bivalves (CAVANAUCH, 1985; FELBECeKf a/., 1981), gastropods
+(STEINet al., 1988),e chinoderms (TAMAReAt a l., 1993)a nd pogonophorans (SOUTH-
+WARD et al., 1986).
+U. S. Copyright Clearance Center Code Statement: 0 173-9565/98/1903-0229$14.00/0
+
+230 OTT, BRIGHT & SC‘HIEMER
+Among the protists, the genus Kenrrophoros (Ciliophora, Karyorelictida) is
+known for a coat of bacteria on its dorsal side which act as a ‘kitchen garden’ for
+this free-living, mobile ciliate. Here, we report on the ecology of a symbiosis
+between a colonial, sedentary species of the genus Zoothamnium (Ciliophora,
+Peritrichida) Z. niveum (HEMPRIC&H EHRENBER1G8,3 1) and sulfur-oxidizing
+- -
+chemolithoautotrophic bacteria. Zoothamnium niveurn was described more than
+150 years ago. Although the original authors paid tribute to the conspicuous white
+colour of their find by naming it ‘niveum = snowy’, they failed to recognize that
+the colour was due to a complete coat of bacteria on the surface of the colony,
+covering all but the most basal part of the stalk. The redescription by BAUER-
+NEBELSICeKt al. (1996a) showed that terminal zooids and microzooids are covered
+by coccoid bacteria, whereas the stalk, the branches and the macrozooids bear rod-
+shaped microbes. A complete series of intermediate shapes between those bacteria
+covering the branches and those attached to the microzooids suggest that they are
+morphotypes of the same bacterial species.
+Colour, ultrastructure and the presence of the C02-fixing enzyme of the Calvin
+cycle, ribulose- I ,5-bisphosphate carboxylase/oxygenase (RuBisCO) (H. FELBECK,
+pers. comm.), indicate that the bacteria are sulfur-oxidizing chemolithoautotrophs.
+The only bacteria detected so far in food vacuoles within the ciliates (TEM sections)
+show the typical ultrastructure of sulfur bacteria and appear to be identical to
+those growing on the pellicle of their host. This suggests that the symbionts are
+ingested by the microzooids and most likely play an important role in the nutrition
+of the ciliates (BAUER-NEBELSIeCt Kal ., 1996b).
+Zoorhamniuni niueum has so far been found in the Red Sea (HEMPRIC&H
+EHRENBERGI8, 3 1; BAUER-NEBELSIeCt Ka l., 1996a) and the Caribbean (BAUER-
+NEBELSICeKt al., 1996a). In the Caribbean it is found growing in groups on
+mangrove peat along the banks of tidal channels and ponds. In this study we
+describe the ecology of a population living at Twin Cays, a mangrove island of the
+Belize Barrier Reef system, and report on the occurrence of this microbe/ciliate
+association at other locations in the area.
+1. Sampling locality
+Twin Cays (Fig. I) is a mangrove island located 3.5 km landwards of Carrie Bow Cay, a small island
+on the reef edge of the Belize Barrier Reef off Dangriga, Belize. where a laboratory of the Caribbean
+Coral Reef Ecosystem program of the National Museum of Natural History (Washington. DC) is
+located (for a description of the area see RUTZLER& MACINTYRK19,8 2). Twin Cays is bisected by a
+tidal channel cut into Red Mangrove (Rhi:ophoro munyle) peat with vertical to overhanging walls (Fig.
+2) extending in some places down to 2 in depth. Stilt roots of Red Mangroves hang down into the
+channel and are covered by a remarkable diversity of algae and sedentary animals (RUTZLER& FELLER,
+1996). The peat walls in back of the curtain of hanging stilt roots are covered by a dense microbial mat
+and in places by sponges and ascidians. The peat surface is highly structured with depressions and
+holes, and in some places is deeply undercut. All quantitative data come from the walls of the main
+tidal channel close to its north end, where most of the experimental animals were also collected. Other
+collecting sites are similar mangrove islands in the vicinity (Fig. I).
+Observations and experiments reported in this paper were made during repeated visits of 3 weeks
+each during February to June in the years 1992-1997.
+
+Ciliate-bacteria symbiosis 23 1
+'I
+l4m 4 .
+0
+Hopkins
+1 2m
+Twin Cays
+PD
+Blue Ground
+Range f ; 3 South Water Cay
+Mi?., Came Bow Cay
+.F' a
+Curlew Bank
+B
+Jonathan Point
+ii,
+False Point
+i2-Ud-I
+5 krn
+Fig. 1. Map of the vicinity of Twin Cays in the Belize barrier reef system. Sites where Zoothamnium
+niueum has been found are indicated by arrow heads.
+2. Methods
+Density was determined using a 50 x 50 cm frame divided in 25 squares of 100 cm2 each and an
+underwater magnifying glass. Roughness of the peat surface was measured as the distance from the
+grid points of the frame to the surface of the peat wall. Likewise, the distance between those surfaces
+where ciliate groups were found and the plane of the frame was determined.
+In order to estimate group life-span, groups were marked with small flags and visited daily over a
+period of 3 weeks.
+For the micro-electrode profiles, peat blocks that were at least 30 cm deep and fitted tightly into a 10
+litre bucket were cut from the peat wall with a machete, inserted into the bucket and sealed with a lid
+under water. Thus, blocks could be transported into the laboratory at Carrie Bow Cay without
+disturbing the microbial mat on the surface. Blocks were kept in flowing seawater between measure-
+ments. Sulfide and oxygen profiles next to and away from colony groups were measured with a combined
+needle electrode (VISSCHEeRr al., 1991) under stagnant and flowing water conditions (0.5-5 cm.s-')
+within 24 h after collection. Sulfide concentrations in the pore water deeper than 5 cm in the peat were
+determined from water samples collected in siru by syringes and analyzed photometrically with a
+modification of the CLINEm ethod (CLINE, 1969). Pore water sulfide concentrations measured with the
+
+232 On,B RIGH&T SCHIEMER
+Fig. 2. Peat wall along the main tidal channel at Twin Cays, Belize. Colonies of Zoothamnium niueum
+can be seen on and around the white patch of sulfur bacteria in the centre ( x 0.3).
+Fig. 3. Zoothamnium niveum. Large group on mangrove peat (x 1.7).
+
+Ciliate-bacteria symbiosis 233
+electrode in the layer 10 mm below the peat surface were within 10% of those determined photo-
+metrically in samples from the same block.
+Animals for oxygen uptake measurements were collected by cutting out fist-sized peat blocks with a
+knife and transferred in sealed containers to the laboratory, where the respiration of whole colonies
+was measured using stoppered Cartesian divers (KLEKOWSK19I7, 1, SCHEMER er al., 1990). Colonies
+were repeatedly rinsed in filtered seawater prior to introducing them into the diver in air-saturated
+water. This prevents sulfidic water from being transferred with the experimental animals. All measure-
+ments were taken at 28T, which was close to the temperature in the field.
+Free-flow water movement along the channel walls was measured by timing dye (Fluorescin) markers
+along a measured distance. Additional current measurements were obtained from J. HAVENHAN(Dp ers.
+comm.). Video recordings of the colonies in the laboratory were made with a Philips LDH 0640 CCD
+color camera; photos were taken with a Nikon EM, equipped with a Micro-NIKKOR 55 mm lens,
+bellows and ring flash using Kodachrome 64 film.
+Results
+1. Distribution
+Zoothumnium niueum was found along both banks of the main tidal channel (‘Main
+Channel’) at Twin Cays. The primary collecting and experimental sites were north
+of the dock on the channel’s west side and between the entrance to ‘Turtle Pond’
+and ‘Cassiopeia Cove’ on the east side. In addition, Z. niveum colonies occurred
+practically everywhere where vertical or overhanging peat walls exist in nearby
+mangrove cays, such as Tobacco Range to the North and Blue Ground Range and
+Pelican Cays to the South of Twin Cays (Fig. 1). Especially conspicuous popu-
+lations were found in two locations at the Pelican Cays, the undercuts in the double
+lagoon at Manatee Cay and a small cove at Northwest Cay.
+Zoothumnium niueum occurs in groups (Fig. 3) which may contain more than
+100 colonies (max. = 127, mean = 26 & 17 SD, n = 34) from approximately 30 cm
+below mean low water level down to where the peat walls disappear in the soft
+sediment of the channel bottom in less than 2 m depth. The distribution of groups
+is random on a 100 cm2 scale (mean = 0.48f0.62, n = 150), but strongly aggre-
+gated on a m2 scale (mean = 46 f 20.8, n = 6). Groups of colonies do not prefer
+depressions in the peat, as we originally assumed. They are, however, pre-
+dominantly found at sites where the microbial surface mat consisting of microscopic
+algae, cyanobacteria (Oscillutoriu, Spirulinu) and filamentous sulfur bacteria
+(Beggiutou) has been disturbed. Most conspicuous are groups around holes in the
+peat where mangrove rootlets had rotten and fallen out (Fig. 4). Purple and white
+sulfur bacteria in many cases form conspicuous mats around these holes (Fig. 5).
+On the average there were about 1200 colonies per m2.
+Small groups with only a few colonies contained either only small colonies
+or predominantly large colonies often showing signs of deterioration (loss of
+microzooids on lower branches, dense overgrowth by microbes on the lower stalk)
+(Fig. 6); larger groups consisted of colonies of all sizes.
+Based on the disappearance rate of marked groups (Fig. 7) a group life-time of
+cu. 20 days was estimated, assuming that groups were randomly marked and were
+at least 4 days old on the marking date which is the time required for a full grown
+colony to develop (M. BRIGHTJ,. On,u npubl. obs.).
+
+234 Om,B RIGHT& SCHIEMER
+-
+Fig. 4. Zoothumnium niveum. Colonies surrounding a hole in the peat. The small white dots are
+VorticeNu-like solitary peritrichs, which are also covered by white bacteria ( x 2).
+Fig. 5. Site where a mangrove root has rotted and fallen out. The remainder of the root epidermis is
+covered by purple bacteria and filamentous white sulfur bacteria. Zoofhumnium niveum colonies are
+visible on the left ( x 2).
+
+235
+Ciliate-bacteria symbiosi!.
+Fig. 6. SEM of thc stalk and several microzooids of a contracted colony of Zoohmniurrt riir4wr~T. hc
+stalk is overgrown by whitc lilamcntous bavlena. while ccmoid syrnbiunls cover thc micromaids.
+time (days)
+Fig. 7. Uisapparance ot' marked groups ofcolonies. The regression linc intcrsects thc x-iixis ilr 16.9
+days. Adding 4 days to allow for the groups to contain fully grown colonies yiclds an average life
+expcctency of a group of 2 I dnys.
+
+236 OTT,B RIGH&T SCHIEMER
+2. Habitat characteristics
+Sulphide concentrations in pore water from depths > 5 cm below the peat surface
+ranged up to 1.4 mM, whereas in water samples from the channel no sulfide was
+detectable even when taken with a syringe close to the peat surface.
+Microelectrode profiles revealed extremely sharp gradients of both sulfide and
+oxygen at the peat surface (Fig. 8), with oxygen disappearing and sulfide appearing
+in a 3 mm thick boundary layer. In areas without ciliate colonies the shape of the
+gradient curves was rather insensitive to water movement over the peat surface
+and little sulfide was detectable 2 mm above the peat surface. Close to Zoothamnium
+groups, however, sulfide concentrations in the 2-4 mm layer were significantly
+higher in profiles under stagnant conditions compared to those at a free flow
+velocity of 0.5-5 cms', which is in the range of the velocities measured in the
+field.
+oxygen [prnol . r'] oxygen [prnol . I-']
+0 4 8 12 16 10 0 4 8 12 I@ 20
+-
+10
+8 -
+II-
+7-
+-
+4-
+cu .) 1-
+E
+g -2-
+c
+9 -3-
+4-
+51
+-6-
+5 4-
+-
+-7
+d -
+4-
+.10 -
+-
+I I I I I I I I I I I
+o loo 200 300 40 too o loo zoo aw 400 m3
+sulfide [prnol . I-'] sulfide [prnol . r']
+Fig. 8. Profiles of oxygen and HS- across the surface of mangrove peat measured with a combined
+needle electrode: (a) profiles through the surface without ciliates; (b) profiles at sites with groups of
+Zoofharnniurn niueurn colonies. Error bars are standard deviations from the mean of several measure-
+ments (shown only to one side of the profile for clarity). Sulfide profiles were measured under stagnant
+conditions (empty circles) or flow over the surface (filled circles). All oxygen profiles (asterisks) were
+taken under stagnant conditions.
+
+Ciliate-bacteria symbiosis 237
+3. Behaviour and metabolism
+The colonies expand and contract, measuring up to 15 mm in height when expanded
+and less than 1 mm when contracted. Analysis of video recordings showed that
+colonies spend more time expanded with practically all zooids in contact with the
+oxic, non- or low-sulfidic water of the channel. Intervals between contractions
+typically range from 5 to 30 s. Contraction takes less than the time between video
+frames (1/24th of a second) and brings the colony into the anoxic and sulfidic
+boundary layer. Colonies usually remain contracted for less than 1 s and then
+expand again, which takes 1 to 3 s.
+Freshly collected colonies which were introduced in the Cartesian diver within
+15 min after removal from the habitat showed elevated rates of oxygen consump-
+tion. These rates decreased rapidly within the first four hours to 140-180 nl
+02.mm-2c olony surfaceah-', a level sustained over at least 24 h. When colonies
+which had been maintained in normoxic seawater for 24 h were subsequently
+incubated in 100 pM sulfide for up to 3 h, they showed a restoration of higher
+oxygen uptake rates followed by a subsequent decrease (Fig. 9).
+sulfide incubation
+6 5 10 15 20 25 30 35 '
+hours after collection
+Fig. 9. Zoorhamnium niveum. Hourly rates of oxygen uptake of colonies with symbionts measured in
+stoppered Cartesian divers. Rates are given per unit surface area, which is proportional to symbiont
+mass. The x-axis shows time after removal of the colonies from the peat. Colonies were introduced into
+the divers within 15 minutes after collection. Colonies used for the sulfide incubation (n = 5) were not
+the same as those used for the oxygen uptake determination of freshly collected material (n = 6), but
+had been removed from the peat and maintained in normoxic seawater for at least 24 h. Error bars
+indicate standard deviations.
+
+238
+Discussion
+Zoofhutnriiirrnn iz3eimi inhabits the spatially narrowest sulfide/oxygen gradient of all
+symbioses based on chemoautotrophic sulfur-oxidizing bacteria. Depending on the
+state of contraction or expansion the colonies are bathed in seawater containing no
+oxygen and sulfide up to 250 pM,o r in normoxic sulfide-free seawater. The transition
+between the two media is rapid especially during contraction. which proceeds at a
+speed of 25 cm-s-'. Although colony expansion takes only about 1-3 s it is 25 to
+-
+80 times slower (0.3-1 cm s-'). Calculating REYNOLDnSu mbers (R = u 1 * I!-' with
+1 = 0.01 m, v = m'as-') for both contraction and expansion suggests that
+contraction at R = 2500 effectively exchanges the water around the colony, whereas
+during expansion (R = 30 - 100) sulfidic water probably adheres to the surface of
+the ciliate due to viscous forces and is carried through the boundary layer, thus
+prolonging the time for uptake of sulfide by the bacteria. In sulfur symbioses the
+major problem of the animal host is to supply the sulfur-oxidizing symbionts with
+both sulfide and oxygen, which are mutually exclusive under most circumstances
+(Fig. 10). Rapid turbulent mixing at hot vents delivers sulfide and oxygen to the
+plume of vent vestimentifera; cold seep vestimentifera probably 'mine' sulfide in
+deeper sediment layers with root-like posterior processes (SCOTT8 i FISHER1.9 95);
+bivalves such as Ca1vpro.qenu (ARP ef al., 1984; see also review in CHILDRES&S
+FISHER19, 92) and Thyasira (DANDO& SOUTHWARD19,8 6) use their foot to obtain
+sulfide from lava cracks or deep sediment, respectively, while pumping oxygenated
+water across their gills. Nematodes and oligochaetes migrate (OTTe t al., 1991; GIERE
+ef a/., 1991) over a distance of several cm to dm between sulfidic layers deep in the
+sediment and the oxic surface. The extreme gradient at the peat surface allows
+Zoorharnnium niceunz to uncouple sulfide and oxygen uptake in space and time over
+a few mm and within seconds. The steep drop of oxygen uptake under oxic conditions
+indicates that there is a store of reduced sulfur compounds which is available to the
+bacteria and which is rapidly exhausted but may be replenished, as shown by the
+rise in respiration rate following sulfide incubation.
+The occurrence at disturbed sites on the peat surface together with the short life
+time of such aggregations suggest that Z. niveum is an opportunist which is able to
+colonize and exploit sites of high sulfide flux to the water. The sensitivity of the
+sulfide profile to water movement indicates that the flux there is under physical
+control with rapid leakage of sulfide from the peat. In contrast, sulfide flux to the
+water appears low and insensitive to flow along the undisturbed surface. Sulfide
+diffusing from deeper layers of the peat is probably either oxidized by the oxygen
+produced by cyanobacteria or taken up and eventually oxidized by sulfur bacteria
+in the undisturbed microbial mat and thus is under biological control (Fig. 1 I).
+Groups consisting of a few small colonies are probably early stages of colon-
+ization of a newly formed hydrogen sulfide 'minivent'. Colonization occurs through
+a dispersal stage (swarmer, macrozooid) ( BAUER-NEBELSIeCt Ka/ ., 19964. Larger
+groups consisting of colonies of all sizes represent a later, 'mature' stage of the
+sulfide point source. In time the microbial mat which covers the peat surface as the
+'climax' stage re-establishes itself, reducing the sulfide flux and thus rendering the
+site unsuitable for the ciliates. Those small groups mostly consisting of large and
+degenerating colonies are a late stage where new recruitment of swarmers has
+ceased (Fig. 12). The high growth rates, short life span and the extraordinary
+
+Ciliate-bacteria symbiosis 239
+Fig. 10. The different strategies of hosts to supply their symbiotic sulfur-oxidizing chemoautotrophic
+bacteria with sulfide and oxygen. From top to bottom the gradient becomes more spatially defined and
+the role of the host in creating the proper environment decreases. (a) Vestimentiferan tube-worms at
+deep-sea hot vents are exposed to a turbulent mixture of sulfidic and oxic water. The supply rate of sulfide
+and oxygen to the internal symbionts is under tight bio-molecular control by the host haemoglobin. (b)
+Bivalves procure the necessary chemical compounds using special organs such as siphons, gills or foot
+to pump or mine sulfide and/or oxygen (in part the transport process is also dependent on blood
+compounds). (c) Interstitial meiofauna (gutless oligochaetes, stilbonematid nematodes) migrate through
+the chemocline of marine sediments and stay for some time alternately in sulfidic or oxic sediment
+layers. (d) The narrow gradient along its colony allows Zoofhamnium niueum to rapidly change between
+high sulfide concentration and oxygen saturation without even having to resort to locomotion (sym-
+bionts darkest shading, sulfidic water - medium shading, no oxygenlno-sulfide zone - light shading,
+~
+oxygenated water - white).
+
+240 OTT. BRIGH&T SCHlEMER
+Fig. I I. Model of the flux of sulfide at sites with (a) intact and (b) disturbed microbial mat on the peat
+surface. In (a) the profiles of sulfide concentrations during stagnant (thick line) and flow (thin line)
+conditions .do not differ much where the microbial mat keeps sulfide flux under biological control. In
+(b) sulfide flows freely creating a several mm thick sulfidic boundary layer under stagnant conditions
+which is markedly reduced by water flow. Expanded Zoorhamnium colonies (right) extend into oxygen
+containing water with little or no sulfide. Contracted colonies (left) are completely immersed in sulfidic
+water. Dark arrows indicate magnitude of sulfide flux, white arrow syrnbolises current flow over the
+peat surface.
+habitat locating abilities of the swarmers (M. BRIGHTJ, . OTT,u npubl. obs.) are
+consistent with the life style of a pioneer in gap dynamics. The promotion of an
+opportunistic, fugitive life style through a symbiosis is contrary to the paradigm
+that symbioses are characteristic of climax stages (ODUM1, 969).
+The genus Zoothamnium contains approximately 60 described species from many
+aquatic habitats, both freshwater and marine, benthic and pelagic. In a number of
+cases, associations with microorganisms have been reported, among others with
+cyanobacteria or bacteria - some in connection with occurrence in sulfidic habitats
+(see review in BAUER-NEBELSeItC aKl. , 1996a). A possible symbiosis has been
+suggested by LAVAL-BUT&O RASSOULZADEGA(N1 9 88) for the association of Z.
+pelagicum with cyanobacteria.
+Zoothamnium niveum is another case of ectosymbiosis which provides us with a
+glimpse of how symbioses may have evolved. The special properties of the surface
+of Peritrichida and especially members of the genus Zoothamnium permit epigrowth
+by microorganisms - or rather the ciliates cannot prevent fouling, which appears
+to limit age and size of the colonies. Attaining selective control over the fouling
+organisms is certainly an advantage. In 2. niveum such control appears to exist at
+
+Ciliate-bacteria symbiosis 24 1
+Fig. 12. Sequence of (a) colonization of a disturbed site, (b) maturation of a group and (c) senescence
+of the sulfide point source. During colonization the group comprises only young colonies and many
+freshly settled swarmers; a mature group shows a mixture of fully grown colonies already releasing
+swanners and some young colonies; senescent groups are made up by mature colonies, many of which
+have already lost a large number of microzooids and show overgrowth by a variety of bacteria.
+least in young parts of the colony and may be one of the reasons why such a large
+size can be attained. Whereas the main axis, the branches and the zooids are
+covered by a presumably monospecific coat of rod-shaped to coccoid bacteria
+(BAUER-NEBELSeIt CaKl., 1996a), the basal portions of the stalk in fully grown
+colonies are overgrown by a variety of filamentous microorganisms. With onset of
+senescence, larger parts of the colony base lose the zooids and are subsequently
+fouled.
+The occurrence of the ciliate close to sulfide gradients allowed sulfur-oxidizing
+bacteria to become members of the fouling community. The special trait to ex-
+change surrounding water by rapid contraction of stalks - which is common in
+Peritrichida - may have led to selection for those bacteria which alternately need
+sulfide and oxygen by enhancing their growth. Ample nutrition from the ‘gardened’
+bacteria provides a positive feedback allowing rapid growth of the ciliate. SCHIEMER
+et al. (1990) proposed a similar sequence for the evolution of an ectosymbiosis in
+the marine nematode subfamily Stilbonematinae. This taxon consists of several
+genera possessing a surface coat of ectosymbiotic bacteria within the family Desmo-
+doridae, which is characterized by the frequent occurrence of fouling organisms
+(bacteria, diatoms, suctorians) on their cuticle (OTT,1 996).
+
+242 OTT, BRIGHT & SCHlEMER
+Summary
+The colonial ciliate Zoorhamnium nioeum lives on mangrove peat in densities of
+more than 1000 colonies.m-2. Groups of a few to more than 100 colonies cluster
+around disturbed sites on the peat surface, which act as point sources for sulfide.
+Colonies retract and expand through a sharp gradient of water chemistry, where
+oxygen disappears and sulfide is present in concentrations of 25&300 pM within
+a 3 4 m m thick boundary layer on the peat surface. In this way the ciliate host
+supplies its ectosymbiotic chemoautotrophic bacteria alternately with sulfide and
+oxygen. A single point source for sulfide supports growth of the ciliate and its
+symbionts for about 3 weeks. At this point the microbial mat of the adjoining,
+undisturbed peat surface regrows over the disturbed site and reduces sulfide flux.
+Acknowledgements
+This work was supported by grants from the FFWF (Austria) 9189 BIO (J. OTT, principal investigator)
+and the CCRE program of the NMNH (Washington, DC). We thank KLAUSR OTZLER( NMNH) for
+continued support of our work at Carrie Bow Cay, IVAN GOODBOD(JYam aica) for directing our
+attention to small pretty white things and ALEXANDEBRO CHDANSKfoYr the video sequences. This paper
+is contribution nr. 554 of the CCRE program.
+References
+ARP,A . J., J. J. CHILDRES&S C. R. FISHER1, 984: Metabolic and blood gas transport characteristics of
+the hydrothermal vent bivalve, Calyptogena magnifica. Physiol. Zool., 57: 648-662.
+BAUER-NEBELSICK, M., c. F. BARDEL&E J. A. Om, 1996a: Redescription of Zoothamnium niwum
+(HEMPRICH & EHRENBERGI8. 3 I) EHRENBERG18. 38 (Oligohymenophora, Peritrichida), a ciliate
+with ectosymbiotic, chemoautotrophic bacteria. Europ. J. Protistol., 32: 18-30.
+--, C. F. BARDELEJ&. A . On, 1996b: Electron microscopic studies on Zoofhamniumn izwrn (HEMPRICII
+& EHRENBERG1,8 31) EHRENBERG18,3 8 (Oligohymenophora, Peritrichida), a ciliate with ecto-
+symbiotic, chemoautotrophic bacteria. Europ. J. Protistol., 32 202-21 5.
+CAVANAUGCH., M., 1985: Symbioses of chemoautotrophic bacteria and marine invertebrates from
+hydrothermal vents and reducing sediments. Bull. Biol. SOC.W ash., 6 373-388.
+--, 1994: Microbial Symbiosis: Patterns of Diversity in the Marine Environment. Am. Zool., 34: 79-
+89.
+CHILDRESJS., J . & C. R. FISHER19,9 2: The biology of hydrothermal vent animals: physiology, biochem-
+istry, and autotrophic symbioses. Oceanogr. Mar. Biol. Annu. Rev., 30: 337-441.
+CLINEJ,. D., 1969: Spectrophotometric determination of hydrogen sulfide in natural waters. Limnol.
+Oceanogr.. 14: 454-458.
+DANDOP, . R. &A. J. SOUTHWAR1D9,8 6: Chemoautotrophy in bivalve molluscs of the genus Thyusira.
+J. Mar. Biol. Assoc. U.K.. 66: 91 5-929.
+FELUECHK.,, J. CHILDRES&S G. N. SOMERO19,8 1: Calvin-Benson cycle and sulfide oxidation enzymes
+in animals from sulfide-rich habitats. Nature, 293: 291.
+FENCHETL. ,& J. FINLAY19,8 9: Kentrophoros: a mouthless ciliate with a symhotic kitchen garden.
+Ophelia, Jo: 75-93.
+FISHER C. R., 1996: Ecophysiology of primary production at deep-sea vents and seeps. In: F. UIBLEIN,
+J. A. OTT& M. STACHUWITSC(EHd s.), Deep sea and extreme shallow-water habitats: affinities and
+adaptations. Biosyst. Ecol. Ser., 11: 313-336.
+GIEREO, ., I98 1: The gutless marine oligochaete Phallodrilus leukodermarus. Structural studies on an
+aberrant tubificid associated with bacteria. Mar. Ecol. Prog. Ser., 5: 353-357.
+--, 1996: Bacterial endosymbioses in marine littoral worms. In: F. UIBLEINJ. . A. OTT & M.
+STACHOWITSC(EHd s.), Deep sea and extreme shallow-water habitats: affinities and adaptations.
+Biosyst. Ecol. Ser., 11: 353-367.
+
+Ciliate-bacteria symbiosis 243
+--, N. M. CONWAYG, . GASTROCK& C. SCHMIDT1, 991: 'Regulation' of gutless annelid ecology by
+endosymbiotic bacteria. Mar. Ecol. Prog. Ser., 68: 287-299.
+HEMPRICHF,. W. & C. G. EHRENBERG18,3 1: Symbolae physicae. Evertebrata. I. Phytozoa. Abhand-
+lungen der Akademie der Wissenschaften zu Berlin.
+KLEKOWSKRI,. Z., 1971 : Cartesian diver respirometry for aquatic animals. Polskie Arch. Hydrobiol.,
+18: 93- 114.
+LAVAL-PEUTMO,. & F. RASSOULZADEGA19N8,8 : Autofluorescence of marine planktonic Oligotrichina
+and other ciliates. Hydrobiologia, 159(1): 99-1 10.
+MENONJ,. G. & A. J. ARP, 1993: The integument of the marine echiuran worm Urechis caupo. Biol.
+Bull.. 185: 44&454.
+NELSOND, . C. & C. R. FISHER19, 95: Chemoautotrophic and methanotrophic endosymbiotic bacteria
+at deep-sea vents and seeps. In: D. M. KARL( Ed.), The Microbiology of Deep-sea Hydrothermal
+Vents. CRC Press, Boca Raton, USA: 125-167.
+ODUM,E . P.. 1969: The strategy of ecosystem development. Science, 164: 262-270.
+OESCHGERR,. & R. SCHMALJOHAN19N8,8 : Association of various types of epibacteria with Halycryprus
+spinulosus (Priapulida). Mar. Ecol. Prog. Ser., 48: 285-293.
+OTT,J . A,. 1996: Sulfide ectosymbioses in shallow marine habitats. In: F. UIBLEINJ,. A. O n& M.
+STACHOWITSC(EHd s.), Deep sea and extreme shallow-water habitats: affinities and adaptations.
+Biosyst. Ecol. Ser.. 11: 369-382.
+-- & R. NOVAK,1 989: Living at an interface: meiofauna at the oxygen/sulfide boundary of marine
+sediments. In: J. S. RYLAND& P. A. TYLER(E ds.), Reproduction genetics and distributions of
+marine organisms. Olsen & Olsen. Fredensborg: 41 5422.
+--, R. NOVAKF, . SCHIEMERU,. HENTSCHELM. . NEBELSIC&K M. POLZ, 1991: Tackling the sulfide
+gradient: a novel strategy involving marine nematodes and chemoautotrophic ectosymbionts.
+P.S.Z.N.1: Marine Ecology, 12 261-279.
+--, G. RIEGERR, . RIEGER& F. ENDERES1,9 82: New mouthless interstitial worms from the sulfide
+system: Symbiosis with prokaryotes. P.S.Z.N.1: Marine Ecology, 3(4): 313-333.
+RUTZLERK, . & I. C. FELLER19,9 6: Caribbean mangrove swamps. Sci. Am., 274/3 94-99.
+-- & 1. G. MACINTYRE19, 82: The habitat distribution and community structure of the barrier reef
+complex at Carrie Bow Cay, Belize. In: K. RUTZLER& 1. G. MACINTYR(EE ds.). The Atlantic
+barrier reef ecosystem at Carrie Bow Cay, Belize, 1. Structure and Communities. Smithsonian
+Institution Press, Washington, DC. Smithson. Contrib. Mar. Sci., 129 45.
+SCHIEMERF,. , R. NOVAK& J. OTT, 1990: Metabolic studies on thiobiotic free-living nematodes and
+their symbiotic microorganisms. Mar. Biol., 106: 129-137.
+SCOTTK, . & C. R. FISHER19, 95: Physiological ecology of sulfide metabolism in hydrothermal vent and
+cold seep vesicomyid clams and vestimentiferan tube worms. Am. Zool., 35: 102-1 11.
+SOUTHWARAD., J., E. C. SOUTHWARDP., R. DANDO,R . L. BARRETT& R. LING, 1986: Chemoau-
+totrophic function of bacterial symbionts in small Pogonophora. J. Mar. Biol. Assoc. U.K., 66:
+415437.
+STEINJ. . L., S. C. CARYR, . R. HESSLERS, . OHTA,R . D. VETTERJ. . J. CHILDRE&S H. FELBEC1K98, 8:
+Chemoautotrophic symbiosis in a hydrothermal vent gastropod. Biol. Bull., 174 373-378.
+TAMARAA.., C. DE RIDDERJ,. G. KUENEN& L. A. ROBERTSON19, 93: Sulfide-oxidizing bacteria in the
+burrowing echinoid, Echinocardium cordarum (Echinodermata). Mar. Biol.. 115: 179-1 85.
+TUNNICLIFFVE.,, 1991 : The biology of hydrothermal vents: ecology and evolution. Oceanogr. Mar.
+Biol. Annu. Rev., 29 319407.
+--, 1992: The nature and origin of the modern hydrothermal vent fauna. Palaios, 7: 338-350.
+VISSCHERP,. T., J. BEUKEM&A H. V. GEMERDE1N99,1 : In siru characterization of sediments: measure-
+ment of oxygen and sulfide profiles with a novel combined needle electrode. Limnol. Oceanogr.,
+36 1476-1480.
+

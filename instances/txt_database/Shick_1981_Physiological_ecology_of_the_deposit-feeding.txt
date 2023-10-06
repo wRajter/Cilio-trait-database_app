@@ -1,0 +1,1074 @@
+I
+MARINE ECOLOGY - PROGRESS SERIES
+Vol. 5: 165-184, 1981 Published May 31
+Mar. Ecol. Prog. Ser.
+-
+- - -. - -
+Physiological Ecology of the Deposit-Feeding Sea
+Star Ctenodiscus crispatus: Ciliated Surfaces and
+Animal-Sediment Interactions
+J. Malcolm Shick, Kelly C. Edwards and John H. Dearborn
+Department of Zoology, University of Maine, Orono, Maine 04469, USA
+ABSTRACT: Ctenodiscus crlspat~lsi s a non-selective deposit feeder on organically-rich (9.7 O/o of
+sediment dry weight) oxidized clayey-silt in the Gulf of Maine, USA. The mud star's lack of selectivity
+is attributed to the thorough mix~nga nd very fine particle size of the habitat sediment, in which 90 % of
+the particlt.5 are less than 4 @ (62.5 lim) in diameter These sediments are easily disturbed and present
+problems in maintaining unimpa~redg as-exchange surfaces. C. crispatus has adapted to this by
+establiah~nga temporary burrow and using its extensible epiproctal cone to nlalntaln connectron w~th
+the water column. The burrow is irrigated by ciliary currents which, based on laboratory observations
+of burrowed mud stars, provide a continuous respiratory flow with a min~mumo f disturbance to the
+flocculent surface sediment. Particles incidentally drawn into the burrow are trapped in cleansing
+mucus which is ingested, likely accounting for the enrichment in organlc content of stomach contents
+relative to habitat sediment. The low convection requirement (1.69 1 of water pumped per m1 of 0,
+removed from the current) reflects the respiratory, as opposed to nutnt~onaln, dture of the current. Thc
+cribriforrn organs not only create the driving force for the lcspiratory current, but themselves provide a
+large surface area (11 cm' in a 1.5 g individual), and ddditionally are r~chlys upplied with microvilli.
+Both the extensive ciliation and anatom~caal rranger~lcnotf the cribriform lamellaeeliminate unstirred
+I<~yrrast tht.11 ,lirfc~c.c>a nd account for low K, values tor tl~zzolveda mino acid uptake, which despite a
+low concentrat~on ( LIL.~I.~(J4~. 4 pM) in ~nterstitialw ater rn the hdbitat prov~dea net income in the
+~~ninlalc'.sn crgv butlyel. The biology of the eurybathic C, crispatus IS d~scussedw rth relerence to that 01
+thc rr Ik,tcd Porc~,llanasteritiaea, group of truly deep-sea d~posifte edlng astero~ds.
+INTRODUCTION Lieberkind, 1935; Madsen, 1961a; Turner and Dear-
+born, 1972). Gislen (1924) observed the general pat-
+The mud star Ctenodiscus crispatus (Retzius] is a terns of ciliation of Ctenodiscus crispatus. Sperm mor-
+small, circumboreal goniopectinid asteroid common on phology has been examined by Summers et al. (1975).
+level mud bottoms throughout the Gulf of Maine. Gen- Sterols in this asteroid have been characterized by
+erally considered to be a boreo-arctic species, the mud Grossert et al. (1973). Turner (1976) noted the effect of
+star is also found as far south as Cape Hatteras on the the ovarian hormone l-methyladenine on spawning in
+eastern North American coast (Verrill, 1914),a nd south this species. Shick (1976) described the respiratory and
+to Panama on the western coast (Grainger, 1966). The behavioral responses of this infaunal sea star to
+bathymetric range is from 2 to at least 1900 m (Alton, hypoxia and hydrogen sulfide. Finally, reproduction
+1966; Grainger, 1966), and most specimens are found and population genetics of C. crispatus have been
+at depths of 50-600 m (Mortensen, 1927). More south- studied by Shick et al. (in press).
+ern populat~onso ccur in deeper water than northern Other than the general observation that the mud star
+populations. The mud star may be locally abundant is an infaunal deposit feeder, little is known of its
+and form a significant portion of the macroinvertebrate feeding biology. On the basis of a simple experiment
+biomass in clayey silt substrates. carr~edo ut during his studies on the ciliation of various
+Previous work on the mud star has concentrated on echinoderms, Gislen (1924) concluded that Ctenodis-
+anatomy and morphology (Fisher, 1911; Verrill, 1914; cus crispatus is probably a ciliary-mucoid feeder on
+O Inter-Research!Printed in F. R. Germany
+
+166 Mar Ecol. Prog. Ser. 5: 165-184, 1981
+sediment particles. He believed that the ciliated lamel- suction corers made from glass or plastic hypodermic
+lae on the cribriform organs, which occur between all syringes and were maintained on ice during transport
+marginal plates in this species, are used as particle to the laboratory. Core lengths were generally about
+sorting devices in addition to producing respiratory 5 cm.
+currents. Later authors have generally relied on Gis- Specimens were usually taken in a Blake (beam-
+16n's (1924) account (e.g. Hyrnan. 1955; Madsen, type) trawl containing a 3 mm stretch-mesh bag liner
+1961a). In its feeding habits and general marphology Juvenile sea stars were obtained by gently sieving the
+C. crispatus is similar to the deep-sea Porcellanas- sediment retained by the trawl through a 1 mm mesh.
+teridae, and Madsen (1961a) implies that it may repre- Adults and juvenkles for physiological studies were
+sent an evolutionary step in their development. Earlier immediately placed in sea water at O0 - 2 OC for trans-
+workers, in fact, placed Ctenodiscus in the Porcel- port to the laboratory, where they were maintained in
+lanasteridae (see Mortensen, 1927) although Spencer recirculating seawater at seasonal habitat tempera-
+and Wright (1966) accept its placement in the tures. A few mud stars were captured in grab samples.
+Goniopectinidae. These specimens were important because direct com-
+The funct~onsof the cribriform organs and associated parisons could be made between ingested sediment
+channels, cilia, tube feet, and mucus in Ctenodiscus removed from the sea stars and the environmenta'l
+crispatus have not been examined in sufficient detail sediment immediately surrounding them. Sediment
+to explain the mechanisms of feeding and burrow from mud star stomachs was extruded by applying
+irrigation in this animal which lives in unstable sedi- gentle pressure on the aboral surface.
+ments of very fine particle size. The functional mor-
+phology of C. crispatus is of interest because of its
+manipulation of sediment, both physically and chemi- Sediment Analyses
+cally. Organism-sediment relations in fine-grained
+deposits have been reviewed by Rhoads (1974) who Some cores were analyzed as entire samples. Others
+emphasized the importance of activities of mud-dwell- were split lengthwise to provide subsamples for sepa-
+ing animals in modifying the physical and chemical rate determinations of organlc content and particle
+properties of the sea floor. Because of the close size. A few cores were divided into several contiguous
+similarities in morphology and feeding habits between depth horizons of 0-2 mm, 2-7 mm, 7-12 mm, and
+C. crispatus and the porcellanasterids, many aspects of 12-22 mm, to check for variation with sediment depth.
+the biology of the mud star may be applicable to these Organic content and particle slze distribution were
+deep-sea forms as well. determined for sediment from both the environment
+and the stomachs of selected mud stars. Weights for all
+procedures were determined to the nearest 10 yg. An
+MATERIALS AND METHODS estimate of total organic matter (TOM)w as determined
+by loss of weight of dried sedlment on ignition, at
+Sample Collections 500 "C for 4 h (Byers et al., 1978). No correction for
+carbonate content, which is very low in these sedi-
+Numerous specimens of Ctenodiscus crispatus, a ments (L. M. Mayer, pers. comm.),w as made.
+total of 112 environmental sediment samples, and 52 Particle size distributions were determined using a
+sediment sanlples removed from the cardiac stomachs combrnation of wet sieving and Coulter Counter analy-
+of individual sea stars were obtained in the Gull of sis. Each sample was washed through stacked sieves of
+Maine, USA, during 13 trips at various seasons from 500, 250, 125, and 75 pn:. Fractions > 75 were
+1977 to 1980. The collecting site (43'44'12"N, dried, weighed, and the percentage of total drv sample
+69'39'21"W to 43'43'18"N, 69"39'48"W] was located weight calculated. The < 75 Km fraction was analyzed
+off Damarlscove Island and The Cuckolds, Maine, with a particle counter (Model TA Coulter Counter)
+about 10 km offshore from the mouth of the Damaris- with a 200 pm aperture following the general proce-
+cotta River at a depth of 60-76 m. The bottom at the site dures of Sheldon and Parsons (1967).T he 200 pm aper-
+was a gently seaward-sloping basin of soft silt and clay ture allows accurate analysis to the 4 pm level. Data
+with occasional rock outcrops. Bottom temperatures were transformed from micrometers to @ (phi) units,
+ranged from 2.8 "C (28 March 1979) to 9.4 "C (29 the most accepted grade scale in recent sedirnentologi-
+November 1977) (see Edwards. 1980 for sampling de- cal work (Folk, 1974). A number of random samples
+tails). were examined visually to categorize particle species
+Environmental sediments were taken with a Shipek present in each size range.
+grab (Holme, 1964). Subsamples of grabs in which the The arcsine transformation test for the equality of
+sediment surface was undisturbed were taken with two percentages (Sokal and Rohlf, 1969) was used to
+
+Shlck et a1 Sea star-sedrment ~nleractions 167
+compare TOM content between nlud star stomach and to, and rinsed in clean artificial seawater immediat.ely
+environmental sediment samples. Particle size dis- before, the experiments Parallel st~~diewse re per-
+tribution plots of en\rironniental and asteroid sediment formed in which antlbiot~c-treated juveniles were
+samples were prepared using a rnodified computer exposed to uniformly labeled "C-glycine (New Eng-
+plotting program for the Calcomp plotter. Analysis of land Nuclear) in 32 X,, S artificial seawater and
+differences between various particle size distributions medium glycine concentration was simultaneously
+was carried out by discriminant analysis (Sokal and measured by liquid scintillation and fluorometric
+Rohlf, 1969) techniques. Neither primary anline nor radioactivity
+Oxidation-reduction potential (redox, Eh) profiles levels in control vessels containing no mud stars
+were determined with a polished platinum electrode dt changed during 18 h at 8 "C. Finally, the kinetlcs of
+5 mm intervals in 50 cc glass syringe cores placed in uptake of "C-glycine by individual juveniles were
+seawater aquaria at the prevailing seabed temperature determined using concentrations ranging from 1.9 to
+(5 "-8 "C); corrections were made for the calornel elec- 101.3 kih1 in artificial seawater and incubation times of
+trode (Orion Research) potential at the experimental 10 min. Specimens were then quickly rinsed in ice-
+temperature. cold artificial seawater, blotted dry, weighed, digested
+overnight in Protosol tissue solubilizer (New England
+Nuclear), and subsequently assayed for total glycine
+Electron Microscopy uptake on a Packard Model 3255 liquid scintillation
+counter. Corrections for quenching were made using
+Scanning electron microscopy (SEM) and transmis- internal and external standards. Similar kinetic experi-
+sion electron microscopy (TEM) were used to study ments were conducted with I4C-asparate, both in the
+morphological details of mud stars. All specimens absence and presence of 100 pM glycine. All uptake
+were initially fixed aboard the collecting vessel, either experiments were performed at 8 'C. Additional speci-
+in chilled 2.5 O/o phosphate-buffered glutaraldehyde mens wc-rc used to determine the relationship betwt.cn
+for 2 h (most SEM specimens) (Sabatini et al., 1963),o r blotted wet and dry weight.
+in 2 % glutaraldehyde in 77 % seawdter for 12 h (some
+SEM and all TEM specimens) (Holland and Jesperson,
+1973). All specimens were subsequently washed and Oxygen Uptake
+stored in cold 0.1 M Sorenson's phosphate buffer Sec-
+ondary flxation of all material was in cold 2 % osmium Rat.es of oxygen uptake by intact mud stars were
+tetroxide. The best SEM results were obtained on monitored continuously in closed vessels described in
+speclinens dehydrated in ethanol series, critical point Shick (1976) at 5 " or 8 "C using Yellow Springs Instru-
+dried, and coated with a gold/palladium mixture. Full ment Company Models 5720 or 5750 oxygen probes
+details are given in Edwards (1980). and a Model 54ARC oxygen meter. Oxygen uptake
+rates by some juveniles were measured with an oxygen
+microelectrode (Rank Brothers). Sediment collected
+Dissolved Primary Amines from the mud stars' habitat was sieved to remove
+macrofauna, frozen and thawed to kill other organisms,
+Interstitial water was expressed from fresh sediment and then placed in 11 cm diameter glass bowls to a
+under N, pressure (25-40 psi) in a stainless steel Milli- depth of 4 cm. Animals were allowed to establish bur-
+pore pressure filtration apparatus fitted with acid- rows in these bowls of sediment which were sub-
+r~nsedfi lters (0.22 ~u-pIo re size) Totdl primary amine merged in rec~rculatinga quaria at 5OC. Water samples
+concentration was determined wlth Fluoi-escamine (50-75 111) taken from distin.ct excurrent channels of
+reagent [Roche Diagnostics) in a Turner Model 110 individual mud star burrows using a glass syringe
+fluorometer using the methods of North (1975) and fitted with a drawn glass capillary tube and positioned
+Stephens (1975).G lycine standards in artificial seawa- with a inici-omanipulator were injected into a
+ter (formulation of the Marine Biological Laboratory; Radiometer Copenhagen BMS3 Mk 2 Blood Micro Sys-
+Cavanaugh, 1956) were employed. tem (bath temperature regulated at 5OC) connected to a
+The uptake of primary amines from 10-15 m1 of PHM71 Mk 2 acid-base analyzer for determination of
+interstitial water obtained as above was monitored their oxygen contents. A minimum of five samples was
+fluorometrically in juvenile Ctenodiscus crjspatus. All taken during a l-h period in each of seven specimens.
+specimens were rinsed of surface sediment and incu- The removal of 0, from the burrow irrigation current
+bated in an antibiotic solution (500,000 units penicil- was calculated by subtracting the above values from
+lin. 200 mg streptomycin sulfate, and 50 mg chloram- those for incurrent water. The redox profile of undis-
+phenicol per liter of artificial seawater) for 24 h prior turbed sediment and of sediment in the same bowl but
+
+Mar Ecol. Prog. Ser 5: 165-184, 1981
+immediately adjacent to burrow excurrent channels environmental sediment samples. The organic content
+was measured with the platinum electrode positioned of samples from the cardiac stomach of mud stars was
+by a micromanipulator. The oxygen partial pressure in significantly higher than from environmental samples
+Ctenodiscus crispatus perivisceral fluid was deter- (P = 0,0042).
+mined for samples removed by puncturing the aboral
+skin and injected into the Blood Micro System.
+Particle Size Analysis
+RESULTS Particle size analysis of environmental sediments
+indicates that the substrate of the study area is fairly
+Sediment Organic Content uniform and homogenous in structure, both with
+increasing sediment depth and from site to site (Table
+Total organic content differed greatly between sedi- 1).T he sedlment is very fine-grained, and silt and clay-
+ment derived from mud stars and the environment (Fig. sized particles predominate, averaging 76.2 % and
+1). Organic material in sediment from animals aver- 15.8 % of the substrate, respectively. Sand-sized parti-
+aged 28.2 % of total sample weight. Environmental cles make up a relatively small proportion of all sam-
+sediment averaged 9.7 % organic content by weight. ples, averaging 8.1 % of total sample weight.
+The range of mean values for organic content by col- Fecal pellets of marine invertebrates were the most
+frequently observed particles in the sand-sized frac-
+45 n Sed~mento rganlc content tion. Larger size fractions (< 2 @, > 250 pm) often
+contained worm and amphipod tubes, nuculid
+o: environment t
+I:sea stars bivalves, portions of macroalgae, terrestrial plant
+debris and occasionally Foraminifera and large
+diatoms. Diatom tests were most abundant in the 2-3 (O
+(250-125 pm) size fraction. Occasionally this fraction
+also contained disarticulated echinoderm ossicles and
+sponge splcules. Organic debris unidentifiable by
+light microscopy often formed substantial portions of
+samples in all size classes. Meiofaunal organisms were
+rarely encountered except for occasional mites and
+nematodes, which were generally in the 1-2 @
+Percent organic (500-250 pnl) sediment fraction: This may have been
+due to our collecting methods since kinorhynchs, mites
+Fig. 1. Individual values for organic content of sediment and nematodes are known to be common (S. Tyler,
+(percent of dry weight) from all mud star stomachs (N = 52)
+pers. comm.).
+3nd environmental samples (N = 112) collected by various
+methods described in text Individual mineral grains larger than 4 (O units
+(62.5 pm) in size were rare in all samples examined
+lection date was wider in sediment samples from mud and were essentially absent from size classes > 2 @
+stars (20.5 %-43.3 %) than in environmental samples (< 250 pm),a lthough aggregations of smaller particles,
+(8.7 '3-10.5 %). The range of individual values (Fig. 1) apparently partially decomposed fecal pellets, were
+was 15.05 %-66.9 % for sea stars and 5.3 0/0-13.0 % for occasionally encountered in the 1-2 @ (500-250 pm)
+mean
+Table 1 Ctenodlscus crispatus. percent occurrence of sand, s~lal nd clay in sea star stomachs, comparable sediment
+samples and all environmental samples
+Part~cles ize class Sue range Percent occurrence
+C. crispatus' Grab samples All environmental
+containing mud samples' '
+stars '
+Sand 0-4 8,1000 -62.5 pm 7.05 8.95 8.05
+Silt 4-8 9, 62.5- 3 9 ~{rn 69.05 75.24 76.20
+Clay 8 Ca. < 3.9 23.90 15.81 15.75
+Samples from same grab
+' ' All environmental samples, includ~ngg rabs comparable to particular mud stars
+
+Shick et al.: Sea star-sediment interact~ons 169
+Ctenodiscus crispatus usually makes its burrow. Mix-
+ing appears complete to this sediment depth.
+Sediment from Animals
+We were successful in obtaining only 5 grab samples
+that were reasonably undisturbed and also contained
+undamaged adult mud stars so that direct comparisons
+could be made between particle size distributions of
+sediment from sea star stomachs and the environmen-
+tal sediment in which they were living.
+The mean values for the sand, silt, and clay fractions
+of these 5 environmental samples vary slightly from
+those of the combined environmental sediment sam-
+ples for all dates (Table 1).A nalysis by arcsine trans-
+Fig. 2. Particle size distribution plots. (a) Sediment from the formation for the equality of two percentages shows
+stomach of a mud star (CT1-G4), and 3 sediment cores from the variation is not significant (P > .10) in each case.
+the same grab sample, 23 June 1978, (b) Sediment from the
+The variation probably stems from the different
+stomach of a mud star (CT1-G2), and 3 contiguous sediment
+samples taken at various depths from the same grab. AA = number of samples in the 2 groups (14 and 52 respec-
+0-2 mm, A = 2-7 mm, B = 7-12 mm, C = 12-22 mm. tively). The smaller sample size for directly compar-
+28 March 1979 able samples introduces a greater error into the mean
+than does the large sample size for all environmental
+size class. In all cases the largest portion of the sample
+samples The 5 samples for direct comparison repre-
+consisted of mineral and clay particles smaller than
+sent different bottom locations as well as three diffe-
+4 Q, units (62.5 pm) in size.
+rent seasons of the year: summer, fall, and early spring
+Particle distribution of the substrate is uniform with
+Slight differences in the percentages of sand, silt,
+increasing depth throughout the top 2-3 cm of sedi-
+and clay size classes occur between sea star and sedi-
+ments (Figs 2 and 3), the maximum depth to which
+ment samples from the same grab (Fig. 2). The particle
+subsamples were analyzed, and the depth at which
+size distribution of sediment acquired from animal
+sources is finer than sediment from the general envi-
+ronment. In either case particles larger than 1 Q (500
+pm) were generally biologically derived structures
+such as worm tubes and bivalve shells.
+Discriminant factor analysis correctly predicted the
+classification of a sediment sample as animal or envi-
+ronment 89.5 % of the time when the environment and
+animal samples from the same grab were analyzed
+together. Animal samples were correctly classified
+100 O/o of the time, and environmental samples were
+correctly classified 85.7 % of the time.
+When asteroid samples were compared individually
+with sediment samples from the grab in which the mud
+stars were captured, discriminant analysis correctly
+predicted group classification in 3 of 5 sample sets. The
+analysis was unable to separate one sediment core
+from animal-derived sediment in each of the 2 remain-
+ing samples.
+Inspection of the particle size distributions of the five
+matched sample sets, two shown in Fig. 2, indicates
+Grain size (01 that whenever the analysis is able to separate animal
+from sediment samples, the animal sample is consis-
+Fig. 3. Particle size distribution plots for 4 contiguous sedi-
+tently richer in fine size-class particles than is its
+ment samples taken at various depths from the same grab. AA
+= 0-2 mm, A = 2-7 mm, B = 7-12 mm, C = 12-22 mm; 28 associated habitat sediment. Each of the cases in which
+March 1979 discriminant analysis was unable to distinguish sam-
+
+170 Mar. Ecol. Prog. Ser 5: 16.5-184, 1981
+ples fro111 each other exhibited animal sed~mentp ro- paxillae. Each paxilla consists of a stout central column
+files that were very similar to those in the remaining 3 crowned with a variable number (4-10) of spinelets.
+sample sets. Environn~entals ediment profiles in indis- There is no particular pattern of distribution of paxillae
+tlnguishable cases were more variable than those in with different numbers of spinclets.
+distinguishable cases, and in each set at least one of Because of the flexible nature of the aboral surfacc,
+the environmental sediment profiles closely parallels the profile of the sea star is variable, and reflects the
+the animal sample. degree to which the stomach is filled with sediment or
+One sample set allowed the con~parisono f a mud water Indivitiuals that have recently engorged them-
+star with sediment depth horizons from the grab in selves with mud exhibit a highly rounded profile. The
+which it was captured (Fig.2 b).T hroughout the major- aboral surface of empty specimens may be flat or
+ity of the range the mud star exhibits a particle size s1ightl.y concave. An anus is lacking. The center of the
+distribution that is finer than any of the vertical depth aboral body wall is pdrticularly extensible, and forms a
+horizons In the sediment surrounding it Discriminant prominent epiproctal cone (Fig. 4a). The degree of
+analysis clearly separates the environment from the epiproctal cone extension is variable. The epiproctal
+animal sample in this case (Edwards, 1980). cone may be inverted, or its height may be several
+The largest portion of the animal sediment availdble times greater than the height of the marginal plates. In
+for analysis was derived from mud stars collected by a burrowed mud star, the tip of the eplproctal cone
+trawl on 26 July 1979. The mean values of sand, silt, typically is all that is visible, either in a shallow pit or
+and clay-sized pdrlicies in the stomachs of these ani- protruding above the sediment surface.
+mals varied considerably from the corresponding val- The epidermis of the aboral surface contains numer-
+ues for specimens from the grab samples. For this ous retractile dermal branchiae, or papulae. Each
+reason, sediment data from trawl-collected sea stars papula chamber is continuous with the perivisceral
+were not compared with environmental sed~mendt ata. cavity through a pore in the Integument, allowing
+Some sediment fractions likely could have been lost circulation for gas exchange. The papulae are capable
+from the sea star during capture by trawl~ng. of great extension. An inflated papula generally stands
+Particle species found In sediment obtained from at least as tall as the suture lines between individual
+animal stomachs were similar to those found in spinelets and the column of an adjacent paxilla (Fig.
+environmental sediment, although the frequency of 4c) and is capable of further extension. Papulae are
+unidentifiable organic material relative to identif~able retracted in response to Irritation.
+particles was higher in mud stars, probably the effect Both the floor of the aboral surface and the papulae
+of digestion. As in environmental sediments, the larger are ciliated. Ciliation extends up the paxillar column
+size fractions (<2 cP, > 250 pm) consisted primarlly of approximately as far as the suture lines between col-
+worm and amphipod tubes, terrestrial plant and umn and spinelets (Fig. 4c). Beyond this point on the
+macro-algal remains, and nuculid bivalve shells and column ciliation rapidly diminishes, and the spinelets
+fragments. Shells and fragments of shells seemed and crown of a paxilla are not ciliated.
+slightly less abundant in mud star samples than in the The general direction of ciliary movement on the
+general environment. Diatoms were occasionally aboral surface of the mud star is from the center of the
+~mportanti n the 1-2 d, (500-250 km) size class. Addi- dlsc and arms to the perimeter, specifically into chan-
+tionally, several mud stars contamed one or more small nels leading between adjacent marginal plates. Cur-
+crustaceans or mites in this size range. rents move around the bases of paxillae and papulae
+Fecal pellets, diatoms, and mineral flakes in v~~rious and perhaps up thclm as well, although it was imposs-
+degrees of conglomeration (perhaps the remains of ible to determ~net he latter with certainty. Mucus
+fecal pellets) domindted the size classes from 2-4 d, strings are frequently found on the aboral surface, and
+(250-62.5 ~inl)F ragmented echinoderm ossicles and in some cases strings and sheets of mucus may be
+sponge spicules were occasionally found In these s~ze suspended from paxilla crowns.
+classes. The > 4 @ (< 62.5 pri) fraction consisted Pairs of massive marginal plates surround the
+primarlly of mln~ralc hips and flakes, and clay parti- perimeter of Ctenodiscus crispatus. Each pair consists
+cles ranging to > 8 <P (< 3.9 In size There were of a dorsal superomarginal and a ventra.1 inferomargl-
+few or no identifiable organisms or remains in this size nal plate, both of which have large spines surmounting
+fraction. their uppcr surfaces.
+Between adjacent pairs of su.peromargina1p 1.ates are
+Morphology and Behavior deep, vertical grooves containing a number of heavily
+ciliated lamellae. These ciliated channels are termed
+The aboral surface of Ctenodiscus cr~spatus( Fig. cribriform organs. Adjacent marginal plates have a
+4a-c) is thin and flexible, and is covered with many series of small spines along their edge that flare out
+
+
+
+172 Mar Ecol. Prog. Ser.
+over these grooves to form protective cover lamellae, Microvilli are also found on the external surfaces of the
+nearly sealing the cribriform organs laterally. Occa- mud star although they are usual.ly covered by a thick
+sionally, apparent fusion of the epidermis on two cover mucus coat. The number of microvilli per cell on exter-
+lamellae occurs, completely bridging the opening bet- nal surfaces is much lower than on the cribriform
+ween adjacent marginal plates. The lumen of each lamellae.
+cribriform organ opens onto the aboral surface of the SEM examination indicates that except for cover
+mud star (Fig. 4b, e). The relatively sparse ciliation of lamellae, the lamellae of the cribr~formo rgans are
+the aboral surface gradually increases in density as the closely spaced, generally being separated by a dis-
+entrance to the cribriform organ is approached. tance of approximately l0 pm. Cover lamellae are
+The number of lamellae in a given cribriform organ separated from the cribriform lamellae by approxi-
+is varlable and depends on the location of the crib- mately 125 pm. Such variation in spacing between
+riform organ. Those in the center of an interradius cover and cribrlform lamellae may be an artifact of
+contain the greatest number of lamellae (9-11). Dist- SEM sample preparations, since dried mud stars and
+ally, cribriform organs have fewer lamellae and those transverse sections of cribriform organs (Fig. 4d)
+at the tips of the arms generally have none. exhibit even spacing of lamellae perhaps more indica-
+The surfaces of the cribriform lamellae are covered tive of the natural state.
+with microvilli (Fig. 5). The number per cell is vari- In longitudinal section each cribriform organ is a
+able. TEM sections (Fig. 5b) show that microvillar crescent-shaped channel with the lamellae located on
+length varies, and that branching of microvilll occurs. the proximal surface (Fig. 4e). Lamellae at the edges of
+the cribriform organ, immediately beneath the cover
+lamellae, are longest, approximately 2300 pm in
+length. Lamellae progressively decrease in length
+toward the center of the cribriform organ, and lamellae
+in the deepest part of the channel are approximately
+half as long as those nearest the cover lamellae (Fig.
+4d).
+Cribriform lamellae do not extend beneath the
+inferomarginal plates. Instead, a roughly tubular pas-
+sage reaches from the bases of the superomarginal
+plates to fascioles on the oral surface of the mud star.
+The walls of this passage are less densely ciliated than
+the lamellae of the cribriform organ itself.
+A rough calculation of the ciliated area of the lamel-
+lae of a single full-sized cribriform organ from the
+center of an interradius gave a value of 11 mm2 per
+cribriform organ. One commonly finds 12 full-sized
+cribriform organs, and 16 smaller cribriform organs on
+each interradius of an average-sized mud star (R =
+24 mm). Assuming that the less than full-sized crib-
+riform organs range from nearly fully developed,
+toward the base of the arms, to simple channels with-
+out lamellae at the arm tips, each was scored as the
+equivalent of half of a full-sized cribriform organ. Such
+figures produce a total of 60 full-sized and 80 half-
+sized cribriform organs on an average-sized mud star
+with a corresponding total lamellar area of 1100 mm2
+individual-'.
+The passages leading beneath adjacent inferomargi-
+nal plates from the cribriform organs empty into fascio-
+lar channels on the oral surface. Like the cribriform
+organs these channels are not completely closed, but
+the edges of adjacent plates tend to press closely
+F I 5~. C fenodrscus crjspatus. (a) SEM micrograph of the1 sur- together more or less isolating the interior of the chan-
+fdce of a cribriform lamella showing numerous m~crovillio n
+each cell surface; (b) TEM micrograph of the epidermis of a nel from the surrounding environment. Each fasciole is
+cr~briforml amella showlng microvilli. 15.000 X ciliated, although less heavily than the lamellae of the
+
+Shick et al.: Sea star -sediment interactions 173
+cribriform organ. Microvilli are also much less numer- vis~ble through this opening, and on occasion is
+ous. The ciliary fields between the two regions are extended through the mouth frame. The peristomial
+continuous. membrane is not ciliated.
+A strong, orally-directed current flows throughout Wide retraction of the peristomial membrane may be
+the cribriform organ/fasciolar system. Carmine parti- involved in a feeding response or a clearing mechan-
+cles deposited on the aboral surface of a healthy mud ism in which surface particles become trapped in
+star are carried to the perimeter of the animal by the mucus and ingested. On one occasion a mud star being
+aboral ciliation, where they enter the cribriform organs observed for ciliary currents on the oral surface exhi-
+and are transported toward the oral surface. Because bited an intriguing set of behaviors. As carmine parti-
+the cribriform organs and associated channels are not cles originating on the aboral surface collected at the
+sealed, particles are frequently ejected from the open- bases of the podia they became increasingly embed-
+ings between marginal plates, particularly in the lower ded in mucus apparently originating from the tube
+half of the system, and especially from the fasciolar feet. Such particles were progressively concentrated at
+channels. Particles transported as far as the ambulac- the podial tips. To accomplish this, adjacent podia
+nim are ejected into the region surrounding the podia. would dip into the mucus surrounding their bases,
+No ciliary current was observable in those cribriform collect some amount of it, and rub it off on the surface
+organs nearest the arm tips. of another podium. Continued rubbing of podia con-
+Neither the walls nor the floor of the ambulacral centrated masses of mucus-embedded particles at the
+groove are ciliated. Particles entering the ambulacrum tips of the podia. The mucus thus collected was then
+from fasciolar channels generally exhibit movement, passed orally to the next podium in sequence. The
+but such movement is random and seems directly peristomial membrane was fully expanded at this
+linked with water currents created by podial activity. point, clearly exposing the stomach lining. As the
+Podia are paired, lack sucking discs, and are pointed podia adjacent to the mouth received mucus from the
+as in the case in many other soft-sediment dwelling sea more distal podia, they were extended through the
+stars. The tip of each podium has a distinct glandular mouth frame and into contact with the stomach lining.
+region. Mucus is frequently observed in the ambulac- The effect of this action was to concentrate mucus and
+rum and may be produced by the podial tips. Podia1 embedded carmine particles in the stomach of the mud
+surfaces are non-ciliated. star.
+Podia are utilized in burrowing by the mud star. Two
+mechanisms are apparent, neither of which predomi- Uptake of Primary Amines
+nates in mud stars observed in the laboratory. In the
+first case, the mud star plows down into the substrate The concentration of dissolved primary amines in
+while moving forward. The extended podia are used as inshore clayey-silt in the Gulf of Maine averages
+anchors or levers in the substrate as the mud star 4.4 pM (N = 14). ranging from 2.6 to 12.8 PM (glycine
+progresses. This method of burrowing results in the equivalents). Primary amines do not appear to be
+lead arm being buried first, and the rest of the body stratified according to depth, at least in the upper 3 cm
+progressively follows.
+The second method of burrow formation involves
+sinking vertically into the sediment. The extended
+podia are used to scoop to one side the sediment lying
+beneath the body of the mud star, and the animal
+gradually sinks into the cavity thus excavated, in a
+manner similar to that reported for the genus Astropec-
+ten (Kenk, 1944; Christensen, 1970). The result of
+either burrowing process generally leaves only the
+epiproctal cone and occasionally the arm tips visible.
+Although Ctenodiscus crispatus is probably capable om A
+b!.
+of moving through the sediment without coming to the
+l
+I I I I I I I
+surface, as is reported for other sediment-dwelling -50 100 150 200 250 300 350
+asteroids, this was not observed in the laboratory. This Eh(mV)
+may have been owing to the relatively small size of the Fig. 6. Redox (Eh) profiles in undisturbed cores taken
+containers used to hold the mud stars. 24 August 1977. Circles: duplicate cores taken from grab
+sample 1 Triangles: redox profile in core from grab sample 2.
+The peristomial membrane is capable of great
+Squares: primary amine concentrations in interstitial water
+expansion, creating a mouth opening at least a cen- from top 1.5 cm and next 1.5 cm horizons of sediment in grab
+timeter across in adults. The stomach lining is clearly sample l. Sediment temperature = 7.2 "C
+
+174 h4ar Ecol. Prog. Ser. 5 165-1.84, 1981
+of sediment (Fig 6), in agreement with the thorough ary amines, there was also a measurable release of
+mixing of the sediment noted above. Redox profiles of thcse substances into the medium. When juveniles
+undisturbed cores reveal that the sediment is oxidizing were exposed only to '.'C-glycinc (initial concentration
+in nature, Eh remaining above +50 mV in the upper = 6.6 ttM) in artificial seawater and the disappearance
+5 cm, with the greatest change in potential occurring of glycine monitored simultaneously by fluorometry
+bctwtlen the sediment surface and 1 cm depth (Fly. 6). and liquid scintillation counting, the curves diverged
+Patches of reduced sediment (indicated by the smell of after about 1.5 h (Fig. 8). Total radioactivity in
+hydrogen sulfide) were also encountered in grab sam-
+ples, and specimens of Ctenodiscus crispatus were
+sometimes present in thcse samples. The concentration
+of a single sample of primary amines from such sedi-
+ment was 6.6 1tM.
+Experiments in which adult specimens (1-2 g dry
+weight) of Ctenodiscus crispatus were exposed to
+interstitial water expressed from sediments yielded
+equivocal results concerning the uptake of primary
+amines. Because of the ease with which the papulae of
+these specimens are damaged during removal of sur-
+face mllcus and sediment, it was d~fficultto ensure that
+the experimental animals were ~ntact.M icroscopic
+examination of the papulae often revealed that they
+had been ruptured, thus allowing perivisceral fluid to
+Fig. 8. Ctcnod~scusc rispatus Depletion of I4C-glycine from
+an initial concentration 01 6.6 ~IMm, easured simultaneously
+by llqu~ds cintillation (8) and fluorometric (0) techniques.
+Animal wet weight = 65 mg. For comparison, see deplet~on
+of naturally occurring primary amlnes from the same ln~tial
+concentralion (Fig. 71, and text for discussion
+acidified (to drive off '"CO,) seawater samples
+declined exponentially, achieving a final level equiva-
+lent to 0.3 yM glycine. Total fluorescamine-positive
+materials reached a plateau at about 2 PM after 4 h,
+increasing to 2.3 ~LMby 18 h. Following Wright and
+Stephens (1978) and Stephens et al. (1978), we inter-
+pret these results as indicating the release of uniden-
+tified primary amines into the medium simultaneous
+with the accumulation of labelled glycine by the mud
+stars.
+I I I F. r Y
+2 3 4 5 6 ' 1 8 The entry of glycine into Ctenodiscus crispatus tis-
+Time (h)
+sues proceeds by saturable and non-saturable path-
+Fig. 7. Ctcnodisc~~crsi spat~lsD. eplet~ono f naturally occurring ways (Fig 9). Wright and Stephens (1978) have
+primdry amines frc)nl intt~alc oncentrations of 5.1 (A), 6 6 ( 1, explained the non-saturable component as being due
+and 12.8 (0)1 141, by juven~lcm ud stars of 55, 55, and 53 mg
+wet wc.1(111!~, r~\pr?ctir~t.lv to the rapid labelling of a large extracellular (inulin)
+space in mussel gills, and Ahearn and Townsley (1975)
+leak into the incubation medium and accounting for likewise convincingly invoke a Large inulin space to
+the a.pparently net leakage of primary amines. account for non-saturable entry of amino acids into the
+Repetition of uptake experiments using less easily holothurian Chlridota rigida. Although extracellular
+damaged juvenile specimens (average 15 mg dry space has not been measured in the present experi-
+weight) produced clear evidence of a net uptake of ments, such an explanation is likely applicable to C.
+natural primary amines from in~tialc oncentrations of crispatus as well. The saturable, carrier-medlated
+5.1, 6.6, and 12.8 1tM (Fig.7 ) in interstiti.al water The entry of glyc~neth erefore has been quantified by cal-
+residual concentration of primary amines was directly culating the constant for non-saturable entry using
+related to the initial concentration, and the implica- regression analysis of the linear portion of the uptake
+tions of this will be discussed below curve (rates at 18.8 to 101.3 vM) and correcting the
+Despite the occurrence of a net uptake of total prim- data according to the method of Muscatine and D'Elia
+
+Shick et al. Sea star-sediment interactions
+Fig 10 Ctenod~sc~lcsrl spatcls. Schemat~cd rdw~ngo f adult
+F I 9~ C tenodrscus crrspatus K~netrcsof "C-glyclne uptdke specimen (R = 24 mm) In burrow. AI-rowss how ~ncuri-enatn d
+by juven~les pecimens. Closed circles ulicorlected data, dch excurrent flows of irr~gationc urrent
+polnt represents mean, bars f 1 standard errol, of determ~rla-
+t~onso n 3 ~nd~v~duaOlpse n circles ddta corrected fo~
+unsdturable entry as descr~bedin text
+(1978). The corrected data (Fig. 9) have been used to
+calculate the kinetic parameters JA,,, (maximum rate of
+saturable glycine influx) and K, (glycine concentration
+at which J, = 0.5 JA,,,) using the statistical program of
+Wilkinson (1961) for enzyme kinetics. The values
+obtained are Ji,,, = 298 (2 19 S.E.) n moles g dry
+'
+weight h-' and K, = 2.86 (f 0.72 S.E.)p M, the latter
+value being about an order of magnitude lower than
+those reported in the literature for most other infaunal
+marine invertebrates. The corrected K, for asparate is
+3.14 i 0.33 pM and J:,,, is 28.42 1 0.54 n moles g-'
+h-'. These values are unchanged by the addition of
+100 PM glycine to the incubation medium, being 4.06
+:1 .01 PM and 30.44 f 1.58 n moles g-' h.-', respec-
+tively, indicating separate carrier systems for these
+amino aclds
+Burrow Irrigation and Oxygen Uptake
+Fig. 11 Ctenodlscus cnspatus. Redox (Eh) profiles in sedl-
+Ctenodiscus crispatus clearly irrigates its burrow ment ~nhab~tebdy 2 adult speclmens (top and bottom, respec-
+with oxygenated water. A given burrowed specimen tively) in the laboratory Closed circles sed~menst everal cm
+may show from 1 to 5 excurrent channels (Fig. 10), so away from burrow. Open circles, sediment adjacent to arms
+hav~ngd ~stincte xcurrent channels from the burrow. Dotted
+irrigation is not necessarily symmetrical. Redox pro-
+c~rcless ed~menta djacent to arm lacking excurrent channel
+f~leso f sediment immed~atelya djacent to distinct
+excurrent channels at the tips of arms are more
+strongly oxidized than are undisturbed sediments In surements, so the proviles obtained represented the
+the same bowl and sediments adjacent to arm tips steady-state condition.
+without excurrent channels (Fig. 11). The burrows had At an incurrent P,, of 159 mm Hg (oxygen content
+been established at least 5 d prior to the redox mea- 7.22 m1 1-l at 5 "C), Ctenodiscus crispatus removes
+Table 2 Ctenodiscus crispatus Parameters of water transport and oxygen uptake in a 1.5 g (dry we~ghts)p ecimen at 5°C. See text
+for definition and discussion of each quantity
+plo, P%> %Extr,, p ~ f ~ i % EwGi v,,1 v,, v,/ v"
+(mm Hg) (mm Hg) (mm Hg) (m1 g-h-') (m1 g-h-') (I ml-l)
+159 146 8.2 135 54 0 020 33.8 1.69
+
+176 Mar Ecol. Prog. Ser. 5: 165-184, 1981
+7.34 (+ 0.94, S.D.) % of the oxygen from the irrigation the study area is nearly uniform, and very fine. The
+current. Because of the large volume of water flow constancy and fine nature of the particle distribution
+(Table 2) and the large biomass of sea star tissue in implies a large surface area for a given volume of
+contact with it, any microbial or abiological chemical sediment throughout the study area, which provides a
+contributions to the 7 % oxygen utilization are prob- large substrate for bacterial growth (cf. Hargrave,
+ably negligible. The directly determined V,,, oxygen 1972; Dale. 1974). This fact, and the presumed alloch-
+utilization (%Extr,), and perivisceral fluid PO, in a thonous organic inputs from the Damariscotta River
+1.5 g individual have been used to calculate the estuary, are probably responsible for the unusually
+respiratory parameters in Table 2. The rate of water high organic content of these sedirnents.
+flow. V,, was calculated using the fundamental rela- The terrestrial origin of much of the organic detritus
+tionship (V,&,) %Extr, . C,@ = 1.0, (Dejours, in our samples, however, suggests that it is refractory
+1975) where C,,, is the oxygen content of the incurrent and not directly available to deposit feeders. Recent
+water. The effectiveness of 0, removal from the irriga- studies have shown that the bacteria associated with
+tion current, %E,,, or the ratio of actual to maximum particulate organic matter are probably the primary
+possible oxygen removal (Johansen and Petersen, nutritional source for detritivores (see Newell, 1979 , for
+1971), was calculated as (Pi,,-P,02/Pi,,-Pp,02) X 100, many references and review). Deposit feeders from
+where Pi,, and P ,, are the oxygen partial pressures in more heterogeneous sediments select food particles by
+the incurrent and excurrent water, and P,,, is that in size (Rhoads and Young, 1971; Whitlatch, 1974; Fen-
+the perivisceral fluid. C. crispatus does not have a chel et al., 1975; Hauksson, 1979). Other sediment
+respiratory pigment, and the capacitance (P) of perivis- properties, such as specific gravity and surface texture,
+ceral fluid is assumed to be the same as that of sea- can be used in sorting (Clifton and Thompson, 1978;
+water. Self and Jumars, 1978). In all of these cases a large
+bacterial population on the particles may make them
+attractive to deposit feeders.
+DISCUSSION In contrast to such selectivity, mud star stomach
+contents and environmental sediment show marked
+An infaunal existence in easily disturbed sediments similarity in particle size distribution (Fig. 2). The only
+of very fine particle size accounts for a number of apparent difference between the two is that the mud
+structural and physiological adaptations in Ctenodis- star generally shows a particle distribution that is
+cus crispatus which are not seen in most asteroids. The slightly enriched in the finest particle sizes as com-
+habitat and the morphological features are similar to pared to the environment. As outlined below, this
+those in the deep-sea Porcellanasteridae, and the discrepancy IS probably related to burrow irrigation
+results of our studies of the functional morphology and and efforts by the mud star to keep epidermal surfaces
+physiology of C. crispatus may be applicable to these clear of fouling particles.
+animals as well. On average, sediment obtained from the stomachs of
+sea stars contains three times more organic material
+(28.1 O/O vs 9.7 %) than the environmental sediment by
+Deposit Feeding weight, implying some means of organic enrichment.
+Additionally, the range of mean values observed is
+The results suggest that Ctenod~scusc rispatus is very wide. This degree of varlation in the organic
+nonselective and feeds on bulk sediment. The mud star content of sediment in the animal cannot be accounted
+occurs in an environment which renders unnecessary for by variations in the organic content of environmen-
+an energy expenditure for particle sorting. Several tal sediments in the study area.
+facts support this ~deaF.i rst, the organic content of the Organic enrichment of the stomach contents of mud
+sediments encountered is relatively high, averaging stars could occur in several ways. At least some of the
+9.7 % of the substrate by weight. Very few values for variation observed is probably owing to the secretion
+sediment organic content reported in the literature, of digestive juices into the stomach during digestion.
+which range from 0.1 % in the deep sea (Sanders et al., Since it proved impossible to induce animals to feed in
+1965) to 17.4 % in the intertidal and shallow subtidal the laboratory, the stage of digestion at which samples
+sediments (Johnson, 1974), are higher. Second, the were taken could not be controlled.
+range of mean sediment organic content is very nar- Secondly, some organic contamination may have
+row, and shows little or no seasonal variation. Thus the resulted from the forced extrusion of sediment from the
+sediments of the study area represent a rich and con- mouth of the mud star, which, however gently done,
+stant food resource for deposit feeding organisms. may damage internal tissues and cause release of body
+Finally, the particle size distribution of sediments in fluids into the stomach contents.
+
+Shick et al.: Sea star -sediment interactions l77
+A third possibility is that mucus enrichment of the incurrent opening are carried into the burrow, but
+stomach contents occurs, and we in fact have observed those placed on the surface of the immediately adja-
+the mud star to ingest this material, although we do not cent sediment are not. (In nature, however, the intake
+concur with Gislen's (1924) assessment that Ctenodis- of surface particles resuspended by bottom currents or
+cus crispatus is a ciliary-mucoid feeder, as discussed bioturbation could occur.)
+below. Mucus likely keeps the respiratory surfaces The presence of amphipod and polychaete tube frag-
+clear of fouling particles, an important function in an ments, bivalve shells, and other large particles in the
+infaunal animal respiring through exposed epidermal sediment-filled stomachs of many specimens (see
+structures. 'Results'; also, Sokolova, 1958, and Carey, 1972)
+Why should Ctenod~scusc r~spatubs e a nonselective argues against Ctenodiscus crispatus being purely a
+deposit feeder when it would appear advantageous to ciliary-mucoid feeder and suggests that the animal
+ingest selectively the smallest particles present ingests sediment in bulk. Although the mud star does
+(Taghon et al., 1978), since these should have the indeed ingest mucus-imbedded particles (as originally
+highest organic content (see Newell, 1979 for review) suggested by Gislen), the principal role of the mucus is
+and represent the best food resource? Two possibilities to maintain an epidermis unencumbered by such
+are sugested. First, the study area represents an unusu- materials, and its ingestion is largely a means of recy-
+ally rich and uniform food source for deposit feeding cling a copious extracellular secretion which is
+animals. Second, the particle distribution of the sedi- energetically expensive to produce (see Calow, 1977,
+ment is homogeneous and extremely fine. The combi- pp. 23-27). Because mucus production and consump-
+nation of these factors produces a situation in which no tion is probably variable over time, this mechanism
+particle selectivity is required to maximize organic could partly account for the increased variability and
+input. richness of the stomach organic content as compared to
+the surrounding environment, as well as explaining
+the observations of Gislen.
+Cribriform Organ Function The slight enr~chrnento f the stomach contents with
+fine particles (Fig. 2, Table l), which likely have a
+Since Ctenodiscus crispatus is not a selective deposit higher organic content than larger particles (e.g.
+feeder, what is the function of the cribriform organs, as Newell, 1979, p. 355 et seq.),p robably reflects the fact
+it would appear that their closely opposed, heavily that the smaller particles are more likely to be sepa-
+ciliated lamellae (Fig. 4, d, e, f) are ideal for particle rated from the sediment by ciliary currents, passed
+sorting? Past authors have attributed several functions through the crlbriform organs, and subsequently trap-
+to the cribriform organs. Sladen (1883) described por- ped in mucus and ingested. Such a mechanism of
+cellanasterid cribriform organs as 'percolators', appa- particle 'selectivity' is discussed by Self and Jumars
+rently in reference to the water currents that pass (1978).
+through them, and was of the opinion that they were When Ctenodiscus crispatus irrigates its burrow, a
+respiratory in nature. Gislen (1924),o bserving C. cris- strong excurrent flow occurs through channels extend-
+patus, concurred with Sladen about a probable ing from the arm tips (Fig. 10), despite the absence of
+respiratory function, but also noted that small particles ciliary tracts oriented in this direction (see 'Results';
+were carried through the cribriform organs to subse- also, Gislen, 1924). Such a large flow, which is directed
+quent entrapment in mucus and eventual ingestion, through the oral fascioles and along the ambulacra, is
+suggesting a role in ciliary-mucoid feeding. Lieber- actually created in the cribriform organs (specifically,
+kind (1935) noted the presence of amoebocytes in the by the heavy ciliation on the cribriform lamellae),
+ciliated epithelium of the lamellae In C. crispatus and which act as 'turbines' and create sufficient force to
+postulated that one of their functions was excretion. drive the water through the sparsely ciliated, lamella-
+Madsen (1961a) stated that both respiration and feed- lacking channels beneath the inferomarginal plates,
+ing are accomplished with the cribriform organs but into the sparsely ciliated fascioles and non-ciliated
+did not suggest an excretory function. ambulacral grooves, and out of the burrow via the
+None of the above hypotheses was verified by hydraulically-excavated excurrent channels.
+observing living specimens burrowed in mud. When
+Ctenodiscus crispatus is maintained in the laboratory,
+it establishes a temporary burrow (which it occupies Burrow Irrigation and Oxygen Uptake
+from several days up to several weeks) and produces
+strong currents through the burrow, but the wholesale The irrigation of a burrow by the mud star provides
+transport of surface material into the burrow is not an opportunity to examine respiratory parameters not
+seen. Carmine particles pipetted directly into the feasible in other asteroids. The extraction of oxygen
+
+178 Mar Ecol. Prog. Ser. 5: 165-184, 1981
+from this current averages about 7-8 '10, the same as in generalize that active and sedentary deposit feeders
+most benthic filter-feeding invertebrates employing are likewise largely incompatible; both of these
+cilia-driven currents and lacking respiratory pigments studies implicate the difficulty in maintaining unim-
+(Jorgensen, 1975; Mangum and Burnett, 1975; Bayne paired gas exchange surfaces in fine sediments as a
+et al., 1976; Mangum, 1977). This value is lower than major factor in determining soft-bottom community
+the 18 O/O seen in Pteraster tesselatus (Johansen and structure. C crispatus is a potentially mobile deposit
+Petersen, 1971), which uses muscle-driven, tidal venti- feeder having a respiratory surface that is highly sus-
+lation of its primary respiratory surface in its nidamen- ceptible to clogging. The mud star has adapted to life
+tal chamber The convection requirement (v,,,/v,,,), or in easily disturbed sediments by limiting its mobility
+liters of water pumped per milliliter of 0, removed and establ~shingte mporary burrows, using the extens-
+from the current, is 1.69 in Ctenodiscus crispatus. This ible epiproctal cone to maintain a connection with the
+value is only slightly higher than that in a variety of water column. The burrow itself is irrigated by ciliary
+animals having respiratory pigments and employing currents, which, based on laboratory observations, pro-
+muscle-driven, truly r e S p i r a t o r y currents (Man- vide a continuous respiratory flow with a minimum of
+gum, 1977). Interestingly, it is similar to the value of disturbance of the flocculent sediment.
+about 1.6 (calculated from the data in Johansen and
+Petersen, 1971) in Pteraster tesselatus, although a
+direct comparison is difficult because oxygen entry is Uptake of Primary Amines and Glycine
+not restricted to the actively-ventilated nidamental
+chamber in P. tesselatus. The convection requirement The rather low concentration (2.6-12.8 PM) of prim-
+in C. crispatus is lower than that in filter-feeding ary amines in interstitial water reported in this study is
+bivalves (ca 3-20: Jnrgensen, 1966, 1975; Bayne et al., in good agreement with the only other data for amino
+1976), in which the current is more closely adjusted to acid concentrations in oxidized sediments in the Gulf
+feeding, rather than to respiratory, requirements. of Maine (Henrichs and Farrington, 1979) and in
+It is generally accepted that the low percentage of 0, oxidized sediments elsewhere (Degens, 1970; North,
+extraction by bivalves reflects the feeding nature of the 1975). This concentration is an order of magnitude
+irrigation current, but this hypothesis was framed lower than that in reduced sediments (Degens, 1970).
+mindful of the low availability of particulate food and Based on studies of the uptake and release of these
+in the absence of relevant data on gas exchange para- compounds from the very high concentrations prevail-
+meters. More pertinent than the percent of 0, removed ing in intertidal, reduced sediments by invertebrate
+is the actual effectiveness (%E,,,) of its removal, the infauna (Stephens, 1975; Crowe et al., 1977; Stephens
+ratio of actual uptake to the maximum possible, given et al., 1978; Costopulos et al., 1979), the likelihood of
+the diffusion gradient that exists. The value in their net uptake from the very low concentrations
+Ctenodiscus crispatus is 54 a rather high value that reported here would at first appear to be slight. How-
+O/O,
+is identical to that in Pteraster tesselatus, and may be ever, the transport systems in Ctenodiscus crispatus
+related to the effective convection of the external and are adapted for accumulating primary amines from the
+internal (see Shick, 1976) media in these, relative to low ambient concentrations in the habltat.
+other, asteroids. The maintenance of a high P,, in a A net uptake of naturally occurring primary amines
+large volume of perivisceral fluid in C. crispatus (Table by Ctenodiscus crispatus has been demonstrated
+2) may be important as an oxygen store during tempor- (Fig. 7). This is related to the very high affinity of the
+ary burial in unstable sediments and during excursions transport systems involved, the Kp for glycine and
+deeper into the sediment. aspartate being approximately 3 1iM These values are
+These relationships indirectly argue for the primacy thus in the same range as their concentrations in inter-
+of a respiratory, as opposed to a feeding, function of the stitial water. Also, the glycine transport system has a
+ciliary currents through Ctenodiscus crispatus bur- very high capacity (Jh,, = 298 n moles g-; h-').
+rows. The adoption of a cilia-driven respiratory current After juvenile mud stars were exposed to solutions of
+(from which oxygen extraction is low) by this species natural primary amines, the residual concentration in
+and by other goniopectinid and porcellanasterid sea the medium was directly related to the initial concen-
+stars likely relates both to the hydrodynamic and tration provided (Fig. 7). This result may be explained
+mechanical limitations lmposed by the basic asteroid in part by the presence in interstitial water of fluores-
+body plan, and to the fragile nature of the burrow in camine-positive substances for which there is no trans-
+silty sediments. Rhoads and Young (1970) have noted port system, or one of very low activity. Likely candi-
+that mobile deposit feeders disturb soft sediments and dates are the acidic amino acids. Henrichs and Far-
+interfere with the activities of suspension feeders, and rington (1979)r eport that glutamic acid and its isomer,
+Levinton (1977) has extended this concept to D-aminoglutaric acid, and asparti.~a c~dp,r edominate
+
+Sh~cke t a1 Sea star-s ediment lnteracrlons 179
+among the amino acids in Gulf of Maine sediments. body of evidence indicates that the K, values foi vaii-
+(Glycine is the next most concentrated amino acid). ous amino acid transpoit systems are in the same lange
+Our results indicate that although the affinity of the as the amino acid concentratlons norrnallv encoun-
+aspartate transport system In Ctenodiscus cl- spatu us is tered by the carriers Thus the rathei hlgh K,s in
+high, its activity is low (J:,,,, = 28 n moles g-' h-'), an infaunal invertebrates (reviewed by Jorgensen 1976
+order of magnitude lower than that of the glycine and Stewart 1979) are interpretable in the 11ght of the
+carrler A low activity of acidic amino acid transport high substrate concentratlons normt~llyf ound in the11
+systems has precedent in another echinoderm, the habitat in intertidal, reduced sediments A seeming
+sand dollar Dendraster excentl-icus (Stephens et al., inconsistency to the above generalization, that
+1978), and in some annelids (Stephens, 1975) and reported K, values In epifaunal and planktonic inverte-
+pogonophorans (Southward and Southward, 1980). brates are about an order of magn~tudeh igher than
+There is also a release into the medium of primary anuno acid concentrations In the water column has
+amines from C. crispatus, as seen in the experiments in only recently been resolved Wr~ghta nd Stephens
+which glycine concentration was measured both (1978) have shown that the high K, values seen in
+radiochen~icallya nd fluorometrically (Fig. 8). excised bivalve gill preparations are art~factsd ue to
+Despite the low rate of uptake of some components the presence of unstirred layers at the transport sur-
+of the interstitial medium and the release of some face When amino acid uptake 1s measured in intact,
+primary amines into it, the fact of a net uptake of total actively-ventilating mussels, in which unstirred layers
+primary amines nevertheless remains. Assuming that are el~minateda t the gill surface, K, values on the order
+1 mg of mixed amino acids requires 1 m1 of OL for of 1-2 uM obtain
+complete oxidation, the initial rates of uptake from the The elimination of unstirred layers at the transport-
+concentrations shown in Fig. 7 could support 16.5, ing epithelium likely occurs in Ctenod~scusc rispatus
+26.5, and 86.5 %, respectively, of the known oxygen as well and piobably accounts for the low K, values we
+consumption rate (200 p1 g-' h-' at 8 "C) of a 15-mg observe in this species Specifically, the lamellae
+juvenile, so that dissolved primary amines at natural within the cribriform organs are heavily ciliated
+concentrations make a quantitatively significant con- (Fig 4f), and moreover are arranged such that the
+tribution to the mud star's diet, although we do not d~mensionso f the interlamellar spaces (Fig 4d and e)
+assume that all of the accumulated amino acids neces- are within the range consistent with the elimination of
+sarily enter ox~dativep athways (see Shick, 1975). unstilred layers by cillary activity (Winne, 1973,
+Because we do not know the rate at which Ctenodis- Wright and Stephens 1978, Wright, 1979) Impor-
+cus crispatus ingests sediment or what the animal tantly, the cilia arise from closely opposed surfaces
+removes from it, the relative importance of dissolved, which are richly supplied wlth microvilli (Fig 5), the
+as opposed to particulate, food sources is unknown. latter being characteristic of transporting epithelia
+Further, although steady-state concentrations of prim- Further evidence that the cribriform lamellae may be
+ary amines in interstitial water in the habitat range the major sites of amino acid uptake is that miclovilli
+from 3-13 FM, the seastar irrigates its burrow with are very sparse in areas such as the channels beneath
+seawater from the overlying water column, which the lnferomarginal plates fascioles ambulacrum and
+likely has a lower content of these substances. Con- peristomial membrane, all of which surfaces also
+versely, irrigation of the burrow w~tho xygenated either lack cil~ao r are sparsely ciliated and which
+water may stimulate microbial production in adjacent therefore will have unstirred layers associated with
+sediments (Stephens, 1975), which although oxidized, them Although the cribrlform lamellae are restricted
+are nevertheless probably anoxic (Revsbech et al., to the grooves beneath the supeiomarginal ossicles
+1980).T he resultant final concentration of amino acids (Fig 4e),t hey nevertheless present a large sulface area
+at the sea star's skin surface is difficult to predict, thus for transport the lamellar surface in an average-sized
+complicating a quantification of the importance of dis- adult mud star (1 5 g dry weight, R = 24 mm) is
+solved exogenous amino acids in its diet. approximately 11 cm2
+Using direct and indirect lines of evidence, Sepers Following Ferguson (1967 1970, 1980), Pearse and
+(1977) and Siebers (1979) have argued that dissolved Pearse (1973), Ahearn and Townsley (1975), and
+organic con~poundsa re quantitatively unimportant in Stephens et a1 (1978) we realize that only limited
+the nutrition of epifaunal and pelagic marine inverte- exchange of nutrients between the epidermis and
+brates. Briefly, they contend that marine bacteria, by internal tissues occurs in echinoderms, so that dlssol-
+virtue of their very low K, values (high affinities) for ved organic matter in seawater may be of spec~al
+dissolved organic substances, outcompete inverte- importance in the nutrition of superficial tissues
+brates for these compounds and keep the concentration Related to this is the fact that microv~llia re common
+of dissolved organic matter in seawater low. A large elements of the surface structure of echinoderms - a
+
+180 Mar. Ecol. Prog. Ser.
+recent electron microscopy study of the echinoderm layer is usually high, and may be greater than that of
+cuticle by Holland and Nealson (1978) has demons- the sediment layers below it (Johnson, 1974). This is
+trated microvilli on the epidermal surfaces of all five probably explained by the rapid colonization of fecal
+extant classes in the phylum. In Ctenodiscus crispatus, material by bacteria (e.g. Longbottom, 1970). Although
+much of the energy required for the substantial ciliary the sediment at our study site appears extremely well
+activity in the cribriform lamellae that create the bur- mixed, this condition probably does not obtain in
+row irrigation current (and which are especially rich in deep-sea sediments which show more stratification
+microvilli) may therefore be derived directly from solu- owing to smaller populations of invertebrate mac-
+tion in seawater. rofauna.
+Deep-sea asteroids of the family Porcellanasteridae
+have long been recognized as 'mud swallowers',
+Mode of Life of Ctenodiscus crispatus and the Deep- although Madsen (1961a, p. 50) explicitly states that
+Sea Porcellanasteridae they 'most certainly do not leave their burrows for
+feeding. And since they can hardly be considered just
+Ctenodiscus crispatus probably spends the majority swallowing the bottom material below them (which
+of its time in temporary burrows in the uppermost would be of small value as food), . . . they are able to
+layers of the sediment. A connection with the overlying secure from above the surface material comparatively
+water column is maintained by the extensible epiproc- rich in organic matter'. This would be accomplished
+tal cone. Respiratory water is pumped across the aboral 'by means of water currents created by the cribriform
+surface, through the cribriform organs and fascioles of organs, to draw down the surface material. . . in order
+the interradial areas, and into the ambulacral grooves. that it may be caught in the mucus secretion and then
+Excurrent channels are hydraulically excavated from led to the mouth by the podia' (Madsen, 1961b, p. 181).
+the arm tips to the sediment surface. Most or all of the This is despite his recognition (1961a, p. 50) that por-
+motive force of the respiratory current is supplied by cellanasterid stomachs also contain large items such as
+the ciliation of the cribriform lamellae. Additionally, as pieces of worm tubes, a whole sea urchin, fecal pellets,
+outlined above, the respiratory current may supply a and terrestrial plan debris, and his related conclusion
+significant amount of nutrition to the mud star in the that these sea stars also act as scavengers and faculta-
+form of DOM. Such uptake is probably especially tive predators. His conclusion of ciliary-mucoid feed-
+important to epidermal cell layers, particularly those of ing is drawn heavily from Gislen's (1924) description of
+the cribriform lamellae. The mucus abundantly pro- the biology of Ctenodiscus crispatus.
+duced by the mud star likely serves to keep the Conversely, Sokolova (1958), in a study of stomach
+epithelium free of fouling particles incidentally drawn contents in Ctenodiscus crispatus and the porcellanas-
+into the burrow, rather than having a feeding function. terids Eremicaster tenebrarius and Thoracaster mag-
+Because feeding is not ciliary-mucoid in nature, fill- nus, concluded that they ingest mud directly, and
+ing the stomach is probably accomplished by simply stated that 'if the species of sea stars had fed by means
+retracting the peristomial membrane and shoveling of water currents generated by ciliary movements of
+substrate into the mouth with the adjacent podia. This the epithelia1 cells . . ., their stomachs would have con-
+could easily be accomplished during burrowing, and tained not benthic ooze but rather a more or less finely
+would actually reduce the amount of sediment that filtered detritus, (but) this fact was not so' (transl.ation
+must be removed from beneath the asteroid. Digestion by D. E. Howard). Our quantitative analysis of stomach
+of the organic content of the sediment, including occa- contents in C. crispatus is thus in agreement with the
+sional macrofauna, probably takes place while the observations by Sokolova (1958) and Carey (1972).
+mud star resides in the burrow. All of the above observations are consistent with our
+Upon completion of digestion the peristomial mem- previous suggestion that Ctenodiscus crispatus, and
+brane is opened widely and indigestible material now, the Porcellanasteridae, non-selectively ingest
+extruded from the stomach, a behavior we frequently bulk sediment and occasionally other macrofauna liv-
+observed in freshly-collected specimens. Probably the ing in it. If even the surface deposits of stratified deep-
+mud star then moves a short distance before refilling sea sediments are organically poor, a benthic feeder
+the stomach with sediment. An advantage to surfacing would galn little by rely~nge xclusively on ciliary cur-
+before moving is the ability of maximize intake of the rents to gradually provide such materials as food, and
+uppermost sediment layers. Although surface sedi- in fact we have observed that the currents produced by
+ment does not always contain the smallest part~cles, C. crispatus entrain few particles from the sediment
+primarily owing to sediment reworking and fecal pel- surface. Indeed, Sokolova (1958) specifically excluded
+let formation by deposit feeders (Rhoads and Young, this feeding mode from those that she considered
+1970), the organic content of the flocculent surface adapted for subsistence on organically poor abyssal
+
+Shick et al.: Sea star-sediment interactions 181
+deposits. It is more likely that infaunal, mud-swallow- est fine fraction in such sediments, the animal likely
+ing asteroids periodically ascend to the surface, ingest simply increases the total amount that it ingests, and
+bulk sediment there, and retire to an irrigated (= Sokolova (1958) has noted that specimens from organi-
+oxygenated) burrow to digest the meal. The reduction cally poor substrates contain proportionally more sedi-
+in number of cribriform organs and increase in their ment than do those from richer habitats.
+Although the initial interests of physiologists in
+deep-sea animals concerned adaptations to high hy-
+drostatic pressure and constant low temperature,
+increasing attention is being paid to the chronically
+low availability of food and its biological manifesta-
+tions (low protein content of tissues, low metabolic
+rates, low levels of activity, etc.). Continuous food
+scarcity is now viewed as a major determinant of adap-
+tive strategies in deep-sea animals (e.g. Somero et al.,
+in press). If the low level and refractory nature of
+particulate organic matter in deep-sea sediments (San-
+ders et al., 1965) is indeed a limiting factor for benthic
+invertebrates there (e.g., Sokolova, 1959, 1972; Rex et
+al., 1979; for consideration of asteroids, see Carey,
+1972), then the nutritional importance of dissolved
+primary amines and other organic molecules in deeper
+populations of Ctenodiscus crispatus and in other
+goniopectinid and porcellanasterid sea stars such as
+Erernicaster may be relatively enhanced, since amino
+acid concentrations in deep-sea sediments (Henrichs
+and Farrington, 1979) are similar to those in the pre-
+sent study. This of course assumes that deep-sea
+asteroids have amino acid transport systems with kine-
+tic parameters comparable to those seen in C. crispatus
+in the present study. (The shallow-water asteroid
+Echinaster also shows a net uptake of primary amines
+from concentrations below 1 PM; Ferguson, 1980).
+Unfortunately, no data on amino acid transport by truly
+deep-sea asteroids are available, although the rate of
+glucose uptake by the sea star Plutonaster from a depth
+of 1800 m (Southward and Southward, 1972a) is con-
+siderably greater than that in the shallow-water
+Fig. 12. Eremicaster sp. Two specimens from University of polychaete Nereis diversicolor (Ahearn and Gomme,
+Maine Station 51; 57"22.6'S. 26"34.0'W; 26 May 1975;
+1975) and similar to that in a number of deep-sea and
+2249-2403 m. (a) Aboral surface and mdrginal plates. as well
+shallow-water pogonophorans (Southward and South-
+as cribriform organs of one ~nterradius,w ith madrepor~te.I n
+specimen where R = 19 mm, r = 9 mm. (b) Oral surface of ward, 1972b). These admittedly tenuous comparisons
+specimen in which R = 26 mm. r = 12 mm. Note lack of at least suggest that the general slowing of metabolic
+channels in the oral interradial area processes in the deep sea may not extend to the trans-
+port of exogenous organic substrates by benthic in-
+complexity in porcellanasterids such as Erernicaster vertebrates.
+(Fig. 12a) relative to C, crispatus should retain a large The phanerozonian sea stars are well-adapted to life
+current flow. The absence of fascioles on the oral in soft sediments. The ingestion of these sediments
+surface (Fig. 12b), which in C. crispatus convey any provides a stable and organically complex source of
+resuspended particles directly into the ambulacra, is nutrition, which in Ctenodiscus crispatus is manifested
+further evidence that feeding on current-entrained as a less strongly seasonal reproduction than in all
+particles is not the rule in these asteroids. other asteroids studied to date and in a high genetic
+The enormously expansible stomach in Ctenodiscus variability in this population (Shick et al., in press).
+crispatus may be an adaptation to the low (and refrac- Aseasonal reproduction and large amounts of genetic
+tory) organic matter which some populations variation likewise are common in other omnivorous,
+encounter. Rather than sieving for the organically rich- deep-sea echinoderms and seem related to their gener-
+
+182 Mar. Ecol. Prog. Ser 5: 165-184, 1981
+ally small size, limited vagility, and especially the Dale. N. G. (1974). Bacteria ln ~nt~rtidsaeld iments: factors
+stability and organic complexity of their diets, as related to their ciistribution. Limnol. Ocednogr. 19:
+509-5 18
+demonstrated in the present study of C. crispatus.
+Dcgcns, E. T. (1970). Molecular nature of nitrogenous com-
+pounds in sea water and recent marlne sedimcnts. In:
+Acknowledgements. Thls work has been aided by numerous Hood, D. W (ed.)S ymposium on organlc mi~tterin naturdl
+people, whose efforts we greatly appreciate: R. G. and B. D. watem. Institute of Marine Scirnce, Un~versityo f Alaska,
+Gustafson. A. Lcamy, E. F. Lowe. W. F. Taylor, and other Collc~geA, laska, pp. 77-106
+friends occasiondlly pressc.d into service, for shipboard assist- Dejours, P. (1975). Principles of comparative respiratory phy-
+ance; the Ira C. Darling < enter of the University of Maine for siology, North-Holland Publishing Company, Amsterdam
+use of the R. V 'Lee', and especially boat captains F. Bowers Edwards, K. C. (1980). Morphology and feeding biology of
+and M. Dunn, for thelr cooperation; H H. DeWltt and D. Ctc~nodiscusc rispatus (Ech~nodermataA. steroidea) M. S.
+Schnitker for the loan of collecting gear; K. Melansnn for aid thesis, University of Maine, Orono, ~MaineU SA
+in particle size determinations and computer andlyses; G. Fenchel, T., Koefoed, L. H., Lappalainen, A. (1975). Particle
+Miekina and S. Tyler for assistance with and discussions size selection of two deposit feeders: the amphipod
+about electron microscopy, D. E. Howard for translations from Corophium volutator and the prosobranch Hydrobla
+the Russlan, and B. L. Bayne, R. C. Newell, and A. J. ant1 E. C. ulvae. Mar Blol. 30: 119-128
+Southward for critically reading the manuscript. The research Ferguson, J. C. (1967). An autoradiographic study of the
+was supported by US National Science Foundation grant utillzation of free exogenous amino acids by starfishes.
+PCM76-81467 (Regulatory Biology) to J. M. Shick and J H. Biol. Bull. mar biol. Lab.. Woods Hole 133: 317-329
+Dearborn. Some technical support and the Erernicaster mate- Ferguson, J C. (1970). An autoradiographic study of the
+rial were obtained under NSF grants OPP74-08565 A01 and translocation and utillzation of amino acids by starf~sh.
+DPP76-23043 (Polar Programs) to H. H. DeWltt, J. D. Biol. Bull. mar biol. Ldb., Woods Mole 138: 14-25
+McCleave, and J. H. Dearborn. Ferguson, J. C:. (1980). Fluxes of dissolved amino acids bet-
+ween sea water and Echinaster. Comp. Biochem. Physiol.
+65A: 291-295
+Fisher, W K (1911). Asterotdea of the North Pacific and
+LITERATURE CITED adjacent waters. Part I. Phanerozonia and Spinulosa Bull.
+U.S. natn. Mus. 76: 1-419
+Ahearn. G. A., Gomme, J. (1975). Transport of exogenous D- Folk, R. L. (1974).P etrology of sedimentary rocks, Hemphill's,
+glucose by the integument of a polychaete worm (Nereis Austin, Texas
+diversicolor Miiller). J exp. Biol. 62: 243-264 GislPn, T (1924) Echinoderm studles. 2001. Bidr. Uppsala 9:
+Ahearn, G A.. Townsley, S. J. (1975). Integumentary amino 1-316
+acid transport and metabolism In the apodous sea Grainger, E. H. (1966).S ea stars (Echinodermata: Asteroidea)
+cucumber. Chiridota rigida. J. exp. Biol. 62: 733-752 of arctic North America. Bull. Fish. Res. Bd Can. 152: 1-70
+Alton, M. S. (1966). Bathymetric distribution of sea stars Grossert, J. S., Mathiaparanam, P., Hebb. G. D., Price, P,,
+(Asteroidea)o ff the northern Oregon coast. J. Fish. Res. Rd Campbell, I. M. (1973). The sterols of the echinoderm,
+Can. 23: 1673-1714 Ctenodiscus crispatus (Retzius). Experientla 29: 258-259
+Bayne, B. L., Widdows, J , Thompson, R. J. (1976).P hys~ologi- Hargrave, B. T (1972). Aerobic decomposition of sedlment
+cal integrations. In: Bayne, B. L. (ed.) Marine mussels: and detritus as a funct~ono f particle surface area and
+Their ecology and physiology. Cambridge University organic content. Limnol. Oceanogr 17: 583-596
+Press, Cambridge, pp. 261-291 Hauksson, E. (1979). Feeding biology of Stichopus tremulus, a
+Byers, S. C ,M ills, E. L., Stewart, P. L. (1978).A comparison of deposit-feeding holothurian. Sarsia 64: 155-160
+methods of determining organic carbon in manne sedl- Henrichs, S. M., Farrington, J W. (1979). Amino aclds In
+rnents, wlth suggestions for a standard method. Hyd- interstitial waters of marine sediments. Nature, Lond 279:
+robiologia 58: 43-47 319-322
+Calow, P. (1977). Ecology, evolution and energetics: a study Holland, N. D.. Jesperson, A. (1973). The fine structure of the
+in metabolic adaptation. In: Macfayden. A. (ed.)A dvances fertil~zation membrane of the feather star Cornanthus
+in ecological research, Vol. 10 Academic Prcss, New japonica (Ech~nodermataC- rinoidea) Tlssue & Cell 5:
+York, pp. 1-62 209-21.4
+Carey, A. G., Jr (1972). Food sources of sublittoral, bathyal Holland, N. D., Nealson. K. H. (1978).T he flne structure of the
+and abyssal astero~dsI n the northeast Pacific Ocedn. echinoderm cuticle and the s~~bcuticulabra cterla of
+Ophelia 10: 35-47 echinoderms. Acta 2001. 59: 169-185
+Cavanaugh, G. M. (ed ) (1956). Formulae and methods V1 of Holmc., 3. A (1964). Methods of sampling the benthos Adv.
+the Mar~neB iological Laboratory chemical room, Marine mar Biol. 2: 171-260
+Biolog~calL aboratory, Woods Hole, Massachusetts Hyman, L. H. (1955). The ~nvertebrates.E chlnodermata, the
+Christensen, A. M. (1970). Feeding biology of the sea-star coelomate Bilateria, Vol. IV, ~McGraw-HillI nc., New York
+Astropr!cten irregularis Pennant. Ophelia 8: 1-134 Johansen, K., Petersen, J. A. (1971). Gas exchange and active
+Clifton, H. E.. Thompson, J. K. (1978). Macaronichnus seg- ventilation In a starfish. Pteraster tesselatus. Z. vergl.
+regatis: a feeding structure of shallow marine polychaetes. Physiol. 71 365-381
+J. sedlm. Petrol. 48: 1293-1302 Johnson, R. G. (1974). Part~culatem atter at the sedlment-
+Costopulos, J. J., Stephens, G. C., Wright, S. H. (1979).U ptake water interface in coastal environments J mar Res. 32:
+of amlno acids by marine polychaetes under anoxic condi- 313-330
+tions. B~olB. ull. mar biol. Lab., Woods Hole 157: 434-444 Jsrgensen, C. B. (1966). Biology of suspension feeding, Perga-
+Crowe, J. H., Dickson, K. A,O tto, J. L., Colon, R. D., Farley, K. mon Press Inc., New York
+K. (1.977).U ptake of amino acids by the mussel, ~Modiolus Jargensen, C B (1975).C omparative physiology of suspen-
+demissus. J. exp. Zool. 202: 323-332 slon feedlng A. Rev. Physiol 37. 57-79
+
+Shirk et al.: Sea sta
+Jorgensen, C. B. (1976). August Putter. August Krogh, and introduction to the study of deep-sea benthic fauna1
+modern ideas on the use of dissolved organic matter in assemblages along the Gay Head-Bermuda transect. Deep
+aquatic environments. Blol. Rev. 51. 291-328 Sea Kes. 12: 845-867
+Kenk. R. (1944). Ecological observations on two Puerto Rlcan Self, R. F. L.. Jumars, P. A. (1978). New resource axes for
+echinoderms, Mellita lata and Astropeclen marginatus. deposit feeders? J. mar. Res. 36: 627-641
+Biol. Bull. mar biol. Ldb.. Woods Hole 87: 177-187 Sepers. A. B. J. (1977). The utilization of dissolved organic
+Levinton, J. S. (1977). Ecology of shallow water cl(?posit- compounds in aquatic environments. Hydrobiologia 52:
+feedlng communlt~esQ uisset Harbor. Massarhusetts. In: 39-54
+Coull, B.C. (ed.) Ecology of marlne benthos. University of Sheldon, R. W , Parsons, T R. (1967). A practical manual on
+South Carolina Press, Columbia, South Carolina, pp. the use of the Coulter Counter in marine research, Coulter
+191-227 Electron~csS ales Co., Toronto, Canada
+Lieherkind, I. (1935). Asteroidea I Porcellanasterldae. Dan. Sh~ckJ, M. (1975) Uptake and utilization of dissolved gly-
+Ingolf-Exped. 4: 1-37 clne by Aurelia aurita scyphistomae: temperdture effects
+Longbottom, M. R. (1970) The distribution of Arenicola on the uptake process; nutritional role of dissolved amlno
+marina (L.) with part~cularr eference to the effects of acids Blol. Bull. mar. biol. Lab., Woods Hole 148: 117-140
+particle slze and organic matter of sediments. J. exp, mar Shick, J. M (1976).P hysiological and behavioral responses to
+Biol. Ecol. 5: 138-157 hypox~aa nd hydrogen sulfide in the infaunal asteroid
+Madsen, F. J (1961a). The Porcellanasteridae. A mono- Ctenodiscus crispatus. Mar Biol. 37: 279-289
+graphic rrvision of an abyssal group of sea stars. Galathea Shick. J. M., Taylor, W. F., Lamb, A. N. (in press). Reproduc-
+Rep. 4: 33-174 tion and genetic variation in the deposit-feeding sea star
+Madsen. F. J. (1961b).O n the zoogeography and origin of the Ctenodiscus crispatus. Mar Biol.
+abyssal fauna in view of the knowledge of the Porcel- Siebers, D. (1979). Transintegumentary uptake of dissolved
+lanasteridae. Galathea Rep. 4: 177-218 amino acids in the sea star Asterias rubens. A reassess-
+Mangum, C. P. (1977). The analysis of oxygen uptake and ment of its nutritional role with special reference to the
+transport in different kinds of animals. J. exp. mar Biol. significance of heterotrophic bacteria. Mar Ecol. Prog.
+EcoI. 27: 125-140 Ser. 1: 169-177
+Mangum, C. P., Burnett, L E. (1975).T he extraction of oxygen Sladen, W P. (1883).T he Asteroidea of H. M. S. 'Challenger'
+by estuarine invertebrates In: Vernberg, F. J. (ed.)P hy- Exped~tion- Part 11. J. Linn Soc. Zool. 17: 214-269
+siological ecology of estuarine organisms. University of Sokal, R R., Rohlf, F. J. (1969). Biometry, the prlnclples and
+South Carolina Press, Columbld, South Carolina, pp. practice of stat~stlcsIn biological research, W. H. FI-eeman
+147-163 & Company, San Francisco
+Mortensen, Th. (1927). Handbook of the echinoderms of the Sokolova, M. N (1958). Nutrition of deepwater benthic
+British Isles, Oxford University Prctss, Edinburgh invertebrate detritus-feeders (Russ.).T rudy Inst. Okeanol.
+Muscatine, L., D'Elia, C. F. (1978).T he uptake, retention and 27- 123-153
+release of ammonium by reef corals. L~mnol.O ceanogr Sokolova, M. N. (1959). On the distribution of deep-water
+23: 725-734 bottom animals in relation to their feeding habits and the
+Newell. R. C. (1979). Biology of intertidal animals, 3rd ed., character of sedimentation. Deep Sea Res. 6: 1-4
+Marine Ecological Surveys Ltd., Faversham, Kent, United Sokolova, M. N. (1972). Trophic structure of deep-sea mac-
+K~ngdom robenthos. Mar. Biol. 16: 1-12
+North, B. B. (1975). Primary amlnes in California coastal Somero, G. N., Siebenaller, J. F.. Hochachka, P. W (in press).
+waters: utilization by phytoplankton. Limnol. Oceanogr Physiological and biochemical adaptations of deep-sea
+20: 20-27 animals. In: Rowe. G. T (ed.)T he sea, Vol. 8.Wiley-Inter-
+Pearse, J. S., Pearse, V B (1973). Removal of glycine from science, New York
+solution by the sea urchin Stronqylocentrotus purpuratus. Southward, A. J., Southward. E. C. (1972a).O bservations on
+Mar. Biol. 19: 281-284 the role of dissolved organic compounds in the nutl-ition of
+Revsbech, N. P., Sarensen, J.,B lackburn, T H., Lomholt, J. P. b[%nth~Incv ertebrates. 11. Uptake by other animals livlng
+(1980). Distribution of oxygen In marine sedirnents mea- in the same habitat as pogonophores, and by some llttoral
+sured with niicroelectrodes Llmnol Oceanogr 25: Polychacta Sarsid 48: 61-70
+403-4 11 Southward, A. J , Southward, E. C. (197213).O bservations on
+Rex, M. A., Van Umersen, C. A., Turner, R D. (1979).R epro- the role of d~ssolvedo rganic compounds in the nutr~tiono f
+ductive pattern in the abyssdl snail Benthonella tenella benthlc invertebrates. 111. Uptake in relation to organic
+(Jeffreys). In: Stancyk. S. E. (ed.) Reproductive ecology of content of the habitat. Sarsia 50: 29-46
+marine invertebrates. University of South Carolina Press, South\vard. A. J.. Southward. E. C. (1980).T he significance of
+Columbia, South Carolina, pp. 173-188 dissolved organic compounds in the nutrition of Sibog-
+Rhoads, D. C. (1974). Organism-sediment relations on the linum ekmani and other small species of Pogonophora. J.
+muddy sea floor. Oceanogr. mar. Biol. A. Rev. 12: 263-300 mar. biol. Ass. U.K. 60: 1005-1034
+Rhoads, D. C., Young, D. K. (1970).T he influence of deposit- Spencer. W. K., Wright, C. W. (1966). Asterozoans. In: Moore.
+feeding organisms on sediment stability and community R. C. (ed.) Treatise on invertebrate paleontology. Part U,
+trophic structure. J. mar Res. 28: 150-178 Echinodermata. 3. Asterozoa-Echinozoa 1: 4-107
+Rhoads, D. C., Young, D. K. (1971).A nimal-sediment relations Stephens, G. C. (1975). Uptake of naturally occurring primary
+in Cape Cod Bay, Massachusetts. 11. Reworking by Mol- amines by marine annelids. Biol. Bull. mar. biol. Lab.,
+padia oolitica (Holothuroldea). Mar Biol. 11: 255-261 Woods Hole 149: 397-407
+Sabatini, D. D., Bensch, K ,B arrnett, R. J. (1963).C ytochemis- Stephens, G. C., Volk, M. J., Wright, S. H., Backlund, P. S.
+try and electron microscopy. The preservation of cellular (1978). Transep~dermala ccumulation of naturally occur-
+structure and enzymatic activity by aldehyde fixation. J. ring anlino acids in the sand dollar, Dendraster excen-
+Cell. Biol. 17: 19-58 tricus. Blol. Bull. mar. biol. Lab., Woods Hole 154: 335-347
+Sanders, H. L., Hessler, R R., Hampson, G. R. (1965). An Stewart, M. G. (1979). Absorption of dissolved organlc nu-
+
+184 Mar. Ecol. Prog. Ser 5: 165-184, 1981
+trients by marine invertebrates. Oceanogr mar Biol. A. f~sheso f the North Pacific coast from the Arctic Ocean t~
+Rev. 17: 163-192 California. Harriman Alaska Ser. 14. 1-408
+Summers, R. G., Hylander, B. L., Colwin, L. H., Colwin, A. L. Whitldtch, R B. (1974). Food-resource partitioning in the
+(1975). The functional anatomy of the echinoderm sper- drposit-feeding polychaete Pectinand gouldii. Blol. Bull.
+matozoan and its Interaction with the egg at fertilization. mar biol. Lab., Woods Hole 147: 227-235
+Am. Zool. 15: 523-551 Wilkinson. G. N. (1961). Statistical estimations in enzyme
+Taghon, G. L., Self, R. F. L., Jumars, P. A. (1978). Predicting kinetics. Biochem. J. 80: 324-334
+particle selection by deposit feeders: a model and its Winne, D. (1973). Unstirred layer, source of biased Michaelis
+implications. Limnol. Oceanogr. 23: 752-759 constant in membrane transport. Bioch~m.b iophys. Acta
+Turner, R. L. (1976). Sexual difference in latent period of 298: 27-31
+spawning following injection of the hormone l-methy- Wright, S. H (1979). Effect of activity of lateral cilia on
+ladenine in Echinaster (Echinodermata: Asteroidea). Gen. transport of amino acids in gills of Mytilus californianus. J.
+comp. Endocr 28- 109-112 exp. Zool. 209: 209-220
+Turner, R. L., Dearborn, J. H. (1972). Skeletal morphology of Wright, S H., Stephens, G. C. (1978).R emoval of amino acid
+the mud star Ctenodiscus crispat~ls (Echinodermata: durlng a single passage of water across the gill of marine
+Asteroidea). J. Morphol. 138: 239-262 mussels. J. exp. Zool. 205: 337-351
+Verrill, A. E. (1914). Monograph of the shallow-water star-
+This paper was presented by Dr A. J. Southward; it was accepted for printing on March 2, 1981
+

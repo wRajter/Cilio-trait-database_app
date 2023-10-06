@@ -1,0 +1,839 @@
+Marine Microbial Food Webs,1994,8 (1-2) :9-35.
+Progress in Taxonomy
+of Planktonic Freshwater Ciliates
+Wilhelm FOISSNER
+Universitöt Salzburg, Institut für Zoologie, Hellbrunnerstrasse 34,
+A-5020 Salzburg, Austria
+Abstract
+Most ecological papers on planktonic protozoa lack reliable identifications and modem nomenclature. The present
+review, which summarizes some recent progress in the taxonomy of planktonic freshwater ciliates, should encourage
+ecologists and project leaders to pay more attention to species identification, for the benefit of ttre reliability of their
+own results and of our general scienti{ic knowledge. The following genera and species are heated in some detril and
+mostly figured: Actinobolina radians, A. smalli, A. vorax, Askenasia acrostomia, A. chlorelligera, A. volvox,
+Astykyoon eniquesi, A. fallax, A. faurei, Codonella cratera, Colcps hirtus, C. spetai, Disenatostoma buetschlii,
+D. tetraedricum, Halteria bifurcata, H. grandinella, Hypotrichidiwn conil:wn, H. tisiae, Maituja pelagica, Meseres
+corlissi, Mesodiniwn atarus, M. pulex, Nassula omata, Obertrtmia aurea, O. georgiarw, Ophrydium eßrophicwn,
+O. rwuna nni, O. versatile, Pelagohalteria viridß, Pelagostrombidium fallax, P. mirabik, Pelngotrichidiwn faurei,
+Pseudobalanion planctonicum, Pseudostrombi-diwn planctonticum, Rhabdoasketnsia minima, Rimostrombidium
+lacustris, R. velox, Stenosemella lacustris, Stentor amethystinus, S. niger, Stokesia vernalis, Strombidium
+pelngoviride, S. viride, Tintinnidiwn Jluvintile, T. pusillum, Tintinnopsß cylindrata, Uroticha faurei, U. furcata,
+U. pelagica. Aslmple generic key to the oligotich freshwater ciliates is provided.
+R6sum€
+Progrts dans la taxonomie des cilids planctoniques des eaux douces
+La plupart des publications 6cologiques sur les protozoaires planctoniques rxmquent d'identifications fiables et
+d'une nomenclature modeme. I-a prdsente revue, qui rdsume certains progGs r6cents dans la taxonomie des cili6s
+planctoniques des eaux douces, devrait encourager les 6cologistes et les meneurs de projets ä dorurer plus d'attention
+aux identifications sp&ifrques, au bdndfice de Ia fiabilit6 de leurs propres r6sultats et de la connaissance scientifique
+en g&r6ral. [rs genres et est'eces suivants sont tait6s en d6tail et repr6sent6s pour la plupart : Actittobolha radians,
+A. smalli, A. vorax, Askerusia acrostomia, A. chlorelligera, A. volvox, Astylozoon eniquesi, A. fallax, A. faurei,
+1 Supported by the FWF, Project No. P 8924-BIO.
+0297 -814819411-U9/$4.00/ O Institut Ocdmographique
+
+10 W. Foissner
+Codonella cratera, Coleps hirtus, C. spetai, Disemntostoma buetschlii, D. tetraedricum, Halteria bifurcata,
+H. grandinella, Hypotichidium conicum, H. tisiae, Marituja pelagica, Meseres corlissi, Mesodinium acarus,
+M. pulex, Nassula omnta, Obertrumia aurea, O. georgiana, Ophrydiwn eutrophicum, O. rwwnnnni, O. versatile,
+Pelagohalteria viridis, Pelagostrombidium fallax, P. mirabile, Pelagotrichidium faurei, Pseudobalanion
+planctonicum, Pseudostrombi.dium planctonticwn, Rhabdoaskmnsia minima, Rimostrombidium lacustrß, R. velox,
+Stenosemella lacustrts, Stentor amethystinus, S. niger, Stokzsia vemalis, Strombidium pelagoviride, S. viride,
+Tintinnidium fluviatile, T. pusillum, Tintinnopsis cylindrata, Urotricha faurei, U. furcata, U. pelagica. Urc cl€
+g6n€rique simple des cili6s oligotriches d'eau douce est foumie.
+lntroduction
+The concept of the "microbial loop" stimulated many scientists and hydrobiologists
+to study ecological aspects of planktonic protozoa, mainly heterotrophic flagellates
+and ciliates (Arndt and Nixdort, 1991; Fenchel, 1987). With few exceptions
+(e.9. Finlay et al., 1988), the species involved were not or only very incompletely
+and/or superficially identified, either, as I assume, because most people prefer to avoid
+such a boring job or because they did not know that taxonomists have collected
+valuable information on planktonic protozoa during the last 20 years. I thus welcomed
+the invitation of the editor of this fascicule to compile some of the progress made in
+the taxonomy of planktonic freshwater ciliates. Space limitation did not permit detail,
+so I decided to treat such species as can be easily confused with others and those
+described after the still indispensable monographs by Kahl (1930-35). In spite of this
+and other shortcomings, I hope to encourage ecologists to pay more attention to
+species identification, for the benefit of the reliability of their own results and of our
+general scientific knowledge.
+Thanks to Mag. Margit Palzenberger, Mag. Eric Strobl, and Andreas Zankl for
+technical assistance.
+Benchmark Iiterature
+Unfortunately, a comprehensive, updated key to the planktonic ciliates is not
+available, and many species are still undescribed or insufficiently characterized. Thus,
+a few books and some hundred reprints are necessary to have a well-ordered and
+modern guide to the identification of planktonic ciliates. The following chronological
+compilation focuses on benchmark publications; miscellaneous papers are mentioned
+in the taxonomic section.
+Taxonomic methods for studying ciliated protozoa were treated in detail by
+Dragesco and Dragesco-Kern6is (1986), Foissner (1991) and Lee and Soldo (1992).
+Bibliographic guides to the ecology of freeJiving protozoa were compiled by Finlay
+and Ochsenbein-Gattlen (1982) and Fenchel ( I 987).
+Faur6-Fremiet (1924): The first detailed study on planktonic ciliates. Still
+indispensable for its detailed descriptions and excellent figures.
+
+Taxonomy of Planktonic Ciliates l1
+Gajewskaja (1933): A large, beautifully illustrated guide to the ciliates found in
+Lake Baikal. Many new species are described; few of them are mentioned in the later
+literature, although it is quite reasonable to assume that most occur also in other lakes.
+Kahl (1930-35): These monographs, which include the results of Faurd-Fremiet
+(1924) and Gajewskaja (1933), are still indispensable for their completeness and
+detailed keys to species. "The Kahl" is, however, now rather outdated, i.e. species
+number has at least doubled since his time. An updated treatise is in progress (see
+below; Foissner, 1993 and Matthes et a1.,1988).
+Sommer (1951): A comprehensive guide to peritrichs found in Lake Plön. Many new
+species are described.
+Bick (1972): An updated, though rather incomplete and not very attractively
+illustrated guide to the planktonic ciliates. Also contains useful ecological data.
+Corliss (1979): Still the only comprehensive text-book on morphology and
+taxonomy of ciliated protozoa. Truly outstanding and indispensable. Suprafamilial
+taxa are thoroughly characterized, all known genera are figured but not described.
+Curds (1982) and Curds et al. (1983): A valuable generic key to the freshwater
+ciliates. All genera are depicted by at least one line drawing and described in detail.
+Literature to relevant species descriptions is indicated.
+Maeda and Carey (1985) and Maeda (1986): An illustrated guide to the species of
+oligotrichine ciliates. Species and their synonyms are depicted by line drawings and
+described in fair detail; they are, however, not critically evaluated.
+Small and Lynn (1985): This guide is widely used by ecologists. It contains a rather
+biased introduction to recent ciliate systematics and depicts some common genera,
+mostly only silver impregnated cells. It is, however, not a guide to species, as some
+ecologists apparently assume. This may be due to the unfortunate inclusion of some
+new genera and species which all are poorly described.
+Dragesco and Dragesco-Kern6is (1986): An outstanding guide to the ciliates known
+from tropical Africa. 267 taxa, including many planktonic species, are described in
+detail and illustrated by 1136 beautiful line drawings. Short notes on ecology and
+related literature are given to each species. Recently supplemented with species from
+the coast of Lake Tanganyika (Dragesco and Dragesco-Kern6is, 1 99 1 ).
+Matthes et al. (1988): An updated key to the suctorians and mobiline peritrichs. All
+species, but not their synonyms, are figured by line drawings and briefly described. A
+very helpful, though sometimes too simplistic, compilation.
+Foissner et al. (1991, 1992, 1994; the last volume IV is in preparation): An
+indispensable guide to 350 common ciliates found in running waters and in the
+plankton of reservoirs and lakes. Each species is described monographically, i.e. the
+taxonomic, faunistic, and autecologic literature is thoroughly reviewed and the
+morphology is documented by many line drawings, light micrographs of living and
+silvered specimens, and by scanning electron micrographs. Keys and descriptions are
+designed to enable live identification. The four volumes comprise about 2000 pages
+and 5000 figures.
+Foissner (1993): An updated version of Kahl's monograph on colpodid ciliates,
+some of which (e.9. Bursaridium) are widespread in lake plankton. 170 species are
+
+I2 W. Foissner
+recognized and illustrated by 2900 figures including many scanning electron
+micrographs. Synonymy is discussed, nomenclatural problems are solved, detailed
+morphological, ecological, and faunistic descriptions and reliable keys are provided.
+Users can thus determine species without referring back to the original literature.
+Ecologists and cell biologists will find detailed descriptions of all known colpodid
+species and synonyms.
+The species problem in "zoochlorellae" bearing ciliates
+Rather many planktonic ciliates host green algae, mostly Chlorella (Christopher and
+Patterson, 1983; Finlay et al., 1988; Reisser, 1986). It is widely assumed that such
+green populations are conspecific with apochlorotic strains. Certainly, green
+individuals often resemble apochlorotic congeners when superficially analyzed.
+However, closer examination often reveals more or less distinct morphological
+differences which are increasingly considered to be of significance at species level.
+Several examples are mentioned below, e.g. Halteria grandinella and Pelagohalteria
+viridis (differing even at genus level) as well as Coleps hirtus and C. spetai (differing
+in the structure of the armour plates).
+Well-documented cases of green populations matching apochlorotic congeners
+exactly are not known to me. Christopher and Patterson (1983) report on a green and a
+colourless Coleps hirtus. From the figures provided, it seems that the symbiotic algae
+bearing, barrel-shaped population is C. spetai, whereas the colourless, cylindrical
+population belongs to C. hirtus. Klaveness (1984) also found morphological
+differences, though rather inconspicuous, between a green and an apochlorotic Coleps.
+The integration of a symbiotic partner requires specific physiological and
+behavioural mechanisms [see Reisser (1986) for review] which can be considered,
+independently of morphological differences, as species characters. The zoochlorellae
+in Paramecium bursaria. for instance, release distasteful metabolites which repel a
+predator, Didinium nasutum (Berger, 1980). Certainly, the strength of association
+between algae and ciliates varies, and in some cases it might be weak and not
+associated with distinct morphological features. Generally, however, such differences
+become obvious if the species involved are thoroughly studied. I thus recommend that
+ecologists avoid lumping together green and colourless populations of a "species".
+Notes for the identification of some planktonic ciliates
+This section contains short descriptions of problematic or recently established
+species. Usually, the description focuses on a few main points and thus cannot replace
+the consultation of the references indicated. The material is arranged according to
+major systematic categories familiar to many plankton ecologists. Within these groups
+species are treated alphabetically.
+
+Taxonomy of Planktonic Ciliates 13
+SKB
+ll
+34
+2
+Figs. 1-6. Planktonic, mesodiniid holotrichs from life (1-4, from Krainer and Foissner, 1990; 5, 6, from
+Tamar, 1987, 1992). These species, which belong to the haptorid order Cyclotrichida, are usually
+smaller than 50 Um and have a quick, jumping movement. Their ciliary pattem (t infraciliature) is
+basically similar but differs in details; Mesodinium, e.g.,lacks the subequatorial kinety (ciliary) belt
+(SKB). 1-4: Side view of Askenasia volvox (Fig. 1; length 40 Um), and extrusomes of A. acrostomia
+(Fig. 2), A. chlorelligera (Fig. 3), and Rhabdoaskenasia minima (Fig. 4). These four species can be
+distinguished by the shape of the extrusomes, the number of contractile vacuoles, the
+presence/absence of symbiotic green algae, and details of the infraciliature. 5, 6: Mesodinium acarus
+(Fig. 5; length 15-20 Um) and M. pulex (Fig. 6; length 20-30 pm) differ in size and "ciri" (PKB,
+thick arrows) which form 2 and 3 circlets, respectively. Thin arrows mark genus specific, retractable
+stylets in oral opening. CV = contractile vacuole, EKB = equatorial kinety (ciliary) belt,
+PB = pharyngeal basket of ingested ciliate, PKB = pre-equatorial kinety (ciliary) belt,
+SKB = subequatorial kinety (ciliary) belt.
+Holotrichs
+Under this time-honoured but outdated heading a few forms which are common in lake
+plankton and have been thoroughly redescribed during the last decade are discussed.
+
+t4 W. Foissner
+Figs. 7, 8. Scanning electron micrographs of planktonic, prostomate holotrichs (from Foissner er aL,
+1994). 7,82 Coleps hirtus (Fig.7; length 45 Urr) and C. spetai (Fig. 8; length 60 pm) differ in
+symbiotic algae, size of cell and caudal processes, shape, and structure of armour plates, which are
+broadened wingJike in C. spetai (anows). For further comparison see Figures 9-13.
+Actinobolina spp.: Three species have been described which differ in size, ciliary
+pattern, and symbiotic algae: Actinobolina radians Stein, 1867 (50-125 gm, ciliary
+rows distinctly spiralled); A. vorax Wenrich, 1929 (60-200 pm, ciliary rows almost
+meridional); A. smalli Holt et al., 1973 (42-55 prm, ciliary rows slightly spiralled, with
+symbiotic green algae).
+Askenasia volvox (Eichwald, 1852): Easily confused with three other species recently
+described by Krainer and Foissner (1990). Askenasia volvox: no symbiotic algae but
+sometimes greenish by ingested algae, single contractile vacuole, extrusomes needle-
+shaped, rostrum (anterior body portion) arched (Fig. 1); A. chlorelligera: with
+symbiotic green algae, single contractile vacuole, extrusomes pin-shaped (Fig. 3),
+rostrum truncated; A. acrostomrz: without symbiotic algae, four contractile vacuoles,
+extrusomes rod-shaped with pointed ends (Fig. 2), rostrum tapered; Rhabdoaskenasia
+minima: without symbiotic algae, single contractile vacuole, extrusomes conspicuously
+club-shaped (Fig. a), rostrum truncated. Detailed morphological and ecological
+description and key to all known genera and species in Krainer and Foissner (1990).
+
+Taxonomy of Planktonic Ciliates 15
+I
+Figs. 9-13. Light and scanning electron micrographs of planktonic, prostomate holotrichs (from
+Foissner et al., 1994). Coleps hirtus (Figs. 10, 13; overview Fig. 7) and C. spetai (Figs. 9, 11, 12;
+overview Fig. 8) differ not only in the absence/presence of symbiotic algae but also in the structure
+of the armour plates, which are broadened wingJike in C. spetai (arrows).
+Coleps hirtus (Mij'ller, 1786): Possibly often confused with the green C. spetai
+Foissner, 1984b, which is more distinctly barrel-shaped and has symbiotic algae.
+Furthermore, the armour plates of C. spetai have wing-like broadened marginal ridges
+(cp. Figs. 8,9, 11, 12 with 7,10,l3). Other characters, like the shape of the armour
+windows and the ciliary pattern are very similar in both species. Coleps spetai is
+widespread in the plankton of eutrophic lakes and also not identical with C. hirtus var.
+lacustris Faur6-Fremiet, 1924, which, like C. hirtus, lacks symbiotic algae and
+"wings". There might be further, not yet described, Coleps species with symbiotic
+algae. Detailed description of the morphology and ecology of common species in
+Foissner et al. (1994).
+Mesodinium pulex (Claparöde and Lachmann, 1859) and M. acarus Stein, 1863:
+These tiny and fast-moving ciliates are not easy to study and details of their ciliary
+pattern are still unknown. However, Tamar (1992, and literature cited therein)
+undertook excellent living observations and suggested identifying these species by size
+
+t6 W. Foissner
+(usually 15-20 pm versus 20-30 pm) and "cirri", which form 2 and 3 circlets,
+respectively, in M. acarus and M. pulex (Figs. 5, 6). Mesodinium fimbriaturn Stokes,
+also redescribed by Tamar (1971), is possibly a junior synonym of M. acarus (Kahl,
+l93O). Mesodinium rubrum (Lohmann, 1908), which causes spectacular red tides in
+marine environments, has a different ciliary pattern and belongs to the genus
+Myrionecta Jankowski, 1976 (Krainer and Foissner, 1990).
+Obertrumia aurea (Ehrenberg, 1833): Easily confused with O. georgiana (Dragesco,
+1972) and Nassula ornata Ehrenberg, 1833, which, however, have distinct trichocysts
+(cp. Figs. 14, 19,21 with 15-18, 20). Obertrumia aurea (formerly in the genus Nasszla) is
+possibly the sole nassulid common in lake plankton. It may develop heavy blooms under
+eutrophic conditions and feeds on various filamentous cyanobacteria (e.g. Oscillatoria
+rubescens) making the cells dark (Fig. 19). Detailed descriptions of the morphology and
+ecology in Canter et al. (1990), Foissner et al. (1994), and Thomas (1941).
+Pseudobalanion planctonicum Foissner et al. (1990): Easily confused with
+Urotricha spp., which have a smaller oral opening and much shorter oral flaps
+(cp. Figs. 22, 25). This small (about 20 x 15 pm) species is, as recent data indicate,
+widespread in the lake plankton; very likely, it has often been misidentified as
+Urotricha sp.
+Urotricha spp.: Many species have been described; some are common in the
+plankton of lakes. Unfortunately, a reliable identification is very difficult because no
+newer revision is available. There is, however, one species which is easily recognized
+by its two caudal cilia, viz. U. furcata Schewiakoff , 1892 (Fig. 22); detailed
+descriptions in Foissner and O'Donoghue (1990) and Foissner et al. (1990). See
+Dragesco et al. (1974), Foissner (1984a), Song Weibo and Wilbert (1989), and Wilbert
+(1986) for descriptions and redescriptions of species having a single elongated cilium
+or more than two caudal cilia (Figs. 23,24)
+Hymeno stome s and s cutic oc iliate s
+The common larger forms, llke Marituja, Stokesia and Disematostorna, have been
+restudied with modern methods. The small, planktonic "scuticos" (e.9. Cyclidium,
+Dexiotricha), which often become abundant under microaerobic conditions are still
+poorly known.
+Marituja pelagica Gajewskaja, 1928: This curious species, originally assumed to be
+endemic to Lake Baikal, has since been found in several other lakes (Fig.26).Its size
+and shape resemble Stokesia vernalis, Disematostoma tetraedricum, and D. buetschlii,
+all of which, however, bear symbiotic green algae. Stokesia vernalis is easily
+identifiable by its cap-like lateral appearance (Figs. 27,28). According to Krainer
+(pers. comm.), Stokesia vernalis populations without symbiotic algae occur; possibly
+they belong to another species. Disematostoma tetraedricum (Fig. 29) and
+D. buetschlil (Fig. 30) differ in the shape of the anterior body portion. Detailed
+descriptions of the morphology and ecology of these four species are found in Faur6-
+Fremiet (1924), Foissner et al. (1994), Krainer (1994), Martin-Gonzalez et al. (1990),
+Packroff and Wilbert (1991), Roque (1961), and Wilbert (1912).
+
+Taxonomy of Planktonic Ciliates t7
+S
+I
+FV 16
+B
+V
+CV
+ö
+17 18
+19
+Figs. 14-21. Planktonic, nassulid holotrichs from life (14-16, 18-21, from Foissner et al.,1994:17, from
+Dragesco, 1972). Obertrumia aurea (Figs. 14, 19,21; length 200 Um) can become very abundant
+during blooms of Oscillatoria rubescens, which is grasped with the feeding basket (Figs. 14, 2l) and
+makes well-fed cells dark at low magnification (Fig. 19). It is easily distinguished from
+O. georgiana (Fig. 17) and Nassula ornata (ßigs.15, 16, 18, 20; length 250 Um) by its more slender
+shape and the absence of trichocysts. The trichocysts of N. ornata (Figs. 16, 18, resting and
+exploded) are fusiform, those of O. georgiana amphoral (Fig. 17). B = feeding basket,
+CV = contractile vacuole, FV = food vacuole, Ma = macronucleus, S = synhymenium (adoral
+organelles), V = blue vacuoles.
+
+18 W. Foissner
+o
+Br
+Ma
+25
+ßigs. 2J2'25. Planktonic, prostomate holotrichs, composites from live and silver impregnated specimens
+(22, 25, from Foissner et al., l99O; 23, from Dragesco et al., 1974;24, from Wilbert, 1986).
+222 Urotricha furcata is about 30 pm long and has two caudal cilia.23,24t Urotricha faurei
+(Fig.23) arrd U. pelagica (Fig. ?A) both are about 50 pm long and have many caudal cilia; however,
+U. faurei lacks trichocysts and is, according to Krainer (1994), ajunior synonym of (J. multisetosa
+Wang and Nie. 25: Pseudobalanion planctonicum is about 20 pm long and has a single caudal
+cilium as well as long perioral flaps which form a conspicuous corona. Br = brosse (adoral
+organelles), CC = caudal cilia, CV = contractile vacuole, Ma = macronucleus, O = oral basket
+opening, PF - perioral flaps, T = trichocysts.
+
+Taxonomy of Planktonic Ciliates t9
+SA
+o
+Fv Ma Mi
+SA
+CV
+Ca
+tu\a
+T CV
+T
+SA
+Figs. 26-30. Planktonic hymenostomes from life (from Foissner et al.,1994 and Krainer, 1994).
+26: Marituja pelagica, composite from live and silver impregnated specimens, length 100 pm. This
+species has circular ciliary rows and lacks symbiotic algae.27,28: Stokesiavernalis is about 150 gm
+long and easily recognizzble by its capJike lateral appearance and the symbiotic green algae.
+29: Disematostoma tetraedricum is about 120 pm long and easily identified by the four humps at the
+anterior end and the symbiotic green algae. 3Oz Disematostoma buetschlii is about 150 pm long and
+has an obovoid shape and symbiotic green algae. Ca = canals of the contractile vacuole (CV),
+Cy = cytopyge, FV = food vacuole, Ma = macronucleus, Mi = micronucleus, O = oral opening,
+SA = symbiotic algae, T=trichocysts.
+
+20 W. Foissner
+Peritrichs
+Peritrichs occur in three forms in the plankton, viz. either truly stalkless
+(e.g. Astylozoon) or stalked but free-swimming (e.g. Vorticella mayeri, Epistylis
+rotans, Ophrydium spp.), or attached to other planktonic organisms, especially to
+diatoms and colonies of bluegreen algae. The attached peritrichs (mostly vorticellids)
+often occur in masses, but are poorly known. The morphology and ecology of the truly
+stalkless and the euplanktonic taxa are extensively treated in Foissner (1915,1917,
+1978) and Foissner et al. (1992). Attached species were revised, although very briefly,
+by Warren (1986, 1987). I thus restrict discussion to a few forms which are possibly
+often confused.
+Astylozoon spp.: Species are differentiated according to cell and macronucleus shape
+and the location of the contractile vacuole. Astylozoon fallax Engelmann, 1862 and
+A. faurei Kahl, 1935, which have been recorded rather frequently from lake plankton,
+have a kidney-shaped macronucleus and the contractile vacuole located at the ventral
+or dorsal wall of the vestibulum (Figs. 31, 32). They thus differ clearly from Ä.
+enriquesi Foissner, 1977, which also occurs in the lake plankton, and has a
+semicircular macronucleus and the contractile vacuole at the dorsal vestibular wall
+(Figs. 33-35).
+Ophrydiumversatile (Müller, 1786): Easily confused with O. eutrophicum Foissner,
+1979, which has a more elaborate oral apparatus, i.e. the peristomial ciliature winds
+around the peristomial disc in about 2 rlz turns, as opposed to I rlz turns in
+O. versatile. The anterior end of O. eutrophiczm is thus set off head-like from the
+body, a feature which is easily recognizable ever, in vivo if cells are fully extended
+(cp. Figs. 36, 40 with 37, 38, 4l). All other characters (size 250-600 pm, symbiotic
+algae, large colonies etc.) match those known from O. versatile. Another species,
+O. naumanni Pejler, 1962, is also stuffed with zoochlorellae and thus rather similar to
+O. versatile; however, it is distinctly smaller (about 50 pm only) and does not form
+large colonies. Further studies are necessary to prove whether O. naumanni is a
+distinct species or a juvenile or hunger form of O. versatile. Detailed morphological
+and ecological account ofcommon species in Foissner et al. (1992).
+O li g otrichs ( C hore otric hs )
+Oligotrichs are the dominant (in terms of number and biomass) and characteristic (in
+terms of species) component of the planktonic ciliate community, both in freshwater
+and marine environments. Foissner et al. (1991) thus referred to this community as
+"Oligotrichetea", in analogy to the system used by phytosociologists.
+The name "Choreotrichida", introduced by Small and Lynn (1985), designates an
+artificial taxon (comprised of Tintinnina and Strobilidiina) and is thus superfluous; the
+taxa in question can be well included in the time-honoured oligotrichs (Petz and
+Foissner, 1992).
+
+Taxonomy of Planktonic Ciliates 2l
+Ve
+Ma
+Ma
+#
+f
+§w
+e".
+#
+§
+@&
+;
+ffiG*
+ß4
+Figs. 31-35. Planktonic, stalkless peritrichs from life and after silver impregnation (from Foissner e,
+al. , 1992). Members of the genus As tyloqoon are mainly distinguished according to the shape of the
+macronucleus and the location of the contractile vacuole. 3l: Astylopon fallax (length 90 pm) has
+a kidney-shaped macronucleus and the contractile vacuole is at the ventral wall of the vestibulum.
+32: Astylozoon faurei (length 60 gm) also has a kidney-shaped macronucleus but the contractile
+vacuole is at the dorsal wall of the vestibulum. 33-35: Astylozoon enriquesi (length 60 gm) has, like
+A. faurei, the contractile vacuole at the dorsal vestibular wall, but the macronucleus is semicircular.
+A regular pattern of circular lines (silverlines) with attached granules (pellicular pores) is
+recognizable after silver nitrate impregnation (Fig. 35). CC = caudal bristles, CV = contractile
+vacuole, Cy = cytopyge, FV = food vacuole, Ma = macronucleus, O = oral opening,
+Ve = vestibulum.
+The freshwater oligotrichs comprise few genera most of which can be easily
+identified with the following key.
+
+22 W. Foissner
+41
+Figs. 36-41. Semiplanktonic, stalked peritrichs from life (from Foissner et al., 1992). These figures
+show Ophrydium versatile (Figs. 36, 39, 40; length 300-600 1rm) and O. eutrophicum (Figs. 37, 38,
+4L; length 250-350 gm) which both form large, slimy colonies and have symbiotic algae. However,
+the peristomial ciliature of O. eutophicum winds around the peristomial disc in about 2112 u^",
+ll2
+as opposed to 7 turns in O. versatile, giving the cells a cephalized appearance which is easily
+recognizable even at low magnification (Fig. 38). Two and four ciliary windings (arrows) are
+recognizable, respectively, because the ciliature consists of an adoral zone of membranelles which is
+accompanied by an undulating membrane; these form a V-shaped pattern in feeding cells. The stalk
+is very thin in both species (Fig. 39, arrow). L = mucilaginous lorica, O = oral opening.
+
+Taxonomy of Planktonic Ciliates 23
+1 With mucous or firm, extracellular lorica about
+as long as cell . Tintinnids (Figs.53-55)
+Without extracellular lorica . 2
+2
+Jumping bristle complexes or meridional rows
+of long cilia in middle third of cell 3
+Ciliary pattern different 5
+3 Jumping bristle complexes with long (> 10 Um) cilia . 4
+Simple meridional rows of long cilia
+in middle third of cell Meseres (Fie. a7)
+4 Jumping bristle complexes composed of a short meridional row of paired and
+single,long (> 10 pm) cilia.
+Most species without symbiotic green algae Halteria (Fig. a6)
+Jumping bristle complexes composed of a short meridional and a short horizontal
+row of long (> 10 pm) cilia.
+Planktonic species with symbiotic green algae . . Pelagohalteria viridis (Fig. a2)
+5 Many (2 10) ciliary rows with cilia of different length. Body very soft and usually
+barrel-shaped Tintinnids with lost lorica (Figs. 53-55)
+Usually less than 10 slightly spiralling ciliary rows near more of less distinct
+cortical ridges or single circumferential row at or above mid-body. All somatic
+cilia very small (< 5 pm) and of same size . . 6
+6 Adoral zone of membranelles forms a closed circle at anterior end. At least 5
+slightly spiralling ciliary rows near more or less pronounced cortical ridges.
+Withoutlong,rod-shapedtrichocysts(extrusomes) .......
+1
+Adoral zone bipartite in large collar and small buccal membranelles. Single
+circumferential ciliary row with very short cilia.
+rod-shaped
+Extrusomes long and 8
+7 Somatic ciliary rows extend to posterior end of body, forming distinct spiral at
+posteriorpole . Strobilidium
+[only one reliable species known, S. caudatum, which is semi-sessile and usually does
+not occur in the plankton of lakes; detailed description inPetz and Foissner (1992)l
+Somatic ciliary rows end subterminally, i.e. do not form
+a caudal spiral . Rimostombidium (Fig.49)
+[See Petz and Foissner (1992) for a detailed discussion of nomenclature.
+Rimostrombidium Jankowski is an unfortunate name because it indicates that the
+genus belongs to the family Strombidiidae, although it is a member of the
+Strobilidiidael
+8 Circumferential extrusome and ciliary girdle at or near mid-body; single,
+inconspicuous postequatorial ciliary row. Collar and buccal adoral membranelles
+merge with each other Stombidium (Fig.48)
+Circumferential extrusome and ciliary girdle located supraequatoially, i.e. at
+level of buccal membranelles; no postequatorial ciliary row. Collar and buccal
+adoral membranelles separate Pelagostrombidium (Figs. 50-52)
+Halteria grandinella (Müller, 1773): Easily confused with the green Pelagohalteria
+viridis (Fromentel, 1876) Foissner et al., 1988, which has symbiotic algae and more
+
+24 W. Foissner
+a a'
+a aaa o
+aa a a
+aaaaa or ! aaa aa.aa
+43
+.a
+ra
+t
+a
+ro
+oa
+oO oO
+o.aa .a
+44 45
+47
+Figs.42-47. Ventral views of planktonic, halteriid oligotrichs, composites from life and silver
+impregnated specimens (42, 43, from Foissner et al., 1988; 44, 46, from Foissner et al., l99l; 45,
+47 , from Petz and Foissner, 1992). Halteriid genera are distinguished mainly by the arrangement of
+the somatic cilia (Figs. 43-45). 42,43: Pelagohalterin viridis (diameter 20-30 pm) has symbiotic
+green algae and was probably often misidentified as green Halteria grandinella. 44r 46: Halteria
+grandinella (length 30 ptm) has simpler bristle complexes than P. viri.dis and lacks zoochlorellae. 45,
+472 Meseres corlissl (length 80 pm) has long ciliary rows composed of simple, rather stiff cilia.
+CV = contractile vacuole, Cy = cytopyge, Ma = macronucleus, SA = symbiotic algae.
+and differently arranged jumping bristles (cp. Figs. 42, 43 with 44,46). Note that
+H. grandinel/a is sometimes also green-coloured, however, not by zoochlorellae but
+by ingested algae. Another green species is H. bifurcata Tamar, 1968, whose jumping
+bristles are curved and bifurcated and which moves more slowly than 1L grandinella
+in a right-handed spiral. These characters are not easily recognized and one may hope
+that silver impregnation will reveal further differences to both H. grandinella and
+
+Taxonomy of Planktonic Ciliates 25
+CV
+Figs. 48-52. Ventral views of planktonic, strombidiid and strobilidiid oligotrichs, composites from live
+and silver impregnated specimens (48, from Foissner et al., l99l;49, from Foissner et aI.,1988; 50-
+52, from Krainer, l99l). 48: Strombi.dium viride (length 60 pm) differs from Pelagostrombidium
+spp. by its more posteriorly located circumferential paratene (a ring containing short cilia and
+trichocysts), by having a ventral row of short cilia, and by the simpler neoformation organelle.
+49: Rimostrombidium lacustris (length 70-100 pm) differs from R. veloxby the lack of symbiotic
+algae and less pronounced cortical ridges. 50-52: Pelagostrombidiumfallax (Figs.50,5l; length
+60 pm) and P. mirabile (Fig.52; length 45 Fm) are distinguished by the buccal adoral membranelles
+which extend at least half cell length internally in P. fallax. Members of this genus have a
+complicated neoformation organelle (Fig. 5l) from which the oral apparatus ofthe posterior
+daughter cell originates during binary fission. BM = buccal adoral membranelles, CM = collar adoral
+membranelles, CP = circumferential paratene, E = embryonic body (part of the neoformation
+organelle), Ma = macronuclgus, p = polysaccharide plates, T = trichocysts, VR = ventral ciliary row.
+
+26 W. Foissner
+P. viridis, some of whose bristles are also bifurcated; Krainer (1994) synonymizes
+H. bifurcata Tamar with 1L minuta Gelei. Possibly also easily confused with Meseres
+corlissiPetz and Foissner, 1992, which, like 11. grandinella,lacks symbiotic algae, but
+has meridional ciliary rows whose cilia are not fused to jumping bristles (Fig. 47).
+Detailed morphological and ecological account of common species in Foissner er a/.
+(1988, 1991) and Petz and Foissner (1992).
+Pelagostrombidium mirabile (Penard, 1916) and P. fallax (Zacharias,l895): Easily
+confused with Strombidium spp., which have the circumferential paratene (the girdle
+formed by the cilia and extrusomes) located in mid-body and a simpler oral anlage, i.e.
+lack the potato-shaped embryonic body (Fig. 51). P. mirabile (Fig. 52): 45 x 30 pm,
+slender conical to ovoid, greenish-grey to orange-yellow. Polysaccharide plates
+usually square. 12-15 buccal membranelles extending a third of cell length internally;
+P. fallax (Fig. 50): 60 x 50 pm, plump conical to almost globular, reddish-brown.
+Polysaccharide plates polygonal. 19-22 btccal membranelles extending at least half
+cell length internally. Detailed description of the morphology and ecology in Krainer
+(19e1).
+Rimostrombidium velox (Faur6-Fremiet, 1924): This green species, which is still
+insufficiently known, is easily confused with R. lacustris Foissner et al., 1988
+(Fig. a9), which, however, lacks zoochlorellae, but often appears greenish by ingested
+algae, has less pronounced cortical ridges, and is larger (70-100 x 50-70 Um versus 30-
+50 x 53 gm). Several other species of this genus occur rather frequently in the lake
+plankton, e.g. the small (20-30 x 15 pm) R. humile. See Foissner et al. (1988, l99l)
+and Krainer (1994) for a detailed account on the morphology and ecology of
+R. lacustris and R. humile.
+Strombidium pelagicum Krainer, 1991 [now S. pelagoviride becatse of
+preoccupation; Krainer (1993)1. This species is considered by Foissner et al. (I99I) as
+a junior synonym of S. viride Stein or of S. viride pelagica Kahl. The differences
+indicated by Krainer are small and concern meristic characters (e.9. number of collar
+membranelles) which the early authors, lacking the advantage of silver impregnation,
+could not analyze in detail.
+Strombidium viride Stein, 1867 (Fig. 48): Easily confused with Pelagostombidium
+spp., which have the circumferential paratene (the girdle formed by the cilia and
+extrusomes) located supraequatorially, i.e. at level with the buccal adoral membranelles.
+Detailed description of the morphology and ecology in Foissner et al. (1991) and
+Krainer (1994).
+Tintinnids (Figs. 53-55): See also Codonella cratera andTintinnidiumfluviatile.The
+fresh-water tintinnids are well known, i.e. have been investigated with modern
+methods. These studies showed that lorica characters are less important than the ciliary
+pattern of the cell which, unfortunately, is clearly recognizable only after protargol
+silver impregnation. The following fresh-water species were described or
+reinvestigated and reliably characterized by Blatterer and Foissner (1990), Foissner
+and O'Donoghue (1990), Foissner and Wilbert (1979), and Song Weibo and Wilbert
+(1989): Tintinnidium fluviatile (Stein), T. pusillum Entz, T. semiciliatum (Sterki)
+which is the "sessile T. Jluviatile" mentioned by several authors and described also by
+
+Taxonomy of Planktonic Ciliates 27
+CV
+7r,
+53 L
+Ma
+2'
+@)
+..:-/
+/
+Figs. 53-55. Planktonic, tintinnid oligotrichs (from Foissner et al., l99l).53, 54: Scanning electron
+micrographs of the lorica of Codonella cratera (length 40-80 Um) which is composed of diatom
+frustules, sand grains and other materials available in the water column. This species is easily
+identified, even if it is aloricate and./or fixed, by its two macronuclear segments. Most other
+freshwater tintinnids need, however, protargol impregnation for reliable identification.
+55: Tintinnopsis cylindrata, composite from live and silver impregnated specimens, length 100 pm.
+This is the sole, reliably described freshwater tintinnid having a firm, cylindroid lorica made of
+foreign particles (sand grains, diatom frustules, etc.). CM = collar adoral membranelles,
+CV = contractile vacuole, F= fibres, FV =foodvacuole, L =lorica, Ma=macronucleus,
+Ph = pharynx, Vl + V2 = ventral organelles.
+
+28 W. Foissner
+56,
+Fig. 56. A bloom of Stentor amethystinus (length 300-500 pm), a planktonic heterotrich ciliate (from
+Foissner et al., 1992). Arrows mark oral opening. This species is easily confused with S. niger
+which, however, lacks symbiotic green algae.
+
+Taxonomy of Planktonic Ciliates 29
+Maskell as T. fluviatile var. emarginata (i.e. T. fluviatile and T. semiciliatum are valid
+species, whereas T. Jluviatile var. emarginala is a junior synonym of T. semiciliatum),
+Tintinnopsis cylindrata Kofoid and Campbell, Codonella cratera (Leidy), and
+Stenosemella lacustris Foissner and O'Donoghue. About 20 other tintinnids have been
+described from, or reported to occur in freshwater. However, I am convinced that
+most, if not all, are junior synonyms of the species mentioned above or
+misidentifications. Typical examples are Tintinnopsis amphora, T. amphora
+acuminata, and T. ovalis recorded by Pollingher and Kimor (1967) from Lake
+Tiberias. These species are testate amoebae of the genus Dffiugial
+Codonella cratera (Leidy, 1877): Several Codonella species and varieties have been
+described from freshwater, based on differences in lorica structure and shape.
+However, the investigations by Bernatzky et al. (1981) indicate that such differences
+are caused by the habitat and the age of the lorica (Figs. 53, 54). I think that this genus
+contains only one freshwater species, viz. the common C. cratera, originally described
+by Leidy (1811) as testate amoeba. Detailed descriptions of the morphology,
+morphogenesis, and ecology in Bernatzky et al. (1981), Foissner and Wilbert (1979),
+Foissner et al. (1991), and Petz and Foissner (1993).
+Tintinnidium fluviatile (Stein, 1863), Tintinnidium pusillum Entz, 1909, and
+T-intinnopsis cylindrata Kofoid and Campbell, 1929: These common planktonic fresh-
+water tintinnids need protargol silver impregnation for reliable identification.
+However, the lorica of T. fluviatile is usually larger (150 X 35-10 Fm) than in the other
+species, and the lorica of T. cylindrata (40-150 x 20-30 ttm) is usually made of foreign
+particles (sand grains, diatom frustules; Fig. 55), whereas it consists of a mucous
+substance in the other species. Detailed morphological and ecological description as
+well as key to Laurasian freshwater species in Foissner and Wilbert (1919), Foissner
+et al. (1991), and Petz and Foissner (1993).
+Heterotrichs
+Heterotrichs are represented in the plankton mainly by the genus Stentor, which
+often causes heavy blooms in small lakes used for recreation. The genus is in urgent
+need of revision. Common species from Europe and Africa are treated in detail in
+Dragesco and Dragesco-Kern6is (1986), Foissner et al. (1992), and Nilsson (1986).
+Stentor niger (Mtjller, 1713): Easily confused with S. amethystinus Leidy, 1880,
+which has violet granules and green symbiotic algae in the cortex, as opposed to
+S. niger, which has rusty brown granules and lacks zoochlorellae. All other characters
+are very similar in both species, especially their black appearance at low (< X 100)
+magnification (Fig. 56).
+Hypotichs
+Few euplanktonic hypotrichs are known. Most remarkable are the genera
+Pelagotrichidium and Hypotrichidium because of their beauty and complicated cirral
+
+W. Foissner
+AZM
+UM
+CV
+D
+
+Taxonomy of Planktonic Ciliates 3l
+Figs. 57-61. Ventral views of planktonic hypotrichs, composites from live and silver impregnated
+specimens (57-59, from Tuffrau, 1972;60,61, from Wilbert, 1986). 57: Pelagotrichidiumfaurei
+(length 280 grn) differs from Hypotrichidium spp. by the anangement of the cirral rows and the
+more elaborate adoral zone of membranelles. 58, 59: Hypotrichidium tisiae (Fig.58; length 125 Um)
+and H. conicum (Fig. 59; length 140 pm) differ in the number of somatic cirral rows and adoral
+membranelles as well as in the shape ofthe body and buccal field. 60, 6L: Ventral and dorsal view
+of Pseudostombidium planctonticum,lenglh 200 pm. This large hypotrich is easily identified by its
+numerous caudal cirri which form a posterior tuft. AZM = adoral zone of membranelles,
+CC = caudal ciri, CV = contractile vacuole, D = dorsal ciliary rows, Ma = macronuclear segments,
+Mi = micronucleus, UM = undulating membranes.
+pattern (Figs. 57-59). Species distinction is difficult and Foissner et al. (1991) discuss
+the possibility of all described Hypotrichidilrm species belonging to a single species,
+H. conicum Ilowaisky, l92l.Detailed descriptions of European and African species in
+Dragesco and Dragesco-Kern6is (1986), Foissner et al. (1991), and Tuffrau (1972).
+Pseudostrombidium planctonticun (Figs. 60, 61) is possibly easily confused with
+Stylonychia spp., which, however, have only three long caudal cirri.
+References
+Arndt H. and Nixdorf 8., 1991. Spring clear-water phase in a eutrophic lake: Control by herbivorous
+zooplankton enhanced by grazing on components of the microbial web. Verh. int. Verein. theor. angew.
+Limnol.,24,879-883.
+Berger J., 1980. Feeding behaviour of Didinium nasutum on Paramecium bursaria with normal or
+apochlorotic zoochlorellae. J. gen. Microbiol., ll8, 397 -4O4.
+Bernatzky G., Foissner W. and Schubert G., 1981. Rasterelektronenmikroskopische und biometrische
+Untersuchungen über die Variabilität der Form, Struktur und Größe des Gehäuses einiger limnischer
+Tintinnina (Protozoa, Ciliophora). Zool. Scr., 10, 81-90.
+Bick H., 197 2. Clliata. B innen g ew ös s e r, 26, 3 | -83.
+Blatterer H. and Foissner W., 1990. Beiträge zur Ciliatenfauna (Protozoa: Ciliophora) der Amper (Bayern,
+Bundesrepublik Deutschland). A rch. Protistenlc, 138, 93-1 15.
+Canter H. M., Heaney S. I. and Lund J. W. G., 1990. The ecological significance of grazing on planktonic
+populations of cyanobacteria by the clliate Nassula. New Phytol., 114,247 -263.
+Christopher M. H. and Patterson D. J., 1983. Coleps hirtus, a ciliate illustrating facultative symbioses
+between protozoa and algae. Ann. Sn limnol. Besse, 17 ,278-296.
+Claparöde 6. and Lachmann J., 1859. Etudes sur les infusoires et les rhizopodes. Möm. Inst. natn. gönev.,
+6 (year 1858),261-482.
+Corliss J. O'1979. The ciliated protozoa. Characterization, classification and guide to the literature. 2nd ed.
+Oxford, New York, Toronto, Sydney, Paris, Frankfurt, Pergamon Press, 455 p.
+Curds C. R., 1982. British and other freshwater ciliated protozoa. Part I Ciliophora: Kinetofragminophora.
+Keys and notes for the identification of the free-living genera. Synopses Br. Fauna (N. S.),22, l-387 .
+Curds C. R., Gates M. A. and Roberts D. McL., 1983. British and other freshwater ciliated protozoa. Part II
+Ciliophora: Oligohymenophora and Polyhymenophora. Keys and notes for the identifrcation of the free-
+living genera. Synopses Br. Fauna (N.5.),23, l-474.
+Dragesco 1.,1972. Cilidslibresdel'Ouganda.Ann. Fac. Sci. Univ.föd. Cameroun,9,87-126.
+Dragesco J. and Dragesco-Kern6is A., 1986. Cilids libres de l'Afrique intertropicale. Introduction ä la
+connaissance et ä l'6tude des cili6s. Faune tropicale, 26, l-559.
+
+32
+W. Foissner
+Dragesco J. and Dragesco-Kern6is A., 1991. Free-living ciliates from the coastal area of Lake Tanganyika
+(Africa). Europ. l. Protistol., 26, 216-235.
+Dragesco J., Iftode F. and Fryd-Versavel G., 1974. Contribution ä la connaissance de quelques cilids
+holotriches rhabdophores; I. Prostomiens. Protistologica, 10, 59-7 6.
+Ehrenberg C. G., 1833. Dritter Beitrag zur Erkenntniss großer Organisation in der Richtung des kleinsten
+Raumes. Aälr. dt. Akad. Wiss. Berl., Year 1833, 145-336.
+Eichwald E., 1852. Dritter Nachtrag zur Infusorienkunde Rußlands. Bull. Soc. impär. tnt. Moscou,25, 388-536.
+EngelmannT. W., 1862. ZurNaturgeschichte derlnfusionsthiere. Z. wiss. hol.,ll,347-393.
+Entz G. jun., 1909. Studien über Organisation und Biologie der Tintinniden. Arch. Protistenk., 15,93-226.
+Faurd-Fremiet 8., 1924. Contribution ä la connaissance des infusoires planktoniques. Bull. biol. Fr. Belg.,
+Suppl.6, l-171.
+Fenchel T., 1987. Ecology of protozoa: The biology of freeJiving phagotrophic protists. Brocldspringer series
+in contemporary bioscience (ed. Brock T. H.). Madison, Wisconsin, Science Tech. Publishers, 197 p.
+Finlay B. J. and Ochsenbein-Gattlen C., 1982. Ecology of free-living protozoa. A bibliography of published
+research concerning freshwater and terrestrial forms 19l0-1981. Freshwat. Biol. Assoc., Occasional Publs.,
+17, t-t67.
+Finlay B. J., Clarke K. J., Cowling A. J., Hindle R. M., Rogerson A. and Berninger U.-G., 1988. On the
+abundance and distribution of protozoa and their food in a productive freshwater pond. Europ. J. Protistol.,
+23,205-2t7.
+Foissner W., 1975. Opisthonectidae (Ciliata, Peritrichida) nov. fam. und Revision der Genera Telotrochidium
+(Kent) und Opi sthone c ta (Faur6-Fremiet) . P rot is to lo g ic a, I l, 395 -414.
+Foissner W., 1977. Revision der Genera Astylozoon (Engelmann) wd Hastatella (Erlanger) (Ciliata
+Natantina). Protistolo gica, 13, 353-37 9.
+Foissner W., 1978. Opisthonecta bivacuolata nov. spec., Telotrochidium cylindricum nov. spec. und Epßtylis
+alpestris nov. spec., drei neue peritriche Ciliaten aus dem Hochgebirge (Hohe Tauem, Osterreich). Annln
+naturh. Mus. Wien, 81, 549-565.
+Foissner W., 1979. Uber ein Massenauftreten von Ophrydium eutrophicum nov. spec. (Ciliophora,
+Peritrichida) tnd Cristatella mucedo Crier (Bryozoa, Cristatellidae) in zwei Voralpenseen (Wallersee,
+Fuschlsee). Ber. Nat.-Med. Ver. SalTburg, 314, 95-l0f.
+Foissner W., 1984a. Morphologie und Infraciliatur einiger limnischer Ciliaten (Protozoa: Ciliophora). Schweiz.
+Z. Hydrol., 46, 210-223.
+Foissner W., 1984b. Infraciliatur, Silberliniensystem und Biometrie einiger neuer und wenig bekannter
+terrestrischer, limnischer und mariner Ciliaten (Protozoa: Ciliophora) aus den Klassen
+Kinetofragminophora, Colpodea und Polyhymenophora. Stapfia,Linz,12, l-165.
+Foissner W., 1991. Basic light and scanning electron microscopic methods for taxonomic studies of ciliated
+protozoa. Europ. J. Protistol., 27 ,313-330.
+Foissner W., 1993. Colpodea (Ciliophora). Protozoenfauna 4/1. Stuttgart, Jena and New York, G. Fischer,
+X+798p.
+Foissner W. and O'Donoghue P. J., 1990. Morphology and infraciliature of some freshwater ciliates (Protozoa:
+Ciliophora) from Western and South Australia. Invert. Taxon.,3,66I-696.
+Foissner W. and Wilbert N., 1979. Morphologie, Infraciliatur und Okologie der limnischen Tintinnina:
+Tintinnidium fluviatile Stein, Tintinnidium pusillum Entz, Tintinnopsis cylindrata Daday und Codonella
+cratera (Leidy) (Ciliophora, Polyhymenophora). l. Protozool., 26, 9O-1O3.
+Foissner W., Skogstad A. and Pratt J. R., 1988. Morphology and infraciliature of Trochiliopsis australis n. sp.,
+Pelagohalteria uiridis (Fromentel, 1876) n. 9., n. comb., and Strobilidium lacustris n. sp. (Protozoa,
+Ciliophora). Protozool., 35, 489-497.
+"/.
+Foissner W., Oleksiv L and Müller H., 1990. Morphologie und Infraciliatur einiger Ciliaten (Protozoa:
+Ciliophora) aus stagnierenden Gewässem. Arc h. P roti st enk., 1 3 8, I 9 1 -206.
+Foissner W., Blatterer H., Berger H. and Kohmann F., 1991. Taxonomische und ökologische Revision der
+Ciliaten des Saprobiensystems - Band I: Cyrtophorida, Oligotrichida, Hypotrichia, Colpodea.
+Informationsbeichte des Bayer. Landesamtes fiir Wasserwirtschafi, München, ll9l, 478 p.
+
+Taxonomy of Planktonic Ciliates 33
+Foissner W., Berger H. and KohmannF., 1992. Taxonomische und ökologische Revision der Ciliaten des
+Saprobiensystems - Band II: Peritrichia, Heterotrichida, Odontostomatida. Informationsbeichte des Bayer.
+Landesamtes fiir Wasserwirtschafi, München, 5192, 502 p.
+Foissner W., Berger H. and Kohmann F., 1994. Taxonomische und ökologische Revision der Ciliaten des
+Saprobiensystems - Band III: Hymenostomata, Prostomatida, Nassulida. Informationsberichte des Bayer.
+ktndesamtes für Wasserwirtschaft, München, 1194,548 p.
+Fromentel E. de, 1874-1876. Etudes sur les microzoaires ou infusoires proprement dits comprenant de
+nouvelles recherches sur leur organisation, leur classification et la description des espöces nouvelles ou peu
+connues. Paris, G. Masson, 364 p.
+Gajewskaja N., 1928. Sur quelques infusoires p6lagiques nouveaux du lac Baikal. Dokl. Akad. Nauk SSSR,20,
+476-478.
+Gajewskaja N., 1933. Zur Oekologie, Morphologie und Systematik der Infusorien des Baikalsees. Zoologica,
+Stuug.,32, 1-298.
+Holt P. 4., Lynn D. H. and Corliss I. O., 1973. An ultrastructural study of the tentacle-bearing ciliate
+Actinobolinasmal/in.sp.anditssystematicandphylogeneticimplications. Protistologica,9,52l-541.
+Ilowaisky S. A., 1921. Zwei neue Arten und Gattungen von Infusorien aus dem Wolgabassin. Rab. volzh. biol.
+9ta.,6,97-lO5 (in Russian with German summary).
+Jankowski A. W., 1976. Revision of the classification of the cyrtophorids. Mat. II All-Union Cong. Protozool,
+Pt. I, 167-168 (abstract; in Russian).
+Kahl 4., 1930. Urtiere oder Protozoa I: Wimpertiere oder Ciliata (Infusoria) l. Allgemeiner Teil und
+Prostomata. Tierwelt Dtl., 18, 1-180.
+Kahl 4., 1931. Urtiere oder Protozoa I: Wimpertiere oder Ciliata (Infusoria) 2. Holotricha außer den im 1. Teil
+behandelten Prostomata. Ti e rw e lt Dt 1., 2 1, I 8 I -398.
+Kahl 4., 1932- Urtiere oder Protozoa I: Wimpertiere oder Ciliata (Infusoria) 3. Spirotricha. Tierwelt Dtl.,25,
+399-650.
+Kahl 4., 1935. Urtiere oder Protozoa I: Wimpertiere oder Ciliata (Infusoria) 4. Peritricha und Chonotricha.
+Tierwelt Dtl., 30, 651-886.
+Klaveness D., 1984. Studies on the morphology, food selection and growth of two planktonic freshwater
+strains of Coleps sp. Protistologica, 20, 335-349.
+Kofoid C. A. and Campbell A. S., 1929. A conspectus of the marine and fresh-water ciliata belonging to the
+suborder Tintinnoinea, with descriptions of new species principally from the Agassiz expedition to the
+eastern tropical Pacifrc 1904-1905. Univ. Calif. Publs hol.,34,l-4O3.
+Krainer K.-H., 1991. Contributions to the morphology, infraciliature and ecology of the planktonic ciliates
+Strombidium pelagicum n. sp., Pelagostrombidium mirabile (Penard, 1916) n. g., n. comb., and
+Pelagostrombidium fallax (Zachrias, 1896) n. g., n. comb. (Ciliophora, Oligotrichida). Europ. J. Protistol.,
+27,60-70.
+Krainer K.-H., 1993. Taxonomic and quantitative aspects of some planktonic strombidiids (Ciliophora:
+Oligotrichida) from dredgered groundwater ponds. Workshop of the plankton ecology group (PEG, SIL) on
+protozooplankton ecology - methods and seasonal successions, Institute for Limnology, Mondsee/Austria,
+p. 10 (abstract).
+Krainer K.-H., 1994. Taxonomische Untersuchungen an Planktonciliaten (Protozoa: Ciliophora) aus
+Grundwasserbaggerteichen in Osteneich. Arch. Protistenk. (submitted).
+Krainer K.-H. and Foissner W., 1990. Revision of the genus Askezasia Blochmann, 1895, with proposal of two
+new species and description of Rhabdoaskenasia minima n. g., n. sp. (Ciliophora, Cyclotrichida).
+J. Protozool., 37, 414-427.
+Lee L. L. and Soldo A. T. (eds), 1992. Protocols in protozoology. Lawrence, Kansas, Society of
+Protozoologists, Allen Press.
+Leidy J., 1877. Remarks on the American species of Dffiugia. Proc. Acad. mt. Sci. Philad.,year 1877,306-308.
+Iridy J., 1880. Remarks on pond life. Proc. Acad. nat. Sci. Philad., year 1880, 156-158.
+l,ohmann H., 1908. Untersuchungen zur Feststellung des vollständigen Gehaltes des Meeres an Plankton. IViss.
+M e e re sunte rs., 10, 129 -37 O -
+
+34 W. Foissner
+Maeda M., 1986. An illustrated guide to the species of the families Halteriidae and Strobilidiidae
+(Oligotrichida, Ciliophora), free swimming protozoa common in the aquatic environment. Bull. Ocean Res.
+Inst. Univ. Tolqo,2l, l-67.
+Maeda M. and Carey P. G., 1985. An illustrated guide to the species of the family Strombidiidae
+(Oligotrichida, Ciliophora), free swimming protozoa common in the aquatic environment. BuIl. Ocean Res.
+Inst. Univ. Tolqo, 19,l-68.
+Martin-Gonzalez A., Serrano S. and Femändez-Galiano D., 1990. On the morphology, morphogenesis, and
+argyrome of Disematostoma buetschlü (Ciliophora, Frontoniidae). Can. J. bo|.,68,245-253.
+Matthes D., Guhl W. and Haider G., 1988. Suctoria und Urceolariidae (Peritricha). Protozoenfauna 7/1.
+Stuttgart and New York, G. Fischer, )ilI + 309 p.
+Müller O. F., 1773. Vermium Terrestrium et Fluviatilium, seu Animalium Infusorium, Helminthicorum et
+Testaceorum, non Marinorum, Succincta Historia. Havniae and Lipsiae, Heineck and Faber, 135 p.
+Müller O. F., 1786. Animalcula Infusoria Fluviatilia et Marina, quae Detexit, Systematice Descripsit et ad
+Vivum Delineari Curavit. Hauniae, N. Mölleri, 367 p.
+Nilsson J. R., 1986. The African heterotrich ciliate, Stentor andreseni sp. nov., and S. amethystinusLeidy. Biol.
+Skr., 27, l-43.
+Packroff G. and Wilbert N., 1991. Taxonomische Studien über die Ciliatenfauna (Protozoa, Ciliophora) der
+Eifelmaare. Arch. Protistenlc, 140, l2l-139.
+Pejler B., 1962. Notes on some limnoplanktic protozoans with descriptions of two new species. Zool. Bidr.
+Upps.,33, 447-452.
+Penard 8., 1916.Le Strombidium mirabile. Möm. Soc. Phys. Hist. noL Genöve,3&,227-252.
+Petz W. and Foissner W., 1992. Morphology and morphogenesis of Strobilidium caudatum (Fromentel),
+Meseres corlissi n. sp., Halteia granlinella (Müller), and Strombidium rehwaldi n. sp., and a proposed
+phylogenetic systemforoligotrichciliates (Protozoa, Ciliophora). J. Protozool.,39,159-176.
+Petz W. and Foissner W., 1993. Morphogenesis in some freshwater tintinnids (Ciliophora, Oligotrichida).
+Europ. J. Protistol., 29, 106-120.
+Pollingher U. and Kimor 8., 1967. The tintinnid fauna of Lake Tiberias. Bull. Sea Fish. Res. Stn Israel, 44,
+t7-21.
+Reisser W., 1986. Endosymbiotic associations of freshwater protozoa and algae. Progr. Protistol., l, 195-214.
+Roque M., 1961. Recherches sur les infusoires cili6s: les hym6nostomes pdniculiens. Bull. biol Fr. Belg.,9i,
+432-519.
+Schewiakoff W., 1892. Uber die geographische Verbreitung der Süsswasser-Protozoön. Verh. naturh.-tned.
+Ver. Heidelb. (N. S.),4,544-567.
+Small E. B. and Lynn D. H., 1985. Phylum Ciliophoru,393-575.ln: Illustrated guide to the protozoa, J. J. ke,
+S. H. Hutner and E. C. Bovee (eds.). Lawrence, Kansas, Society ofProtozoologists, Allen Press.
+Sommer G., 1951. Die peritrichen Ciliaten des Großen Plöner Sees. Arcä. Hydrobiol.,44,349-440.
+Song Weibo and Wilbert N., 1989. Taxonomische Untersuchungen an Aufwuchsciliaten (Protozoa, Ciliophora)
+im Poppelsdorfer Weiher, Bonn. Lauterbomia, 3, l-221.
+Stein F., 1863. Neue und nicht genügend bekannte Infusorienformen. Amtl. Ber. Dt. Natt u. Änte, Karlsbad.
+37 (year 1862), 16l-162.
+Stein F., 1867. Der Organismus der Infusionsthiere nach eigenen Forschungen in systematischer Reihenfolge
+bearbeitet. II. Abtheilung. 1) Darstellung der neuesten Forschungsergebnisse über Bau, Fortpflanzung und
+Entwickelung der Infusionsthiere. 2) Naturgeschichte der heterotrichen Infusorien. Leipzig, W. Engelmann,
+355 p.
+Tamar H., 1968. Observations on Halteria bifurcata sp. n. and Halteria grandinelln. Acta Protozool.,6, 175-
+184.
+Tamar H., 1971. Mesodiniumfimbriatutn Stokes, 1887, a ciliate with bifurcated and barbed cirri. Acta
+P rotozool., 9, 209 -222.
+Tamar H., 1987. On division in a fresh-water Mesodinium acarus. Acta Proto7ool.,26,213-218.
+Tamar H., 1992. Four marine species of Mesodinium (Ciliophora: Mesodiniidae) 11. Mesodinium pulex Clap.
+& Lachm., 1858. Arch. Protistenk., 141,284-303.
+
+Taxonomy of Planktonic Ciliates 35
+ThomasE. A.,lg4l.BeitragzurKenntnisdesPlanktonsdreierZürcherSeen.RevueHydrol-Aarau,9,34-49.
+Tuffrau M., 1972. Caractöres primitifs et structures 6volu6es chez des cili6s hypotriches: le genre
+Hypotrichidium. Protistologica, 8, 257 -266.
+Warren A., 1986. A revision of the genus Vorticella (Ciliophora: Peritrichida). Bull. Br. Mus. nat. Hist. (hol.),
+50, t-57.
+Warren A., 1987. A revision of the genus Pseudovorticella Foissner & Schiffmann, 1974 (Ciliophora:
+Peritrichida). BuIl. Br. Mus. not. Hist. (hol.),52, l-12.
+Wenrich D. H., 1929. The structure and behavior of Actinobolus vorax n. sp. (Protozoa, Ciliata). Biol. Bull.,56,
+390-40r.
+Wilbert N., l972.Die Infraciliatur von Marituja pelagica Gajewskaja, 1928. J. Protozool.,19,59O-592.
+Wilbert N., 1986. Beitrag zur Morphologie und Okologie einiger planktischer Ciliaten aus dem Poppelsdorfer
+Weiher in Bonn (BRD). Arcft. Protistenk,l3l,59-69.
+Zacharias O., 1895. Faunistische Mittheilungen. ForschBer biol. Stn Plön, lahr 1895,73-96.
+

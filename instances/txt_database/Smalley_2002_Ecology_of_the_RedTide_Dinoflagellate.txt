@@ -1,0 +1,741 @@
+J. Eukaryot. Microbial., 49(1), 2002 pp. 63-73
+O 2002 by the Society of Protozoologists
+Ecology of the Red-Tide Dinoflagellate Ceratium furca: Distribution,
+Mixotrophy, and Grazing Impact on Ciliate Populations of Chesapeake Bay
+GABRIELA W. SMALLEYa.ba nd D. WAYNE COATSa
+"Smithsonian Environmental Research Center, P.O. Box 28, Edgewater, Maryland 21037, and
+bHorn Point Laboratory, University of Maryland Center for Environmental Science, P.O. Box 775, Cambridge, Maryland 21613, USA
+ABSTRACT. Ceratium furca is a primarily photosynthetic dinoflagellate also capable of ingesting other protists. During 1995 and
+1996, we documented the abundance of C. furca in Chesapeake Bay and determined grazing rates on prey labeled with fluorescent
+microspheres. Abundance usually remained below 20 cells ml-', although the species was capable of localized late-summer blooms (5
+478 cells ml-I) in the more saline lower to mid-Bay region. Feeding rates ranged from 0 to 0.1 1 prey dinoflagellate-' h-I or from 0 to
+37 pg C dinoflagellate-' h-' and were highest at lower salinities. Clearance rates averaged 2.5 i 0.35 p1 dinoflagellate-' h-I. Impact
+of C. furca feeding on prey populations was higher in the lower Bay, averaging 67% of Strobilidium spp. removed d-I. Ingestion rates
+were positively correlated with prey abundance and dissolved inorganic nitrogen, but negatively with salinity, depth, dissolved inorganic
+phosphorus, and inorganic P:N ratio. Daily consumption of prey biomass by C. furca averaged 4.6% of body carbon, 6.5% of body
+nitrogen, and 4.0% of body phosphorus, with maximal values of 36, 51, and 32%, respectively. Thus, the ability to exploit an organic
+nutrient source when inorganic nutrients are limiting may give C. furca a competitive advantage over purely photosynthetic species.
+Key Words. Bloom formation, ingestion rate, nutritional benefits, Strobilidium spp.
+0V ER the last few decades, the frequency, magnitude and junction with data on "gut content" to estimate ingestion rates
+geographic extent of red-tide outbreaks produced by toxic of specimens collected from the field or from laboratory cul-
+and non-toxic dinoflagellates have increased (Anderson 1997; tures. This approach is attractive as no handling or incubation
+Hallegraeff 1993). Yet, the factors leading to initiation and per- of the dinoflagellate is needed to estimate ingestion rates. How-
+sistence of these dinoflagellate blooms remain only partly un- ever, it is very labor-intensive, and several assumptions are re-
+derstood. Several mechanisms have been suggested to play im- quired. For example, digestion rate must be independent of
+portant roles. Physical factors, such as winds, currents, tidal "gut content," and ingestion and digestion must be in equilib-
+flows, and density gradients, may act to concentrate cells in rium (i.e. steady-state conditions).
+specific areas (Steidinger 1973). The ability to form cysts is The presence of food vacuoles in C. furca of Chesapeake
+thought to be another important factor, providing seed popula- Bay has been reported previously (Bockstahler and Coats
+tions for blooms (Steidinger and Vargo 1988). In addition, up- 1993b; Li et al. 1996), although neither study determined feed-
+welling of nutrient-rich water, enhanced organic and inorganic ing rates for the species. Recently, however, Smalley, Coats,
+nutrient loading, high incident photosynthetically-active radia- and Adam (1999) investigated feeding in field populations of
+tion (PAR), and reduced grazing pressure have been used to C. furca by employing a method using 1-km fluorescent mi-
+explain formation and persistence of dinoflagellate blooms (Ga- crospheres to label prey. Microspheres were added to natural
+llegos, Jordan, and Core11 1992; Huntley 1982; Loftus, Subba plankton assemblages and were rapidly ingested by a variety of
+Roa, and Selinger 1972; Paerl 1988). planktonic organisms including small flagellates, ciliates, di-
+More recently, increased attention has been given to the mix- noflagellates, ebriids, and amoebae. While C. furca did not in-
+otrophic behavior so prevalent among many red-tide dinofla- gest microspheres directly, labeled prey were phagocytized and
+gellates. Mixotrophs gain their nutrition through a combination could easily be detected within the dinoflagellate using epifluo-
+of photosynthesis and uptake of dissolved or particulate organic rescence microscopy. Ingestion rates were then determined by
+material. Supplementing their nutrition in this manner could following the appearance of labeled food vacuoles in C. furca
+give red-tide dinoflagellates a competitive advantage over strict- over time. Analysis of food vacuole content and potential prey
+ly photosynthetic organisms, since phagotrophy would enable availability indicated that C. furca preyed mainly on choreotrich
+the mixotrophic species to acquire nutrients and carbon when ciliates of the genus Strobilidium, 10-40 pm in diameter. This
+these essential growth factors are limiting (Li, Stoecker, and method has several advantages for the study of mixotrophy in
+Coats 2000a, b; Nygaard and Tobiesen 1993; Sanders, Porter, large, slow-feeding dinoflagellates, such as C. furca. Live prey
+and Caron 1990). This ability to take advantage of additional found in natural water samples are used, and surface charac-
+nutrient sources may thus contribute to bloom formation and teristics of prey presumably remain unaltered. No addition of
+persistence (Smayda 1997; Stoecker et al. 1997). prey is necessary, and only a minimum amount of handling of
+In Chesapeake Bay, USA, mixotrophy is prevalent among the sample is required. Incubation experiments can last for six
+many of the photosynthetic dinoflagellates capable of bloom- hours, allowing sufficient time for the appearance of labeled
+formation, including Akashiwo sanguinea (= Gymnodinium food vacuoles in predators with low feeding rates.
+sanguineum), Ceratium furca, Gyrodinium uncatenum, Gyro- In the present study, we used the method described in Smal-
+dinium galatheanum, and Prorocentrum minimum (Bockstahler ley, Coats, and Adam (1999) to document the spatial and sea-
+and Coats 1993a, b; Li et al. 1996; Smalley, Coats, and Adam sonal patterns of mixotrophy in C. furca. ~uringm onthly sur-
+1999; Stoecker et al. 1997). However, feeding rates have only vey cruises along the main axis of Chesapeake Bay, we deter-
+1 been determined for a few of these species. Bockstahler and mined the distribution of C. furca and ciliate prey and inves-
+Coats (199313) and Li, Stoecker, and Coats (2001) estimated tigated the potential role of physical, biological, and chemical
+feeding and impact on prey populations by A. sanguinea and factors in regulating C. furca distribution and feeding patterns.
+I G. galatheanum using a 'gut clearancelgut fullness' approach In addition, we estimated grazing impact on ciliate populations
+(Dolan and Coats 1991; Kopylov and Tumantseva 1987). In and calculated the potential nutritional contribution of ingested
+this approach, digestion rates determined by following the dis- prey to C. furca.
+appearance of phagocytized prey over time were used in con-
+MATERIALS AND METHODS
+Corresponding Author: G. Smalley-Telephone number: 443-482- Field sampling. To determine the temporal and spatial as-
+2445; FAX number: 443-482-2380; E-mail: smalley@serc.si.edu pects of Ceratium furca abundance and mixotrophy, surface
+
+64 J. EUKARYOT. MICROBIOL., VOL. 49, NO. 1, JANUARY-FEBRUARY 2002
+water samples for inorganic nutrient analysis (i.e. nitrate and
+nitrite, ammonia, dissolved inorganic phosphate) were collected
+at routine stations, filtered, and stored frozen until analysis
+(Technicon Autoanalyzer 11, Bran and Luebbe detector, TAOS
+software; Technicon Engineering Inc., Atlanta, GA), as de- h
+scribed in Stoecker et al. (1997).
+Feeding by C. furca on ciliate prey was determined at all
+-
+stations and depths where C. furca densities exceeded 0.25
+cells ml-'. Ingestion rates were determined as described in
+Smalley, Coats, and Adam (1999). Briefly, whole water con-
+taining C. furca was spiked with 1-km fluorescent latex micro-
+spheres (Polysciences Inc., Warrington, PA) at a final concen-
+tration of 0.5-1.0 X lo7m l-I. The water was incubated in poly-
+carbonate bottles (250-ml to 2-liter bottles, depending on C.
+furca density) in a flowing seawater bath on deck. The water-
+bath was covered with a screen that reduced the incoming light
+intensity by approximately 65%. Twenty- to 40-ml aliquots
+were withdrawn and immediately preserved in modified
+Bouin's fixative (Coats and Heinbokel 1982) for subsequent
+determination of ciliate abundance. After approximately six
+hours of incubation, 100 ml to 2 liters of the sample were fixed
+in modified Bouin's solution for analysis of C. furca density
+and ingestion rates.
+Ceratium furca densities and number of food vacuoles per
+C. furca cell were determined by placing each sample in a Zeiss
+settling chamber (5 to 50 ml, depending on C. furca densities).
+After allowing sufficient time for settling, the entire chamber
+was scanned at 200X to 400X on an inverted microscope
+equipped with epifluorescence optics (Zeiss Axioscope; 450-
+490 nm excitation). Cell densities were obtained by determining
+the total number of cells per chamber. The number of labeled
+food vacuoles per cell was recorded for the first 100 specimens
+encountered. Hourly ingestion rate was then calculated by di-
+viding the mean number of food vacuoles per C. furca by in-
+cubation time. This approach was justified as Smalley, Coats,
+and Adam (1999) found a linear increase in food vacuoles per
+cell over at least six hours, indicating that food vacuoles were
+retained during this time period. To enumerate and identify cil-
+iates, 20- or 40-ml quantitative Protargol stain (QPS) prepara-
+tions were made (Montagnes and Lynn 1987) from each sample
+where C. furca feeding had been determined. Ciliates present
+in arbitrarily selected microscope fields (1,00OX, Zeiss Axio-
+scope) were enumerated and identified to genus until 100 cells
+had been encountered or an equivalent of 4 ml whole-water
+sample analyzed. Specimens belonging to the genus Strobili-
+dium were measured using a calibrated ocular micrometer, and
+Fig. 1. Map of Chesapeake Bay showing routine (0)a nd additional
+cell volume was calculated using the appropriate geometric for-
+(0s)ta tions occupied during cruises in 1995 and 1996. Routine station
+mulae.
+designations from north to south are: 908 (39" 08' N, 76" 20' W); 858
+Impact of Ceratium furca grazing on prey populations.
+(38" 58' N, 76" 23' W); 845 (38" 45' N, 76" 26' W); 834 (38" 34' N,
+76" 26' W); 818 (38" 18' N, 76" 17' W); 804 (38' 04' N, 76" 20' W); Impact of C. furca grazing on prey populations was expressed
+744 (37" 44' N, 76" 11' W); 724 (37" 24' N, 76" 05' W); 707 (37" 07' as daily removal of ciliate standing stock by C. furca as a pro-
+N, 76" 07' W). Additional station locations from north to south are: 820 portion of prey abundance, assuming constant feeding over a
+(38" 20' N, 76" 21' W); 810 (38" 10' N, 76" 15' W); 800 (38" 00' N, 24-h period (i.e. no die1 variations):
+76" 14' W); 750 (37" 50' N, 76" 07' W); 740 (37" 40' N, 76' 06' W);
+735 (37" 35' N, 76" 11' W); 730 (37" 30' N, 76" 07' W); 720 (37" 20' % prey population removed d-' =
+N, 76' 07' W); 710 (37" 10' N, 76" 08' W). In the text, stations 845 to 100 X (24 X I X (C. furca ml-I)) 1 (prey ml-'),
+908 are referred to as upper (northern) Bay, 750 to 834 as mid-Bay, where I is the ingestion rate determined for C. furca (labeled
+and 707 to 740 as lower (southern) Bay. prey C. firca-I h-I). Values for ciliate and C. furca abundances
+and C. furca ingestion rate were obtained as described above.
+Potential contribution of mixotrophy to Ceratium furca
+water samples were collected at routine stations along the main a
+nutrition. Estimates of potential contribution of ingested car-
+axis of Chesapeake Bay (Fig. 1) during June through September
+bon (C), nitrogen (N), and phosphorus (P) to C. furca are given
+1995 and July through September 1996. Additional samples
+as the daily ingestion relative to cellular content of C. furca:
+were taken at intermediate stations and at various depths when
+the need or opportunity arose (Fig. 1). At each station, vertical % ingested body C, N, or P =
+CTD (conductivity, temperature, depth, plus fluorescence) and 100 X 24 h X I X (cellular C, N, or P content of prey)/cellular
+Niskin bottle casts were made during daylight hours. Duplicate C, N, or P content of C. furca.
+
+SMALLEY & COATS-MIXOTROPHY IN CERATIUM FURCA 65
+Daily ingested C, N, and P by C. furca were calculated assum- 39 t 1.1 pg C C. furca-' h-' (GWS., unpubl. data) obtained for
+ing constant feeding over a 24-h period. We further assumed C.f urca isolated from Chesapeake Bay and maintained in culture
+that C. furca fed on ciliates of the genus Strobilidium only (see as described above. This rate was assumed to be representative
+Smalley, Coats, and Adam 1999). of average photosynthetic rates in the field. Furthermore, pho-
+Cellular C, N, and P contents of prey were estimated from tosynthetic C uptake was estimated over a 14-h photoperiod,
+biovolume measurements of Strobilidium sp. in QPS prepara- while feeding was assumed to continue throughout the night.
+tions. To convert ciliate biovolume to C, N, and P biomass, we Statistical analyses. All statistical analyses were performed
+determined C, N, and P densities for a Strobilidium sp. isolated using Sigmastat Version 2.0 (SPSS Inc.). As most data failed
+from the Choptank River, a Maryland tributary of Chesapeake tests for homogeneity of variance or normality, non-parametric
+Bay (cultures obtained from Matt Johnson). Cells were grown in tests were performed for the majority of analyses. Spearman rank
+7 practical salinity units (psu) estuarine water at 20 OC and fed order correlation was used to relate abundance and feeding of C.
+the flagellate Zsochrysis galbana. We measured cell vol. of live, furca to a variety of biological (C.f urca and prey abundance, in
+2% acid Lugol's-fixed, Bouin's-fixed, and QPS- treated ciliates vivo fluorescence), chemical (nutrient concentrations), and phys-
+and determined the extent of cell shrinkage upon fixation and ical factors (salinity, temperature, depth). For mean comparison,
+QPS treatment. Mean cell vol. of live Strobilidium sp. was ob- Kruskal-Wallis ANOVA on ranks was conducted in most cases,
+tained with a Coulter Multisizer I1 electronic particle counter unless the data met assumptions for one-way ANOVA. Means
+(Coulter Corporation, Miami, FL) interfaced with AccuComp are reported 2 standard error of the mean (SE).
+particle characterization software (Coulter AccuComp Version
+RESULTS
+2.01, 1998). Cell vol. of Lugol's-fixed, Bouin's-fixed, and QPS
+specimens were determined by measuring width and length of Ceratium furca was present in Chesapeake Bay during all
+50 specimens with a calibrated ocular micrometer and calculating cruises in 1995 and 1996 (Fig. 2A, 3A). In both June (data not
+cell vol. using the formula for a prolate spheroid. shown) and July 1995 (Fig. 2A), C. furca densities were low
+Cellular C, N, and P contents of Strobilidiurn sp. were deter- (5 7 ml-I), and the species was restricted to the southern Bay
+mined for cultures with low Zsochrysis galbana density. To cor- (salinity 2 15 psu). By August, a localized peak in surface
+rect for C, N, and P contributed by remaining prey, ciliate-free density of C. furca was evident at station 750, and the species
+samples were obtained by removing ciliates from flagellate prey extended further into the mid-Bay (salinity 2 13 psu). A more
+by gentle gravity filtration through a 5-pm Nucleopore filter. pronounced peak in cell density was evident in September at a
+Triplicate samples of both ciliate-containing culture and ciliate- similar location (station 800), reaching a surface density of 324
+free filtrate were collected on precombusted Whatman GF/F fil- C. furca ml-'. Densities remained low to the north and south
+ters for CHN (20 ml) and particulate P (20 ml) analyses. Cellular of station 800, and cells were not found in waters below 18
+C and N were analyzed with an EAI CE-440 Elemental Analyzer psu. In July 1996, C. furca was more abundant (up to 19 ml-')
+(Exeter Analytical, Inc., North Chelmsford, MA), and particulate and extended further into the mid-Bay region (salinity 2 10
+P was determined as soluble reactive P following high temper- psu) than in 1995 at that time of year (Fig. 3A). By August, a
+ature combustion and hydrochloric acid digestion (Anderson localized bloom had developed at station 730, with surface cell
+1976). The C, N, and P contents of Strobilidium sp. were cor- density reaching 480 ml-l. Ceratium furca was also abundant
+rected for remaining prey by subtracting the values obtained for to the south of this bloom, but did not extend into waters with
+the ciliate-free samples from those obtained for the unfiltered salinities below 10 psu. The bloom had dissipated by Septem-
+culture. Strobilidium sp. abundance was determined microscop- ber, and cells remained restricted to r 10 psu waters. Median
+ically (100X) after Lugol's fixation by enumerating all speci- C. furca densities during cruises in 1995 and 1996 were not
+mens found in eight Palmer-Maloney chambers. Flagellate den- significantly different from each other (Table 1).
+sity was obtained by examining randomly chosen microscope Strobilidiurn spp. densities and ingestion of labeled prey by
+fields (400X) of six Sedgwick-Rafter chambers until 100 cells C. furca were very low at all stations examined in June (data
+had been encountered for each chamber. We calculated C, N, not shown), July, and September 1995 (Fig. 2A, B), with no
+and P densities of Strobilidium sp. by dividing the C, N, and P clear spatial pattern emerging. In August 1995, Strobilidium
+contents by cell vol. spp. were slightly more abundant than in previous and subse-
+Cellular C, N, and P contents of C.f urca were determined for quent months, especially in the mid- and upper Bay. A peak in
+cultures isolated from Chesapeake Bay by D. Wayne Coats. Rep- ingestion rate at station 818 coincided with highest Strobilidium
+licate cultures were maintained at 20 "C and 150 yE m-2 s-' on spp. density. During cruises in 1996, median Strobilidium spp.
+a 14:lO h 1ight:dark cycle in modified fl2-Si medium (Guillard and total ciliate densities and ingestion rates of C. furca were
+and Ryther 1962). This medium was prepared using 15 psu Ches- significantly higher than in the previous year (Table I), again
+apeake Bay water supplemented with various combinations of mainly in the mid- to upper Bay (Fig. 3A, B). In July, peak
+nitrate and phosphate, ranging from 7.5-870 pM NO3 and 0.06- Strobilidiurn spp. density and maximum C.f urca ingestion rates
+-
+25 pM PO,. Over a 30-day period, 50-1111 aliquots were repeat- coincided with high C.f urca abundance in 11-12 psu waters.
+edly removed from each bottle for determination of cell density By August, the Strobilidiurn spp. peak reached 50 ml-' and had
+and particulate phosphorus and CHN analysis. Samples were shifted northward following the 11 psu isohaline. Ingestion
+washed three times (GF/F filtered, autoclaved 15 psu seawater) rates were also higher in the mid-Bay, where C.f urca densities
+using gentle gravity filtration through 8 pm Nucleopore filters to were lower. In September, Strobilidium spp. remained more
+remove bacteria and cell debris. Ceratium furca densities were abundant in the mid-Bay, north of maximum C. furca densities.
+determined microscopically after Lugol's fixation (2% final con- Ingestion rates exhibited a similar pattern, but in addition to
+centration) by examining successive microscope transects (100- increased rates in the mid-Bay, they were also higher south of
+200X) of triplicate Sedgwick-Rafter chambers until 100 cells the C. furca density peak in the lower Bay.
+had been counted for each chamber. Samples for CHN (20 ml) Impact of C. furca feeding on Strobilidium spp. standing
+and particulate P (20 ml) analyses were collected, processed, and stock was highly variable among stations and months (Fig. 2B,
+analyzed as above. 3B), and no significant difference was found between median
+To estimate the relative importance of ingested prey C to pho- impact during the summer months of 1996 and 1995 (Table 2).
+tosynthetic C uptake, we used an average photosynthetic rate of Impact remained below 50% Strobilidium spp. removed d-' for
+
+J. EUKARYOT. MICROBIOL., VOL. 49, NO. 1, JANUARY-FEBRUARY 2002
+July 1995 August 1995 September 19 95
+km from mouth of Bay km from mouth of Bay km from mouth of Bay
+Fig. 2. A. Abundance of Ceratium furca (a) and Strobilidium spp. (0) in Chesapeake Bay during cruises in 1995. B. Ingestion of labeled
+prey by C. furca (0)a nd impact on Strobilidium spp. populations (0). C. Surface salinity. Station designations are indicated at the top of the
+panels (see Fig. 1 for station locations).
+most of 1995, except for two stations in the lower to mid-Bay amined for association with abundance and ingestion rate of C.
+(750 in August, 800 in September; Fig. 2B). At these stations, furca. Only one factor, in vivo fluorescence, showed a signifi-
+low prey abundance coincided with high C. furca densities. cant negative correlation with C. furca density (r = -0.317, n
+Despite low feeding rates, this combination resulted in some of = 84, p = 0.003). While no relationship between C. furca abun-
+the highest theoretical values (5 1,800%) of Strobilidium spp. dance and salinity was found when data for both years were
+removed d-I observed during our study period. In July 1996, combined, a significant positive correlation was evident when
+maximum impact was again found in the lower to mid-Bay only data for 1996 were considered (r = 0.385, n = 44, p =
+region where C. furca was most abundant (Fig. 3B). By August, 0.010). Cells were most abundant at salinities ranging from 15
+peak impact had shifted to the lower Bay, where ciliates were to 22 psu in 1995 and from 11 to 22 psu in 1996 and were
+less abundant, and this pattern persisted into September. restricted to waters above 10 psu throughout the study period
+Combining data from cruises during both years revealed (Fig. 2, 3). Ingestion rate, on the other hand, was negatively
+some interesting trends (Fig. 4). Densities of C. furca tended correlated with salinity (r = -0.671, n = 65, p < 0.001), sug-
+to be highest at intermediate (- 15 psu) salinities, while Stro- gesting that feeding was higher in the mid-Bay, where C. furca
+bilidium spp. were most abundant at lower salinities (< 14 psu). was near its lower salinity tolerance limit, but where prey were
+Ingestion rates were also highest at these lower salinities where more abundant (Fig. 4). Strong positive correlations were found
+prey were abundant. Conversely, impact on Strobilidium spp. between total ciliate and Strobilidium spp. abundance and in-
+populations tended to be highest at higher salinities (- 18 psu), gestion rate (r = 0.577, n = 64, p < 0.001 and r = 0.806, n
+coinciding with an increased relative abundance of C. furca. = 64, p < 0.001, respectively). Depth exhibited a negative cor-
+Several biological, physical, and chemical factors were ex- relation with ingestion rate (r = -0.354, n = 66, p = 0.004),
+
+SMALLEY & COATS-MIXOTROPHY IN CERATIUM FURCA
+July 1996 August 1996 September 1996
+km from mouth of Bay ? km from mouth of Bay km from mouth of Bay
+Fig. 3. A. Abundance of Ceratium furca (a) and Strobilidium spp. (0) in Chesapeake Bay during cruises in 1996. B. Ingestion of labeled
+prey by C. furca (a) and impact on Strobilidium spp. populations (0). C. Surface salinity. Station designations are indicated at the top of the
+panels (see Fig. 1 for station locations).
+Table 1. Abundance of Ceratium furca, total ciliates, and Strobilidium spp. and ingestion and clearance rates of C. furca from Chesapeake
+Bay.
+Abundance Feeding
+C. furca ml-I Ciliates ml-I Strobilidium spp. ml-I (Prey C. furca-I h-l) (yl C. furca-I h-')
+June-Sept. 1995:
+Mean i SE 12.4 t 8.31 (ns) 32 2 5.1* 1.9 2 0.43* 0.007 2 0.0042* 2.1 t 0.65 (ns)
+Median 1.3 2 1 1.4 0.0007 0.9
+Range 0-324 7-77 0-7.8 04.085 0-10.9
+July-Sept. 1996:
+Mean t SE 17.8 5 11.13 (ns) 63 i 5.3* 11.3 2 1.83* 0.026 i 0.0044" 2.7 t 0.4 (ns)
+Median 1.6 53 8.6 0.01 0.4
+Range 0-478 6-136 0-5 1 0-0.11 0-10.8
+Total:
+Mean t SE 14.9 t 6.82 53 t 4.2 8.9 i 1.45 0.02 t 0.003 2.5 t 0.35
+Median 1.4 50 4.0 0.008 2.0
+Range 0-478 6-136 0-5 1 0-0.1 1 0-10.9
+ns = no significant difference (p > 0.05), * p < 0.001 between average values for 1995 and 1996 (Kruskal-Wallis ANOVA on ranks).
+
+68 J. EUKARYOT. MICROBIOL., VOL. 49, NO. 1, JANUARY-FEBRUARY 2002
+Table 2. Estimated impact of Ceratium furca grazing on prey populations of Chesapeake Bay.
+Percent prey standing stock removed d-'
+Ciliates <20 p Choreotrichidsa Strobilidium spp.
+June-September 1995:
+Mean + SE 2.1 +. 0.97 (ns) 4.4 +. 1.55 (ns) 115 2 94.6 (ns)
+Median 0.50 1.5 6.6
+Range 0-18 0-24 0-1810
+July-September 1996:
+Mean + SE 9.4 If- 3.49 (ns) 22 + 7.6 (ns) 45 +. 12.9 (ns)
+Median 1. O 3.1 8.5
+Range 0-106 0-2 18 0-375
+Total:
+Mean t SE 6.8 + 2.31 16 + 5.0 67 +. 31.3
+Median 0.9 2.5 7.9
+Range 0-106 0-218 0-1810
+ns = no significant difference (p > 0.05) between average values for 1995 and 1996 (Kruskal-Wallis ANOVA on ranks).
+Order Choreotrichida, defined in accordance with Small and Lynn (1985) to include the suborders Tintinnina, Strombidinopsina, and Strobi-
+a
+lidiina.
++
+indicating that C. furca fed more heavily in surface than in grown at various nutrient concentrations averaged 2460 25
++ +
+deeper waters. In addition, significant positive correlations of pg C cell-', 427 4.7 pg N cell-', and 94 2.0 pg P cell-'.
++
+ingestion rate with NH, (r = 0.349, n = 49, p = 0.014), dis- Average C, N, and P contents of Strobilidium sp. were 126
++
+solved inorganic nitrogen (DIN; r = 0.372, n = 49, p = 0.009), 17.7 pg C cell-', 31 1.3 pg N cell-', and 4.2 t 1.63 pg P
+and dissolved inorganic phosphorus concentrations (DIP; r = cell-', with C:N, C:P, and N:P ratios (molar) of 4.8, 78, and
+-0.311, n = 49, p = 0.030) were evident (Fig. 5A, B). Con- 16.3, respectively. Mean cell vol. of live Strobilidium sp. was
++ +
+centrations of NO, NO, were not correlated with feeding (n 1680 1 ym3. Volumes of Lugol's-fixed, Bouin's-fixed, and
+= 49, p = 0.153). The ratio of D1P:DIN exhibited a strong QPS-treated specimens decreased significantly compared to that
+negative correlation with feeding rate (r = -0.477, n = 49, p of live cells (F = 13.1, df = 199, p < 0.001), shrinking by 24,
+< 0.001; Fig. 5C). Feeding increased as D1P:DIN ratios devi- 45, and 48%, respectively. This resulted in different conversion
+ated farther from the Redfield ratio of l :1 6. factors for biovolume to C, N, and P biomass, depending on
+Potential contribution of mixotrophy to Ceratium furca which fixative or stain was used. While live cells contained 0.08
+nutrition. Cellular C, N, and P contents of cultured C. furca pg C ~ m -0~.0,18 pg N ~ m -a~nd, 0 .0025pg P ~ m -t~he ,c on-
+version factors for QPS-treated cells were 0.14 pg C ~ m - ~ ,
+0.035 pg N ~ m -a~nd, 0 .0048 pg P ~ m - ~ .
+100 Mean ingestion of prey C, N, and P by C. furca is shown in
+-
+Table 3, while daily ingestion relative to cellular content of C.
+80 furca and the fraction of heterotrophic C uptake relative to total
+E C uptake are presented in Table 4. During our study period,
+m
+potential contribution of prey C, N, and P to C. furca was high-
+60
+2 er in the mid- to upper Bay, where C. furca abundance was
+2E low but feeding rate was high. Ingestion of prey C, N, and P
+40
+and thus potential contribution of phagotrophy to C. furca nu-
+S
+trition was significantly higher during cruises in 1996 than in
+0 20 1995 (Table 3, 4).
+0 DISCUSSION
+-
+Ceratium furca was present in Chesapeake Bay throughout
+;0. 04 our study period, usually at densities 5 20 ml-'. However, the
+7A species was capable of localized late-summer bloom formation
+0.03 in the lower to mid-Bay region, reaching densities of 324 ml-'
+2 and 478 ml-' in September 1995 and August 1996, respectively.
+g
+0.02 Ceratium furca seemed to be restricted to 2 10 psu waters and
+> was most abundant at or above 15 psu, and at temperatures
+g
+ranging from 24 to 27 "C. A similar distribution pattern of C.
+0.01
+furca in Chesapeake Bay was observed by Bockstahler and
+Coats (1993a) for 1988. They reported peak C. furca densities
+0.00
+in the mid-Bay for July at salinities of 13-16 psu, with decreas-
+9 12 15 18 21 24
+ing abundance at lower and higher salinities. Earlier studies
+Salinity (psu) mainly restricted to the lower Bay also documented the occur-
+rence of C. furca, which was most abundant in summer and
+Fig. 4. A. Ceratiumfurca (W) and Strobilidium spp. (0) abundance
+fall (Cowles 1930; Marshall 1980) at salinities of 16-22 psu
+in relation to salinity in Chesapeake Bay. B. Ingestion of labeled prey
+and temperatures of 23.9-24.6 "C (Mulford 1963).
+by C. furca (W) and impact on Strobilidium spp. populations (0) in
+relation to salinity. Mean 2 SE were derived from combined data for Ceratium furca is a cosmopolitan species, and reports of its
+1995 and 1996. salinity and temperature optima vary greatly. For example, in
+
+SMALLEY & COATS-MIXOTROPHY IN CERATIUM FURCA 69
+Table 3. Estimated ingestion rates of prey carbon (C), nitrogen (N),
+and phosphorus (P) by Ceratium furca.
+Ingestion
+June-Sept. 1995:
+Mean 2 SE
+Median
+Range
+July-Sept. 1996:
+Mean 5 SE
+Median
+Range
+Total:
+Mean 5 SE
+Median
+Range
+*p < 0.001 comparing average values for 1995 and 1996 (Kruskal-
+Wallis ANOVA on ranks).
+Alternatively, factors other than or in addition to salinity and
+temperature may influence C. furca distribution. In our study,
+C. furca abundance was positively correlated with salinity dur-
+ing cruises in 1996. Furthermore, the species was not found
+below the 10 psu isohaline, suggesting that salinity limited the
+northward expansion of C. furca during the summer of 1996.
+In 1995, however, no significant correlation between C. furca
+distribution and salinity was evident. In addition, the northern
+limit of the C. furca population coincided with waters ranging
+in salinity from 13 to 18 psu. Thus, the peak C. furca abundance
+-
+at 15 psu reported in this study probably reflects an interplay
+of salinity tolerance and other factors, such as inorganic and
+organic nutrient supply or grazing pressure.
+A profound effect of river flow on the dynamics of phyto-
+plankton biomass and production has been demonstrated for
+Chesapeake Bay at both seasonal and annual scales (Fisher et
+al. 1992, 1999; Harding 1994; Malone et al. 1988, 1996). Riv-
+erine input is the major source of freshwater and external ni-
+trogen to the Bay. During winter and spring, maximum fresh-
+water flow provides high nitrogen concentrations, pushing the
+system towards P limitation. When freshwater runoff decreases
+in summer, N becomes limiting to algal growth. Nutrient lim-
+itation also varies over spatial scales due to freshwater inflow
+with high N:P and seawater inflow with low N:P (Fisher et al.
+1999). Consequently, P limitation is more pronounced in low
+salinity regions, while N limitation increases at higher salinities.
+During our study period, mean annual flow of the Susque-
+hanna River, the major source of freshwater to the Bay, was
+much lower in the drought year of 1995 (68 X lo6 m3 d-') than
+in 1996 (156 X lo6 m3 d-I; data from US Geological Survey,
+Conowingo, MD). Consequently, salinity at our sampling sites
+was reduced significantly during cruises in 1996 compared to
+furF caig . a 5 n. d dR ise sl oa lt vio en ds h inip o rb ge at nw ie ce nn i ti rn og ge es nti o (An )o ,f dl ia sb se ol le vd e dp r ie ny o b rgy a nC ie cr a pt hiu osm - 1995 (13.5 +- 0.60 vs. 17.9 + 0.65; F = 19.584, df = 64, p <
+Cph ho er su as e(B ak), a Bn ad .t h De D shI eP d: D liI nN r ra et pi ro s( eC n) sf o Rr d1 f9 i9 el5 ( P0 :N) a rn ad o1 9 (19 :6 6( )a ) in 0 m.0 ag0 n1 i) t, w deh i (l 2e 5n i +tro 0g .e 3n i vn sp u 2t 9a .2n d N 2:P 9in pc Mrea Nse d nb dy 3a 0n 1o r +d e 7r 6o 4f
+P p e y a e e t e d ti 1 . u . 2 . t .5 a . .
++
+vs. 206.0 26.02 N:P, respectively). This trend was observed
+Bay-wide (Li, Stoecker, and Coats 2000a; Smith 2000) and had
+Laguna de Sontecomapan, Mexico, C. furca was detected in a profound impact on phytoplankton community structure and
+waters with salinities ranging from 13-35 psu, and temperatures production (Smith 2000). While dinoflagellates together with
+from 30-34 "C (Guerra-Martinez and Lara-Villa 1996), while cyanobacteria dominated the summer phytoplankton assem-
+Nordli (1953) f~undm ost rapid growth of this species at 20- blage in 1995, diatoms were important throughout the summer
+25 psu and 20 "C. These observed variations may be due to of 1996 (Smith 2000). In our study, we found that Strobilidium
+different physiological tolerance with regard to salinity and spp. and total ciliate abundance were significantly higher in
+temperature among various strains or subspecies of C. furca. 1996, possibly due to an increase in small flagellate or bacterial
+
+70 J. EUKARYOT. MICROBIOL., VOL. 49, NO. 1, JANUARY-FEBRUARY 2002
+Table 4. Potential contribution of prey carbon (C), nitrogen (N), and phosphorus (P) to Ceratium furca nutrition.
+Estimated C, N and P specific ingestion
+Hetero/Photoa
+% body C d-' % body N d-' % body P d-' C uptake (%)
+June-Sept. 1995:
+Mean 2 SE 1.2 i 0.66* 1.6 i 0.94* 1.0 i 0.59* 5 i 3.0*
+Median 0.2 0.3 0.2 0.8
+Range 0-13 0-18.6 0-1 1.5 0-60
+July-Sept. 1996:
+Mean 2 SE 6.2 2 1.23* 8.7 2 1.74* 5.4 2 1.07" 28 2 5.6*
+Median 3.9 5.5 3.4 18
+Range 0-36 0-5 1 0-32 0-164
+Total:
+Mean 2 SE 4.6 i 0.92 6.5 2 1.30 4.0 2 0.80 21 i 4.2
+Median 1.6 2.3 1.4 7.4
+Range 0-36 0-5 1 0-32 0-164
+a Hetero = heterotrophic, Photo = phototrophic; a photosynthetic rate of 38.8 pg C cell-' h-' over a 14-h photoperiod was assumed to estimate
+phototrophic C uptake.
+* p < 0.01 comparing average values for 1995 and 1996 (Kruskal-Wallis ANOVA on ranks).
+prey. Interestingly, we did not observe a significant increase in Feeding in C. furca may depend not only on inorganic nu-
+the density of C. furca in 1996 compared to 1995 despite the trient concentrations and N:P ratios but also on prey abundance.
+higher nutrient concentrations. Increased grazing pressure may We observed a strong positive correlation between ingestion
+have prevented C. furca from reaching higher densities. Alter- rate and prey density. In addition, increased feeding at lower
+natively, C. furca may not have been able to capitalize on the salinities coincided with higher ciliate densities at these sta-
+increased inorganic nitrogen available to the plankton com- tions. This relationship may also partially explain the signifi-
+munity. In the Arabian sea (Cochin Backwater, India), C. furca cantly higher ingestion rates in 1996 than in 1995, as ciliate
+densities peaked at low nitrate concentrations and low N:P ra- and Strobilidiurn spp. abundance was higher in 1996 as well.
+tios, while the diatom Biddulphia sinensis predominated at Ingestion and clearance rates reported here for C. furca fall
+higher N:P ratios when nitrate was more plentiful (Qasim, Bhat- within the range determined for other mixotrophic and hetero-
+tathiri, and Devassy 1973). The authors attributed this to the trophic dinoflagellates. The large mixotrophic dinoflagellate
+low half-saturation constants for N and P uptake measured in Akashiwo sanguinea (= Gyrnnodinium sanguineurn) ingested
+their isolate of C. furca. Similarly, the increased importance of ciliates at a rate up to 0.06 prey individual-' h-' and 29.6 pg
+diatoms throughout the summer of 1996 in Chesapeake Bay C individual-' h-', with clearance rates between 0 and 5.8 p1
+may have prevented C. furca from taking advantage of the ad- individual-' h-I (Bockstahler and Coats 1993b). On the other
+ditional inorganic nitrogen. hand, the much smaller mixotrophic dinoflagellate Gyrodinium
+The unusually high N:P ratios in 1996 also raise the possi- galatheanurn exhibited lower feeding rates, with maximal rates
+bility of P limitation of C. furca growth or biomass. This hy- of 0.01 1 prey individual-' h-' or 0.5 pg C individual-' h-' (Li,
+pothesis is particularly intriguing in light of two observations. Stoecker, and Coats 2001), and with a maximal clearance rate
+First, cellular C:P and N:P ratios of C. furca cultures were low- of 0.01 p1 individual-' h-'. Because our feeding estimates are
++
+er than expected from the Redfield ratio (75 2.4 and 10.9 .+. based on uptake of prey labeled with fluorescent microspheres
+0.28 vs. 106 and 16, respectively). Similar ratios have been only, reported ingestion rates could underestimate feeding if a
+determined for certain other dinoflagellates and indicate a high signific& proportion of prey did not take up the label. How-
+relative P content compared to other phytoplankton species (Li, ever, this problem is minimized as C. furca fed primarily on
+Stoecker, and Coats 2000b; Nielsen 1996; Sakshaug et al. small choreotrich ciliates of the genus Strobilidium, which were
+1984). Second, we observed significant negative correlations of readily labeled within 15 min of microsphere addition (Smalley,
+ingestion rate with DIP and DIP:DIN, but a positive correlation Coats, and Adam 1999). If feeding on other choreotrich taxa
+with DIN. Feeding in C. furca may thus be stimulated by low was significant, clearance rates reported here could be overes-
+inorganic nutrient concentrations (especially low DIP) andlor timated by a factor of up to 5 as they were calculated assuming
+N:P ratios that deviate significantly from optimal values. In sup- feeding on Strobilidium spp. only.
+port of these observations, we found that nutrient additions to A synthesis of feeding in heterotrophic and mixotrophic di-
+field samples of C. furca reduced feeding, while ingestion was noflagellates in relation to body size is presented in Fig. 6. As
+stimulated by N or P limitation in laboratory cultures of the reported previously (Hansen, Bjornsen, and Hansen 1997;
+same dinoflagellate (Smalley and Coats 2000; Smalley, Coats, Strom 1991), heterotrophic dinoflagellates showed a significant
+and Stoecker 2001). This pattern would be expected for type decrease in specific ingestion and clearance rates with increas-
+IIA mixotrophs (i.e. primarily photosynthetic organisms that ing body size (Fig. 6). This trend was not observed for mixo-
+phagocytize in response to limiting dissolved inorganic nutri- trophic dinoflagellates, although data on feeding was limited to
+ents (Stoecker 1998)), and has been documented for some pho- a few species. While maximal feeding rates of the larger mix-
+tosynthetic dinoflagellates (Li, Stoecker, and Coats 2000a, b; otrophs fell within the range reported for heterotrophic dinofla-
+Stoecker et al. 1997). Our findings thus suggest possible P lim- gellates, the smaller mixotrophic species tended to have lower
+itation of C. furca throughout the summer of 1996, conceivably specific ingestion and clearance rates compared to heterotrophic
+due to the high riverine N input observed that year. In addition dinoflagellates of similar size. However, this apparent increase
+to stimulating feeding in 1996, this P deficiency could have led in specific ingestion and clearance rates with increasing body
+to the observed increase in feeding at lower salinities, where size was not statistically significant (n = 7, p = 0.080 and n =
+higher N:P ratios would be expected. 5, p = 0.296, respectively). Whether the observed trend is an
+
+SMALLEY & COATS-MIXOTROPHY IN CERATIUM FURCA 7 1
+capable of removing in excess of 100% of ciliate standing stock
+d-' and in excess of 1,800% Strobilidium spp. standing stock
+d-l. These findings indicate that C. furca can at times play a
+major role in regulating ciliate and especially Strobilidium spp.
+populations. Similar values were reported by Bockstahler and
+Coats (1993b) for the mixotrophic dinoflagellate A. sanguinea
+from Chesapeake Bay. In 1988, this dinoflagellate removed up
+to 162% of small (5 20 pm) oligotrichs d-I (median value
+17.4%) and 24.5% of total ciliate standing stock d-I (median
+value 5.1%). As C. firca and A. sanguinea often co-occur in
+Chesapeake Bay, these two species could exert significant com-
+-
+,,,I = 0.66 (OAO*size) bined grazing pressure on ciliate populations, but may also di-
+0 ? = 0.50 rectly compete with each other for the same prey.
+p < 0.001 Potential contribution of prey C, N, and P to C. furca aver-
+aged 4.5% of its body C, 6.5% of its body N, and 4.0% of its
+body P d-I, with maximal daily ingestion of 36%, 51%, and
+32% body C, N, or P, respectively. These values are similar to
+or higher than values reported for other primarily photosyn-
+thetic mixotrophic dinoflagellates. For example, A. sanguinea
+ingested an average of 2.5% of its body C d-I (maximal value
+12%) and 4.0% of its body N d-I (maximal value 19%; Bock-
+stahler and Coats 1993b). Daily ingestion of cryptophyte bio-
+mass by Gyro. galatheanum was lower, averaging only 0.5%
+of its body C, 0.6% of its body N, and 0.9% of its body P, with
+maximal values of 13%, 13%, and 21%, respectively (Li,
+Stoecker, and Coats 2001).
+The potential contribution of prey C, N, and P to C. furca
+nutrition depends on the conversion factors used to convert prey
+vol. to biomass. As C. furca primarily feeds on small ciliates
+of the genus Strobilidium (Smalley, Coats, and Adam 1999),
+we determined C, N, and P densities for a small Strobilidium
+sp. and used these values in our calculations. Carbon to vol.
+ratios for various ciliates have been determined before, either
+Predator size (pm3) experimentally or based on theoretical considerations (Fenchel
+and Finlay 1983; Finlay and Uhlig 1981; Putt and Stoecker
+Fig. 6. Maximum carbon-specific ingestion (A) and volume-specific 1989; Verity and Langdon 1984), and range from 0.06-0.22 pg
+clearance rates (B) of heterotrophic (e) and mixotrophic (0)d inofla- C ~ m -T~he. C density of the Strobilidium sp. determined here
+gellates and Ceratium furca (0a)s a function of predator size. Data on
+falls within this range, although it is only about half of the C
+specific ingestion rates (prey C ingested per predator C) and clearance
+density determined by Putt and Stoecker (1989) for other alor-
+rates (vol. cleared per predator vol.) were collected from the available
+literature. Where feeding rates were reported in terms of prey or p1 per icate oligotrich ciliates. The C:N ratio of Strobilidium sp. (4.1
+predator only, specific rates were calculated using data on prey and wt:wt) is also similar to that reported by Putt and Stoecker
+predator vol. and C contents reported in the same paper if possible, or (1989) for Strobilidium spiralis (3-4) and Verity and Langdon
+in another paper by the same authors. Feeding data were corrected for (1984) for various tintinnids (4.1-4.7). As data on the P content
+temperature differences using a Q,, of 2.8 (Hansen, Bjomsen, and Han- of individual ciliates has largely been lacking, it has usually
+sen 1997). Linear regression was conducted considering heterotrophic
+been estimated assuming a N:P ratio of 16 (Redfield ratio). To
+dinoflagellates only. Values were collected from the following litera-
+our knowledge, the P content reported here for Strobilidium sp.
+ture: Archer et al. 1996; Bjomsen and Kuparinen 1991; Bockstahler and
+represents the first such measurement on a ciliate species. We
+Coats 1993b; Buskey 1997; Buskey, Coulter, and Brown 1994; Gold-
+man, Dennett, and Gordin 1989; Hansen 1992, Hansen and Nielsen measured C:N and C:P ratios below the Redfield ratios of 6.6
+1997; Jacobson and Anderson 1993; Jeong and Latz 1994; Jeong et al. and 106, respectively, indicating that Strobilidium sp. was rel-
+1999; Legrand, GranBli, and Carlsson 1998; Li, Stoecker, and Coats atively C-poor or N- and P-enriched. On the other hand, we
+2001; Skovgaard 1996, 1998; Strom 1991; Strom and Buskey 1993; observed a N:P ratio of 16.3, which lends support to the use of
+Weisse and Kirchhoff 1997. the Redfield ratio to estimate ciliate P content in the absence
+of available data.
+inherent characteristic of mixotrophic nutrition or just an arti- Laboratory cultures of C. furca - isolated from Chesapeake
+fact of limited sample size cannot be discerned at this time, and Bay exhibit a doubling time of 4.5 at 20 OC and 15 psu
+more data on mixotrophic feeding are clearly needed to draw (GWS., unpubl. data). Using this value in conjunction with the
+firm conclusions. ingestion rates determined here, and assuming a gross growth
+Grazing impact of C. furca on prey populations was highly efficiency of 40% (Fenchel 1987), C. furca could meet an av-
+-
+variable in space and time, but tended to be highest in areas erage of 8% of its C, 12% of its N, and 7% of its P requirements
+where high C. furca abundance coincided with low prey den- for reproduction through phagotrophy (maximal values 65% C,
+sities (i.e. in the lower Bay). Although median impact on total 92% N, and 57% P). These values are considerably higher than
+ciliate standing stock was negligible (0.9% removed d-I), C. those reported for A. sanguinea (up to 15% of its N require-
+furca appeared to exert significant grazing pressure on its pre- ment; Bockstahler and Coats 1993) or Gyro. galatheanum (up
+ferred prey, small Strobilidium spp. (median impact 7.9% re- to 10% of its C, 11% of its N, and 17% of its P requirement;
+moved d-'). Under bloom conditions, C. furca theoretically was Li, Stoecker, and Coats 2001). Ceratium furca may thus rely
+
+72 J. EUKARYOT. MICROBIOL., VOL. 49, NO. 1. JANUARY-FEBRUARY 2002
+more heavily on ingested organic nutrients than other primarily Adam and M. Goodison for technical assistance at sea and in
+photosynthetic dinoflagellate species. the laboratory. We are grateful to Diane K. Stoecker for dis-
+Although acquisition of carbon does not seem to be the driv- cussion of and helpful comments on the experiments and the
+ing force behind phagotrophy in primarily photosynthetic di- manuscript. This research was supported by NSF grant
+noflagellates, such as C. furca, A. sanguinea, and Gyro. gala- OCE931772 awarded to DWC and D. K. Stoecker. GWS was
+theanum (Bockstahler and Coats 1993b; Li, Stoecker, and Coats supported by a Smithsonian Environmental Research Center In-
+2000b), it is likely that ingested C will be at least partially ternship and Graduate Fellowship and a Horn Point Graduate
+atilized by the cell. Assuming an average photosynthetic rate Research Assistantship.
+of 39 pg C cell-' h-I (GWS., unpubl. data) over a 14-h pho-
+toperiod, heterotrophic C ingestion by C. furca averaged 21% LITERATURE CITED
+of photosynthetic C uptake, with a maximal value of 164%. Anderson, D. M. 1997. Turning back the harmful red tide. Nature, 388:
+However, these calculations do not consider the proportion of 513-14.
+C that was actually digested and assimilated, thus the actual Anderson, J. M. 1976. An ignition method for the determination of total
+contribution of ingested prey C to C. furca is likely to be lower. phosphorus in lake sediments. Water Res., 10:329-31.
+In addition, the photosynthetic rate above was determined for Archer, S. D., Leakey, R. J. G., Burkill, P. H. & Sleigh, M. A. 1996.
+Microbial dynamics in coastal waters of East Antarctica: herbivory
+photosynthetically grown laboratory cultures, which may not be
+by heterotrophic dinoflagellates. Mar. Ecol. Prog. Ser., 139:239-255.
+representative of mixotrophically growing field populations,
+Bjomsen, P. K. & Kuparinen, J. 1991. Growth and herbivory by het-
+thus introducing an error of unknown direction and magnitude.
+erotrophic dinoflagellates in the Southern Ocean, studied by micro-
+Nevertheless, the data indicate that C. furca is capable of sup- cosm experiments. Mar. Biol., 109:397405.
+plementing photosynthetic C-uptake by ingesting a substantial Bockstahler, K. R. & Coats, D. W. 1993a. Spatial and temporal aspects
+amount of organic C through phagotrophy. of mixotrophy in Chesapeake Bay dinoflagellates. J. Protozool., 40:
+The ability to exploit an organic nutrient source may give C. 49-60.
+furca a competitive advantage over purely photosynthetic spe- Bockstahler, K. R. & Coats, D. W. 1993b. Grazing of the mixotrophic
+cies, especially when inorganic nutrients are limiting. When dinoflagellate Gymnodinium sanguineum on ciliate populations of
+grown phototrophically, C. furca exhibited a doubling time of Chesapeake Bay. Mar. Biol., 116:477487.
+4.5 d. Mixotrophic growth rates of C. furca have never been Buskey, E. J. 1997. Behavioral components of feeding selectivity of the
+ow ever, heterotrophic dinoflagellate Protoperidinium pellucidum. Mar. Ecol.
+determined. we can estimate the theoretical increase
+Prog. Ser., 153:77-89.
+in growth rate due to mixotrophy if we make the following
+Buskey, E. J., Coulter, C. J. & Brown, S. L. 1994. Feeding, growth and
+assumptions: mixotrophically growing C. furca exhibit the bioluminescence of the heterotrophic dinoflagellate Protoperidinium
+same photosynthetic rates and cellular C content as under pho- huberi. Mar. Biol., 121:373-380.
+totrophic growth conditions; C. furca ingest prey at the maxi- Coats, D. W. & Heinbokel, J. F. 1982. A study of reproduction and
+mum rates determined in the field; and the gross growth effi- other life cycle phenomena in planktonic protists using an acridine
+ciency is 40%. Under these conditions, the additional C gained orange fluorescence technique. Mar. Biol., 67:71-79.
+through phagotrophy would increase the C available for repro- Cowles, R. P. 1930. A biological study of the offshore waters of Ches-
+-
+duction by a factor of 1.65, which would reduce doubling apeake Bay. Bull. U. S. Bur. Fish., 46:277-381.
+-
+time by 40%, resulting in one doubling every 2.7 d. To date, Dolan, J. R. & Coats, D. W. 1991. Preliminary prey digestion in a
+predacious estuarine ciliate, Euplotes woodm., and the use of di-
+only a limited number of studies have looked at the link be-
+gestion data to estimate ingestion. Limnol. Oceanogr., 36:558-565.
+tween phagotrophy and enhanced growth in photosynthetic di-
+Fenchel, T. 1987. Ecology of Protozoa. The Biology of Free-living Pha-
+noflagellates. Skovgaard (1996) reported that growth rates of
+gotrophic Protists. Science Tech Publishers, Madison, Wisconsin. p.
+Fragilidium subglobosum were considerably higher when cul- 53-56.
+tures were fed Ceratium tripos compared to growth in unfed Fenchel, T. & Finlay, B. J. 1983. Respiration rates in heterotrophic,
+cultures, especially at low growth irradiance. Similarly, Li, free-living protozoa. Microb. Ecol., 9:99-122.
+Stoecker, and Adolf (1999) found that growth rates of Gyro. inl la^, B. J. & Uhlig, G. 1981. Calorific and carbon values of marine
+galatheanum almost tripled when the dinoflagellate was provid- and freshwater protozoa. Helgolander Meeresunters., 34:401412.
+ed with cryptophyte prey. These dinoflagellates may thus be Fisher, T.R ., Peele, E. R., Ammermann, J. W. & Harding, L. W. 1992.
+Nutrient limitaiton of phytoplankton in Chesapeake Bay. Mar. Ecol.
+capable of rapid growth in nutrient-l'imited environments by
+Prog. Ser., 82:51-63.
+supplementing nutrition through phagotrophy, which could aid
+Fisher, T. R., Gustafson, A. B., Sellner, K., Lacouture, R., Haas, L. W.,
+in bloom formation and persistence. However, to what extent
+Wetzel, R. L., Magnien, R., Everitt, D., Michaels, B. & Karrh, R.
+ingested organic compounds are assimilated by the mixotroph
+1999. Spatial and temporal variation of resource limitation in Ches-
+and how they are allocated between cellular pools is not known apeake Bay. Mar. Biol., 133:763-778.
+and deserves further attention. Gallegos, C. L., Jordan, T. E. & Corell, D. L. 1992. Event-scale re-
+In the present study, we have documented the distribution of 'sponse of phytoplankton to watershed inputs in a subestuary: timing,
+C. furca and its prey in Chesapeake Bay and have shown that magnitude, and location of phytoplankton blooms. Limnol. Ocean-
+C. furca is capable of ingestion rates comparable to those re- ogr., 37:813-828.
+ported for other mixotrophic dinoflagellates. At times, the di- Goldman, J. C., Dennett, M. R. & Gordin, H. 1989. Dynamics of her-
+noflagellate had a significant impact on prey populations, es- bivorous grazing by the heterotrophic dinoflagellate Oxyrrhis marina.
+J. Plankton Res., 11:391407.
+pecially on small ciliates of the genus Strobilidium. In addition,
+Guerra-Martinez, S. L. & Lara-Villa, M. A. 1996. "Florecimiento" de
+the potential contribution of ingested prey C, N, and P to nu-
+Ceratium furca '(Peridiniales: Ceratiaceae) en un ambiente salobre:
+trition and growth of C. furca could be substantial. We identi- Laguna de Sontecomapan, MBxico. Rev. Biol. Trop. 44:23-30.
+fied several factors that could potentially influence feeding in Guillard, R. R. L. & Ryther, J. H. 1962. Studies on marine planktonic '
+this dinoflagellate, including inorganic nutrient concentrations diatoms. I. Cyclotella nana Hustedt and Detonula confervacea (Cle-
+and nutrient ratios. Future research will explore in more detail ve) Gran. Can. J. Microbiol., 8:229-239.
+the role that these variables play in the regulation of feeding. Hallegraeff, G. M. 1993. A review of harmful algal blooms and their
+apparent global increase. Phycologia, 3239-99.
+ACKNOWLEDGMENTS
+Hansen, P. J. 1992. Prey size selection, feeding rates and growth dy-
+We thank the captain and crew of the R.V. "Cape Henlo- namics of heterotrophic dinoflagellates with special emphasis on Gy-
+pen" for ship operations and on-deck assistance, and E. J. rodinium spirale. Mar. Biol., 114:327-334.
+
+SMALLEY & COATS-MIXOTROPHY IN CERATIUM FURCA
+Hansen, P. J. & Nielsen, T. G. 1997. Mixotrophic feeding of Fragili- Paerl, H. W. 1988. Nuisance phytoplankton blooms in coastal, estuarine
+dium subglobosum (Dinophyceae) on three species of Ceratium: ef- and inland waters. Limnol. Oceanogr., 332323-847.
+fects of prey concentration, prey species and light intensity. Mar. Putt, M. & Stoecker, D. K. 1989. An experimentally determined carbon:
+Ecol. Prog. Ser., 147:1 87-196. volume ratio for marine "oligotrichous" ciliates from estuarine and
+Hansen, P. J., Bjomsen, P. K. & Hansen, B. W. 1997. Zooplankton coastal waters. Limnol. Oceanogr., 34:1097-1103.
+grazing and growth: scaling within the 2- to 2000-pm body-size Qasim, S. Z., Bhattathiri, P. M. A. & Devassy, V. P. 1973. Growth
+range. Limnol. Oceanogr., 42:687-704. kinetics and nutrient requirements of two tropical marine phytoplank-
+Harding, L. W. 1994. Long-term trends in the distribution of phyto- ters. Mar. Biol., 21:299-304.
+plankton in Chesapeake Bay: roles of light, nutrients and streamflow. Sakshaug, E., GranCli, E., Elhrachter, M. & Kayser, H. 1984. Chemical
+Mar. Ecol. Prog. Ser., 104:267-291. composition and alkaline phosphatase activity of nutrient-saturated
+Huntley, M. E. 1982. Yellow water in La Jolla, California, July 1980. and P-deficient cells of four marine dinoflagellates. J. Exp. Mar. Biol.
+11. Suppression of zooplankton grazing. J. Exp. Mar. Biol. Ecol., 63: Ecol., 77:241-254.
+81-91. Sanders, R. W., Porter, K. G. & Caron, D. A. 1990. Relationship be-
+Jacobson, D. M. & Anderson, D. M. 1993. Growth and grazing rates tween phototrophy and phagotrophy in the mixotrophic chrysophyte
+of Protoperidinium hirobis AbC, a thecate heterotrophic dinoflagel- Poterioochromonas malhamensis. Microb. Ecol., 19:97-109.
+late. J. Plankton Res., 15:723-736. Skovgaard, A. 1996. Mixotrophy in Fragilidium subglobosum (Dino-
+phyceae): growth and grazing responses as functions of light inten-
+Jeong, H. J. & Latz, M. I. 1994. Growth and grazing rates of the het-
+sity. Mar. Ecol. Prog. Ser., 143:247-253.
+erotrophic dinoflagellates Protoperidinium spp. on red-tide dinofla-
+Skovgaard, A. 1998. Role of chloroplast retention in a marine dinofla-
+gellates. Mar. Ecol. Prog. Ser., 106:173-185.
+gellate. Aquat. Microb. Ecol., 15:293-301.
+Jeong, H. J., Shim, J. H., Kim, J. S., Park, J. Y., Lee, C. W. & Lee, Y.
+Small, E. B. & Lynn, D. H. 1985. Phylum Ciliophora Doflein, 1901. In:
+1999. Feeding by the mixotrophic thecate dinoflagellate Fragilidium
+Lee, J. J., Hutner, S. H. & Bovee, E. C. (ed.), An Illustrated Guide
+cf. mexicanum on red-tide and toxic dinoflagellates. Mar. Ecol. Prog.
+to the Protozoa, Society of Protozoologists, Lawrence, KS, p. 393-
+Ser., 176:263-277.
+575.
+Kopylov, A. I. & Tumantseva, N. I. 1987. Analysis of the contents of
+Smalley, G. W. & Coats, D. W. 2000. The influence of nutrient-limi-
+tintinnid food vacuoles and evaluation of their contribution to the
+tation on feeding in laboratory cultures of the mixotrophic dinofla-
+consumptiofl of phytoplankton production off the Peru coast. Ocean-
+gellate Ceratium furca. Abstract CS19-p15. American Society of
+ology, 27:343-347.
+Limnology and Oceanography, Aquatic Sciences Meeting, Copen-
+Legrand, C., GranCli, E. & Carlsson, P. 1998. Induced phagotrophy in hagen, Denmark, June 5-9.
+the photosynthetic dinoflagellate Heterocapsa triquetra. Aquat. Mi-
+Smalley, G. W., Coats, D. W. & Adam, E. J. 1999. A new method
+crob. Ecol., 15:65-75. using fluorescent microspheres to determine grazing on ciliates by
+Li, A., Stoecker, D. K. & Adolf, J. E. 1999. Feeding, pigmentation, the mixotrophic dinoflagellate Ceratiumfurca. Aquat. Microb. Ecol.,
+photosynthesis and growth of the mixotrophic dinoflagellate Gyro- 17:167-179.
+dinium galatheanurn. Aquat. Microb. Ecol., 19:163-176. Smalley, G. W., Coats, D. W. & Stoecker, D. K. 2001. Phosphorus
+Li, A,, Stoecker, D. K. & Coats, D. W. 2000a. Spatial and temporal limitation induces feeding in laboratory cultures of the. mixotrophic
+aspects of Gyrodinium galatheanum in Chesapeake Bay: distribution dinoflagellate Ceratium furca. Abstract. American Society of Lim-
+and mixotrophy. J. Plankton Res., 22:2105-2124. nology and Oceanography, Aquatic Sciences Meeting, Albuquerque,
+Li, A., Stoecker, D. K. & Coats, D. W. 2000b. Mixotrophy in Gyro- NM, February 21-16.
+dinium galatheanurn (Dinophyceae): responses to light intensity and Smayda, T. J. 1997. Harmful algal blooms: their ecophysiology and
+inorganic nutrients. J. Phycol., 36:33-45. general relevance to phytoplankton blooms in the sea. Limnol.
+Li, A., Stoecker, D. K. & Coats, D. W. 2001. Use of the 'food vacuole Oceanogr., 4211 37-1 153.
+content' method to estimate grazing by the mixotrophic dinoflagellate Smith, E. M. 2000. Factors regulating respiration and its coupling to
+Gyrodinium galatheanum on cryptophytes. J. Plankton Res., 3:303- primary production in a coastal planktonic community. Ph.D. Dis-
+318. sertation, University of Maryland, College Park, MD. 285 p. Avail-
+Li, A,, Stoecker, D. K., Coats, D. W. & Adam, J. E. 1996. Ingestion able on microfiche from University Microfilm. Inc., Accession Num-
+of fluorescently-labeled and phycoerythrin-containing prey by mix- ber AAT 9985333.
+otroph'ic dinoflagellates. Aquat. Microb. Ecol., 10:139-147. Steidinger, K. A. 1973. Phytoplankton ecology: a conceptual review
+Loftus, M. E., Subba Rao, D. V. & Selinger, H. H. 1972. Growth and based on eastern Gulf of Mexico research. Crit. Rev. Microbial., 3:
+dissipation of phytoplankton in Chesapeake Bay. I. Response to a 49-68.
+large pulse of rainfall. Ches. Sci., 13:282-299. Steidinger, K. A. & Vargo, G. A. 1988. Marine dinoflagellate blooms:
+Malone, T. C., Crocker, L. H., Pike, S. E. & Wendler, B. W. 1988. dynamics and impacts. In: Lembi, C. A. & Wunland, J. R. (ed.),
+Influences of river flow on the dynamics of phytoplankton production Algae and Human Affairs. Cambridge, p. 373-401.
+in a partially stratified estuary. Mar. Ecol. Prog. Ser., 48:235-249. Stoecker, D. K. 1998. Conceptual models of mixotrophy in planktonic
+Malone, T. C., Conley, D. J., Fisher, T. R., Glibert, P. M., Harding, L. protists and some ecological and evolutionary implications. Europ.
+W. & Sellner, K. G. 1996. Scales of nutrient-limited phytoplankton J. Protistol., 34:281-290.
+productivity in Chesapeake Bay. Estuaries, 19:371-385. Stoecker, D. K., Li, A,, Coats, D. W., Gustafson, D. E. & Nannen, M.
+Marshall, H. G. 1980. Seasonal phytoplankton composition in the lower K. 1997. Mixotrophy in the dinoflagellate Prorocentrum minimum.
+Chesapeake Bay and Old Plantation Creek, Cape Charles, Virginia. Mar. Ecol. Prog. Ser., 152:l-12.
+Strom, S. L. 1991. Growth and grazing rates of the herbivorous dino-
+Estuaries, 3:207-2 16.
+flagellate Gymnodinium sp. from the open subarctic Pacific Ocean.
+Montagnes, D. J. & Lynn, D. H. 1987. A quantitative Protargol stain
+Mar. Ecol. Prog. Ser., 78:103-113.
+(QPS) for ciliates: method description and test of its quantitative na-
+Strom, S. L. & Buskey, E. J. 1993. Feeding, growth and behavior of
+ture. Mar. Microb. Food Webs, 2:83-93.
+the thecate heterotrophic dinoflagellate Oblea rotunda. Limnol.
+Mulford, R. A. 1963. Distribution of the dinoflagellate genus Ceratium
+Oceanogr., 38:965-977.
+in the tidal and offshore waters of Virginia. Chesapeake Sci., 484-
+Verity, P. G. & Langdon, C. 1984. Relationships between lorica vol-
+89.
+ume, carbon, nitrogen, and ATP content of tintinnids in Narragansett
+Nielsen, M. V. 1996. Growth and chemical composition of the toxic
+Bay. J. Plankton Res., 6:859-868.
+dinoflagellate Gymnodinium galatheanurn in relation to irradiance, Weisse, T. & Kirchhoff, B. 1997. Feeding of the heterotrophic fresh-
+temperature and salinity. Mar. Ecol. Prog. Ser., 136:205-211. water dinoflagellate Peridinopsis berolinense on cryptophytes: anal-
+Nordli, E. 1953. Salinity and temperature as controlling factors for dis- ysis by flow cytometry and electronic particle counting. Aquat. Mi-
+tfibution and mass occurrence of Ceratia. Blyttia, 11:16-18. crob. Ecol., 12:153-164.
+Nygaard, K. & Tobiesen, A. 1993. Bacterivory in algae: a survival
+strategy during nutrient limitation. Limnol. Oceanogr., 38:273-279. Received O7/I 1/01, I I/I6/Ol; accepted ll/l6/Ol
+

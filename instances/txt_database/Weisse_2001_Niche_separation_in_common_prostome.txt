@@ -1,0 +1,727 @@
+AQUATIC MICROBIAL ECOLOGY
+Vol. 26: 167–179, 2001 Published December 5
+Aquat Microb Ecol
+Niche separation in common prostome freshwater
+ciliates: the effect of food and temperature
+Thomas Weisse1,*, Nicole Karstens2, Volker C. L. Meyer2,**, Lore Janke2,
+Sabine Lettner1, Kathrin Teichgräber2
+1Institute for Limnology of the Austrian Academy of Sciences, Mondseestrasse 9, 5310 Mondsee, Austria
+2Max Planck Institute for Limnology, PO Box 165, 24306 Plön, Germany
+ABSTRACT: We characterized the ecological niches of several planktonic prostome ciliates with
+respect to their food demand and temperature. We found intergeneric differences between Balanion
+planctonicumand the 2 Urotrichaspp., U. furcataand U. farcta. There were also significant interspe-
+cific differences within the genus Urotricha and intraspecific differences between 2 Balanion spp.
+and 3 U. furcataisolates from distant lakes. Relative to Urotricha spp., Balanionappeared to be the
+superior competitor at low to medium food concentrations and reached high growth rates at moder-
+ate temperatures. The threshold prey concentration for positive population growth of B. plancton-
+icumwas lower than that obtained for the 2 Urotricha spp., but higher than that reported earlier for
+the marine species, B. comatum. A third Urotricha species, U. castalia, was investigated for its tem-
+perature response only. The temperature response revealed species-specific temperature adaptation
+between B. planctonicum and the sympatric U. furcata, and further differences within the genus
+Urotricha: U. farcta grew fastest at high temperatures; U. castaliawas adapted to low temperatures;
+and U. furcatapeaked at moderately warm temperatures.
+KEY WORDS: Ciliates · Balanionspp. · Urotrichaspp. · Growth · Ingestion rate · Clonal differences
+Resale or republication not permitted without written consent of the publisher
+INTRODUCTION cies U. furcata 40 cells ml–1 (Müller et al. 1991);
+together, these 2 species account for 75% of total cili-
+Small prostome ciliates (<30 µm) in the genera ate cell numbers during spring (Müller 1989) and con-
+Urotrichaand Balanionplay a major role in the micro- tribute 40% of total ciliate abundance to the annual
+bial food web of many freshwater lakes and reservoirs average (Müller et al. 1991, Weisse & Müller 1998).
+(Müller 1989, Sommaruga & Psenner 1993, Salbrechter The numerical dominance of small Prostomatida was
+& Arndt 1994, Schönberger 1994, 2imek et al. 1995, interpreted as a unique feature of Lake Constance
+Macek et al. 1996). The ecological importance of these (Müller 1989). Since then, however, B. planctonicum,
+planktonic ciliates was first discovered in prealpine, U. furcataand other small Urotricha species have been
+mesoeutrophic Lake Constance (Bodensee), Germany recorded in high numbers in many lakes, reservoirs
+(Müller 1989, Foissner et al. 1990, Müller et al. 1991). and ponds from Europe and North America (summa-
+In this lake, the peak abundance of B. planctonicum rized by Foissner et al. 1999). Except for the oligotrichs,
+may exceed 60 cells ml–1and that of the sympatric spe- urotrichs are the most typical and common freshwater
+plankton ciliates (Foissner et al. 1999).
+Although both genera occur in the pelagic zone
+**E-mail: thomas.weisse@oeaw.ac.at throughout the year, these prostomes usually peak in
+**Present address: Leibnitz-Institute of Freshwater Ecology
+relation to phytoplankton maxima when they reach
+and Inland Fisheries, Department of Shallow Lakes and
+Lowland Rivers, Müggelseedamm 301, 12587 Berlin, cell numbers of several tens ml–1(Müller 1989, Müller
+Germany et al. 1991, Sommaruga & Psenner 1993, Schönberger
+© Inter-Research 2001 · www.int-res.com
+
+168 Aquat Microb Ecol 26: 167–179, 2001
+1994). If food is abundant, cell numbers of small Pros- tonicumwith sympatric rotifers of the genus Keratella
+tomatida can be even higher; for instance, 288 cells have been presented elsewhere (Weisse & Frahm
+ml–1 of Urutricha furcata and U. farcta have been 2001a,b).
+recorded from a hypertrophic Danish lake (Jürgens et In this study we focused on the intergeneric compar-
+al. 1999). ison between Balanion planctonicum and Urotricha
+Both Balanionsp. and Urotrichasp. prey intensely on furcata, which coexist in many freshwater environ-
+small cryptophytes (Müller 1991, Müller et al. 1991, ments. To account for interspecific differences among
+Weisse & Müller 1998) and thus compete both with members of the same genus, we also included U. farcta
+each other and with rotifers and crustacea for the same and U. castalia, 2 other common freshwater ciliate spe-
+algal food (Weisse & Frahm 2001a). These ciliates may cies (Foissner et al. 1999). We also compared different
+be the most important herbivores during spring isolates ofB. planctonicum and of U. furcatato test for
+(Weisse et al. 1990, Müller et al. 1991), contribute sub- intraspecific, most likely clonal, differences (Weisse &
+stantially to the total secondary production (Straile Montagnes 1998).
+1998 and references therein), and are significant food
+for rotifers and planktonic crustacea (Rothhaupt &
+Güde 1996, Jürgens et al. 1999, Weisse & Frahm MATERIAL AND METHODS
+2001b). Insight into the niche partitioning of the small
+prostome ciliate species would, therefore, lead to an Study organisms. Balanion planctonicum (Foissner,
+improved understanding of the functioning of the Oleksiv & Müller 1990) Foissner, Berger & Kohmann
+planktonic food web. 1994 is the only member in this genus that is com-
+The effect of temperature (Müller & Geller 1993, mon in freshwater lakes (Foissner et al. 1999). The
+Weisse & Montagnes 1998, Montagnes & Weisse 2000) species was originally described by Foissner et al.
+and the feeding ecology of Balanion planctonicum (1990) as Pseudobalanion planctonicum and placed
+(Müller & Schlegel 1999) and the similar-sized marine into a new genus but, due to the presence of an
+species B. comatum (Jakobsen & Hansen 1997) have ultrastructural detail, the dorsal brosse (Bardele
+already been investigated. In this study we extend 1999), has since then been synonymized with Balan-
+these previous investigations on the ecology of B. ion Wulff, 1919 (Foissner et al. 1999). Live cell size is
+planctonicum and 3 Urotricha spp., characterizing ~20 × 15 µm (Foissner et al. 1990); the average live
+their respective ecological niches. Our hypothesis was cell volume is ~1800 µm3 (Müller & Geller 1993).
+that the niches of the sympatric ciliate species differ However, the volume of Balanion and of the other
+with respect to key environmental parameters. We species investigated varies widely with the nutri-
+considered food supply, temperature, and the interac- tional status (Müller 1991, Jakobsen & Hansen 1997)
+tions with competitors and predators as major parame- and the isolate investigated (Table 1). B. planc-
+ters affecting the niche widths of planktonic ciliates. tonicum was first isolated from surface waters of
+The mutual interactions of Urotricha spp. and B. planc- Lake Constance (Bodensee), Germany in April 1989
+Table 1. Maximum growth rates (µ ) and doubling times (G) at 15 ±1°C, corresponding ingestion rates (I), cell volumes of live
+max
+and Lugol’s fixed cells and gross growth efficiencies (GGE) of the ciliate species and strains studied. L.C.: Lake Constance;
+L.M.: Lake Mondsee; L.Sch.: Lake Schöhsee; nd: not determined
+Species Origin/year µ G I (Crypt Biovolume (µm3) GGE (%) Source
+max
+of isolation (d–1) (h) ciliate–1h–1) Live Fixed Live Fixed
+Balanion planctonicum L.C./1989 1.01 16.5 0.2 to 4.4 ~1800 1240 5 to 24 Müller (1991),
+Müller & Geller (1993)
+Balanion planctonicum L.C./1993 1.87 08.9 6.6 nd nd 9.7a 7.2b Müller & Schlegel (1999)
+Balanion planctonicum L.C./1993 1.03 16.1 2.0 nd 1700 17.7a 13.0 This study
+Balanion planctonicum L.M./1999 1.42 11.7 2.2 nd 2330 31.1a 22.9 This study
+Balanion comatum Øresund/1995 1.39 12.0 1.9 nd ~2500 32 Jakobsen & Hansen (1997)
+Urotricha furcata L.C./1988 0.75 22.2 nd ~3900 2750 nd nd Müller & Geller (1993)
+Urotricha furcata L.C./1988 0.86 19.5 3.8 nd 3150 15.1a 10.6 This study
+Urotricha farcta L.Sch./1996 1.68 09.9 2.1 nd ~3350 39.9 This study
+Urotricha castalia L.C./1988 0.65 25.7 nd nd ~9750 nd This study
+aAssuming shrinkage factor of 1.36 (B. planctonicum) or 1.42 (U. furcata) determined by Müller & Geller (1993)
+bAssuming cell volume measured in this study
+
+Weisse et al.: Niche separation in ciliates 169
+(Müller 1991). Results presented in this study were Experimental design.All stock cultures and experi-
+obtained either with a Balanion strain that was iso- ments were conducted in modified Woods Hole
+lated by H. Müller (Limnological Institute Constance) medium (MWC, Guillard & Lorenzen 1972) without
+from the same lake in 1993 or with a Balanion strain dilution (Urotricha spp. and most experiments with
+isolated by H. Müller from Lake Mondsee, Austria in Balanion planctonicum from Lake Constance) or with
+autumn 1999. an approximately 1:1 dilution by sterile filtered
+Urotricha furcata Schewiakoff 1893 has an average (<0.2 µm) lake water (B. planctonicum from Lake
+live volume of ~3900 µm3 (Müller & Geller 1993), Mondsee and some batch culture experiments with B.
+slightly larger than Balanion planctonicum, although planctonicum from Lake Constance). Experiments
+the species largely overlap in size (Foissner et al. 1990). were run in 250 ml culture flasks or in sterilized 6 well
+In this study we used isolates of this species obtained (10 ml volume) tissue plates in dim light (10 to 30 µmol
+from surface waters of Lake Constance, southern Ger- photons m–2 s–1) under a 12:12 h light:dark cycle. The
+many, Lake Schöhsee, northern Germany, and Lake experimental volume in each well was 8 ml. The
+Mondsee, Austria. These lakes are of comparable experimental temperature was 15 ± 1°C, if not stated
+mesotrophic status and temperature patterns (summa- otherwise. For the temperature response experiments,
+rized in Montagnes & Weisse 2000) but are 300 to ciliates were gradually acclimated to the experimental
+900km apart. temperatures over a period of 2 to 5 d. In ciliate grazing
+Urotricha farcta Claparède & Lachmann 1859 is experiments, containers with the same algal concen-
+usually slightly larger than U. furcata(Weisse & Mon- trations but without ciliates served as controls. The cil-
+tagnes 1998, Foissner et al. 1999, Montagnes & Weisse iates were taken from their respective stock cultures in
+2000). U. farcta was isolated by one of us (T.W.) from exponential growth phase and adapted to the experi-
+the littoral zone of Lake Schöhsee in spring 1996. mental food and temperature conditions for at least
+Urotricha castalia Muñoz, Télez & Fernandez- 48h before the beginning of the experiments.
+Galiano 1987 has a live cell size of 30 to 40 µm ×20 to The growth and grazing experiments lasted 2 to 7 d.
+30 µm (Foissner & Pfister 1997, Foissner et al. 1999) Subsamples (2 to 5 ml) for ciliates were taken daily and
+and an average biovolume of 9750 µm3of Lugol’s fixed fixed with Lugol’s iodine. Algal abundance in each
+cells at 15°C (this study), making it the largest of the 4 container was repeatedly measured by means of an
+prostome ciliate species investigated. The species was electronic particle counter (CASY® 1-Model TTC,
+first described by Muñoz et al. (1987) from an artificial Schärfe System, Weisse & Kirchhoff 1997) during both
+Spanish pond and redescribed by Foissner & Pfister the acclimation and the experimental period. Two
+(1997) with material provided by H. Müller from Lake methods were used to establish numerical and func-
+Constance. This isolate was also used in the present tional responses for the ciliates. In most experiments
+study. (Balanion planctonicum from Lake Constance in undi-
+Note that all ciliate strains used in this study have luted MWC medium, Urotricha furcataand U. farcta),
+been kept as non-clonal, non-axenic batch cultures, algae were adjusted daily to the experimental concen-
+i.e., each culture was composed of a single species but, tration by adding algae from stock cultures or diluting
+probably, not of a single clone. It is, however, possible with MWC medium. This semi-continuous culture
+that single clones best adapted to the laboratory technique (Montagnes 1996) provided a relatively con-
+conditions had outcompeted all other clones that were stant food supply during the experiments. Addition-
+originally present in the course of the rearing of the ally, growth and grazing rates were calculated from
+cultures. changes in cell numbers of the ciliates and their prey
+Food organism.All ciliate isolates were maintained from simple batch cultures (e. g., Müller 1991, Müller &
+on the small cryptophyte Cryptomonas sp. (SAG strain Geller 1993). This method was applied in the experi-
+#26.80, provided by the Culture Collection of Algae in ments with B. planctonicum with a 1:1 dilution by ster-
+Göttingen, Germany) as food. The average cell volume ile filtered lake water and in the experiments with U.
+of Cryptomonas sp. is ~280 µm3 (Weisse & Kirchhoff castalia.Initial algal concentrations in the growth and
+1997) but may also vary under standard laboratory grazing experiments ranged from 1 to 2 ×105cells ml–1.
+conditions (Lettner 2001, this study). We converted cell Cell numbers of Lugol’s fixed ciliates in growth and
+volume (V, in µm3) to carbon (C, in pg cell–1) using the grazing experiments were measured microscopically
+equation C = 0.109 V0.991(Montagnes et al. 1994). We using a Sedgewick Rafter cell or settling chambers of 1
+thus assumed an average cellular carbon content of or 2 ml volume. Algal concentrations were also mea-
+29pg C for Cryptomonas sp. sured in these samples to check for the precision of the
+Ciliate stock cultures were maintained on a 12 h electronic cell count measurements.
+light:12 h dark cycle at an irradiance of 30 to 40 µmol All experiments were conducted in triplicate. Results
+photons m–2s–1and at a temperature of 15 ±2°C. reported are mean ±1 SD.
+
+170 Aquat Microb Ecol 26: 167–179, 2001
+Calculation of experimental results. Ciliate growth µ×Vol
+GGE= cil
+rate (µ) is defined as the change in population size (I ×Vol ) (6)
+cry
+assuming exponential growth according to the equa-
+tion: where Vol and Vol are the average cell volumes of
+cil cry
+ciliates and algae, respectively, and I is the ingestion
+(lnN –lnN )
+µ= t 0 (1) rate (algal cells cil–1h–1). The generation time Gof the
+(t 1–t 0)
+ciliates is:
+where N and N are final and initial population sizes,
+t 0 G = ln2/µ (7)
+and t and t are initial and final time in days.
+0 1
+Ciliate ingestion rate (I, in Cryptomonasciliate–1h–1) Statistical analyses.We used Student’s t-test, 1-way
+was calculated according to (Frost 1972) and (Hein- ANOVA, 2-way ANOVA, Tukey’s test and analysis of
+bokel 1978): covariance procedures to test for significant differ-
+ences in the growth rates between the species and iso-
+(C ×g)
+I = m (2) lates. All statistical analyses were performed using
+R
+m SigmaStat (Version 2.03, SPSS Inc.).
+where gis the grazing rate (h–1), R is the ciliate abun-
+m
+dance and C is the mean Cryptomonas sp. abun-
+m
+dance (ml–1) in the experimental containers. The latter RESULTS
+was calculated as follows:
+Response to food supply
+C ×( e(k–g)×∆t –1)
+C = 0 (3)
+m ∆t×(k–g)
+The prostome species we investigated can be easily
+where C is the initial Cryptomonasabundance and k maintained in batch cultures with small cryptophytes
+0
+denotes Cryptomonas population growth rate in the as food. We observed repeatedly characteristic differ-
+controls without ciliates. The grazing rate (g) was cal- ences between Balanion planctonicum and Urotricha
+culated as follows: furcata in response to the changing food supply
+(Fig. 1). B. planctonicum exploited its food sources
+ln(Cc t/Cc 0)–ln(C t/C 0)
+g = (4) until virtually no algae were left and, thereafter, died
+∆t
+off (Fig. 1a). U. furcata, in contrast, stopped growing
+where Cc and Cc are the initial and final Cryp- once the cryptophytes had declined to a lower critical
+0 t
+tomonasnumbers in the controls and C and C are the concentration in the range of 1.3 to 1.5 × 104 Cryp-
+0 t
+inital and final Cryptomonasconcentrations in the con- tomonas ml–1. Cell numbers of U. furcata then
+tainers with ciliates. decreased, while the algal concentration remained sta-
+Numerical and functional response data were fitted ble (Fig. 1b). Different from B. planctonicum, U. fur-
+to a modified Michaelis-Menten model (Holling’s cata did not become extinct in illuminated batch cul-
+Type II functional response; Holling 1959). The tures with suitable algal food. At 15°C, a relatively
+Michaelis-Menten equation was modified by includ- stable state between algal and ciliate cell numbers was
+ing a positive x-axis intercept, using the Marquardt- reached several weeks after inoculating the cultures
+Levenberg algorithm of the graphing software (data not shown). In fact, we have maintained U. fur-
+SigmaPlot (Version 6.10, SPSS Inc., Chicago, IL). For cata cultures with Cryptomonas sp. without exchang-
+the numerical response data, the equation is as fol- ing the medium for several months.
+lows: Similar predator-prey cycles also emerged in batch
+cultures with the second Urotricha species, U. farcta
+µ ([C]–x’)
+µ= max (5) (Fig. 2). We observed some minor differences in these
+k t+([C]–x’)
+cycles of U. farcta and Cryptomonas sp. grown at
+where µis growth rate, µ is the maximum growth 15 and 20°C. The periods were slightly shorter at
+max
+rate, [C]is Cryptomonassp. abundance, x’ is the x-axis the higher temperature, and the predator-prey cycles
+intercept or threshold Cryptomonas concentration became blurred in the 20°C treatment toward the end
+where µ= 0 and k is a constant . The units are the of the experiment because the parallel batch cultures
+t
+same as in Eqs (1) & (2). For the functional response started to run out of phase (Fig. 2b). Accordingly, the
+data, µand µ were replaced by the respective terms SD of the means increased toward the end of this
+max
+IandI . experiment. The minimum algal concentration was
+max
+Gross growth efficiency (GGE) or ‘yield’ of the cili- ~2×103Cryptomonasml–1at both temperatures.
+ates was calculated according to Eq. (6) (Fenchel 1982, The different feeding strategies of Balanion planc-
+Jakobsen & Hansen 1997): tonicum and both Urotricha spp. were apparent in
+
+Weisse et al.: Niche separation in ciliates 171
+tality occurred and population size decreased was
+much higher in Urotricha furcata (Fig. 3b). The latter
+needed a minimum cryptophyte concentration of
+13200 ±700 cells ml–1(equivalent to ~380 ng C ml–1) to
+increase their population size. The constant k was
+t
+~18400 Cryptomonas cells ml–1. The model yielded a
+maximal growth rate of 0.86 ±0.07 d–1for U. furcataat
+the experimental temperature of 15°C. The other
+Urotrichaspecies, U. farcta, had a threshold concentra-
+tion of 5630 ± 870 Cryptomonas cells ml–1 (~160 ng C
+ml–1), a constant k of ~25 900 cells ml–1 and a maxi-
+t
+mum growth rate of 1.68 ±0.21 d–1(Fig. 4a).
+The functional response was also different for the 3
+ciliate species. Ingestion rates of Urotricha farcta
+increased with algal concentrations up to ~1.2 ×
+105cells ml–1 (Fig. 4b). The modified Michaelis-Menten
+model yielded a maximum ingestion rate of 4.0 ±
+0.8Cryptomonas ciliate–1h–1 and a very high constant
+k of ~1.4 × 105 prey cells ml–1. These predicted para-
+t
+meters may be overestimates, if an asymptote is not
+adequately predicted by the model. The threshold
+value was insignificant (p = 0.17). Concerning the
+paucity of the data at high food concentrations, a firm
+conclusion about the shape of the functional response
+curve in U. farctacannot be made.
+Fig. 1. Batch culture experiments with (a) Balanion plancton-
+icumand (b) Urotricha furcata(D) at 15°C. Cryptomonassp.
+strain 26.80 (Z) served as food in both experiments. (N) Algal
+concentrations in controls without ciliates. Symbols indicate
+mean values; error bars = 1 SD
+their numerical and functional responses. The growth
+rate of all 3 species in relation to food concentration
+(numerical response) followed the modified Michaelis-
+Menten model (Eq. 5). Low algal concentrations sup-
+ported positive growth rates of B. planctonicum
+(Fig. 3a). There was no difference between growth
+rates estimated from the semi-continuous cultures
+without addition of sterile filtered lake water and batch
+cultures with the addition of sterile filtered lake water.
+Growth rates measured for the B. planctonicumisolate
+from Lake Mondsee at high algal concentrations (>1 ×
+105Cryptomonas ml–1) fitted in the curve calculated for
+the B. planctonicum isolate from Lake Constance. The
+model yielded a threshold concentration of 1430 ±
+290 Cryptomonas cells ml–1 (equivalent to ~40 ng C
+ml–1), a constant k of 4700 ± 1060 Cryptomonas ml–1
+t
+and a maximum ciliate growth rate of 1.03 ± 0.05 d–1.
+All model parameters were significant (p < 0.0001).
+Fig. 2. Batch culture experiments with Urotricha farcta(F and
+Compared with Balanion planctonicum, the critical ) and Cryptomonassp. ( ) as food at (a) 15°C and (b) 20°C.
+threshold food concentration below which ciliate mor- Symbols indicate mean values; error bars = 1 SD
+
+172 Aquat Microb Ecol 26: 167–179, 2001
+Fig. 3. Growth rates of (a) Balanion planctonicumand (b) Uro- Fig. 4. (a) Growth rates (numerical response) and (b) ingestion
+tricha furcataversus food concentration (numerical response) rates (functional response) of Urotricha farcta versus food
+at 15°C. Experiments with the B. planctonicum strain from concentration at 15°C. Solid lines represent the curve fitted
+Lake Constance were conducted as semi-continuous cultures according to Eq. (5)
+in pure MWC medium (D) or as batch cultures in WC medium
+diluted with sterile filtered lake water (s). ((cid:2) ) Batch culture
+experiments with B. planctonicum from Lake Mondsee per-
+formed in diluted WC medium. Solid lines represent the mod-
+ified Michaelis-Menten fit to the data (Eq. 5). Dashed lines in
+(b) indicate the threshold food concentration where growth
+rate (µ) = 0
+The ingestion rate of Balanion planctonicum in-
+creased over a wide range of food concentrations, and
+there was no significant threshold prey concentration
+below which B. planctonicum stopped feeding
+(Fig. 5a). The scattering of the data was, however,
+much larger than in the experiments with the 2
+Urotricha sp., and Eq. (5) did not provide significant
+parameter estimates. Food uptake of U. furcata was
+relatively constant (3 to 4 Cryptomonas ciliate–1h–1 ) at
+food concentrations ranging from 5 to 9 ×104prey cells
+ml–1 (Fig. 5b); the modified Michaelis-Menten model
+indicated a feeding threshold of 13 350 ± 740 Cryp-
+Fig. 5. Ingestion rates of (a) Balanion planctonicum and
+(b) Urotricha furcata versus food (Cryptomonas sp. [Crypt.])
+concentration (functional response) at 15°C. Symbols and line
+in the upper panel correspond to those used in Fig. 3a. Solid
+lines represent the curve fitted according to Eq. (5)
+
+Weisse et al.: Niche separation in ciliates 173
+tomonas ml–1(~390 ng C ml–1), a constant k of 28200 ± faster at high (>18.5°C) temperatures. From 9 to 18°C,
+t
+8740 prey cells ml–1 and a maximum ingestion rate of growth rates of both isolates increased linearly with
+5.3 ± 0.7 Cryptomonas ciliate–1 h–1 for U. furcata. All temperature. The slopes of the respective regression
+model parameters were significant (p < 0.0001). The lines were not significantly different (modified t-test
+feeding threshold is not significantly different from the according to Glantz 1997; p = 0.063). The Lake Con-
+threshold obtained for its numerical response (Fig. 3b). stance isolate grew best at 18.5°C, while 21.5°C was
+Results obtained in the numerical and functional re- lethal (Müller & Geller 1993). Growth of the Balanion
+sponse experiments are summarized in Table 1, which sp. from Lake Mondsee peaked at 18°C and then
+also includes results from similar studies reported in the decreased at 19.5 and 21°C. In the experimental con-
+literature. Note that the ingestion rates reported in tainers exposed to 22°C, Balanionsp. survived or even
+Table 1 do not denote maximum ingestion rates pre- grew during the first day of the experiments only, and
+dicted by Eq. (5) but correspond to the food concentra- thereafter rapidly died off.
+tions at which growth rates at 15°C were maximal. Sim- We conducted similar growth experiments with 3 dif-
+ilarly, GGEs were calculated for the 2 Balanion isolates ferent small Urotricha spp. and 3 different isolates of
+and the 2 Urotricha spp. at the food concentrations at the same species, U. furcata, obtained from geograph-
+which maximum growth rates of the respective isolates ically distant lakes. Overall, the 3 species differed sig-
+were measured. Growth efficiencies estimated for fixed nificantly in their temperature response (Fig. 7). U.
+cells ranged from 11 to 40% in the 3 species investi- farcta can be characterized as a fast growing, warm
+gated in this study (Table 1). The GGE reported by water species, reaching growth rates >1.5 d–1 at tem-
+Jakobsen & Hansen (1997) for the marine Balanion sp. peratures ranging from 20 to 30°C (Fig. 7a). Fig. 7a
+B. comatumis higher (32%) than our and the previous summarizes data from 3 studies (Weisse & Montagnes
+estimates (Müller 1991, Müller & Schlegel 1999) for the 1998, Montagnes & Weisse 2000, Weisse et al.
+freshwater Balanion sp. The yield of U. farcta was 4- unpubl.), which investigated in detail specific aspects
+fold higher than that of its congener, U. furcata. The of the temperature response of U. farcta. The most
+GGE values calculated for live cells are higher by
+approximately one-third due to shrinkage of the ciliates
+upon Lugol’s fixation (Müller & Geller 1993).
+Response to temperature
+The temperature response of Balanion planctonicum
+isolated from Lake Mondsee was similar to that of the
+isolate obtained from Lake Constance (Müller & Geller
+Fig. 7. Temperature re-
+1993) but differed in some details (Fig. 6). The isolate
+sponse of 3 Urotricha
+from Lake Mondsee grew slower at low (<8°C) and species and 2 isolates of
+the same species from
+different lakes. In (a),
+shaded diamonds denote
+results from Weisse &
+Montagnes (1998); open
+diamonds denote results
+from Weisse et al.
+(unpubl.); the filled cir-
+cle indicates an experi-
+ment conducted by Mon-
+tagnes & Weisse (2000).
+Symbols indicate mean
+values; error bars = 1 SD;
+solid lines represent
+least-squares linear re-
+gression; broken lines
+denote 95% confidence
+intervals. Note that the
+Fig. 6. Temperature response of 3 isolates of Balanion planc- scale of the y-axis in
+tonicum. Symbols indicate mean values; error bars = 1 SD; (a) differs from that in
+solid lines represent least-squares linear regression; dashed (b) to (d). L.C.: Lake
+lines combine data points not included in the regressions. †: Constance; L.M.: Lake
+temperatures where ciliate cultures died off Mondsee
+
+174 Aquat Microb Ecol 26: 167–179, 2001
+recent study (Weisse et al. unpubl.) confirmed the ear- declined at 27.5°C and were negative at 30°C. The
+lier results at temperatures ranging from 9 to 18°C; Mondsee isolate did not survive at 27.5°C.
+considerably higher growth rates were, however, mea- The results of the temperature response experiments
+sured at 21 and 24°C. This study differed from the are summarized in Table 2, together with the threshold
+other experiments reported in this paper since prey and food concentrations at k obtained in the numerical
+t
+was kept at higher concentrations (>1 ×105cells ml–1) response experiments. Table 2 also presents results
+throughout the experiment. We can, therefore, not rule from similar studies with the same or closely related
+out that the previous studies (Weisse & Montagnes species reported in the literature.
+1998, Montagnes & Weisse 2000) had underestimated
+the maximum growth rates of U. farctaat the high tem-
+peratures. DISCUSSION
+Urutricha castalia grew slowly and seemed to be
+adapted to low temperatures (Fig. 7b). Its maximum This is the first study that characterized the ecologi-
+growth rate, 0.65 d–1 at 12.5°C, corresponded to cal niches of sympatric prostome ciliates with respect
+<1 doubling d–1. The third species, U. furcata, was to temperature and food. We found niche separation at
+intermediate in its growth response. Growth rates 3 different levels: (1) the temperature and food
+peaked at 20 to 25°C (Fig. 7c); growth declined at responses of Balanionplanctonicumare clearly differ-
+27.5°C and was negative at 30°C. Fig 7c,d presents ent from those of both Urotricha spp. investigated in
+results obtained with non-clonal U. furcata isolates detail (U. furcataand U. farcta); (2) the relation to tem-
+from Lake Constance (L.C. in Fig. 7c), south Germany, perature was species specific among the 3 Urotricha
+and Lake Mondsee (L.M. in Fig. 7d), Austria. We also species, U. furcata, U. farctaand U. castalia; and (3) we
+investigated the temperature response of another U. found significant intraspecific differences in the
+furcata isolate obtained from Lakes Schöhsee, north growth rates between 2 B. planctonicum and 3 U. fur-
+Germany. Since part of this work has already been cataisolates from geographically distant lakes. We will
+published (Weisse & Montagnes 1998), we summarize first discuss potential methodological shortcomings of
+here only the key findings: the 3 U. furcata isolates our approach and then characterize the ecological
+from geographically distant lakes differed markedly in niches of the 4 ciliate species.
+their temperature response. The Mondsee isolate was
+significantly different from the other 2 isolates at all
+temperatures. The shape of the temperature response Experimental constraints
+curve of the other 2 U. furcataisolates was similar but
+differed in detail. Averaged over the temperature As with virtually all laboratory-based extrapolations,
+range from 5 and 20°C, the U. furcatafrom Lake Con- experimental artifacts may have resulted from using
+stance grew slightly but significantly better than that small containers, only one food species in a particular
+from Lake Schöhsee. Growth rates of these 2 U. furcata medium, and protist cultures of variable age and clonal
+isolates were not significantly different at 25°C, composition. We can rule out that the first point signif-
+Table 2. Temperature range of positive population growth, optimum temperature (T ), maximum growth rates (µ ), and
+opt max
+threshold and approximate half saturation (k) food concentrations of Balanion spp. and Urotricha spp. L.C.: Lake Constance;
+t
+L.M.: Lake Mondsee; L.Sch.: Lake Schöhsee; nd: not determined
+Species Isolate Growth T µ Threshold k Source
+opt max t
+range (°C) (°C) (d–1) (µg C l–1) (µg C l–1)
+Balanion planctonicum L.C./1989 5 to 18.5 18.5 1.52 nd nd Müller (1991)
+L.C./1993 nd nd 1.87a 78 157 Müller & Schlegel (1999)
+L.C./1993 nd nd nd 41 136 This study
+L.M./1999 6 to 21 18.0 1.58 nd nd This study
+Balanion comatum Øresund/1995 nd nd nd 11 ~15 Jakobsen & Hansen (1997)
+L.C./1988 5 to >21.5 nd 1.72b nd nd Müller & Geller (1993)
+L.C./1988 6 to 27.5 20 to 25 1.01 383 533 This study
+Urotricha furcata L.Sch./1996 8 to 27.5 25 0.88 nd nd This study
+L.M./1996 5 to 25 25 0.52 nd nd This study
+Urotricha farcta L.Sch./1996 5 to >30 24 to 27.5 1.79/2.95c 163 753 This study
+Urotricha castalia L.C./1988 0 to 25 12.5 0.65 nd nd This study
+aMeasured at 15°C only; bmeasured at 21.5°C; cmeasured at exceptionally high algal concentrations
+
+Weisse et al.: Niche separation in ciliates 175
+icantly affected the results reported, as we have seems unlikely that clonal decay affected the results
+repeatedly measured growth rates of ciliates in con- reported in this study since our study organisms still
+tainers of variable volume (5 to 500 ml) and found in had growth rates comparable with those of the juvenile
+short- to medium-term (1 to several days) experiments, isolates (Weisse & Montagnes 1998, Montagnes &
+no effect related to the experimental volume (Weisse & Weisse 2000). Growth rates of U. furcata (Lake Con-
+Montagnes 1998, Montagnes & Weisse 2000, Weisse & stance) measured in this study were even slightly
+Frahm 2001b). higher than the original estimates obtained several
+Previous investigations have shown that crypto- years earlier (Müller & Geller 1993; Table 1).
+phytes in the size range from 5 to 15 µm are optimum
+food for small prostome ciliates (Müller 1991, Müller &
+Geller 1993, Jakobsen & Hansen 1997, Weisse & Ecological niches of prostome ciliates: the response
+Müller 1998). This does, however, not preclude some to food concentration and temperature
+prey-specific differences in ciliate growth and grazing
+rates. A slightly smaller, unidentified Cryptomonassp. Balanion planctonicum
+yielded in some batch cultures higher growth rates in
+Urotricha furcatathan the Cryptomonas strain used in Our numerical and functional response data support
+this study (Meyer 1997). We observed that the volume results from similar studies (Jakobsen & Hansen 1997,
+of the prostome ciliates not only changes with food Müller & Schlegel 1999) and suggest that the smallest
+supply (Müller 1991, Jakobsen & Hansen 1997) but of the 3 prostome species investigated is the superior
+also is variable under standard laboratory conditions, competitor at permanently low algal abundances (<3 ×
+i.e., at a given temperature with the same food species 104 Cryptomonas ml–1), i.e., at carbon concentrations
+and comparable food levels (Weisse & Montagnes <90 ng C ml–1 or chlorophyll aconcentrations <2.3 ng
+1998, Montagnes & Weisse 2000). Furthermore, the ml–1, if we convert carbon to chlorophyll by a factor of
+food quality changes with time: exponentially growing 40:1 (Montagnes et al. 1994). Balonion planctonicumis
+cultures of the Cryptomonas sp. strain 26.80 may differ able to grow at maximum rates over a wide range of
+by up to 50% in their average cell volume measured at algal concentrations. With respect to the use of the
+15°C (T. Weisse unpubl.). food resources, B. planctonicum may, therefore, have
+Food quality may thus affect the numerical and func- an advantage over the small Urotrichaspp. in oligo- to
+tional response curves of ciliates and is likely to be an- mesotrophic lakes when food is scarce. However, in
+other important niche parameter in the natural situa- contrast to both Urotrichaspp., B planctonicumcannot
+tion. The threshold concentration, i.e., the prey level survive extended periods of starvation (Fig. 1a). The
+where the population growth rate is zero, may be lower population size declined strongly over a period of 48 h,
+for Urotrichaspp. in the natural environment where an which corresponds to ~3 times the minimum genera-
+array of various food items is available (Müller et al. tion time at 15°C (Table 1) and is similar to the ability
+1991, Weisse & Müller 1998). In spite of this caveat, the of the marine B. comatum to withstand starvation
+comparison of the feeding strategies of the 3 ciliate spe- (Jakobsen & Hansen 1997). B. planctonicum is thus
+cies should remain valid because the experimental con- dependent upon a constant supply of suitable food.
+ditions used in this study were internally consistent. Balanion planctonicum grew faster than the sym-
+The third potential artifact, variable age and clonal patric Urotricha furcata at low to moderate tempera-
+composition of the protist cultures, is difficult to deal tures (5 to 18°C) at saturating food concentrations in
+with. If sexual processes are prevented, then clonal laboratory cultures (Müller & Geller 1993, this study).
+decay may lead to decreasing ciliate vitality with time Negative population growth rates measured in situ
+(Bell 1988, Montagnes 1996). The Urotricha furcata during summer when the water temperature in Lake
+isolate from Lake Constance was older than the Constance was unusually high (23.2°C at 3 m depth,
+Urotricha spp. and Balanion planctonicum isolates Weisse & Müller 1998) support the laboratory findings.
+from Lakes Schöhsee and Mondsee. All these isolates B. planctonicumis much more sensitive to high water
+were kept as non-clonal, ‘mixed’ cultures to keep the temperatures than are both small Urotricha sp. This
+potential for sexual processes, i.e., conjugation, in our may limit the occurrence of B. planctonicumin temper-
+cultures alive. The clonal composition of our cultures is ate areas, in particular during summer in small water
+unknown and might have changed with time. A bodies that warm up more intensely than large lakes.
+founder effect and differential selection may become In accordance with this conclusion, B. planctonicum
+important in long-term cultures, in spite of standard- was not found in the shallow, hypertrophic Danish
+ized laboratory conditions. All these processes also Lake Søbygård when the temperature exceeded 21°C
+occur, however, in the natural environment and may and small Urotricha spp. were highly abundant (Jür-
+further add to the niche dimension of the ciliates. It gens et al. 1999, see below).
+
+176 Aquat Microb Ecol 26: 167–179, 2001
+The vulnerability to competitors and predators may concentration of ~380 ng C ml–1 is at the high end of
+also limit the seasonal occurrence and abundance of the threshold concentrations reported by various authors
+ciliates under study (Müller et al. 1991, Rothhaupt & for 13 planktonic ciliate species (summarized by Jakob-
+Güde 1996, Straile 1998). Relative to the sympatric sen & Hansen 1997) and comparable with threshold
+Urotricha spp., the ecological niche of Balanion planc- values of freshwater rotifers (reviewed by Walz 1995).
+tonicumdiffers with respect to their susceptibility to ro- Note that such calculations are sensitive to carbon to
+tifers. B. planctonicum is highly susceptible to grazing by volume conversion factors used and to the potential ef-
+the common rotifer species Keratella quadrata(Weisse & fect of cell shrinkage of predator and prey due to fixa-
+Frahm 2001a) while both U. furcataand U. farctaseem to tion. For B. planctonicumand U. furcatathe conversion
+have developed a chemically mediated defense mecha- factor between the volume of Lugol’s fixed and live
+nism against this rotifer species (Weisse & Frahm 2001b). cells is 1.36 and 1.42, respectively (Müller & Geller
+B. planctonicum appeared, however, to be unaffected by 1993).
+another rotifer species, K. cochlearis, while population Compared with Balanion planctonicum, the disad-
+growth rates of U. furcatawere significantly reduced in vantage resulting from the high food demand may be
+the presence of K. cochlearis(Weisse & Frahm 2001a). balanced by the pronounced ability of Urotricha fur-
+These and similar experiments (Weisse & Frahm 2001b) cata to withstand periods of starvation (Fig. 1b). It is
+revealed large, species-specific mutual interactions be- known that some marine and freshwater ciliates can
+tween the ciliates and their coexisting rotifer competitors survive without food for relatively long periods (Jack-
+or predators. son & Berger 1984, Fenchel 1990, Montagnes 1996,
+There is some discrepancy in the maximum inges- Jakobsen & Hansen 1997). The mechanism(s) by which
+tion rates of Balanion planctonicum reported in the lit- Urotricha sp. survive when food is depleted is un-
+erature (Table 1). We found maximum ingestion rates known. We found no indication for cyst formation. In
+of ~2 prey cells ind.–1h–1for both isolates investigated, the oligotrophic to mesotrophic range where food sup-
+which supports earlier results obtained by flow cytom- ply is permanently or temporarily scant, U. furcatamay
+etry (Kenter et al. 1996). The closely related marine survive by exploiting patches of high food concentra-
+species B. comatumalso reached maximum per capita tions. This species seems, however, to be more adapted
+ingestion rates of 2 prey cells h–1 when fed a marine to eutrophic and hypertrophic environments with per-
+small cryptophyte at 15°C (Jakobsen & Hansen 1997). manently high food concentrations. In our stock cul-
+The higher algal uptake rates, up to 4.4 Cryptomonas tures, U. furcata grew well even when the food con-
+ind.–1h–1, reported for the first (1989) B. planctonicum centration was excessively high (>1.5 ×105prey ml–1).
+isolate from Lake Constance (Müller 1991), were prob- This prey abundance is equivalent to carbon concen-
+ably overestimated because ingestion rates were cor- trations of ~4.4 mg C ml–1 or chlorophyll a concentra-
+rected for algal growth in the controls. Without cor- tions of ~110 ng C ml–1. There is some evidence from
+recting for the growth of the cryptophytes (according the natural environments to support this finding. In the
+to Eqs 2 & 3), the maximum ingestion rate of B. planc- highly eutrophic Danish Lake Søbygård with summer
+tonicum reported by Müller (1991) would be reduced chlorophyll a concentrations between 130 and 730 ng
+to 2.67 Cryptomonasind.–1h–1. The highest maximum C ml–1 (Jeppesen et al. 1990), Jürgens et al. (1999)
+ingestion rates of 6 to 8 Cryptomonas ciliate–1h–1found measured concentrations of small Urotrichasp. of up to
+in a detailed investigation with the same (1993) B. 300 ml–1. High cell numbers of U. furcata have also
+planctonicumisolate from Lake Constance as that used been recorded in eutrophic to hypertrophic ponds,
+in this study (Müller & Schlegel 1999) can, however, lakes and reservoirs (reviewed by Foissner et al. 1999).
+not be explained by experimental artifacts. Although In temperate areas, small, eutrophic water bodies
+the reason for the deviating results remains unknown, are also often subject to pronounced seasonal temper-
+they point to the significance of clonal differences in ature changes. It is in accordance with this interpreta-
+growth and grazing rates of common freshwater cili- tion that Urotricha furcatais tolerant to a wide range of
+ates (see below). environmental temperatures. Records of this species
+are known from Europe, Asia and Australia (summa-
+rized by Foissner et al. 1999); these authors propose
+Urotricha furcata that U. furcatais a cosmopolitan species.
+In contrast to Balanion planctonicum, Urotricha fur-
+cataneeds high food concentrations to grow. This find- Urotricha farcta
+ing was obvious both from long-term batch culture ex-
+periments (Fig. 1b) and from the numerical (Fig. 3b) The third of the prostome species investigated in
+and functional response (Fig. 5b). The threshold prey detail had some features in common with Urotricha
+
+Weisse et al.: Niche separation in ciliates 177
+furcata while it differed markedly in some other numbers of U. castaliaat low food concentrations were
+respects. Shared characteristics of both Urotrichaspp. too small to measure growth rates with any statistical
+were the existence of a relatively high critical food reliability.
+concentration necessary to support positive population The temperature response measured at saturating
+growth, the tolerance to very high food concentrations food levels revealed that Urotricha castaliais a species
+(data not shown) and the ability to lead a famine exis- adapted to low water temperature. It grew fastest at
+tence for some time. U. farctawas the most tolerant of 12.5°C and did not tolerate 27.5°C (Fig. 7).
+all 4 prostome species investigated with respect to Our experimental findings match the scant reports
+temperature and grew fastest at all temperatures, from natural environments. Muñoz et al. (1987) found
+when food was abundant (Fig. 7). Similar to U. furcata, Urotricha castaliain an artificial pond in Madrid, Spain
+the threshold concentration derived from the batch from October through May before it was replaced by
+cultures and the numerical and functional response another Urotricha sp. Foissner & Pfister (1997) also
+experiments were in close agreement. Recent experi- found U. castalia in a highly eutrophic pond at
+ments conducted in our laboratory revealed, however, Salzburg, Austria, mainly in late spring. These authors
+that the threshold for population growth of U. farctais synonymized U. rotunda (Fernandez-Leborans &
+strongly dependent on temperature and may differ Novillo 1994), observed in a reservoir 60 km from
+with respect to the experimental design (Weisse et al. Madrid, withU. castalia. U. castaliaalso occurs in Lake
+unpubl.). Constance (Weisse & Müller 1998), from which the iso-
+In spite of its higher growth rates, the ingestion rate late used by Foissner & Pfister (1997) and in the pre-
+of Urotricha farcta (Fig. 4b) was lower than that of U. sent study originated, but little is known of its ecology.
+furcata and comparable with those of both Balanion It appears likely that U. castaliais more common than
+spp. (Table1). This explains the high growth efficiency indicated by the few literature reports because it is
+in U. farcta, which was also observed in a long-term probably often confused with other similar-sized
+chemostat experiment (Weisse et al. unpubl). The GGE urotrichs with more than 2 caudal cilia (Foissner et al.
+of U. farcta is at the high end of values reported for 1999).
+most ciliates in the literature (reviewed by Straile
+1997). Note that the GGE values reported in Table 1
+are conservative estimates because we did not convert Intraspecific differences
+biovolumes to units of carbon; the carbon to volume
+ratio may be somewhat higher in ciliates than in most We have extended the previous investigations on
+algae (Straile 1997 and references therein). Balanion planctonicum and Urotricha furcata (Müller
+Our findings are in agreement with the records from 1991, Müller & Geller 1993, Weisse & Montagnes 1998,
+different environments for Urotricha farcta. This spe- Müller & Schlegel 1999) for an inter- and intraspecific
+cies is found in ponds, lakes and rivers. It occurs comparison within both genera. Minor differences in
+throughout the year and is abundant in eutrophic and the temperature response (at 5 to 25°C) between the
+hypertrophic water bodies (summarized by Foissner et non-clonal U. furcata isolates from Lakes Schöhsee
+al. 1999). The temperature span reported for U. farcta and Constance had been reported earlier (Weisse &
+from natural environments ranges from 0 to 36°C Montagnes 1998). Major differences were found
+(reviewed by Foissner et al. 1999). We conclude that U. between these 2 isolates and the one from Lake Mond-
+farcta is a a euryokous species, best adapted to nutri- see at fluctuating experimental temperatures (Mon-
+ent-rich, warm water bodies. tagnes & Weisse 2000). We have complemented these
+previous studies by comparing the temperature
+response of all 3 isolates over the temperature range
+Urotricha castalia from 5 to 30°C and confirmed the earlier results: the U.
+furcata strain from Lake Mondsee was strikingly dif-
+We did not measure the numerical and functional ferent from its conspecific isolates (Table 2). The
+response of this species because, in contrast to the intraspecific differences within this species were of
+smaller prostomatid ciliates, it is difficult to rear similar magnitude to the differences between the 3
+Urotricha castalia at concentrations exceeding 300 Urotricha species studied.
+cells ml–1. Balanion planctonicum, U. furcata and U. Among Balanionsp., the bioenergetics of the 2 fresh-
+farctaall reach cell densities of several thousands ml–1 water B. planctonicumstrains and the marine B. coma-
+under the laboratory conditions used in this study. At tum were generally similar. We measured only minor
+ciliate levels below 200 cells ml–1calculation of inges- differences in growth and ingestion rates in response
+tion rates, in particular, is inaccurate, based upon to food and temperature (Table 1), while the B. planc-
+microscopic cell counts. Likewise, changes in cell tonicumstrain studied by Müller & Schlegel (1999) was
+
+178 Aquat Microb Ecol 26: 167–179, 2001
+faster growing and ingested the same or similar prey at ecology of limnetic plankton ciliates. Informationsber
+rates 3 times higher than the other Balanion isolates. Bayer Landesamt Wasserwirtsch 3/99
+Frost BW (1972) Effects of size and concentration of food par-
+In conclusion, our results show that the ecological
+ticles on the feeding behavior of the marine planktonic
+niches of common freshwater ciliates differ species
+copepod Calanus pacificus. Limnol Oceanogr 17:805–815
+specifically with respect to key environmental para- Glantz SA (1997) Primer of biostatistics. McGraw-Hill, New
+meters such as temperature and food. We also corrob- York
+orated the earlier conjecture that the ecological niches Guillard RRL, Lorenzen CJ (1972) Yellow-green algae with
+chlorophyllide c. J Phycol 8:10–14
+may not completely overlap in geographically distant
+Heinbokel JF (1978) Studies on the functional role of tintin-
+populations of the same species (Weisse & Montagnes nids in the Southern California Bight. I. Grazing and
+1998, Montagnes & Weisse 2000). It seems plausible growth rates in laboratory cultures. Mar Biol 47:177–189
+that the niche dimensions of species and populations Holling CS (1959) The components of predation as revealed
+by a study of small-mammal predation of the European
+can be further differentiated if other forms of biological
+pine sawfly. Can Entomol 91:293–320
+interactions, such as, e.g., mutualism or chemical com-
+Jackson KM, Berger J (1984) Survival of ciliated protozoa
+munication (Larsson & Dodson 1993), are considered. under starvation conditions and at low bacterial levels.
+We therefore caution against the assumption that Microb Ecol 10:47–59
+widely distributed ciliate species behave ecologically Jakobsen HH, Hansen PJ (1997) Prey size selection, grazing
+and growth response of the small heterotrophic dinofla-
+identically, i. e., that they occupy identical or very sim-
+gellate Gymnodinium sp. and the ciliate Balanion coma-
+ilar niches (Finlay et al. 1996). tum: a comparative study. Mar Ecol Prog Ser 158:75–86
+Jeppesen E, Søndergaard M, Sortkjaer O, Mortensen E, Kris-
+tensen P (1990) Interactions between phytoplankton, zoo-
+Acknowledgements. We thank Helga Müller for providing plankton and fish in a shallow, hypertrophic lake: a study
+several ciliate isolates and Peter Stadler for technical assis- of phytoplankton collapses in Lake Søbygård, Denmark.
+tance in some experiments. Klaus Jürgens provided the Hydrobiologia 191:149–164
+Urotricha furcataisolate from Lake Schöhsee. Comments by Jürgens K, Skibbe O, Jeppesen E (1999) Impact of metazoo-
+David Montagnes, H. Müller, Jens Boenigk, Martin Hahn, plankton on the composition and population dynamics of
+Nick Crosbie and 3 anonymous reviewers on earlier versions planktonic ciliates in a shallow, hypertrophic lake. Aquat
+of the manuscript are gratefully acknowledged. Microb Ecol 17:61–75
+Kenter U, Zimmermann U, Müller H (1996) Grazing rates of
+the freshwater ciliate Balanion planctonicum determined
+LITERATURE CITED by flow cytometry. J Plankton Res 18:1047–1053
+Larsson P, Dodson DI (1993) Chemical communication in
+Bardele CF (1999) Ultrastructure, morphogenesis, and a dis- planktonic animals. Arch Hydrobiol 129:129–155
+cussion on the phylogeny of the prostome ciliate Balanion Lettner S (2001) Intraspezifische ökophysiologische Unter-
+planctonicum. Eur J Protistol 35:17–33 schiede prostomatider Ciliaten. Diploma thesis, University
+Bell G (1988) Sex and death in protozoa. Cambridge Univer- of Vienna
+sity Press, Cambridge Macek M, 2imek K, Pernthaler J, Vyhnálek V, Psenner R
+Fenchel T (1982) Ecology of heterotrophic microflagellates. II. (1996) Growth rates of dominant ciliates in two freshwater
+Bioenergetics and growth. Mar Ecol Prog Ser 8:225–231 bodies of different trophic degree. J Plankton Res 18:
+Fenchel T (1990) Adaptive significance of polymorphic life 463–481
+cycle in protozoa: responses to starvation and refeeding in Meyer VCL (1997) Wachstums- und Ingestionsraten ökolo-
+two species of marine ciliates. J Exp Mar Biol Ecol 136: gisch relevanter Süßwasserciliaten. Diploma thesis, Chris-
+159–177 tian-Albrechts-University Kiel
+Fernandez-Leborans G, Novillo A (1994) Three new species Montagnes DJS (1996) Growth responses of planktonic cili-
+of ciliate in the genera Pseudocohnilembus, Pleuronema ates in the genera Strobilidium and Strombidium. Mar
+and Urotricha (Ciliophora). Proc Biol Soc Wash 107: Ecol Prog Ser 130:241–254
+221–238 Montagnes DJS, Weisse T (2000) Fluctuating temperatures
+Finlay BJ, Corliss JO, Esteban G, Fenchel T (1996) Biodiver- affect growth and production rates in planktonic ciliates.
+sity at the microbial level: the number of free-living cili- Aquat Microb Ecol 21:97–102
+ates in the biosphere. Q Rev Biol 71:221–237 Montagnes DJS, Berges JA, Harrison PJ, Taylor FJR (1994)
+Foissner W, Pfister G (1997) Taxonomic and ecologic revision Estimating carbon, nitrogen, protein, and chlorophyll a
+of urotrichs (Ciliophora, Prostomatida) with three or more from volume in marine phytoplankton. Limnol Oceanogr
+caudal cilia, including a user-friendly key. Limnologica 27: 39:1044–1060
+311–347 Müller H (1989) The relative importance of different ciliate
+Foissner W, Oleksiv I, Müller H (1990) Morphologie und taxa in the pelagic food web of Lake Constance. Microb
+Infraciliatur einiger Ciliaten (Protozoa: Ciliophora) aus Ecol 18:261–273
+stagnierenden Gewässern [Morphology and infraciliature Müller H (1991) Pseudobalanion planctonicum (Ciliophora,
+of some ciliates (Protozoa: Ciliophora) from stagnant Prostomatida): ecological significance of an algivorous
+waters]. Arch Protistenkd 138:191–206 nanociliate in a deep meso-eutrophic lake. J Plankton Res
+Foissner W, Berger H, Kohmann F (1994) Taxonomische und 13:247–262
+ökologische Revision der Ciliaten des Saprobiensystems. Müller H, Geller W (1993) Maximum growth rates of aquatic
+Band III: Hymenostomata, Prostomatida, Nassulida. Infor- ciliated protozoa: the dependence on body size and tem-
+mationsber Bayer Landesamt Wasserwirtsch 1/94 perature reconsidered. Arch Hydrobiol 126:315–327
+Foissner W, Berger H, Schaumburg J (1999) Identification and Müller H, Schlegel A (1999) Responses of three freshwater
+
+Weisse et al.: Niche separation in ciliates 179
+planktonic ciliates with different feeding modes to crypto- metazoan zooplankton and their dependence on food con-
+phyte and diatom prey. Aquat Microb Ecol 17:49–60 centration, predator-prey weight ratio, and taxonomic
+Müller H, Schöne A, Pinto-Coelho RM, Schweizer A, Weisse group. Limnol Oceanogr 42:1375–1385
+T (1991) Seasonal succession of ciliates in Lake Con- Straile D (1998) Biomass allocation and carbon flow in the
+stance. Microb Ecol 21:119–138 pelagic food web of Lake Constance. Arch Hydrobiol Spec
+Muñoz A, Téllez C, Fernández-Galiano D (1987) Morphology Issue Adv Limnol 53:545–563
+and infraciliature in Urotricha nais sp. n. and Urotricha Walz N (1995) Rotifer populations in plankton communities:
+castalia sp. n. (Ciliophora, Prorodontida). Acta Protozool energetics and life history strategies. Experientia 51:
+26:197–204 437–453
+Rothhaupt KO, Güde H (1996) Influence of metazoan zoo- Weisse T, Frahm A (2001a) Direct and indirect impact of two
+plankton on the microbial community before and after the common rotifer species (Keratella spp.) on two abundant
+onset of the spring clear-water phase in Lake Constance ciliate species (Urotrichafurcata, Balanion planctonicum).
+(Bodensee). Arch Hydrobiol Spec Issue Adv Limnol 48: Freshwater Biol 46 (in press)
+21–30 Weisse T, Frahm A (2001b) Species-specific interactions
+Salbrechter M, Arndt H (1994) The annual cycle of protozoo- between small planktonic ciliates (Urotricha spp.) and
+plankton in the alpine, mesotrophic Lake Mondsee (Aus- rotifers (Keratellaspp.). J Plankton Res 23 (in press)
+tria). Mar Microb Food Webs 8:217–234 Weisse T, Kirchhoff B (1997) Feeding of the heterotrophic
+Schönberger M (1994) Planktonic ciliated protozoa of freshwater dinoflagellate Peridiniopsis berolinense on
+Neusiedler See (Austria/Hungary): a comparison between cryptophytes: analysis by flow cytometry and electronic
+the turbid open lake and a reedless brown-water pond. particle counting. Aquat Microb Ecol 12:153–164
+Mar Microb Food Webs 8:251–263 Weisse T, Montagnes DJS (1998) Effect of temperature on
+2imek K, Bobková J, Macek M, Nedoma, J, Psenner R (1995) inter- and intraspecific isolates of Urotricha(Prostomatida,
+Ciliate grazing on picoplankton in a eutrophic reservoir Ciliophora). Aquat Microb Ecol 15:285–291
+during the summer phytoplankton maximum: a study at Weisse T, Müller H (1998) Planktonic protozoa and the micro-
+the species and community level. Limnol Oceanogr 40: bial food web in Lake Constance. Arch Hydrobiol Spec
+1077–1090 Issue Adv Limnol 53:223–254
+Sommaruga R, Psenner R (1993) Nanociliates of the order Weisse T, Müller H, Pinto-Coelho RM, Schweizer A, Spring-
+Prostomatida: their relevance in the microbial food web of mann D, Baldringer G (1990) Response of the microbial
+a mesotrophic lake. Aquat Sci 55:179–187 loop to the phytoplankton spring bloom in a large pre-
+Straile D (1997) Gross growth efficiencies of protozoan and alpine lake. Limnol Oceanogr 35:781–794
+Editorial responsibility: Karel 2imek, Submitted: June 1, 2001; Accepted: August 29, 2001
+>eské Budeˇjovice, Czech Republic Proofs received from author(s): October 18, 2001
+

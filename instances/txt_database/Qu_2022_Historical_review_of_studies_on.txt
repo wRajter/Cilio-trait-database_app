@@ -1,0 +1,1134 @@
+microorganisms
+Review
+Historical Review of Studies on Cyrtophorian Ciliates
+(Ciliophora, Cyrtophoria) from China
+ZhishuaiQu1,* ,HongboPan2 ,JunGong3,CongcongWang4,SabineFilker5andXiaozhongHu4,*
+1 StateKeyLaboratoryofMarineEnvironmentalScience,CollegeoftheEnvironmentandEcology,
+XiamenUniversity,Xiamen361104,China
+2 EngineeringResearchCenterofEnvironmentalDNAandEcologicalWaterHealthAssessment,
+ShanghaiOceanUniversity,Shanghai201306,China;hbpan@shou.edu.cn
+3 SchoolofMarineSciences,SunYat-SenUniversity,Zhuhai519082,China;gongj27@mail.sysu.edu.cn
+4 KeyLaboratoryofMariculture,MinistryofEducation,CollegeofFisheries,OceanUniversityofChina,
+Qingdao266003,China;wangcocoh@163.com
+5 DepartmentofMolecularEcology,UniversityofKaiserslautern,67663Kaiserslautern,Germany;
+filker@rhrk.uni-kl.de
+* Correspondence:zqu@xmu.edu.cn(Z.Q.);xiaozhonghu@ouc.edu.cn(X.H.)
+Abstract:ThesubclassCyrtophoriaareagroupofmorphologicallyspecializedciliateswhichmainly
+inhabitsoil,freshwater,brackishwater,andmarineenvironments. Inthisstudy,werevisemore
+than50publicationsonthetaxonomy, phylogeny, andecologyofcyrtophorianciliatesinChina
+sincethefirstpublicationin1925,mostofwhichwerecarriedoutincoastalareas. Theresearch
+historycanbedividedintothreeperiods:theearlystage,theTibetstage,andthemolecularstage.To
+date,103morpho-species(147isolates)havebeenformallyrecordedinChina,withciliaturepatterns
+describedfor82ofthem.Aspecieschecklistandanillustratedidentificationkeytothegeneraare
+provided.Atotalof100smallsubunitrDNAsequenceshavebeenobtainedfor74taxonomichits
+(lowesttaxonomicranktospeciesorgenus). Thesesequencesareusedforthestudyofmolecular
+Citation:Qu,Z.;Pan,H.;Gong,J.;
+phylogeny.Basedonthesemorphologicaldataandmolecularphylogenyanalyses,wesynthesizethe
+Wang,C.;Filker,S.;Hu,X.Historical
+understandingofthephylogenyofcyrtophorianciliates.Wehypothesizethatthekeyevolutionary
+ReviewofStudiesonCyrtophorian
+eventofcyrtophorianciliatesliesintheseparationofthestomatogenesiszone(postoralkineties)from
+Ciliates(Ciliophora,Cyrtophoria)
+theleftkineties,namely,theformationofanindependent“sexualorganelle”.We,furthermore,briefly
+fromChina.Microorganisms2022,10,
+summarizetheecologicalfeaturesofcyrtophorianciliatesandprovideacomprehensivebibliography
+1325. https://doi.org/10.3390/
+microorganisms10071325 of related research from China. Finally, we give an outlook on the future research directions of
+thesetaxa.
+AcademicEditor:JuanCarlos
+Gutiérrez
+Keywords:morphology;phylogeny;SSUrDNA;taxonomy
+Received:29May2022
+Accepted:27June2022
+Published:30June2022
+1. Introduction
+Publisher’sNote:MDPIstaysneutral
+withregardtojurisdictionalclaimsin Asevidencedbyanincreasingnumberofpublications,Chinaisnowrecognizedas
+publishedmapsandinstitutionalaffil- oneofthehotspotsforthestudyofthetaxonomyandsystematicsofciliates[1–5]. Among
+iations. ciliates, cyrtophorians (subclass Cyrtophoria) are a morphologically specialized group
+thatfeatureauniquecombinationofmorphologicalcharacteristics: (1)Thecytostomeis
+reinforcedbyaspecialbuccalstructurecalledthepharyngealbasketwhichismadeupof
+fibersthatareusuallyorganizedintheformofnematodesmalrods[6]. (2)Theoralciliature
+Copyright: © 2022 by the authors. consistsofafewshortkinetalsegments,withusuallyonepreoralkinety(sometimesinsev-
+Licensee MDPI, Basel, Switzerland.
+eralshortfragments)andtwocircumoralkineties(seeoralkineties—OK—inFigure1)[7].
+This article is an open access article
+Some species have a degenerated oral structure or more circumoral kineties. During
+distributed under the terms and
+stomatogenesis,theoralkinetiesareformedbyananticlockwiserotationoftheoralan-
+conditionsoftheCreativeCommons
+lagen(seestomatogeneticzone—SZ—inFigure1)[8]. (3)Theciliaaremainlyrestricted
+Attribution(CCBY)license(https://
+totheventralside,andonlyafewarelocatedattheanteriorpartofthedorsalside[7,9].
+creativecommons.org/licenses/by/
+(4)Somespecieshaveorganellesadaptedtotheadhesiononthesubstrate,suchaspodites
+4.0/).
+Microorganisms2022,10,1325.https://doi.org/10.3390/microorganisms10071325 https://www.mdpi.com/journal/microorganisms
+
+Microorganisms2022,10,1325 2of22
+(e.g.,DysteriaandHartmannula),glandules(e.g.,Trichopodiella),andfinger-liketentacles
+(e.g.,LynchellaandChlamydonella)(Figure1)[7,9,10]. Frommore“general”cyrtophorians
+tohighlyspecializedones,theleftkinetiestendtodegenerateandmovetothefrontaland
+rightpartofthecell. Therightkinetiesarealsoinclinedandmostlyrestrictedtotheright
+marginasaresultofthelateralcompressionofthebodyintheorderDysteriida(Figure1).
+Figure1.Schematicciliarypatternsofcyrtophorianciliates.(A)OrderChlamydodontida.(B)Order
+Dysteriida.Abbreviations:EF—equatorialfragment;LK—leftkineties;OK—oralkineties;P—podite;
+PK—postoralkineties;RK—rightkineties;SZ—stomatogeneticzone;andTF—terminalfragment.
+Mostcyrtophorianciliatesliveasperiphytonandfeedonbacteria(includingcyanobac-
+teria)and/oreukaryoticmicroalgae[11–14]. Theyarewidelydistributedinavarietyof
+habitats including soil [15,16], freshwater [11,16,17], marine environments [4,6,9,17–22],
+brackishwaters[12,13,23–26],andevenglaciersinAntarctica[27,28].Asactivebacterivores,
+some species commonly occur in eutrophic manmade ecosystems, such as Chilodonella
+uncinata,Gastronautaspp.,andTrochiliaminuta,whichhavebeenusedasbio-indicators
+for monitoring sludge performance in wastewater treatment plants [11,29–32]. Several
+free-livingspeciesthriveinmariculture[33–35]andfreshwaterfishaquaculturetanks[36].
+A few species even live as obligate parasites on the gills and skin of fish [36–40], or on
+themucosaoftheblowholesofseamammals[41–43],andhencearetargetorganismsin
+pathogenicstudies[44].
+Todate,morethan180cyrtophorianciliatespeciesareknownworldwide,divided
+into 2 orders, 10 families, and 45 genera [3,8,9]. Several milestones can be identified in
+the research history: (1) Müller [45] reported two cyrtophorian ciliates (Trithigmostoma
+cucullulusandChlamydodontriquetrus,accordingtothecurrentnomination). (2)Klein[46]
+firstappliedsilverimpregnation(drysilvernitrate)onciliatesandrevealedtheciliatureof
+thecyrtophorianChilodonellauncinata. (3)Kahl[17]summarizedmorethan80specieswith
+finedescriptionsbasedonpreviousworks(e.g.,[47–49])andhisown. (4)Deroux[6,18–22]
+conductedalong-term,exclusivestudymainlyoncyrtophorianciliates,documentingabout
+50marinespecieswithfineciliarypatterns. (5)Snoeyenbos-Westetal.[50]analyzed,for
+thefirsttime,thesystematicpositionofcyrtophorianciliatesusingSSUrDNAsequences.
+Inthispaper,wereviewtheresearchoncyrtophorianciliatesinChina,coveringaspects
+oftaxonomy,molecularphylogeny,andecology,andprovideanup-to-dateliteratureguide
+torelatedresearch. We,furthermore,presentarevisedphylogenyofcyrtophorianciliates
+basedonexistingmorphologicalknowledgeandthemolecularphylogenetictreeinferred
+fromupdatedSSUrDNAsequences. Asaclosingremark,wegiveanoutlookonthefuture
+researchprospectsofthisspecialgroupofciliates.
+
+Microorganisms2022,10,1325 3of22
+2. MorphologicalTaxonomy
+2.1. BriefResearchHistory
+Forthissection,wecollectedandreviewed50publications(Table1)withmorpho-
+logicaldescriptions,excludingthosewherethespeciesidentificationcouldnotbetraced
+and confirmed. To the best of our knowledge, the very first report of cyrtophorian cili-
+atesfromChinawasgivenbyWang[51]intheyearof1925. Heisolatedanddescribed
+threespecies,ChilodoncaudataStokes,1885,C.cucullulus(Müller,1786)Klein,1927,and
+C. vorax Stokes, 1887 (current names are Chilodonella caudata, Trithigmostoma cucullulus
+andChilodonellavorax,respectively),fromfreshwaterlakesinNanjing. Onlyacoupleof
+yearslater,heamendedthelistwithanewspecies,DysteriaamoyensisWang,1934,which
+wasdiscoveredinamarineaquariuminXiamen[52]. NieandHo[53]alsoestablished
+anewspecies,GastronautafontzouiNieandHo,1943,extractedfromfreshwatershrimps;
+however,theyonlyhadavaguemorphologicaldescription. Afteranalmostthree-decade
+blank,Wang[54]recorded16morespecies,includinganewone,duringamassiveinves-
+tigationonMountEverest;unfortunately,onlyfiveweredescribedwithmorphological
+characteristics. Subsequently,Shen[16]summarizedherownnovelstudiesandprevious
+resultsonciliatefaunainvestigationfromtheTibetPlateau,andbrieflydescribed22species
+(includingallthespeciesfromWang[54]). Untilthen,studieswereonlyconductedusing
+liveobservation. Sincethe2000s,moreadvancedstudieshavebeenbasedonacombination
+of live observation and silver staining, mainly focusing on marine and brackish water
+habitats(e.g.,[1,3,4,9,55]). Duringthisperiod,somescatteredstudiesonsoilspeciesand
+parasiteswerealsopublished(e.g.,[37–40,56]). ResearchhistoryinChinacan,therefore,be
+dividedintothreestages(Figure2.1): (A)Duringtheearlystagefrom1925to1973,only
+ahandfulofstudieswerepublished, withsixspeciesreportedincludingtwonewtaxa.
+(B)TheTibetstage(1974–2000)includesthemassivefaunalinvestigationssummarizedby
+Wang[54]onMountEverestandthesummarybyShen[16]ontheTibetPlateau. Intotal,
+theydescribed22species,withonenewform. Thisstagealsoincludedafewpublications
+bySongandhiscollaborator[55,57,58]. (C)Themolecularstagebeganafter2000. From
+thenon,mostspeciesweredescribedbybothliveobservationandsilverstaining(mostly
+protargolstaining). Duringthisperiod,thenumberofrecordedspecies,newspeciesand
+specieswithciliaturepatternsincreasedstrongly. Themolecularstudiesalsohadarapid
+growthinthisperiod(seetheMolecularPhylogeneticStudiessectionbelow).
+Table1. Checklistofcyrtophorianciliatespecies/isolateswithmorphologicaldescriptionsfrom
+China.Newspeciesarehighlightedinbold.Speciesarepresentedwithcurrentnames.*Ref.[4]by
+Songetal. summarizes32speciesfoundbySong’sgroup(OceanUniversityofChina)from1991
+to2008.Here,onlysevenspecies/populationsnotpublishedbefore2009arelisted.†Thisspecies
+wasisolatedfrommarinewater,whichisdifferentfromthosepopulationsofChilodonellauncinata
+isolatedfromsoilorfreshwaterhabitats;thus,wecountitasadifferentspecies.§Previousnamewas
+Chilodonellaparauncinata[59].
+Publication SpeciesName(CurrentName) Ciliature Site Habitat
+ChilodonellacaudataStokes,1885 - Nanjing Freshwater
+Wang(1925)[51] ChilodonellavoraxStokes,1887 - Nanjing Freshwater
+Trithigmostomacucullulus(Müller,1786)Jankowski,1967 - Nanjing Freshwater
+DysteriaamoyensisWang,1934 - Xiamen Marine
+Wang(1934)[52]
+HartmannulaentziKahl,1931 - Xiamen Marine
+NieandHo(1943)[53] GastronautafontzouiNie&Ho,1943 - - Freshwatershrimps
+ChilodonellaaplanataKahl,1931 - MountEverest Soil
+ChilodonellaparauncinataWang,1974 - MountEverest Soil
+Wang(1974)[54] Chilodonellauncinata(Ehrenberg,1838)Strand,1928 - MountEverest Soil
+Odontochlamysconvexa(Kahl,1931)Blatterer&
+- MountEverest Soil
+Foissner,1992
+Pseudochilodonopsisalgivora(Kahl,1931)Foissner,1979 - MountEverest Soil
+
+Microorganisms2022,10,1325 4of22
+Table1.Cont.
+Publication SpeciesName(CurrentName) Ciliature Site Habitat
+ChilodonellaaplanataKahl,1931 - Tibetanplateau Freshwater
+Trithigmostomabavariensis(Kahl,1931)Foissner,1987 - Tibetanplateau Sodiumsulfatelake
+Chilodonellacapucina(Penard,1922)Kahl,1931 - Tibetanplateau Freshwater
+ChilodonelladentataFauguè,1876 - Tibetanplateau Freshwater
+ChilodonellafluviatilisStokes,1885 - Tibetanplateau Freshwater
+ChilodonellagranulatePenard,1922 - Tibetanplateau Freshwater
+ChilodonellananaKahl,1928 - Tibetanplateau Freshwater
+ChilodonellaparauncinataWang,1974 - Tibetanplateau Freshwater
+ChilodonellapiscicolaZacharias,1894 - Tibetanplateau Freshwater
+ChilodonellaturgidulaPenard,1922 - Tibetanplateau Freshwater
+Chilodonellauncinata(Ehrenberg,1838)Strand,1928 - Tibetanplateau -
+Chlamydonellopsiscalkinsi(Kahl,1928)Blatterer&
+Shen(1983)[16] - Tibetanplateau Freshwater
+Foissner,1990
+LophophorinacapronataPenard,1922 - Tibetanplateau Freshwater
+Odontochlamysconvexa(Kahl,1931)Blatterer&
+- Tibetanplateau Freshwater
+Foissner,1992
+OdontochlamysgourandiCertes,1891 - Tibetanplateau -
+PhascolodonvorticellaStein,1859 - Tibetanplateau Freshwater
+Pseudochilodonopsisalgivora(Kahl,1931)Foissner,1979 - Tibetanplateau Freshwater
+Pseudochilodonopsislabiata(Stokes,1891)Packroff,1988 - Tibetanplateau Freshwater
+Trithigmostomacucullulus(Müller,1786)Jankowski,1967 - Tibetanplateau Freshwater
+Trochiliaminuta(Roux,1901)Kahl,1931 - Tibetanplateau Freshwater
+TrochiliapalustrisStein,1859 - Tibetanplateau Freshwater
+Trochiliasulcata(Claparède&Lachmann,1858) - Tibetanplateau Freshwater
+√
+Song(1991)[55] PseudochilodonopsismarinaSong,1991 Qingdao Marine
+√
+Song(1997)[57] Chilodonellauncinata(Ehrenberg,1838)Strand,1928 Qingdao Freshwater
+SongandPackroff(1997) √
+DysteriabrasiliensisFariaetal.,1922 Qingdao Marine
+[58]
+√
+Gongetal.(2002)[60] Dysteriacristata(Gourret&Roeser,1888)Kahl,1931 √ Zhanjiang Marine
+Dysteriamonostyla(Ehrenberg,1838)Kahl,1931 Qingdao Marine
+√
+Song(2003)[61] ChlamydonelladerouxiSong,2003 √ Qingdao Marine
+Orthotrochiliapiluta(Deroux,1976)Song,2003 Qingdao Marine
+√
+GongandSong(2003)[33] DysteriamagnaGong&Song,2003 √ Qingdao Mariculturewater
+DysteriaproceraKahl,1931 Qingdao Marine
+Dysteriapusilla(Claparède&Lachmann,1859)Kahl, √
+Gongetal.(2003)[35] Qingdao Mariculturewater
+1931
+√
+GongandSong(2004)[34] CoeloperixsleighiGong&Song,2004 Qingdao Mariculturewater
+√
+GongandSong(2004)[62] HartmannulaangustipilosaDeroux&Dragesco,1968 √ Qingdao Mariculturewater
+HartmannuladerouxiGong&Song,2004 Qingdao Mariculturewater
+√
+GongandSong(2004)[63] DysteriaderouxiGong&Song,2004 Qingdao Mariculturewater
+√
+ChlamydodonmnemosyneEhrenberg,1835 √ Qingdao Mariculturewater
+Gongetal.(2005)[64] ChlamydodonobliquusKahl,1931 √ Qingdao Marine
+Chlamydodontriquetrus(Müller,1786)Kahl,1931 Qingdao Mariculturewater
+√
+GongandSong(2006)[65] BrooklynellasinensisGong&Song,2006 Qingdao Mariculturewater
+√
+ChlamydonelladerouxiSong,2003 Qingdao Mariculturewater
+Chlamydonellapseudochilodon(Deroux,1970) √
+Qingdao Mariculturewater
+GongandSong(2006)[66] Petzetal.,1995
+Chlamydonellopsiscalkinsi(Kahl,1928)Blatterer& √
+Qingdao Mariculturewater
+Foissner,1990
+√
+DysteriabrasiliensisFariaetal.,1922 √ Qingdao Marine
+Gongetal.(2007)[67] DysteriacrassipesClaparède&Lachmann,1859 √ Qingdao Mariculturewater
+Dysteriapectinata(Nowlin,1913)Kahl,1931 √ Qingdao Marine
+Dysteriasemilunaris(Gourret&Roeser,1886)Kahl,1931 Qingdao Mariculturewater
+√
+Liuetal.(2008)[68] DysteriasubtropicaQuetal.,2015 √ Qingdao Marine
+PseudochilodonopsismarinaSong,1991 Huizhou Marine
+
+Microorganisms2022,10,1325 5of22
+Table1.Cont.
+Publication SpeciesName(CurrentName) Ciliature Site Habitat
+√
+Shaoetal.(2008)[69] HartmannulasinicaShaoetal.,2008 Qingdao Mariculturewater
+√
+Gongetal.(2008)[70] TrichopodiellafaureiGongetal.,2008 Qingdao Marine
+√
+Fanetal.(2009)[71] ChlamydodonobliquusKahl,1931 √ Huizhou Marine
+DysteriaderouxiGong&Song,2004 Huizhou Marine
+√ Marineand
+AegyriaolivaClaparede&Lachmann,1859 Qingdao
+√ Mariculture
+AgnathodysterialittoralisDeroux,1976 √ Qingdao Mariculturewater
+*Songetal.(2009)[4] †Chilodonellacf.uncinata(Ehrenberg,1838)Strand,1928 √ Qingdao Marine
+MicroxysmaacutumDeroux,1976 √ Qingdao Marine
+Orthotrochiliaagamalievi(Deroux,1976)Song,2003 √ Qingdao Marine
+TrochiliapetraniDragesco,1966 √ Qingdao Marine
+TrochiliasigmoidesDujardin,1841 Qingdao Mariculturewater
+√
+Ningetal.(2009)[56] PseudochilodonopsisquadrivacuolataQuetal.,2015 Gansu Soil
+√
+ChlamydonyxpaucidentatusDeroux,1976 √ Qingdao Mariculturewater
+Chenetal.(2011)[72] DysterialanceolataClaparède&Lachmann,1859 √ Qingdao Mariculturewater
+LynchellanordicaJankowski,1968 Qingdao Mariculturewater
+√
+DysteriaderouxiGong&Song,2004 √ Qingdao Marine
+Panetal.(2011)[73] Dysterialegumen(Dujardin,1841)Kahl,1931 √ Qingdao Marine
+DysteriaproraefronsClark,1865 √ Qingdao Marine
+MirodysteriadecoraDeroux,1976 Qingdao Marine
+√
+Chenetal.(2012)[23] AegyriarostellumChenetal.,2012 √ Shenzhen Brackishwater
+ParacyrtophorontropicumChenetal.,2012 Shenzhen Brackishwater
+√
+Hu(2012)[38] ChilodonellahexastichaKiernik,1909 Luzhou Ectoparasiteoffish
+√
+Aporthotrochiliapulex(Deroux,1976)Panetal.,2012 √ Zhanjiang Marine
+Panetal.(2012)[74] HeterohartmannulafangiPanetal.,2012 √ Zhanjiang Marine
+TrochiliaalveolataPanetal.,2012 √ HongKong Brackishwater
+TrochochilodonflavusDeroux,1976 Qingdao Marine
+√
+ChlamydodoncaudatusPanetal.,2013 √ Guangzhou Brackishwater
+Panetal.(2013)[12] ChlamydodonparamnemosynePanetal.,2013 √ Zhanjiang Mariculturewater
+ChlamydodonsalinusPanetal.,2013 Changyi Mariculturewater
+√
+OrthotrochiliasinicaPanetal.,2013 √ Qingdao Marine
+Panetal.(2013)[75] Trochilioidesrecta(Kahl,1923)Chenetal.2011 √ Qingdao Marine
+Trochilioidestenuis(Deroux,1976)Chenetal.,2011 Qingdao Marine
+√
+Zhaoetal.(2014)[76] CoeloperixsleighiGong&Song,2004 Zhanjiang Marine
+√
+Dengetal.(2015)[37] ChilodonellapiscicolaZacharias,1894 Tibet Ectoparasiteoffish
+√
+PseudochilodonopsisfluviatilisFoissner,1988 √ Yantai Mariculturewater
+Quetal.(2015)[77] PseudochilodonopsismutabilisFoissner,1981 √ Zhanjiang Brackishwater
+PseudochilodonopsisquadrivacuolataQuetal.,2015 Zhuhai Brackishwater
+√
+§Chilodonellaapouncinatanom.nov. √ Qingdao Freshwater
+Quetal.(2015)[59] ChlamydonelladerouxiSong,2003 √ Qingdao Marine
+ChlamydonelladerouxiSong,2003 √ Zhanjiang Brackishwater
+ChlamydonellairregularisQuetal.,2015 Qingdao Mariculturewater
+√
+DysteriabrasiliensisFariaetal.,1922 √ Yantai Mariculturewater
+DysteriabrasiliensisFariaetal.,1922 √ Zhanjiang Brackishwater
+DysteriacrassipesClaparède&Lachmann,1859 √ Dongying Mariculturewater
+Dysteriacristata(Gourret&Roeser,1888)Kahl,1931 √ Zhuhai Brackishwater
+Quetal.(2015)[78] DysteriaderouxiGong&Song,2004 √ Qingdao Marine
+DysterianabiaPark&Min,2014 √ Zhanjiang Brackishwater
+DysteriaparaproceraQuetal.,2015 √ Zhanjiang Brackishwater
+DysteriaproraefronsClark,1865 √ Yantai Mariculturewater
+DysteriasubtropicaQuetal.,2015 Huizhou Marine
+Chlamydonellopsiscalkinsi(Kahl,1928)Blatterer& √
+Shanghai Brackishwater
+Foissner,1990 √
+Panetal.(2016)[24] Dysteriaovalis(Gourret&Roeser,1886)Kahl,1931 √ Zhejiang Marine
+Dysteriasemilunaris(Gourret&Roeser,1888)Kahl,1931 √ Shanghai Brackishwater
+PhascolodonvorticellaStein,1859 Changzhou Freshwater
+
+Microorganisms2022,10,1325 6of22
+Table1.Cont.
+Publication SpeciesName(CurrentName) Ciliature Site Habitat
+√
+AtopochilodondistichumDeroux,1976 √ HongKong Brackishwater
+ChlamydodonrectusOzaki&Yagiu,1941 √ Hangzhou Brackishwater
+CoeloperixsinicaPanetal.,2017 Qingdao Marine
+Panetal.(2017)[79] √ Marine/brackish
+Dysteriacompressa(Gourret&Roeser,1886)Kahl,1931 Zhanjiang
+√ water
+OdontochlamysalpestrisbiciliataFoissneretal.,2002 Guangzhou Brackishwater
+√
+Quetal.(2017)[25] AegyriafoissneriQuetal.,2017 √ Zhanjiang Brackishwater
+LynchellaminutaQuetal.,2017 Zhuhai Brackishwater
+√
+Chenetal.(2018)[80] AegyriaapolivaChenetal.,2018 √ Qingdao Marine
+Trithigmostomacucullulus(Müller,1786)Jankowski,1967 Guangzhou Brackishwater
+√ Wuhan;Dali;
+ChilodonellahexastichaKiernik,1909 Jiangsu;Hanchuan; Ectoparasiteoffish
+Liangshan
+Lietal.(2018)[39]
+√ Wuhan;Dali;
+ChilodonellapiscicolaZacharias,1894 Jiangsu;Hanchuan; Ectoparasiteoffish
+Liangshan
+√
+ChlamydodoncrassidensQuetal.,2018 √ Qingdao Marine
+Quetal.(2018)[13] ChlamydodonoligochaetusQuetal.,2018 √ Qingdao Marine
+ChlamydodonsimilisQuetal.,2018 Shenzhen Brackishwater
+√
+ChlamydodonbourlandiQuetal.,2018 √ Zhanjiang Brackishwater
+Quetal.(2018)[81] Chlamydodontriquetrus(Müller,1786)Kahl,1931 √ Yantai Mariculturewater
+ChlamydodonwilbertiQuetal.,2018 Zhanjiang Brackishwater
+√
+ChlamydodonbourlandiQuetal.,2018 √ Qingdao Marine
+ChlamydodonpararoseusWangetal.,2019 √ Qingdao Marine
+Wangetal.(2019)[26] DysteriacrassipesClaparède&Lachmann,1859 Zhanjiang Brackishwater
+√ Marine/brackish
+Dysteriamonostyla(Ehrenberg,1838)Kahl,1931 Haikou
+water
+√
+Wangetal.(2019)[40] Chilodonellauncinata(Ehrenberg,1838)Strand,1928 √ Hubei Ectoparasiteoffish
+ChilodonellahexastichaKiernik,1909 Hubei Ectoparasiteoffish
+√ Parasiteofbeluga
+KyaroikeusparacetariusJinetal.,2021 Ningbo
+whale
+Jinetal.(2021)[41] √ Parasiteofbeluga
+PlanilaminaovataMaetal.,2006 Ningbo
+whale
+√
+GastronautaparaloisiQuetal.,2021 Shenzhen Freshwater
+Quetal.(2021)[14] √ Shenzhen,Qingdao,
+Trithigmostomacucullulus(Müller,1786)Jankowski,1967 Freshwater
+Zhanjiang
+√
+DysteriabrasiliensisFariaetal.,1922 √ Haikou Brackishwater
+Wangetal.(2021)[82] Dysteriacompressa(Gourret&Roeser,1886)Kahl,1931 √ Haikou Brackishwater
+DysteriaozakiiWangetal.,2021 Qingdao Marine
+√
+DysteriabrasiliensisFariaetal.,1922 √ Ningbo Brackishwater
+Zhaoetal.(2022)[83] DysteriacrassipesClaparède&Lachmann,1859 √ Ningbo Brackishwater
+DysteriaparacrassipesZhaoetal.,2022 Ningbo Brackishwater
+Sum 103species,147populations,39newspecies 82 - -
+
+Microorganisms2022,10,1325 7of22
+Figure2.Timelineandaccumulatednumbersofstudiedcyrtophorianciliates(species)inChina.The
+fourlinesrepresentthenumbersofrecordedspecies,newspecies,specieswithciliatureinformation,
+andtaxonomichits(lowesttaxonomicranktospeciesorgenus)withSSUrDNAsequences.A,B,and
+Crepresentthreestudyperiods:theearlystage(A)1925–1973,theTibetstage(B)1974–2000,andthe
+molecularstage(C)sincethe2000s.
+restofcaption
+2.2. SpeciesListandClassification
+AsofMay2022,atotalof103morpho-species(147isolates)havebeenreportedin
+Chinawhichcanbeassignedto8familiesand31genera(Table1). Amongthem,82species
+with ciliature (mainly from protargol staining) have been reported. Three new genera,
+Aporthotrochilia Pan et al., 2012, Heterohartmannula Pan et al., 2012, and Paracyrtophoron
+Chenetal.,2012,andthirty-ninenewspecieshavebeenerected. Here,welistthegenus
+classifications regarding the species (with reported morphology) found in China. The
+class,subclass,orderandfamilyassignmentsaremainlybasedonLynn[8]andsubsequent
+modifications(seereferencesinTable1). Accordingly,Figures3and4provideanillustrated
+keytoidentifythegeneraexistinginChinaonthebasisofmorphologicalcharacters(mainly
+ciliarypatterns).
+AlistofcyrtophoriangenerarecordedinChinaandtheirsystematicassignments.
+ClassPhyllopharyngeadePuytoracetal.,1974
+SubclassCyrtophoriaFauré-FremietinCorliss,1956
+OrderChlamydodontidaDeroux,1976
+FamilyChilodonellidaeDeroux,1970
+ChilodonellaStrand,1928
+OdontochlamysCertes,1891
+PseudochilodonopsisFoissner,1979
+PhascolodonStein,1859
+TrithigmostomaJankowski,1967
+FamilyChlamydodontidaeStein,1859
+ChlamydodonEhrenberg,1835
+ParacyrtophoronChenetal.,2012
+FamilyGastronautidaeDeroux,1994
+GastronautaEngelmanninBütschli,1889
+
+Microorganisms2022,10,1325 8of22
+FamilyLynchellidaeJankowski,1968
+AtopochilodonKahl,1933
+ChlamydonellaDerouxinPetzetal.,1995
+ChlamydonellopsisBlatterer&Foissner,1990
+CoeloperixDerouxinGong&Song,2004
+LynchellaJankowski,1968
+FamilyPlesiotrichopidaeDeroux,1976
+TrochochilodonDeroux,1976
+Incertaesedis
+LophophorinaPenard,1922
+OrderDysteriidaDeroux,1976
+FamilyDysteriidaeClaparède&Lachmann,1859
+AgnathodysteriaDeroux,1976
+DysteriaHuxley,1857
+MicroxysmaDeroux,1977
+MirodysteriaKahl,1933
+TrochiliaDujardin,1841
+FamilyHartmannulidaePoche,1913
+AegyriaChenetal.,2012
+AporthotrochiliaPanetal.,2012
+BrooklynellaLom&Nigrelli,1970
+ChlamydonyxDeroux,1976
+HartmannulaPoche,1913
+HeterohartmannulaPanetal.,2012
+OrthotrochiliaDerouxinSong,2003
+TrichopodiellaCorliss,1960
+TrochilioidesChenetal.,2011
+FamilyKyaroikeidaeSniezek&Coats,1996
+KyaroikeusSniezek,Coats&Small,1995
+PlanilaminaMaetal.,2006
+Figure3.IllustratedkeyfortheidentificationtocyrtophoriangenerafoundinChina.Alltheillustra-
+tionsareoriginal.Thearrowsandcoloredcirclesindicatedichotomiccharacteristics.Abbreviations:
+CSB—cross-striatedband;TF—terminalfragment.
+
+Microorganisms2022,10,1325 9of22
+Figure4.IllustratedkeyfortheidentificationtocyrtophoriangenerafoundinChina(Figure3contin-
+ued).Alltheillustrationsareoriginal.Thearrowsandcoloredstructuresindicatedichotomiccharac-
+teristics.Abbreviations:NR—nematodesmalrods;PK—postoralkineties;andPr—preoralkinety.
+2.3. CommentsonNewTaxaDescribedfromChina
+Threenewgeneraandthirty-sevennewspecieshavebeenestablishedinChina. We
+carefullyexaminedallthesenewtaxausingthedescriptionsintheoriginalpublications
+andbycheckingthedepositedspecimens,andfoundthattheestablishmentofonegenus
+wasnotnecessary,andthenameofonespecieswasalreadypre-occupied.
+ParacyrtophoronChenetal.,2012,wasestablishedmainlybecauseitdifferedfromits
+closestcongenerCyrtophoronby“thelackofafragmentnearanteriorendsofrightkineties
+andtranspodialfragmentsintheposteriorportionoftheventralsurface”[23]. Here,the
+“fragmentnearanteriorendsofrightkineties”seemstobeastructureonlydescribedin
+Cyrtophoron isagogicum [6], but not in other Cyrtophoron species; thus, it cannot be used
+asapromisinggenericdifference. Additionally,itisnotconvincingthatthetranspodial
+fragmentscanbeconsideredasagenus-leveldiscrepancy,becausethesefragmentsarenot
+necessarilypresentamongthespeciesoftherelatedgenusChlamydodon(e.g.,presentin
+C.pararoseus,butabsentinC.wilberti)[26,81]. Therefore,wedoubtthenecessityandthe
+validationoftheestablishmentofParacyrtophoronfromCyrtophoron.
+Furthermore,wehavesomecommentsonanothergenus,AporthotrochiliaPanetal.,
+2012. It has been stated that the difference between Aporthotrochilia and Orthochilia is
+that the former has fragments on the right, posterior part of the frontoventral kineties
+andahighernumberofterminalfragments[74]. Thisdescriptionis,however,somewhat
+unclear. Inouropinion,theouterrightkinetiesinAporthotrochiliaareinterruptedinthe
+middle,whichleavesanteriorparts(called“severalterminalfragments”bytheoriginal
+authors)andposteriorparts(correspondingtotheposteriorfragments). Thisissupported
+byL,SandTintheoriginalpublication[74],inwhichtheanteriorfragmentsareclearly
+apartoftheouterrightkineties. Thus,Aporthotrochiliahasonlyoneterminalfragment.
+Nevertheless,thisinterruptionoftheouterrightkinetiescouldbeconsideredasasufficient
+genericdifference,andtheestablishmentofthenewgenusishencereasonable.
+AnewspeciesofChilodonella,C.parauncinata,wassuggestedbyQuetal.[59],and
+the separation from its congeners is undoubtable. However, the authors neglected the
+preoccupationofthespeciesname,whichwasalsoanewspeciesestablishedbyWang[54]
+fromMountEverest(nodepositedtypematerial). Thishighlightstheimportanceofan
+extensiveliteraturesearch,especiallyfortaxonomicstudy. C.parauncinataWang,1974,was
+originallypublishedinChinese;weprovidehereinatranslationofthevaguediagnosisof
+thepoorlyknownspecies(nostaininginformation): “Celllength45–48µminvivo;body
+
+Microorganisms2022,10,1325 10of22
+shapeirregularlyoval,beak-shapedprotrusiontoleftinanteriorend;posteriorendmore
+orlessrounded,concaveonrightmargin;fourrightandfourorfiveleftkineties;isolated
+fromsoilontheMountEverest”. Thesetwoisolatescanbeclearlydistinguishedbythe
+numbersofsomatickineties: theforminQuetal.[59]hadfiveright(vs. four)andsixor
+sevenleftkineties(vs. fourorfive). Therefore,ChilodonellaparauncinatasensuQuetal.,
+2015isajuniorprimaryhomonym,anditispermanentlyinvalidaccordingtoarticle57.2
+oftheICZN[84]. Thus,wereplaceChilodonellaparauncinatasensuQuetal.,2015witha
+newname,Chilodonellaapouncinatanom. nov.
+Chilodonellaapouncinatanom. nov.
+Chilodonella parauncinata—Qu et al., J. Eukaryot. Microbiol. 2015, 62, 267–279 (primary
+homonym,nonChilodonellaparauncinataWang,1974).
+ZooBank registration number of present paper. urn:lsid:zoobank.org:pub:CEB2291F-
+08EC-4840-8979-01F28FF6DB83.
+ZooBank registration number of Chilodonella apouncinata nom. nov.
+urn:lsid:zoobank.org:act:5E887B0E-B6DC-462A-9C20-9A1C6721CE44.
+Typespecimen. SeeQuetal.[59](p. 269,Figure3H).
+Typelocality. SeeQuetal.[59](p. 275).
+Depositionoftypematerials. SeeQuetal.[59](p. 275).
+Etymology. The species-group name apouncinata is a composite of the Greek adjective
+apo-(from)andthespecies-groupnameuncinata,indicatingthatthespeciesissimilarto
+Chilodonellauncinata.
+Morphologicaldescriptionandmorphogenesis. SeeQuetal.[59](pp. 269–271).
+Comparisonwithcongeners. SeeQuetal.[59](pp. 272–273).
+3. MolecularPhylogeneticStudies
+Anewperspectiveonthesystematicsofcyrtophoridciliatesemergedattheturnof
+themillenniumwiththeadventofmoleculartechniques. Molecularresearchcorresponds
+to the molecular stage of morphological research (stage C in Figure 2.1). The first two
+SSUrDNA(smallsubunitribosomeDNA)sequencesfromChinaofthespeciesDysteria
+derouxi (AY378112) and Hartmannula derouxi (AY378113) were released in 2003. Shortly
+afterthat,thenumberofspeciesstudiedwithmolecularsequencesincreasedrapidly. By
+May2022,100SSUrDNAsequencesofChineseoriginhadbeendepositedintheGenBank
+databasewithto74taxonomichits(lowesttaxonomicranktospeciesorgenus),ofwhich
+66hadverifiablemorphologicalrecords(Table2). Themolecularsignatures(mainlythe
+SSUrDNA)werethenusedtostudythephylogenyofcyrtophorianciliates. Bythis,Liand
+Song[85]revealedthephylogeneticpositionsofDysteriaderouxiandHartmannuladerouxi,
+themonophylyoffamiliesChilodonellidae,ChlamydodontidaeandDysteriidae,andthe
+clusteringofHartmannulidaewithIsochonaspecies(subclassChonotrichia).Gongetal.[70]
+constructedphylogenetictreesusingSSUrDNAandgroupIintrons. Althoughonlyafew
+representativeswereinvolved,thepossiblecloserelationshipofHartmannulidaeandthe
+subclassChonotrichiawasalsoindicated.
+Table2.NCBI-depositedSSUrDNAsequencesofcyrtophorianciliatesfromChina.Onehundred
+sequencesintotalbelongingtoseventy-fourcyrtophoriantaxonomichits.
+TaxonomicHit Accession(s) TaxonomicHit Accession(s)
+Aegyriaapoliva FJ998028 Dysteriaovalis KX258193
+Aegyriafoissneri KX364493 Dysteriaozakii MW046154
+Aegyriaoliva FJ998029 Dysteriaparacrassipes OL527698
+Agnathodysterialittoralis KC753482 Dysteriaparaprocera KM103263
+Aporthotrochiliapulex HQ605947 Dysteriapectinata FJ870068
+Atopochilodondistichum KT461933 Dysteriaprocera DQ057347
+
+Microorganisms2022,10,1325 11of22
+Table2.Cont.
+TaxonomicHit Accession(s) TaxonomicHit Accession(s)
+Brooklynellasinensis KC753483 Dysteriaproraefrons KM103261
+§Chilodonellaapouncinata KJ509197 *Dysteriasp. FJ868205
+MH342041,
+MH342042,
+Chilodonellahexasticha Dysteriasemilunaris KX258194
+MH342045,
+MH341591
+MH341624,
+Chilodonellapiscicola Dysteriasubtropica KC753494
+MH342043
+MG566059,
+Chlamydodonbourlandi Gastronautaparaloisi MW072507
+MK882887
+Chlamydodoncaudatus JQ904058 Hartmannuladerouxi AY378113
+Chlamydodonmnemosyne FJ998031 Hartmannulasinica EF623827
+HQ605946,
+Chlamydodonobliquus FJ998030 Heterohartmannulafangi
+FJ868204
+Chlamydodonoligochaetus KY496620 Kyaroikeusparacetarius MN830168
+Chlamydodonparamnemosyne JQ904059 Lynchellaminuta KX364494
+Chlamydodonpararoseus MK882886 Lynchellanordica FJ998036
+Chlamydodonrectus KT461932 *Lynchella_sp. FJ998036
+Chlamydodonsalinus JQ904057 Microxysmaacutum FJ870069
+Chlamydodonsimilis KY496621 Mirodysteriadecora JN867020
+KX302700, Odontochlamysalpestris
+Chlamydodontriquetrus KC753484
+MG566058 biciliata
+Chlamydodonwilberti MG566060 Paracyrtophorontropicum FJ998035
+Chlamydonelladerouxi KJ509198 Phascolodonvorticella KX258192
+Chlamydonellairregularis KC753486 *Pithitesvorax FJ870070
+Chlamydonellapseudochilodon FJ998032 Planilaminaovata MN830169
+FJ998033, JN867021,
+Chlamydonellopsiscalkinsi Pseudochilodonopsisfluviatilis
+KC753487 KR611083
+KR611084,
+Coeloperixsinica FJ998034 Pseudochilodonopsismutabilis
+KC753498
+Pseudochilodonopsis
+Coeloperixsleighi KC753489 KR611082
+quadrivacuolata
+*Coeloperixsp. FJ998034 *Pseudochilodonopsissp.1 KC753495
+EU242512
+MW046155,
+Dysteriabrasiliensis *Pseudochilodonopsissp.2 KC753496
+OL527700-
+OL5277004
+KC753491,
+Dysteriacompressa *Pseudochilodonopsissp.3 KC753497
+MW046156
+FJ868206,
+KC753492,
+Dysteriacrassipes KC753493, *Spirodysteriakahli KC753499
+MK882889,
+OL527699
+EU515792,
+Dysteriacristata KC753488 Trichopodiellafaurei KC753500,
+FJ870071
+FJ998037,
+AY378112,
+Dysteriaderouxi Trithigmostomacucullulus MW116158,
+KX302697
+MW116159
+Dysterialanceolata KC753490 Trochiliapetrani JN867016
+Dysteriamonostyla MK882888 Trochilioidesrecta JN867017
+Dysterianabia KM103262 Trochochilodonflavus JN867018
+*Nocorrespondingmorphologicaldata.§ThedepositedspeciesnameinNCBIisChilodonellaparauncinata.
+
+Microorganisms2022,10,1325 12of22
+AllsubsequentworkfollowedthesystematicschemeproposedbyLynn[8]thatcyr-
+tophorianciliatesbelongtothesubclassCyrtophoria,withtwoordersassigned: Chlamy-
+dodontida Deroux, 1976 and Dysteriida Deroux, 1976. Gao et al. [86] comprehensively
+analyzedthephylogenyofcyrtophorianciliatesusingSSUrDNAsequencesfrom7families
+and17genera,andportraitedtheoverallphylogeneticstructureforthefirsttime,which
+then became the template for the following studies: The non-monophyly of the order
+ChlamydodontidaandthemonophylyofDysteriidawereconfirmed;anewfamily,Pithiti-
+daeGaoetal.,2012,wasestablishedbasedonitsspecialphylogeneticpositionandunique
+morphologicalfeature;andthepositionofthefamilyPlesiotrichopidaewasfoundtobe
+uncertain. However,weagreewithLynn[87]thatthesequenceofPlesiotrichopus,thetype
+genusofPlesiotrichopidae,isstillmissing;thus,thecertaintyofthefamilytransferneeds
+furthertestinginthefuture. Followingthat,Chenetal.[88]conductedcomplementary
+analyseswithadditionalSSUrDNAsequences. Thephylogenetictopologywasconsistent
+withthatinGaoetal.[86],butwithfurtherdiscussiononsomenewlysequencedtaxasuch
+asBrooklynella. Basedontheseresults,thepossibleevolutionarypatternofcyrtophorian
+ciliateswasproposed. However,thisevolutionaryroutinewaswithoutsufficientreferences
+from either morphological data or molecular phylogeny. The authors also showed the
+predictionofthesecondarystructuresofthehypervariableregion4(V4)oftheSSUrDNA
+oftherepresentativecyrtophoriangenera. Later,Wangetal.[89]analyzedthephylogeny
+ofclassPhyllopharyngea—includingCyrtophoria—usingtwogenes: themitochondrial
+SSUrDNA(mtSSUrDNA)andthenuclearSSUrDNA.Thephylogeneticresultsweregen-
+erallyconsistentwithpreviousworks. Recently,Panetal.[90]employedhigh-throughput
+sequencing to obtain the genomic and transcriptomic data of seven species, including
+five cyrtophorians. The emphasis of this paper, however, was to solve the uncertain
+phylogeneticpositionofSynhymenia,andwasnotfocusedoncyrtophorianciliates.
+Otherworksinvolvingmolecularphylogeny(SSUrDNA)werecombinedwithmor-
+phologicaldescriptions,servingasacomplementarymethodforspeciesidentification[12–
+14,24–26,37,39,41,59,74,77–81].
+Inthepresentwork,wereconstructacomprehensivephylogenetictreeinferredfrom
+updatedSSUrDNAsequences(Figure5). Sequenceselectionandalignment,andphyloge-
+netictreeconstructionmethodsaredescribedintheSupplementaryMaterials. Thetopol-
+ogyofthepresentphylogenetictreeisconsistentwithpreviousworks(e.g.,[14,41,59,77–
+81,85,88–90]), and similar conclusions can be drawn: (1) The order Clamydodontida
+are monophyletic, while the order Dysteriida are non-monophyletic. (2) The subclass
+Chonotrichia are nested within Dysteriida, on the level of the family Hartmannulidae.
+(3) Kyaroikeidae display as a subfamily of Dysteriidae. (4) Gastronautidae represent a
+transitionalfamilyamongChilodonellidae,Chlamydodontidae,andLynchellidae.
+
+Microorganisms2022,10,1325 13of22
+Figure5. PhylogenetictreeinferredfromSSUrDNAsequences. Thetreeswerereconstructedby
+twoalgorithms:IQTREEandMrBayes.Supportvaluesfromthetwomethodsareprovidedatthe
+branchingpoints(IQTREE/MrBayes).Bolddotsatthebranchingpointsindicatefullsupportfrom
+bothanalyses.“-”indicatesdiscrepancybetweenthetopologiesofIQTREEandtheMrBayestrees.
+Thescalebarrepresentsfivesubstitutionsperhundrednucleotidepositions.
+4. ProposedPhylogeny
+Withsomekeymembersnotyetuncovered,aswellasmissingmolecularrepresenta-
+tives,adetailedevolutionaryrelationship(phylogeny)ofthesubclassCyrtophoriacannot
+bedrawnsatisfactorily. Asmentionedabove,Chenetal.[88]haveattemptedtoillustrate
+theevolutionaryrelationshipsamongtherecognizedcyrtophoriangenera. However,these
+relationshipswerenotstrictlybasedonmorphologicalandmoleculardata. Forexample,
+thesolidseparationofthetwoorders,ChlamydodontidaandDysteriida,werenotsup-
+portedbymolecularphylogeneticanalyses(Figure5),andthepositionsofChlamydodon
+andCyrtophoronattheendoftheLychellidaebranchwereconfusing. Nevertheless,what
+wecaninferisthatthereisanobviousdiscrepancybetweentheconsiderableknowledge
+onthemorphologicaldiversityofcyrtophorianciliatesandtheirphylogenyandevolution.
+
+Microorganisms2022,10,1325 14of22
+It has been emphasized that the morphogenetic data have to be taken into account in
+order to reconstruct evolutionary and phylogenetic relationships in ciliates. However,
+investigationsshowthatthemorphogeneticprocessofcyrtophoriansseemsquiteidentical
+amongallgroups[6,13,14,19,57,59,91,92],thusprovidingonlylimitedinformation. Based
+onthereviewofthemorphological(includingfeeding-andmotility-associatedmorpholog-
+icaltraits)andphylogeneticworksmentionedabove,andtheoneconstructedourselves
+(Figure5),weproposethephylogenyof29generafrom9familiesforwhichmoleculardata
+areavailable(Figure6).
+Figure6.EvolutionarypatternofthesubclassCyrtophoriainferredfromspecieswithbothmorpho-
+logicalandmoleculardata.Allillustrationsareoriginal.
+Theseparationofthetwoorders,ChlamydodontidaandDysteriida,ismainlybased
+ontheformofthecell(dorso-ventrallycompressedintheformerandlaterallycompressed
+inthelatter)andtheposterioradhereorganelles(poditeand/orglanduleabsentinthe
+formerandpresentinthelatter). However,nothinghasbeenmentionedaboutthetrendof
+themorphogenesis-relatedpostoralkineties(seestomatogenesiszone—SZ—inFigure1).
+IntheorderChlamydodontida,thepostoralkinetiesarenotwellseparatedfromeitherthe
+leftorrightkineties(Lynchellidae,Chlamydodontidae,andTrithigmostoma),oraremerged
+astheinnerpartoftheleftkineties(ChilodonellidaeandGastronauta). Despitethehighly
+degeneratedleftkineties,thepostoralkinetiesarestillconnectedwiththeleftkinetiesin
+Hartmannulidae. Then,thepostoralkinetiestendtoseparatefromtheleftkinetiesand
+becomeindependentinDysteriidaeandKyaroikeidae. Weherehypothesizethatthekey
+evolutionary event of cyrtophorian ciliates lies in the separation of the stomatogenesis
+zone(postoralkineties)fromtheleftkineties,namely,theformationofanindependent
+“sexualorganelle”.
+AsshowninFigure5,thephylogeneticpositionsofthefamiliesLynchellidae,Chilodonelli-
+dae,Chlamydodontidae,Hartmannulidae,andDysteriidaeareclear,withstrongsupportfrom
+abundantmorphologicalandmoleculardata[86,88,89].Incontrast,thepositionsofthefamilies
+Pithitidae,Gastronautidae,Plesiotrichopidae,andKyaroikeidaeappearvague,mainlybecauseof
+thelackofmorphologicaland/ormoleculardata.Itshouldbekeptinmindthatoneshouldnot
+overinterpretthetopologyofphylogenetictreesderivedfromlimitedmoleculardata.Pithitidae
+andPlesiotrichopidaecompriseonlyafewmorpho-speciesandonlyonemolecularrepresentative
+each,whichlargelyobscuresphylogeneticstudy.Nevertheless,weagreewithGaoetal.[86]that
+
+Microorganisms2022,10,1325 15of22
+thesetwofamiliesareintermediategroupsbetweentheordersChlamydodontidaandDysteriida,
+mainlyfromtheaspectofmorphologicalcomparison.Similarly,althoughGastronautidaehasonly
+onesequencepositionedwithinthefamilyChilodonellidae,thisfamilyisvalidandrepresentsan
+intermediategroupwithintheorderChlamydodontidabasedonitsuniquecombinationofmor-
+phologicalcharacteristics[14].TheseparationofKyaroikeidae(KyaroikeusandPlanilamina)from
+Dysteriidaeisnotwellsupportedbyeithermorphologicalormoleculardata,andKyaroikeidae
+speciescouldbeseenashighlyspecializedDysteriidaeadaptedtoparasitism[41].Therefore,we
+placeitatthebasalpositionofDysteriidae.
+Severalintermediategeneraarealsorecognized: Trithigmostomabelongstothefamily
+Chilodonellidae,butsharessomecharacteristicswiththeChlamydodontidaefamily,which
+is why it is placed at the basal position within the Chilodonellidae [14]. Brooklynella,
+TrochilioidesandMicroxysmarepresenttransitionalgenerabetweenHartmannulidaeand
+Dysteriidae[86,88]withintellectualmorphologicalcharacteristics[65,72,75,76].
+5. Ecology
+5.1. Sites,Habitats,andDistribution
+Chinaischaracterizedbyavastdiversityofhabitats,includingplateauregions,deserts,
+rainforests,wetlands,rivers,lakes,coastalareas,anddeepsea.Accordingly,itisreasonable
+toassumethatthereshouldalsobeahighdegreeofciliatebiodiversity. However,apart
+fromintheveryearlystage,respectiveinvestigationshavemostlybeencarriedoutalong
+coastalareas(Figure7),whileotherhabitatsareonlysporadicallystudied. Thesampled
+sitescan,therefore,becategorizedintocoastalareasandinlandareas. Coastalareascan
+furtherbeclassifiedintothreeparts: (1)Thenorthernpart(thecoastsoftheBohaiSeaand
+theYellowSea)islocatedinatemperatezone. SamplingsitesincludeQingdao,Yantai,
+Changyi, and Dongying. (2) The eastern part (the estuary of Yangtze River) includes
+Shanghai,Ningbo,andHangzhou. (3)Thesouthernpart(thecoastsoftheSouthernChina
+SeaandtheestuaryofthePearlRiver)includesXiamen,Huizhou,HongKong,Shenzhen,
+Guangzhou, Zhuhai, Zhanjiang, and Haikou. The inland areas cover the Tibet Plateau
+(including Mount Everest), Gansu province, and cities along the Yangtze River and its
+tributary(Dali,Liangshan,Luzhou,Hanchuan,Wuhan,Nanjing,andChangzhou).
+The investigated areas covered five habitat types or lifestyles (Figure 7), namely,
+marine,brackishwater,freshwater,soil,andparasitism. Studiesonthenortherncoastal
+areasfocusedmainlyonmarinehabitats(coastalwaters,indoororopenseamariculture
+waters), whilestudiesontheeasternandsoutherncoastsweremainlyconductedfrom
+brackishwaters. FreshwaterhabitatsweremainlyinvestigatedalongtheYangtzeRiverand
+itstributary,andontheTibetanPlateau. Mostevidenceofcyrtophorianparasiticlifestyles
+also comes from these areas. Soil cyrtophorians were mainly isolated from Gansu and
+MountEverest.
+Manystudiesonpelagicandsoilhabitatsindicatethatthedispersalanddistribution
+ofciliatesfollowthemoderateendemicitymodel(e.g.,[93]). Apparently,thisalsoholds
+trueforcyrtophorianciliates. Currently,morethanonethirdofcyrtophoriansdiscovered
+inChinaarenewandpossiblyendemic,whiletherestcanbefoundinothercountriesor
+onothercontinentsaswell. Theonlyattempttoanalyzethebiogeographicdistribution
+patternsofcyrtophorianciliateswasbrieflyconductedonawell-studiedgenus: Chlamy-
+dodon[13]. Thisworksummarizedthehistoricalstudiesonthemorphologyofthisgenus
+worldwide,showedtheglobaldistributionofChlamydodonspecies,andindicatedpossi-
+blecosmopolitanandendemicspecies. However,asstatedbytheauthors,theanalyses
+wereverylimited,mainlybecauseofthescatteredstudiesonthisgenus. Thislimitalso
+applies to the studies on cyrtophorian ciliates in China. For instance, a cosmopolitan
+species,Chlamydodonmnemosyne,hasonlybeenformallyreportedonceinapublication
+fromChina[64],butsampledandrecordedinmaster’sandPhDthesesseveraltimes(by
+personalcommunication). Thisissuepreventsathoroughdiversitystudyandalsohinders
+intra-andinterspecificcomparisonsforbothmorphologicalandmolecularaspects. There-
+
+Microorganisms2022,10,1325 16of22
+fore,inordertoobtainmoredetaileddata(atpopulationlevel)withahighergeographical
+resolution,extensivesamplingmustbecarriedoutindifferenthabitatsatalargerscale.
+Figure7.Samplingsitesandhabitatcategories(orlifestyles)ofstudiedcyrtophorianciliatepopula-
+tionsfromChina. Thedotsrepresentstudysites,andthesizesofthedotsindicatethenumberof
+populationsstudied.Colorsrepresentdifferenthabitattypesorlifestyles.
+5.2. Lifestyles
+Mostcyrtophorianspeciesdisplayafree-livingperiphytonlife,andcanthusbeeasily
+sampledbygentlyscratchingthesubstrateorenrichmentwithartificialsubstratessuchas
+glassslides[35,67]. Somespeciesarefoundmainlyinaquaculturewaterbodies,especially
+mariculturewaters[33–35]suchasDysteriacrassipes[67,79].Afewspeciesexhibitaparasitic
+lifestyle. Chilodonellauncinata[40],C.piscicola[37,39],andC.hexasticha[38–40]havebeen
+reportedtobeopportunisticorobligateparasitesongillsandtheskinoffreshwaterfish.
+Furthermore,twomammalparasites,KyaroikeusparacetariusandPlanilaminaovata,were
+isolatedfromthemucusofanunhealthycaptivebeluga[41].
+5.3. FoodSourceandFeedingTypes
+Cyrtophorianciliatesmainlyfeedonbacteria(includingcyanobacteria)and/oreu-
+karyoticmicroalgae,andtheyareobligatebacterivores,algivores,oromnivores[12–14].
+This could be inferred by a direct check of food vacuoles or cultivation attempts using
+grain-enrichedbacteria. Someofthisinformationcanbeusedforspeciesidentification.
+Forinstance,Pseudochilodonopsisalgivoraisfilledwithalgaeinclusions,whichisapromis-
+ingcharactertoquicklyidentifythisspecies[16]. SomespeciessuchasAegyriaoliva,A.
+paroliva, Chlamydodon bourlandi, C. obliquus, and Paracyrtophoron tropicum have unusual
+violet digested inclusions that can be used to aid species identification [4,23,26,82]. We
+have tried to summarize food inclusions by checking descriptions, photomicrographs,
+and cultivation attempts in the literature. A large part of cyrtophorian ciliates feed
+on microalgae (e.g., Chlamydodon, Hartmannula, Pseudochilonopsis, and Trithigmostoma).
+This can be best explained by their strong pharyngeal basket which is adapted to un-
+dertakemicroalgaefood. Small,sphericalalgaearemostlyobservedasfoodinclusions
+(e.g., [12,16,55,59]). Large diatoms are also commonly found, and most of them belong
+toNaviculaceae(e.g.,[14,24,80,81]), whileCyclotellaiscasuallyidentified[24]. Thusfar,
+filamentouscyanobacteriahaveonlybeenreportedinChlamydodonmnemosyne[64]and
+
+Microorganisms2022,10,1325 17of22
+a Chilodonella species [59]. Bacterivorous species are also common, especially for those
+speciesfoundintheaquaculturewaters(Chilodonellaspp. andDysteriaspp.). Thesespecies
+can be cultivated by the enrichment of bacteria by adding rice or wheat grains. A few
+species(Pseudochilodonopsismarina,Dysteriabrasiliensis,andGastronautaparaloisi)havebeen
+reportedtofeedonbothbacteriaandsmall,sphericalalgae,andthusarepossiblyomniv-
+orous[14,55,67,68,77]. Nopredationhasbeenfoundincyrtophorianciliates. Although
+Aegyria oliva has been reported once to contain small scuticociliates and Aspidisca in its
+inclusions[4],thiswaslikelytheresultofnon-selectivefeeding,andnopredatorybehavior
+wasconfirmed.
+5.4. Abundance
+Cyrtophorianciliateshaverelativelylowabundanceinnaturalhabitatscomparedto
+otherciliates,butsomespecies(bacterivoresoromnivores)arefoundtobequiteabundant
+inaquacultureorsaprobicenvironments,suchasDysteriaspp.[26,67,77]andGastronauta
+paraloisi[14]. Althoughsomediatomconsumers,suchasTrithigmostoma,maybedominant
+whenfooddiatoms areenriched[14,81], thepopulationdensityof obligatealgivoresis
+usuallylow.
+5.5. Others
+Afewstudieshavereportedthatdysteriidspecies(mainlyDysteria)havepossible
+ectosymbioticbacteria(mostlikelybacterialepibionts)oncellsurface,e.g.,Aegyriafoiss-
+neri[25],Dysteriabrasiliensis[67],D.compressa[80],D.crassipes[26,67,79],D.lanceolata[72],
+D.monostyla[26],D.paraprocera[79],andD.subtropica[68,79]. Theoccurrenceandthetype
+ofthesebacteriaseemtobeenvironment-induced[67,77]. However,theexactfunctionof
+thesebacteriaisyetunknown.
+6. Prospects
+Withalmostacenturyofresearchhistory,studiesonthetaxonomy,phylogeny,and
+ecologyofcyrtophorianciliatesinChinahaveaccumulatedsubstantialresults. Inaddition
+tothis,weofferanoutlookonthefutureresearchofthisgroupofciliates.
+1. DespitetheconsiderablenumberofstudiespublishedinChina,asdescribedabove,it
+isclearthattherearestillmanyunknownspeciesthatpreventamoredetailedand
+cohesive systematic scheme of Cyrtophoria. Thus, more investigations into fauna
+need to be conducted on a large regional scale with different habitats. In contrast
+tomassiveinvestigationsfrommarineandbrackishwaterhabitats,samplingfrom
+freshwaterandsoilaswellasextremeenvironmentssuchashypersalinelakes(mostly
+ontheTibetanPlateau,westernChina)andcoldregions(northernChina)areurgently
+needed;
+2. Thedefactostandardforthetaxonomicstudyofciliatescombiningmorphology(live
+observationandsilverstaining)andmolecularphylogeny[94]hasbeenwellpracticed
+forCyrtophoriaoverthelastdecade. Ashigh-throughputsequencingbecomescost-
+efficientandmoreeffectivebioinformatictoolsaredeveloped, itispossibletouse
+thesetechniquestoperformphylogenomicreconstruction,asindicatedby[91]. Thus,
+inthenearfuture,genomic/transcriptomicdatashouldalsobeincludedintaxonomy
+orphylogeneticstudyroutinestoachievehigherphylogeneticresolution;
+3. Similarlytootherciliategroups,speciesseparation/circumscriptionisstillamajor
+problemforthetaxonomyofcyrtophorianciliates.Differentgeographicalpopulations
+ofthesamespeciesshouldberecorded,describedandcomparedontheaspectsof
+morphologyanddifferentmarkergenes;
+4. Attention should be paid to the ectosymbiotic bacteria (or bacterial epibionts) on
+the cell surface of Dysteria, with emphasis on trophic function as well as possible
+phylogeneticsignalstotheirhosts;
+5. Detailedecologicalroles(niches)ofcyrtophorianciliatesshouldbeelucidated. This
+couldbeperformedbyannualorseasonalsampling,cultivationexperiments,and
+
+Microorganisms2022,10,1325 18of22
+checkingfoodvacuolesorfluorescenceinsituhybridization(FISH)todetectspecies
+occurrence,foodinclusion,andtrophicrelationships(autecology).
+Supplementary Materials: The following supporting information can be downloaded at: https:
+//www.mdpi.com/article/10.3390/microorganisms10071325/s1. Descriptionofthemethodsof
+sequenceselection,sequencealignment,andphylogenetictreeconstruction.References[87,95–99]
+arecitedintheSupplementaryMaterials.
+AuthorContributions:Conceptualization,Z.Q.andX.H.;literaturecollection,Z.Q.andH.P.;formal
+analysis, Z.Q.; visualization, Z.Q.andC.W.; writing—originaldraftpreparation, Z.Q.; writing—
+reviewandediting,Z.Q.,X.H.,H.P.,J.G.andS.F.;fundingacquisition,Z.Q.,H.P.andX.H.Allauthors
+havereadandagreedtothepublishedversionofthemanuscript.
+Funding: This work was funded by the National Natural Science Foundation of China (project
+numbers: 32100394, 32170533, and 41976086) and the fellowship of China Postdoctoral Science
+Foundation(2021M691887).
+InstitutionalReviewBoardStatement:Notapplicable.
+InformedConsentStatement:Notapplicable.
+Data Availability Statement: SSU rDNA were obtained from the NCBI database, the accession
+numbersareshowninFigure5.
+Acknowledgments:ManythanksareduetoWeiboSong,OceanUniversityofChina,fortheconstruc-
+tivecommentsthatledtoimprovementoftheimagequality.Wewouldliketothanktheanonymous
+reviewersfortheirconstructivecomments,whichhelpedtoimprovethemanuscript.
+ConflictsofInterest:Theauthorsdeclarenoconflictofinterest.
+Glossary
+Generalterminologyregardingtothemorphologicalstructuresofcyrtophorianciliates.
+Tubularbandwithstripesalongthecellperipherybetweenventralanddorsalsides.
+Cross-striatedband(CSB): Itcanbecomplete,interruptedorhighlyshortened.Thefunctionislikelytoreinforce
+thecell.CommoninthegeneraChlamydodonandCoeloperix.
+Insomeciliates(includingCyrtophoria),thepharyngealishighlyspecializedwith
+Cyrtos(pharyngealbasket):
+supportingfibersandabunchofmicrotubes,formingacomplexstructure.
+Ashortfragmentontheequatorialpositionoftherightmarginofthecell,seldom
+Equatorialfragment(EF): anotheroneontheleftmargin(e.g.,Chlamydonella).Thisstructureissometimes
+difficulttodetect.Nociliagenerated.
+Atubularsecretioncavityattheposteriorpartofthecell.Thesecretionofthemucus
+Glandule(G):
+orthreadcanadherethecelltothesubstrate.CommoninthesuborderDysteriida.
+Incyrtophorianciliates,thecontentsofthemacronucleusarenoteven,andusually
+twoclearlyseparatedpartscanbeobserved;itiscalledheteromeric.Twoformsof
+Heteromericmacronucleus:
+heteromericmacronucleusareclassified,centrallyheteromeric(familiesChilodonellidae
+andGastronautidae)andparallellyheteromeric(otherfamilies).
+Anindividualrodconsistsofabunchofmicrotubes.Severaltomanyrodsaround
+Nematodesmal(pharyngeal)rods(NR): thecytostome,supportingthecytopharyngealbasket.Thenumberofrodsisarelatively
+stablefeature,whichisoftenusedforspeciesseparation.
+Shortkinetalfragmentsaroundthecytostome,usuallytwoorseveralcircumoralkineties
+Oralkineties(OK): infrontofcytostome,andonepreoralkinetyontheanteriorleft.Thosekinetiesareusually
+composedofdikinetids.
+Acone-shapedorganelleonventralside,attheposteriorpartofthecell.Ahollow,tubular
+Podite(P): secretioncavitycanbeoftenobserved.Thefunctionistoanchorthecelltothesubstrate,or
+toassisttheciliatetocrawlonthesubstrate.CommoninthesuborderDysteriida.
+
+Microorganisms2022,10,1325 19of22
+Accordingtothepositiontothecytostome,thesomatickinetiesaredividedintothree
+parts:rightkineties(RF),postoralkineties(PK),andleftkineties(LK).Thepostoral
+kinetiesareresponsiblefortheformationofanlagenduringthemorphogenesis,but
+Somatickineties(SK):
+sometimesarenotobvious,thusareregardedaspartofleftkinetiesinmanytaxa,e.g.,
+Chilodonella,Dysteria.ForspeciesinDysteriidae,theleftkinetiesareoftenreferred
+asleftfrontalkineties.
+Theareatoformoralanlagenduringthestomatogenesis.Forcyrtophorianciliates,
+Stomatogeneticzone(SZ):
+thiszoneislocatedattheequatorofpostoralkineties.
+Finger-liketentaclesontheventralside.Thefunctionistoadherethecelltothesubstrate.
+Tentacle(s):
+ThesetentaclescanbefoundinspeciesinLynchellidae.
+Onetoseveralshortkinetalfragmentsneartheanteriorpartofrightkinetiesinanteriorend
+Terminalfragment(TF):
+ofthecell;ondorsalsideoranteriormarginofventralside.Cilialongandrigid.
+Insomespecies,thekinetidsintheposteriorendofrightkinetiesaredenselyarranged,
+Transpodialsegment(TS):
+whichassistscelladhesiontosubstrate.
+References
+1. Hu,X.Z.;Lin,X.F.;Song,W.B.CiliateAtlas:SpeciesFoundintheSouthChinaSea;SciencePress:Beijing,China,2019;pp.142–222.
+[CrossRef]
+2. Hu,X.Z.;Zhao,Y.;Huang,J.;Gao,F.;Gao,S.;Shao,C.;Song,W.B.CiliatologystudiesbyOUCgroup:Currentachievementsand
+futureperspectives.Period.Ocean.Univ.China2019,49,28–42.[CrossRef]
+3. Liu, W.W.; Jiang, J.M.; Xu, Y.; Pan, X.M.; Qu, Z.S.; Luo, X.T.; El-Serehy, A.H.; Warren, A.; Ma, H.G.; Pan, H.B.Diversityof
+free-livingmarineciliates(Alveolata,Ciliophora):FaunalstudiesincoastalwatersofChinaduringtheyears2011–2016.Eur.J.
+Protistol.2017,61,424–438.[CrossRef][PubMed]
+4. Song, W.B.; Warren, A.; Hu, X.Z. Free-Living Ciliates in the Bohai and Yellow Seas, China; Science Press: Beijing, China, 2009;
+pp.49–94.
+5. Wang,Z.;Chi,Y.;Li,T.;Song,W.Y.;Wang,Y.F.;Wu,T.;Zhang,G.A.T.;Liu,Y.J.;Ma,H.G.;Song,W.B.;etal.Preliminaryfindingsof
+aninvestigationonthebiodiversityoffreshwaterciliates(Protista,Ciliophora)intheLakeWeishanWetland,China.Mar.LifeSci.
+Technol.2020,inpress.
+6. Deroux,G.LesdispositifsadhésifesciliaireschezlesCyrtophoridaetlafamilledesHypocomidae.Protistologica1974,10,379–396.
+7. Corliss,J.O.TheCiliatedProtozoa:Characterization,Classification,andGuidetotheLiterature,2nded.;PergamonPress:London,UK;
+NewYork,NY,USA,1979;pp.227–230.[CrossRef]
+8. Lynn, D.H. The Ciliated Protozoa. Characterization, Classification, and Guide to the Literature, 3rd ed.; Springer: Dordrecht,
+TheNetherlands,2008.[CrossRef]
+9. Gong,J.;Song,W.B.Introductiontomarinecyrtophoridciliates(Protozoa,Ciliophora).ActaZootaxon.Sin.2009,34,949–953.
+10. Jankowski,A.W.Morphology,phylogenyandpositioninthesystemofLynchellaKahl,1933(Ciliophora).Hydrobiol.J.1968,4,
+9–15.
+11. Foissner,W.;Blatterer,H.;Berger,H.;Kohmann,F.TaxonomischeundÖkologischeRevisionderCiliatendesSaprobiensystems.BandI:
+Cyrtophorida,Oligotrichida,Hypotrichia,Colpodea;InformationsberichtedesBayer;LandesamtesfürWasserwirtschaft:Bavaria,
+Germany,1991;pp.1–478.
+12. Pan,H.B.;Li,L.F.;Al-Rasheid,K.A.S.;Song,W.B.Morphologicalandmoleculardescriptionofthreenewspeciesofthecyrtophorid
+genusChlamydodon(Ciliophora,Cyrtophoria).J.Eukaryot.Microbiol.2013,60,2–12.[CrossRef]
+13. Qu,Z.S.;Li,L.F.;Lin,X.F.;Stoeck,T.;Pan,H.B.;Al-Rasheid,K.A.S.;Song,W.B.DiversityofthecyrtophoridgenusChlamydodon
+(Protista,Ciliophora):Itssystematicsandgeographicdistribution,withtaxonomicdescriptionsofthreespecies.Syst.Biodivers.
+2018,16,497–511.[CrossRef]
+14. Qu,Z.S.;Pan,H.B.;Wang,C.C.;Ma,H.G.;Steock,T.;Hu,X.Z.GastronautidaeDeroux,1994andTrithigmostomaJankowski,1967:
+Evolutionarylinksamongcyrtophorianciliates(Protista,Ciliophora,andPhyllopharyngea). Front. Mar. Sci. 2021,8,625644.
+[CrossRef]
+15. Blatterer,H.;Foissner,W.BeiträgezurCiliatenfauna(Protozoa:Ciliophora)derAmper(Bayern,BundesrepublikDeutschland).
+Arch.Protistenkd.1990,138,93–115.[CrossRef]
+16. Shen,Y.F.ProtozoaoftheTibetanPlateau.InAquaticInvertebratesoftheTibetanPlateau;Jiang,X.Z.,Shen,Y.F.,Gong,X.J.,Eds.;
+SciencePress:Beijing,China,1983;pp.145–152,318–321.
+17. Kahl,A.UrtiereoderProtozoaI:WimpertiereoderCiliata(Infusoria)2.Tierwelt.Dtl.1931,21,181–398.
+18. Deroux,G.Originedescinétiesantérieures,gauchesetbuccalesdanslegenreDysteriaHuxley.Compt.Rend.Acad.Sci.Paris1965,
+260,6689–6691.
+19. Deroux,G.Lasérie“chlamydonellienne”chezlesChlamydodontidae(holotriches,CyrtophorinaFauré-Fremiet).Protistologica
+1970,6,155–182.
+20. Deroux,G.LeplancorticaldesCyrtophoridaunitéd’expressionetmargesdevariabilité.I.LecasdesPlesiotrichopidae,fam.
+nov.,danslanouvellesystématique.Protistologica1976,12,469–481.
+
+Microorganisms2022,10,1325 20of22
+21. Deroux,G.LeplancorticaldesCyrtophoridaunitéd’expressionetmargesdevariabilité. II.Cyrtophoridaathigmotactisme
+ventralgénéralise.Protistologica1976,12,483–500.
+22. Deroux,G.LeplancorticaldesCyrtophorida. III.LesstructuresdifférenciatriceschezlesDysteriina. Protistologica1976,12,
+505–538.
+23. Chen,X.R.;Hu,X.Z.;Gong,J.;Al-Rasheid,K.A.S.;Al-Farraj,S.A.Morphologyandinfraciliatureoftwonewmarineciliates,
+Paracyrtophorontropicumnov.gen.,nov.spec.andAegyriarostellumnov.spec.(Ciliophora,Cyrtophorida),isolatedfromtropical
+watersinsouthernChina.Eur.J.Protistol.2012,48,63–72.[CrossRef]
+24. Pan,H.B.;Wang,L.Q.;Jiang,J.M.;Stoeck,T.Morphologyoffourcyrtophorianciliates(Protozoa,Ciliophora)fromYangtzeDelta,
+China,withnotesonthephylogenyofthegenusPhascolodon.Eur.J.Protistol.2016,56,134–146.[CrossRef]
+25. Qu,Z.S.;Ma,H.G.;Al-Farraj,S.A.;Lin,X.F.;Hu,X.Z.MorphologyandmolecularphylogenyofAegyriafoissnerisp. n. and
+Lynchellaminutasp. n. (Ciliophora,Cyrtophoria)frombrackishwatersofsouthernChina. Eur. J.Protistol. 2017,57,50–60.
+[CrossRef]
+26. Wang,C.C.;Qu,Z.S.;Hu,X.Z.MorphologyandSSUrDNAsequencesoffourcyrtophorianciliatesfromChina,withdescription
+ofanewspecies(Protista,Ciliophora,Phyllopharyngea).Zootaxa2019,4664,206–220.[CrossRef]
+27. Petz,W.;Song,W.B.;Wilbert,N.Taxonomyandecologyoftheciliatefauna(Protozoa,Ciliophora)intheendopagialandpelagial
+oftheWeddellSea,Antarctica.Stapfia1995,40,1–223.
+28. Xu,Y.;Shao,C.;Fan,X.P.;Warren,A.;Al-Rasheid,K.A.S.;Song,W.B.;Wilbert,N.Newcontributionstothebiodiversityofciliates
+(Protozoa,Ciliophora)fromAntarctica,includingadescriptionofGastronautamultistriatan.sp.PolarBiol.2016,39,1439–1453.
+[CrossRef]
+29. Berger,H.;Foissner,W.BiologischeMethodenderGewässeranalysen:CiliatenIII-2.1.Illustratedguideandecologicalnotesto
+ciliateindicatorspecies(Protozoa,Ciliophora)inrunningwaters,lakes,andsewageplants.InHandbuchAngewandteLimnologie
+17;Steinberg,C.,Calmano,S.,Wilken,K.,Eds.;EcomedVerlag:Hamburg,Germany,2003;pp.1–160.
+30. Curds, C.R.Theecologyandroleofprotozoainaerobicsewagetreatmentprocesses. Ann. Rev. Microbiol. 1982, 36, 27–46.
+[CrossRef][PubMed]
+31. DaSilva,S.B.A.;daSilva-Neto,I.D.Morfologiadospro-tozoáriosciliadospresentesemumreatorexperimentaldetratamentode
+esgotoporprocessodelodosativados.Rev.Bras.ZoociênciasJuizFora2001,3,203–229.
+32. Foissner,W.Protistsasbioindicatorsinactivatedsludge:Identification,ecologyandfutureneeds.Eur.J.Protistol.2016,55,75–94.
+[CrossRef]
+33. Gong,J.;Song,W.B.Morphologyandinfraciliatureoftwomarinebenthicciliates,DysteriaproceraKahl,1931andDysteriamagna
+nov.spec.(Protozoa,Ciliophora,Cyrtophorida),fromChina.Eur.J.Protistol.2003,39,301–310.[CrossRef]
+34. Gong,J.;Song,W.B.Descriptionofanewmarinecyrtophoridciliate,Dysteriaderouxinov. spec.,withanupdatedkeyto12
+well-investigatedDysteriaspecies(Ciliophora,Cyrtophorida).Eur.J.Protistol.2004,40,13–19.[CrossRef]
+35. Gong,J.;Lin,X.F.;Song,W.B.Redescriptionofapoorly-knownmarinecyrtophoridciliate,Dysteriapusilla(ClaparèdeetLachmann,
+1859)(Protozoa:Ciliophora:Cyrtophorida)fromQingdao,China.ActaProtozool.2003,42,215–221.
+36. BastosGomes,G.;Jerry,D.R.;Miller,T.L.;Hutson,K.S.CurrentstatusofparasiticciliatesChilodonellaspp.(Phyllopharyngea:
+Chilodonellidae)infreshwaterfishaquaculture.J.FishDis.2017,40,703–715.[CrossRef][PubMed]
+37. Deng,Q.;Guo,Q.X.;Zhai,Y.H.;Wang,Z.;Gu,Z.M.FirstrecordofChilodonellapiscicola(Ciliophora:Chilodonellidae)fromtwo
+endangeredfishes,Schizothoraxo’connoriandOxygymnocyprisstewartiiinTibet.Parasitol.Res.2015,114,3097–3103.[CrossRef]
+[PubMed]
+38. Hu,Y.H.Ciliateectoparasites(Ciliophora:Trichodinidae/Chilodonellidae)ongillsofCarassiusauratusfromtheYangtzeRiver,
+China,withthedescriptionofTrichodinaluzhouessp.n.Parasitol.Res.2012,111,433–439.[CrossRef]
+39. Li,M.;Wang,R.Q.;BastosGomes,G.;Zou,H.;Li,W.X.;Wu,S.G.;Wang,G.T.;Ponce-Gordo,F.Epidemiologyandidentificationof
+twospeciesofChilodonellaaffectingfarmedfishesinChina.Vet.Parasitol.2018,264,8–17.[CrossRef]
+40. Wang,Z.;Zhou,T.;Yang,H.;Gu,Z.M.Firstdiagnosisofectoparasiticciliates(TrichodinaandChilodonella)onfarmedjuvenile
+yellowcatfish,TachysurusfulvidracoinChina.Aquac.Res.2019,50,3275–3285.[CrossRef]
+41. Jin,D.D.;Qu,Z.S.;Wei,B.J.;Montagnes,D.J.S.;Fan,X.P.;Chen,X.R.Twoparasiticciliates(Protozoa:Ciliophora:Phyllopharyngea)
+isolatedfromrespiratory-mucusofanunhealthybelugawhale:Characterization,phylogenyandanassessmentofmorphological
+adaptations.Zool.J.Linn.Soc.2021,191,941–960.[CrossRef]
+42. Ma,H.W.;Overstreet,R.M.;Sniezek,J.H.;Solangi,M.;Coats,D.W.Twonewspeciesofsymbioticciliatesfromtherespiratory
+tractofcetaceanswithestablishmentofthenewgenusPlanilaminan.gen.(Dysteriida,Kyaroikeidae).J.Eukaryot.Microbiol.2006,
+53,407–419.[CrossRef]
+43. Sniezek,J.H.;Coats,D.W.;Small,E.B.Kyaroikeuscetariusn.g.,n.sp.:Aparasiticciliatefromtherespiratorytractofodonticete
+Cetacea.J.Eukaryot.Microbiol.1995,42,260–268.[CrossRef]
+44. Song,W.B.;Zhao,Y.J.;Xu,K.D.;Hu,X.Z.;Gong,J.PathogenicProtozoainMariculture;SciencePress:Beijing,China,2003;pp.84–88,
+153–158.
+45. Müller,O.F.AnimalculaInfusoriaFluviatilaetMarina;TypisNicolaiMölleri:Hauniae,Denmark,1786.
+46. Klein,B.M.ÜbereineneueEigentümlichkeitderPelliculavonChilodonuncinatusEhrbg.Zool.Anz.1926,67,160–162.
+47. Claparède,E.;Lachmann,J.Étudessurlesinfusoiresetlesrhizopodes.Mém.Inst.Natn.Genèvois1859,6,261–482.
+
+Microorganisms2022,10,1325 21of22
+48. Dujardin,M.F.HistoireNaturelledesZoophytes.Infusoires,ComprenantlaPhysiologieetlaClassificationdecesAnimaux,etlaManiérede
+lesÉtudieraL’aideduMicroscope;LibrairieEncyclopédiquedeRoret:Paris,France,1841.
+49. Penard,E.ÉtudesSurLesInfusoiresD’eauDouce;Georg&Cie:Genève,Switzerland,1922;pp.90–103.
+50. Snoeyenbos-West,O.;Cole,J.;Campbell,A.;Coats,D.W.;Katz,L.A.Molecularphylogenyofphyllopharyngeanciliatesandtheir
+groupIintrons.J.Eukaryot.Microbiol.2004,51,441–450.[CrossRef]
+51. Wang,C.C.StudyoftheprotozoaofNanking.Cont.Biol.Lab.Sci.Soc.China1925,1,1–60.
+52. Wang,C.C.NotesonthemarineinfusoriaofAmoy.Rep.Mar.Biol.Assoc.China1934,3,50–70.
+53. Nie,D.S.;Ho,Y.Notesonsomeepizoicinfusoriafromthefreshwatershrimp,Palaemonnipponensis.Sinensia1943,14,143–149.
+54. Wang,C.C.ProtozoaintheMountEverestRegion.InScientificInvestigationReportonMountEverestRegion(BiologyandAlpine
+Physiology);TibetScientificExpeditionTeam,ChineseAcademyofSciences,Ed.;SciencePress:Beijing,China,1974;pp.145–172.
+55. Song,W.B.MorphologieundInfraciliaturvonPseudochilodonopsismarinanov. spec. (Protozoa,Ciliophora),einemmarinen
+CiliatenausQingdao(VRChina).Zool.Jahr.Systemat.1991,118,79–86.
+56. Ning,Y.Z.;Liu,H.C.;Liu,N.;Sun,H.F.;Zhang,C.;Du,H.F.;Wang,H.J.;Ma,Z.X.Onenewspeciesandfivenewrecordsofsoil
+ciliates(Protozoa,Ciliophora)inChina.ActaZootaxon.Sin.2009,34,699–708.
+57. Song,W.B.StomatogenesisandcellontogenyinChilodonellauncinataEhrenberg,1838(Protozoa,Ciliophora).ActaZool.Sin.1997,
+43,90–95.
+58. Song,W.B.;Packroff,G.TaxonomischeUntersuchungenanmarinenCiliatenausChinamitBeschreibungenvonzweineuen
+Arten,Strombidiumglobosaneumnov.spec.undS.platumnov.spec.(Protozoa,Ciliophora).Arch.Protistenkd.1997,147,331–360.
+[CrossRef]
+59. Qu,Z.S.;Pan,H.B.;Hu,X.Z.;Li,J.Q.;Al-Farraj,S.A.;Al-Rasheid,K.A.S.;Yi,Z.Z.Morphologyandmolecularphylogenyof
+threecyrtophoridciliates(Protozoa,Ciliophora)fromChina,includingtwonewspecies,Chilodonellaparauncinatasp. n. and
+Chlamydonellairregularissp.n.J.Eukaryot.Microbiol.2015,62,267–279.[CrossRef]
+60. Gong,J.;Song,W.B.;Warren,A.Redescriptionsoftwomarinecyrtophoridciliates,Dysteriacristata(GourretandRoeser,1888)
+andDysteriamonostyla(Ehrenberg,1838)Kahl,1931(Protozoa,Ciliophora,Cyrtophorida),fromChina.Eur.J.Protistol.2002,38,
+213–222.[CrossRef]
+61. Song,W.B.TwomarinecyrtophoridciliatesfromChina,Chlamydonelladerouxinov.spec.andOrthotrochiliapilula(Deroux,1976)
+nov.comb.,withreestablishmentofthegenusOrthotrochilianov.gen.(Protozoa,Ciliophora,Cyrtophorida).Hydrobiologia2003,
+499,169–177.[CrossRef]
+62. Gong,J.;Song,W.B.MorphologyandinfraciliatureoftwomarinespeciesofHartmannula(Protozoa,Ciliophora,Cyrtophorida),
+fromscallop-farmingwatersoffQingdao(Tsingtao),China.J.Nat.Hist.2004,38,1327–1337.[CrossRef]
+63. Gong,J.;Song,W.B.Re-establishmentofthecyrtophoridgenusCoeloperixDeroux,nov. gen.,withadescriptionofCoeloperix
+sleighinov.spec.(Protozoa,Ciliophora,Cyrtophorida).Eur.J.Protistol.2004,40,175–181.[CrossRef]
+64. Gong,J.;Song,W.B.;Warren,A.UpdatingtheciliategenusChlamydodonEhrenberg,1835,withredescriptionsofthreespecies
+(Ciliophora:Cyrtophorida).ActaProtozool.2005,44,19–32.
+65. Gong,J.;Song,W.B.Descriptionofanewmarinecyrtophoridciliate,Brooklynellasinensisn. sp. fromChinaseawithanew
+definitionofthegenusBrooklynella(Protozoa,Ciliophora,Cyrtophorida).Zootaxa2006,1113,41–49.[CrossRef]
+66. Gong, J.; Song, W.B. Redescriptions of three cyrtophorid ciliates from marine biofilm, with establishment of a new genus,
+Wilbertellanov.gen.(Ciliophora:Cyrtophorida:Lynchellidae).ActaProtozool.2006,45,153–165.
+67. Gong,J.;Song,W.B.;Warren,A.;Lin,X.F.;Roberts,D.M.MicroscopicalobservationsonfourmarineDysteriaspecies(Ciliophora,
+Cyrtophorida).Eur.J.Protistol.2007,43,147–161.[CrossRef]
+68. Liu,W.W.;Gong,J.;Lin,X.F.;Shen,Z.;Li,J.Q.;Zhu,M.Z.;Wang,M.;Song,W.B.Redescriptionsoftwocyrtophoridciliates,
+DysteriaproceraKahl,1931andPseudochilodonopsismarinaSong,1991(Protozoa,Ciliophora).ActaHydrobiol.Sin.2008,32,84–89.
+[CrossRef]
+69. Shao,C.;Song,W.B.;Gong,J.Morphologyandmorphogenesisofanewmarinecyrtophoridciliate,Hartmannulasinicanov.spec.
+(Protozoa,Ciliophora,Cyrtophorida)fromChina.Eur.J.Protistol.2008,44,1–12.[CrossRef]
+70. Gong, J.; Gao, S.; Roberts, D.M.; Al-Rasheid, K.A.S.; Song, W.B. Trichopodiella faurei n. sp. (Ciliophora, Phyllopharyngea,
+Cyrtophoria): Morphological description and phylogenetic analyses based on SSU rRNA and group I intron sequences. J.
+Eukaryot.Microbiol.2008,55,492–500.[CrossRef]
+71. Fan,X.P.;Lin,X.F.;Li,J.Q.;Chen,X.R.;Hu,X.Z.Morphologicalstudiesonfiveciliates(Protozoa,Ciliophora)firstlyrecordedfrom
+theSouthChinaSea.ActaZootaxon.Sin.2009,34,329–334.
+72. Chen,X.R.;Gong,J.;Al-Rasheid,K.A.S.;Farraj,S.A.;Song,W.B.Newcontributiontothemorphologicaltaxonomyofthree
+marinecyrtophoridciliatesfromtheYellowSea,China(Ciliophora:Cyrtophorida).ActaProtozool.2011,50,105–119.
+73. Pan,H.B.;Hu,X.Z.;Gong,J.;Lin,X.F.;Al-Rasheid,K.A.S.;Al-Farraj,S.A.;Warren,A.Morphologicalredescriptionsoffourmarine
+ciliates(Ciliophora:Cyrtophorida:Dysteriidae)fromQingdao,China.Eur.J.Protistol.2011,47,197–207.[CrossRef]
+74. Pan,H.B.;Lin,X.F.;Gong,J.;Al-Rasheid,K.A.S.;Song,W.B.Taxonomyoffivespeciesofcyrtophorids(Protozoa:Ciliophora)
+includingconsiderationofthephylogenyoftwonewgenera.Zool.J.Linn.Soc.2012,164,1–17.[CrossRef]
+75. Pan,H.B.;Ma,H.G.;Hu,X.Z.;Al-Rasheid,K.A.S.;Al-Farraj,S.A.TaxonomicstudiesonthreemarineciliatesfromChina,including
+anewspecies(Ciliophora,Cyrtophorida).ActaProtozool.2013,52,25–33.[CrossRef]
+
+Microorganisms2022,10,1325 22of22
+76. Zhao,L.;Pan,H.B.;Ma,H.G.;Xu,H.L.Morphologicalredescriptionoffivemarinecyrtophoridciliates(Protozoa,Ciliophora).
+Period.OceanUniv.China2014,44,52–56.
+77. Qu,Z.S.;Pan,H.B.;Al-Rasheid,K.A.S.;Hu,X.Z.;Gao,S.Morphologicalandphylogeneticstudiesonthreemembersofthegenus
+Pseudochilodonopsis(Ciliophora,Cyrtophoria)isolatedfrombrackishwatersinChina,includinganovelspecies,Pseudochilodonopsis
+quadrivacuolatasp.nov.Int.J.Syst.Evol.Microbiol.2015,65,4323–4334.[CrossRef]
+78. Qu,Z.S.;Wang,C.D.;Gao,F.;Li,J.Q.;Al-Rasheid,K.A.S.;Hu,X.Z.TaxonomicstudiesonsevenspeciesofDysteria(Ciliophora,
+Cyrtophoria),includingadescriptionofDysteriaparaprocerasp.n.Eur.J.Protistol.2015,51,241–258.[CrossRef]
+79. Pan,H.B.;Jiang,J.M.;Fan,X.P.;Al-Farraj,S.A.;Gao,S.Phylogenyandtaxonomyoffivepoorlyknownspeciesofcyrtophorian
+ciliates(Protozoa,Ciliophora,Phyllopharyngea)fromChinaseas.Zool.J.Linn.Soc.2017,180,475–492.[CrossRef]
+80. Chen, X.M.; Li, L.F.; Al-Farraj, S.A.; Ma, H.G.; Pan, H.B.TaxonomicstudiesonAegyriaapolivasp. nov. andTrithigmostoma
+cucullulus(Müller,1786)Jankowski,1967(Ciliophora,Cyrtophoria)withphylogeneticanalyses.Eur.J.Protistol.2018,62,122–134.
+[CrossRef]
+81. Qu,Z.S.;Pan,H.B.;Lin,X.F.;Li,L.F.;Aleidan,A.M.A.;Al-Farraj,S.A.;Stoeck,T.;Hu,X.Z.Acontributiontothemorphologyand
+phylogenyofChlamydodon,withthreenewspeciesfromChina(Ciliophora,Cyrtophoria).J.Eukaryot.Microbiol.2018,68,236–249.
+[CrossRef]
+82. Wang,C.C.;Jiang,L.M.;Qu,Z.S.;Al-Farraj,S.A.;Warren,A.;Hu,X.Z.TaxonomyandphylogenyofthreespeciesofDysteria
+(Ciliophora,Phyllopharyngea)includingthedescriptionofanewspecies.Protist2021,172,125831.[CrossRef]
+83. Zhao,X.T.;Zhang,H.;Zhang,Q.Q.;Qu,Z.S.;Warren,A.;Wu,D.;Chen,X.R.Acasestudyofthemorphologicalandmolecular
+variationwithinaciliategenus:TaxonomicdescriptionsofthreeDysteriaspecies(Ciliophora,Cyrtophoria),withtheestablishment
+ofanewspecies.Int.J.Mol.Sci.2022,23,1764.[CrossRef]
+84. ICZN (International Commission on Zoological Nomenclature). International Code of Zoological Nomenclature, 4th ed.; The
+InternationalTrustforZoologicalNomenclature:London,UK,1999.
+85. Li,L.F.;Song,W.B.Phylogeneticpositionsoftwocrytophoridciliates,DysteriaproceraandHartmannuladerouxi(Ciliophora:
+Phyllopharyngea:Dysteriida)inferredfromthecompletesmallsubunitribosomalRNAgenesequences.ActaProtozool.2006,45,
+265–270.
+86. Gao,S.;Huang,J.;Li,J.M.;Song,W.B.Molecularphylogenyofthecyrtophoridciliates(Protozoa,Ciliophora,Phyllopharyngea).
+PLoSONE2012,7,e33198.[CrossRef]
+87. Lynn,D.H.ThesmallsubunitrRNAgenesequenceofthechonotrichChilodochonacarciniJankowski,1973confirmschonotrichsas
+adysteriid-derivedclade(Phyllopharyngea,Ciliophora).Int.J.Syst.Evol.Microbiol.2016,66,2959–2964.[CrossRef]
+88. Chen, X.; Pan, H.B.; Huang, J.; Warren, A.; Al-Farraj, S.A.; Gao, S. New considerations on the phylogeny of cyrtophorian
+ciliates(Protozoa,Ciliophora):Expandedsamplingtounderstandtheirevolutionaryrelationships.Zool.Scr.2016,45,334–348.
+[CrossRef]
+89. Wang,P.;Wang,Y.R.;Wang,C.D.;Zhang,T.T.;Al-Farraj,S.A.;Gao,F.FurtherconsiderationonthephylogenyoftheCiliophora:
+AnalysesusingbothmitochondrialandnucleardatawithfocusontheextremelyconfusedclassPhyllopharyngea.Mol.Phylogenet.
+Evol.2017,112,96–106.[CrossRef]
+90. Pan,B.;Chen,X.;Hou,L.N.;Zhang,Q.Q.;Qu,Z.S.;Warren,A.;Miao,M.Comparativegenomicsanalysisofciliatesprovides
+insightsontheevolutionaryhistorywithin“Nassophorea-Synhymenia-Phyllopharyngea”assemblage.Front.Microbiol.2019,10,
+2819.[CrossRef]
+91. Bardele,C.F.;Kurth,T.LightandscanningelectronmicroscopicalstudyofstomatogenesisinthecyrtophoridciliateChlamydodon
+mnemosyneEhrenberg,1837.ActaProtozool.2001,40,49–61.
+92. Hofmann,A.H.StomatogenesisincyrtophoridciliatesII.Chilodonellacyprini(Moroff,1902):Thekinetofragmentasananlagen-
+complex.Eur.J.Protistol.1987,23,165–184.[CrossRef]
+93. Foissner,W.;Chao,A.;Katz,L.A.DiversityandGeographicDistributionofCiliates(Protista:Ciliophora).InProtistDiversity
+andGeographicalDistribution;Foissner,W.,Hawksworth,D.L.,Eds.;Springer:Dordrecht,TheNetherlands,2007;Volume8,pp.
+111–129.[CrossRef]
+94. Warren,A.;Patterson,D.J.;Dunthorn,M.;Clamp,J.C.;Achilles-Day,U.E.M.;Aescht,E.;Al-Farraj,S.A.;Al-Quraishy,S.;Al-
+Rasheid,K.A.S.;Carr,M.;etal.Beyondthe“code”:Aguidetothedescriptionanddocumentationofbio-diversityinciliated
+protists(Alveolata,Ciliophora).J.Eukaryot.Microbiol.2017,64,539–554.[CrossRef]
+95. Minh,B.Q.;Schmidt,H.A.;Chernomor,O.;Schrempf,D.;Woodhams,M.D.;vonHaeseler,A.;Lanfear,R.IQ-TREE2:Newmodels
+andefficientmethodsforphylogeneticinferenceinthegenomicera.Mol.Biol.Evol.2020,37,1530–1534.[CrossRef][PubMed]
+96. Hoang,D.T.;Chernomor,O.;vonHaeseler,A.;Minh,B.Q.;Vinh,L.S.UFBoot2:Improvingtheultrafastbootstrapapproximation.
+Mol.Biol.Evol.2018,35,518–522.[CrossRef][PubMed]
+97. Ronquist,F.;Huelsenbeck,J.P.MrBayes3:Bayesianphylogeneticinferenceundermixedmodels.Bioinformatics2003,19,1572–1574.
+[CrossRef][PubMed]
+98. Miller, M.A.; Pfeiffer, W.; Schwartz, T. Creating the CIPRES science gateway for inference of large phylogenetic trees. In
+Proceedingsofthe2010GatewayComputingEnvironmentsWorkshop(GCE),NewOrleans, LA,USA,14November2010.
+[CrossRef]
+99. Darriba,D.; Taboada,G.L.; Doallo,R.; Posada,D.jModelTest2: Moremodels,newheuristicsandparallelcomputing. Nat.
+Methods2012,9,772.[CrossRef][PubMed]
+

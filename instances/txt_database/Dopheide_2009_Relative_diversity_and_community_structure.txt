@@ -1,0 +1,710 @@
+APPLIEDANDENVIRONMENTALMICROBIOLOGY,Aug.2009,p.5261–5272 Vol.75,No.16
+0099-2240/09/$08.00(cid:1)0 doi:10.1128/AEM.00412-09
+Copyright©2009,AmericanSocietyforMicrobiology.AllRightsReserved.
+Relative Diversity and Community Structure of Ciliates in Stream
+(cid:1)
+Biofilms According to Molecular and Microscopy Methods †
+Andrew Dopheide,1 Gavin Lear,1 Rebecca Stott,2 and Gillian Lewis1*
+SchoolofBiologicalSciences,UniversityofAuckland,3aSymondsStreet,Auckland,NewZealand,1andNationalInstitutefor
+WaterandAtmosphericResearch,P.O.Box11-115,Hamilton,NewZealand2
+Received18February2009/Accepted18June2009
+Ciliatesareanimportantcomponentofaquaticecosystems,actingaspredatorsofbacteriaandprotozoaand
+providingnutritionfororganismsathighertrophiclevels.Understandingofthediversityandecologicalrole
+ofciliatesinstreambiofilmsislimited,however.Ciliatediversityinbiofilmsamplesfromfourstreamssubject
+todifferentimpactsbyhumanactivitywasassessedusingmicroscopyandterminalrestrictionfragmentlength
+polymorphism (T-RFLP) analysis of 18S rRNA sequences. Analysis of 3(cid:1) and 5(cid:1) terminal fragments yielded
+verysimilarestimatesofciliatediversity.Thediversitydetectedusingmicroscopywasconsistentlylowerthan
+thatsuggestedbyT-RFLPanalysis,indicatingtheexistenceofgeneticdiversitynotapparentbymorphological
+examination.MicroscopyandT-RFLPanalysesrevealedsimilarrelativetrendsindiversitybetweendifferent
+streams,withthelowestlevelofbiofilm-associatedciliatediversityfoundinsamplesfromtheleast-impacted
+streamandthehighestdiversityinsamplesfrommoderatelytohighlyimpactedstreams.Multivariateanalysis
+providedevidenceofsignificantlydifferentciliatecommunitiesinbiofilmsamplesfromdifferentstreamsand
+seasons, particularly between a highly degraded urban stream and less impacted streams. Microscopy and
+T-RFLPdatabothsuggestedtheexistenceofwidelydistributed,resilientbiofilm-associatedciliatesaswellas
+ciliate taxa restricted to sites with particular environmental conditions, with cosmopolitan taxa being more
+abundantthanthosewithrestricteddistributions.Differencesbetweenciliateassemblageswereassociatedwith
+water quality characteristics typical of urban stream degradation and may be related to factors such as
+nutrientavailabilityandmacroinvertebratecommunities.Microscopicandmoleculartechniqueswereconsid-
+eredtobeusefulcomplementaryapproachesforinvestigationofbiofilmciliatecommunities.
+Heterotrophic microeukaryotes such as ciliates are thought existence of diverse communities of abundant ciliates (3, 20,
+tobeofconsiderableimportanceinaquaticecosystems,asthey 56)andshiftsincommunitystructureinresponsetoecophysi-
+are major predators of bacteria and constitute a nutritional ologicalparameters(30,42,43).Withoneexception,however,
+resource for other protozoa, invertebrates, and probably fish theseinvestigationswerebasedonaquaticsediments,andthe
+larvae(9,22,36,52,62,63,71).Inaddition,protozoanbacte- organisms within epilithic biofilms have continued to receive
+rivory contributes to enhanced decomposition of leaf detri- littleattention.
+tus—a vital nutrient resource in streams—by increasing turn- Most studies of ciliate diversity and ecology have utilized .452.01.4.19
+overofbacterialpopulationsthroughpredation(57).Itisnot microscopy-based methods of identification (for example, see
+wellunderstood,however,howciliatediversityandcommunity references 3 and 56), as ciliate cells are relatively large and
+structure in streams are affected by changing environmental morphologicallydiverse.Suchmethodsdemandahighlevelof
+yb
+conditions, or how ciliate communities affect other stream taxonomic expertise, however, and are difficult and time-con-
+3202
+biotaandprocesses.Theeffectsofvariousphysical,chemical, suming—for example, many ciliates are fragile and fast mov-
+and biological factors on freshwater protozoan communities ing, and they often require difficult fixing and staining proto- rebmetpeS
+havebeenconsideredbyanumberofstudies,butmostofthese colsforreliableidentification.Molecularbiologicaltoolsoffer
+havefocuseduponplanktonicorganismsinlentichabitats(for thepossibilityofmoreaccurateandefficientmethodsforpro-
+example,seereferences2,11,and44).However,thecomplex tozoan study and may provide a useful complement to tradi-
+12
+microbial communities in biofilms have been recognized as tional approaches (12, 18, 28, 65), yet we know of only a few no
+importantcontributorstocriticalecologicalprocesses,suchas molecular studies of environmental ciliate diversity (18, 20, mea/lanruoj/gro.msa.slanruoj//:sptth
+auxotrophic primary production, nitrogen fixation, and nutri- 37).Aseriesofrecentinvestigationsusedculture-independent
+ent cycling, and may underpin the function of stream food analysisof18SrRNAgenesequencestorevealtheexistenceof
+webs (31, 45, 61). The few studies which have investigated diverse microeukaryote communities in assorted marine, an-
+benthic habitats in lotic systems have found evidence of the oxic, and extreme environments (40, 48, 66, 69, 70, 72). Fur-
+thermore,agrowingbodyofevidencesuggeststheexistenceof
+significant genetic diversity among various ciliate taxa which
+*Correspondingauthor.Mailingaddress:SchoolofBiologicalSci- hasescapeddetectionbymicroscopy(14,18,23,34,60,64,78),
+ences, University of Auckland, Private Bag 92019, Auckland, New pointingtothepotentialformoleculartechniquestogenerate
+Zealand. Phone: 64 (9) 373 7599. Fax: 64 (9) 373 7416. E-mail: gd newinsightsintociliatediversityandecology,andsuggestinga
+.lewis@auckland.ac.nz.
+need for comparison of the effectiveness of these different
+†Supplementalmaterialforthisarticlemaybefoundathttp://aem
+.asm.org/. techniquesinenvironmentalsamples. morf
+(cid:1)Publishedaheadofprinton26June2009. Terminalrestrictionfragmentlengthpolymorphism(T-RFLP)
+dedaolnwoD
+5261
+
+5262 DOPHEIDE ET AL. APPL.ENVIRON.MICROBIOL.
+TABLE 1. Physicalandchemicalcharacteristicsofstreamsincludedinthisstudythroughout2005a
+Resultfor:
+Measurement
+Site1 Site2e Site3 Site4
+Catchmentarea(ha)b 233 375 2,652 275
+Landuseb(%)(native,forestry,agriculture,urban) 100,0,0,0 98.9,0,1.1,0 55,2,25.4,17.6 1,0.3,0,98.7
+Streamwidthc(m) 5.8 4.1 6.3 0.7
+Waterdepthc(cm) 11(10–15) 20(15–24) 23(19–28) 13(14–18)
+Watervelocityc(ms(cid:7)1) 0.31(0.15–0.61) 0.46(0.18–0.6) 0.71(0.54–0.88) 0.4(0.15–0.63)
+Temperaturec(°C) 13.6(11.9–14.4) 13.8(10.9–16.2) 14.2(10.8–17.2) 18.1(14.0–25.5)
+pHc 7.6(7.2–7.9) 7.3(7.0–7.6) 7.5(7.2–7.6) 7.5(7.3–7.8)
+Turbidityd(NTU) 3.8(1.1–13.0) 7.7(1.9–18.0) 11.9(3.8–46.9)
+Dissolvedoxygend(gm(cid:7)3) 9.9(8.8–11.1) 9.4(7.3–10.8) 8.9(5.8–12.3)
+Conductivityd((cid:5)Scm(cid:7)2) 166.4(134.7–187.9) 142.2(124.2–168.1) 311.3(208.9–411.3)
+Ammoniacalnitrogend(gm(cid:7)3) 0.01(0.01–0.02) 0.03(0.01–0.05) 0.09(0.03–0.18)
+Nitrate/nitrited(gm(cid:7)3) 0.01(0.00–0.03) 0.2(0.01–0.83) 0.60(0.13–1.63)
+TotalKjeldahlnitrogend(gm(cid:7)3) 0.31(0.21–0.93) 0.33(0.21–1.14) 0.61(0.20–1.80)
+Totalnitrogend(gm(cid:7)3) 0.22(0.20–0.92) 0.41(0.20–0.84) 0.96(0.42–2.24)
+Dissolvedreactivephosphorusd(gm(cid:7)3) 0.021(0.013–0.031) 0.016(0.010–0.024) 0.021(0.017–0.045)
+Totalphosphorusd(gm(cid:7)3) 0.032(0.023–0.046) 0.045(0.024–0.064) 0.100(0.044–0.336)
+aValuesaremeansandranges.NTU,nephelometricturbidityunits.
+bDataweregeneratedusingtheLandCoverdatabase2(TerralinkInternationalLtd.,Wellington,NewZealand).
+cDatawererecordedinthisstudy.
+dDataarefromreference5andareunavailableforsite2.
+eSite2isanupstreamtributaryofsite3.Itispresumedthatwaterqualityatsite2isthesameasorbetterthanthatatsite3.
+analysis provides an efficient, inexpensive, and semiquantita- fromthewatercolumn(29).ThefirstmethodinvolvedtheuseofsterileSpeci-
+tive means for comparing microbial molecular diversity be- Sponges (Nasco, Fort Atkinson, WI) to thoroughly swab submerged surfaces
+(rocksorconcretechannel)withina55-cm2areadefinedbyacircularneoprene
+tween different samples and has been widely used to investi-
+template. Dislodged biofilm material was then squeezed from the collecting
+gate bacterial communities, although only a few studies have
+spongesintosterileWhirl-Pakbags(Nasco).
+applied T-RFLP methods to the analysis of microeukaryote Thesecondbiofilmcollectionmethodinvolvedasyringesamplerbasedon
+diversity(6,16,17).Inthisstudy,ciliatediversityandcommu- devicesrecommendedforsubsurfacesamplingofepilithicperiphyton(1,39,54,
+nity structure were investigated in biofilm samples from 67). The syringe sampler, illustrated in Fig. S1 in the supplemental material,
+consistedofa60-mlsyringewithitsendremovedtocreateawideopeningand
+streams representing a range of levels of anthropogenic deg-
+atoothbrushheadgluedtotheendofthesyringeplunger.Arubberringwas
+radation,withtheobjectiveoftestingthenullhypothesisthat
+attachedtotheendofthesyringetosealthesampleragainsttherocksurfaceand
+human impacts have no effect upon this important heterotro- tominimizethelossofdislodgedmaterialduetowatercurrents.Biofilmmaterial
+phiccomponentofstreamecosystems.Toachievethis,ciliate- wasremovedfroma4.91-cm2areabypressingdownandrotatingthesyringe
+targetedPCRprimerswereusedinconjunctionwithT-RFLP plunger. Loosened material was drawn up into a 10-ml collection syringe at-
+tachedtothebaseofthelargersyringewithplastictubing.Sampleswerethen
+andmultivariatestatisticalanalyses.Additionally,ciliatediver- .452.01.4.19
+decantedintosterileWhirl-Pakbags(Nasco).
+sitymeasuresobtainedusingmoleculartechniqueswerecom-
+BiofilmsamplingwascarriedoutduringJanuary(summer),May(autumn),
+pared with those derived from microscopy-based methods in August(winter),andNovember(spring)of2005.Oneachsamplingoccasion,
+ordertoassesstherelativeeffectivenessoftheseapproaches. biofilmmaterialwascollectedfromtwo20mreachesofeachstream.Ingeneral,
+theexposedsurfacesof4to10randomlyselectedrocks(220to550cm2intotal) yb
+weresampledusingthespongemethod,andthesurfacesof10rocks(about50 3202
+MATERIALSANDMETHODS cm2intotal)weresampledusingthesyringemethod,fromwithineach20-m
+Samplingsites.Biofilmsampleswerecollectedfromeachoffourdifferently reachofeachstream.Similarly,10sampleswerecollectedfromeachoftwo20-m rebmetpeS
+impacted streams in Auckland, New Zealand. Site 1 (Cascade Stream) is a reachesalongtheconcretechannelatsite4,usingeachsamplingmethod.The10
+largelyunimpactedstream,locatedinanundevelopednativeforestcatchment samplesobtainedusingeachmethodateachsamplepointwerecombined,giving
+(36°53(cid:2)32(cid:3)S,174°31(cid:2)07(cid:3)E).Site2(StoneyCreek)ismildlyimpacted,locatedin atotaloffourcompositesamplesperstream(onespongesampleandonesyringe
+a partially developed native forest catchment with nearby houses and roads samplefromeachoftwosamplingpointsineachstream).Sampleswerechilled 12
+(36°54(cid:2)24(cid:3)S,174°34(cid:2)06(cid:3)E).Site2isalower-ordertributaryofsite3(Opanuku onicefortransport. no
+Stream),whichisproximatetoruralagriculturaldevelopmentandismoderately Assessmentofciliatediversitybymicroscopy-basedanalysis.Sampleswere mea/lanruoj/gro.msa.slanruoj//:sptth
+impacted(36°53(cid:2)42(cid:3)S,174°35(cid:2)44(cid:3)E).Site4(PakurangaStream)islocatedina storedat4°Candanalyzedwithin4to10hoursofcollection.Fortheenumer-
+highly developed urban catchment (36°53(cid:2)50(cid:3) S, 174°54(cid:2)21(cid:3) E) and is highly ationofciliates,subsamplesof1mlweretransferredtoaSedgewickRaftercell
+impacted.Sites1,2,and3allhavenaturalstonysubstrates,whilesite4consists and scanned at a magnification of (cid:4)25 to generate preliminary lists of taxa.
+ofaconcretechannelatthesamplinglocation. Subsampleswerethenexaminedatmagnificationsof(cid:4)200to(cid:4)630.Duetothe
+Sites 1 and 3 are ranked as having the best and fifth-best water quality, lowdensityofbiofilmmaterialandassociatedciliates,concentrationofsamples
+respectively,of25streamsthroughouttheAucklandregionbasedonmonthly fromsite1priortoexaminationwastypicallyrequired,asfollows:25-to100-ml
+monitoringbetween1995and2005;threelocationsinthesite4streamcatch- sampleswereconcentratedbyfilteringthrough25-(cid:5)mnylonmeshandback-
+mentarerankedintheworstfive(4,5).Physicalandchemicalattributesofthe washingtheretentateintoagraduated15-mltubeusingfilteredwater(typical
+streamsarepresentedinTable1. final volume, (cid:6)3 ml). Aliquots (1 ml) were then transferred to a Sedgewick
+Sample collection. Quantitative methods for sampling biofilm material and Raftercellandexaminedatmagnificationsof(cid:4)200to(cid:4)630.Ciliatecellswere
+associated protozoa from submerged surfaces were developed. There are no identified to at least genus level, where possible, using criteria described in
+clearly established protocols for sampling protozoa associated with epilithic taxonomickeys(25,53).Photographswereusedtoensurethatidentifications
+biofilmsinloticsystems,andforthisreasontwomethodsweretestedinthis wereconsistent.Therelativeabundanceofdifferenttaxawasscoredonascale
+morf
+study.Forbothmethods,streambiofilmwascollectedfromsubstratesurfaces of1to8,correspondingtoapproximateabundancesof1to5,5to10,10to15,
+whilesubmerged,toavoidthepotentiallossofmaterialuponremovalofstones 15to20,20to50,50to100,100to200,andover200cellsperml,respectively. dedaolnwoD
+
+VOL.75,2009 DIVERSITY OF CILIATES IN STREAM BIOFILMS 5263
+DNAextractionandPCRamplification.Subsamples(30ml)ofeachcombined TABLE 2. Comparisonofciliatediversityinspongeandsyringe
+biofilmsampleweretransferredtopreweighedsterile35-mlcentrifugetubesand samplesaccordingtomicroscopyandT-RFLP
+centrifuged at 6,000 (cid:4) g for 10 min at 4°C. Supernatants were removed and analysis(ANOSIM)
+pelletsresuspendedin15%glyceroltoachievefinalconcentrationsof100to200
+mgbiofilmml(cid:7)1.Sampleswerethenfrozenat(cid:7)80°Cuntilrequired. Difference Difference
+according according
+DNAwasextractedfrombiofilmsamplesaspreviouslydescribed(20).Fol-
+Monthofsponge-syringe tomicroscopy toT-RFLP
+lowingextraction,theconcentrationofDNAineachextractwasassessedusing samplecomparison
+a Quant-iT PicoGreen double-stranded-DNA kit (Invitrogen, Auckland, New GlobalR GlobalR
+P P
+Zealand)accordingtothemanufacturer’sdirections,incombinationwithabsor- statistic statistic
+bancemeasurementsat260nmusingaNanodropND-1000spectrophotometer
+Januarya 0.438 0.07
+(ThermoFisherScientific,Waltham,MA),andelectrophoresison1%agarose
+May 0.031 0.48 (cid:7)0.106 0.67
+gelsstainedwithSybrSafe(Invitrogen).Basedonthecombinedresultsofthese
+August 0.167 0.44 (cid:7)0.086 0.59
+procedures,theconcentrationofDNAinextractswasstandardizedtoapproxi-
+mately20ng(cid:5)l(cid:7)1beforeuseastemplatesinPCRs. Novembera (cid:7)0.313 1.00
+PCRprimers384F(5(cid:2)-YTBGATGGTAGTGTATTGGA-3(cid:2))(20)and
+aMolecularanalysisofJanuaryspongeandNovembersyringesampleswas
+1147R(5(cid:2)-GACGGTATCTRATCGTCTTT-3(cid:2))(20),targetingan(cid:6)700-bp
+unsuccessful.
+fragmentoftheciliate18SrRNAgene,werelabeledattheir5(cid:2)terminiwith
+6-carboxyhexachlorofluorescein(HEX)and6-carboxyfluorescein(FAM)fluoro-
+phores(Invitrogen),respectively.DNAwasamplifiedfrombiofilmextractsusing
+theseprimersin50-(cid:5)lPCRmixes(25(cid:5)lGoTaqGreenmastermix[Promega,In labeledT-RFLPpeakswereaveragedtoprovideacompositediversityestimate
+Vitro Technologies, Auckland, New Zealand], 0.5 (cid:5)M forward and reverse foreachsample.
+primers,0.4%BSA[Invitrogen]and2(cid:5)loftemplateDNA).ThefollowingPCR For multivariate analysis, data from both HEX-labeled and FAM-labeled
+protocolwasused:initialincubationfor5minat94°C,then30amplification T-RFLPpeakswerecombinedintoasingledatasetforeachsampleandsub-
+cyclesof45sat94°C,60sat55°Cand90sat72°C,followedbyafinalextension jectedtoasquare-roottransformationtomoderatetheinfluenceoflargepeaks
+step of 7 min at 72°C. PCR products were purified using a Purelink PCR in subsequent analyses. Relative abundance data obtained by microscopy
+purificationkit(Invitrogen)accordingtothemanufacturer’sinstructions.The werenottransformed.MultivariateanalyseswerecarriedoutinPrimerv6.1.6
+concentrationoffluorescentlylabeledPCRproductswasdeterminedbyabsor- (Primer-ELtd.,Plymouth,UnitedKingdom).Bray-Curtissimilaritybetweenall
+bancemeasurementsat260nmusingaNanodropND-1000spectrophotometer. pairsofbiofilmsampleswascalculated.Similaritiesanddifferencesamongciliate
+T-RFLP analysis. T-RFLP analysis is a semiquantitative molecular finger- communities were visualyzed by nonmetric multidimensional scaling (MDS),
+printingtechniquewhichprovidesanefficientmethodofcomparingpopulations. whichclusterssampleswithhigherlevelsofpairwisesimilaritymorecloselythan
+FluorescentlylabeledPCRproductsaredigestedwithoneormorerestriction sampleswithlowerpairwisesimilarity.Analysisofsimilarities(ANOSIM)was
+enzymes,resultingintheproductionoffluorescentlylabeledterminalfragments, used to test the null hypotheses of no significant differences between ciliate
+thelength(inbasepairs)andabundanceofwhichcanbeautomaticallydetected. communitiesfromdifferentstreams,seasons,andsamplingmethods.ANOSIM
+Thisresultsinthegenerationofprofilesinwhichthenumberofpeaksindicates compareswithin-groupsimilarityandbetween-groupsimilarity;Rvaluesaround
+thenumberofdifferentterminalfragmentspresent,whiletheheightandareaof 0indicatethatwithin-groupandbetween-groupsimilaritiesarethesame,while
+peaks indicate their relative abundance. As terminal fragment length varies Rvaluesapproaching1indicatethatsampleswithingroupsaremoresimilarto
+acrosstaxa,thesedatacanprovideaprofileofcommunitystructurewithineach eachotherthantosamplesfromdifferentgroups,allowingthenullhypothesisto
+sample. berejected(15).
+ForT-RFLPanalysisinthisstudy,theDNAconcentrationineachpurified
+PCRproductwasadjustedto20ng(cid:5)l(cid:7)1.PCRproductsweredigestedwiththe
+RESULTS
+restrictionendonucleasesHaeIIIandRsaI(Invitrogen)in10-(cid:5)lreactionmix-
+tures,incubatedovernightat37°C.Eachdigestionreactionmixturecontained1 Sampling methods. The effectiveness of sponge- and sy-
+Uofeachenzyme,1(cid:5)lofreactionbuffer(Invitrogen),andapproximately175ng
+ringe-based biofilm sampling methods for detecting ciliates
+ofpurifiedamplicon.Digestedsampleswereelectrophoresedalongsideasize .452.01.4.19
+standard with markers at 20-bp intervals up to 1,200 bp (LIZ1200; Applied was compared, but there was no clear evidence of greater
+Biosystems, Melbourne, Australia). Terminal restriction fragments were de- efficacyofeithermethodintermsofciliatediversitydetected,
+tectedusinga3130XLgeneticanalyzer(AppliedBiosystems).Thisresultedin accordingtoeithermicroscopyorT-RFLP.Littleevidencefor
+generation of peak profiles representing the abundance of HEX- and FAM-
+significantdifferencesinciliatecommunitystructurewasfound
+labeledterminalfragments,whichwereanalyzedusingGeneMapper4.0(Ap- yb
+between sponge-derived and syringe-derived samples accord-
+pliedBiosystems),whichautomaticallycalculatesthenumber,height,andareaof 3202
+peaksandtheircorrespondingfragmentlengths(inbasepairs).Profilesfromtwo ing to ANOSIM (Table 2), and furthermore, sponge- and sy-
+runsofeachsamplewerecomparedtocheckforconsistency,andanyinconsis- ringe-derivedsamplesfromthesamestreamandsamplingdate rebmetpeS
+tentresultswerediscarded.T-RFLPpeakswithaheightof(cid:1)50relativefluo-
+were typically grouped very closely in MDS plots, suggesting
+rescenceunitsandalengthoflessthan10bpwereexcludedfromanalysisto
+verysimilarcompositionofthecommunitiessampledbyeach
+eliminatebackgroundinterference.Eachremainingpeakwaspresumedtorep-
+resent a different terminal restriction fragment and hence a different ciliate- method. Sponge- and syringe-derived samples from each site 12
+derived 18S rRNA gene sequence. Peaks representing terminal fragments in anddatewerethereforepooledforsubsequentanalyses. no
+excessofabout650bpinlengthwereassumedtorepresentPCRproductswhich Ciliatediversityinstreambiofilmsamples(microscopyand mea/lanruoj/gro.msa.slanruoj//:sptth
+werenotcutduringrestrictiondigestion.
+T-RFLPmethods).Ourmethodologytargetedastandardarea
+Thelength(inbasepairs)andareaofHEX-andFAM-labeledpeaksineach
+ofsubstrateforallsamples,andourdiversityresultsrepresent
+T-RFLP profile were imported into Microsoft Excel. Peak positions were
+roundedtothenearestwholenumber,andtheoverallareaofeachprofilewas thenumberoftaxadetectedperareasampled.However,bio-
+standardizedto1,toensurecomparabilitybetweensamples. film biomass was particularly sparse at site 1, especially in
+Statistical analyses. Analysis of variance (ANOVA) was used to test for winter(G.LewisandS.Tsai,unpublisheddata).Similarly,the
+significantdifferencesamongnumbersofciliatetaxadetectedinsamplesfrom
+densityofciliatesatsite1wasgenerallyverylow,necessitating
+differentstreamsineachmonth.SignificantANOVAresultswerefurtherana-
+lyzedwithpost-hocTukey-Kramerhonestlysignificantdifferencemultiplecom- concentration of these samples for analysis. Even after con-
+parisontests.Differencesbetweennumbersoftaxainsamplesobtainedusingthe centration, the number of ciliate cells detected and identified
+two different sampling methods and according to the two different analysis insite1sampleswaslow,andthismayhaveaffectedthelevel
+methodswereinvestigatedusingttests.TheseanalyseswerecarriedoutinJMP
+ofdiversitydetected.
+7.0 (SAS Institute Inc., Cary, NC). As each different PCR product can be
+The number of ciliate taxa detected in stream biofilm sam- morf
+expectedtoproducebothaHEX-labeledfragment(primer384F)andaFAM-
+labeled fragment (primer 1147R), the numbers of HEX-labeled and FAM- plesusingmicroscopy-basedmethodsrangedfrom0,forsam- dedaolnwoD
+
+5264 DOPHEIDE ET AL. APPL.ENVIRON.MICROBIOL.
+FIG. 1. Numbersofciliatetaxadetectedbymicroscopyandnumbersofciliate18SrRNAgenesequencesindicatedbyT-RFLPanalysisof
+streambiofilmsamples.Thenumbersonthexaxisdenotesamplesfromtwodifferentreacheswithineachstream.Eachbarshowsthemeanof
+countsfromtwosamples(microscopydata)orthemeanofHEX-labeledandFAM-labeledterminalfragmentcountsfromtwosamples(T-RFLP
+data). Error bars show one standard deviation. Significant differences were found between streams during each month according to T-RFLP
+analysisandinMayandNovemberaccordingtomicroscopydata(ANOVA;P(cid:8)0.05).Withineachmonth,samplesnotlinkedbythesameletter .452.01.4.19
+(AtoC)aresignificantlydifferent(Tukey-Kramerhonestlysignificantdifference;P(cid:9)0.05).(cid:1),samplesfromsite1weretypicallyconcentrateddue
+tolowbiomassandciliateabundance;therewasinsufficientbiofilmbiomassatsite1inAugustforT-RFLPanalysis.
+yb
+3202
+plesfromsite1inMayandAugust,to17,forasite4sample tected in T-RFLP profiles exceeded the average number of
+from May (Fig. 1). Site 1 typically had the fewest biofilm- ciliatetaxadetectedbymicroscopy(ttest;P(cid:8)0.0001)(Fig.2). rebmetpeS
+associated ciliate taxa, while samples from site 3 and site 4 In total, 183 different HEX-labeled terminal fragments and
+contained the highest numbers of ciliate taxa. Significant dif- 191 different FAM-labeled terminal fragments were detected
+ferences were detected among microscopy results from May among all samples, compared with 68 different ciliate taxa 12
+andNovember(ANOVA;P(cid:8)0.05)butnotfromJanuaryor identifiedbymicroscopy. no
+August. Differences in ciliate diversity and community structure mea/lanruoj/gro.msa.slanruoj//:sptth
+ThenumberofdifferentpeakspresentinaT-RFLPprofile between streams and seasons according to microscopy and
+isassumedtoreflectthenumberofdifferentciliate18SrRNA T-RFLP. Microscopy-basedanalysisofbiofilmsamplesfound
+gene sequences—and therefore the number of ciliate taxa— evidence of ciliate taxa common to multiple stream environ-
+presentinthestreambiofilmsample.ThenumberofT-RFLP mentsaswellasmanytaxarestrictedtoindividualsites(Fig.3).
+peaksdetectedrangedfrom5(site1,November)to61(site3, TaxacommontoallfourstreamsweredetectedonlyinJanu-
+January) (Fig. 1). Significant differences were detected in all aryandNovember,althoughthesetaxawerealwayspresentin
+months(ANOVA;P(cid:8)0.005).Thepatternofciliatediversity atleastonestreamthroughouttheyear.InJanuary,agreater
+across different streams according to T-RFLP analysis was numberofuniquetaxawerefoundinsite2thaninsite3.Inall
+broadlysimilartothatderivedfrommicroscopicinvestigations, other months, taxa unique to site 3 and site 4 together ac-
+with the lowest ciliate diversity being detected in the most countedforthemajorityoftaxadetected,althoughthesetwo
+pristinestreamandhigherdiversityatthemoreimpactedsites. streams also had generally higher overall levels of diversity morf
+Overall, in each stream the average number of peaks de- than the other sites. Taxa unique to site 4 were particularly
+dedaolnwoD
+
+VOL.75,2009 DIVERSITY OF CILIATES IN STREAM BIOFILMS 5265
+Accordingtomicroscopy,ciliatescommontoallfourstreams
+were generally small species from Oligohymenophorea or
+Phyllopharyngea, such as Glaucoma spp., Trochilia spp., or
+Cyclidium spp. These ubiquitous species were generally more
+abundant in the more impacted streams. Several unidentified
+hypotrichs were typically characteristic of site 2 biofilm sam-
+ples, while taxa unique to site 3 included Actinobolina spp.,
+Aspidiscalynceus,andsessileperitrichspeciessuchasEpistylis
+spp.andVorticellaspp.Alargenumberoftaxawerefoundonly
+atsite4,includingSpirostomumspp.,Stylonychiaspp.,Euplotes
+spp., Strombilidium spp. and predatory taxa, including Mono-
+diniumspp.andseveralspeciesofLitonotus.
+Visual inspection of T-RFLP profiles shows that some peaks
+are present in profiles from multiple streams (although these
+peaks are often markedly different in magnitude), while other
+peaksappeartobeuniquetoparticularstreambiofilms(Fig.4).
+Overall,17%ofthedifferentT-RFLPpeaksdetectedthroughout
+theyearwerefoundinallfourstreams.Forty-fivepercentofthe
+T-RFLP peaks occurred in only one stream (Fig. 3), consistent
+withthemicroscopydata.Theproportionuniquetoeachstream
+rangedfrom5%(site1)to16%(site3).
+TheproportionsofT-RFLPpeaksfoundindifferentstreams
+showed a higher degree of consistency between months than
+themicroscopydata(Fig.3).Peaksuniquetoeachofthefour
+FIG. 2. Average numbers of ciliate taxa detected by microscopy streamsweredetectedinallmonthsexceptAugust,whenbio-
+(whitebars)andaveragenumbersofciliate18SrRNAgenesequences film biomass at site 1 was insufficient for molecular analysis.
+indicated by T-RFLP analysis (gray bars) in stream biofilm samples
+Compared with the microscopy data, the proportion of T-
+throughout 1 year. Each bar shows the mean of counts from eight
+samples (microscopy data) or the mean of HEX-labeled and FAM- RFLPpeaksuniquetosite3andsite4togetheraccountedfor
+labeledterminalfragmentcountsfromeightsamples(T-RFLPdata). lessofthetotaldiversitydetected,exceptforinJanuarysam-
+Error bars show one standard deviation. The average number of T- ples. Peaks unique to site 1 were more frequently detected,
+RFLP peaks detected significantly exceeded the average number of
+taxaidentifiedbymicroscopyinallcases(ttest;P(cid:8)0.0001). however,aswerepeaksuniquetosite2inNovembersamples.
+As for the microscopy data, T-RFLP peaks unique to site 4
+were most frequent in August samples, although the propor-
+frequent in August. In November, taxa unique to site 2 were tionofpeaksuniquetosite3washighestinJanuary.
+not detected, and taxa unique to site 1 were evident only in TheT-RFLPpeaksfoundinallfourstreamsthroughoutthe
+May. Fewer than one in five of the taxa unique to particular year (17% of all peaks) together accounted for 75% of total .452.01.4.19
+streamsweredetectedonmorethanonesamplingdate. profile area, indicating that the corresponding terminal frag-
+Overall, only 7% of ciliate taxa identified throughout the mentswererelativelyabundant(Fig.5).Conversely,thepeaks
+year using microscopy were common to all four streams (Fig. thatwereeachdetectedinonlyonestream(45%ofallpeaks)
+3).Forty-fourpercentofthedetectedtaxawereeachfoundin accounted for less than 6% of the total T-RFLP profile area, yb
+3202
+only one stream, most commonly site 3 or site 4, and no taxa and as for the microscopy data, few of these unique T-RFLP
+wereuniquetotheleast-impactedstream,site1. peaks were detected on more than one sampling date. These
+rebmetpeS
+12
+no
+mea/lanruoj/gro.msa.slanruoj//:sptth
+morf
+FIG. 3. Comparisonofdiversitiesofciliatetaxaoccurringinbiofilmsfromdifferentstreamenvironments,accordingtomicroscopyandT-RFLP
+analysis.(cid:1),therewerenoT-RFLPdataforsite1inAugustduetoinsufficientbiofilmbiomassforanalysis.
+dedaolnwoD
+
+5266 DOPHEIDE ET AL. APPL.ENVIRON.MICROBIOL.
+FIG. 4. T-RFLPprofilesderivedfromstreambiofilmsamplesinNovember2005usingciliate-targetedPCRprimers.Sizesofgrayandblack
+peaks,respectively,indicatetheabundanceofHEX-labeledandFAM-labeledterminalrestrictionfragments.
+findingssuggesttheexistenceofpopulationsofabundantand MicroscopyrelativeabundancedataandT-RFLPpeakarea
+cosmopolitanciliatetaxainstreambiofilmsfromdifferenten- data were used to generate nonmetric MDS plots in which
+vironments,togetherwithrarertaxa,whichhadlowabundance each data point represents the assemblage of ciliate taxa or
+.452.01.4.19
+andrestrictedspatialandtemporaldistributions. T-RFLP peaks detected in one sample. The proximity of the
+yb
+3202
+rebmetpeS
+12
+no
+mea/lanruoj/gro.msa.slanruoj//:sptth
+FIG. 5. AbundanceanddiversityofciliatesinstreambiofilmsaccordingtoT-RFLPprofiles.BarsrepresentthecombinedareaofT-RFLP
+morf
+peaksfoundinprofilesfromindividualstreamsonlyandpeaksfoundinprofilesfrommultiplestreams,asaproportionoftotalprofileareafor
+eachsamplingdate.Numbersofpeakscontributingtoeachbarareindicated.(cid:1),therewerenoT-RFLPdatafromsite1forAugust.
+dedaolnwoD
+
+VOL.75,2009 DIVERSITY OF CILIATES IN STREAM BIOFILMS 5267
+FIG. 6. MDSgroupingofciliateassemblagesinstreambiofilmsamplesbasedonmicroscopydata(left;two-dimensionalstress(cid:9)0.15)and
+T-RFLPprofiles(right;two-dimensionalstress(cid:9)0.19).
+datapointstoeachotherreflectstherelativesimilarityoftheir themagnitudeofenvironmentalparametersatsitesanddates
+ciliateassemblages.MDSplotsbasedonmicroscopydatashow corresponding to biofilm sampling occasions. The resulting fig-
+separationofsamplesfromhighlyimpactedsite4andmoder- uressuggestthatobservedMDSordinationpatternsareassoci-
+atelyimpactedsite3fromeachotherandfromsamplesfrom atedwithacombinationofenvironmentalfactors(Fig.7).Sepa-
+less impacted site 2 and site 1 (Fig. 6). Similarly, MDS plots rationofsite4samplesfromothersappearstobeassociatedwith
+based on T-RFLP data show site 4 samples forming a clearly factorstypicallyassociatedwithurbanstreamdegradation,such
+separatedgroup,whilesite3andsite2samplesformoverlapping as higher levels of nitrogenous compounds and lower levels of
+clusters and site 1 samples are scattered widely. Temporal pat- dissolved oxygen, in addition to very low levels of forest cover.
+ternsarelessclear,withlittlediscerniblegroupingofdatapoints Turbidity,temperature,andphosphoruslevelsaresimilarlyele-
+bysamplingmonthaccordingtomicroscopydata.Accordingto vatedatsite4oncertainsamplingoccasions,whilewatervelocity
+.452.01.4.19
+T-RFLPdata,NovembersamplesandMaysamplesfromsite1 andpHdonotfollowthistrend.Conversely,site1samplesare
+aremoredispersedthanJanuaryandAugustsamples. associatedwithhighnativeforestcover,lowlevelsofnitrogenous
+ANOSIManalysisofmicroscopyandT-RFLPdataprovided compounds,totalphosphorusandturbidity,andelevatedoxygen.
+evidenceofsignificantdifferencesbetweenciliatecommunities Groupingofsite3samplesinaclusteradjacenttosite4samples
+yb
+indifferentstreamsandbetweensamplesfromdifferentseasons appearstoberelatedtointermediatelevelsofnitrogenouscom-
+3202
+(Table3).Forthemicroscopydata,significantandgenerallylarge poundsandtotalphosphorus,althoughpHandlevelsofdissolved
+differences were found between ciliate assemblages from all reactivephosphorusaregenerallylowerthanforsite1samples. rebmetpeS
+streams,andmoderatedifferencesbetweenassemblagesfrom
+differentsamplingdates.Similarly,significantdifferenceswere
+DISCUSSION
+foundbetweenciliateassemblagesfromallstreamsaccording 12
+toT-RFLPanalysis,withtheexceptionofsite1andsite2.The CiliatediversityaccordingtomicroscopyandT-RFLPanal- no
+largest differences according to T-RFLP were found between ysis. Ciliates have been considered very amenable to micro- mea/lanruoj/gro.msa.slanruoj//:sptth
+site 4 and both site 2 and site 3, while the largest differences scopicstudyduetotheirhighlevelofmorphologicaldiversity
+accordingtomicroscopywerefoundbetweensite1andsite3 andrelativelylargesize.However,ithasbeensuggestedthata
+and between site 3 and site 4. The largest difference between currentlistofdescribedciliatemorphospeciesmaycontain5to
+sampling months according to T-RFLP analysis was between 10timesasmanybiologicalspecies(13,24,26).Furthermore,
+JanuaryandAugust,butthesemonthsshowedrelativelylittle ciliate morphospecies have been shown to include organisms
+difference according to microscopy. Significant differences withclearlydifferentecophysiologicalcharacteristics(75).This
+werenotdetectedbetweenJanuaryandMayorbetweenJan- suggeststhatthemorphospeciesconceptmaysubstantiallyun-
+uaryandNovemberT-RFLPresults. derestimateciliatespeciesdiversityandecosystemcomplexity
+Links between environmental data and ciliate assemblage (26, 75). Morphologically identical but genetically, physiolog-
+MDSdata.Linksbetweenciliatecommunityassemblagedata ically, or biochemically divergent ciliates are likely to occupy
+andenvironmentaltrendscanbevisualizedasbubblesoverlaid separateecologicalniches,andmeasurementofthisfunctional morf
+onMDSordinationplots,withthesizeofbubblesrepresenting ciliatediversityisrelevanttoecologicalstudies.Whilemolec-
+dedaolnwoD
+
+5268 DOPHEIDE ET AL. APPL.ENVIRON.MICROBIOL.
+TABLE 3. ANOSIMcomparisonofciliateassemblagesinsamples calanalysis.However,evenwhenthesemorecomplexmethods
+fromdifferentstreamsandsamplingdatesaccordingto have been used, ciliate diversity based on molecular analysis
+microscopyandT-RFLPdata
+hasstillbeenfoundtoexceeddiversityaccordingtomorphol-
+Comparison R Pa ogy (34). A growing number of studies provide evidence of
+cryptic molecular diversity exceeding apparent morphological
+Streamcomparison
+Microscopydatab diversity in various ciliate taxa, including Carchesium (78),
+Global 0.719 0.001* Cyclidium(23),Halteria(34),Oxytricha(60),Strombidium(34),
+Site1-Site2 0.414 0.001* Tetrahymena(41,49,64),andZoothamnium(14).Theconsis-
+Site1-Site3 0.988 0.001* tency of these findings suggests little reason to expect any
+Site1-Site4 0.798 0.001*
+difference in the great majority of ciliate taxa which have not
+Site2-Site3 0.748 0.001*
+Site2-Site4 0.621 0.001* yet been subjected to genetic analysis. Cyclidium and rRNA
+Site3-Site4 0.842 0.001* gene sequences closely matching those of Oxytricha, Tetrahy-
+mena,andZoothamniumhaveallpreviouslybeendetectedin
+T-RFLPdatac
+theseAucklandstreams(20)andthereforemayhavecontrib-
+Global 0.49 0.001*
+utedtothecrypticgeneticdiversitydetectedusingT-RFLPin
+Site1-Site2 0.269 0.102
+Site1-Site3 0.497 0.01* thisstudy.
+Site1-Site4 0.508 0.006* Although our molecular analysis indicates a high level of
+Site2-Site3 0.332 0.037* genetic diversity underlying ciliate morphospecies, the PCR
+Site2-Site4 0.769 0.002*
+primersusedinthisstudy,whilehighlyciliatespecific,arenot
+Site3-Site4 0.678 0.001*
+perfectly so (20). It is possible that a limited number of non-
+Samplingdatecomparison ciliate sequences and resulting terminal restriction fragments
+Microscopydatab mayberepresentedinourresults.However,thiseffectmaybe
+Global 0.383 0.001*
+outweighedbythetendencyofT-RFLPanalysistounderesti-
+January-May 0.487 0.002*
+mate diversity of closely related taxa, due to conservation of
+January-August 0.284 0.011*
+January-November 0.469 0.001* restriction sites and consequent generation of terminal frag-
+May-August 0.257 0.011* ments of identical length (16). Additionally, ciliate taxa with
+May-November 0.428 0.001* indistinguishable 18S rRNA gene sequences may be discrimi-
+August-November 0.418 0.001*
+natedbyexaminationofothergenes(41),suggestingthatthe
+T-RFLPdatac sequences targeted in this study may not provide complete
+Global 0.395 0.001* resolution of different species. It thus seems likely that the
+January-May 0.201 0.105 assessmentsofciliatediversityprovidedbyT-RFLPanalysesin
+January-August 0.722 0.002*
+thisstudyareconservative.
+January-November 0.125 0.222
+Limitationsandcomplementarityofmethods.AlthoughT-
+May-August 0.502 0.001*
+May-November 0.433 0.006* RFLPanalysisisanefficientmethodofobtainingandcompar-
+August-November 0.376 0.020* ingmicrobialgeneticdiversitydata,interpretationofT-RFLP
+a(cid:1),statisticallysignificantresult(P(cid:8)0.05). information,inisolation,remainschallenging.T-RFLPanaly-
+.452.01.4.19
+bn(cid:9)13to16samplesperstreamormonth. sis lacks a straightforward means of reliably assigning taxo-
+cn(cid:9)8to12samplesperstreamand8to15samplespermonth.
+nomicidentitiestoobservedpeaksincomplexsamples,partic-
+ularly for groups of organisms for which availability of DNA
+sequencedataislimited,suchasciliates.Thevalueofdiversity
+yb
+ulartechniqueshaverecentlycontributedtogreatinsightsinto measuresderivedfromT-RFLPanalyseshasbeenquestioned,
+3202
+protistandiversityinvariousinaccessibleandextremeenviron- onthebasesthatdifferentorganismsmaycontributetosingle
+ments, few studies have applied these techniques to specific T-RFLPpeaks,differentrestrictionenzymeswillproducedif- rebmetpeS
+phyla,suchasCiliophora. ferent results, and the use of thresholds to eliminate back-
+Thisinvestigationfoundthatthenumberofciliatetaxasug- groundnoisefromT-RFLPprofilesmeansthatterminalfrag-
+gested by T-RFLP analysis was more than double that indi- ments(andorganisms)oflowabundancewillbeexcludedfrom 12
+catedbymicroscopy.Thissuggeststheexistenceofasignificant the resulting analysis (10). Multivariate statistical analysis of no
+componentofgeneticciliatediversityinstreambiofilmswhich T-RFLPdataisconsideredreliable,however,withconclusions mea/lanruoj/gro.msa.slanruoj//:sptth
+isnotevidentuponmicroscopicexaminationofmorphology.A beinglittleaffectedbytheexclusionofminorT-RFLPpeaksor
+similarfindingwasmadeinarecentstudyofoligotrichciliate the choice of restriction enzyme (8, 77). T-RFLP is thus a
+diversity in seawater, with diversity according to molecular useful method for comparing complex microbial community
+analysis being about 10-fold higher than that according to structures.
+morphologicalobservations(18).Inthepresentstudy,ciliates Microscopy-basedanalysisofmorphologydoespermitiden-
+were identified using simple light microscopy methods, and tification of ciliates, subject to sufficient taxonomic expertise
+although most species can be detected at relatively low mag- beingavailable,andcanallowtheclassificationofciliatesinto
+nification, it is possible that some organisms may have been functional categories, such as feeding groups, which can be
+overlooked due to small size or inconspicuousness, or due to usedtoexaminetheecologicalroleofprotozoa(55).Thelevel
+theirbeingpresentinencystedform.Silverstainingprocedures of taxonomic resolution used can affect whether significant
+and electron microscopy can improve taxonomic discrimina- differences between protozoan communities will be detected, morf
+tionofciliatetaxabasedonmorphologicalandmorphometri- withidentificationofprotozoatotaxonomiclevelshigherthan
+dedaolnwoD
+
+VOL.75,2009 DIVERSITY OF CILIATES IN STREAM BIOFILMS 5269
+FIG. 7. MDSgroupingofciliateassemblagesinstreambiofilmsamples,basedonT-RFLPanalysis,showingmagnitudeofvariousenviron-
+mentalparametersassociatedwithsamples(two-dimensionalstress(cid:9)0.19).Bubblesizesarescaledtoreflecttherangesofvaluesindicatedin .452.01.4.19
+Table1.Samplesforwhichenvironmentaldatawereunavailablewereomitted.
+yb
+3202
+genus being less effective in discriminating surface-associated quence and morphological data have been reconciled—does
+protozoancommunities(35).Microscopydoeshavetheadvan- allowreliableidentificationofmicrobesinenvironmentalsam- rebmetpeS
+tage of quantitative power—cells can be counted, albeit ples,thusavoidingoneofthelimitationsofT-RFLP.Fluores-
+tediously—whichmaybelackinginPCR-basedassays.Clearly, cence in situ hybridization-based techniques offer a useful
+morphological identification is possible only within the con- means of linking molecular sequence data with microscopy-
+12
+straints of the morphospecies concept, which has recognized derivedmorphologicalinformation(68).
+no
+limitations(26). Furtherstudiescombiningmolecularandmicroscopicmeth- mea/lanruoj/gro.msa.slanruoj//:sptth
+In this study, both T-RFLP and microscopy-based analyses ods are necessary for the expansion of currently limited se-
+showedbroadlysimilaroveralltrendsofdiversityinthediffer- quencedatabasecoverageofmicroeukaryotes(21).Assuming
+ent streams, and both methods produced evidence of signifi- that the availability of microeukaryote DNA sequence infor-
+cantdifferencesbetweenciliatecommunitiesindifferentlyim- mation will improve, it seems probable that in future, molec-
+pactedstreambiofilms.Itseems,therefore,thatT-RFLPand ular identification methods may prove more straightforward
+microscopicanalysesmaybeconsideredcomplementarymeth- and accurate than morphology-based methods. However, it is
+ods, the former providing a robust and efficient method for likelythatcombinedapproachesmayprovemoreinformative
+comparingciliatecommunitystructure,andthelatterallowing than either molecular or microscopy-based techniques alone
+attribution of differences between microbial assemblages (68,73).Molecularprofilingmethodsallowefficientandrobust
+andsystemstoparticularciliatetaxaorfunctionalgroups.Of comparisons of community structure, while identification and
+course,group-targetedPCRprimerssuchasthoseusedinthis descriptionoftaxausingsequencing,microscopy,andfluores- morf
+study can be used for cloning and sequencing, which—if se- cenceinsituhybridization-basedtechniquescanprovideaddi-
+dedaolnwoD
+
+5270 DOPHEIDE ET AL. APPL.ENVIRON.MICROBIOL.
+tionalinsightsandlinkstoecological,phenotypic,andphysio- studyfoundevidenceofinvertebratepredationand/orcompe-
+logical information and may allow pinpointing of ecologically titionnegativelyaffectingbiofilm-associatedciliates(46).Nev-
+importantorganisms. ertheless, it can be speculated that the homogeneity of the
+Differencesbetweenbiofilmciliatecommunitiesindifferent invertebratecommunityatsite4maymeanthatciliatesofonly
+streams.BothmicroscopyandT-RFLPanalysismethodshave certain types and sizes are subjected to predation pressures,
+providedclearevidenceofdifferencesinciliateassemblagesin resulting in the selective proliferation of nontarget taxa. In
+biofilms from differently impacted streams. These differences contrast, the diverse invertebrates at site 1 may represent a
+can be associated with environmental parameters typical of broad competitive and predatory factor, perhaps contributing
+urbanstreamdegradation,suggestingthatournullhypothesis, tothelowerabundanceanddiversityofciliatesatthissite.
+that human impacts have no effect upon biofilm-associated Different catchment land uses may cause development of
+ciliatecommunities,canberejected. differentbiofilm-associatedciliateassemblagesbyfavoringtol-
+The fewest ciliate taxa were found at site 1, a relatively erant taxa while eliminating sensitive organisms. Being sur-
+pristine stream, while the most ciliate taxa were detected in rounded by extensive urban development, site 4 is probably
+samplesfrommoderatelyimpactedsite3andhighlyimpacted exposedtovariouspollutantsinadditiontoincreasedlevelsof
+site4.Thistrendofgreaterdiversityatthemoreimpactedsites nitrogenous compounds and lower levels of dissolved oxygen.
+seemscontrarytothegenerallyacceptedtendencyforecolog- Furthermore,theartificialsubstrateinsite4maylackrefuges
+ical perturbation to lead to a simplification of community for flow-sensitive or light-sensitive organisms. A previous in-
+structure. A number of contrasting biotic and abiotic factors vestigationsuggestedthatsite4maybehometofewersessile
+suggest possible reasons for this finding. Site 1 and site 2 are peritrichtaxaandahigherfrequencyofpredatoryciliatessuch
+characterized by little exposure to sunlight or anthropogenic asLitonotusspp.andLoxophyllumspp.thantheotherstreams
+pollutants.Site3andsite4,incontrast,areexposedtoelevated investigated in this study (20). Similarly, in this study, preda-
+nitrogen loads, derived from nearby areas of agricultural and toryciliatessuchasMonodiniumspp.andLitonotusspp.were
+urban land use, respectively. Reduced density and height of detected by microscopy-based analysis only in the site 4 bio-
+riparian vegetation expose site 2 and site 3 to more sunlight film. These, and other characteristic taxa identified in site 4,
+than site 1, and site 4 receives virtually no shade whatsoever. are typically found in (cid:10)-(cid:11) mesosaprobic or polysaprobic wa-
+Nutrientenrichmentandsunlighthavebeenshowntopromote ters, indicating that they can tolerate reasonably high organic
+periphytongrowthinloticsystems(27,32,74),suggestingthat loadsandhencemoreheavilypollutedenvironments(25).This
+the more impacted sites are likely to have communities of suggeststhatphysicochemicalconditionsinsite4influencethe
+moreabundantphototrophicorganismsthanthelessimpacted developmentofaverydifferentciliatecommunitythanthosein
+streams.Thisisconsistentwithobservationsofincreasedbio- the less impacted streams included in this study. How this
+film biomass and more diverse bacterial and algal (especially differentciliatecommunityaffectstheecologicalprocessesand
+diatom)communitiesatsites3and4(LewisandTsai,unpub- interactions occurring in this stream awaits further investiga-
+lished).Thethreelessimpactedsitesinthisstudyalsoreceive tion.
+significantamountsofallochthonousdebrisfromsurrounding Conclusion.Ciliatesandotherprotozoaaremajorpredators
+vegetation,whilesite4doesnot,suggestingadifferenceinthe of bacteria and provide an important trophic link in aquatic
+relative importance of detritus-derived nutrients in these habitats, such as stream biofilms (52). Understanding proto-
+.452.01.4.19
+streams. Elevated nutrient availability can increase benthic zoan community diversity and abundance is therefore impor-
+ciliate abundance in rivers and streams (19, 50, 58) and may tantforgaininginsightsintothefunctionofthesehotspotsof
+affectciliateabundance,biomass,andcommunitycomposition microbialactivity,whichcontributesubstantiallytoecosystem
+in lentic habitats (2, 33, 51, 76). It seems possible that the processes in streams (7). Both molecular and microscopy-
+yb
+abundantbiofilmsinthemoreimpactedstreamsinthisstudy basedanalysesprovidedevidenceofdiversebiofilm-associated
+3202
+may provide more resources and a wider variety of feeding ciliate communities, with greater diversity being seen in the
+niches for heterotrophic protozoan organisms. The greater more impacted streams and with significant differences be- rebmetpeS
+varietyandabundanceofbacterivorous,algivorous,andpred- tweenciliateassemblagesinstreamsindifferentstatesofdeg-
+atoryciliatesdetectedinsamplesfromthetwomoreimpacted radationbeingobserved.Theseobservationsmayberelatedto
+sitesisconsistentwiththissuggestion. a variety of differences in environmental parameters charac- 12
+Site1ishometodiverseandabundantbenthicmacroinver- teristicofurbanstreamdegradation,suchaselevatednutrient no
+tebrates,whilesite4hasamacrobenthicinvertebratefaunaof and sunlight availability, as well as different assemblages of mea/lanruoj/gro.msa.slanruoj//:sptth
+very low diversity, consisting almost entirely of chironomid autotrophic biofilm organisms and communities of benthic
+larvae (38). Biofilms at site 1 may therefore be subjected to macroinvertebrates.Thediscrepancybetweennumbersoftaxa
+verydifferentgrazingpressuresthanbiofilmsatsite4,whichis suggested by T-RFLP analysis and those obtained by micros-
+likelytofurtheraffectthenutrientresourcesavailableinthese copy-based analysis in this study adds to evidence that ciliate
+streams. Macroinvertebrates may also negatively affect proto- diversity has been underestimated by traditional microscopic
+zoa through predation (51, 71). In addition, macroinverte- approaches.Microscopicanalysisallowedidentificationofcil-
+brates consume meiofauna, such as rotifers (59), which may iatetaxacharacteristicofdifferentstreamenvironments,how-
+also predate upon protozoa (47). Studies of the effects of ever. Future application of these complementary techniques
+top-down predation pressures on ciliates in lakes and ponds will improve our understanding of the causes and effects of
+havehadmixedresults(2,51,76).Thereisverylittleinforma- streamdegradationatthemicrobiallevel,leadingtodevelop-
+tion available on the nature of trophic interactions between ment of more effective stream monitoring and remediation morf
+ciliates and invertebrates in stream biofilms, although one strategies.
+dedaolnwoD
+
+VOL.75,2009 DIVERSITY OF CILIATES IN STREAM BIOFILMS 5271
+ACKNOWLEDGMENTS 25. Foissner, W., and H. Berger. 1996. A user-friendly guide to the ciliates
+(Protozoa,Ciliophora)commonlyusedbyhydrobiologistsasbioindicatorsin
+Wethanktheanonymousreviewersfortheirhelpfulcontributionsto rivers,lakes,andwastewaters,withnotesontheirecology.Freshw.Biol.
+themanuscript. 35:375–482.
+FundingforthisresearchwasprovidedbytheNewZealandFoun- 26. Foissner, W., A. Chao, and L. A. Katz. 2008. Diversity and geographic
+dation for Research, Science and Technology Public Good Science distributionofciliates(Protista:Ciliophora).BiodiversityConservation17:
+FundUOA306. 345–363.
+27. Francoeur,S.N.2001.Meta-analysisofloticnutrientamendmentexperi-
+ments:detectingandquantifyingsubtleresponses.J.N.Am.Benthol.Soc.
+REFERENCES 20:358–368.
+1. Aloi, J. E. 1990. A critical review of recent freshwater periphyton field 28. Fried,J.,R.Psenner,W.Ludwig,andK.H.Schleifer.2002.Improvementof
+methods.Can.J.Fish.Aquat.Sci.47:656–670. ciliateidentificationandquantification:anewprotocolforfluorescencein
+2. Andrushchyshyn,O.P.,A.K.Magnusson,andD.D.Williams.2006.Re- situhybridization(FISH)incombinationwithsilverstaintechniques.Syst.
+sponsesofintermittentpondciliatepopulationsandcommunitiestoinsitu Appl.Microbiol.25:555–571.
+bottom-upandtop-downmanipulations.Aquat.Microb.Ecol.42:293–310. 29. Fukuda,M.,A.Ashida,Y.Tomaru,andS.I.Nakano.2004.Animproved
+3. Andrushchyshyn, O. P., K. P. Wilson, and D. D. Williams. 2007. Ciliate method for collecting heterotrophic microorganisms living on pebbles in
+communities in shallow groundwater: seasonal and spatial characteristics. streams.Limnology5:41–46.
+FreshwaterBiol.52:1745–1761. 30. Gu¨cker,B.,andH.Fischer.2003.Flagellateandciliatedistributioninsed-
+4. AucklandRegionalCouncil.2007.Riverwaterquality:stateandtrendsin imentsofalowlandriver:relationshipswithenvironmentalgradientsand
+theAucklandregion.AucklandRegionalCounciltechnicalpublication336. bacteria.Aquat.Microb.Ecol.31:67–76.
+AucklandRegionalCouncil,Auckland,NewZealand. 31. Hall,R.O.,Jr.,andJ.L.Meyer.1998.Thetrophicsignificanceofbacteria
+5. Auckland Regional Council. 2007. State of the environment monitoring: inadetritus-basedstreamfoodweb.Ecol.Lett.79:1995–2012.
+rivers&streamswaterqualitydatareport2005.AucklandRegionalCouncil 32. Hillebrand, H. 2002. Top-down versus bottom-up control of autotrophic
+technicalpublication327.AucklandRegionalCouncil,Auckland,NewZea- biomass—a meta-analysis on experiments with periphyton. J. N. Am.
+land. Benthol.Soc.21:349–369.
+6. Baldwin,A.J.,J.A.Moss,J.D.Pakulski,P.Catala,F.Joux,andW.H. 33. Hillebrand,H.,M.Kahlert,A.L.Haglund,U.G.Berninger,S.Nagel,and
+Jeffrey.2005.MicrobialdiversityinaPacificOceantransectfromtheArctic S. Wickham. 2002. Control of microbenthic communities by grazing and
+toAntarcticcircles.Aquat.Microb.Ecol.41:91–102. nutrientsupply.Ecology83:2205–2219.
+7. Battin, T. J., L. A. Kaplan, J. D. Newbold, and C. M. E. Hansen. 2003. 34. Katz,L.A.,G.B.McManus,O.L.O.Snoeyenbos-West,A.Griffin,K.Pirog,
+Contributionsofmicrobialbiofilmstoecosystemprocessesinstreammeso- B.Costas,andW.Foissner.2005.Reframingthe‘everythingiseverywhere’
+cosms.Nature426:439–442. debate:evidenceforhighgeneflowanddiversityinciliatemorphospecies.
+8. Bennett,L.T.,S.Kasel,andJ.Tibbits.2008.Non-parametricmultivariate Aquat.Microb.Ecol.41:55–65.
+comparisonsofsoilfungalcomposition:sensitivitytothresholdsandindica- 35. Kepner,R.L.,Jr.,andJ.R.Pratt.1996.Characterizationofsurface-asso-
+tionsofstructuralredundancyinT-RFLPdata.SoilBiol.Biochem.40:1601– ciatedprotozoancommunitiesinaLakeEriecoastalwetland(OldWoman
+1611. Creek,Ohio).J.GreatLakesRes.22:63–76.
+9. Berninger,U.G.,B.J.Finlay,andP.Kuuppo-Leinikki.1991.Protozoan 36. Kneitel,J.M.,andJ.M.Chase.2004.Disturbance,predator,andresource
+controlofbacterialabundancesinfreshwater.Limnol.Oceanogr.36:139– interactionsaltercontainercommunitycomposition.Ecology85:2088–2093.
+147. 37. Lara, E., C. Berney, H. Harms, and A. Chatzinotas. 2007. Cultivation-
+10. Blackwood,C.B.,D.Hudleston,D.R.Zak,andJ.S.Buyer.2007.Interpret- independentanalysisrevealsashiftinciliate18SrRNAgenediversityina
+ing ecological diversity indices applied to terminal restriction fragment polycyclicaromatichydrocarbon-pollutedsoil.FEMSMicrobiol.Ecol.62:
+lengthpolymorphismdata:Insightsfromsimulatedmicrobialcommunities. 365–373.
+Appl.Environ.Microbiol.73:5276–5283. 38. Lear,G.,I.K.G.Boothroyd,S.J.Turner,K.Roberts,andG.D.Lewis.2009.
+11. Burns,C.W.,andL.M.Galbraith.2007.Relatingplanktonicmicrobialfood Acomparisonofbacteriaandbenthicinvertebratesasindicatorsofecolog-
+webstructureinlenticfreshwaterecosystemstowaterqualityandlanduse. icalhealthinstreams.Freshw.Biol.54:1532–1543.
+J.PlanktonRes.29:127–139. 39. Loeb,S.L.1981.Aninsitumethodformeasuringtheprimaryproductivity
+12. Caron,D.A.,P.D.Countway,andM.V.Brown.2004.Thegrowingcontri- andstandingcropoftheepilithicperiphytoncommunityinlenticsystems.
+butionofmolecularbiologyandimmunologytoprotistanecology:molecular Limnol.Oceanogr.26:394–399.
+signaturesasecologicaltools.J.Euk.Microbiol.51:38–48. 40. Lo´pez-García, P., F. Rodríguez-Valera, C. Pedro´s-Alio´, and D. Moreira.
+13. Chao,A.,P.C.Li,S.Agatha,andW.Foissner.2006.Astatisticalapproach 2001.Unexpecteddiversityofsmalleukaryotesindeep-seaAntarcticplank-
+to estimate soil ciliate diversity and distribution based on data from five ton.Nature409:603–607. .452.01.4.19
+continents.Oikos114:479–493. 41. Lynn,D.H.,andM.C.Struder-Kypke.2006.SpeciesofTetrahymenaiden-
+14. Clamp,J.C.,andD.Williams.2006.Amolecularphylogeneticinvestigation ticalbysmallsubunitrRNAgenesequencesarediscriminatedbymitochon-
+ofZoothamnium(Ciliophora,Peritrichia,Sessilida).J.Euk.Microbiol.53: drialcytochromecoxidaseIgenesequences.J.Euk.Microbiol.53:385–387.
+494–498. 42. Madoni,P.,andN.Bassanini.1999.Longitudinalchangesintheciliated
+15. Clarke, K. R. 1993. Non-parametric multivariate analyses of changes in protozoacommunitiesalongafluvialsystempollutedbyorganicmatter.Eur. yb
+communitystructure.Aust.J.Ecol.18:117–143. J.Protistol.35:391–402. 3202
+16. Countway, P. D., R. J. Gast, P. Savai, and D. A. Caron. 2005. Protistan 43. Madoni,P.,andS.Braghiroli.2007.Changesintheciliateassemblagealong
+diversityestimatesbasedon18SrDNAfromseawaterincubationsinthe afluvialsystemrelatedtophysical,chemicalandgeomorphologicalcharac-
+rebmetpeS
+WesternNorthAtlantic.J.Euk.Microbiol.52:95–106. teristics.Eur.J.Protistol.43:67–75.
+17. Díez,B.,C.Pedro´s-Alio´,T.L.Marsh,andR.Massana.2001.Applicationof 44. Madoni, P., and F. Sartore. 2003. Long-term changes in the structure of
+denaturinggradientgelelectrophoresis(DGGE)tostudythediversityof ciliatecommunitiesinasmallisolatedpond.ItalianJ.Zool.70:313–320.
+marinepicoeukaryoticassemblagesandcomparisonofDGGEwithother 45. Marxsen, J. 2006. Bacterial production in the carbon flow of a central
+moleculartechniques.Appl.Environ.Microbiol.67:2942–2951. Europeanstream,theBreitenbach.Freshw.Biol.51:1838–1861. 12
+18. Doherty,M.,B.A.Costas,G.B.McManus,andL.A.Katz.2007.Culture- 46. McCormick,P.V.1991.Loticprotistanherbivoreselectivityanditspotential no
+independentassessmentofplanktonicciliatediversityincoastalnorthwest impactonbenthicalgalassemblages.J.N.Am.Benthol.Soc.10:238–250.
+mea/lanruoj/gro.msa.slanruoj//:sptth
+Atlanticwaters.Aquat.Microb.Ecol.48:141–154. 47. McCormick,P.V.,andJ.Cairns,Jr.1991.Effectsofmicrometazoaonthe
+19. Dom`enech,R.,A.Gaudes,J.C.Lo´pez-Doval,H.Salvado´,andI.Mun˜oz. protistanassemblageofalittoralfoodweb.Freshw.Biol.26:111–119.
+2006. Effects of short-term nutrient addition on microfauna density in a 48. Moon-vanderStaay,S.Y.,R.DeWachter,andD.Vaulot.2001.Oceanic18S
+Mediterraneanstream.Hydrobiologia568:207–215. rDNAsequencesfrompicoplanktonrevealunsuspectedeukaryoticdiversity.
+20. Dopheide,A.,G.Lear,R.Stott,andG.Lewis.2008.Molecularcharacter- Nature409:607–610.
+ization of ciliate diversity in stream biofilms. Appl. Environ. Microbiol. 49. Nanney,D.L.,C.Park,R.Preparata,andE.M.Simon.1998.Comparison
+74:1740–1747. ofsequencedifferencesinavariable23SrRNAdomainamongsetsofcryptic
+21. Duff,R.J.,H.Ball,andP.J.Lavrentyev.2008.Applicationofcombined speciesofciliatedprotozoa.J.Euk.Microbiol.45:91–100.
+morphological-molecularapproachestotheidentificationofplanktonicpro- 50. Norf,H.,H.Arndt,andM.Weitere.2009.Responsesofbiofilm-dwelling
+tistsfromenvironmentalsamples.J.Euk.Microbiol.55:306–312. ciliatecommunitiestoplanktonicandbenthicresourceenrichment.Microb.
+22. Finlay,B.J.,andG.F.Esteban.1998.Freshwaterprotozoa:biodiversityand Ecol.57:687–700.
+ecologicalfunction.BiodiversityConservation7:1163–1186. 51. Pace,M.L.,andE.Funke.1991.Regulationofplanktonicmicrobialcom-
+23. Finlay,B.J.,G.F.Esteban,S.Brown,T.Fenchell,andK.Hoef-Emden. munitiesbynutrientsandherbivores.Ecology72:904–914.
+2006. Multiple cosmopolitan ecotypes within a microbial eukaryote mor- 52. Parry, J. D. 2004. Protozoan grazing of freshwater biofilms. Adv. Appl.
+phospecies.Protist157:377–390. Microbiol.54:167–196. morf
+24. Foissner,W.2006.Biogeographyanddispersalofmicro-organisms:areview 53. Patterson,D.J.1998.Free-livingfreshwaterprotozoa.MansonPublishing
+emphasizingprotists.ActaProtozool.45:111–136. Ltd.,London,UnitedKingdom. dedaolnwoD
+
+5272 DOPHEIDE ET AL. APPL.ENVIRON.MICROBIOL.
+54. Persson,J.,H.Hansson,andI.Renberg.2006.TheStoneBrusher,anew 67. Stockner,J.G.,andF.A.J.Armstrong.1971.Periphytonoftheexperimental
+samplerforsubmergedepilithicmaterialinshallowstreamsandlakes.Hy- lakesarea,northwesternOntario.J.Fish.Res.BoardCanada28:215–229.
+drobiologia560:385–392. 68. Stoeck,T.,S.S.Epstein,andW.H.Fowle.2003.Methodologyofprotistan
+55. Pratt,J.R.,andJ.Cairns,Jr.1985.Functionalgroupsintheprotozoa:roles discovery: from rRNA detection to quality scanning electron microscope
+indifferingecosystems.J.Protozool.32:415–423. images.Appl.Environ.Microbiol.69:6856–6863.
+56. Reiss, J., and J. M. Schmid-Araya. 2008. Existing in plenty: abundance, 69. Stoeck,T.,B.Hayward,S.S.Epstein,G.T.Taylor,andR.Varela.2006.A
+biomassanddiversityofciliatesandmeiofaunainsmallstreams.Freshw. multiple PCR-primer approach to access the microeukaryotic diversity in
+Biol.53:652–668. environmentalsamples.Protist157:31–43.
+57. Ribblett,S.G.,M.A.Palmer,andD.W.Coats.2005.Theimportanceof 70. Stoeck,T.,G.T.Taylor,andS.S.Epstein.2003.Noveleukaryotesfromthe
+bacterivorousprotistsinthedecompositionofstreamleaflitter.Freshwater permanentlyanoxicCariacoBasin(CaribbeanSea).Appl.Environ.Micro-
+Biol.50:516–526. biol.69:5656–5663.
+58. Rublee,P.A.,andA.Partusch-Talley.1995.Microfaunalresponsetofertil- 71. Stoecker,D.K.,andJ.McDowellCapuzzo.1990.Predationonprotozoa:its
+izationofanArctictundrastream.Freshw.Biol.34:81–90. importancetozooplankton.J.PlanktonRes.12:891–908.
+72. Takishita, K., M. Tsuchiya, M. Kawato, K. Oguri, H. Kitazato, and T.
+59. Schmid-Araya,J.M.,andP.E.Schmid.2000.Trophicrelationships:Inte-
+Maruyama.2007.Geneticdiversityofmicrobialeukaryotesinanoxicsedi-
+gratingmeiofaunaintoarealisticbenthicfoodweb.Freshw.Biol.44:149–
+mentofthesalinemeromicticLakeNamako-ike(Japan):onthedetectionof
+163.
+anaerobicoranoxic-tolerantlineagesofeukaryotes.Protist158:51–64.
+60. Schmidt,S.L.,D.Bernhard,M.Schlegel,andW.Foissner.2007.Phylogeny
+73. Vaerewijck,M.J.M.,K.Sabbe,J.Bare,andK.Houf.2008.Microscopicand
+of the Stichotrichia (Ciliophora; Spirotrichea) reconstructed with nuclear
+molecular studies of the diversity of free-living protozoa in meat-cutting
+small subunit rRNA gene sequences: discrepancies and accordances with
+plants.Appl.Environ.Microbiol.74:5741–5749.
+morphologicaldata.J.Euk.Microbiol.54:201–209.
+74. Von Schiller, D., E. Martí, J. L. Riera, and F. Sabater. 2007. Effects of
+61. Sheldon,F.,andK.F.Walker.1997.Changesinbiofilmsinducedbyflow
+nutrientsandlightonperiphytonbiomassandnitrogenuptakeinMediter-
+regulation could explain extinctions of aquatic snails in the lower River
+raneanstreamswithcontrastinglanduses.Freshw.Biol.52:891–906.
+Murray,Australia.Hydrobiologia347:97–108.
+75. Weisse,T.,andS.Rammer.2006.Pronouncedecophysiologicalclonaldif-
+62. Sherr,E.B.,andB.F.Sherr.1994.Bacterivoryandherbivory:keyrolesof ferences of two common freshwater ciliates, Coleps spetai (Prostomatida)
+phagotrophicprotistsinpelagicfoodwebs.Microb.Ecol.28:223–235. andRimostrombidiumlacustris(Oligotrichida),challengethemorphospecies
+63. Sherr,E.B.,andB.F.Sherr.2002.Significanceofpredationbyprotistsin concept.J.PlanktonRes.28:55–63.
+aquaticmicrobialfoodwebs.AntonieLeeuwenhoekInt.J.Gen.Mol.Mi- 76. Wickham,S.A.,S.Nagel,andH.Hillebrand.2004.Controlofepibenthic
+crobiol.81:293–308. ciliatecommunitiesbygrazersandnutrients.Aquat.Microb.Ecol.35:153–
+64. Simon,E.M.,D.L.Nanney,andF.P.Doerder.2008.The“Tetrahymena 162.
+pyriformis”complexofcrypticspecies.BiodiversityConservation17:365–380. 77. Zhang,R.,V.Thiyagarajan,andP.Y.Qian.2008.Evaluationofterminal-
+65. Sims,G.P.,R.Aitken,andA.Rogerson.2002.Identificationandphyloge- restriction fragment length polymorphism analysis in contrasting marine
+neticanalysisofmorphologicallysimilarnakedamoebaeusingsmallsubunit environments.FEMSMicrobiol.Ecol.65:169–178.
+ribosomalRNA.J.Euk.Microbiol.49:478–484. 78. Zhang,W.J.,J.Yang,Y.H.Yu,S.W.Shu,andY.F.Shen.2006.Population
+66. Slapeta,J.,D.Moreira,andP.Lopez-Garcia.2005.Theextentofprotist geneticstructureofCarchesiumpolypinum(Ciliophora:Peritrichia)infour
+diversity:Insightsfrommolecularecologyoffreshwatereukaryotes.Proc.R. Chinese lakes inferred from ISSR fingerprinting: high diversity but low
+Soc.Lond.Ser.B272:2073–2081. differentiation.J.Euk.Microbiol.53:358–363.
+.452.01.4.19
+yb
+3202
+rebmetpeS
+12
+no
+mea/lanruoj/gro.msa.slanruoj//:sptth
+morf
+dedaolnwoD
+

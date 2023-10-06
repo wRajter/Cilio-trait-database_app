@@ -1,0 +1,495 @@
+Microbes Environ. Vol. 27, No. 4, 497–503, 2012
+https://www.jstage.jst.go.jp/browse/jsme2 doi:10.1264/jsme2.ME12056
+Revealing the Diversity and Quantity of Peritrich Ciliates in Environmental
+Samples Using Specific Primer-based PCR and Quantitative PCR
+XIHAN LIU1,3 and JUN GONG1,2*
+1Laboratory of Environmental Microbiology, Yantai Institute of Coastal Zone Research, Chinese Academy of Sciences,
+Yantai 264003, China; 2Key Laboratory of Coastal Zone Environmental Processes Yantai Institute of Coastal Zone
+Research, Chinese Academy of Sciences, Yantai 264003, China; and 3Institute of Evolution and Marine Diversity,
+Ocean University of China, Qingdao 266003, China
+(Received March 9, 2012—Accepted July 4, 2012—Published online October 26, 2012)
+Peritrichs are a diverse, ecologically important ciliate group usually with a complex life cycle. To date, the community
+of the peritrichs has been investigated by using morphology-based methods such as living observation and silver
+staining. Here we show a molecular approach for characterizing the diversity and quantity of free-living peritrichs in
+environmental samples. We newly designed four peritrich-specific primers targeting 18S rRNA genes that allow clone
+library construction, screening and analysis. A quantitative real-time PCR (qPCR) assay was developed to quantify
+peritrichs in environmental samples by using rDNA copy number as an indicator. DNA extracted from four water
+samples of contrasting environmental gradients was analysed. The results showed that the peritrich community was
+differentiated among these samples, and that the diversity decreased with the increase of water salinity. The qPCR
+results are consistent with the library sequence analysis in terms of quantity variations from sample to sample. The
+development of peritrich-specific primers, for the first time, for conventional PCR and qPCR assays, provides useful
+molecular tools for revealing the diversity and quantity of peritrich ciliates in environmental samples. Also, our study
+illustrates the potential of these molecular tools to ecological studies of other ciliate groups in diverse environments.
+Key words: Ciliophora, Peritricha, qPCR, specific primers, SSU rRNA gene copy number
+Peritrich ciliates are a large and highly diverse protistan small subunit ribosomal RNA (18S rRNA) gene sequences
+group that so far comprises approximately 1,000 species (6). Because there are numerous 18S rRNA gene sequences
+(approximately 1/7 of all known ciliates) (28, 36, 37). from diverse organisms in public databases, specific PCR
+Systematically, two monophyletic peritrich subclasses, the primers or probes can be designed (and tested in silico) for
+free-living Peritrichia (formerly the order Sessilida) and the the taxa of interest. Using specific PCR primers (33) and the
+parasitic Mobilia (formerly the order Mobilida), have been quantitative real-time PCR (qPCR) assay, both the diversity
+recognized (28, 44). As the larger group, the Peritrichia and quantity (indicated by rDNA copy number) of the specific
+comprises about 105 genera (28) and at least 800 described taxa in environmental samples can be assessed efficiently
+species (16). Most of the free-living peritrichs have a complex (19, 34, 40, 45); however, a specific molecular tool for the
+life cycle with cyst, free-swimming (i.e. telotroch), and sessile detection and quantification of peritrichs from environmental
+stages (4, 28, 42). Since only the sessile forms are generally samples is not yet available.
+morphologically identifiable, they have been recorded from In this study, we aimed to design and evaluate PCR primers
+a variety of environments, e.g. freshwater (14), brackish (5, to amplify partial 18S rDNA of free-living peritrichs (subclass
+41), marine (24, 37), and soils (13); from plankton (3), and Peritrichia sensu Zhan et al. 2009) (44) and to select a primer
+biofilm or periphyton of immersed substrates and animals set for qPCR that specifically quantifies peritrich rDNA
+(12, 20, 22, 42). copies in environmental samples.
+The peritrichs are responsible for water clarification by
+their bacterivory; hence, they are an ecologically important Materials and Methods
+group in aquatic environments (9, 17, 29). The abundance of
+Sampling
+peritrichs is not often reported, and when planktonic, is
+difficult to interpret because they are either attached to algae Water samples were collected from the Guangdang River, a small
+river in Yantai, China (37°28'N, 121°28'E), on August 15, 2011.
+in the plankton, or are in stages of telotroch, which are usually
+The 10-km-long river originates from a freshwater reservoir and
+difficult to identify (see (28) and references therein). There
+flows into the Yellow Sea, with a great salinity gradient. Sampling
+are records of the temporal and spatial distribution of peritrich was made at four sites, one freshwater (F), two brackish (B1 and
+populations (41), while the community ecology of free-living B2), and one marine (M). Two liters of surface water were sampled
+peritrichs has been little studied. at each site in the lower tidal period, filtered through 200-µm-pore
+During previous decades, diversity, phylogenetic and mesh, and taken back to the laboratory within 1 h. Subsamples
+were maintained at room temperature and examined for live
+ecological studies of protists have increasingly relied upon
+peritrich ciliates under a stereoscope. Recognized cells were picked
+up with a micropipette and photographed in vivo under a microscope
+*Corresponding author. E-mail: jgong@yic.ac.cn; (BX51; Olympus, Tokyo, Japan). To collect eukaryotic biomass
+Tel: +86–535–2109–123; Fax: +86–535–2109–000. for molecular analysis, subsamples were gently filtered through 10-
+
+498 LIU et al.
+µm-pore polycarbonate membranes (diameter 47 mm; Millipore,
+Bedford, MA, USA) until filtration performance became obviously
+lower. The water volumes filtered were recorded as 220, 540, 480
+and 240 mL for sites F, B1, B2 and M, respectively. The membranes
+were placed immediately into 2-mL cryotubes and preserved at
+−80°C for DNA extraction. Salinity, pH, water temperature,
+chlorophyll a, and dissolved oxygen concentration were measured
+Fig. 1. Schematic diagram of the rDNA region targeted by peritrich-
+in situ with a multi-parameter probe (MS5; Hach, Loveland, CO,
+specific primers designed in this study (Opisthonecta henneguyi
+USA) (Table S1). (X56531) as the reference).
+DNA extraction, primer design and PCR
+Environmental DNA was extracted using the UltraClean Soil (e.g. algal) sequences were produced during PCR (Table 2).
+DNA Isolation Kit (MoBio, Solana, CA, USA). The concentration In order to screen out these non-peritrich clones, we used a nested
+of the extracted DNA was checked using a NanoDrop 2000C approach to perform colony PCR with the primer set Peri974F/
+spectrophotometer (Thermo, Winmington, DE, USA). Peri1403R against the randomly selected white clones from the
+The design of specific primers for the subclass Peritrichia was libraries of all samples. Fifty white clones were randomly selected
+based on alignment of the 18S rRNA gene sequences of 105 for colony PCR screening (with Peri974F/Peri1403R) and for
+eukaryotic organisms (49 peritrichs, 36 non-peritrich ciliates, and sequencing (with M13F/R). Based on these data, we verified that
+20 non-ciliate protozoa) retrieved from GenBank (NCBI). Four the 11 clones positively amplified with Peri974F/Peri1403R did
+candidate peritrich-specific primers targeting the conserved regions contain peritrich sequences, and that the 39 non-amplified did not.
+were newly designed (Table 1). The two reverse primers (Peri1004R Of the four libraries, these verified clones were subsequently
+and Peri1403R) were paired with the eukaryote-specific primer amplified with EukA/Peri1403R, and the PCR products were
+EukA (30) to amplify longer fragments of 18S rDNA, and short subjected to restriction fragment length polymorphism (RFLP)
+fragments were amplified with two forward primers (Peri974F and analysis with the restriction enzyme Msp I (Fermentas) according
+Peri979F) (Fig. 1). to the manufacturer’s instruction (Table 2). A few sequences
+Primer specificity was checked by submitting the sequences to subsequently determined to be chimeras were not counted. More
+probeCheck (27) and evaluated against the GenBank database by than two clones of each RFLP type were randomly selected for
+in silico analyses using BLAST (1). Furthermore, the primers were sequencing on an ABI 377 automated sequencer (Sangon). Sequence
+experimentally evaluated by PCR using genomic DNA from chimeras were checked using Mallard (2), the Bellerophon server
+peritrich isolates, with non-peritrich as control (Table S2). PCR was (23), and KeyDNATools (http://www.keydnatools.com/).
+performed in a 25-µL reaction mixture, containing 0.2 mM dNTPs,
+1.5 mM MgCl2, 0.4 mM of each primer, 1.25 units of Taq Diversity and phylogenetic analyses
+polymerase, and 1 µL DNA sample. The PCR program was carried Peritrich sequences were aligned using Muscle 3.7 (10), and a
+out on a thermocycler (Biometra, Göttingen, Germany), consisting distance matrix was generated with DNAdist using the Kimura 2-
+of 94°C for 4 min followed by 35 cycles at 94°C for 1 min, 50°C parameter model (11). Operational taxonomic units (OTUs) were
+for 1 min and 72°C for 2 min, with an additional 7 min at 72°C. determined with the software DOTUR 1.53 (35), with the furthest-
+Amplicons were checked and separated by electrophoresis in 1% neighbor algorithm and the 99% cutoff.
+agarose gel containing Gelview (BioTeke, Beijing, China) in To examine the phylogenetic positions of the environmental
+0.5×TAE buffer and visualized under UV light. The size of bands peritrich sequences obtained, the closely related sequences identified
+was compared with a Trans2K DNA ladder (Transgen, Beijing, by BLAST as well as the 18S rRNA genes of morphologically
+China). identified representatives were retrieved from GenBank. Sequences
+were aligned using Muscle, and a neighbor-joining (NJ) tree was
+Cloning, RFLP analysis and sequencing
+constructed with MEGA 4.0 (38) based on the Kimura 2-parameter
+Since longer 18S rDNA fragments tend to reveal deeper distance model. Tetrahymena species were taken as outgroup taxa.
+classification, the primer set EukA/Peri1403R yielding a 1,600-bp
+fragment of 18S rRNA gene was chosen for clone library Quantitative real-time PCR assay
+construction. Triplicate PCR products of each DNA sample extracted To quantify the peritrich rDNA copy numbers in the water
+from the Guangdang River were combined to minimize PCR biases. samples, quantitative PCR was performed using SYBR Green with
+The PCR products were gel-isolated and cleaned using the TIANprep the primer set Peri974F/Peri1403R, which amplifies a fragment of
+Midi Purification Kit (Tiangen, Beijing, China) and cloned into about 441 bp (Fig. 1). Serial tenfold dilutions (10−1 to 10−8) of a
+competent cells of Escherichia coli with the InsTAclone PCR linear DNA fragment (21) were used to generate a standard curve.
+Cloning Kit (Fermentas, Hanover, MD, USA) according to the Using the primer set M13F/M13R, this 1775-bp-long linear fragment
+manufacturer’s instructions. was obtained from PCR amplification of a circular plasmid
+Initially, we used a clone library of the freshwater sample to test (pTZ57R/T vector; Fermentas), which contained an insert of the
+the specificity of the PCR using the primer set EukA/Peri1403R. EukA/Peri1403R fragment of a Vorticella sp. (accession no.
+Multiple white clones were randomly placed into 0.5-mL aliquots JQ743703). The 25 µL reactions contained 12.5 µL Maxima SYBR
+of Luria-Bertani broth, incubated overnight at 37°C, and sent to Green PCR/Rox qPCR Master Mix (Fermentas), 0.4 µM of each
+Sangon Company (Shanghai, China) for sequencing. The prelimi- primer, 1 µL template DNA, 0.1 µLbovine serum albumin (BSA,
+nary results showed that a considerable proportion of non-peritrich 100 µg µL−1) and 10.4 µL RNase-free water. All reactions were
+Table 1. Primers newly designed and tested for the amplification of peritrich 18S rRNA genes
+Primer Name Sequence (5'-3') Length GC% Tm (ºC) References
+EukA AACCTGGTTGATCCTGCCAGT 21 52.4 58.9 Medlin et al., 1988
+Peri974F GGAAACTCATCAGGRCAAGAAGATT 25 42 54.9–57.3 This study
+Peri979F CTCATCAGGRCAAGAAGATT 20 42.5 49.3–52.3 This study
+Peri1004R TCCTAYAATCTTCTTGYCCTGATG 24 41.7 51.7–56.6 This study
+Peri1403R GGGCGRTGTGTACATTTTG 19 50 51.8–54.5 This study
+
+Specific Primers for Peritrich Ciliates 499
+Table 2. Summary of the clone library analysis of the four sampling (DQ298151) at the 3' primer end, and no less than 3 sites
+sites for other non-peritrich sequences.
+Sampling siteb F B1 B2 M The primer pairs EukA/Peri1004R, EukA/Peri1403R,
+Peri974F/Peri1403R and Peri979F/Peri1403R all produced
+No. of clones checked 193 168 168 168
+positive amplifications on genomic DNAs of peritrich
+No. of RFLP types 19 11 11 1
+isolates, and generally non-amplification of non-peritrich
+No. of peritrich clones obtained 30 7 18 1
+ciliates (Table S2). One microliter of template DNA or about
+No. of peritrich sequences 10 4 8 1
+No. of peritrich OTUsa 6 1 4 1 1/20 of genomic DNA of a single isolated peritrich cell of
+Vorticella sp. was enough to yield bright specific bands with
+a OTU sequence similarity cutoff 99%.
+b F, freshwater site; B1, B2, brackish sites 1 and 2; M, marine site. 35 PCR cycles (data not shown). Using cloning and
+sequencing we also confirmed that the primer set Peri974F/
+Peri1403R was highly peritrich-specific, hence it is suitable
+performed in triplicate with an ABI 7500 Fast Real-Time PCR for qPCR and reliable for environmental surveys (see
+System (Applied Biosystems, Foster City, CA, USA). The PCR
+Materials and methods).
+program followed the three-step protocol, starting with an initial
+Compared with Peri974F/Peri1403R, PCR with the
+soaking step at 50°C for 2 min and activation of Maxima Hot Start
+primer set EukA/Peri1403R produced a longer fragment of
+Taq DNA Polymerase at 95°C for 10 min, followed by 40 cycles
+of denaturation at 95°C for 15 s, annealing at 60°C for 30 s, and 18S rDNA, but its specificity was much lower, as less than
+extension at 72°C for 30 s. Data collection time was set at the 10% clones examined (n=697) were peritrichs (Table 2).
+extension step. The specificity of the PCR product and the most Nevertheless, it was shown that peritrich-specific clones can
+fitted annealing temperature were verified according to melting be successfully screened out by primers Peri974F/Peri1403R
+curve analysis (preprogrammed as follows: 95°C for 15 s, 60°C for
+whose amplicons are semi-nested within that of EukA/
+1 min, 95°C for 30 s, and 60°C for 15 s). The efficiency of the
+amplification was calculated as follows: E = (10−1/k−1) × 100%, Peri1403R.
+where E is PCR efficiency and k is the slope. The number of
+Peritrich ciliate composition and distribution along the
+molecules amplified in the standard was calculated using the
+following formula: molecules µL−1 = a/(1,775 × 660) × 6.022 × Guangdang River
+1023, where a is the DNA concentration of the standard (g µL−1), A total of 697 clones from 4 libraries of the river samples
+1,775 is the fragment length, 660 is the average molecular weight
+were screened, and 67 peritrich clones and 23 peritrich
+of one base pair of double-strand DNA, and 6.022 × 1023 is the
+sequences were identified and obtained, 28% sequences were
+molar constant (40, 45).
+found to be chimeras, and 11 OTUs were finally determined
+Nucleotide sequence accession numbers (Table 2; Fig. 2). Peritrich OTUs were seldom shared among
+Environmental 18S rRNA gene sequences of peritrichs have been
+deposited in the GenBank database under accession numbers
+JQ743680–JQ743702.
+Results
+Specificity of newly designed primers
+The in silico check using probeCheck and BLAST against
+GenBank confirmed that none of these newly designed
+primers matched members of the subclass Mobilia and other
+organisms, and that all the peritrich 18S rDNA sequences
+available at present were targeted very well across lineages
+except for a few species. Peri974F and/or Peri979F matched
+perfectly with 46 (93.9%) peritrich sequences belonging to
+genera such as Astylozoon, Carchesium, Epicarchesium,
+Epistylis, Ophrydium, Opisthonecta, Pseudovorticella,
+Telotrochidium, Vaginicola, Vorticella, Zoothamnium and
+Zoothamnopsis, but mismatched with three peritrich
+sequences at 2–4 sites: Epistylis galea (AF401527),
+Campanella umbellaria (AF401524), and Opercularia
+microdiscum (AF401525). Non-peritrich sequences differed
+from the primer at at least 3 sites. Peri1004R showed perfect
+Fig. 2. A Neighbor-Joining tree based on the Kimura 2-parameter
+matches with 7 peritrich sequences, 1 mismatch at the 5' distance model, showing the phylogenetic positions of the 11 peritrich
+primer end with 39 peritrich sequences, and 3–4 mismatches OTUs from freshwater (F), two brackish (B1, B2), and marine (M)
+samples collected from the Guangdang River. Sequences obtained
+with E. galea (AF401527), C. umbellaria (AF401524), and
+in this study are shaded. The numbers of clones belonging to each
+more than 4 mismatches with O. microdiscum (AF401525) OTU are shown in the parentheses. Only bootstrap values no less
+and non-peritriches. Peri1403R showed perfect matches with than 50% are shown at nodes. Vorticella microstoma, which is placed
+47 peritrich sequences including E. galea (AF401527), C. apart from other congeners, is classified in the family Astylozoidae
+according to Sun et al. (2012). The scale bar indicates 2 substitutions
+umbellaria (AF401524), but showed 1 mismatch with O.
+per 100 nucleotide positions. Two Tetrahymena species are selected as
+microdiscum at the 5' primer end and an uncultured bacterium outgroup taxa.
+
+500 LIU et al.
+sites, except for one (OTU7) that was found at both sites B1
+and M (Fig. 2). In the library of the freshwater site, 6 OTUs
+were detected; the most frequently found (70%) sequences
+belonged to the OTU2, which clustered with Epistylis
+hentscheli and E. plicatilis in the NJ tree; OTU3 was the
+second most abundant, accounting for 13% sequence abun-
+dance. OTU6 was clustered with an uncultured ciliate species
+(HQ219427) previously detected in a dimictic and eutrophic
+freshwater lake in France (31). Other OTUs (OTU1, 4 and
+5) in the freshwater library were detected only once. Among
+these, OTU1 clustered with OTU3 at 53% support. OTU4
+grouped with Vorticellidae (Carchesium polypinium) and
+Ophrydiidae with moderate bootstrap support (75%). The Fig. 3. Standard curve showing the linear relationship between CT
+values and lg rDNA copy numbers for serially diluted 18S rDNA
+phylogenetic position of OTU5 was very close to OTU6.
+obtained from Vorticella sp. (accession no. JQ743703).
+For the two brackish sites, there were more OTUs (4 vs
+1) in B2 than B1 (Table 2). OTU7 was represented by 7
+clones in B1, clustering with Zoothamnium nii with 100%
+bootstrap support. The B2 library was dominated by OTU8
+and OTU9 (relative abundance 39% and 39%), which likely
+belong to a population of Opisthonecta minima (EF417834,
+sequence similarity about 99%) and the family Epistylididae,
+respectively. OTU11 was similar to OTU9 and belonged to
+Epistylididae. OTU10 was close to OTU1 and 3. Among
+these OTUs, the taxonomic positions of OTU1, 3 and 10
+could not be resolved in our phylogenetic analyses.
+For the morphological observation of water samples, we
+only found two morphospecies Epistylis sp. and Zoothamnium
+sp. at freshwater and brackish sites, respectively (Fig. S1).
+Fig. 4. Peritrich rDNA copy numbers of four water samples. Error
+bars indicate the standard deviations. F, freshwater site; B1, B2, brack-
+Quantifying peritrich ciliates using rDNA copy numbers as ish sites 1 and 2; M, marine site. The asterisk indicates that no data
+an indicator could be obtained for the marine sample.
+Specific PCR products were identified by melting curve
+analysis and a reproducible distinct melting point (Tm) of Discussion
+78.39°C was observed from all standards. The linear
+relationship between the CT (cycle threshold) and the log of Although most ciliates including peritrichs can be easily
+rDNA copy number was CT=3.5187×lg (rDNA copies µL−1) observed under a microscope, their identification has been
++ 32.035, with an amplification efficiency of 92.4% and R2 based on their morphology, infraciliature and silverline
+of 0.999 (Fig. 3). Melting curves of environmental samples system revealed using silver staining methods (15), which,
+were almost identical to those of the standards during the however, is difficult for non-specialists and time-consuming
+qPCR assay (Tm=79.97°C), except for the marine sample, for ecological and biogeographic studies. Recent studies
+for which melting curves with a peak of primer dimers were have also shown that morphological markers underestimate
+observed (Fig. S2). According to the CT values obtained (23, peritrich diversity (18, 43). This demonstrated the importance
+26, and 24), the peritrich rDNA gene copy numbers were of using molecular tools to characterize the diversity of both
+calculated as 112.40±7.00, 5.72±1.08 and 29.91±3.30 (×104 isolated and environmental peritrichs.
+liter−1) in the F, B1 and B2 samples (Fig. 4). The non-specific Phylum-specific primers for ciliates have been developed
+amplicons of the marine samples were confirmed to be primer and successfully used for soil ecosystems (8, 26, 33);
+dimers by running electrophoresis in a 1.5% agarose gel (data however, for aquatic samples where highly diverse protists
+not shown), so we could not quantify peritrich sequences in occur, some non-ciliates would also be targeted by these
+the marine sample. primers, resulting in substantial decreases of PCR specificity
+According to the standard curve, the minimum detection (8). In order to reveal both the diversity and quantity of
+sensitivity was 96 copies of 18S rDNA (CT value of 29.97 ecologically important ciliate groups in aquatic environments,
+± 0.20), corresponding to rDNA extracted from 0.0006 cells specific primers for ciliate taxa in lower ranks (e.g. classes,
+of Vorticella sp., as we had estimated the rDNA copy number orders, families etc.) with highly specific performance may
+per cell of this species to be 160,000 (unpublished data). be one of the options. For example, order-specific primers
+Correlation among richness, abundance and environmental have been used for studying clone library analysis (7) and
+factors showed that water salinity was better coupled with denaturing gradient gel electrophoresis (DGGE) profiling
+peritrich OTU, sequence and rDNA copy numbers than other (39) of marine planktonic oligotrich and choreotrich ciliates.
+factors (Table S1). Their coefficients ranged from −0.81 to In this study we extend and expand this strategy by designing
+−0.90, indicating a negative effect of salinity on peritrich and testing primers specifically and developed a qPCR assay
+community diversity and abundance. for characterizing peritrich ciliates.
+
+Specific Primers for Peritrich Ciliates 501
+With the four samples from the Guangdang River, we Peri1403R, we have also developed a qPCR assay for
+showcase the good specificity of the primer pair Peri974F/ quantifying peritrich rDNA copy numbers in environmental
+Peri1403R, and the nested approach for studying peritrich samples. The ratio of copy numbers generated using qPCR
+community from environmental samples. It should be noted (116:5:32) is roughly consistent with the ratio of peritrich
+that species in the order Operculariida (e.g. Epistylis galea, clone numbers (30:7:18) at least for the samples (F, B1 and
+Campanella umbellaria, and Opercularia microdiscum, see B2) from the Guangdang River, although the water volumes
+[43]; Fig. 2) have several mismatches mostly at the 5' end filtered differed among samples (220, 540 and 480 mL).
+with these primers. We did not detect any sequences closely Furthermore, only 1 peritrich clone was detected from the
+related to or placed in this order, which is possibly a sign of 168 selected clones of library M, and the low abundance
+the incapability of the primers to cover this group, or because of peritrichs at this site was verified by the qPCR result
+no members of this group actually presented in the water (i.e. below the detection limit of qPCR). For the Vorticella
+samples. We presume that the latter is more likely since a sp. used for generating standard curves in the qPCR assay,
+relatively low annealing temperature (50°C) was employed we had estimated the rDNA copy number per cell to be
+in PCR; however, the primers need to be tested on isolated 160,000 (more data on rDNA copy numbers from a variety
+examples of the three species. of ciliate species are in preparation). The high sensitivity
+The pair EukA/Peri1403R amplifying a long fragment (lower detection limitation of about 0.0006 cells), specificity,
+(about 1,600 bp) of 18S rDNA showed low specificity reproducibility, and relatively low cost of using SYBR
+(<10%), as shown by the results of clone sequencing (Table Green fluorescence enabled it become a practical tool for
+2). However, taking these clones with known sequence the detection and quantification of peritrichs in various
+information as templates, we demonstrated that colony PCR environments.
+with the primer set Peri974F/Peri1403R was only able to The protocol for DNA extraction may be a key factor that
+amplify the clones of peritrich sequences, not the non- affects the result of qPCR in our study. Some environmental
+peritrichs (e.g. alga). This suggests that the primer set DNA will inevitably be lost during the procedure in the use
+Peri974F/Peri1403R outperforms EukA/Peri1403R in spe- of either the UltraClean Kit or any other commercial kits for
+cifically recovering peritrich sequences from environmental DNA extraction. This will lead to underestimation of the
+DNA, although the length of PCR products is relatively rDNA copy numbers, and hence the quantity of the taxa in
+shorter (about 441 bp). question; however, the effect will be minimized if DNA
+The aims of this study were primer design and protocol samples are extracted and processed in parallel, and will be
+optimization rather than application; however, the results no problem in ecological studies in which many samples are
+provide an interesting insight into the diversity and compo- compared.
+sition of peritrich ciliates in water samples with distinct With these peritrich-specific primers and the developed
+environmental gradients. With these peritrich-specific prim- qPCR protocol, additional applications are possible. For
+ers and sequencing, we detected 11 peritrich OTUs in about instance, the internal transcribed spacers (ITS) and 28S
+1.5 L of water samples from the Guangdang River. The local rRNA genes have been suggested as barcodes for fungi, and
+(alpha-) diversity of peritrich ciliates seems to be low. This for biogeographic analysis (32, 46). Our peritrich-specific
+may be due to strong environmental gradients, especially forward primers can be paired with other primers targeting
+salinity differences. Our data from the Guangdang River the ITS, 5.8S and 28S rRNA genes, thus yielding longer
+samples also showed that peritrich diversity generally fragments which could be useful in population genetics or
+decreased from the freshwater site to the marine site (Table biogeographic studies. qPCR has also been used for assessing
+2, S1). Is peritrich diversity in water samples mainly controled the gene copy number within a given genome (25, 40).
+by salinity, other environmental factors or food supply? Is Likewise, the qPCR assay could also be employed to assess
+peritrich diversity higher in freshwater than in marine rDNA copy numbers per peritrich cell from species to species,
+habitats? These ecological/biogeographic questions warrant which might be helpful in calculating peritrich abundance in
+further studies with delicated experimental design and environmental samples given that the total rDNA copy
+analyses. number is known and the species composition of the sample
+From the Guangdang River samples we obtained several is well identified.
+peritrich rRNA gene sequences (e.g. OTU1, 3, and 10), which In conclusion, we report here for the first time the
+are placed basal to known species/taxa with low bootstrap development of specific primers for characterizing the
+values (<50%) in the NJ tree. This does not necessarily mean peritrich ciliate community in environments using conven-
+that these sequences represent new species or new taxa of tional PCR and real-time quantitative PCR assays. The DNA-
+peritrichs, because among the 800 described peritrich species based approach circumvents the difficulties of morphological
+there is only a small proportion whose 18S rRNA genes are identification and allows the detection of peritrichs of all
+available from public databases. Nevertheless, it can be development stages. The molecular approach also enables
+deduced that these OTUs could be rare in environmental the analysis of many samples from different environments,
+samples and hence have frequently “escaped” morphological which will undoubtedly stimulate further ecological and
+observation. biogeographic researches on these organisms. Also, our study
+Quantitative PCR has advantages such as high accuracy illustrates the potential of taxon-based molecular tools to
+and throughput and has been employed for quantifying reveal the diversity and quantity of other ciliate groups in
+eukaryotic groups such as diatoms, dinoflagellates, and freshwater, marine, and terrestrial ecosystems.
+picoeukaryotes (19, 34, 45). Using the primers Peri974F/
+
+502 LIU et al.
+Acknowledgements 19. Godhe, A., M.E. Asplund, K. Harnstrom, V. Saravanan, A. Tyagi, and
+I. Karunasagar. 2008. Quantification of diatom and dinoflagellate
+This work was supported by the One Hundred Talent Program biomasses in coastal marine seawater samples by real-time PCR.
+of CAS, the Natural Science Foundation of China (grant Nos. Appl. Environ. Microbiol. 74:7174–7182.
+40976099 and 41176143), and a grant from FANEDD (No. 20. Gong, J., W. Song, and A. Warren. 2005. Periphytic ciliate coloniza-
+2007B27). tion: annual cycle and responses to environmental conditions. Aquat.
+Microb. Ecol. 39:159–170.
+21. Hou, Y., H. Zhang, L. Miranda, and S. Lin. 2010. Serious overestima-
+References
+tion in quantitative PCR by circular (supercoiled) plasmid standard:
+microalgal pcna as the model gene. PLoS ONE 5:e9545.
+1. Altschul, S.F., T.L. Madden, A.A. Schäffer, J. Zhang, Z. Zhang, W.
+22. Hu, X., and W. Song. 2001. Description of Zoothamnium chlamydis
+Miller, and D.J. Lipman. 1997. Gapped BLAST and PSI-BLAST: a
+sp. n. (Protozoa: Ciliophora: Peritrichida), an ectocommensal peritric-
+new generation of protein database search programs. Nucleic Acids
+hous ciliate from cultured scallop in North China. Acta Protozool.
+Res. 25:3389–3402.
+40:215–220.
+2. Ashelford, K.E., N.A. Chuzhanova, J.C. Fry, A.J. Jones, and A.J.
+23. Huber, T., G. Faulkner, and P. Hugenholtz. 2004. Bellerophon: a
+Weightman. 2006. New screening software shows that most recent
+program to detect chimeric sequences in multiple sequence align-
+large 16S rRNA gene clone libraries contain chimeras. Appl. Environ.
+ments. Bioinformatics 20:2317–2319.
+Microbiol. 72:5734–5741.
+24. Ji, D., W. Song, K.A.S. Al-Rasheid, and L. Li. 2005. Taxonomic
+3. Balazi, P., and D. Matis. 2002. Composition, seasonal dynamics and
+characterization of two marine peritrichous ciliates, Pseudovorticella
+feeding groups of ciliated protozoa in the pelagial of the Morava
+clampi n. sp. and Zoothamnium pararbuscula n. sp. (Ciliophora:
+river. Biologia 57:153–160.
+Peritrichia), from North China. J. Eukaryot. Microbiol. 52:159–169.
+4. Calvo, P., M.C. Fernandez-Aliseda, J. Garrido, and A. Torres. 2003.
+25. Jousson, O., C. Pretti, D. Di Bello, and A.M. Cognetti-Varriale. 2005.
+Ultrastructure, eneystment and cyst wall composition of the resting
+Non-invasive detection and quantification of the parasitic ciliate
+cyst of the peritrich ciliate Opisthonecta henneguyi. J. Eukaryot.
+Ichthyophthirius multifiliis by real-time PCR. Dis Aquat Organ
+Microbiol. 50:49–56.
+65:251–255.
+5. Clamp, J.C., and D.W. Coats. 2000. Planeticovorticella finleyi
+26. Lara, E., C. Berney, H. Harms, and A. Chatzinotas. 2007. Cultivation-
+n.g., n.sp. (Peritrichia, Vorticellidae), a planktonic ciliate with a
+independent analysis reveals a shift in ciliate 18S rRNA gene
+polymorphic life cycle. Invertebr. Biol. 119:1–16.
+diversity in a polycyclic aromatic hydrocarbon-polluted soil. FEMS
+6. Countway, P.D., R.J. Gast, P. Savai, and D.A. Caron. 2005. Protistan
+Microbiol. Ecol. 62:365–373.
+diversity estimates based on 18S rDNA from seawater incubations in
+27. Loy, A., R. Arnold, P. Tischler, T. Rattei, M. Wagner, and M. Horn.
+the western North Atlantic. J. Eukaryot. Microbiol. 52:95–106.
+2008. probeCheck-a central resource for evaluating oligonucleotide
+7. Doherty, M., B.A. Costas, G.B. McManus, and L.A. Katz. 2007.
+probe coverage and specificity. Environ. Microbiol. 10:2894–2898.
+Culture-independent assessment of planktonic ciliate diversity in
+28. Lynn, D.H. 2008. The Ciliated Protozoa: Characterization, Classifica-
+coastal northwest Atlantic waters. Aquat. Microb. Ecol. 48:141–157.
+tion and Guide to the Literature, 3rd ed. Springer, Dordrecht.
+8. Dopheide, A., G. Lear, R. Stott, and G. Lewis. 2008. Molecular
+29. Martín-Cereceda, M., S. Serrano, and A. Guinea. 2001. Biofilm
+characterization of ciliate diversity in stream biofilms. Appl. Environ.
+communities and operational monitoring of a rotating biological
+Microbiol. 74:1740–1747.
+contactor system. Water Air Soil Pollut. 126:193–206.
+9. Dubber, D., and N.F. Gray. 2011. The effect of anoxia and anaerobia
+30. Medlin, L., H.J. Elwood, S. Stickel, and M.L. Sogin. 1988. The
+on ciliate community in biological nutrient removal systems using
+characterization of enzymatically amplified eukaryotic 16S-like
+laboratory-scale sequencing batch reactors (SBRs). Water Res.
+rRNA-coding regions. Gene 71:491–499.
+45:2213–2226.
+31. Monchy, S., G. Sanciu, M. Jobard, et al. 2011. Exploring and
+10. Edgar, R.C. 2004. MUSCLE: multiple sequence alignment with high
+quantifying fungal diversity in freshwater lake ecosystems using
+accuracy and high throughput. Nucleic Acids Res. 32:1792–1797.
+rDNA cloning/sequencing and SSU tag pyrosequencing. Environ.
+11. Felsenstein, J. 2005. PHYLIP (Phylogeny Inference Package) version
+Microbiol. 13:1433–1453.
+3.69. Department of Genome Sciences, University of Washington,
+32. Nilsson, R.H., E. Kristiansson, M. Ryberg, N. Hallenberg, and K.H.
+Seattle, USA.
+Larsson. 2008. Intraspecific ITS variability in the kingdom fungi as
+12. Fernandez-Leborans, G., and M.L. Tato-Porto. 2000. A review of the
+expressed in the international sequence databases and its implications
+species of protozoan epibionts on crustaceans. I. Peritrich ciliates.
+for molecular species identification. Evol. Bioinform. 4:193–201.
+Crustaceana 73:643–683.
+33. Puitika, T., Y. Kasahara, N. Miyoshi, Y. Sato, and S. Shimano. 2007.
+13. Foissner, W., S. Agatha, and H. Berger. 2002. Soil ciliates (Protozoa,
+A taxon-specific oligonucleotide primer set for PCR-based detection
+Ciliophora) from Namibia (Southwest Africa), with emphasis on two
+of soil ciliate. Microbes Environ. 22:78–81.
+contrasting environments, the Etosha region and the Namib Desert.
+34. Rodríguez-Martínez, R., M. Labrenz, J. del Campo, I. Forn, K.
+Denisia 5:1–1459.
+Jürgens, and R. Massana. 2009. Distribution of the uncultured protist
+14. Foissner, W., H. Berger, and F. Kohmann. 1992. Taxonomische und
+MAST-4 in the Indian Ocean, Drake Passage and Mediterranean Sea
+ökologische Revision der Ciliaten des Saprobiensystems, Band II:
+assessed by real-time quantitative PCR. Environ. Microbiol. 11:397–
+Peritrichia, Heterotrichia, Odontostomatida. Informationsberichte des
+408.
+Bayerischen Landesamt für Wasserwirtschaft, 5/92:1–502.
+35. Schloss, P.D., and J. Handelsman. 2005. Introducing DOTUR, a
+15. Foissner, W., H. Berger, and J. Schaumburg. 1999. Identification and
+computer program for defining operational taxonomic units and
+ecology of limnetic plankton ciliates. Informationsberichte des
+estimating species richness. Appl. Environ. Microbiol. 71:1501–
+Bayerischen Landesamtes für Wasserwirtschaft, 3/99:1–793.
+1506.
+16. Foissner, W., N. Blake, K. Wolf, H.W. Breiner, and T. Stoeck. 2009.
+36. Sun, P., J. Clamp, D. Xu, Y. Kusuoka, and W. Miao. 2012. Vorticella
+Morphological and molecular characterization of some peritrichs
+Linnaeus, 1767 (Ciliophora, Oligohymenophora, Peritrichia) is a
+(Ciliophora: Peritrichida) from tank bromeliads, including two new
+grade not a clade: redefinition of Vorticella and the families
+genera: Orborhabdostyla and Vorticellides. Acta Protozool. 48:291–
+Vorticellidae and Astylozoidae using molecular characters derived
+319.
+from the gene coding for small subunit ribosomal RNA. Protist
+17. Fried, J., G. Mayr, H. Berger, W. Transpurger, R. Psenner, and H.
+163:129–142.
+Lemmer. 2000. Monitoring protozoa and metazoa biofilm communi-
+37. Sun, P., J.C. Clamp, and D. Xu. 2010. Analysis of the secondary
+ties for assessing wastewater quality impact and reactor up-scaling
+structure of ITS transcripts in peritrich ciliates (Ciliophora,
+effects. Water Sci. Technol. 41:309–316.
+Oligohymenophorea): implications for structural evolution and phylo-
+18. Gentekaki, E., and D.H. Lynn. 2010. Evidence for cryptic speciation
+genetic reconstruction. Mol. Phylogenet. Evol. 56:242–251.
+in Carchesium polypinum Linnaeus, 1758 (Ciliophora: Peritrichia)
+38. Tamura, K., J. Dudley, M. Nei, and S. Kumar. 2007. MEGA4:
+inferred from mitochondrial, nuclear, and morphological markers. J.
+Molecular Evolutionary Genetics Analysis (MEGA) Software
+Eukaryot. Microbiol. 57:508–519.
+Version 4.0. Mol. Biol. Evol. 24:1596–1599.
+
+Specific Primers for Peritrich Ciliates 503
+39. Tamura, M., L.A. Katz, and G.B. McManus. 2011. Distribution 43. Utz, L.R.P., T.L.L. Simão, L.S.L. Safi, and E. Eizirik. 2010.
+and diversity of oligotrich and choreotrich ciliates across an environ- Expanded phylogenetic representation of genera Opercularia and
+mental gradient in a large temperate estuary. Aquat. Microb. Ecol. Epistylis sheds light on the evolution and higher-level taxonomy of
+64:51–67. peritrich ciliates (Ciliophora: Peritrichia). J. Eukaryot. Microbiol.
+40. Taniguchi, A., H. Onishi, and M. Eguchi. 2011. Quantitative PCR 57:415–420.
+assay for the detection of the parasitic ciliate Cryptocaryon irritans. 44. Zhan, Z., K. Xu, A. Warren, and Y. Gong. 2009. Reconsideration of
+Fisher. Sci. 77:607–613. phylogenetic relationships of the subclass Peritrichia (Ciliophora,
+41. Utz, L.R.P., and D.W. Coats. 2005. Spatial and temporal patterns in Oligohymenophorea) based on small subunit ribosomal RNA gene
+the occurrence of peritrich ciliates as epibionts on calanoid copepods sequences, with the establishment of a new subclass Mobilia Kahl,
+in the Chesapeake Bay, USA. J. Eukaryot. Microbiol. 52:236–244. 1933. J. Eukaryot. Microbiol. 56:552–558.
+42. Utz, L.R.P., and D.W. Coats. 2008. Telotroch formation, survival, 45. Zhu, F., R. Massana, F. Not, D. Marie, and D. Vaulot. 2005. Mapping
+and attachment in the epibiotic peritrich Zoothamnium intermedium of picoeucaryotes in marine ecosystems with quantitative PCR of the
+(Ciliophora, Oligohymenophorea). Invertebr. Biol. 127:237–248. 18S rRNA gene. FEMS Microbiol. Ecol. 52:79–92.
+46. Zinger, L., B. Shahnavaz, F. Baptist, R.A. Geremia, and P. Choler.
+2009. Microbial diversity in alpine tundra soils correlates with snow
+cover dynamics. ISME J. 3:850–859.
+

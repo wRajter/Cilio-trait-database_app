@@ -1,0 +1,754 @@
+GRAY,E . (1952). J. gen. Microbiol. 6, 108-122
+The Ecology of the Ciliate Fauna of Hobson’s Brook,
+a Cambridgeshire Chalk Stream
+BY E. GRAY
+Ministry of Agriculture, National Agricultural Advisory Service, Eastern
+Prowince, Anstey Hall, Trumpington, near Cambridge
+SUMMARY: An investigation has been carried out into the association between
+ciliate Protozoa and bacteria in a chalk stream. The ciliates are discussed in the
+present paper. In general, the largest number of ciliate species and individual
+species were associated with a growth of green or blue-green filamentous algae.
+A zonation in the distribution of species along the length of the stream was observed,
+and particular species were found to undergo cyclical variations in the numbers of
+individuals. Though there was no correlation between total bacterial numbers and
+total numbers of ciliates present at any time, the highest bacterial numbers occurred
+when diatom-eating ciliates were dominant. Statistical analysis showed that the
+presence of Gram-negative rods in the bacterial flora was correlated with the
+presence of bacteria-eating ciliates. Gram-positive rods, on the other hand, were
+correlated with the presence of diatom-eating ciliates. The bacterial flora of the
+stream was in part determined from that of the surrounding soil. The periods of
+abundance of ciliates seemed to be related to weather conditions, since ciliates were
+found to increase in numbers after heavy rain or during prolonged droughts when
+the banks tended to crumble. Various observations suggest that the ciliate faunas
+of soil and brook are largely identical. The addition of a small quantity of a broth
+culture of a micrococcus isolated from the brook to cultures of soil ciliates in soil-
+extract hay-infusion medium led to a rapid multiplication of ciliates.
+An investigation of the ecology of the ciliate fauna of a chalk stream
+(Hobson’s Brook) was carried out over a period of 2 years, the immediate
+object being to ascertain whether Hassall(l855) was correct in his assumption
+that fresh-water ciliates are constantly associated with sewage pollution. This
+paper discusses the results obtained so far as they concern the ciliate fauna.
+The stream has been described in detail in a previous paper (Gray, 1951). It
+flows from chalk springs known as the Nine Wells, the term Nine denoting an
+indefinite number (Conybeare, 1897), and its fall is gradual except in a gravel
+reach 300 yards below the springs where the water crosses the 45 ft. contour.
+Nevertheless, the force of water is always considerable. Most of the springs are
+rheocrene in character with neutral or slightly acid waters (pH 6.6-7-0) and like
+other chalk springs flow at a practically constant temperature throughout the
+year. The biota have been described in a previous paper (Gray, 1951).
+Methods
+Samples were taken from the current core at twelve fixed stations along the
+stream in four arbitrary zones of the upper reach of the Brook (Gray, 1951);
+from communities of filamentous algae ( Ulothriz,S pirogyra, Cladophora)w hich
+occurred at the sides or on the bottom of the stream, though not generally in
+Downloaded from www.microbiologyresearch.org by
+IP: 130.203.136.75
+On: Fri, 16 Sep 2016 03:14:25
+
+Ecology of a chalk stream 109
+mid-stream owing to the scouring action of the current; from the flowering
+plants in the centre of the Brook; from the bottom mud. When the region of
+maximum abundance had been determined, samples were taken only from
+the current core.
+Samples were taken in the manner previously described (Gray, 1951). The
+temperature of the stream was determined at the time and place of sampling,
+and pH values were determined colorimetrically on return to the laboratory.
+Water samples were either centrifuged or filtered through gauze and sand,
+and the deposit or residue examined. When filamentous algae or other macro-
+scopic plants were present, these were agitated in the original water sample
+after it had been poured into a dish. The plants were then discarded and the
+contents allowed to settle in a conical funnel. Not less than six uniform drops
+of the sediment obtained by these methods was examined, and the ciliates
+were recorded as absent, present, or numerous according to whether 0-5,5-10,
+or more than 10 individuals were present (cf. Hausman, 1917).
+The numbers of individuals and of species of ciliates were generally small
+(Table 1). Sometimes a few individuals of several species were found,
+when all were recorded as present. Occasionally the drops contained large
+numbers of one or two species only, in which case the species present in
+greatest numbers was recorded as dominant and the less numerous form as
+subdominant. It was not uncommon to find that on a given day, six or more
+drops contained only a very few individuals of several species of ciliate,
+whereas a day or two later a sample from the same place might teem with
+individuals of one or two species to the exclusion of all others.
+During the summer of 1947 a series of 100 bacteriological counts at 22' were
+made, and the total numbers and the food habits of the associated ciliates
+recorded. In this series of examinations a count was made of all ciliates in not
+less than six drops, both as regards total numbers and as regards the numbers
+of bacteria-eating or diatom-eating forms. At all other times only the relative
+abundance of ciliates was recorded (i.e. absent, present, numerous) as for
+example during the summer of 1948, when the morphology of the bacteria was
+considered in relation to the dominance of bacteria-eating or alga-eating
+ciliates, and the relative abundance of the dominant forms determined.
+The spring waters themselves were not found to contain any ciliates, but
+these occurred in small pools formed in fissures of the chalk where dead leaves
+collected. Samples were taken from the springs throughout the investigation,
+but the ciliate population was negligible.
+A considerable number of samplings were made at various points on cross-
+sections of the stream between Zone 2 and Zone 4 (Gray, 1951 ; Fig. l), and it
+was found that on an average the greatest number and variety of ciliates
+occurred in the current core. To obtain a picture of the microfauna and
+bacterial flora in the current core, twelve fixed stations were established in
+relation to objects on the banks (Gray, 1951; Fig. 2). When an organism of
+particular interest appeared at a given point, the microfauna in this region was
+examined at least three times within as many days. As a routine, the micro-
+fauna at the twelve stations was examined at least once a week, samples
+Downloaded from www.microbiologyresearch.org by
+IP: 130.203.136.75
+On: Fri, 16 Sep 2016 03:14:25
+
+110 E. Gray
+usually being taken between 9 and 10 a.m. ; occasional samples were also taken
+late in the afternoon and at midnight. Sampling was done working upstream.
+Table 1. Ciliates isolated from the current core of Hobson’s Brook
+from October 1946 to June 1949
+The numbers indicate the Zones where the organisms were found.
+HOLOTRICHA
+Sub-order Gymnostomata Sub-order Trichostomata
+Amphileptus gutta 4 Colpoda cucullus 2, 3, 4
+Chaenia teres 3, 4 Colpidium colpoda 3, 4
+Chilodon cucullus 3, 4 Dallasia sp. 2, 3, 4
+Didinium nasutum 3 Paramoecium caudatum 3
+Holophyra sp. 2, 3,4 Paramoecidae sp. 8, 4
+Lacrymaria olor 4 Pleuronema chrysalis 4
+Lionotopsis anser 3 Saprophilus sp. 3,4
+Lozophyllum rostratum 2, 3, 4 Trichoda pura 2, 3, 4
+Lozodes rostrum 2, 3, 4
+Nassula ornata 2, 3, 4
+Prorodon ovum 3
+Spathidium spathula 3, 4
+HETEROTRICHA HYPOTRICHA
+Condylostoma (?) sp. 3, 4 Aspidisca costutu 2, 3, 4
+Halteria grandinella 2, 3, 4 Euplotes patella 1, 2, 3
+Stentor polyphemus 3, 4 Oqtricha gibba 2, 3, 4
+S. niger 3 Stylonichia mytitus 3, 4
+Spirostomum ambiguum 3 Urostyla sp. 3, 4
+Unidentified sp. 2, 3, 4
+PERITRICHA
+Vorticella nebulifera 1, 2, 3, 4 The peritrichous ciliate Epistylis
+Vorticella microstoma 3 was only encountered once, in
+Epistylis jlavicans 3 Zone 3 ; Vorticella microstoma was
+only occasionally encountered in
+Zone 3, but was more common in
+the soil on the banks of Zone 3.
+V.n ebulifera was quite common in
+all Zones and was also found in
+colonies of blue-green algae float-
+ing down the stream.
+Unidentified hypotrichous ciliates were common in all Zones all the year round. Some of
+them were morphologically identical with unidentified hypotrichous ciliates found in the
+soil of the surrounding land. Stylonichia putrina was very common in the summer of 1947
+in the soil surrounding the Brook. It was not, however, encountered in the stream, where
+S. mytilus colonized Zone 3 all the year round, but was found once in Zone 2 and only on
+three occasions in Zone 4.
+Holotrichous ciliates resembling Paramoecium caudatum (i.e. species of Paramoecidae)
+were most common in Zone 3 during the summer of 1948.
+RESULTS
+Association of plants and ciliates
+Colonization of the Brook by the filamentous diatom Melosira varians was
+accompanied in spring 1947 and spring 1948 by an abundance of diatom-
+eating ciliates. In 1947 the dominant form was a Condylostoma species (Fig. I),
+while in 1948 species of Loxodes, Loxophyllum and Stylonichia were abundant.
+Downloaded from www.microbiologyresearch.org by
+IP: 130.203.136.75
+On: Fri, 16 Sep 2016 03:14:25
+
+Ecology of a chalk stream 111
+Blooms of blue-green algae found floating down the current core, from the
+upper third of Zone 2 to the lower third of Zone 4 in October 1946, March 1947
+and January 1948, were associated with a diverse and numerous microfauna:
+Halteria grandinella, Actinophrys sol, Vorticellm sp. ; Paramoecidae sp.,
+Pleuronema chrysalis, Lozodes rostrum, Holophyra sp., Colpoda sp. ; together
+with Amoeba proteus and colourless and green flagellates. Generally, the
+greatest variety of species of ciliates, and very often the greatest numbers, were
+Numerous
+Present
+Absent
+Numerous
+Present
+Absent
+N urn erous
+Present
+Absent
+0
+Melosira varians Fragillaria Meridion circulare
+-
+-----_
+Diatom-eaters Condylostoma
+Fig. 1. The abundance of diatoms and of diatom-eating ciIiates in the stream during
+January to June 1947.
+associated with green or blue-green algal communities (cf. Picken, 1937). The
+age of the growth of green algae appeared to be of some importance in relation
+to the abundance of ciliates. Samples taken from young actively growingm asses
+of Spirogyra, Vaucheria, Ulothrix and Cladophora had high bacterial counts,
+but in general very few ciliates. Older growths of green algae had high
+bacterial counts and a numerous and diverse ciliate fauna. Throughout the in-
+vestigation the pH value of the water entangled in young blooms of filamentous
+green algae was often at or just below neutral point (pH 6*6-7-0),w hile that
+of mature algae was alkaline (pH 7.4). Decaying green algae and decaying
+leaves of green plants (with the notable exception of Sparganium erectum;
+see later) had high bacterial counts but in general very few ciliates. In contrast
+to what was observed in growths of green algae, the age of blooms of blue-green
+algae did not appear to affect the variety or numbers of associated ciliates.
+Downloaded from www.microbiologyresearch.org by
+IP: 130.203.136.75
+On: Fri, 16 Sep 2016 03:14:25
+
+112 E. Gray
+On the four occasions when blooms of Oscillatoria occurred the pH value of
+the water was c. 7.4 and did not vary appreciably with the age of the bloom.
+The leaves of green flowering plants in general had a poor ciliate population,
+but the leaves of Sparganium erectum provided a marked exception. Perhaps
+because of their virtual confinement to the centre of the stream, and their
+vertical growth (which may prevent the accumulation of silt on the leaf
+surface) they were usually coated with algae and diatoms and at all ages bore
+a numerous and varied ciliate fauna.
+Zonation of ciliate species
+Only a few species of ciliates were recorded. The total numbers of any one
+species varied within wide limits but during the investigation the same species
+constantly recurred. The respective Zones each tended to have their charac-
+teristic microfauna, as if the topography and physical factors defined a distinct
+environment in each Zone. Thus when diatom-eating ciliates were dominant,
+Lozodes rostrum and Loxophyllum rostratum were found in Zone 2, Stylonichia
+mytilus in Zone 3, and only Nassula ornata, Euplotes patella and certain
+Oxytrichidae in Zone 4. Throughout the investigation such zonation was
+repeatedly encountered. The most striking example was provided by Stylo-
+nichia mytilus. This organism was virtually confined to Zone 3. It was only
+found once in Zone 2 and once or twice in Zone 4, and was usually the most
+common ciliate in Zone 3. Although this zonation was marked with the
+diatom-eaters, it also occurred, though to a lesser degree, among the bacteria-
+eating forms. A large diatom-eating form (a Condylostoma) dominated the
+whole rural reach in March 1947 to the virtual exclusion of all other ciliates,
+but disappeared 6 weeks later. It was not observed again until the autumn of
+1948, when it was found at the junction of Zones 2 and 3, the point at which it
+was first recorded in January 1947.
+Cycles of abundance of ciliates
+The abundance of individual members of the ciliate fauna varied considerably
+at different times, and a sequence of species and series of maximum and
+minimum phases of individual abundance was observed. One ciliate tended
+to succeed another ; bacteria-eaters might precede or succeed diatom-eaters.
+Whatever form was first observed to be dominant, it eventually ceased to be
+dominant or disappeared completely in periods from a few hours to 4 days, to
+be succeeded by another form not necessarily of related food habits. Once the
+new form had established itself, it might be dominant or share dominance with
+the preceding form, or both might disappear and be replaced by a third form
+(Fig. 2).
+During a dominant phase, the given ciliate spread upstream and downstream,
+and in the minimum phase retreated to the upper levels. Thus in May 1947
+a bacteria-eating ciliate, a Colpoda sp., spread from Zone 2 to the upper third
+of Zone 4. By the end of June it had retreated to the upper third of Zone 2 and
+it was not again recorded from Zone 3 until the middle of July. A species of
+Downloaded from www.microbiologyresearch.org by
+IP: 130.203.136.75
+On: Fri, 16 Sep 2016 03:14:25
+
+Ecology of a chalk stream 113
+Holophyra present in Zone 3 in June 1947 was found throughout Zone 2 to
+Zone 3 and Zone 4 by the end of the month; subsequently it was only found in
+the upper third of Zone 2. Halteria grandinella spread in similar manner
+between Zone 2, Zone 3 and Zone 4. During the summer of 1947 StyZonichia
+mytilus colonized Zone 3; it was not found in Zone 2 and only on one or two
+occasions in Zone 4. In its maximum phase it was dominant in Zone 3 and
+occasionally spread to the upper third of Zone 4; during its minimum phase it
+retreated to the upper third of Zone 3. Paramoecium caudatum, a bacteria-
+eater, was only occasionally observed in 1947 but from Zone 3 it spread into
+Zone 4, retreated to Zone 2 and later spread through Zone 3 into Zone 4 again.
+In 1947 and 1948 it was observed on several occasions that during the
+maximum phases of many of the ciliates (e.g. Stylonichia mytilus and other
+Hypotrichidae, Lozodes rostrum, Chilodon cucullus and species of Colpoda and
+Holophyra) forms in binary fission and conjugation were present. S. rnytilus,
+for example, was observed in conjugation once, and in fission four times, in
+June 1947 during the weekly samplings at the twelve fixed stations, and in
+conjugation once, and in fission three times, in July 1948 during the twice a week
+samplings carried out at stations 6-8. In 1947 this reproductive phase was
+often followed by the appearance of small forms and a diminution in numbers ;
+this was observed on twelve occasions in June in the weekly samplings from
+stations 1-12. In 1948, however, the maximum phase was often succeeded
+not only by the appearance of small forms of all species of ciliates, on twenty
+occasions in July in twice-weekly samplings at stations 6-8, but also by the
+appearance of monstrous forms, double monsters, and bent and swollen forms
+with irregular outlines. The latter were noted on sixteen occasions in July
+1948 in the twice-weekly samplings from stations 6-8, when abnormal forms
+of Paramoecia were observed on six occasions and abnormal Hypotrichidae on
+five occasions. These abnormal forms tended to occur in the lower reaches,
+they were almost wholly limited to station 8 of Zone 3. It was often found that
+active healthy forms of a particular species were abundant at station 6,
+present in diminished numbers at station 7, and grossly distorted at station 8.
+On the whole, the bacteria-eating Paramoecium caudatum and other
+Paramoecia were more common, especially in Zone 3, during 1948, than in
+1947. They were never observed in conjugation but seen once in fission in
+July 1948 during an exceptionally abundant maximum phase.
+Abundance in relation to numbers of bacteria
+Although it is convenient to divide the ciliates into two groups according
+to their feeding habits (diatom-eaters and bacteria-eaters) the division is not
+absolute. Some diatom-eaters, e.g. Stylonichia mytilus, will ingest bacteria in
+the absence of diatoms, as Sandon (1932) found, or as epiphytic bacteria on
+diatoms. Harvey (1945) found the greatest numbers of bacteria in sea water
+in the samples richest in phytoplankton. It seems likely therefore that
+diatom-eating ciliates will also tend to diminish the numbers of bacteria
+present, either because they are ingested accidentally as epiphytes on diatoms,
+or because they are an alternative food for certain species. A study of the
+GMVII. 2 8
+Downloaded from www.microbiologyresearch.org by
+IP: 130.203.136.75
+On: Fri, 16 Sep 2016 03:14:25
+
+114 E. Gray
+relationship between the numbers of individuals and of genera of ciliates, and
+the number and kinds of bacteria present in the Brook, was made during the
+summers of 1947 and 1948. A series of 100 bacteriological counts of total
+numbers of bacteria at 22' were made in parallel with collections of ciliates at
+the twelve stations during June-July 1947. When the figures obtained were
+analysed statistically, no correlation was found between total bacterial
+numbers and total numbers of ciliates present at any time; nor were fluctua-
+1946 1947
+-.
+1947 1948
+S.D.ecie r 0ct.Nov.Dec.J an. Feb,Mar.AD,r.Ma.yJuneJ uh
+a -
+Bacteria-eating ciliates Soil bacteria
+-___
+Mixed bacteria- and Chromogenic
+diatom-eating ciliates bacteria
+Diatom-eating ciliates .-.-..Indigenous
+microf\ora
+Fig. 2 Fig. 8
+F'ig. 2. The relative abundance of seven ciliates in Zone 3 (the middle third of the Brook)
+from October 1947 to August 1948.
+Fig. 3. The prevailing microflora as shown by bimonthly examinations and the dominant
+ciliate fauna from October 1946 to October 1947.
+tions in total bacterial numbers correlated with fluctuations in total ciliate
+numbers. It was found, however, that the highest bacterial numbers (up to
+400,OOO/ml.) occurred when diatom-eaters were dominant.
+A series of fifty samples taken in May-June 1948 from stations 6-8 in
+Zone 3 showed no correlation between the total ciliate numbers and
+the total bacterial numbers at 22' but, as in 1947, the highest bacterial
+numbers were associated with a dominance of diatom-eaters. When the
+number of bacterial colonies was small (six to twelve) these were picked off and
+stained by Gram's method. With counts of 50-100, twenty colonies were
+selected at random, picked off and stained. This examination of the bacteria
+suggested that dominance of diatom-eaters or of bacteria-eaters was associated
+with the presence or absence of certain types of bacteria. There seemed to be
+some correlation between the presence of diatom-eaters and Gram-positive
+rods, while bacteria-eaters were associated with Gram-negative rods, and
+abundance of both groups was associated with micrococci. Thus from fifty
+samples taken at five stations (ten samples per station) on twelve occasions
+bacteria-eating ciliates were dominant when Gram-negative rods were more
+abundant than Gram-positive rods, or when only Gram-negative rods and
+micrococci were present. Diatom-eating ciliates were dominant on four
+Downloaded from www.microbiologyresearch.org by
+IP: 130.203.136.75
+On: Fri, 16 Sep 2016 03:14:25
+
+Ecology of a chalk stream 115
+occasions when Gram-positive rods were more abundant than Gram-negative,
+and on two occasions when Gram-positive rods and micrococci were equally
+abundant. Statistical analysis of the data by Mr D. V. Lindley (Mathematical
+Laboratory, Cambridge) showed that the correlation of Gram-negative rods
+with the presence of bacteria-eaters and of Gram-positive rods with diatom-
+eaters was statistically significant.
+These findings were supported by other observations made in the field.
+When either Gram-positive or Gram-negative bacteria dominated the micro-
+flora of the stream, one or other of the two groups of ciliates tended to be
+dominant (Fig. 3). When the microflora was largely composed of Gram-
+negative rods, bacteria-eaters (e.g. Colpoda spp.) were common ; when Gram-
+positive rods were more numerous than Gram-negative rods, diatom-eaters
+supplanted bacteria-eating forms. The bacterial flora of the stream came
+largely from the surrounding land, as shown by the appearance of soil bacteria
+after heavy rain or periods of drought (Gray, 1948,1951)a nd the character of
+the soil bacteria tended to be modified by agricultural operations. In a tri-
+butary stream flowing into the Brook from a farmyard and Shelford village
+(Gray, 1951) the greatest numbers of Paramoecia were found where sewage
+pollution (i.e. by Gram-negative rods) was highest. Where the tributary
+entered the Brook and sewage pollution was least, Paramoecia disappeared
+and diatom-eating ciliates became prominent (Gray, 1951).
+The influence of weather conditions
+The cycles of abundance of ciliates could not be related to total numbers of
+bacteria growing at 22O, pH value or temperature of the water. Stylonichia
+mytilzcs, however, appeared to exhibit lunar periodicity (see later). With this
+exception, although the cycles could not be related to any one of the above
+factors, they were related to weather conditions. The ciliates increased in
+numbers and spread down the stream after floods or heavy rain, or during
+prolonged periods of hot dry weather when the banks tended to crumble and
+soil fell into the water (Fig. 4). The latter occurred particularly in 1947, when
+floods in the spring were succeeded by months of drought. By contrast, the
+summer of 1948 was dull and wet. In this year, in twenty-two examinations
+over the entire length of the reach of the Brook examined, thirteen were made
+within 24 hr. of storms or heavy rain. In the samples taken during eight of
+these latter examinations, bacteria-eating ciliates were dominant ; on three
+occasions diatom-eaters were dominant, while on two occasions dominance
+was shared between bacteria-eating and diatom-eating ciliate protozoa. It did
+not seem probable that this phenomenon was due solely to mechanical trans-
+port by the increased volume of water, for the maximum peak of abundance of
+a particular species had often passed at a particular point while a spate was
+still passing downstream or while rain was still falling. It was noted that the
+actual numbers of individuals of particular species (rather than of all species)
+increased at the sampling points as they did when soil was crumbling into the
+water; that is to say, only one species out of perhaps half a dozen originally
+present would increase in number at a particular sampling station.
+8-2
+Downloaded from www.microbiologyresearch.org by
+IP: 130.203.136.75
+On: Fri, 16 Sep 2016 03:14:25
+
+116 E. Gray
+Lzmar periodicity in Stylonichia mytilus
+When the numbers of this organism were plotted against the date, it was
+found that during 1947 maximum phases occurred on an average 7-10 days
+after a new moon or a full moon, especially the latter. The two largest maxima,
+when the organism dominated the whole of the middle reach of the stretch
+under examination, occurred 9 days after a new moon in July and 4 days after
+a full moon in December. By contrast with the dry weather and clear nights
+of 1947, the year 1948 was wet and dull, and S. mytilus was only recorded
+from May to September. Nevertheless, its numbers rose to a maximum on
+five occasions averaging 8 days after a new or a full moon. A statistical
+analysis of the numbers of Stylonichia (as obtained by the methods described)
+considered in relation to lunar periodicity in days, was made by Mr D. V.
+Lindley, and suggested that S. mytilus has a maximum about 4-7 days before
+and after a full moon, with some slight evidence for a fall in numbers at the
+full moon, More data would be necessary to establish the possible periodicity
+(Gray 1951 a).
+Possible injuence of the macrofauna
+One of the features of the changing fauna of the Brook was a peak of
+numbers of dipterous insects in late summer (Gray, 1951). Although the
+relative abundance of individuals of various species of ciliate continued all the
+year round, their total numbers fell steadily throughout the summer. During
+this period there was an increase of dipterous larvae, especially chironomids
+and simuliids; these were particularly common in Zone 3. They are known to
+be omnivorous microphages. Since they occur in maximal numbers in the
+current core, where the largest ciliate population was found, it is possible that
+the fall in total numbers of ciliates from the current core during the summer is
+correlated with this enormous increase in the population of microphagous
+larvae (Fig. 5). Barker (1946) found a similar association in sewage filter beds,
+where seasonal peaks of fly output were accompanied by a depression of ciliate
+protozoa.
+Identity of soil and stream ciliates
+The numbers of ciliates at the sampling points increased greatly after heavy
+rain or during periods of drought. Especially after rain, the increase in
+numbers was too great, too sudden, and too general, wholly to be accounted
+for by multiplication of the existing ciliate population as a result of some
+change in natural conditions. Moreover, soil bacteria appeared in the micro-
+flora at such times (Gray, 1948). It was considered possible, therefore, that not
+only soil bacteria but also soil ciliates were entering the Brook. When the
+soil ciliate population of the banks of the stream and of the soil 200 yards
+away on the banks of ditches emptying into the Brook was examined, the
+same genera were found to be present as in the stream (i.e. Colpoda, Oxytri-
+chidae, Halteria). Ciliates of the same genus as those in the stream were also
+obtained from the interior of clods of dried mud originally excavated from
+the stream-bed and cast on adjoining fields. These observations (Table 2)
+Downloaded from www.microbiologyresearch.org by
+IP: 130.203.136.75
+On: Fri, 16 Sep 2016 03:14:25
+
+Ecology of a chalk stream 117
+suggested that the ciliate faunas of the soil and Brook are virtually identical,
+one habitat receiving recruits from the other (Gray, 1948).
+r-x-x-x\x/x
+Numerous
+Present px-x-x-xx
+Rainfall I Dipterous larvae
+Absent .x-x-X-X
+No rain Nu m erou s ~x-X-X-X-X-X-X-X
+\ Ciliates
+Abundance
+Present
+Absent . ._.
+Zday intervals
+Fig. 4
+Fig. 4. Rainfall, temperature, and abundance of ciliates at 2-day intervals in Zone 3 (the
+middle third of the Brook) during June and July 1948.
+Fig. 5. The abundance of dipterous larvae and of ciliates in Zone 3 (the middle third of the
+Brook) during the summer of 1947.
+Table 2. A comparison of the infusoria obtained from the soil round Hobson's
+Brook in the early summer of 1947 as compared with forms found in the
+Brook during the investigation
+In the soil In Hobson's brook
+Ciliata
+Colpidium colpoda Colpidium colpoda
+Colpoda cucullus Colpoda cucullus
+Halteria grandinella Halteria grandinella
+Holophyra sp. Holophyra sp.
+Holotrichous sp. Holotrichous sp.
+Paramoecidae Paramoecidae
+Oxytricha sp. oxytricha sp.
+Oxytrichidae Oxytrichidae
+Spirostomum a?nbiguum Spirostomum ambiguurn
+Vorticella microstoma Vorticella microstoma
+Rhizopoda
+Actinophrys sol Actinophrys sol
+Amoeba limm Amoeba limax
+A. proteus A. proteus
+Testaceous rhizopods
+Diflugia sp. Diflugia sp.
+Arcella Not found
+Rotifera
+R. vulgaris R. vulgaris
+R. elongatus Not found; but found in
+River Cam
+Philodina sp. Philodina sp.
+Downloaded from www.microbiologyresearch.org by
+IP: 130.203.136.75
+On: Fri, 16 Sep 2016 03:14:25
+
+118 E. Gray
+Multiplication of soil ciliates in the presence of broth cultures of micrococci
+and pseudomonads
+Cultures of soil ciliates were obtained by covering a few grams of soil in
+a conical flask with sterile tap water containing 0.2-0-5 yo (v/v) hay infusion
+and 1 yo (v/v) soil extract. The hay infusion was prepared from good quality
+hay as tea is prepared (Heath, n.d.), the soil extract was prepared according to
+the formula of Cunningham (1947). The numbers of ciliates in cultures made
+with this medium increased but slowly when the sole food supply was the
+natural soil microflora. Ciliates were not found in the cultures until these had
+been incubated at room temperature for several days or even as long as 2-3
+weeks. Following the observation of Singh (1946) cultures were inoculated with
+micrococci from the stream. A massive multiplication of ciliates resulted in
+cultures so inoculated. A few drops of broth cultures, or of filtrates of broth
+cultures, of two micrococci 3/2 and 3/3 isolated from Zone 3 in the summer of
+1947, caused a great multiplication of the soil bacteria, initially of spore-
+forming bacteria, followed in a few hours by a great increase in the numbers of
+soil ciliates. Strain 3/2 had not so powerful an action as 3/3 and died out
+within a short time, whereas 3/3 was subcultured for 3 years and provoked an
+identical action at the end of that time. It retained its morphology, showing
+that it was not a pleomorphic strain of Bact. globiforme Conn. A few drops of
+broth only caused a multiplication of bacteria in cultures of soil ciliates but
+no increase in the numbers of the ciliates. During the increase in numbers of
+ciliates after inoculation with broth cultures of micrococcus 3/2 or 3/3, ciliates
+were seen in fission. A few drops of hay-infusion cultures of micrococcus 3/2
+or 3/3, or filtrates of such cultures, did not cause either a multiplication of
+bacteria or an increase in the numbers of ciliates. There was, however, some
+increase in the numbers of flagellate protozoa. After a few drops only of
+broth cultures of micrococcus 3/2 or 3/3 had been added, the bacterial flora of
+the culture at the time the numbers of soil ciliates were increasing, was
+composed largely of long and short Gram-negative rods, among which
+pseudomonads were most common, together with the strain of micrococcus
+that had been added, some chromogenic micrococci, and an occasional spore-
+former. Four to seven days after multiplication of the ciliates had ceased, the
+microflora was almost wholly composed of long and short Gram-negative rods
+( pseudomonads prominent) and the micrococcus.
+These experiments showed that increase in the numbers of bacteria-eating
+soil ciliates followed inoculation of hay-infusion soil-extract cultures with
+a few drops of the micrococcus culture; no experiments were undertaken to
+establish whether micrococci alone among the stream microflora were capable
+of stimulating this increase.
+Single cysts of Colpoda and Colpidium spp. were picked out from mixed
+cultures of soil ciliates, and pure cultures of these bacteria-eating ciliates were
+obtained by passing them through a series of sterile baths. It proved possible
+to remove gross bacterial contamination by such methods, but the cysts could
+not be freed from a Gram-negative rod. This was a species of Pseudomonas
+Downloaded from www.microbiologyresearch.org by
+IP: 130.203.136.75
+On: Fri, 16 Sep 2016 03:14:25
+
+Ecology of a chalk stream 119
+identical with that isolated from mixed cultures of soil ciliates after addition
+of micrococcus 3/2 or 3/3.
+Cultures of Colpoda could be established successfully in liquid media con-
+taining no bacteria except the pseudomonas, and in media containing only
+the pseudomonas and a brook micrococcus, by transferring single individuals or
+cysts to the media in question. It was observed, however, that although the
+ciliates multiplied in the presence of such bacterial foods, the multiplication
+was not unlimited. Pure cultures of Colpoda and Colpidium grew and multi-
+plied during the first 24-48 hr. but multiplication then ceased and some
+ciliates encysted, although food bacteria were still abundant in the medium
+and would support vigorous multiplication of soil ciliates if reinoculated.
+DISCUSSION
+The conclusion reached by Hassall (1850, 1855), that ciliates (notably Para-
+moecidae) are constantly associated with sewage pollution because they find
+in pollution ‘ their means of subsistence and growth ’, probably marks the first
+tacit recognition of the dependence of certain ciliates on a supply of bacteria
+rather than green algae as a source of food. Two years later, in 1852, Pritchard
+published the third edition of his Infwsorial Animalcules in which the nutrition
+of ciliates is only vaguely indicated : ‘ The digestive cells of Paramoecidae are
+.
+demonstrated in one species by its usual green food.. .In all Kolpoda
+. .’
+digestive cells have been indicated by coloured foods.. Hassall’s observa-
+tions were largely made on the Thames; but in spite of the importance of
+sewage pollution of rivers, they are only paralleled in modern times by those
+of Lackey (1938) on ciliates as pollution indicators in the Scioto River.
+Cycles of maximum and minimum abundance of different species of ciliates,
+noted in the Brook, have been recorded by many workers (Calkins &
+Summers, 1941); they also occur in the soil (Russell, 1923). The present study
+suggests that in many instances they are directly related to climatic conditions,
+since peaks of abundance occur after heavy rain, or after drought when soil is
+washed or crumbles into the Brook. At such times therewas a peakof abundance
+of soil bacteria in the Brook and a maximum of bacteria-eating ciliates.
+It was noted, however, that the peak of ciliate numbers (especially bacteria-
+eaters) which followed pollution of the Brook by soil formed so rapidly that it
+could hardly be accounted for by simple multiplication of the existing
+population induced by an increased food supply. Since ciliates occur in the
+soil, it was thought that they might have entered the stream with soil bacteria.
+The suggestion was therefore made that soil and fresh-water ciliates are in
+fact identical, one habitat being the source of the other’s population (Gray,
+1948). Soil (ciliate) protozoa were known to Ehrenberg (1838), and many later
+workers have commented on their similarity to fresh-water forms. Russell
+(1923) observed that at one time it was held that the soil was recruited at
+random by protozoan cysts carried by wind from dried-up ponds and streams, but
+added that to ‘Martin & Lewin (1915) must be ascribed the distinction of first
+proving that the soil possesses an active population ’. Again, it was suggested by
+Calkins & Summers (1941) that ‘w ater-dwelling forms might occasionally be
+Downloaded from www.microbiologyresearch.org by
+IP: 130.203.136.75
+On: Fri, 16 Sep 2016 03:14:25
+
+120 E. Gray
+found in soil and interpreted as casual soil-dwelling types ’. Woodruff (1912), on
+the other hand, in a classical study of the ciliates of hay-infusions, gave air,
+water, and hay as their source, but did not mention soil; similar sources,
+exclusive of soil, were given by Kent (1881). An examination of the micro-
+fauna of the soil round the Brook revealed that, with the exception of
+species of Stentor, all the ciliates isolated from the Brook during the 24 years
+of this inquiry were forms recorded by Sandon (1927) as common in the soil,
+to an extent suggesting that the soil may be the chief source of the ciliate
+population of inland waters.
+Since it is known that individual crop-plants are associated with charac-
+teristic bacterial flora, it was of interest to examine the nature of the crops
+surrounding the Brook during the investigation. During this period, the crops
+sown on adjoining land which largely drained into the Brook, were almost
+wholly a cereal rotation (Gray, 1951). Wheat and barley were sown on each
+bank of Zone 3 during 1947; linseed and wheat, during 1948. The banks of
+Zone 4 were sown with oats and sugar-beet, and rape-Cole and kale, in 1947;
+with oats and wheat, in 1948. One bank of Zone 2 is old permanent grassland;
+while the other bank was sown with barley in 1947, and with meadow hay in
+1948. Lochhead, Timonin & West (1940) showed that the rhizospheres of
+plants, notably cereals, roots, and clover, are characterized by a distinct
+microflora, among which Gram-negative rods are very abundant. It seemed
+possible, therefore, that the crop-rotation on the banks was providing bacteria-
+eating ciliates with their chosen bacteria, viz. Gram-negative rods, since
+bacteria-eating ciliates were dominant when soil entered the Brook.
+Gram-negative rods derived from the rhizosphere would be most plentiful
+when the crops were growing, that is, in the late spring and early summer.
+When the land was ploughed and dressed with farmyard manure other Gram-
+negative rods (e.g. coliform bacteria) would enter the stream, while many would
+be derived from the droppings of sheep then folded beside the Brook. Severin
+(1895; quoted by Waksman, 1927) found that bacterial rods predominated in
+freshly ploughed soil, but that within 2 weeks micrococci were abundant.
+I found that micrococci tended to dominate the microflora of the Brook in the
+autumn (Gray, 1951).
+Singh (1941) showed that the bacterial food supply is the chief factor
+controlling the abundance of soil Protozoa. The restricted number of species
+of soil ciliates found during this investigation may be attributable to the same
+cause; for if soil and stream ciliates are identical, the same factor of bacterial
+food supply would tend to restrict the number of species found in the Brook.
+Anscombe & Singh (1948), in an investigation on the limitation of bacteria
+by micro-predators in soil, showed that two species of Myxamoebae (Dictyo-
+stelium giganteurn, D. mucoroides) and two species of Myxococcaceae (Myxo-
+coccus fulvus, Chondrococcus eziguus) prefer Gram-negative bacteria. The
+cycles of abundance of ciliates may therefore be attributed to variations in the
+bacterial food supply and to variations in the numbers of soil ciliates entering
+the Brook. Bacteria-eating ciliates seem to be particularly favoured at those
+times when Gram-negative rods are abundant in the soil microflora. There
+Downloaded from www.microbiologyresearch.org by
+IP: 130.203.136.75
+On: Fri, 16 Sep 2016 03:14:25
+
+Ecology of a chalk stream 121
+appears to be a division among the bacteria-eaters themselves according to the
+character of the Gram-negative rods, for Paramoecidae were only abundant
+when Bact. coli was numerous, as in the tributary, whereas other forms (e.g.
+Colpoda) were associated with abundance of Gram-negative rods not strains
+of Bact. coli. In this respect the investigation supports the emphasis laid by
+Noland (1925) on the importance of the food supply in the ecology of fresh-
+water ciliates.
+In connexion with the occasional presence of ciliate monsters in the Brook,
+and the apparent importance of a micrococcus in determining the abundance
+of the Brook ciliates it is interesting that Sonneborn (1932) induced the
+formation of double-monsters and chain-forms in Colpidium campylum by
+feeding this ciliate on a strain of Micrococcus sensibilis. The two strains, 3/2 and
+3/3, of micrococcus isolated in the present work were not identified. It was
+noted that double-monsters and other abnormal forms of both diatom-eating
+and bacteria-eating ciliates (e.g. Loxodes rostrum and Paramoecidae) were
+present on more than one occasion when unidentified micrococci dominated the
+bacterial flora of the brook. They were particularly noticeable among the Para-
+moecidae, though in addition abnormal forms of Loxodes, Loxophyllum
+rostratum and Oxytrichidae were also noted. Certain of them closely resembled
+Sonneborn’s figures of degenerate Colpidium campylum fed on a strain of
+&ficrococ c us sensib il is.
+It is suggested, therefore, that the periods of ciliate abundance may be
+induced by the nature and quantity of the bacteria made available as food
+by climatic conditions, when these cause a massive and general contamination
+of the stream with soil bacteria and ciliates.
+Noland (1925) emphasized the supreme importance of food supply in the
+ecology of fresh-water ciliates ;t he present inquiry, in stressing this conclusion,
+points to the soil surrounding the aqueous habitat of the ciliates as the major
+source of food. Diatoms also may perhaps come from the soil, but both
+diatom-eaters and bacteria-eaters ingest bacteria which may also be derived
+from the soil. Climatic conditions may be responsible for the quantity, and
+present and past agricultural operations for the quality, of the food bacteria
+provided. The quantity of suitable bacteria available in the soil at any one
+time will vary, for Taylor (1936) has recorded short-period fluctuations in the
+numbers of bacterial cells in soil. While fresh-water ciliates may justly be
+regarded as indicators of bacterial pollution, the present study has shown that
+pollution may derive from the soil in the absence of sewage as such. The
+ecology of the fresh-water ciliates suggests how close is the association between
+the stream and the soil through which it runs.
+The writer is glad to express his gratitude to the Department of Scientific and
+Industrial Research for a grant which enabled this work to be carried out; to Dr
+C. F. A. Pantin, F.R.S., whose support securedt he grant ;t o Prof. F. T. Brooks, F.R.S.,
+for permission to work at the Botany School ;t o Mr D. V. Lindley, M.A., and members
+of the staffs of the University Schools of Botany and Zoology for most valuable general
+assistance.
+Downloaded from www.microbiologyresearch.org by
+IP: 130.203.136.75
+On: Fri, 16 Sep 2016 03:14:25
+
+122 E. Gray
+REFERENCES
+ANSCOMBEF,. J. & SINGHB, . N. (1948). Limitation of bacteria by micro-predators
+in soil. Nature, London., 161, 140.
+BARKERN, . A. (1946). Ecology and function of Protozoa in sewage purification.
+Ann. appl. Biol. 33, 3.
+CALKINS, G. N. & SUMMERFS., M. (1941). Protozoa in Biological Research. New
+York : Columbia University Press.
+CONYBEARE,G . (1897). A History of Cambridgeshire. London: Elliott Stock.
+CUNNINGHAMA, . (1947). Practical Bacteriology. Edinburgh : Oliver and Boyd.
+EHRENBERDG., C. G. (1838). Die Infusionthierchen als Vollkommene Organismen.
+Leipzig.
+GRAYE, . (1948). Ciliate protozoan fauna of soil and inland waters. Nature, Lond.,
+161, 854.
+GRAY,E . (1951). The ecology of the bacteria of Hobson's Brook, a Cambridgeshire
+chalk stream. J. gen. Microbiol. 5, 859.
+GRAYE, . (1951a). Stylonichia mytilus and the lunar periods. Nature, Lond., 167,38.
+HARVEYH, . W. (1945). Recent Advances in the Chemistry and Biology of Sea Water.
+Cambridge University Press.
+HASSALLA, . H. (1850). Microscopic Examination of the Water supplied to the
+inhabitants of London. London : Highley.
+HASSALAL. ,H . (1855). Food and its Adulterations. London: Longmans, Green and Co.
+HAUSMANL., A. (1917). The ecology of protozoa. Am.N at. 51,157.
+HEATH,C . E. (n.d.) The Beginners Guide to the Microscope. London: Percival
+Marshall and Co.
+KENT, SAVILLWE . (1881). A Manual of the Infusoria. London: David Bogue.
+LACKEYJ,. B. (1938). Protozoan plankton as pollution indicators. Publ. Hlth Rep.,
+Wash., 53, 2037.
+LOCHHEAAD., G., TIMONINM, . L. & WEST,P . M. (1940). Microflora of the rhizo-
+sphere in relation to resistance of plants to soil-borne pathogens. Sci. Agrdc. 20,7.
+MARTINC, . H.& LEWINK, . R. (1915). J. agm'. Sci. 7,106,q uoted by RUSSELLE,. J.
+(1923).
+NOLANDL., E. (1925). Factors influencing the distribution of freshwater ciliates.
+Ecology, 6, 437.
+PICKENL., E. R. (1937). Structure of some protozoan communities. J. Ecol. 25,368.
+PRITCHAAR. D(1,8 52).A History of Infusorial Animalcules. London :W hittaker and Co.
+RUSSELLE, . J. (1923). The Micro-Orgunisms of the Soil. London: Longmans
+Green and Co.
+SANDON,H . (1927). The Composition and Distribution of the Protozoan Fauna of the
+Soil. Edinburgh: Oliver and Boyd.
+SANDONH,. (1932). The Pood of Protozoa. Cairo: Misr- Sokkar Press.
+SINGHB, . N. (1941). Influence of different bacterial food supplies on the rate of
+reproduction in Colpoda steinii and the factors influencing encystation. Ann.
+appl. Biol. 28, 65.
+SINGHB, . N. (1946). A method of estimating numbers of soil Protozoa, especially
+amoebae, based on differential feeding of bacteria. Ann. appl. Biol. 33, 112.
+SONNEBORTN. , M. (1932). Experimental production of chains and its genetic
+consequences in the Ciliate protozoon Colpidium campy lum (Stokes). Biol. Bull.
+Woods Hole, 63, 2.
+TAYLORC., B. (1936). Short period fluctuations in the numbers of bacterial cells in
+soil. Proc. Roy. SOCB. , 814, 119.
+WAKSMAAN., S. (1927). Principles of Soil Microbiology. London: Bailli&re,T indall
+and Cox.
+WOODRUFLF., (1912). Observations on the origin and sequence of the protozoan
+fauna of hay infusions. J. ezp. 2001.1 2, 206.
+(Received 20 July 1951)
+Downloaded from www.microbiologyresearch.org by
+IP: 130.203.136.75
+On: Fri, 16 Sep 2016 03:14:25
+

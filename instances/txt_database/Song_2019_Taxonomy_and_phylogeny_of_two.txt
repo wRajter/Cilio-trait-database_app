@@ -1,0 +1,739 @@
+Availableonlineatwww.sciencedirect.com
+ScienceDirect
+EuropeanJournalofProtistology70(2019)1–16
+Taxonomy and phylogeny of two poorly studied genera of marine
+oligotrich ciliates including descriptions of two new species:
+Cyrtostrombidium paraboreale sp. n. and Apostrombidium orientale sp. n.
+(Ciliophora: Spirotrichea)
+Wen Songa,1, Dapeng Xub,1, Qianqian Zhangc,1, Weiwei Liud, Alan Warrene, Weibo Songa,f,∗
+aInstituteofEvolutionandMarineBiodiversity,OceanUniversityofChina,Qingdao266003,China
+bStateKeyLaboratoryofMarineEnvironmentalScience,InstituteofMarineMicrobesandEcospheres,CollegeofOceanandEarthSciences,
+XiamenUniversity,Xiamen361102,China
+cYantaiInstituteofCoastalZoneResearch,ChineseAcademyofSciences,Yantai264003,China
+dKey Laboratory of Tropical Marine Bio-resources and Ecology, South China Sea Institute of Oceanology, Chinese Academy of Science,
+Guangzhou510301,China
+eDepartmentofLifeSciences,NaturalHistoryMuseum,CromwellRoad,LondonSW75BD,UK
+fLaboratoryforMarineBiologyandBiotechnology,QingdaoNationalLaboratoryforMarineScienceandTechnology,Qingdao266003,
+China
+Received14September2018;receivedinrevisedform9May2019;accepted9May2019
+Availableonline16May2019
+Abstract
+Althoughitiswidelyrecognizedthatoligotrichciliatesarethedominantconstituentofmicrozooplanktoncommunitiesand
+perform key functions in energy flow and material cycling in marine microbial food webs, knowledge of their diversity is
+scant.Inthepresentstudy,weinvestigatetheoligotrichgenera,CyrtostrombidiumandApostrombidium,withemphasisontheir
+morphologyandevolutionaryrelationships.ThreeisolateswerecollectedfromcoastalwatersofnorthernandsouthernChina
+includingtwonewspecies,viz.,Cyrtostrombidiumparaborealesp.n.,Apostrombidiumorientalesp.n.,andApostrombidium
+pseudokielumXuetal.,2009.Cyrtostrombidiumparaborealesp.n.ischaracterizedbypossessing64–98cytopharyngealrodsand
+twomacronuclearnodules.Apostrombidiumorientalesp.n.ischaracterizedbyitssomatickinetyconsistingoffivefragments
+including a horizontally orientated subterminal fragment and possessing conspicuously long dorsal cilia. Apostrombidium
+pseudokielumisredescribedbasedonthenewpopulationandare-examinationofthetypematerial.Phylogeneticanalyseswere
+performedforthesubclassOligotrichia,incorporatingSSUrRNAgenesequencesofthethreespeciesinvestigatedhere.The
+resultsindicatethatthegenusCyrtostrombidiumismonophyleticwithC.paraborealesp.n.occupyingthebasalposition.The
+genusApostrombidiumisnotmonophyleticasVaristrombidiumkielumisnestedwithinit.
+©2019PublishedbyElsevierGmbH.
+Keywords: Cyrtostrombidiidae;Phylogeny;SSUrRNAgene;Strombidiidae;Taxonomy;Typespecies
+∗Correspondingauthorat:InstituteofEvolutionandMarineBiodiversity,OceanUniversityofChina,Qingdao266003,China.
+E-mailaddress:wsong@ouc.edu.cn(W.Song).
+1Theseauthorscontributeequally.
+https://doi.org/10.1016/j.ejop.2019.05.001
+0932-4739/©2019PublishedbyElsevierGmbH.
+
+2 W.Songetal./EuropeanJournalofProtistology70(2019)1–16
+Introduction MaterialandMethods
+Microbialeukaryotescompriseahugediversityandplay Collection,isolationandmorphologicalstudies
+key roles in the cycling of materials and transfer of energy
+in aquatic ecosystems (Caron et al. 2012; Worden et al. Cyrtostrombidium paraboreale sp. n. was isolated from
+2015; Xu et al. 2018). As major components of the marine samples collected from surface coastal waters off the city
+◦ (cid:4) ◦ (cid:4)
+microzooplankton,oligotrichssensulato(Choreotrichiaand of Zhanjiang (21 12N, 110 24E), Guangdong Province,
+Oligotrichia)playvitalrolesintheplanktonicfoodwebby China, using a 20(cid:2)m meshed plankton net. Apostrombid-
+preying on nano- and pico-plankton and serving as food ium orientale sp. n. was isolated from samples of water
+sourcesformesozooplankton(Azametal.1983;Santoferrara and plant debris from a mangrove wetland near Zhanjiang
+◦ (cid:4) ◦ (cid:4)
+and McManus 2017; Santoferrara et al. 2016, 2017). The (21 22N, 110 25E), Guangdong Province, China. Apos-
+morphology of the subclass Oligotrichia has been studied trombidium pseudokielum was isolated from sand collected
+for more than a century and about 140 morphospecies, 20 in the intertidal zone from a beach in the city of Qingdao
+◦ (cid:4) ◦ (cid:4)
+generaandfourfamilieshavebeenreportedtodate(Agatha (35 58N,120 16E),ShandongProvince,China(Fig.1).
+etal.2005;Chenetal.2017;Fauré-Fremiet1924;Kahl1932; No cultures of these three species were established. The
+Liu et al. 2015b, 2016, 2017; Lynn and Montagnes 1988; samples were transferred to Petri dishes, and the ciliates
+Montagnesetal.1988;Penard1920;Petzetal.1995;Song were immediately isolated under a dissecting microscope.
+2005;Wangetal.2018;Xuetal.2006a,b).Withtheappli- Thetargetspeciescouldbereadilydistinguishedfromother
+cation of protargol-staining techniques to reveal the ciliary ciliates in the samples by their in vivo characters such as
+patterns,thetaxonomicsystemofthisgrouphasbeenrefined, body shape and locomotion. Using a micropipette, several
+thenumberofmorphospecieshasincreasedandseveralnew cellsofeachspeciesweretransferredintosmallPetridishes
+genera and families have been established (Agatha 2004, withsterilizedseawaterforfurtherstudy.Themorphologyof
+2011; Krainer 1991; Liu et al. 2011a,b, 2015a; Lynn and livingcellswasinvestigatedusingbright-fieldanddifferen-
+Gilron1993;SongandBradbury1998;Songetal.2015a,b, tial interference contrast microscopy (Nikon eclipse E600).
+2018a,b;Xuetal.2009).ThemolecularphylogenyofOlig- Theirlocomotionwasstudiedunderadissectingmicroscope.
+otrichia is, however, still poorly understood largely as a Protargol staining following the method of Wilbert (1975)
+resultofundersampling:currentlySSUrRNAgenesequence was used to reveal the ciliary patterns and nuclear appara-
+data for only about 50 species, representing 16 genera, are tus.TheprotargolreagentwasmadeaccordingtoPanetal.
+availableinGenBankdatabase.Withtheapplicationofhigh- (2013). Drawings of live cells were based on photomicro-
+throughputsequencingofenvironmentalsamples,molecular graphs and those of silver-stained cells were made using a
+ecological studies have suggested the existence of a large cameralucida.Countsandmeasurementswereperformedat
+numberofrareand/orunknownoligotrichs,whichindicates 1000× magnification. Terminology is according to Agatha
+thatthisgroupismuchmorediversethancurrentlyrevealed andRiedel-Lorjé(2006)andthetaxonomicsystemismainly
+bymorphologicalstudies(Agathaetal.2005;Gaoetal.2009, accordingtoSantoferraraetal.(2017).
+2016a,b,2017;Yanetal.2017;Zhangetal.2017).
+TheoligotrichgeneraCyrtostrombidiumLynnandGilron, ZooBankregistrationofpresentwork
+1993andApostrombidiumXuetal.,2009havebeenreported
+several times in coastal waters worldwide (Agatha and
+urn:lsid:zoobank.org:pub:85387A98-3DB4-4273-8879-
+Riedel-Lorjé 1997; Liu et al. 2016; Lynn and Gilron 1993;
+F7E1598B462D
+Songetal.2013;Tsaietal.2015;Xuetal.2009,2011).Cyr-
+tostrombidium is characterized by its oral ciliature lacking
+DNAextraction,SSUrRNAgeneamplification,
+buccal membranelles and its thick, cyrtos-like pharyngeal
+andsequencing
+fibres. Moreover, Cyrtostrombidium is easily recognized
+in vivo by its elongate-obconical cell shape and conspicu-
+Cells for DNA extraction were washed individually thus
+ous, centrally located apical protrusion. Apostrombidium is
+excludingthepossibilityofcontaminationfromotherciliate
+characterizedbyhavingastronglycurvedanddiscontinuous
+specieswithinthesamesample.Foreachspecies,genomic
+somatic kinety that extends to the posterior end of the cell
+DNA was extracted from 5 to 10 cells, using a DNeasy
+on both the ventral and dorsal sides (Song et al. 2013; Xu
+Blood & Tissue kit (Qiagen CA), following the manufac-
+etal.2009,2011).Hitherto,SSUrRNAgenesequencesdata
+(cid:4) (cid:4)
+turer’s instructions. Eukaryotic universal 5 and 3 primers
+were available for only two Cyrtostrombidium species and
+(Medlinetal.1988)wereusedforamplificationoftheSSU
+oneApostrombidiumspecies.
+rRNAgene.ThePCRconditionsfollowedWangetal.(2017).
+During a faunistic survey of oligotrich ciliates in China,
+ThePCRproductsweresequenceddirectlywithoutcloning.
+one Cyrtostrombidium species and two Apostrombidium
+SequencingwasconductedbidirectionallyonanABI-PRISM
+species were isolated, giving the opportunity to investigate
+3730 sequencer (Shanghai Sunny Biotechnology Co., Ltd.,
+their morphology and their molecular phylogeny based on
+Shanghai,China).
+SSUrRNAgenesequences.
+
+W.Songetal./EuropeanJournalofProtistology70(2019)1–16 3
+Fig.1. a–d.SatelliteimageofSouth-EastChina(a)andphotographsofsamplingsites(b–d).a.ThelocationsofQingdaoandZhanjiang.b.
+MangrovewetlandinZhanjiang.c.CoastalwatersoffZhanjiang.d.SandybeachinQingdao.
+Phylogeneticanalyses way(Milleretal.2010).Thereliabilityofinternalbranches
+wasassessed,usinganonparametricbootstrapmethodwith
+The SSU rRNA gene sequences of C. paraboreale 1000replicates.
+sp. n., A. orientale sp. n., and A. pseudokielum have Bayesian inference (BI) analysis was performed, using
+been deposited in GenBank with lengths, GC contents, MrBayes on XSEDE v 3.2.6 (Ronquist and Huelsenbeck
+and accession numbers as follows: C. paraboreale sp. 2003) provided on the CIPRES Science gateway with a
+n. (1559nt, GC=49.65%, MH688481); A. orientale sp. model GTR+I+(cid:2) selected by the Akaike Information Cri-
+n. (1713nt, GC=48.98%, MH688480); A. pseudokielum terion (AIC) in MrModeltest v2 (Nylander 2004). Markov
+(1663nt,GC=49.13%,MH688479). chainMonteCarlochainswererunfor4×106 generations
+InadditiontoC.paraborealesp.n.,A.orientalesp.n.,and withtwoparallelruns,eachwithfoursimultaneouschains,
+A.pseudokielum,theSSUrRNAgenesequencesof58species samplingevery100generations.Thefirst10,000treeswere
+of Oligotrichia and Choreotrichia obtained from GenBank discardedasaburn-in.
+were used to construct the phylogenetic trees. Five species
+representingfivegeneraofHalteriidaandHypotrichiawere
+usedasoutgrouptaxa.
+Resultsanddiscussion
+Allsequenceswerealigned,usingtheMUSCLEalgorithm
+with the default parameters provided on the GUIDANCE Cyrtostrombidiumparaborealesp.n.(Figs.2a–g,
+web server (Penn et al. 2010a,b). The ends of the align-
+3a-m;Tables1,2)
+ments were trimmed, using Bioedit (Hall 1999), yielding a
+matrixof1631characters.Maximumlikelihood(ML)analy-
+Diagnosis. Body size 90–135×25–30(cid:2)m in vivo,
+siswasconducted,usingRAxML-HPC2onXSEDEv8.2.10
+83–147×30–41(cid:2)m in protargol preparations, elongate-
+(Stamatakis 2006; Stamatakis et al. 2008) with the optimal
+obconical with conspicuous, centrally-located apical
+modelevaluatedbytheonlineserverCIPRESScienceGate-
+protrusion,posteriorendpointed.Cytoplasmcontainsnumer-
+
+4 W.Songetal./EuropeanJournalofProtistology70(2019)1–16
+Table 1. Morphometric data of Cyrtostrombidium paraboreale sp. n. (par), Apostrombidium orientale sp. n. (ori), type population of A.
+pseudokielumXuetal.,2009(pse2004)andpresentpopulationofA.pseudokielum(pse2012).
+Charactera Species Min Max Mean M SD SE CV n
+Bodylength par 83 147 106.9 103 19.22 4.96 18.0 15
+ori 34 63 50.2 54 9.61 2.27 19.2 18
+pse2012 40 60 49.3 49 6.08 1.43 12.3 18
+Bodywidth par 30 41 35.8 34.5 3.56 0.89 9.9 16
+ori 24 42 35.3 37.5 6.37 1.59 18.1 16
+pse2012 20 38 28.9 29.5 4.62 1.09 16.0 18
+Anteriorcellendtobuccalvertex, ori 6 11 7.9 8 1.51 0.36 19.1 18
+distance pse2012 9 16 11.8 12 1.54 0.36 13.0 18
+par 13 16 14.9 15 0.79 0.23 5.3 12
+Collarmembranelles,number ori 15 18 16.6 17 0.81 0.20 4.8 16
+pse2012 15 17 16.0 16 0.73 0.18 4.6 16
+ori 7 10 8.8 9 1.08 0.28 12.3 15
+Buccalmembranelles,number
+pse2012 6 7 6.6 7 0.52 0.16 7.8 10
+par 49 68 60.0 61.5 8.04 4.02 13.4 4
+ori 12 18 14.8 15 1.75 0.51 11.8 12
+Kinety-1,numberofdikinetidsb
+pse2012 15 28 21.8 22 3.87 1.77 17.7 11
+pse2004 19 31 26.1 27 3.49 0.90 13.4 15
+par 46 88 57.3 50 15.09 5.70 26.3 7
+ori 41 57 48.0 49 4.51 1.20 9.4 14
+Kinety-2,numberofdikinetidsc
+pse2012 42 60 48.9 48 5.72 1.72 11.7 11
+pse2004 54 69 62.0 62 4.18 1.08 6.8 15
+ori 15 23 18.9 19 2.41 0.64 12.8 14
+Kinety-3,numberofdikinetids pse2012 28 40 33.0 33 3.86 1.07 11.6 13
+pse2004 29 50 43.2 45 5.13 1.32 11.9 15
+ori 26 36 30.9 31 2.99 0.83 9.7 13
+Kinety-4,numberofdikinetids pse2012 37 56 45.5 47 5.29 1.47 11.6 13
+pse2004 56 70 63.4 64.5 4.43 1.18 7.0 14
+par 2 2 2.0 2 0.00 0.00 0.0 16
+Numberofmacronucleus ori 1 1 1.0 1 0.00 0.00 0.0 18
+pse2012 1 1 1.0 1 0.00 0.00 0.0 18
+par 1 1 1.0 1 0.00 0.00 0.0 16
+Numberofmicronucleus ori 1 1 1.0 1 0.00 0.00 0.0 2
+pse2012 – – – – – – – –
+par 21 57 35.6 34 11.94 3.60 33.5 11
+Macronucleuslengthd ori 10 22 17.9 20 4.03 0.92 22.5 19
+pse2012 12 17 14.8 15 1.42 0.36 9.6 16
+par 6 11 8.2 7 1.99 0.66 24.2 9
+Macronucleuswidthd ori 9 19 13.8 15 3.47 0.90 25.1 15
+pse2012 11 15 13.7 14 1.14 0.28 8.3 16
+Cytopharyngealbasketnumber par 64 98 80.4 82 11.44 3.81 14.2 9
+Cytopharyngealbasketlength par 8 18 12.2 11.5 3.49 1.42 0.29 6
+Kinety-5,numberofdikinetids ori 14 17 14.9 15 1.03 0.25 6.9 17
+aAlldataarebasedonrandomlyselectedprotargol-stainedspecimens.Measurementsin(cid:2)m.CV,coefficientofvariationin%;M,median;Max,maximum;
+Mean,arithmeticmean;Min,minimum;n,numberofspecimensmeasured;SD,standarddeviation;SE,standarderrorofarithmeticmean.
+bGirdlekinety,numberofdikinetidsforCyrtostrombidiumparaborealesp.n.
+cVentralkinety,numberofdikinetidsforCyrtostrombidiumparaborealesp.n.
+dTheposteriormacronuclearnoduleforCyrtostrombidiumparaborealesp.n.
+ous yellowish–brown plastids, possibly as cleptoplastids. composed of 46–88 dikinetids. Cytopharynx composed
+Usually two macronuclear nodules and one micronucleus. of 64–98 cytopharyngeal rods, each about 8–18(cid:2)m long.
+Extrusomes rod-shaped, about 25–30×0.8(cid:2)m in size, Brackishwaterhabitat.
+arranged in a single row along girdle kinety. Adoral zone
+Type locality and habitat. Coastal waters off city of
+composed of 13–16 collar membranelles. Girdle kinety ◦ (cid:4) ◦ (cid:4)
+Zhanjiang (21 12 N, 110 24 E), Guangdong Province,
+bipartite, left portion composed of 26–38 dikinetids, right ◦
+China:salinity24.6‰,temperature24.0 C,andpH7.6.
+portion composed of 23–37 dikinetids. Ventral kinety
+
+Table2. MorphometricalandmorphologicalcomparisonofCyrtostrombidiumspecies.
+Character C.paraborealesp. C.longisomum C.wailesi C.sp C.boreale C.paralongisomum
+n. (typespecies)
+Bodysizeinvivo 90–135×25–30 – – – – 90–130×25–45
+Bodysizeafterstaining 83–147×30–41 42–60×11–17 26–39×10–16 54–76×18–22 50–159×18–54 82–126×17–37 W.Songetal./EuropeanJournalofProtistology70(2019)1–16
+Bodyshape Elongate-obconical Conical Conical Slimconical Longconical Slenderobconical
+CB,shapeincross-section Narrowelliptical Circular(basedon Circular(basedon Elliptical Circular(basedon Circular
+figure) figure) figure)
+CB,diameter 14–22×2–6 – – 10 – 6–9
+CM,number 13–16 12–18 12(N=1) 16 12–16 12–15
+CBrods,number 64–68 – – – 39–48 14–20
+CBrods,length 8–18 – – 14–22 18–37 14–24
+GKdikinetids,number 49–68 – – 4˜4(N=1) – 37–50
+VKdikinetids,number 46–88 – – 17–56(N=2) 72–98 45–54
+Ma,number 2 1 1 1 1 1
+Ma,shape Globular(anterior) Elongat-ovoid Ovoid Comma-shaped Elongate Elongate-ovoid
+elongate-ovoid
+(posterior)
+Ma,size 11–19×7–12 15×4 8×4 17–22×4–8 20–69×7–15 27–66×3–10
+(anterior)
+21–57×6–11
+(posterior)
+Mi,shape Globular Subspherical – – – –
+Sources Presentwork LynnandGilron LynnandGilron Agathaand Kimetal.(2002) Tsaietal.(2015)
+(1993) (1993) Riedel-Lorjé(1997)
+Alldataarebasedondescriptionsoftheoriginalandpresentpopulations.Measurementsin(cid:2)m.CB,cytopharyngealbasket;CM,collarmembranelles;Ma,macronucleus;Mi,micronucleus;GK,girdlekinety;
+VK,ventralkinety.
+5
+
+6 W.Songetal./EuropeanJournalofProtistology70(2019)1–16
+Fig.2. a–g.Cyrtostrombidiumparaborealesp.n.fromlife(a,d)andafterprotargolstaining(b,c,e–g).a,d.Ventralviewsofrepresentative
+individuals, arrow marks apical protrusion (a). b. Left lateral view of anterior cell portion, arrow marks cytopharyngeal basket, double
+arrowheadsdenoteapicalprotrusion.c.Nuclearapparatusofthreespecimens,arrowsmarkmicronucleus.e,f.Ventralanddorsalviewsofthe
+holotypespecimen.g.Rightlateralview.CB=cytopharyngealbasket;CM=collarmembranelles;GK=girdlekinety;Ma=macronucleus;
+Mi=micronucleus;VK=ventralkinety.Scalebars:40(cid:2)m(a);50(cid:2)m(e,f).
+Deposition of slides. The protargol slide containing the Extrusomes rod-shaped, about 25–30×0.8(cid:2)m in size,
+holotype specimen (Fig. 2e, f) circled in ink and numerous arranged in a single row along the girdle kinety (Fig. 3f).
+paratype specimens is deposited in the Laboratory of Usuallytwolongitudinallyorientatedmacronuclearnodules;
+Protozoology, Ocean University of China, with registration anterior nodule ellipsoidal, 11–19×7–12(cid:2)m in size after
+numberSW2012111502-1. protargol staining; posterior nodule elongate-cylindrical,
+21–57×6–11(cid:2)minsizeafterprotargolstaining,occasion-
+Etymology. The Latin prefix ‘para-’, means near. Hence
+ally connected with anterior nodule by a thin isthmus. One
+‘paraboreale’referstothemorphologicalsimilaritybetween
+sphericalmicronucleus,4–5×3–4(cid:2)minsizeafterprotargol
+thisspeciesandCyrtostrombidiumboreale,particularlywith
+staining, located between the two macronuclear nodules
+respecttolargecellsizeandlargenumberofcytopharyngeal
+(Figs.2c,g,3j).Neitheracytopygenoracontractilevacuole
+basketrods.
+recognized. Locomotion fast, usually swimming forwards
+ZooBankregistration.urn:lsid:zoobank.org:act:C2AFCA92- at a speed of about five times the body length per second
+9855-401B-BF95-CB006267E3F6 whilst rotating about main cell axis, occasionally drafting
+Description. Body 90–135×25–30(cid:2)m in size in vivo, inwatercurrentwhenmotionless.Fragile,celleasilybursts
+83–147×30–41(cid:2)m in protargol-stained specimens, duetosurfacetension.
+Adoralzoneofmembranellessurroundsapicalprotrusion,
+elongate-obconical, widest at shoulder, anterior end domed
+withanarrowventralgapatlocationofcytopharyngealbas-
+centrally to form a conspicuous globular apical protrusion
+about 10(cid:2)m high and 8(cid:2)m wide in vivo, posterior end ket, composed of 13–16 collar membranelles (Figs. 2b, e,
+3 g–i). Bases of membranelles about 12(cid:2)m long, number
+pointed (Figs. 2a, d, 3 a–e). Cells fragile and burst readily
+of basal body rows could not be determined; cilia of mem-
+during in vivo microscopic observation. Hemitheca not
+branelles up to 35(cid:2)m long in vivo (Fig. 3a–e). Endoral
+recognized.
+membranenotrecognized.
+Cytoplasm colourless, containing numerous
+yellowish–brown plastids (about 5(cid:2)m across), possi- Cytopharynx funnel-shaped, narrowly oval or dumbbell-
+shaped in cross-section, 14–22×2–6(cid:2)m in distalmost
+blyascleptoplastids,someinapicalprotrusion(Fig.3a–e).
+
+W.Songetal./EuropeanJournalofProtistology70(2019)1–16 7
+Fig.3. a–m.PhotomicrographsofCyrtostrombidiumparaborealesp.n.fromlife(a–f)andafterprotargolstaining(g–m).a–e.Different
+individuals.f.Anteriorcellportionshowingextrusomes.g–i.Ventralviewsofanteriorcellportionsshowingcollarmembranellesandsomatic
+ciliature, arrows mark cytopharyngeal basket. j. Ventral view showing two macronuclear nodules and one micronucleus. k. Left lateral
+view;arrowmarkscytopharyngealbasket.l.Dorsalviewshowinggapofgirdlekinety.m.Ventralviewshowingventralkinety.CM=collar
+membranelles;GK=girdlekinety;Ma=macronucleus;Mi=micronucleus;VK=ventralkinety.Scalebars:35(cid:2)m(a–e);20(cid:2)m(f,g,k);
+30(cid:2)m(j,m).
+section, center of distalmost section about 20(cid:2)m from Apostrombidium.orientalesp.n.(Figs.4a–h,5
+anterior cell end (Fig. 3g–i). Cytopharyngeal basket com- a–l;Tables1,3)
+posedof64–98rods(nematodesmata),eachabout8–18(cid:2)m
+long. Cytopharyngeal basket always located left of anterior
+macronuclearnodule(Figs.2b,3k). Diagnosis. Body size 50–55×25–30(cid:2)m in vivo,
+Girdlekinetyencirclescellsupraequatoriallyabout23(cid:2)m 34–63×24–42(cid:2)minprotargolpreparations;broadlyobcon-
+belowanteriormarginofcell,bipartitewithaventralgapat icaltoellipsoidal.Onebroadlyellipsoidalmacronucleusand
+theopeningofthecyrtopharynxandadorsalgap(Fig.2e,f). one globular micronucleus. Extrusomes elongate-clavate,
+Fragmentsofgirdlekinetyslightlycurvedwithendsextend- about 10–15×0.2–0.3(cid:2)m in size, densely spaced along
+ingsomewhatposteriorly.Leftpartofgirdlekinetyconsists somatic kineties. Adoral zone composed of 15–18 collar
+of26–38dikinetids,rightpartconsistsof23–37dikinetids; and 7–10 buccal membranelles. Somatic ciliature includes
+onlytheleftbasalbodyofeachdikinetidbearsaciliumabout five kinety fragments. K-1 longitudinal underneath buccal
+2(cid:2)m long (Fig. 3l, m). Ventral kinety commences about membranelles. K-2 inverted L-shaped on left side of cell.
+30(cid:2)mposteriorlytotheapicalcellendunderneaththeven-
+K-3extendslongitudinallyrightofposteriorportionofK-2.
+tralgapofthegirdlekinetyandextendslongitudinallytothe K-4 roughly inverted U-shaped, on right side of cell. K-5
+posterior cell end; composed of 46–88 dikinetids, only the encircles cell subterminally, with wide dorsal gap through
+anteriorbasalbodyofeachdikinetidbearsacilium2.5(cid:2)m
+whichK-2andK-3pass.Ciliaonposteriordorsalsideabout
+long(Fig.2e,g). 25(cid:2)mlonginvivo.Benthic,brackishwaterhabitat.Table3
+
+8 W.Songetal./EuropeanJournalofProtistology70(2019)1–16
+Table3. MorphometricdataforsomaticciliatureofApostrombidiumorientalesp.n.(ori),typepopulationofA.pseudokielumXuetal.,
+2009(pse2004)andpresentpopulationofA.pseudokielum(pse2012).
+Character Species Min Max Mean M SD SE CV n
+ori 7 9 8.7 9 0.67 0.21 7.8 10
+PosteriorendofK1toposteriorcell
+pse2004 1 6 2.4 2 1.4 0.36 58.5 15
+end,distance
+pse2012 0 6 2.8 3 1.86 0.54 67.8 12
+ori 23 32 27.8 28 4.03 2.02 14.5 4
+LengthofK1 pse2004 26 49 37.5 40 6.42 1.66 17.1 15
+pse2012 21 39 29.7 29.5 7.07 2.24 23.8 10
+ori 18 24 21.3 21.5 2.5 1.25 11.8 4
+AnteriorendofK1toanteriorcell
+pse2004 17 24 20.7 21 1.84 0.47 8.9 15
+end,distance
+pse2012 14 22 17.2 17 2.57 0.81 15 10
+ori 2 3 2.5 2.5 0.58 0.29 23.1 4
+GapbetweenK1andK2,distance pse2004 2 4 2.6 2 0.74 0.19 28.3 15
+pse2012 1 3 2.4 2.5 0.7 0.22 29.1 10
+ori 15 22 19.4 20 2.37 0.75 12.2 10
+HorizontalportionofK2toanterior
+pse2004 16 23 20.5 21 2.39 0.62 11.7 15
+cellend,distance
+pse2012 13 20 15.4 14.5 2.64 0.76 17.2 12
+ori 0 2 1.5 2 0.71 0.22 47.1 10
+PosteriorendofK2toposteriorcell
+pse2004 0 5 1.7 1 1.35 0.35 80.7 15
+end,distance
+pse2012 0 7 2.4 2.5 1.83 0.53 75.8 12
+ori 19 24 21.1 20.5 1.96 0.69 9.3 8
+DenseportionofK2,length pse2004 15 28 21.7 23 3.95 1.02 18.2 15
+pse2012 13 19 15.8 15 2.12 0.61 13.4 12
+ori 2 6 4.1 4 1.35 0.51 32.5 7
+PosteriorendofK3righttoposterior
+pse2004 0 4 1.7 2 1.56 0.45 93.4 12
+endofK2,distance
+pse2012 0 3 1.5 2 1.29 0.39 88.9 11
+ori 2 7 4.1 4 1.45 0.46 35.3 10
+PosteriorendofK3toposteriorcell
+pse2004 1 8 3.7 3 2.2 0.59 59.2 14
+end,distance
+pse2012 1 6 3.2 3 1.47 0.42 46.3 12
+ori 12 20 17 18 2.78 0.98 16.3 8
+LengthofK3 pse2004 23 49 38.7 40.5 8.3 2.22 21.4 14
+pse2012 22 40 29.1 28 5.52 1.59 19 12
+ori 28 42 37.5 38 4.54 1.6 12.1 8
+AnteriorendofK3toanteriorcell
+pse2004 14 21 18.2 19 2.43 0.63 13.3 15
+end,distance
+pse2012 14 27 17.5 16.5 3.71 1.07 21.2 12
+ori 4 11 8.3 9 2.5 1.02 30 6
+GapbetweenK3andK4,distance pse2004 1 5 1.9 2 1 0.27 51.7 14
+pse2012 2 3 2.5 3 0.52 0.16 20.5 11
+ori 16 22 18.5 18 1.96 0.62 10.6 10
+HorizontalportionofK4toanterior
+pse2004 12 19 15.7 16 2.19 0.57 14 15
+cellend,distance
+pse2012 10 20 14.3 14 2.76 0.83 19.3 11
+ori 7 10 8.9 9 1.05 0.35 11.9 9
+PosteriorendofK4toposteriorcell
+pse2004 2 15 9.3 9.5 3.28 0.95 35.2 12
+end,distance
+pse2012 6 17 10.2 10 3.31 1.1 32.4 9
+Type locality and habitat. A mangrove wetland near Etymology. The species-group name ‘orientale’ (eastern
+◦ (cid:4) ◦ (cid:4)
+Zhanjiang (21 22 N, 110 25 E), Guangdong Province, part of Asia) reflects the geographic region where the
+◦
+China:salinity17.0‰,temperature24.5 C,pH6.8. organismwasdiscovered.
+Deposition of slides. The protargol slide with the holo- ZooBankregistration.urn:lsid:zoobank.org:act:318C9085-
+type specimen (Fig. 5e) circled in ink is deposited in the 56E3-4CF0-80A3-6556FCEEC849
+Laboratory of Protozoology, Ocean University of China Description. Body size 50–55×25–30(cid:2)m in vivo,
+with registration number SW2013102404-1. One protargol 34–63×24–42(cid:2)m in protargol preparations, broadly
+slide containing paratype specimens is deposited in the
+obconical to ellipsoidal with posterior end rounded, widest
+NaturalHistoryMuseum,Londonwithregistrationnumber atshoulder,apicalprotrusionabout5(cid:2)mhighonrightside
+NHMUK2019.4.29.1.
+ofperistome(Figs.4a,b,5a–d).Hemithecanotrecognized.
+
+W.Songetal./EuropeanJournalofProtistology70(2019)1–16 9
+Fig.4. a–h.Apostrombidiumorientalesp.n.fromlife(a–c,e)andafterprotargolstaining(d,f–h).a,b.Ventralanddorsalviewsofthesame
+individual,arrowsmarktheextremelylongdorsalcilia,arrowheadsmarkextrusomes,doublearrowheadsmarkapicalprotrusion.c.Swimming
+pattern.d.Schemeshowingpatternoforalandsomaticciliature.e.Extrusomes.f,g.Ventralanddorsalviewsoftheholotypespecimen,
+arrowmarkstheextremelylongdorsalcilia,doublearrowheadsmarknormalsomaticcilia.h.Posteriorpolarviewshowingthepositionof
+thekinetyfragment.BM=buccalmembranelles;CM=collarmembranelles;E=endoralmembrane;K-1,2,3,4,5=kinetyfragement-1,2,
+3,4,5.Scalebars=15(cid:2)m(a);5(cid:2)m(e);25(cid:2)m(f,g).
+Cytoplasm colourless, contains numerous lipid droplets number of basal body rows could not be ascertained. Cilia
+andfoodvacuoles(about5(cid:2)macross)thatrendercellsdark of buccal membranelles about 5–8(cid:2)m long in vivo, bases
+at low magnification. Extrusomes elongate-clavate, densely ofmembranellesabout2–4(cid:2)mlong(Fig.5a–d);numberof
+spacedwithanteriorendstouchingcellsurface.Someextru- basalbodyrowscouldnotbeascertained.Endoralmembrane
+somesabout10–15×0.5(cid:2)minsize,arrangedinarowalong extendsalonginnerwallofbuccallip,composedofasingle
+horizontalpartsofK-2,K-4,K3anddorsalpartofK-2;other rowofdenselypackedbasalbodies(Fig.4f).
+extrusomesabout8×0.5(cid:2)minsize,arrangedinarowalong Somatic ciliature composed of five kinety fragments
+K-5(Figs.4e,5g).Possiblyextrusomesareassociatedwith (Fig.4d).K-1longitudinalunderneathbuccalmembranelles,
+all kinety fragments, however only the above extrusomes commences about 8(cid:2)m above posterior end of cell and
+wereobservedwithcertainty(Figs.4e,5g).Oneellipsoidal extends anteriorly terminating about 21(cid:2)m below anterior
+macronucleus, centrally located, about 18×14(cid:2)m in size cellend;K-1about28(cid:2)minlengthandcomposedofabout
+after protargol staining. One globular micronucleus, 2(cid:2)m 15dikinetids,onlytheanteriorbasalbodyofeachdikinetid
+across,locatedclosetothemacronucleus(Figs.4f,5j).Nei- bearsacilium(Figs.4f,5e).K-2onleftsideofcell,inverted
+ther a cytopyge nor a contractile vacuole were recognized. L-shaped,commencesabout2–3(cid:2)mclosetoanteriorendof
+Locomotion by swimming forwards while rotating about K-1, about 19(cid:2)m below anterior margin of cell, runs hori-
+main cell axis (Fig. 4c), crawling or motionless with collar zontallyaroundleftsideofbodyandontodorsalside,then
+◦
+membranellesattachedtosubstratum. turns 90 and extends posteriorly terminating at posterior
+Buccal cavity shallow, about 1/6 of cell length in vivo. cellend;composedofabout48dikinetids,onlytheleftbasal
+Adoralzoneofmembranellescomposedof15–18collarand body of each dikinetid bears a cilium; dikinetids in poste-
+7–10 buccal membranelles, collar and buccal portions con- rior portion densely spaced, and with conspicuously long
+tinuous (Figs. 4f, 5 i). Cilia of collar membranelles about cilia, posterior portion about 21(cid:2)m in length (Figs. 4f, g,
+20(cid:2)mlonginvivo,basesofmembranellesabout6(cid:2)mlong; 5f).K-3extendslongitudinallyrightofposteriorportionof
+
+10 W.Songetal./EuropeanJournalofProtistology70(2019)1–16
+Fig.5. a–l.PhotomicrographsofApostrombidiumorientalesp.n.fromlife(a–d,g,h)andafterprotargolstaining(e,f,i–l).a–d.Ventralviews
+offourindividuals,arrowsmarktheextremelylongdorsalcilia.e.Ventralviewoftheholotypespecimenshowingtheciliature.f.Dorsalview
+showingciliature.g.Showingextrusomes.h.Arrowmarksthelongdorsalcilia.i.Anteriorportionofcellshowingtheadoralmembranelles.
+j.Macronucleusandmicronucleus(arrow).k.Leftlateralviewofposteriorcellportionshowingkinetyfragments.l.Ventralviewofvery
+earlydividershowingtheoralprimordium(arrow).BM=buccalmembranelles;CM=collarmembranelles;E=endoralmembrane;K-1,2,
+3,4,5=kinety-1,2,3,4,5.Scalebars:25(cid:2)m(a–e);10(cid:2)m(g);15(cid:2)m(h);20(cid:2)m(j,l).
+K-2,commencesondorsalsideabout4(cid:2)mtorightofpos- Oneearlydividerwasobservedwiththeoralprimordium
+teriorendofK-2,andabout4(cid:2)maboveposteriorcellend, locatedinthegapbetweenK-1andK-2(Fig.5l).
+extendsanteriorly,andterminatesabout38(cid:2)mbelowante-
+riorcellend;K-3about17(cid:2)minlength,composedofabout
+Apostrombidium.pseudokielumXuetal.,2009
+19denselyspaceddikinetids,onlytheanteriorbasalbodyof
+(Fig.6;Tables1,3)
+each dikinetid bears a conspicuously long cilium (Figs. 4g,
+5f).K-4roughlyinvertedU-shaped,mainlyonrightsideof
+cell; commences on dorsal side, about 8(cid:2)m above anterior Remarks. The morphology of A. pseudokielum, the type
+◦
+endofK-3,extendsanteriorlyforashortdistance,turns90 speciesofthegenus,wasreportedindetailbyXuetal.(2009,
+andrunshorizontallyacrossrightsideofcellontoventralside 2011)basedonapopulationcollectedfromQingdao,China
+where it again performs a 90◦ turn and extends posteriorly (36◦ 04 (cid:4) N, 120◦ 21 (cid:4) E). On rechecking the original speci-
+paralleltoK-1,terminatingatsamelevelasK-1;composed mens (slides containing holotype and paratype specimens
+of31dikinetids,leftbasalbodyofeachdikinetidbearsacil- depositedinLaboratoryofProtozoology,OceanUniversity
+ium(Figs.4f,g,5e).K-5encirclescellsubterminally,witha ofChinawithregistrationnumbers04111001a–c),wefound
+widedorsalgapthroughwhichK-2andK-3pass;composed that there are two gaps in the somatic ciliature dividing
+of 15 dikinetids, only the left basal body of each dikinetid the somatic kineties into four parts, although these were
+bears a cilium (Figs. 4h, 5 e, k). Each dikinetid of K-3 and overlookedbyXuetal.(2009,2011).Inthepresentstudy,a
+in the posterior portion of K-2 bears a cilium about 25(cid:2)m populationofA.pseudokielumisolatedin2012wascollected
+longinvivo;ciliaflexibleandmobile,conspicuouslylonger fromthetypelocality,anditssomaticciliaturealsoincludes
+than other somatic cilia which are about 2(cid:2)m long in vivo two gaps. Here, an improved diagnosis and redescription
+(Figs.4a,b,5a–c,h). based on the new and the type populations are provided.
+
+W.Songetal./EuropeanJournalofProtistology70(2019)1–16 11
+Fig.6. a-j.ApostrombidiumpseudokielumXuetal.,2009afterprotargolstainingbasedontypepopulation(a–c,e–g,i)andpresentpopulation
+(d,h,j).a,b.Ventralanddorsalviewsofsamespecimenshowingtheciliature.c.Schemeshowingthepatternofthesomaticciliature.d.
+Ventralviewshowingsomaticciliatureandmacronucleus.e.Ventralviewshowingthegap(arrow)betweenK-1andK-2.f.Dorsalview.g.
+Dorsalviewshowingthegap(arrow)betweenK-3andK-4.h.Ventralviewshowingoralmembranelles.i.Posteriorleftlateralview,showing
+posteriorportionofK-4.j.Dorsalviewshowinggap(arrow)betweenK-3andK-4.BM=buccalmembranelles;CM=collarmembranelles;
+K-1-4=kinety-1-4.Scalebars:35(cid:2)m(a,b);30(cid:2)m(d);10(cid:2)m(e);25(cid:2)m(f);5(cid:2)m(g);20(cid:2)m(j).
+Thegenesequencedata(e.g.SSUrRNA)arelackingforA. obconical, posterior end bluntly pointed, conspicuous
+pseudokielum, thus we sequenced the SSU rRNA gene of apical protrusion on right of peristome, about 5(cid:2)m high.
+thenewpopulation. Hemithecanotrecognized.
+Improved diagnosis. Size 45–75×25–55(cid:2)m in vivo, Cytoplasmcolourless,containingnumerouslipiddroplets,
+someparticlesandfoodvacuoleswithdiatoms.Extrusomes
+slightly asymmetric, elongate-barrel shaped with poste-
+acicular, about 5–8(cid:2)m long, arranged in a row at shoul-
+rior end bluntly pointed, apical protrusion conspicuous.
+der area of cell on dorsal and lateral sides. One ellipsoidal
+One ovoidal macronucleus, centrally located. Extrusomes
+macronucleus,centrallylocated,about12–25×11–23(cid:2)min
+arranged in a row in shoulder region of cell on lateral and
+sizeafterprotargolstaining(Fig.6d).Neithercytopygenor
+dorsal sides. Adoral zone composed of 15–18 collar and
+contractile vacuole recognized. Locomotion by swimming
+6–8buccalmembranelles.Somaticciliaturecomprisesfour
+forwardswhilerotatingaboutmaincellaxis.
+kinety fragments. K-1 longitudinally oriented on ventral
+Buccalcavityabout20–25%ofcelllengthinvivo.Ado-
+side.K-2invertedL-shaped,mainlyonleftsideofcell.K-3
+ralzoneofmembranellescomposedof15–18collarand6–8
+extendslongitudinallyrightofK-2.K-4mainlyonrightside
+buccalmembranelles,collarandbuccalportionscontinuous
+of cell, shaped like a mirror-image of a square-root sign.
+(Fig.6a,b).Basesofcollarmembranellesabout6–8(cid:2)mlong,
+Marinehabitat.
+basesofbuccalmembranellesabout2–6(cid:2)mlong(Fig.6h).
+Localityandhabitat.Thepresentpopulationwascollected Endoralmembranelocatedoninnerwallofbuccallip,com-
+from the type locality, namely, a sandy beach in Qingdao posedofasinglerowofdenselypackedbasalbodies.
+◦ (cid:4) ◦ (cid:4)
+(35 58 N, 120 16 E), Shandong Province, China: salinity Somatic ciliature composed of four kinety fragments
+◦
+30.3‰,temperature15.9 C,pH8.2. (Fig. 6c). K-1 longitudinally oriented on ventral side, com-
+Depositionofslides.Avoucherslidewithprotargol-stained mences about 2.5(cid:2)m above posterior end of cell, and
+extendsanteriorlyterminatingabout17–21(cid:2)mbelowante-
+specimens is deposited in the Laboratory of Protozool-
+riorcellend;about30–38(cid:2)minlength,composedof15–31
+ogy, Ocean University of China with registration number
+SW2012050701. dikinetids,onlytheanteriorbasalbodyofeachdikinetidbears
+acilium(Fig.6a,d,e).K-2mainlyonleftanddorsalsidesof
+Redescription. Body 45–75×25–55(cid:2)m in vivo, cell,invertedL-shaped,commencesabout2.5(cid:2)mfromante-
+40–72×20–50(cid:2)m in protargol-stained specimens, broadly
+
+12 W.Songetal./EuropeanJournalofProtistology70(2019)1–16
+riorendofK-1andabout15–20(cid:2)mbelowanteriormargin ComparisonofA.pseudokielumwithoriginal
+of cell, runs horizontally around left side of body and onto population
+dorsalside,curvingdownwardsandterminatingabout2(cid:2)m
+above posterior end of cell; composed of 42–69 dikinetids, The genus Apostrombidium was established by Xu et al.
+only the left basal body of each dikinetid bears a cilium; (2009) with A. pseudokielum as type species by monotypy.
+dikinetidsinposteriorportiondenselyspaced,andwithcon- The present population matches the original population in
+spicuously long cilia, the densely ciliated posterior portion all taxonomically relevant characters, such as pattern of
+about16–22(cid:2)minlength(Fig.6b,f,j).K-3extendslongitu-
+somatic kinety fragments, number of oral membranelles,
+dinallyrightofK-2,commencesondorsalsideabout1.5(cid:2)m
+nuclear apparatus, and living morphology. Although the
+to right of posterior end of K-2, and about 3.5(cid:2)m above presentpopulationhasasmallercellsize(40–60×20–38(cid:2)m
+posterior cell end, extends anteriorly and terminates about vs. 46–72×34–50(cid:2)m after protargol staining) and fewer
+18(cid:2)m below anterior cell end; about 29–39(cid:2)m in length dikinetids in each of the four kinety fragments (which may
+andcomposedof28–50denselyspaceddikinetids,onlythe be a function of the smaller cell size), we believe these
+anteriorbasalbodyofeachdikinetidbearsaconspicuously differences to be population-dependent. Thus, the present
+longcilium(Fig.6b,f,g,j).K-4shapedlikeamirror-image populationisconspecificwithA.pseudokielum.
+ofasquare-rootsign;commencesondorsalside,about2(cid:2)m
+from anterior end of K-3 and about 15(cid:2)m below anterior
+Apostrombidium.orientalesp.n.:generic
+marginofcell,runshorizontallyacrossrightsideofcellonto
+assignmentandcomparisonwithrelatedspecies
+ventralside,andextendsposteriorlyparalleltoK-1,curves
+under starting point of K-1, recurves downwards again ter-
+ThenewspeciesisassignedtothegenusApostrombidium
+minatinginleft-posteriorregionondorsalside,about10(cid:2)m
+based on its possession of kinety fragments that extend to
+aboveposteriorcellend;composedof37–70dikinetids,only
+the posterior end of the cell on both the ventral and dorsal
+theleftbasalbodyofeachdikinetidbearsacilium(Fig.6a,
+sides (Song et al. 2013; Xu et al. 2009). Besides, the oral
+b,g,i).EachdikinetidofK-3andofposteriorportionofK-2
+primordium of the new species share a same location with
+bears a cilium about 15(cid:2)m long; these cilia are conspicu-
+A. pseudokielum. Furthermore, A. orientale sp. n. clusters
+ouslylongerthanothersomaticciliawhichareabout2(cid:2)m
+withA.pseudokielumintheSSUrRNAphylogenetictrees.
+long(Fig.6a,b).
+A.postrombidiumorientalesp.n.canbeeasilyseparatedfrom
+its two congeners by possessing five kinety fragments (vs.
+four in A. pseudokielum and three in A. parakielum) and
+ComparisonofC.paraborealesp.n.withrelated a unique subterminal kinety fragment that is horizontally
+oriented(Songetal.2013;Xuetal.2009).
+species
+An improved diagnosis of Apostrombidium is provided
+here that takes account of the redescription of A. pseudok-
+The genus Cyrtostrombidium was established by Lynn
+ielumandthenewcharactersofA.orientalesp.n.
+and Gilron (1993). Hitherto, four species were recognized,
+viz. Cyrtostrombidium longisomum Lynn and Gilron, 1993
+(type), Cyrtostrombidium wailesi Lynn and Gilron, 1993, GenusApostrombidiumXuetal.,2009
+C. boreale Kim et al., 2002, and Cyrtostrombidium para-
+longisomumTsaietal.,2015,plusanunnamedspecies,i.e.,
+Cyrtostrombidium sp. Agatha and Riedel-Lorjé, 1997, that Improved diagnosis. Strombidiidae with somatic kinety
+awaits formal description. The new species is assigned to consistingofseveralfragmentsthatextendtowardsposterior
+Cyrtostrombidium based on its possession of a cytopharyn- end of cell on both ventral and dorsal sides, with or with-
+gealbasket,collarmembranellessurroundingthebuccalarea, outasubterminalkinetyfragment.Oralprimordiumlocated
+andtheabsenceofbuccalmembranelles. betweenkinetyfragments1and2.
+C.yrtostrombidiumparaborealesp.n.differsfromitscon-
+geners by possessing two macronuclear nodules (vs. one Phylogeneticanalyses(Fig.7)
+macronucleus) (Agatha and Riedel-Lorjé 1997; Kim et al.
+2002; Lynn and Gilron 1993; Tsai et al. 2015). The new The phylogenetic trees derived from SSU rRNA gene
+speciesmostcloselyresemblesC.borealeintermsofcellsize sequenceswithBIandMLmethodsaregenerallycongruent,
+andnumbersofcollarmembranellesandventraldikinetids. so, only the BI tree is presented with support values from
+However, it differs from the latter by the presence of two bothmethodsatthenodes.ThethreespeciesofCyrtostrom-
+macronuclear nodules (vs. one macronucleus), number of bidium, for which sequences are available, cluster together
+cytopharyngeal rods (64–68 vs. 39–48) and girdle kinety withmoderateandlowsupport(0.96BI,62%ML),support-
+interruptedbytwo(vs.one)gaps(Kimetal.2002). ingthemonophylyofthegenusCyrtostrombidium,whichis
+Comparative data for all Cyrtostrombidium species are consistentwithpreviousstudies(Liuetal.2016;Tsaietal.
+showninTable2. 2015).ThenewlysequencedC.paraborealesp.n.occupies
+
+W.Songetal./EuropeanJournalofProtistology70(2019)1–16 13
+Fig.7. BayesianinferencetreeinferredfromSSUrRNAgenesequencedata.Numbersatthenodesrepresentsupportvaluesinthefollowing
+order:BIposteriorprobabilitiesandMLbootstrapvalues.DisagreementsintopologybetweentheBIandMLtreesareindicatedbyahyphen.
+Nodesthatarewellsupported(1.00BI;100%ML)arerepresentedbyfilledcircles.Bar,5substitutionsper100nucleotidepositions.Species
+sequencedinthepresentstudyareshowninboldtype.
+the basal position within the genus. The cluster comprising moderatelysupportedclade(0.87BI,86%ML),thatissister
+C.longisomumandtwopopulationsofC.paralongisomum to Varistrombidium kielum (0.84 BI, 89% ML); this group-
+ismoderatelysupported(0.97BI,68%ML).Thedivergence ingclusterswithA.parakielumwithlowtomoderatesupport
+(bpdifferencespersite)betweenthefourCyrtostrombidium (0.74 BI, 48% ML). The divergences (number of base pair
+SSUrRNAgenesequences(1690sites)rangesfrom0.0019 differencespersite)betweentheSSUrRNAgenesequences
+(3bpdifferencebetweenC.paraborealesp.n.andC.para- ofthethreeApostrombidiumspp.andV.kielum(1663sites)
+longisomumKJ609053)to0.0047(8bpdifferencebetween ranges from 0.0018 (3 bp difference between A. pseudok-
+C.longisomumandC.paralongisomumKJ534583). ielumandA.orientale)to0.0229(38bpdifferencebetween
+Hitherto, the phylogenetic position of the genus Apos- A.parakielumandV.kielum).Thisclose,albeitpoorlysup-
+trombidiumwaslargelyunsolvedduetotheabsenceofgene ported, evolutionary relationship between Apostrombidium
+sequencedataforthetypespecies,A.pseudokielum(Xuetal. and Varistrombidium is consistent with previous molecular
+2009).Inthepresentstudy,wesupplytheSSUrRNAgene phylogenetic studies (Gao et al. 2016a; Song et al. 2013)
+sequenceofA.pseudokielumbasedonanewpopulation.Phy- andcladisticanalyses(Agatha2011).Itislikelythatlimited
+logeneticanalysesbasedonSSUrRNAgenesequencedata taxonsamplingforbothVaristrombidiumandApostrombid-
+revealthat,thegenusApostrombidiumisnotmonophyletic. ium, and the reliance on a single gene (SSU rRNA), are at
+A.postrombidiumpseudokielumandA.orientalesp.n.forma leastpartlyresponsibleforthepoorresolutionoftheirrela-
+
+14 W.Songetal./EuropeanJournalofProtistology70(2019)1–16
+tionshipinmolecularphylogeneticstudies.Therefore,more andstrombidiids(Protozoa,Ciliophora).Mol.Phylogenet.Evol.
+genemarkersanddataformorespeciesareneededinorder 105,241–250.
+to resolve the evolutionary relationship between these two Gao,F.,Warren,A.,Zhang,Q.Q.,Gong,J.,Miao,M.,Sun,P.,Xu,
+genera. D.P.,Huang,J.,Yi,Z.Z.,Song,W.B.,2016b.Theall-data-based
+evolutionaryhypothesisofciliatedprotistswitharevisedclas-
+sificationofthephylumCiliophora(Eukaryota,Alveolata).Sci.
+Rep.6,24874.
+Authorcontributions
+Gao,F.,Huang,J.,Zhao,Y.,Li,L.F.,Liu,W.W.,Miao,M.,Zhang,
+Q.Q., Li, J.M., Yi, Z.Z., El-Serehy, H.A., Warren, A., Song,
+WeiboSongconceivedofthestudy.WenSongperformed W.B., 2017. Systematic studies on ciliates (Alveolata, Cilio-
+researchandexperiments.WenSong,DapengXu,Qianqian phora)inChina:progressandachievementsbasedonmolecular
+Zhang,WeiweiLiuandAlanWarrenwrotethepaper. information.Eur.J.Protistol.61,409–423.
+Gao, S., Gong, J., Lynn, D.H., Lin, X.F., Song, W.B., 2009. An
+updatedphylogenyofoligotrichandchoreotrichciliates(Proto-
+zoa,Ciliophora,Spirotrichea)withrepresentativetaxacollected
+Acknowledgements
+fromChinesecoastalwaters.Syst.Biodivers.7,235–242.
+Hall, T.A., 1999. BioEdit: a user-friendly biological sequence
+ThisworkwassupportedbytheNationalNaturalScience alignmenteditorandanalysisprogramforWindows95/98/NT.
+FoundationofChina(projectnumber:31672251,41576124, NucleicAcidsSymp.Ser.41,95–98.
+3176113300,31702009,31801955)andtheChinaPostdoc- Kahl, A., 1932. Urtiere oder Protozoa I: Wimpertiere oder Cili-
+toralScienceFoundation(projectnumber:2017M622276). ata (Infusoria) 3. Spirotricha. In: Dahl, F. (Ed.), Die Tierwelt
+Deutschlands und der angrenzenden Meeresteile, 25. Gustav
+Fischer,Jena,pp.399–650.
+Kim, Y.O., Suzuki, T., Taniguchi, A., 2002. A new species in
+References
+the genus Cyrtostrombidium (Ciliophora, Oligotrichia, Olig-
+otrichida):itsmorphology,seasonalcycleandrestingstage.J.
+Agatha,S.,2004.EvolutionofciliarypatternsintheOligotrichida Eukaryot.Microbiol.49,338–343.
+(Ciliophora,Spirotricha)anditstaxonomicimplications.Zool- Krainer,K.H.,1991.Contributionstothemorphology,infraciliature
+ogy107,153–168. andecologyoftheplanktonicciliatesStrombidiumpelagicumn.
+Agatha, S., 2011. Updated hypothesis on the evolution of olig- sp.,Pelagostrombidiummirabile(Penard,1916)n.g.n.comb.,
+otrichid ciliates (Ciliophora, Spirotricha, Oligotrichida) based andPelagostrombidiumfallax(Zacharias,1896)n.g.,n.comb.
+onsomaticciliarypatternsandontogeneticdata.Eur.J.Protistol. (Ciliophora,Oligotrichida).Eur.J.Protistol.27,60–70.
+47,51–56. Liu,W.W.,Yi,Z.Z.,Lin,X.F.,Al-Rasheid,K.A.S.,2011a.Morpho-
+Agatha, S., Riedel-Lorjé, J.C., 1997. Morphology, infraciliature, logic and molecular data suggest that Lynnella semiglobulosa
+and ecology of halteriids and strombidiids (Ciliophora, Olig- n. g., n. sp. represents a new family within the subclass
+otrichea)fromcoastalbrackishwaterbasins.Arch.Protistenk. Choreotrichia (Ciliophora, Spirotrichea). J. Eukaryot. Micro-
+148,445–459. biol.58,43–49.
+Agatha,S.,Riedel-Lorjé,J.C.,2006.RedescriptionofTintinnopsis Liu, W.W., Yi, Z.Z., Warren, A., Al-Rasheid, K.A.S., Al-Farraj,
+cylindricaDaday,1887(Ciliophora:Spirotricha)andunification S.A.,Lin,X.F.,Song,W.B.,2011b.Taxonomy,morphologyand
+oftintinnidterminology.ActaProtozool.45,137–151. molecular systematics of a new oligotrich ciliate, Williophrya
+Agatha, S., Strüder-Kypke, M.C., Beran, A., Lynn, D.H., 2005. maedai gen. nov., sp. nov., with redescriptions of Strombid-
+Pelagostrobilidiumneptuni(MontagnesandTaylor,1994)and iumbasimorphumandPseudotontoniasimplicidens(Protozoa,
+Strombidiumbiarmatumnov.spec.(Ciliophora,Oligotrichea): Ciliophora,Oligotrichia).Syst.Biodivers.9,247–258.
+phylogenetic position inferred from morphology, ontogenesis, Liu,W.W.,Yi,Z.Z.,Xu,D.P.,Clamp,J.,Li,J.Q.,Lin,X.F.,Song,
+andgenesequencedata.Eur.J.Protistol.41,65–83. W.B.,2015a.Twonewgeneraofplanktonicciliatesandinsights
+Azam, F., Fenchel, T., Field, J.G., Gray, J.S., Meyer-Reil, L.A., intotheevolutionofthefamilyStrombidiidae(Protista,Cilio-
+Thingstad, F., 1983. The ecological role of water-column phora,Oligotrichia).PLoSOne10,e0131726.
+microbesinthesea.Mar.Ecol.Prog.Ser.10,257–263. Liu,W.W.,Yi,Z.Z.,Lin,X.F.,Li,J.Q.,Al-Farraj,S.A.,Al-Rasheid,
+Caron, D.A., Countway, P.D., Jones, A.C., Kim, D.Y., Schnetzer, K.A.S., Song, W.B., 2015b. Morphology and molecular phy-
+A., 2012. Marine protistan diversity. Annu. Rev. Mar. Sci. 4, logeny of three new oligotrich ciliates (Protozoa, Ciliophora)
+467–493. fromtheSouthChinaSea.Zool.J.LinneanSoc.174,653–665.
+Chen,P.C.,Chiang,K.P.,Tsai,S.F.,2017.Pelagostrobilidiumliui Liu,W.W.,Xu,D.P.,Ma,H.G.,Al-Farraj,S.A.,Warren,A.,Yi,Z.Z.,
+n. sp. (Ciliophora, Choreotrichida) from the coastal waters of 2016.Taxonomyandmolecularsystematicsofthreeoligotrich
+northeasternTaiwanandanimproveddescriptionofPelagostro- (s.l.)ciliatesincludingdescriptionsoftwonewspecies,Strom-
+bilidiumminutumLiuetal.,2012.J.Eukaryot.Microbiol.64, bidiumguangdongensesp.nov.andStrombidinopsissinicumsp.
+579–587. nov.(Protozoa,Ciliophora).Syst.Biodivers.14,452–465.
+Fauré-Fremiet,E.,1924.Contributionálaconnaissancedesinfu- Liu, W.W., Jiang, J.M., Xu, Y., Pan, X.M., Qu, Z.S., Luo, X.T.,
+soiresplanktoniques.Bull.Biol.Fr.Belg.Suppl.6,1–171. El-Serehy,H.A.,Warren,A.,Ma,H.G.,Pan,H.B.,2017.Diver-
+Gao,F.,Li,J.M.,Song,W.,Xu,D.P.,Warren,A.,Yi,Z.Z.,Gao,S., sityoffree-livingmarineciliates(Alveolata,Ciliophora):faunal
+2016a.Multi-gene-basedphylogeneticanalysisofoligotrichcil- studiesincoastalwatersofChinaduringtheyears2011–2016.
+iateswithemphasisontwodominantgroups:cyrtostrombidiids Eur.J.Protistol.61,424–438.
+
+W.Songetal./EuropeanJournalofProtistology70(2019)1–16 15
+Lynn,D.H.,Gilron,G.L.,1993.Strombidiidciliatesfromcoastal Song,W.,Li,J.M.,Hu,X.Z.,Liu,W.W.,Al-Rasheid,K.A.S.,Miao,
+watersnearKingstonharbor,Jamaica(Ciliophora,Oligotrichia, M., 2018a. Morphology and phylogeny of three oligotrichous
+Strombidiidae).J.Mar.Biol.Assoc.U.K.73,47–65. ciliates(s.l.),includingdescriptionofanewspeciesParastrom-
+Lynn, D.H., Montagnes, D.J.S., 1988. Taxonomic descriptions of bidinopsiszhuhaiensissp.n.(Ciliophora,Choreotrichia).Acta
+some conspicuous species in the family Strombidiidae (Cilio- Protozool.57,153–167.
+phora:Oligotrichida)fromtheIslesofshoals,GulfofMaine.J. Song,W.,Wang,L.,Li,L.F.,Al-Farraj,S.A.,Aleidan,A.,Smith,
+Mar.Biol.Assoc.U.K.68,259–276. S., Hu, X.Z., 2018b. Morphological characterizations of four
+Medlin, L., Elwood, H.J., Stickel, S., Sogin, M.L., 1988. The speciesofParallelostrombidium(Ciliophora,Oligotrichia),with
+characterizationofenzymaticallyamplifiedeukaryotic16S-like anoteonthephylogenyofthegenus.J.Eukaryot.Microbiol.
+rRNA-codingregions.Gene71,491–499. 65,679–693.
+Miller,M.,Pfeiffer,W.,Schwartz,T.,2010.CreatingtheCIPRES Song, W.B., 2005. Taxonomic description of two new marine
+sciencegatewayforinferenceoflargephylogenetictrees.Pro- oligotrichous ciliates (Protozoa, Ciliophora). J. Nat. Hist. 39,
+ceedings of the Gateway Computing Environments Workshop 241–252.
+(GCE),1–8. Song,W.B.,Bradbury,P.C.,1998.Studiesonsomenewandrare
+Montagnes,D.J.S.,Lynn,D.H.,Stoecker,D.K.,Small,E.B.,1988. reportedmarineplanktonicciliates(Ciliophora:Oligotrichida)
+Taxonomic descriptions of one new species and redescription fromcoastalwatersinNorthChina.J.Mar.Biol.Assoc.U.K.
+of four species in the family Strombidiidae (Ciliophora, Olig- 78,767–794.
+otrichida).J.Protozool.35,189–197. Stamatakis, A., 2006. RAxML-VI-HPC: maximum likelihood-
+Nylander,J.A.A.,2004.MrModeltest.EvolutionaryBiologyCen- basedphylogeneticanalyseswiththousandsoftaxaandmixed
+tre,UppsalaUniversity. models.Bioinformatics22,2688–2690.
+Pan,X.M.,Bourland,W.A.,Song,W.B.,2013.Protargolsynthesis: Stamatakis, A., Hoover, P., Rougemont, J., 2008. A rapid boot-
+anin-houseprotocol.J.Eukaryot.Microbiol.60,609–614. strap algorithm for the RAxML web servers. Syst. Biodivers.
+Penn,O.,Privman,E.,Ashkenazy,H.,Landan,G.,Graur,D.,Pupko, 57,758–771.
+T., 2010a. GUIDANCE: a web server for assessing alignment Tsai,S.F.,Chen,W.T.,Chiang,K.P.,2015.Phylogeneticposition
+confidencescores.NucleicAcidsRes.38,W23–W28. of the genus Cyrtostrombidium, with a description of Cyr-
+Penn,O.,Privman,E.,Landan,G.,Graur,D.,Pupko,T.,2010b.An tostrombidiumparalongisomumnov.spec.andaredescriptionof
+alignment confidence score capturing robustness to guide tree CyrtostrombidiumlongisomumLynn&Gilron,1993(Protozoa,
+uncertainty.Mol.Biol.Evol.27,1759–1767. Ciliophora)basedonliveobservation,protargolimpregnation,
+Penard, E., 1920. Observations sur le Strombidium viride Stein. and18SrDNAsequences.J.Eukaryot.Microbiol.62,239–248.
+Revue.suisseZool.28,1–9. Wang, C.D., Zhang, T.T., Wang, Y.R., Katz, L.A., Gao, F., Song,
+Petz, W., Song, W.B., Wilbert, N., 1995. Taxonomy and ecology W.B., 2017. Disentangling sources of variation in SSU rDNA
+oftheciliatefauna(Protozoa,Ciliophora)intheendopagialand sequencesfromsinglecellanalysesofciliates:impactofcopy
+pelagialoftheWeddellSea,Antarctica.Stapfia40,1–223. numbervariationandexperimentalerror.Proc.R.Soc.B:Biol.
+Ronquist,F.,Huelsenbeck,J.P.,2003.MrBayes3:Bayesianphy- Sci.284,1859.
+logenetic inference under mixed models. Bioinformatics 19, Wang,R.,Song,W.,Yi,Z.Z.,Lin,X.F.,Al-Rasheid,K.A.S.,Hu,
+1572–1574. X.Z.,2018.Morphologyandmolecularphylogenyoftwonew
+Santoferrara,L.F.,McManus,G.B.,2017.Integratingdimensionsof speciesofSpirostrombidium(Ciliophora,Oligotrichia),witha
+biodiversityinchoreotrichsandoligotrichsofmarineplankton. keytospeciesinthegenus.Syst.Biodivers.16,743–756.
+Eur.J.Protistol.61,323–330. Wilbert,N.,1975.EineverbesserteTechnikderProtargolimpräg-
+Santoferrara, L.F., Bachy, C., Alder, V.A., Gong, J., Kim, Y.O., nationfürCiliaten.Mikrokosmos64,171–179.
+Sacca,A.,Neto,I.D.D.,Strüder-Kypke,M.C.,Warren,A.,Xu, Worden,A.Z.,Follows,M.J.,Giovannoni,S.J.,Wilken,S.,Zimmer-
+D.P.,Yi,Z.Z.,Agatha,S.,2016.Updatingbiodiversitystudiesin man, A.E., Keeling, P.J., 2015. Rethinking the marine carbon
+loricateprotists:thecaseofthetintinnids(Alveolata,Ciliophora, cycle:factoringinthemultifariouslifestylesofmicrobes.Sci-
+Spirotrichea).J.Eukaryot.Microbiol.63,651–656. ence347,1257594.
+Santoferrara,L.F.,Alder,V.V.,McManus,G.B.,2017.Phylogeny, Xu, D.P., Song, W.B., Lin, X.F., Warren, A., 2006a. On two
+classification and diversity of Choreotrichia and Oligotrichia marineoligotrichciliates,Spirostrombidiumagathaen.sp.and
+(Ciliophora,Spirotrichea).Mol.Phylogenet.Evol.112,12–22. S. schizostomum (Kahl, 1932) n. comb. from China, with a
+Song,W.,Li,J.M.,Liu,W.W.,Jiang,J.M.,Al-Rasheid,K.A.S.,Hu, keytotheidentificationofsevenwell-characterizedSpirostrom-
+X.Z.,2013.Taxonomy,morphologyandmolecularsystematics bidium spp. (Ciliophora: Oligotrichida). Acta Protozool. 45,
+ofthreeoligotrichciliates,includingadescriptionofApostrom- 433–442.
+bidiumparakielumspec.nov.(Ciliophora,Oligotrichia).Int.J. Xu, D.P., Song, W.B., Warren, A., 2006b. Morphology and
+Syst.Evol.Microbiol.63,1179–1191. infraciliature of two new species of marine oligotrich cili-
+Song,W.,Li,J.M.,Liu,W.W.,Al-Rasheid,K.A.S.,Hu,X.Z.,Lin, ates (Ciliophora: Oligotrichida) from China. J. Nat. Hist. 40,
+X.F.,2015a.TaxonomyandmolecularphylogenyoffourStrom- 1287–1299.
+bidiumspecies,includingdescriptionofS.pseudostylifersp.nov. Xu,D.P.,Warren,A.,Song,W.B.,2009.Oligotrichs.In:Song,W.B.,
+(Ciliophora,Oligotrichia).Syst.Biodivers.13,76–92. Warren,A.,Hu,X.(Eds.),Free-LivingCiliatesintheBohaiand
+Song, W., Zhao, X.L., Liu, W.W., Hu, X.Z., Al-Farraj, S.A., Al- YellowSeas,China.SciencePress,Beijing,pp.307–351.
+Rasheid,K.A.S.,Song,W.B.,Warren,A.,2015b.Biodiversity Xu, D.P., Sun, P., Clamp, J., Ma, H.G., Song, W.B., 2011. The
+ofoligotrichciliatesintheSouthChinaSea:descriptionofthree establishmentofanewoligotrichgenus,Varistrombidiumgen.
+new Strombidium species (Protozoa, Ciliophora, Oligotrichia) nov. and the morphology and phylogeny of a marine ciliate,
+withphylogeneticanalyses.Syst.Biodivers.13,928–943.
+
+16 W.Songetal./EuropeanJournalofProtistology70(2019)1–16
+Varistrombidium kielum (Maeda and Carey, 1985) nov. comb. Yan,Y.,Rogers,A.J.,Gao,F.,Katz,L.A.,2017.Unusualfeatures
+(Protista,Ciliophora).ActaZootaxon.Sin.36,502–511. ofnon-dividingsomaticmacronucleiintheciliateclassKary-
+Xu,D.P.,Sun,P.,Zhang,Y.,Li,R.,Huang,B.,Jiao,N.,Warren,A., orelictea.Eur.J.Protistol.61,399–408.
+Wang,L.,2018.Pigmentedmicrobialeukaryotesfuelthedeep Zhang,Q.Q.,Agatha,S.,Zhang,W.C.,Dong,J.,Yu,Y.,Jiao,N.Z.,
+seacarbonpoolinthetropicalWesternPacificOcean.Environ. Gong,J.,2017.ThreerDNAloci-basedphylogeniesoftintinnid
+Microbiol.20,3811–3824. ciliates(Ciliophora,Spirotrichea,Choreotrichida).J.Eukaryot.
+Microbiol.64,226–241.
+

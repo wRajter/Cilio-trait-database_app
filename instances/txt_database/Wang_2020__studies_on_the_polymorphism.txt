@@ -1,0 +1,652 @@
+microorganisms
+Article
+Comparative Studies on the Polymorphism and Copy
+Number Variation of mtSSU rDNA in Ciliates
+(Protista, Ciliophora): Implications for Phylogenetic,
+Environmental, and Ecological Research
+YuruiWang1,2 ,YaohanJiang1,2,YongqiangLiu1,2,YuanLi1,2,LauraA.Katz3,FengGao1,2
+andYingYan1,2,3,*
+1 InstituteofEvolution&MarineBiodiversity,OceanUniversityofChina,Qingdao266003,China;
+wangyurui2011@163.com(Y.W.);jiangyaohan2020@163.com(Y.J.);liuyongqiang@stu.ouc.edu.cn(Y.L.);
+ly2722@stu.ouc.edu.cn(Y.L.);gaof@ouc.edu.cn(F.G.)
+2 KeyLaboratoryofMariculture,MinistryofEducation,OceanUniversityofChina,Qingdao266003,China
+3 DepartmentofBiologicalSciences,SmithCollege,Northampton,MA01063,USA;lkatz@smith.edu
+* Correspondence: qilin_238@163.com
+(cid:1)(cid:2)(cid:3)(cid:1)(cid:4)(cid:5)(cid:6)(cid:7)(cid:8)(cid:1)
+(cid:1)(cid:2)(cid:3)(cid:4)(cid:5)(cid:6)(cid:7)
+Received: 21January2020;Accepted: 21February2020;Published: 25February2020
+Abstract: WhilenuclearsmallsubunitribosomalDNA(nSSUrDNA)isthemostcommonly-used
+genemarkerinstudyingphylogeny,ecology,abundance,andbiodiversityofmicrobialeukaryotes,
+mitochondrialsmallsubunitribosomalDNA(mtSSUrDNA)providesanalternative. Recently,both
+copynumbervariationandsequencevariationofnSSUrDNAhavebeendemonstratedfordiverse
+organisms,whichcancontributetomisinterpretationofmicrobiomedata. Giventhis,weexplore
+patternsformtSSUrDNAamong13selectedciliates(representingfiveclasses),amajorcomponentof
+microbialeukaryotes,estimatingcopynumberandsequencevariationandcomparingtothatofnSSU
+rDNA.Ourstudyreveals: (1)mtSSUrDNAcopynumbervariationissubstantiallylowerthanthat
+fornSSUrDNA;(2)mtSSUrDNAcopynumberrangesfrom1.0×104to8.1×105;(3)amostcommon
+sequenceofmtSSUrDNAisalsofoundineachcell;(4)thesequencevariationofmtSSUrDNAare
+mainlyindelsinpolyA/Tregions,andonlyhalfofspecieshavesequencevariation,whichisfewer
+thanthatfornSSUrDNA;and(5)thepolymorphismsbetweenhaplotypesofmtSSUrDNAwouldnot
+influencethephylogenetictopology. Together,thesedataprovidemoreinsightsintomtSSUrDNAas
+apowerfulmarkerespeciallyformicrobialecologystudies.
+Keywords: Ciliates;mtSSUrDNA;nSSUrDNA;copynumber;polymorphism;ecology
+1. Introduction
+Microbial lineages represent the bulk of eukaryotic diversity and are critical for ecological,
+environmentalandbiogeographicalresearch[1–4]. Ciliatesareanimportantcomponentofmicrobial
+diversity. As a group of single-cell microorganisms, ciliates play crucial roles in microbial food
+webs[5–7]. Becauseofthepresenceofdualgenomeswithineachcell/individualcoupledwithextensive
+genome rearrangement during sexual reproduction (i.e., conjugation), ciliates are excellent model
+systemsinawiderangeofstudies,includinggenomeevolution,ecology,andepigenetics[6,8–16].
+Many studies on microbial diversity, including ciliates, rely on metagenomic sequencing
+techniques[17–20]. Becauseofitsubiquityandpossessionofamixtureofconservedandvariable
+regions,nuclearsmallsubunitribosomalDNA(nSSUrDNA)hasbeenthemostcommonly-usedgene
+markerforassessingtheabundanceandbiodiversityofmicrobesinenvironmentalsamples[21–23].
+However,previousstudiesreportedbothcopynumberandsequencevariationofnSSUrDNAinmany
+Microorganisms2020,8,316;doi:10.3390/microorganisms8030316 www.mdpi.com/journal/microorganisms
+
+Microorganisms2020,8,316 2of15
+organisms,especiallyinciliates[24–28],whichmightmisleadtheassessmentofspeciesabundance
+andbiodiversityinenvironmentalsurveys.
+Therefore,anincreasingnumberofstudieshavesoughtadditional/alternativegenemarkersthat
+might perform better on microbial ecological research which focuses on species-level biodiversity,
+andbetterresolveciliateevolution[29–33]. Thisisalsoduetotheconcernsaboutwhetherasingle
+genemarkerissufficienttoelucidatephylogeneticrelationships[30,34,35],andnSSUrDNAmightbe
+tooconservedtouncovercrypticspecies[36,37]. Thougheasytocharacterize,nuclearlarge-subunit
+ribosomalDNA(nLSUrDNA)andinternaltranscribedspacerregion(ITS1-5.8S-ITS2)arenotperfect
+additionalgenemarkersbecausetheyareorganizedintandemwithnSSUrDNA[24]. Protein-coding
+genes(e.g.,alpha-tubulin)arealsonotsuitableforanalyzingphylogeneticrelationshipsbecauseof
+theirextensiveparalogyandheterogeneousevolutionrates[38–40].
+In contrast, mitochondrial genes have the potential to be powerful gene markers as they
+exist in nearly all eukaryotes with a few exceptions [41] and can be reliably extracted from the
+organisms. Inciliates,mitochondrialgenesareappreciatedasanalternativegenemarkerthatcan
+effectivelyelucidatethesystematicrelationshipswithinseveralclassesofciliates(e.g.,Colpodeaand
+Phyllopharyngea)aswellasrecoverciliatephylogenyatspecieslevel[29,32,42–44]. However,these
+studiesareratherscatteredincertainspecies/afewclades, insteadofsheddinglightonthewhole
+phylumCiliophora.
+To further test how reliable mtSSU rDNA might be in ecological research and phylogenetic
+analysesinamorecomprehensivewayincomparisonwithnSSUrDNA,wecharacterizedbothgenes
+from 13 ciliates covering five classes. We specifically asked: (1) What are the copy numbers for
+bothgenesamongthesespecies,andisthereanyintraspecificcopynumbervariation? (2)Byusing
+high-fidelityDNApolymerase,isthereanyintraspecificsinglenucleotidepolymorphismofmtSSU
+rDNA?(3)Moredeeply,bycomparingphylogenetictreesforthesetwogenemarkers,couldmtSSU
+rDNAprovidegoodresolutiontociliatephylogeny?
+2. MaterialsandMethods
+2.1. TaxonSamplingandIdentification
+Weanalyzedthreeindividuals(ortwoindividualsofEpistylissp.) foreachofthe13focalciliates
+inthisstudy(i.e.,38individualswereanalyzedintotal). Allcellswerefromlab-maintainedcultures.
+Detailed microscopic observation and protargol staining [45] were done for species identification.
+Systematic classification (Figure 1A) was based on Lynn, 2008 [46] with adjustments according to
+Gaoetal.,2016[31]. Morphologicalimagesofrepresentativesofall13species,aswellascelllength
+and width, are presented in Figure 1A. We captured their ratio of width to thickness either under
+microscope or from previous papers [47–50] and estimated their thickness. Accordingly, the cell
+volumeofeachspecieswascalculated(Figure1A).TheFavellaformismostlycylindricalbowl-likeand
+theEpistylisiselongatebell-shaped. Hence,thevolumeforthemwascalculatedby1/3×π×length×
+width/2×thickness/2. Fortheother11specieswithabodyshapethatmostresemblesacuboid,we
+estimatedtheirvolumewithlength×width×thickness.
+2.2. DNAExtraction,PCRAmplification,andSequencing
+Single-cellgenomicDNAwasextractedwithREDExtract-N-AmpTissuePCRKit(Sigma,St.Louis,
+(cid:48)
+MO,USA)followingWangetal.,2017[27]andWangetal.,2019[28]. PrimersmtF(5 -TGTGCCAGC
+(cid:48) (cid:48) (cid:48)
+AGCCGCGGTAA-3 )andmtR(5 -CCCMTACCRGTACCTTGTGT-3 )wereusedtoamplifythe
+mtSSU rDNA segment of each species [41,42] using Q5 Hot Start High-Fidelity DNA polymerase
+(Cat. #M0493 L, New England Biolabs, Ipswich, MA, USA). Purified PCR products were cloned
+bypClone007BluntSimpleVectorKit(Tsingke,Beijing,China)and10–30clonesforeachofthe38
+individuals(30clonesforeachindividualofthefiverepresentativespeciesineachofthefiveclasses,
+
+Microorganisms2020,8,316 3of15
+Microorganisms 2020, 8, 316 3 of 14
+1c0lacslsoense, s1f0o rcleoancehs infodri veidacuha lionfdtivhiedrueaslt ooff tthhee srpeescti eosf) wtheer espraencideos)m wlyesreel ercatneddoamnldy seseqlueectnecde danind
+SsheaqnugehnaciedP eirns oSnhaalnBgihoatie cPhenrsoolongaly BCiootmecphannoylo(Qgyin Cgodmaop,aCnhyi n(Qa)i.ngdao, China).
+FFiigguurree1 1.. OOvveerrvviieeww ooff ddaattaa ccoolllelecctetedd. .(A(A) P)rPerdeidciactaetde dphpyhlyolgoegneyn oyf otafxtaax saamsapmlepdl,e wd,itwh ipthhopthoos taonsda cnedll
+cseilzles iinzfeoirnmfoartimona;t itoonp;otloopgyo lboagsyedb aosne dGaoon eGt aalo., e2t01a6l. ,[3210]1. 6(B[)3 1E]s.ti(mB a)tEedst rimDNatAed corDpyN nAumcobpeyr fnourm albl e1r3
+forall13species. Darkgreenandlightgreenbarsrepresentmitochondrialsmallsubunitribosomal
+species. Dark green and light green bars represent mitochondrial small subunit ribosomal DNA
+DNA(mtSSUrDNA)copynumberandnuclearsmallsubunitribosomalDNA(nSSUrDNA)copy
+(mtSSU rDNA) copy number and nuclear small subunit ribosomal DNA (nSSU rDNA) copy number,
+number,respectively.
+respectively.
+2.3. EstimationofmtSSUrDNACopyNumber(DigitalPCR)andnSSUrDNACopyNumber
+(2Q.3u.a EntsittiamtiavteioPnC oRf m) tSSU rDNA Copy Number (Digital PCR) and nSSU rDNA Copy Number (Quantitative
+PCR)
+SpecificprimersformtSSUrDNA(listedinTableS1)weredesignedandtheirapplicabilitywere
+testedSupseicnifgicS apnrgimeresres qfuoern mcintSgS.UD irgDitNalAP C(lRistwedas ipne Trfaobrlme eSd1w) witherNe adiceasTigMnseadp apnhdir ethcreyirs taaplpsylisctaebmiliitny
+Bweiejrine gteAspteedx buiosiBnigo tSeacnhgneorl osgeyquCeonmcipnagn.y D(Bigeiitjainl gP,CCRh inwaa).s Rpeearcftoiromnemdi xwwitahs NloaaidceadTMo nsatoppthheirsea pcpryhsitrael
+cshyisptseman idn dBreoijpinlegt sAwpeerxebicor eBaitoetdecfhronmoloegayc hCsoammppalneyw (hBeenijipngla, cCedhiinnat)o. RaeNacatiicoang meoixd ew.aSsu lbosaedqeude notnltyo,
+PthCeR saamppphliifirec acthioipnsw aansdp derrofoprlmetse dw.eDrea tcarewaeterde rferaodmu esainchg NsaamicpaleP rwishmen3 apnladceadn ailnytzoe da NwaitihcaC gryeostdael.
+MSuinbesreqsoufetwntalyre, .PTChRe admatpaloifficnaStSioUnr wDaNsA pecorfpoyrmnuemd.b Deratoaf wseevreer arleatadx aushianvge Nbeaeicnap Purbislimsh3e adnidn panreavlyiozuesd
+with Crystal Miner software. The data of nSSU rDNA copy number of several taxa have been
+published in previous study [28]. Other data were performed with quantitative PCR using the same
+
+Microorganisms2020,8,316 4of15
+(cid:48)
+study[28]. OtherdatawereperformedwithquantitativePCRusingthesameprimers1474F(5 -GTT
+(cid:48) (cid:48) (cid:48)
+GGTGGAGTGATTTGTCTGG-3 )and1633R(5 -AGACCTGTTATTGCCTTAAACTTCC-3 ).
+2.4. mtSSUrDNAPolymorphismofCiliates
+AssembledmtSSUrDNAsequences(Seqmanv.7.1.0,DNAStar)[51]ofeachspecieswerealigned
+withBioEditv.7.0.1[52]. Primerswereexcludedandeachpolymorphicsitewascheckedbyeye.
+2.5. PhylogeneticAnalyses
+ThemostabundantmtSSUrDNAsequenceofeachofthe13specieswasalignedtogetherwith
+other80sequencesdownloadedfromNationalCenterforBiotechnologyInformation(NCBI)database
+withMAFFTv.7[53],amultiplealignmentprogramforaminoacidornucleotidesequences,using
+data from Dunthorn et al., 2014 [32] and Wang et al., 2017 [29] as structural alignment examples.
+ThephylogeneticanalysisbasedonnSSUrDNAincluded95sequencesintotal,whichwerealigned
+with default parameters on the GUIDANCE2 Server [54]. Both alignments were visually checked
+andmodifiedwithBioEditv.7.0.1[52], yieldingafinalalignmentof977charactersformtSSUand
+1722sitesfornSSU.WealsoalignedallhaplotypesofmtSSUrDNAsequencesfor13specieswith
+theother80species. Thealignmentwasmanuallymodifiedandtwodifferentfinalalignmentswere
+yielded,996siteswithambiguoussitesremovaland3407siteswithoutremovinganyambiguoussites.
+Themaximum-likelihood(ML)analysisforeachalignmentwasperformedusingRAxML-HPC2on
+XSEDEv.8.2.10[55]withthemodelofGTR+I+GinCIPRESScienceGateway[56]. Bootstrapwith
+1000replicateswasusedtoassessthebestscoringMLtree. TheBayesianinference(BI)analysiswas
+constructedusingMrBayesonXSEDEv. 3.2.6[57]inCIPRESScienceGatewaywithGTR+I+Gmodel
+(selectedbyMrModeltestv.2.0)[58]. FourchainsofMarkovchainMonteCarlo(MCMC)simulations
+wererunfor60,000,000generationswithafrequencyof100generations, and25%werediscarded
+asburn-in.
+3. Results
+3.1. mtSSUandnSSUrDNACopyNumberinCiliates
+The mtSSU rDNA copy number of the 13 species calculated through digital PCR revealed
+substantialinterspeciesdifferencesamongthefivefocalclasses,Oligohymenophorea,Spirotrichea,
+Heterotrichea, Phyllopharyngea, and Prostomatea (Figure 1B, Table 1 and Table S2). The highest
+estimate,8.1×105 ±4.7×104,wasfoundintheclassOligohymenophorea(Epistylissp.),whilethe
+lowestfellwithintheclassProstomatea(Colepssp.;1.0×104 ±9.5×102). Thefourmembersfrom
+Oligohymenophorea had about an 80-fold range of mtSSU rDNA copy number (1.0 × 104 ± 9.6 ×
+103 to8.1×105 ±4.7×104), whileintheclassSpirotrichea, thecopynumbervariationamongthe
+sixspecieswasonlyabout5-fold(2.9×104 ±9.3×103 to1.5×105 ±9.7×104). Wealsoestimated
+mtSSUrDNAcopynumberfromSpirostomumsp. (Class: Heterotrichea)andTrithigmostomasp. (Class:
+Phyllopharyngea),andtheyshowedsimilarmediumcopynumbers(1.4×105±1.9×104and1.0×
+105±2.2×104,respectively).
+
+Microorganisms2020,8,316 5of15
+Table1. mtSSUandnSSUrDNAcopynumbersofthe13species.
+Systematic mtSSUrDNA nSSUrDNA
+Species
+Classification CopyNumber CopyNumber
+Epistylissp. Oligohymenophorea 8.1×105±4.7×104 3.3×105±1.6×105
+Parameciumcaudatum Oligohymenophorea 1.5×105±4.9×104 1.7×105±1.3×105
+Parameciumsp. Oligohymenophorea 1.1×105±2.4×104 4.3×105±2.1×105
+Tetrahymenathermophila Oligohymenophorea 1.1×104±9.6×103 1.5×104±7.1×103
+Favellaehrenbergii Spirotrichea 1.5×105±9.7×104 4.9×105±2.7×105
+Sterkiellasp. Spirotrichea 8.4×104±3.0×104 1.1×106±3.5×105
+Phacodiniummetchnikoffi Spirotrichea 7.1×104±3.4×104 6.0×105±4.7×105
+Neobakuellaaenigmatica Spirotrichea 4.7×104±1.3×104 1.9×105±1.2×103
+Euplotesvannus Spirotrichea 3.1×104±3.8×103 1.0×105±7.2×104
+Oxytrichatrifallax Spirotrichea 2.9×104±9.3×103 1.1×105±5.7×104
+Spirostomumsp. Heterotrichea 1.4×105±1.9×104 2.1×105±1.3×105
+Trithigmostomasp. Phyllopharyngea 1.0×105±2.2×104 1.7×104±8.3×103
+Colepssp. Prostomatea 1.0×104±9.5×102 5.8×103±2.1×103
+Intra-specificcopynumbervariationwasalsodetectedinseveralspecies. Forthemajority(10/13
+species),estimatesamongdifferentindividualsdifferednomorethan3-fold(TableS2). Tetrahymena
+thermophilashowedthehighestintraspecificcopynumbervariation,differingover13-fold,followedby
+Favellaehrenbergii(~5-fold)andPhacodiniummetchnikoffi(~4-fold;TableS2).
+Inaddition,weinvestigatedtherelationshipbetweenmtSSUrDNAcopynumberandcellvolume.
+Wecollectedcelllength,width(Figure1A),andthickness(eitherfromobservationthroughmicroscope
+orpublishedpapers)andestimatedthecellvolumebyfittingthecellshapeintotheclosestregular
+shape(seeMaterialsandMethods). Pearson’scorrelationanalysisrevealedthatthecopynumberof
+mtSSUrDNAdidnotcorrelatewithcellvolume(r=0.539,p>0.05).
+WealsoassessednSSUrDNAcopynumbersofsixspecies,asthoseoftheothersevenhadalready
+beenpublishedinWangetal.,2019[28]. Sterkiellasp. hadthehighestnSSUrDNAcopynumber(1.1×
+106±3.5×105)whilethelowestonewasdetectedinColepssp. (5.8×103±2.1×103),whichshoweda
+muchbroaderrangethanthatofmtSSUrDNA(Table1). Surprisingly,threeofthe13focalspecieshad
+lowernSSUrDNAcopynumberthanthoseofmtSSU:Trithigmostomasp.,Epistylissp.,andColepssp.
+ThehighestdifferencebetweenthetworecordswasfoundinSterkiellasp.: nSSUrDNAcopynumber
+was13-foldhigherthanthatformtSSUrDNA.Pearson’scorrelationanalysisrevealedthattherewasno
+significantcorrelationbetweenthecopynumberofmtSSUrDNAandnSSUrDNA(r=0.126,p>0.05).
+3.2. mtSSUrDNAPolymorphismofCiliates
+We cloned and sequenced the mtSSU rDNA amplicon of 13 ciliates to assess intraspecific
+polymorphisms. It is worth noticing that, using the same set of primers, varied length among
+differentspecieswasdetected(Table2),withthelongest(1608bp)presentinFavellaehrenbergiiand
+theshortest(959bp)inColepssp. LevelsofmtSSUrDNApolymorphismsamongthree(ortwofor
+Epistylis)individualswithinthe13speciesalsovariedgreatly. Wesequencedatleast10clonesfor
+eachindividual,andthenselectedonespeciesfromeachclasstoadd20clonesforeachindividual
+(Table2). Forfivespecies(Neobakuellaaenigmatica,Euplotesvannus,Phacodiniummetchnikoffi,Paramecium
+sp.,andTetrahymenathermophila),sequencesfromallclonesandindividualswereidentical,eventhe
+totalnumberofclonesaddedupto90fortwoofthem(NeobakuellaaenigmaticaandParameciumsp.,
+Table2). Thisshowsthelowrateofexperimentalerrorintroducedinouranalyses.
+
+Microorganisms2020,8,316 6of15
+Table2. ThemtSSUrDNApolymorphismofciliates. Bolddatashowselectedspecieswithclone
+numbersaddedto90.
+#ofTotal Number
+Species PolymorphismStyle Polymorphism of Length
+Sites Clones
+Epistylissp. Transition 1 20 1204
+Parameciumcaudatum Transition,deletion,insertion 6 30 990
+Parameciumsp. No 0 90 1016
+Tetrahymenathermophila No 0 30 1037
+Favellaehrenbergii Transition,deletion 2/1 30 1604/1608
+Sterkiellasp. Deletion,insertion 2 30 1213
+Phacodiniummetchnikoffi No 0 30 1047
+Neobakuellaaenigmatica No 0 90 1600
+Euplotesvannus No 0 30 968
+Oxytrichatrifallax Deletion,insertion 6 30 1151
+Spirostomumsp. Deletion,insertion 2 90 977
+Trithigmostomasp. Transversion,transition,deletion,insertion 10 90 1024
+Colepssp. Deletion,insertion 6 90 959
+Fortheothereightspecies,wedetectedvariedlevelsofpolymorphisms(Figure2). Allhaplotypes
+(samesequencesaredefinedasonehaplotype)andcorrespondingclonenumbersforeachspeciesatthe
+polymorphicsitesareshowninFigure2B.AsfornSSUrDNAanalyses[28],amostcommonsequence
+(haplotype 1 in Figure 2B) was also detected among the mtSSU rDNA clones within individuals.
+ThemostcommonhaplotypewassharedamongindividualswithinallspeciesexceptFavellaehrenbergii.
+Forthisspecies,thecommonsequencesofthefirsttwoindividualswerethesame,butvariedalot
+withthatofthethirdindividual,whichmightbeacrypticspecies. Thus,wepresentthemseparately.
+MostpolymorphismswereA/Tindels,occurringinpolyA/Tregions,whichwerefoundinseven
+studiedspecies—Oxytrichatrifallax,Sterkiellasp.,Favellaehrenbergii,Trithigmostomasp.,Paramecium
+caudatum,Colepssp. andSpirostomumsp. Additionally,acytosinedeletionwasfoundinF.ehrenbergii.
+Otherthanindels,wealsodetectedSNPsinfourspecies,F.ehrenbergii,Epistylissp.,P.caudatumand
+Trithigmostomasp.
+3.3. PhylogeneticAnalyses
+TocomparetheperformanceofmtSSUandnSSUrDNAsequencesasmarkergenes,weconstructed
+phylogenetic trees for both. In addition to the newly-characterized sequences from this study,
+wealsocollectedthemtSSUandnSSUrDNAsequencesof79otherciliatesfromNationalCenterfor
+BiotechnologyInformation(NCBI)fortheanalyses. OnlytheMLtopologywithnodessupportfrom
+twomethodsisshownforeachdataset,astheMLandBItreeswereoverallcongruent(Figures3and4).
+The main difference between the topologies of the two genes occurred in deep
+phylogeneticrelationshipofthreeclasses,Phyllopharyngea,Oligohymenophorea,andProstomatea.
+WhilemonophylyofallthreeclasseswerewellsupportedinthenSSUtree,noneofthemgrouped
+as a monophyletic clade in the mtSSU tree. For example, Zosterodasys sp. and Orthodonella sp.
+wereseparatedfromthemainPhyllopharyngeabranches,andclusteredtogetherwithParafurgasonia
+sp. (class: Nassophorea), Paraspathidium apofuscum (class: Plagiopylea), and some members from
+Prostomatea. ThesubclassesScuticociliatiaandHymenostomatia(representativespeciesisTetrahymena)
+ofOligohymenophoreanestedwiththemajorityofPhyllopharyngea. Insteadofgroupingwithother
+members from Prostomatea, Coleps was sister to Colpodea. Meanwhile, the plagiopylean ciliate
+P. apofuscum nested within the other two species from Prostomatea. Different topology was also
+detectedwithintheclassSpirotrichea,e.g.,euplotidslocatedoutsideinmtSSUtreewithhighsupport
+(94%ML,0.92BI)whilePhacodiniumbranchedbeforeotherspirotricheansinthenSSUtree.
+TotestwhetherthepolymorphismsofmtSSUrDNAsequencesinfluencethetopologyforthe
+ciliatetreeoflife,wealignedallhaplotypesofthe13specieswithotherciliatemtSSUrDNAsequences
+fromNCBIandcreatedtwodifferentalignments,oneremovingambiguoussites(FigureS1A)andone
+
+Microorganisms 2020, 8, 316 7 of 14
+4. Discussion
+4.1. mtSSU and nSSU rDNA Copy Number of Ciliates
+Combined with previous studies, the copy number range of nSSU rDNA (3.4 × 103 to 3.5 × 106)
+for ciliates was much broader than that of mtSSU rDNA (1.0 × 104 to 8.1 × 105) [24,27,28]. Specifically,
+in the present work, the copy number of nSSU rDNA was higher than that of mtSSU rDNA in 10 of
+Microorganisms2020,8,316 7of15
+the 13 focal species. Compared with the copy number variation between different species for nSSU
+rDNA, which was ~1,000-fold across all ciliates [28] and ~200-fold in the 13 focal species, the
+w~8it0h-ofoultd( FdigifuferreeSn1cBe)s, aanmdocnogn smtrtuScStUed rpDhNylAog wenaest iscutbresetas.nItniablloyt hlopwheyrl.o gAetn tehtiec asanmalye steism,ael,l thhaep lhoitgyhpeesst
+winittrhaisnptehceifsica mvaersiapteicoine sffoorr mnSeSdUm wonaso pohvyelre t4ic0-gfrooldu pisn wPiatrhamhiegchiusmu pcpauodrtat(u4m6– 1w0h0%ileM 13L-,f0o.l5d0 –w1a.0s0 tBhIe,
+FhiigguhreestS 1o)b.servation for mtSSU (detected in Tetrahymena thermophila; Table S2).
+Figure 2. The mtSSU rDNA polymorphisms among 13 focal species. (A) Bars indicate the most
+Figure 2. The mtSSU rDNA polymorphisms among 13 focal species. (A) Bars indicate the most
+commonsequencesofeachspecies,brightblue,darkblue,green,andpurpledotsrepresentdeletion,
+common sequences of each species, bright blue, dark blue, green, and purple dots represent deletion,
+insertion,transition,andtransversion,respectively,whilethenucleotidesshownindotsrepresent
+insertion, transition, and transversion, respectively, while the nucleotides shown in dots represent
+thepolymorphismcomparedwiththecommonsequence;lengthsofsequencesaredrawntoscale.
+the polymorphism compared with the common sequence; lengths of sequences are drawn to scale.
+(B) Polymorphic sites between different haplotypes. Clones mean the number of clones for the
+(B) Polymorphic sites between different haplotypes. Clones mean the number of clones for the
+correspondinghaplotypefoundintotalclones(20,30,or90);ForF.ehrenbergii,thefirsttwoindividuals
+corresponding haplotype found in total clones (20, 30, or 90); For F. ehrenbergii, the first two
+andthethirdonemightbecrypticspecies(i.e.,theywereindeeddifferentspecies),sowerepresented
+individuals and the third one might be cryptic species (i.e., they were indeed different species), so we
+themrespectively;matchingsitesarerepresentedbydots(.) andmissingsitesaremarkedwithdashes
+represented them respectively; matching sites are represented by dots (.) and missing sites are
+(-);a: Colepssp.;b: Sterkiellasp.;c: Spirostomumsp.;d: Oxytrichatrifallax;e,f: Favellaehrenbergii;g:
+Epistylissp.;h: Parameciumcaudatum;andi: Trithigmostomasp.
+
+Microorganisms 2020, 8, 316 8 of 14
+marked with dashes (-); a: Coleps sp.; b: Sterkiella sp.; c: Spirostomum sp.; d: Oxytricha trifallax; e, f:
+Favella ehrenbergii; g: Epistylis sp.; h: Paramecium caudatum; and i: Trithigmostoma sp.
+The mtSSU rDNA copy number may reflect the number of mitochondria in ciliates, if every
+mitochondrion has roughly the same number of genome copies. Numerous mitochondria exist in
+each aerobic ciliate to provide energy, with each mitochondrion containing several molecules of
+mitochondrial genome [59,60]. To date, the mitochondrial genomes have been sequenced for several
+ciliates (Tetrahymena species, Paramecium species, Euplotes species, Oxytricha trifallax, Uronema
+marinum, and Pseudourostyla cristata) and there is only one copy of mtSSU rRNA gene (called rns
+gene) within each linear mitochondrial chromosome [61–66]. Inconsistent with our initial
+hypothesis that larger cells might need more energy and therefore possess more mitochondria, the
+mtSSU rDNA copy number indeed does not correlate with the cell volume. The interspecific copy
+number variation may be related to their growth rate, or cilia movement when swimming, together
+Mwicitroho rcgeanlli svmosl2u0m20,e8., F31u6rther research is needed to elucidate the reason for mtSSU rDNA copy nu8mobf1e5r
+variation among different species.
+FFiigguurree 3.3T. hTehme axmimaxuimmulimke lilhikoeolidh(oModL )(tMreeLb) atsreede onbamsetdSS Uonr DmNtASSsUeq ureDnNceAa lisgenqmueenntc,eh iaglhiglingmhteinngt,
+thhiegh13ligshpteicnige sthsteu 1d3ie sdp.eNcieusm sbtuedrsiende.a Nrnuomdbeesrrse nperaers ennotdthese rbeoportessternapt tvhael ubeosootsftrMapL vaanldueths eopf oMstLe rainodr
+pthroeb paboisltietyriovra lpureosboafbiBliatyye sviaalnueasn aolfy sBisay(eBsIi)a.nD oatnsa(ly.)sism e(BaIn). fuDlloytss u(.p) pmoretaend fnuoldlye s(1u0p0p/1o.r0t0e)d wnhoidlee
+asterisks(*)indicatethedisagreementbetweenMLandBItopologies. Thescalebarcorrespondsto
+(100/1.00) while asterisks (*) indicate the disagreement between ML and BI topologies. The scale bar
+twosubstitutionsper100nucleotidepositions. Allbranchesaredrawntoscale.
+corresponds to two substitutions per 100 nucleotide positions. All branches are drawn to scale.
+The mtSSU copy number among individuals within species also varies. Possible explanations include that
+they are undergoing different life stages, having different growth rates or under different nutritional
+conditions. Unlike mammalian and yeast cells, in which the number of mitochondria is regulated by organelle
+fusion and fission [67], the mitochondria in ciliates (e.g., Tetrahymena, Paramecium) do not undergo fusion
+
+Microorganisms 2020, 8, 316 9 of 14
+events [68,69]. It is reported that in Tetrahymena the mitochondria are divided/amplified synchronously with
+somatic nuclear DNA syntheses [68,70]. The number of mitochondria, and therefore the mtSSU rDNA copy
+number, might also be impacted by the potential removal of damaged or old mitochondria through autophagic
+degradation [71]. In addition, the discovery of extracellular mitochondria suggests that these organelles are
+much more dynamic than previously thought [72]. When facing cell stress (like clustering of GPI-anchored
+surface antigens or heat shock), ciliates tend to release their mitochondrial DNA out, which has no long-term
+Microorganisms2020,8,316 9of15
+affect/damage to cell viability [60]. This might also account for the intraspecific copy number variation.
+Figure4. Themaximumlikelihood(ML)treebasedonnSSUrDNAsequencealignment,highlighting
+theF1ig3usrpee 4c.i eTshset mudaixeidm.uNmu lmikbeelirhsonoeda (rMnLo)d terseer ebparseesde onnt tnhSeSbUo roDtsNtrAap sevqauluenecseo aflMignLmaenndt,t hhieghploigsthetriniogr
+prothbea b1i3li tsypevcaielus esstuodfieBda. yNesuimanbearns anlyeasris n(oBdIe).s Dreoptrse(s.e)ntm theea nbofoutlslytraspu pvpalouretes dofn ModLe a(n1d0 0th/1e. 0p0o)swterhiiolre
+astperriosbkasb(i*li)tyin dvaicluatees tohfe Bdaiysaegsiraene maneanltybsiest w(BeIe).n DMoLts a(n.)d mBeIatno pfuollolyg iseusp.pTohretesdc anleodbea r(1c0o0r/r1e.s0p0o) nwdhsilteo
+asterisks (*) indicate the disagreement between ML and BI topologies. The scale bar corresponds to
+twosubstitutionsper100nucleotidepositions. Allbranchesaredrawntoscale.
+two substitutions per 100 nucleotide positions. All branches are drawn to scale.
+4. Discussion
+4.2. mtSSU rDNA Polymorphism of Ciliates
+4.1. mtSSUandnSSUrDNACopyNumberofCiliates
+Five of the 13 focal species had no sequence variation within mtSSU rDNA, indicating both low
+divCeormsitbyi nweidthwini tshppecreievsi oaunsd stthued ileosw, tehrerocro prayten uomf obuerr mraentgheodosf.n TShSiUs rraDtiNo Awa(3s. 4hi× gh1e0r3 tthoa3n. 5th× at1 0o6 f)
+forncSiSliUat ersDwNaAs,m wuchherber ooandlyer othnaen otfh a2t0o fspmetcSieSsU hraDdN nAo( 1p.0ol× ym10o4 rptohi8s.m1s× 1[2085 ]). [2In4 ,2c7o,n2t8r]a.sSt pweciitfihc athlley ,
+intchoenvpernetsieonntawl voirekw,t htheacto npSySnUu mrDbNerAo fisn SmSoUrer DcoNnAserwvaesd,h iwgeh efrotuhnadn stheqauteonfcme tvSaSrUiartiDonN Aforin n1S0SUof
+therD13NfAoc baults pnoect ifeosr. mCtoSmSUp arrDedNAw iitnh ttwhoe scpoepcyiensu omf tbheer svhaarrieadti osenvbenet swpeeecniesd biff eetwreenetns ptheec itewsof osrtundSiSesU:
+rDENuAp,lowtehs ivchanwnuass ~an10d0 0T-eftorladhyamcreonsas tahlelrcmiloipahteilsa.[ 2T8o]gaentdhe~r2, 0t0h-efsoel ddiantat hseu1g3gefostceadl slpoewc iems,utthaetio~n8 0r-afotelds
+diffaenrde/nocre sboatmtloennegckmst SoSf UmriDtoNchAonwdarsiaslu gbesntaonmtieasl lywlitohwine rc.iAliattteh espseacmiees.t iCmoem,tphaerehdig htoe sottihnetrr assppeecciiefisc,
+varTiarittihoingmfoorstnoSmSaU spw. asshoovweerd4 0m-foorlde ihnapPlaortaympeecsiu ams cwauedlla tausm powlyhmileo1rp3-hfioslmdsw, awshtihceh hiingdhiecsatteodb stehravta tthioisn
+forsmpetcSiSeUs m(diegthetc theadvien aT etfarashteyrm menuattahtieormn orpahtiel,a ;laTragbelre Se2ff)e.ctive population size, or be a complex of
+muTlhtieplme utSnSdUeterDcteNdA crcyopptiyc nspuemcibese.r may reflect the number of mitochondria in ciliates, if every
+mi tochondrionhasroughlythesamenumberofgenomecopies. Numerousmitochondriaexistin
+each aerobic ciliate to provide energy, with each mitochondrion containing several molecules of
+mitochondrialgenome[59,60]. Todate,themitochondrialgenomeshavebeensequencedforseveral
+ciliates(Tetrahymenaspecies,Parameciumspecies,Euplotesspecies,Oxytrichatrifallax,Uronemamarinum,
+andPseudourostylacristata)andthereisonlyonecopyofmtSSUrRNAgene(calledrnsgene)within
+eachlinearmitochondrialchromosome[61–66]. Inconsistentwithourinitialhypothesisthatlargercells
+mightneedmoreenergyandthereforepossessmoremitochondria,themtSSUrDNAcopynumber
+
+Microorganisms2020,8,316 10of15
+indeeddoesnotcorrelatewiththecellvolume. Theinterspecificcopynumbervariationmayberelated
+totheirgrowthrate,orciliamovementwhenswimming,togetherwithcellvolume. Furtherresearch
+isneededtoelucidatethereasonformtSSUrDNAcopynumbervariationamongdifferentspecies.
+ThemtSSUcopynumberamongindividualswithinspeciesalsovaries. Possibleexplanations
+includethattheyareundergoingdifferentlifestages,havingdifferentgrowthratesorunderdifferent
+nutritional conditions. Unlike mammalian and yeast cells, in which the number of mitochondria
+is regulated by organelle fusion and fission [67], the mitochondria in ciliates (e.g., Tetrahymena,
+Paramecium)donotundergofusionevents[68,69]. ItisreportedthatinTetrahymenathemitochondria
+are divided/amplified synchronously with somatic nuclear DNA syntheses [68,70]. The number
+of mitochondria, and therefore the mtSSU rDNA copy number, might also be impacted by the
+potentialremovalofdamagedoroldmitochondriathroughautophagicdegradation[71]. Inaddition,
+thediscoveryofextracellularmitochondriasuggeststhattheseorganellesaremuchmoredynamicthan
+previouslythought[72]. Whenfacingcellstress(likeclusteringofGPI-anchoredsurfaceantigensor
+heatshock),ciliatestendtoreleasetheirmitochondrialDNAout,whichhasnolong-termaffect/damage
+tocellviability[60]. Thismightalsoaccountfortheintraspecificcopynumbervariation.
+4.2. mtSSUrDNAPolymorphismofCiliates
+Fiveofthe13focalspecieshadnosequencevariationwithinmtSSUrDNA,indicatingbothlow
+diversitywithinspeciesandthelowerrorrateofourmethods. ThisratiowashigherthanthatofnSSU
+rDNA,whereonlyoneof20specieshadnopolymorphisms[28]. Incontrastwiththeconventional
+viewthatnSSUrDNAismoreconserved,wefoundsequencevariationfornSSUrDNAbutnotfor
+mtSSUrDNAintwospeciesofthesharedsevenspeciesbetweenthetwostudies: Euplotesvannus
+andTetrahymenathermophila. Together,thesedatasuggestedlowmutationratesand/orbottlenecksof
+mitochondrialgenomeswithinciliatespecies. Comparedtootherspecies,Trithigmostomasp. showed
+more haplotypes as well as polymorphisms, which indicated that this species might have a faster
+mutationrate,largereffectivepopulationsize,orbeacomplexofmultipleundetectedcrypticspecies.
+As with nSSU rDNA, a most common version of the mtSSU rDNA sequence was also found
+amongthemultipleclonedsequencesforeachindividualandspecies. However,theexplanationfor
+thisvariationmaybedifferent. Thenuclear-encodedciliatenSSUrDNAarereestablishedinsomatic
+macronucleifollowingconjugation[73,74],sothemostcommonversionofnSSUrDNAmightrepresent
+thegermlinemicronucleartemplate. Thus,variantsofnSSUrDNAmightbesomaticmutationsthat
+accumulateduringsubsequentDNAamplificationandasexualreproduction(i.e., amitosis)ofthe
+somaticmacronucleus[74]. Incontrast,mitochondriaarecytoplasmicallyinheritedandthereisno
+evidenceshowingthattheyareexchangedduringsexualconjugation[75]. Besides,ParsonsandRustad,
+1968[68]providedstrongsupporttothehypothesisthatnewmitochondriainTetrahymenaareformed
+bythegrowthanddivisionofpreexistingmitochondria. Hence,polymorphismswithinmitochondria
+mightreflectaccumulationoferrorduringmitochondrialdivision. Thereisahighpossibilitythat
+sequenceerroraccountsfortheindelsofA/TinpolyA/Tregions,especiallyforthesingletonhaplotype
+(i.e.,whichonlyoccursinoneclone). Theautophagicdegradationofdamagedoroldmitochondria,
+whichaccumulatereplicationerrors,mighthelptoexplainthelowlevelofpolymorphisminmtSSU
+rDNA[71].
+4.3. PhylogeneticAnalyses
+ShallownodeswithinColpodeaandPhyllopharyngeaaresuccessfullyuncoveredusingmtSSU
+rDNAinpreviousandpresentstudies[29,42,76]. What’smore,thisgenealsorevealspotentialcryptic
+speciesinChilodonellauncinata[43]. Giventhis,wesuggestmtSSUrDNAcouldbeanidealmarkerfor
+uncoveringshallowernodes(i.e.,atgenusorspecieslevel).
+However,mtSSUrDNAcouldnotfullyresolvedeepnodes(i.e.,abovegenuslevel)forthephylum
+Ciliophora. Themonophylyforthreeclasses,Phyllopharyngea,Prostomatea,andOligohymenophorea,
+whichwereconfirmedbynSSUrDNAandmulti-gene(nSSUrDNA,nLSUrDNA,ITS1-5.8S-ITS2,
+
+Microorganisms2020,8,316 11of15
+andalpha-tubulingene),arenotrecoveredinmtSSUrDNA-relatedanalyses[29,31,32]. Consistentwith
+previousstudiesusingmtSSUrDNA,ouranalysesshowedsimilarpolyphyletictopologyofthese
+threeclasses,where(1)thesubclassSynhymeniaofPhyllopharyngeagroupswithotherclasses[29];
+(2) instead of clustering with the rest of Prostomatea species, Coleps sp. (class: Prostomatea) is
+sistertoColpodea[29,32],and(3)Oligohymenophoreaispolyphyleticbothinthepresentstudyand
+Dunthornetal,2014[32],whilemonophyleticinWangetal.,2017[29]albeitwithlowsupport(40%ML,
+0.85BI).
+4.4. EcologicalSignificance
+Basedonthecoexistenceofconservedandvariableregions,theextremelyhighcopynumber,aswell
+asitshighamplificationefficiency,nSSUrDNAhasbeenauniversalgenemarkerinenvironmental
+studies. However, both intraindividual copy number and sequence variation for this gene might
+misleadtheinterpretationofhighthroughputsequenceresult.
+ComparedwithnSSUrDNA,mtSSUrDNAhasalowerinterspecific(~1000-foldvs. ~80-fold)
+andintraindividual(~40-foldvs. ~13-fold)copynumbervariation,whichisbettertoelucidatethereal
+abundancelevelinecologicalresearch. Besides,consideringthelowerratioofspecieswithsequence
+variation(8of13speciesstudiedwerefoundwithmtSSUrDNAvariationwhile19of20speciesstudied
+hadnSSUrDNApolymorphisms),itislesslikelytooverestimatetheenvironmentalbiodiversitywith
+mtSSUrDNA.However,mtSSUrDNAhasloweramplificationefficiencythannSSUrDNA,especially
+whenusingthehighest-fidelitypolymerase,whichmighthidesomespeciesandunderestimatethe
+biodiversity. AsthemtSSUofmoreandmorespeciesaresequenced,moreefficientprimerscanbe
+designedinthefuture, whichcansolvethisproblem. Toconclude, wesuggestthatmtSSUrDNA
+mightbeacomplementarygenemarkertoinvestigateciliatediversityindiverseenvironments.
+Supplementary Materials: The following are available onlineat http://www.mdpi.com/2076-2607/8/3/316/s1,
+FigureS1: Themaximumlikelihood(ML)treebasedonmtSSUrDNAsequencealignmentwithallhaplotypes
+forthe13speciesstudied, TableS1: PrimersfordigitalPCR,andTableS2: mtSSUrDNAcopynumbersfor
+eachindividual.
+AuthorContributions: Y.W.performedtheexperimentsandwrotethemanuscript. Y.J.,Y.L.(YongqiangLiu),
+andY.L.(YuanLi)helpedwithdataanalysis. Y.Y.designedtheresearchandreviewedthemanuscript. Y.Y.,F.G.,
+andL.A.K.editedthemanuscript. Allauthorshavereadandagreedtothepublishedversionofthemanuscript.
+Funding: TheworkwasfinanciallysupportedbytheMarineS&TFundofShandongProvinceforPilotNational
+LaboratoryforMarineScienceandTechnology(Qingdao)(No. 2018SDKJ0406-1)andtheNationalNaturalScience
+FoundationofChina(ProjectNo. 31772428,31801984and31672279).
+Acknowledgments: ManythanksareduetoWeiboSong(OUC),forthehelpfulsuggestionsindraftingthis
+manuscript. WealsothankChunyuLian,BorongLu,SongLi,RuiWang,LunWang,YangBai,andTengyue
+Zhang,graduatestudentsinOUC,fortheirhelpinspeciesidentification.
+ConflictsofInterest: Theauthorsdeclarenoconflictofinterest.
+DataAccessibility: AllthesequencingdatahavebeensubmittedtotheGenBankdatabasewiththeAccession
+nos. MN176347-MN176351andMN184612-MN184625.
+References
+1. Grattepanche,J.D.;Walker,L.;Ott,B.;Pinto,D.P.;Delwiche,C.;Lane,C.;Katz,L.Microbialdiversityinthe
+eukaryoticSARclade. BioEssays2018,40,e1700198. [CrossRef][PubMed]
+2. Adl, S.M.; Simpson, A.G.; Farmer, M.A.; Andersen, R.A.; Anderson, O.R.; Barta, J.R.; Bowser, S.S.;
+Brugerolle,G.;Fensome,R.A.;Fredericq,S.Thenewhigherlevelclassificationofeukaryoteswithemphasis
+onthetaxonomyofprotists. J.Eukaryot. Microbiol. 2005,52,399–451. [CrossRef][PubMed]
+3. Keeling,P.J.;Burger,G.;Durnford,D.G.;Lang,B.F.;Lee,R.W.;Pearlman,R.E.;Roger,A.J.;Gray,M.W.Thetree
+ofeukaryotes. TrendsEcol. Evol. 2005,20,670–676. [CrossRef][PubMed]
+4. Parfrey, L.W.; Grant, J.; Tekle, Y.I.; Lasek-Nesselquist, E.; Morrison, H.G.; Sogin, M.L.; Patterson, D.J.;
+Katz,L.A.Broadlysampledmultigeneanalysesyieldawell-resolvedeukaryotictreeoflife. Syst. Biol. 2010,
+59,518–533. [CrossRef]
+
+Microorganisms2020,8,316 12of15
+5. Chen,X.;Jiang,Y.H.;Gao,F.;Zheng,W.;Krock,T.J.;Stover,N.A.;Lu,C.;Katz,L.A.;Song,W.B.Genome
+analysesofthenewmodelprotistEuplotesvannusfocusingongenomerearrangementandresistanceto
+environmentalstressors. Mol. Ecol. Resour. 2019,19,1292–1308. [CrossRef]
+6. Pierce,R.W.;Turner,J.T.Ecologyofplanktonicciliatesinmarinefoodwebs. Rev. Aquat. Sci1992,6,139–181.
+7. Zöllner,E.; Hoppe,H.-G.; Sommer,U.; Jürgens,K.Effectofzooplankton-mediatedtrophiccascadeson
+marinemicrobialfoodwebcomponents(bacteria, nanoflagellates, ciliates). Limnol. Oceanogr. 2009, 54,
+262–275. [CrossRef]
+8. Zhao,X.; Xiong,J.; Mao,F.; Sheng,Y.; Chen,X.; Feng,L.; Dui,W.; Yang,W.; Kapusta,A.; Feschotte,C.
+RNAi-dependentPolycombrepressioncontrolstransposableelementsinTetrahymena. GenesDev. 2019,33,
+348–364. [CrossRef]
+9. Chen,X.;Wang,Y.R.;Sheng,Y.;Warren,A.;Gao,S.GPSit: Anautomatedmethodforevolutionaryanalysis
+ofnonculturableciliatedmicroeukaryotes. Mol. Ecol. Resour. 2018,18,700–713. [CrossRef]
+10. Sheng,Y.; He,M.; Zhao,F.; Shao,C.; Miao,M.Phylogeneticrelationshipanalysesofcomplicatedclass
+Spirotricheabasedontranscriptomesfromthreediversemicrobialeukaryotes: Uroleptopsiscitrina,Euplotes
+vannusandProtocruziatuzeti. Mol. Phylogenet. Evol. 2018,129,338–345. [CrossRef]
+11. Chalker,D.L.;Meyer,E.;Mochizuki,K.Epigeneticsofciliates. ColdSpringHarborPerspect. Biol. 2013,5,
+a017764. [CrossRef][PubMed]
+12. Turley,C.;Newell,R.;Robins,D.Survivalstrategiesoftwosmallmarineciliatesandtheirroleinregulating
+bacterial community structure under experimental conditions. Mar. Ecol. Prog. Ser. 1986, 33, 59–70.
+[CrossRef]
+13. Gao, S.; Xiong, J.; Zhang, C.; Berquist, B.R.; Yang, R.; Zhao, M.; Molascon, A.J.; Kwiatkowski, S.Y.;
+Yuan,D.;Qin,Z.ImpairedreplicationelongationinTetrahymenamutantsdeficientinhistoneH3Lys27
+monomethylation. GenesDev. 2013,27,1662–1679. [CrossRef][PubMed]
+14. Xu,J.;Li,X.;Song,W.B.;Wang,W.;Gao,S.CyclinCyc2pisrequiredformicronuclearbouquetformationin
+Tetrahymenathermophila. Sci. ChinaLifeSci. 2019,62,668–680. [CrossRef][PubMed]
+15. Wang, Y.Y.; Chen, X.; Sheng, Y.; Liu, Y.; Gao, S. N6-adenine DNA methylation is associated with the
+linkerDNAofH2A.Z-containingwell-positionednucleosomesinPolII-transcribedgenesinTetrahymena.
+NucleicAcidsRes. 2017,45,11594–11606. [CrossRef][PubMed]
+16. Cheng,T.;Wang,Y.Y.;Huang,J.B.;Chen,X.;Zhao,X.;Gao,S.;Song,W.B.Ourrecentprogressinepigenetic
+researchusingthemodelciliate,Tetrahymenathermophila. Mar. LifeSci. Tech. 2019,1–11. [CrossRef]
+17. Li,X.;Yu,Y.;Li,C.;Yan,Q.ComparativestudyonthegutmicrobiotasoffoureconomicallyimportantAsian
+carpspecies. Sci. ChinaLifeSci. 2018,61,696–705. [CrossRef]
+18. Zhao,Y.;Yi,Z.;Warren,A.;Song,W.B.Speciesdelimitationforthemoleculartaxonomyandecologyofthe
+widelydistributedmicrobialeukaryotegenusEuplotes(Alveolata,Ciliophora). Proc. R.Soc. B2018,285,
+20172159. [CrossRef]
+19. Singh,B.K.;Bardgett,R.D.;Smith,P.;Reay,D.S.Microorganismsandclimatechange: Terrestrialfeedbacks
+andmitigationoptions. Nat. Rev. Microbiol. 2010,8,779–790. [CrossRef]
+20. Peterson,D.A.;Frank,D.N.;Pace,N.R.;Gordon,J.I.Metagenomicapproachesfordefiningthepathogenesis
+ofinflammatoryboweldiseases. CellHostMicrobe2008,3,417–427. [CrossRef]
+21. Li,X.;Huang,J.A.;Filker,S.;Stoeck,T.;Bi,Y.;Yu,Y.;Song,W.B.Spatio-temporalpatternsofzooplanktonina
+main-stemdamaffectedtributary: AcasestudyintheXiangxiRiveroftheThreeGorgesReservoir,China.
+Sci. ChinaLifeSci. 2019,62,1058–1069. [CrossRef][PubMed]
+22. Amaral-Zettler,L.A.;McCliment,E.A.;Ducklow,H.W.;Huse,S.M.Amethodforstudyingprotistandiversity
+usingmassivelyparallelsequencingofV9hypervariableregionsofsmall-subunitribosomalRNAgenes.
+PLoSONE2009,4,e6372. [CrossRef]
+23. Caron,D.A.;Countway,P.D.;Savai,P.;Gast,R.J.;Schnetzer,A.;Moorthi,S.D.;Dennett,M.R.;Moran,D.M.;
+Jones,A.C.DefiningDNA-basedoperationaltaxonomicunitsformicrobial-eukaryoteecology. Appl. Environ.
+Microbiol. 2009,75,5797–5808. [CrossRef][PubMed]
+24. Gong,J.;Dong,J.;Liu,X.;Massana,R.ExtremelyhighcopynumbersandpolymorphismsoftherDNA
+operonestimatedfromsinglecellanalysisofoligotrichandperitrichciliates. Protist2013,164,369–379.
+[CrossRef]
+25. Alverson,A.J.;Kolnick,L.Intragenomicnucleotidepolymorphismamongsmallsubunit(18s)rDNAparalogs
+inthediatomgenusSkeletonema(bacillariophyta)1. J.Phycol. 2005,41,1248–1257. [CrossRef]
+
+Microorganisms2020,8,316 13of15
+26. Ganley,A.R.D.;Kobayashi,T.HighlyefficientconcertedevolutionintheribosomalDNArepeats: Total
+rDNArepeatvariationrevealedbywhole-genomeshotgunsequencedata. GenomeRes. 2007,17,184–191.
+[CrossRef]
+27. Wang,C.;Zhang,T.T.;Wang,Y.R.;Katz,L.A.;Gao,F.;Song,W.B.DisentanglingsourcesofvariationinSSU
+rDNAsequencesfromsinglecellanalysesofciliates: Impactofcopynumbervariationandexperimental
+error. Proc. R.Soc. B2017,284,20170425. [CrossRef]
+28. Wang,Y.R.;Wang,C.;Jiang,Y.H.;Katz,L.A.;Gao,F.;Yan,Y.FurtheranalysesofvariationofribosomeDNA
+copynumberandpolymorphisminciliatesprovideinsightsrelevanttostudiesofbothmolecularecology
+andphylogeny. Sci. ChinaLifeSci. 2019,62,203–214. [CrossRef]
+29. Wang,P.;Wang,Y.R.;Wang,C.;Zhang,T.T.;Al-Farraj,S.A.;Gao,F.Furtherconsiderationonthephylogeny
+oftheCiliophora: Analysesusingbothmitochondrialandnucleardatawithfocusontheextremelyconfused
+classPhyllopharyngea. Mol. Phylogenet. Evol. 2017,112,96–106. [CrossRef]
+30. Gao,F.;Li,J.;Song,W.;Xu,D.;Warren,A.;Yi,Z.;Gao,S.Multi-gene-basedphylogeneticanalysisofoligotrich
+ciliateswithemphasisontwodominantgroups: Cyrtostrombidiidsandstrombidiids(Protozoa,Ciliophora).
+Mol. Phylogenet. Evol. 2016,105,241–250. [CrossRef]
+31. Gao,F.;Alan,W.;Zhang,Q.;Gong,J.;Miao,M.;Sun,P.;Xu,D.;Huang,J.;Yi,Z.;Song,W.B.Theall-data-based
+evolutionaryhypothesisofciliatedprotistswitharevisedclassificationofthephylumCiliophora(Eukaryota,
+Alveolata). Sci. Rep. 2016,6,24874. [CrossRef]
+32. Dunthorn,M.;Hall,M.;Foissner,W.;Stoeck,T.;Katz,L.A.Broadtaxonsamplingofciliatesusingmitochondrial
+smallsubunitribosomalDNA.ActaProtozool. 2014,53,207–213.
+33. Huang,J.B.;Zhang,T.T.;Zhang,Q.;Li,Y.;Warren,A.;Pan,H.;Yan,Y.Furtherinsightsintothehighlyderived
+haptorids(Ciliophora,Litostomatea): Phylogenybasedonmultigenedata. Zool. Scr. 2018,47,231–242.
+[CrossRef]
+34. Zhao,Y.;Yi,Z.;Gentekaki,E.;Zhan,A.;Al-Farraj,S.A.;Song,W.B.Utilityofcombiningmorphological
+characters,nuclearandmitochondrialgenes: Anattempttoresolvetheconflictsofspeciesidentificationfor
+ciliatedprotists. Mol. Phylogenet. Evol. 2016,94,718. [CrossRef]
+35. Gentekaki,E.;Kolisko,M.;Boscaro,V.;Bright,K.J.;Dini,F.;DiGiuseppe,G.;Gong,Y.;Miceli,C.;Modeo,L.;
+Molestina,R.E.;etal. Large-scalephylogenomicanalysisrevealsthephylogeneticpositionoftheproblematic
+taxonProtocruziaandunravelsthedeepphylogeneticaffinitiesoftheciliatelineages. Mol. Phylogenet. Evol.
+2014,78,36–42. [CrossRef][PubMed]
+36. Strüder-Kypke,M.C.;Lynn,D.H.Comparativeanalysisofthemitochondrialcytochromecoxidasesubunit
+I(COI)geneinciliates(Alveolata,Ciliophora)andevaluationofitssuitabilityasabiodiversitymarker.
+Syst.Biodivers. 2010,8,131–148. [CrossRef]
+37. Zhao,Y.;Gentekaki,E.;Yi,Z.;Lin,X.Geneticdifferentiationofthemitochondrialcytochromeoxidasec
+subunitIgeneingenusParamecium(Protista,Ciliophora). PLoSONE2013,8,e77044. [CrossRef]
+38. Katz,L.A.;Kovner,A.M.Alternativeprocessingofscrambledgenesgeneratesproteindiversityintheciliate
+Chilodonellauncinata. J.Exp. Zool. PartB2010,314,480–488. [CrossRef]
+39. Gao,F.;Roy,S.W.;Katz,L.A.Analysesofalternativelyprocessedgenesinciliatesprovideinsightsintothe
+originsofscrambledgenomesandmayprovideamechanismforspeciation. mBio2015,6,e01998. [CrossRef]
+40. Zhang,T.T.;Wang,C.;Katz,L.A.;Gao,F.Aparadox: Rapidevolutionratesofgermline-limitedsequences
+areassociatedwithconservedpatternsofrearrangementsincrypticspeciesofChilodonellauncinata(Protista,
+Ciliophora). Sci. ChinaLifeSci. 2018,61,1071–1078. [CrossRef]
+41. van Hoek, A.H.; Akhmanova, A.S.; Huynen, M.A.; Hackstein, J.H. A mitochondrial ancestry of the
+hydrogenosomesofNyctotherusovalis. Mol. Biol. Evol. 2000,17,202–206. [CrossRef][PubMed]
+42. Dunthorn,M.;Foissner,W.;Katz,L.A.Expandingcharactersamplingforciliatephylogeneticinferenceusing
+mitochondrialSSU-rDNAasamolecularmarker. Protist2011,162,85–99. [CrossRef][PubMed]
+43. Katz,L.A.;DeBerardinis,J.;Hall,M.S.;Kovner,A.M.;Dunthorn,M.;Muse,S.V.Heterogeneousratesof
+molecularevolutionamongcrypticspeciesoftheciliatemorphospeciesChilodonellauncinata. J.Mol. Evol.
+2011,73,266–272. [CrossRef][PubMed]
+44. Zhang,T.T.;Fan,X.;Gao,F.;Al-Farraj,S.A.;El-Serehy,H.A.;Song,W.B.Furtheranalysesonthephylogeny
+of the subclass Scuticociliatia (Protozoa, Ciliophora) based on both nuclear and mitochondrial data.
+Mol.Phylogenet. Evol. 2019,139,106565. [CrossRef]
+45. Wilbert,N.EineverbesserteTechnikderProtargolimprägnationfürCiliaten. Mikrokosmos1975,64,171–179.
+
+Microorganisms2020,8,316 14of15
+46. Lynn,D.H.TheCiliatedProtozoa: Characterization,ClassificationandGuidetotheLiterature,3rded.;Springer:
+Dordrecht,TheNetherlands,2008.
+47. Fokin,S.I.; Przybos´,E.; Chivilev,S.M.; Beier,C.L.; Horn,M.; Skotarczak,B.; Wodecka,B.; Fujishima,M.
+Morphological and molecular investigations of Paramecium schewiakoffi sp. nov. (Ciliophora,
+Oligohymenophorea)andcurrentstatusofdistributionandtaxonomyofParameciumspp. Eur. J.Protistol.
+2004,40,225–243. [CrossRef]
+48. Li,L.;Khan,S.N.;Ji,D.;Shin,M.K.;Berger,H.Morphologyandsmallsubunit(SSU)rRNAgenesequenceof
+thenewbrackishwaterciliateNeobakuellaflavan.g.,n. sp. (Ciliophora,Spirotricha,Bakuellidae)andSSU
+rRNAgenesequencesofsixadditionalhypotrichsfromKorea. J.Eukaryot. Microbiol. 2011,58,339–351.
+[CrossRef]
+49. Shao,C.;Lv,Z.;Pan,Y.;Al-Rasheid,K.A.;Yi,Z.Morphologyandphylogeneticanalysisoftwooxytrichid
+soilciliatesfromChina,Oxytrichaparagranuliferan. sp. andOxytrichagranuliferaFoissnerandAdam,1983
+(Protista,Ciliophora,Hypotrichia). Int. J.Syst. Evol. Microbiol. 2014,64,3016–3027. [CrossRef]
+50. Kumar,S.;Kamra,K.;Bharti,D.;LaTerza,A.;Sehgal,N.;Warren,A.;Sapra,G.R.Morphology,morphogenesis,
+andmolecularphylogenyofSterkiellatetracirratan. sp. (Ciliophora,Oxytrichidae),fromtheSilentValley
+NationalPark,India. Eur. J.Protistol. 2015,51,86–97. [CrossRef]
+51. Anson,E.L.;Myers,E.W.ReAligner: AprogramforrefiningDNAsequencemulti-alignments. J.Comput.
+Biol. 1997,4,369–383. [CrossRef]
+52. Hall,T.A.BioEdit: Auser-friendlybiologicalsequencealignmenteditorandanalysisprogramforWindows
+95/98/NT.NucleicAcidsSymp. Ser. 1999,41,95–98.
+53. Katoh,K.;Rozewicki,J.;Yamada,K.D.MAFFTonlineservice: Multiplesequencealignment,interactive
+sequencechoiceandvisualization. BriefingsinBioinf. 2017,20,1160–1166. [CrossRef][PubMed]
+54. Sela,I.; Ashkenazy,H.; Katoh,K.; Pupko,T.GUIDANCE2: Accuratedetectionofunreliablealignment
+regionsaccountingfortheuncertaintyofmultipleparameters. NucleicAcidsRes. 2015,43,7–14. [CrossRef]
+55. Stamatakis,A.RAxMLversion8: Atoolforphylogeneticanalysisandpost-analysisoflargephylogenies.
+Bioinformatics2014,30,1312–1313. [CrossRef][PubMed]
+56. Miller,M.A.;Pfeiffer,W.;Schwartz,T.CreatingtheCIPRESScienceGatewayforinferenceoflargephylogenetic
+trees. InProceedingsofthe2010GatewayComputingEnvironmentsWorkshop(GCE),NewOrleans,LA,
+USA,14November2010;pp.1–8.
+57. Ronquist, F.; Teslenko, M.; Van Der Mark, P.; Ayres, D.L.; Darling, A.; Höhna, S.; Larget, B.; Liu, L.;
+Suchard,M.A.;Huelsenbeck,J.P.MrBayes3.2: EfficientBayesianphylogeneticinferenceandmodelchoice
+acrossalargemodelspace. Syst. Biol. 2012,61,539–542. [CrossRef][PubMed]
+58. Nylander,J.MrModeltest,aProgramtoEvaluatetheFitofSeveralModelsofEvolutiontoaGivenData
+and Unrooted Tree (Version 2.2). Program Distributed by the Author. Evolutionary Biology Centre,
+UppsalaUniversity: Uppsala,Sweden,2004. Availableonline: http://www.abc.se/~{}nylander(accessedon
+12January2020).
+59. Suyama,Y.;Miura,K.SizeandstructuralvariationsofmitochondrialDNA.Proc. Natl. Acad. Sci. USA1968,
+60,235–242. [CrossRef]
+60. Bisharyan,Y.;Clark,T.G.Calcium-dependentmitochondrialextrusioninciliatedprotozoa. Mitochondrion
+2011,11,909–918. [CrossRef]
+61. Burger, G.; Zhu, Y.; Littlejohn, T.G.; Greenwood, S.J.; Schnare, M.N.; Lang, B.F.; Gray, M.W. Complete
+sequenceofthemitochondrialgenomeofTetrahymenapyriformisandcomparisonwithParameciumaurelia
+mitochondrialDNA.J.Mol. Biol. 2000,297,365–380. [CrossRef]
+62. Barth,D.;Berendonk,T.U.ThemitochondrialgenomesequenceoftheciliateParameciumcaudatumrevealsa
+shiftinnucleotidecompositionandcodonusagewithinthegenusParamecium. BMCGenomics2011,12,272.
+[CrossRef]
+63. deGraaf,R.M.; vanAlen,T.A.; Dutilh,B.E.; Kuiper,J.W.; vanZoggel,H.J.; Huynh,M.B.; Görtz,H.-D.;
+Huynen,M.A.;Hackstein,J.H.ThemitochondrialgenomesoftheciliatesEuplotesminutaandEuplotescrassus.
+BMCGenomics2009,10,514. [CrossRef][PubMed]
+64. Swart,E.C.;Nowacki,M.;Shum,J.;Stiles,H.;Higgins,B.P.;Doak,T.G.;Schotanus,K.;Magrini,V.J.;Minx,P.;
+Mardis, E.R.; et al. The Oxytricha trifallax mitochondrial genome. Genome Biol. Evol. 2011, 4, 136–154.
+[CrossRef]
+
+Microorganisms2020,8,316 15of15
+65. Park,K.-M.;Min,G.-S.;Kim,S.ThemitochondrialgenomeoftheciliatePseudourostylacristata(Ciliophora,
+Urostylida). MitochondrialDNAPartB2019,4,66–67. [CrossRef]
+66. Li,R.;Gao,Y.;Hou,Y.;Ye,S.;Wang,L.;Sun,J.;Li,Q.Mitochondrialgenomesequencingandanalysisof
+scuticociliates(Uronemamarinum)isolatedfromTakifugurubripes. MitochondrialDNAPartB2018,3,736–737.
+[CrossRef]
+67. Hales,K.G.Themachineryofmitochondrialfusion,division,anddistribution,andemergingconnectionsto
+apoptosis. Mitochondrion2004,4,285–308. [CrossRef]
+68. Parsons,J.A.;Rustad,R.C.ThedistributionofDNAamongdividingmitochondriaofTetrahymenapyriformis.
+J.CellBiol. 1968,37,683–693. [CrossRef][PubMed]
+69. Perasso,R.;Beisson,J.Temporalpatternofmitochondrialmultiplicationduringcell-cycleofParamecium.
+Biol. Cell. 1978,32,275–290.
+70. Kolb-Bachofen,V.;Vogell,W.MitochondrialproliferationinsynchronizedcellsofTetrahymenapyriformis:
+Amorphometricstudybyelectronmicroscopyonthebiogenesisofmitochondriaduringthecellcycle.
+Exp.CellRes. 1975,94,95–105. [CrossRef]
+71. Włoga,D.;Strzyz˙ewska-Jówko,I.;Gaertig,J.;Jerka-Dziadosz,M.SeptinsstabilizemitochondriainTetrahymena
+thermophila. Eukaryot. Cell2008,7,1373–1386. [CrossRef]
+72. Yousefi, S.; Gold, J.A.; Andina, N.; Lee, J.J.; Kelly, A.M.; Kozlowski, E.; Schmid, I.; Straumann, A.;
+Reichenbach, J.; Gleich, G.J. Catapult-like release of mitochondrial DNA by eosinophils contributes to
+antibacterialdefense. Nat. Med. 2008,14,949–953. [CrossRef]
+73. Blackburn,E.H.;Karrer,K.M.Genomicreorganizationinciliatedprotozoans. Annu. Rev. Genet. 1986,20,
+501–521. [CrossRef][PubMed]
+74. Prescott,D.M.TheDNAofciliatedprotozoa. Microbiol. Rev. 1994,58,233–267. [CrossRef][PubMed]
+75. Cole,E.S.TheTetrahymenaconjugationjunction. InCell-CellChannels;Springer: NewYork,NY,USA,2006;
+pp.39–62.
+76. Dunthorn,M.; Katz,L.A.; Stoeck,T.; Foissner,W.Congruenceandindifferencebetweentwomolecular
+markersforunderstandingoralevolutionintheMarynidaesensulato(Ciliophora,Colpodea). Eur. J.Protistol.
+2012,48,297–304. [CrossRef][PubMed]
+©2020bytheauthors. LicenseeMDPI,Basel,Switzerland. Thisarticleisanopenaccess
+articledistributedunderthetermsandconditionsoftheCreativeCommonsAttribution
+(CCBY)license(http://creativecommons.org/licenses/by/4.0/).
+

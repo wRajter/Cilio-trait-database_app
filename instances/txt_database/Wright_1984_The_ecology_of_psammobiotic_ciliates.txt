@@ -1,0 +1,879 @@
+THE ECOLOGY OF PSAMMOBIOTIC Cl LIATES
+OF SOUTH WALES
+by
+J.M. Wright
+Department of Zoology, University College of Swansea, Singleton Park, Swansea, SA2 8PP (1).
+Résumé
+Le nombre et la distribution des ciliés psammobiotiques des rivages sablon­
+neux du Sud du Pays de Galles sont étudiés ici. La variation en nombre et en
+espèces montre des différences considérables entre les deux rives de la Baie
+de Swansea. Les populations de ces rivages manifestent un accroissement lié à la
+température alors que les ciliés se trouvant à Nicholaston semblent être indépen­
+dants de la température. Cette différence dans la dynamique des populations
+est attribuée aux différences d’exposition à l’action des vagues.
+Introduction
+The psammobiotic cillâtes of British shores have been studied by
+El Maghraby and Perkins (1956), Lackey and Lackey (1963) and
+Hartwig and Parker (1977). Numerically, the cillâtes are found to
+be the most abundant animal phylum in the marine sandy environ­
+ment and Fenchel (1969) considered them to be, on occasions, the
+most important in terms of relative metabolic activity. This paper
+presents a study of the ecology of psammobiotic cillâtes : in particular,
+their variation in numbers during a twelve month period.
+Methods
+The study was carried out on two sandy shores of the South
+coast of the Gower Peninsula, South Wales (Figs. 1, 2) over a period
+of twelve months. Quantitative samples were obtained at one station
+on each shore. The Swansea Bay sampling site is located at a position
+between Mean High Water Neaps and Mid Tide Level (M.T.L.) where
+the water table is constantly at the surface. At Nicholaston, the
+sampling site is located at M.T.L. ; here, the water table is at the
+surface only immediately ahead of a rising or falling tide. Sand
+samples were obtained using four ’Perspex’ (Polymethacrylate) co-
+rers of 30cm length and external diameter 40mm, internal diameter
+36mm (supplied by G.H. Bloore Ltd.). At one end, the internal edge
+was bevelled to make entry into the sediment easier and reduce
+disturbance. Negative pressure, applied by sucking with the mouth
+(1) Present Adress: Biological Sciences, Post Graduate School, Rivers State
+University of Science & Technology, P.M.B. 5080, Port Harcourt, Nigèria.
+Cahiers de Biologie Marine
+Tome XXV - 1984 - pp. 217-239.
+
+218 J.M. WRIGHT
+at the upper end as the corers
+were gently pushed by hand into
+the sediment, further reduced
+disturbance. The top of the
+corer was sealed with a rubber
+bung after it had been inserted
+to a depth of 20cm. The tube
+was then ’broken’ from the sedi­
+ment by pushing it to an angle
+of approximately 50° to the ver­
+tical, it was then lifted out and
+WALES
+sealed with a second bung at the
+lower end. As the tube is trans-
+parant, any failure to sample
+properly could be seen and the
+process repeated if necessary.
+Four cores were taken at each BRISTOL CHANNEI
+station, arranged at the corners
+of a 25cm square.
+Cores were returned to the
+laboratory where the contents
+were allowed to slide out under
+gravity, in order to disturb the
+core as little as possible. The
+bottom 6cm of sediment was dis­
+carded and the remaining 14cm
+length split into seven sections
+at 2cm intervals. From each of
+these sections, a 2g sample of Fig. 1
+South-West Britain, showing the location
+sediment was removed and sub-
+of the Gower peninsula.
+BAY
+OXWICH PT.
+BRISTOL CHANNEL
+Fig. 2
+The Gower peninsula (♦) sampling site.
+
+PSAMM OBI O TIC CI LIATES 219
+sequently analysed for organic carbon content, using the method
+of Gaudette et al. (1974). The remaining sediment was subjected
+to Uhlig’s sea-water ice technique for the extractions of ciliates
+(Uhlig, 1968). Identifications were made from living and stained
+specimens. Other parameters measured include por volume
+(Bruce, 1928), porosity (Webb, 1958), Redox potential (Fenchel and
+Riedl, 1970), hydrogen ion activity (Fenchel and Riedl, 1970) and
+mean grain size (Folk and Ward, 1957). Electrometric parameters
+were measured using a Pye Unicam Model 293 pH meter fitted with
+electrodes supplied by Russell ph Ltd. Mean grain size was measured
+using 21 half height, standard brass sieves of 200mm diameter in a
+quarter phi interval series, the coarsest being —1.00 0, the finest
++4.00 0. The grain size data were analysed using an IGL 1904S at
+University College Swansea Computer Centre.
+Results
+All statistical parameters referring to the sediment are those of
+Folk and Ward (1957). The Swansea Bay sediment is a medium
+fine sand (Mz 2.03 0 = 0.25mm), moderately sorted (0 I 0.56 0),
+with a nearly symmetrical distribution of fine and coarse grades
+(Sk I + 0.01) and an indication of better sorting in the central
+region of the distribution (Kg 1.12). The sediment from Nicholaston
+is a medium sand (Mz 1.57 0 = 0.34mm) well to moderately well
+sorted (0 0.50 0), with a nearly symmetrical distribution of fine and
+coarse grades (Sk I — 0.08) ; the distribution is approximately normal
+(Kg 1.05).
+The organic carbon content of the Swansea site to a depth
+of 14cm over the sampling period had a mean of 0.07 p. 100 + 0.03
+with a range of values between zero and 0.17 p. 100. Higher values
+((0.25 — 0.46 p. 100) were due to the occasional presence of coal par­
+ticles; values greater than 0.17 p. 100 which coincided with the
+presence of black particles were discarded. During the sampling
+period, the amount of organic carbon did not follow a clear seasonal
+pattern. At Nicholaston, the mean organic carbon content was
+0.05 p. 100 + 0.02 with a range of values between zero and 0.13 p. 100;
+coal particles were not observed at this site. No seasonal cycle in
+organic carbon content was observed.
+The pore volume at Swansea Bay had a range of values between
+29 p. 100 and 49 p. 100 with a mean of 42.7 p. 100 + 3.1 and at
+Nicholaston the range was between 33 p. 100 and 46 p. 100 with a
+mean of 39.6 p. 100 + 3.5. The porosity immediately adjacent to
+the sampling cores in Swansea Bay showed a range of values between
+17.8 p. 100 and 24.5 p. 100, with a mean value of 20.3 p. 100 + 1.1.
+At Nicholaston, the range of values lay between 15.7 p. 100 and 26.7
+p. 100, with a mean value of 18.3 p. 100 + 1.2.
+The redox potential discontinuity (R.P.D.) occurs between the
+values of +200mv and —lOOmv (Fenchel and Riedl, 1970) ; it is
+considered to begin at +200mv or less. At the Swansea Bay site,
+the redox potential varied between +398mv at the surface and
+—70mv at 14cm depth; the R.P.D. was observed to make a migration
+
+220 J.M. WRIGHT
+Table 1
+The mean number of ciliates for four cores to a depth of 14cm, adjusted to
+give numbers per square metre :
+No. im—2 4=1 Standard1 Deviation
+Swansea Bay
+1979 March 5.75 X l# 5.5 X l#
+April 1.8475 X 105 1.4767 X 105
+May 3.015 X1Q5 1.3436 X l#
+June 3.1725 X105 2.144 X l#
+July 6.5975 X l# 6.6259 X l#
+August 5.2925 X105 1.7194 X l#
+September 5.2375 X105 2.3318 X l#
+October 3.705 X l# 1.0534 X l#
+November 3.385 X l# 9.396 X 10s
+December 2.7025 X I# 1.6556 X l#
+1980 January 2.9675 X I# 1.2117 X l#
+February 7.085 X I# 5.1455 X l#
+Nicholaston
+1979 March 9.5 xl# 5.07 xl#
+April 3.4 X l# 9.93 X l#
+May 5.975 X 104 1.691 X 1#
+June 6.575 X l# 3.695 X l#
+July 2.325 X l# 1.864 X l#
+August 9.0 X l# 4.83 xl#
+September 2.85 X 104 7.3 X l#
+October 2.39875 X 106 4.75686 X 106
+November 3.575 X l# 4.635 X 104
+December 2.5 X l# 1.9 X l#
+1980 January 2.625 X l# 1.489 X l#
+February 6.65 X l# 3.88 X l#
+towards the surface during the warmer months of the sampling
+period (Pearson correlation coefficient r == 0.725, 9 d.f., 5 p. 100)
+being found at approximately 7cm in June 1979. At Nicholaston
+the redox potentials had a range of values between -|-438mv and
++ 78mv at 14cm depth. However the value usually remained around
++398mv throughout this depth no matter what the time of year.
+The pH of the sediment at the Swansean Bay site had a range
+of values between 6.6 and 8.1 units. The profile was generally one
+of increasing pH with depth. At Nicholaston, the pH had a range
+of values between 6.6 and 7.9 units, being either constant or increasing
+with depth.
+The water table at the Swansea Bay site is always at the surface
+regardless of the state of the tide. The slope of the beach is gentle
+and at the site position there is a layer of impervious clay at a depth
+of 30-40cm. The station is considered to be in the zone of saturation
+(Salvat, 1966, 1967). At Nicholaston, the water table lies below the
+sampling depth at the time of low water. The slope of the beach
+is steeper than that of Swansea Bay and, at the site position, there is
+a layer of larger particles of the gravel grade (Folk, 1954), measuring
+approximately 5-10cm, at a depth of 40cm. The water table is at
+
+PSAMMOBIOTIC CILIATES 221
+the surface shorewards of rising and falling tides. The site is
+considered to be in the zone of resurgence (Salvat, 1966, 1967).
+Changes in ciliate populations (see Table 1)
+A comparison of these figures with those of previous authors
+shows that they are within the same range for the intertidal area:
+Author Number per square metre
+Brotskaja 195 1 2 x 104 — 4.7 X 105
+Fenchel 1969 6.8 X IO5
+Burkovsky 1968 <2.6 X IO6
+Burkovsky 1970 4.34 X IO6
+Hartwig 1973 3.544 X IO5 — 3.3344 X IO6 to 10cm in
+sandflat
+9.27 X IO4 — 8.526 X IO5 to 60cm in beach
+slope
+Hartwig, Gluth and Wieser 1977 3.7 X 104 — 2.117 X 106 to 8cm
+present work 3.4 X 103 — 2.40 X1 0* to 14cm
+The range of values obtained for the Nicholaston site (3.4 X 103
+— 2.40 X 106) is greater than that for Swansea Bay (5.75 X 104 —
+7.09 X 105) due to a single core taken at Nicholaston during October
+1979:
+Depth In cm Core 1 Core 2 Core 3 Core 4
+0-2 6 28 5 5
+2-4 3 10 1 0
+4-6 0 0 0 0
+6-8 5 1 0 0
+8-10 9500 1 3 3
+10-12 3 1 2 0
+12-14 17 0 1 0
+The results for core I give an adjusted value of 9.534 X 106mr2,
+providing the highest estimate for any core taken at either Swansea
+Bay or Nicholaston.
+The total number of cillâtes at Swansea Bay (Fig. 3) reaches its
+maximum during the warmer months of the year and shows a
+positive correlation with the averaged maximum air temperature
+(Figs. 4, 5) for the thirty days preceding a sampling date (r = 0.634,
+9 d.f., 5 p. 100). The highest number of ciliates was recorded in
+February; a second maximum occurred in July coinciding with the
+temperature maximum. The minimum number occurred in March,
+corresponding with a low temperature. The high number of ciliates
+obtained in February corresponded with a sharp rise in temperature
+during the 30 days preceding the sampling date. The average
+maximum temperature for February 1979 for that period was 5.3°C
+whilst, in February 1980, the corresponding temperature was 9.3°G.
+At Nicholaston, the total number of ciliates was variable showing
+
+800
+NO.IOcm'
+Fig. 3
+The total ciliate numbers at Swansea Bay.
+Fig. 4
+The average maximum air temperature for the 30 days preceding a sampling
+date at Swansea Bav.
+20
+15
+TEMR°C
+10
+'
+5 •
+0
+I ..........
+N D J
+Fig. 5
+The average maximum air temperature for the 30 days preceding a sampling
+date at Swansea Bay.
+
+140
+120
+Fig. 6
+The total ciliate numbers at Nicholaston.
+several maxima, none of which coincided with the maximum in
+temperature (Fig. 6). The numbers did not show a correlation with
+temperature.
+The mean population depth of these populations was calculated
+by taking the number of ciliates at a given depth interval, multiplying
+by the actual depth in centimetres and then dividing each product
+by the total number of ciliates for that core. A correlation was
+found between mean population depth and temperature at Swansea
+Bay (r = 0.796, 9 d.f. 1 p. 100), i.e. the population is found at a shall­
+ower depth with increasing temperature (Fig. 7). The percentage
+DEPTH
+IN CM.
+14 m ' a ' m j ' j ’ a s ’ o ' n d ' j f '
+Fig. 7
+Distribution of total ciliate population with depth at Swansea Bay. 0*0 Begining
+of R.P.D.
+
+224 J.M. WRIGHT
+of the population which occurs in the top 2cm also shows a correlation
+with temperature (r = 0.634, 9 d.f. 5 p. 100). At Nicholaston there
+was no observable relationship between mean population depth or
+percentage occurring in the top 2cm of sediment with temperature
+(Fig. 8).
+0 ■
+2 -
+4 -
+depW
+IN CM.
+8 ■
+10
+-
+12
+-
+14 «— i « i 1---------1 -------!■■■■■■■ i- - *t ' ■ i '" n *1- i
+M A M J J A S - O N D J F
+Fig. 8
+Distribution of total ciliate population with depth at Nicholaston.
+FAMILY TRACHELOCERCIDAE
+The members of this family, comprising the three genera Trache-
+locerca, Tracheloraphis and Trachelonema account for 32.9 p. 100 of
+all the ciliates at the Swansea Bay site. The mean value for the
+sampling period was 1.24 X 105nr~2 with a range of values between
+8.0 X 103 and 6.42 X 105m~2. The numbers of Trachelocercidae show
+several peaks (Fig. 9); there is a correlation between numbers and
+average maximum air temperature (r = 0.705, 9 d.f., 5 p. 100). The
+peaks occur in September, June and February. The mean population
+depth shows a significant relationship with temperature (r = 0.757,
+9 d.f., 1 p. 100) : the population is nearer the surface during the
+warmer months. The percentage of the population occurring in the
+top 2cm of sediment also shows a significant relationship with tempe­
+rature (r = 0.640, 9 d.f., 5 p. 100). At Nicholaston, the Tracheloceri-
+dae accounted for 20.4 p. 100 of the total ciliate numbers (ignoring
+the exceptional Core 1 of 17.10.79) or 2.1 p. 100 if this is included
+in the calculation. The mean value for the sampling period was
+6.5 X 103m~2 with a range of values between zero and 4.6 X 104m-2.
+The numbers show no correlation with average maximum air tempe­
+rature (Fig. 10), neither does the mean population depth nor the
+percentage occurring in the top 2cm of sediment.
+
+PSAMM OB 10 TIC CILIATES 225
+TRACHELORAPHIS TEISSIERI Dragesco, 1960
+This species is present on occasion in quite large numbers at
+the Swansea Bay site, whilst it is absent from the Nicholaston site.
+At Swansea Bay, it accounts for 5.3 p. 100 of the total ciliate popu­
+lation with a range of values between zero and 1.49 X 105m-2 and
+a mean of 2.0 X 104m-2. The numbers show no correlation with
+average air temperature being absent from the sampling site during
+the warmest months. The mean population depth shows a correla­
+tion with temperature (r = 0.713, 8 d.f., 5 p. 100) and the percentage
+occurring in the top 2cm of sediment also correlates with temperature
+(r = 0.699, 8 d.f., 5 p. 100).
+TRACHELORAPHIS HAMATUS Wright, 1982
+At the Swansea Bay site, this ciliate accounts for 14.7 p. 100 of
+all the ciliates encountered with a range of values between zero and
+2.05 X 105m-2 and a mean of 5.58 X 104m_?. There is no correlation
+350
+300 -
+250 -
+200
+-
+N0.10cnr2
+Fig. 9
+The numbers of Trachelocercidae at Swansea Bay.
+-=¿L
+r-......i
+Fig. 10
+The numbers of Trachelocereidae at Nicholaston.
+
+226 J.M. WRIGHT
+between numbers and temperature although there is an observable
+peak during September otherwise, the trend is one of increase during
+the survey. There is a correlation between mean population depth
+and temperature (r = 0.761, 9 d.f., 1 p. 100) and also between the
+proportion occurring in the surface layers of sediment and tempera­
+ture (r == 0.615, 9 d.f., 5 p. 100). At Nicholaston, this species accounts
+for 1.4 p. 100 (or 0.1 p. 100) with a range of values between zero and
+6 X 103m-2 and a mean of 4.4 X 102m-2.
+TRACHELORAPHIS DITIS Wright, 1982
+TRACHELORAPHIS CONFORMIS Wright, 1982
+These two species have been considered as one group during the
+survey due to their similar appearance in life. At Swansea Bay, they
+500 i
+4-----^
+Fig. 11
+The numbers of Loxodidae at Swansea Bay.
+0 75
+2
+4
+DEPTH
+IN CM.
+6
+-
+10
+-
+12
+14
+mT' a^'m "j
+A ‘ S ' 0 * N ' D J
+Fig. 12
+Distribution of the Loxodidae with depth at Swansea Bay. (♦) Beginning of
+R.P.D.
+
+PSAMMOBIOTIC CILIATES 227
+account for 10.8 p. 100 of the total ciliate population. The range
+of density values lay between zero and 3,35 X 105m~2 with a mean
+value of 4.10 X 104m-2. The variation in numbers and temperature
+are related and show a significant correlation (r = 0.751, 9 d.f., 1 p.
+100). There is a correlation between mean population depth and tem­
+perature (r=0.830, 9 d.f., 1 p. 100) and also between the percentage
+occuring in the top 2cm and temperature (r=0.674, 9 d.f., 5 p. 100).
+At Nicholson, this group accounts for 13.2 p. 100 (or 1.8 p. 100) of the
+total. The range of values lay between zero and 4.0X104m-2 with a
+mean value for the survey of 4.22X103m-2. There is no correlation
+between temperature and numbers, although this group is absent in
+the cooler months. Neither the mean population depth or the per­
+centage occurring in the top 2cm of sediment correlate with tem­
+perature.
+TRACHELONEMA OLIGOSTRIATA Raikov, 1962
+This species accounts for fewer than 0.3 p. 100 of the ciliates
+observed at the Swansea Bay site. The range of values lay between
+zero and 1.8 X lO4m~2 with a mean value of 1.27 X 103m-2. This
+species is present for nine months of the sampling period, producing
+a peak in numbers during July; however, there is no correlation
+between numbers and temperature, nor is there a significant relation­
+ship between temperature and either mean population depth or the
+percentage occurring in the top 2cm. At Nicholaston, this species
+makes up 0.3 p. 100 (or less than 0.1 p. 100) of the ciliate population
+and occurs in only three months of the sampling period.
+FAMILY LOXODIDAE
+For the purposes of this report the Loxodidae is taken to consist
+of the genera Remanella, Kentrophoros and Ciliofaurea. At the
+Swansea Bay site, individuals of the genera Kentrophoros and Cilio-
+faurea occur occasionally whilst the genus Remanella occurred regu­
+larly throughout the sampling period and accounted for over 99 p.
+100 of the family. The Loxodidae accounted for 20.0 p. 100 of the
+ciliates recorded at the Swansea Bay site with a mean of 7.57 X 104
+m~2 and a range of values between zero and 5.32 X 105m-2. The
+Loxodidae show a temporal relationship rather than a correlation
+with temperature : the regression with time is significant (r = 0.844,
+10 d.f., 0.1 p. 100) (Fig. 11). The mean population depth of the
+Loxodidae (Fig. 12) does not correlate with average maximum air
+temperature, but the percentage of the population occurring in the
+top 2cm of sediment does correlate with temperature (r = 0.631,
+9 d.f., 5 p. 100). At Nicholaston, the Loxodidae are an unimportant
+constituent of the total ciliate population and account for 0.2 p. 100
+(or fewer than 0.1 p. 100).
+KENTROPHOROS CANA LIS Wright, 1982
+This species occurs only very occasionally at Swansea Bay and
+not at all at Nicholaston.
+
+228 J.M. WRIGHT
+REMANELLA MULTINUCLEATA Kahl, 1933
+This species accounts for fewer than 0.1 p. 100 of the ciliates at
+Swansea Bay and does not occur at all at Nicholaston.
+C1LIOFA UREA MIRABALIS Dragesco, 1954
+This ciliate was found during a single month’s sampling at
+Swansea Bay (in February 1980) when it occurred in densities of
+1.4 X 103m-2 and accounted for 0.3 p. 100 of the total ciliate popula­
+tion. It does not occur at Nicholaston.
+200
+-
+N0.10cnf2
+150 -
+Fig. 13
+The numbers of Geleidae at Swansea Bay.
+0 75
+2
+4.
+6
+DEPT H -
+IN CM.
+8
+•
+10 H
+12
+14 -------, j- . ;--------i--------—i— ■ j ..■■■ i j ■ ■ , , *
+M A M J J A S O N D J F
+Fig. 14
+Distribution of the Geleidae with depth at Swansea Bay. (-*►) Beginning of
+R.P.D.
+
+PSAMMOBIOTIC CILIATES 229
+FAMILY GELEIDAE
+The only members of this family encountered belong to the genus
+Gelea. At Swansea Bay, they account for 9.0 p. 100 of the total
+population. During the survey period, they had a mean density
+of 3.42 X 104m~2 with a range of values between zero and 3.57 X 105
+m~2. This family does not show a significant relationship with tem­
+perature but there is an apparent temporal increase (Fig. 13). How­
+ever, the mean population depth (Fig. 14) does correlate with tempe­
+rature (r = —0.869, 9 d.f., 0.1 p. 100) ; the percentage occuring in
+the top 2cm of sediment also correlates with temperature (r = 0.746,
+9 d.f., 1 p. 100). At Nicholaston, the occurrence of Geleidae is rare;
+during the course of the survey none were recorded.
+GELEI A NIGRICEPS Kahl, 1933
+This species was encountered occasionally at Swansea Bay, it
+was not recorded from either site during the course of the survey.
+FAMILY COLEPIDAE
+All members of the Colepidae that were encountered during the
+survey belonged to the genus Coleps. At Swansea Bay, this family
+accounts for 11 p. 100 of the total cibate population. The range
+of density values lay between zero and 5.35 X 105m-2 with a mean
+value of 7.35 X 104m-2. The numbers show a significant correlation
+with temperature (r = 0.786, 9 d.f., 1 p. 100). Mean population
+depth shows a correlation with temperature (r = —0.923, 8 d.f.,
+0.1 p. 100) and the percentage of the population occurring in the top
+2cm of sediment also correlates with temperature (r = 0.702, 8 d.f.,
+5 p. 100). At Nicholaston, the Colepidae account for 5.7 p. 100 (or
+0.8 p. 100) of the total population. The range of values lay between
+zero and 4.9 X l O4m~2 with a mean of 1.8 X 103m-2. This family
+was present in only the six warmer months of the sampling period.
+COLEPS PÜLCHER Spiegel, 1926
+At Swansea Bay, this species accounts for 2.6 p. 100 of the
+cibate population. The range of density values lay between zero
+and 1.37 X 105m~2 with a mean value for the survey of 1.00 X 104m-2.
+There is no correlation between numbers and temperature (Fig. 15),
+although the mean population depth, does correlate with temperature
+(r = —0.893, 8 d.f., 1 p. 100), being nearer the surface during the
+warmer months; there is no correlation between the percentage oc­
+curring in the top 2cm and the temperature. At Nicholaston, C. pul-
+cher is comparatively rare and was present during two months of
+the survey in low numbers (7.5 X 102m~~2) on both occasions.
+
+230 J.M. WRIGHT
+NOrtOcrn
+Fig. 15
+The numbers of Coleps pulcher at Swansea Bay.
+COLEPS SIMILIS Kahl, 1933
+This species accounts for 8.8 p. 100 of the ciliates at Swansea
+Bay with a range of values between zero and 5.33 X 105m-2 and a
+mean of 3.35 X 104-2. The numbers (Fig. 16) show a correlation
+with temperature (r = 0.727, 7 d.f., 5 p. 100). The mean population
+depth also correlates with temperature (r = —0.739, 7 d.f., 5 p. 100)
+as does the percentage of the population in the surface layers (r =
+0.744, 7 d.f., 5 p. 100). At Nicholaston, this ciliate accounts for 5.3 p.
+100 (or 0.7 p. 100) of the total ciliate population. The range of values
+lay between zero and 4.40 X 104m-2 with a mean for the survey of
+1.69 X 103m-2. This species was present during six months of the
+sampling period.
+Fig. 16
+The numbers of Coleps similis at Swansea Bay.
+
+PSAMMOBIOTIC CILIATES 231
+FAMILY AMPHILEPTIDAE
+LITONOTUS ANGUILLA Kahl, 1930
+This species did not occur at the Swansea Bay site during the
+survey. At Nicholaston it accounts for 0.9 p. 100 (or 0.1 p. 100) and
+occurred during three months of the sampling period.
+FAMILY SCAPHIDIODONTIDAE
+CH1LODONTOPS1S VO RAX (Stokes, 1894)
+This species accounts for fewer than 0.1 p. 100 of the ciliates at
+Swansea Bay and at Nicholaston 3.2 p. 100 (or 0.4 p. 100), occuring
+in four months of the sampling period.
+FAMILY PLEURONEMATIDAE
+All the members of this family found during the survey belong
+to the genus Plcuronema. At Swansea Bay, they accounted for
+5.8 p. 100 of all the ciliates encountered. The range of density values
+was between zero and 2.34 X 105m-2 with a mean of 2.19 X 104m-2.
+The numbers (Fig. 17) do not correlate with temperature, neither
+does the mean population depth nor the percentage occurring in the
+top 2cm of sediment. At Nicholaston, they account for 11.7 p. 100
+(or 1.6 p. 100). The numbers do not correlate with temperature
+neither does the mean population depth or the percentage occurring
+in the top 2cm of sediment.
+Fig. 17
+The numbers of Pleuronematidae at Swansea Bay.
+
+232 j,M. WRIGHT
+60
+•
+A M J S 0 0 J F
+Fig. 18
+The numbers of Euplotes bathcatus at Nicholaston.
+Table 2
+Family Swansea Bay Nicholaston 1 Nicholaston 2
+Summary of families as a percentage of the total number of ciliates
+Colepidae 11.4 5.7 0.8
+Trachelocercidae 32.9 20.4 2.8
+Loxodidae 20.0 0.2 <0.1
+Geleidae 9.0 0 0
+Pleuronematidae 5.8 11.7 1.6
+Condylostomatidae <0.1 7.0 1.0
+Euplotidae 4.9 21.7 89.1
+<
+<84.0% 66.7% 95.3%
+Summary of species as a percentage of the total No. of ciliates
+Coleps pulcher 2.6 0.4 0.1
+C. similis 8.8 5.3 0.7
+Litonotus anguilla 0 0.9 0.1
+Tracheloraphis teissieri 5.3 0 0
+T. hamatus 14.7 1.4 0.2
+T. ditis & T. conformis 10.8 13.3 1.8
+Trachelonema oligostriata 0.3 0.3 <0.1
+Remanella multinucleata 0.1 0 0
+Ciliofaurea mirabalis 0.3 0 0
+Chilodontopsis vorax <0.1 3.2 0.4
+Peritromus faurei 0.3 0.9 0.1
+Euplotes balteatus 4.9 19.9 88.8
+<
+<47.7% 45.6% 92.2%
+Columns 1 and 2 of the Nicholaston values refer to the inclusion of core 1 of
+17.10.79.
+
+PSAMMOBIOTIC CI LI ATE S 233
+FAMILY CONDYLOSTOMATIDAE
+This family comprises the genus Condylostoma for the purposes
+of this survey. At Swansea Bay, they account for fewer than 0.1 p.
+100 of the total ciliate population, a range of values between zero
+and 2.0 X 103m-2 with a mean value of 1.9 X 102m-2. They were
+present in only six months of the sampling period and then consisted
+of few animals.
+At Nicholaston, the Condylostomatidae account for 7.0 p. 100 (or
+1.0 p. 100) of the total number of ciliates. The range of values
+was between zero and 2.56 X 104m-2 with a mean value for the survey
+of 2.23 X 103m-2. They do not correlate with temperature for num­
+bers, mean population depth or percentage occurring in the top
+2cm.
+FAMILY PERITROMIDAE
+Other species besides Peritromus faurei Kahl, 1932 occurred
+during the survey but only as individuals.
+PERITROMUS F AUREI Kahl, 1932
+This species accounts for 0.3 p. 100 of the ciliates of Swansea
+Bay being found in low numbers during three months of the sampling
+period. At Nicholaston it accounts for 0.9 p. 100 (or 0.1 p. 100), again
+occurring in only three months of the sampling period.
+FAMILY EUPLOTIDAE
+This family consists of the genera: Euplotes, Diophrys, Disco-
+cephalus and Uronychia. Of these, Euplotes is the most important
+and accounts for over 99 p. 100 at Swansea Bay and 90 p. 100 at
+Nicholaston.
+EUPLOTES BALTEATUS (Dujardin, 1841)
+The genus Euplotes was on occasion so numerous that they
+were counted using a Sedgwick-Rafter counting chamber. At Swan­
+sea Bay, this species accounted for 4.9 p. 100 of the total number
+of ciliates encountered and occurred in six months of the sampling
+period, becoming particularly abundant in the latter part of this
+period. At Nicholaston, it accounted for 19.9 p. 100 (or 88.8 p. 100)
+of the total ciliate population. It occurred in eight months of the
+period but showed no correlation with temperature (Fig. 18). The
+mean population depth does not correlate with temperature but the
+proportion of the population occurring in the surface layers does
+(r = 0.852, 4 d.f., 5 p. 100).
+For a summary of the families and species as a percentage
+of the total number of ciliates see Table 2.
+
+234 J.M. WRIGHT
+DISCUSSION
+Since Fauré-Fremiet (1950, 1951, 1958) first based an ecological
+classification of benthis interstitial cillâtes on their occurrence in
+beaches of particular grain size it has been possible to place some
+ciliates in more than one of the three categories Microporal, Mesoporal
+or Euryporal (Hartwig 1973). Fauré-Fremiet (loc. cit.) considered that
+the species typical of the microporal group are characterised by a
+long and flattened shape, thigmotactic behaviour, elongate caudal
+regions, a creeping or jerky movement and by being generally fragile.
+Mesoporal species are found in coarser sand and the Euryporal
+species may be found in either Micro- or Mesoporal sands.
+The shores at Swansea Bay and Nicholaston are both within the
+range described for microporal (between 0.4 and 0.12mm) and there­
+fore might be expected to support a similar ciliate fauna when, in
+fact, not only do they have a different fauna but also a different
+ecology. This difference in ecology is explicable by a consideration
+of the relative exposure of the two shores.
+The two sampling sites are characterised by a moderately sorted
+sediment with a nearly symmetrical distribution and no excess
+of coarse or fine grades. The Swansea Bay sediments are leptokurtic :
+that is, the central region is better sorted than the ’tails’, which
+suggests that the sediment is tending to become bimodal (Folk and
+Ward 1957). The Nicholaston sediments are mesokurtic: that is, the
+central region is as well sorted as the ’tails’ and they are thus
+unimodal. The percentage of fines (<63^m) is greater at Swansea
+Bay than at Nicholaston. This, along with the larger mean grain
+size, suggests that a higher energy source prevails at Nicholaston.
+Wind data supplied by the Meteorological Office, Bracknell, were
+taken at Mumbles Head (Swansea Bay), an exposed head-land lying
+between the two sites and thus broadly applicable to both of them.
+They indicate that winds blowing from 22 Io-280° (the prevalent
+direction) account for 34.4 p. 100 of all wind for the period 1969-
+1979. The two localities are affected by such winds to different
+degrees, the Nicholaston locality being afforded the least shelter by
+headlands. This is reflected in the slightly larger grain size, lower
+fines content and steeper beach slope at Nicholaston.
+Burkovsky (1971) considered that the ciliates which tend to
+dominate exposed beaches are protected by well developed penicular
+and fibrillar skeletal structures. Hartwig and Parker (1977) believed
+that those species with a short body and a more compressed or
+rounded shape are more resistant to exposure. Similarly, the ciliates
+of depositing shores (characterised by fine sediments) make up a
+fauna which is equivalent to the microporal group of Fauré-Fremiet
+(loc. sit.) in their morphology as typified by such species as Trachelo-
+raphis prenanti f. oligocineata Raikov and Kovaljeva, 1968, Pseudo-
+
+PSAMMOBIOTIC CI LI ATES 235
+prorodon arenicola Kahl, 1933, Condylostoma remanei Spiegel, 1928,
+C. fjeldi (Hartwig and Parker, 1977).
+Hartwig (1973), when studying the ciliate fauna of the Island
+of Sylt (North Sea), made a distinction between ecological groups
+of ciliates based not only on the grain size of sediments but also on
+beach position. On a typical medium wave beaten beach the shore
+could be divided into the sand flat, which is almost fully saturated,
+a region between the sand flat and beach slope at the landward
+part of the beach, and the beach slope which is saturated only
+immediately shorewards of a rising and falling tide. Each of these
+regions has a typical fauna, a larger number of species being found
+in the sand flat than in the beach slope. When comparing beaches
+of different exposure, Hartwig observed that both highly exposed
+and sheltered shores had fewer species than a shore of medium
+exposure.
+The two shores in this survey differ in exposure, Nicholaston
+being more exposed than Swansea Bay. As a result of this exposure,
+the beach slope is steeper at Nicholaston and so the water table is
+at the surface only immediately landwards of a rising and falling
+tide; at Swansea Bay, the beach slope is gentle and the water table
+is always at the surface. The movement of the water table at
+Nicholaston produces variable ecological gradients during a tide.
+This difference in stability of gradients results in the markedly
+different ecology of the two ciliate populations. At the Swansea
+Bay locality, the total ciliate population is dependent on temperature,
+reaching a maximum in the warmer months, whilst at Nicholaston
+the numbers are independent of air temperature. This can be
+explained by the lack of buffering of temperature variations due to
+the absence of a water table. In considering the families and species
+regarded as ecological groups at Nicholaston, none show a significant
+relationship between numbers and temperature. At Swansea Bay,
+several groups show a significant relationship with temperature :
+Trachelocercidae, Colepidae, Coleps similis and Tracheloraphis ditis
+and T. conformis. The Condylostomatidae and Euplotidae are inde­
+pendent of temperature in as far as they occurred at irregular
+intervals throughout the sampling period. A third category includes
+those groups which occurred throughout the sampling period but are
+not significantly related to temperature: Loxodidae, Geleidae, Pleurone-
+matidae, Tracheloraphis teissieri, T. hamatus, Trachelonema oligo­
+striata and Coleps pulcher; of these, the Loxodidae showed a signi­
+ficant increase with time.
+As part of the study, the organic carbon content was measured
+(using the titration method of Gaudette et al., 1974) and, for an eight
+month period, the numbers of motile diatoms and flagellates extracted
+by Uhlig sea-water ice technique (Uhlig, 1968) were recorded. Nei­
+ther of these groups of data significantly correlated with temperature
+at either Swansea Bay or Nicholaston; however, flagellate numbers
+did show a significant decrease over the time during which they
+were sampled. Dale (1974) found a significant correlation between
+bacterial numbers, as revealed by acradine orange staining, and the
+amounts of organic carbon and nitrogen when grain size was the
+
+236 J.M. WRIGHT
+controlled parameter in a partial correlation analysis. Therefore,
+the organic carbon content is a measure of the numbers of bacteria
+present. Bacteria are a major constituent of the diet of many ciliates
+(Fenchel 1968, 1969) and, if it is assumed that their division rate is
+dependent on temperature, then the relative accuracy of the titration
+method for the given range of organic carbon contents is called into
+question.
+WAVE
+ACTION
+CONDITIONS
+FOR
+OCCURRENCE
+Fig. 19
+The interrelationships of various factors affecting the conditions suitable for
+occurrence of ciliates.
+The groups of ciliates which depend on temperature are presu­
+mably utilising food organisms which also depend on temperature
+and are therefore seasonal, whilst the second group of ciliates are
+able to utilise intermittent food supplies. The third group, of which
+the Loxodidae show a significant temporal variation and the Geleidae
+a pronounced temporal trend, tend to produce maxima in spring
+and autumn : Pleuronematidae, Coleps pulcher, Tracheloraphis hama-
+tus (with a third peak in February 1980) and T. teissieri with a peak
+
+PSAMMOBIOTIC CI LIATES 237
+in spring and a second peak in December, Trachelonema oligastriata
+has a single peak in June. Burkovsky (1979) studied a seasonal
+succession of ciliates and found that during the warmer months,
+larger omnivorous ciliates produce large populations although the
+diversity is reduced. The first stages of the succession are charac­
+terised by the frequent change in dominating species related to a
+corresponding change in environmental conditions. The varying
+dominance of the third category of ciliates observed at Swansea
+Bay may well be following a succession; however, the sampling inter­
+val is large and not suitable for the definition of any succession
+at Swansea Bay.
+At Swansea Bay, in addition to the relationship between numbers
+and temperature for certain groups, it has been shown for most
+groups that there is a significant temperature-related migration
+towards the surface during the warmer months, whilst at Nicho-
+laston there are no groups that show this migration. Similarly, at
+Swansea Bay most groups show a significant migration into the top
+2cm of sediment whilst at Nicholaston only Euplotes balteatus shows
+this movement. The observed migrations at Swansea Bay are related
+to corresponding changes in environmental factors as typified by the
+R.P.D., which has been shown to move up or down (Fenchel 1971,
+Ott and Machan 1971).
+Hartwig, considering many of the factors upon which the abun­
+dance of a ciliate population depends, produced a scheme based on
+Burkovsky (1971) in which the effect of wave action and therefore
+exposure is given prime importance. The energy input to a site, in
+the form of wave action, affects grain size and therefore pore
+volume, organic matter content, bacterial numbers and chemical or
+physico-chemical parameters such as redox potential and pH. Many
+of these factors are inter-related, depending on temperatures and
+ultimately the presence or absence of th water table (Fig. 19 after
+Burkovsky 1971 and Hartwig 1973).
+Summary
+The number and distribution psammobiotic ciliates occurring on two sandy
+shores in South Wales is described. The variation in numbers and species shows
+considerable differences between the two shores. The Swansea Bay populations
+show a temperature related increase whilst those ciliates occurring at Nicholaston
+seem to be independent of temperature. This difference in population dynamics
+is ascribed to differences in exposure to wave action.
+REFERENCES
+Brotskaja, W.A., 1951. — The littoral micro-benthos of the White Sea. Trudy
+Vsesoyuznogo gidrobiologicheskogo obshchestva. 3, pp. 179-193. (en Russe).
+bruce, J.R., 1928. — Physical factors on the sandy beach. Part I. Tidal, climatic
+and edaphic. J. mar. biol. Ass. U.K., 15, pp. 535-552.
+burkovsky, i.V., 1968. — Quantitative data on the vertical distribution of psammo-
+philic infusoria in the Velikaya Salma (Kandalaksha Bay, the White Sea).
+Zoolog. Zhurnal, 47, pp. 1407-1410. (en Russe).
+
+238 J.M. WRIGHT
+BURKOVSKY, i.V., 1970. — The cillâtes of the mesopsammon of the Kandalaksha
+Gulf (White Sea). I. Acta Protozool., 7, pp. 475-489. (en Russe).
+BURKOVSKY, i.V., 1971. — Ecology of psammophilous dilates in the White Sea.
+Zool. Zhurnal, 50, pp. elft-eaql. (en Russe).
+BURKOVSKY, i.V., 1979. — Seasonal and primary successions in marine psammo­
+philous ciliates. Zoolog. Zhurnal, 58, pp. 469-476. (en Russe).
+dale, N.G., 1974. — Bacteria in intertidal sediments: factors related to their
+distribution. Limnol. Oceanogr., 19, pp. 509-518.
+DRAGESCO, j., 1954. — Diagnoses préliminaires de quelques ciliés psammophiles
+nouveaux. Bull. Soc. zool. Fr., Ser. V, 79, pp. 57-62.
+DRAGESCO, j., 1960. — Ciliés mésopsammiques littoraux. Trav. St. biol. Roscoff,
+N.S. 12, pp. 1-356.
+DUJARDiN, f., 1841. — Histoire naturelle des Zoophytes. Infusoires, pp. 1-678,
+Paris.
+FAURÉ-FREMiET, E., 1950. — Ecologie des cités psammophiles littoraux. Bull. Biol.
+France-Belgique, 84, pp. 35-75.
+FAURÉ-FREMiET, E., 1951. — The marine sand dwelling ciliates of Cape Cod. Biol.
+Bull., 100, pp. 59-70.
+FAURÉ-FREMiET, E., 1958. — Le cilié Condylostoma tenuis n. sp. et son algue
+symbionte. Hydrobiol., 10, pp. 43-48.
+Fenchel, t., 1968. — The ecology of marine microbenthos. II. The food of marine
+benthic ciliates. Ophelia, 5, pp. 73-121.
+Fenchel, t., 1969. — The ecology of marine microbenthos. IV. Structure and
+function of the benthic ecosystem, its chemical and physical factors and the
+microfauna communities with special reference to the ciliated Protozoa.
+Ophelia, 6, pp. 1-182.
+Fenchel, t., 1971. — The reduction-oxidation properties of marine sediments and
+the vertical distribution of the microfauna. Vie, Milieu 22, pp. 509-521.
+Fenchel, t. and itiEDL, R.J., 1970. — The Sulfide System : a new biotic community
+underneath the oxidised laver of marine sand bottoms. Mar. Biol., 7, pp.
+255-268.
+folk, R.L., 1954. — The distinction between grain size and mineral composition
+in sedimentary rock nomenclature. J. Geol., 62, pp. 345-351.
+folk, R.L. and ward, w., 1957. — Brazos river bar: a study in the significance of
+grain size parameters. J. sed. Geol., 27, pp. 3-26.
+GAUDETTE, H.E., flight, W.R., toner, L. and folger, d.w., 1974. — An inexpensive
+titration method for the determination of organic carbon in recent sedi­
+ments. J. sed. Geol., 44, pp. 249-253.
+Hartwig, E., 1973. — Die Ciliaten des gezeitensandstrandes der Nordseeinsel Sylt.
+II. Ökologie. Mikrofauna Meeresboden, 21, pp. 1-171.
+Hartwig, E., GLUTH, G. and wiESSER, w., 1977. — Investigations on the ecophysio-
+logy of Geleia nigriceps Kahl (Ciliophora, Gymnostomata) inhabiting a
+sandy beach in Bermuda. Œcologia (Beri.), 31, pp. 159-175.
+Hartwig, e. and Parker, J.G., 1977. — On the systematics and ecology of interstitial
+ciliates of sandy beaches in North Yorkshire. J. mar. biol. Ass. U.K., 57,
+pp. 735-760.
+kahl, a., 1930-1935. — Urtiere oder Protozoa I: Winpertiere oder Ciliata (Infu­
+soria), eine Bearbeitung der freilebenden und ectocommensalen Infusoria
+der Erde, unter Ausschluss der marinen Tintinnidae. In: Die Tierwelt
+Deutschlands un der ungrenzenden Meeresteik (ed. F. von Dahl), pp. 1-884,
+Jena: Gustav Fischer.
+lackey, j.p. and lackey, E.W., 1963. — Microscopic algae and protozoa in the
+waters near Plymouth in August 1962. J. mar. biol. Ass. U.K., 43, pp. 797-
+805.
+MAGHRABY, a.m., el, and perkins, E.J., 1956. — Additions to the marine fauna
+of Whitstable. Ann. mag. nat. Hist., 9, pp. 481-496.
+Ott, j.A. and machan, r., 1971. — Dynamics of parameters in intertidal sediments.
+Thalassa Jugoslavica, 7 (1), pp. 219-229.
+RAiKOV, I.B., 1962. — Les ciliés mésopsammiques du littoral de la Mer Blanche
+(U.R.S.S.) avec une description de quelques espèces nouvelles ou peu
+connues. Cah. Mar. Biol., 3, pp. 325-361.
+RAiKov, i.B. and kovaljeva, v.g., 1968. — Complements to the fauna of psammo-
+biotic ciliates of the Japan Sea (Po si et Gulf). Acta Protozool. 6, pp. 309-
+333.
+
+PSAMMOBIOTIC CI LI ATE S 239
+salvat, B., 1966. — Eurydice pulchra Leach, 1815 et Eurydice affinis Hansen,
+1905 (Isopodes, Cirolanidae). Taxonomie, éthologie, écologie répartition
+verticale et cycle reproducteur. Acta Soc. Linn. Bordeaux, Série A, 103,
+pp. 1-77.
+SALVAT, b., 1967. — La macrofaune carcinologique endogée des sédiments meubles
+intertidaux (Tanaidacés, Isopodes et Amphipodes), éthologie, bionomie et
+cycle biologique. Mém. Mus. natn Ilist. nat., Paris, ser. A, Zoologie, 45,
+pp. 1-275.
+Spiegel, a., 1926. — Einige neue marine ciliaten. Arch. Protistenk. 55, pp. 184-
+190.
+stokes, A.c., 1894. — Notices of presumably undescribed infusoria. Proc. Amer,
+phil. Soc., 33, pp. 338-345.
+UHLiG, G., 1968. —Quantitative methods in the study of the interstitial fauna.
+Trans Amer, micros. Soc., 87, pp. 226-232.
+Webb, J.E., 1958. — The ecology of Lagos Lagoon V. Some physical properties of
+Lagoon deposits. Phil. Trans. Roy. Soc., Series B, 241, pp. 393-419.
+Wright, J.M., 1982. — Some sand dwelling ciliates of South-Wales. Cah. Biol.
+Mar., 23, pp. 275-285.
+

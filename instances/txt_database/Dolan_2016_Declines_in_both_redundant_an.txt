@@ -1,0 +1,590 @@
+TheISMEJournal(2016)10,2174–2183
+©2016InternationalSocietyforMicrobialEcology Allrightsreserved 1751-7362/16
+www.nature.com/ismej
+ORIGINAL ARTICLE
+Declines in both redundant and trace species
+characterize the latitudinal diversity gradient in
+tintinnid ciliates
+John R Dolan1, Eun Jin Yang2, Sung-Ho Kang2 and Tae Siek Rhee2
+1Laboratoire d'Océanography de Villefranche-sur-Mer, CNRS, Université Pierre et Marie Curie (Paris 6)
+Villefranche-sur-Mer, France and 2Department of Polar Ocean Environment, Korea Polar Research Institute,
+Yeonsu-gu, Incheon, South Korea
+Thelatitudinaldiversitygradientisawell-knownbiogeographicpattern.However,rarelyconsidered
+is how a cline in species richness may be reflected in the characteristics of species assemblages.
+Fewer species may equal fewer distinct ecological types, or declines in redundancy (species
+functionally similar to one another) or fewer trace species, those occurring in very low
+concentrations. We focused on tintinnid ciliates of the microzooplankton in which the ciliate cell is
+housed inside a species-specific lorica or shell. The size of lorica oral aperture, the lorica oral
+diameter (LOD), is correlated with a preferred prey size and maximum growth rate. Consequently,
+speciesofadistinctLODaredistinctinkeyecologiccharacteristics,whereasthoseofasimilarLOD
+are functionally similar or redundant species. We sampled from East Sea/Sea of Japan to the High
+ArcticSea.Wedeterminedabundancedistributionsofbiologicalspeciesandalsoecologicaltypesby
+groupingspeciesinLODsize-classes,setsofecologicallysimilarspecies.Inlowerlatitudesthereare
+more trace species, more size-classes and the dominant species are accompanied by many
+apparently ecologically similar species, presumably able to replace the dominant species, at least
+withregardtothesizeofpreyexploited.Suchredundancyappearstodeclinemarkedlywithlatitude
+in assemblages of tintinnid ciliates. Furthermore, the relatively small species pools of the northern
+high latitude assemblagessuggest alow capacity toadaptto changingconditions.
+TheISME Journal (2016) 10,2174–2183; doi:10.1038/ismej.2016.19; publishedonline18 March2016
+Introduction (Willig et al., 2003). A universal explanation of the
+latitudinal diversity gradient has been termed ‘The
+A very wide variety of taxa, both multicellular Holy Grail of Ecology’ (Adams, 2009). Thus,
+and microbial, show a latitudinal diversity gradient
+although there is little agreement as to why the
+(Gaston and Spicer, 2003). Typically, species rich-
+gradient exists, most do acknowledge that species
+nesspeaksinthetropics,oftenat~20°,dipsslightly
+richness often declines with latitude (Adams, 2009).
+at the equator and decreases markedly with latitude
+The structure of species assemblages quite likely
+both north and south. Tintinnid ciliates of the
+often differs with species richness but exactly how
+marine microzooplankton literally provide a text-
+is difficult to predict. Declines in species richness
+book example of the pattern (Gaston and Spicer,
+can be reflected in various ways with different
+2003). Slight variations of the pattern characterize
+consequences concerning the ecological character-
+other protist taxa of the marine plankton such as
+istics of a species assemblage.
+foraminifera (Rutherford et al., 1999) and Ceratium
+Fewer species can represent a reduction in the
+species of the phytoplankton (Dolan, 2011). The
+overall variety or range of species within an
+latitudinal diversity gradient is the oldest known
+assemblage.Lessvarietyamongspeciescantranslate
+biogeographic pattern and the mechanisms generat-
+into a lower capacity to respond to changes in
+ingithavelongbeendebatedwithdozensoftheories
+resource composition or predation pressure. For
+proposed,noneofwhichhasfoundwideacceptance
+example, a smaller range of consumer species could
+have a lower capacity to exploit changes in the size
+Correspondence:JR Dolan, Laboratoired'OceanographydeVille- or qualities of available prey items. Alternatively,
+franche-sur-Mer,CNRS,UniversitéPierreetMarieCurie(Paris6) lower species richness may represent only fewer
+UMR 7093, Station Zoologique, B.P. 28, 06230 Villefranche- forms present in very low concentrations, outside
+sur-Mer,France. their usual habitat, members of the ‘accidental
+E-mail:dolan@obs-vlfr.fr biosphere’ (Weisse, 2014). These species likely have
+Received 29 April 2015; Received 26 November 2015; accepted
+12January2016;publishedonline18March2016 low actual or potential ecological impact. Besides a
+
+Highlatitudeassemblages
+JRDolanetal
+2175
+decline in variety, lower species richness may Critically, LOD, analogous to gape-size, is related
+translate into fewer presumptive redundant species to both the size of the food items ingested and
+(that is, species of similar ecological characteristics) maximum growth rate. The largest prey item
+able to replace dominant species subject to a high ingested is ~0.5 the LOD in longest dimension and
+specific mortality. Theoretically, the presence of a given species feeds most efficiently on prey ~0.25
+redundant species should increase the resilence of of its LOD in size. LOD is negatively related to
+anassemblage,meaningitscapacitytoresistperturba- maximum growth rate. This is because LOD is
+tionandsurvivechangesinconditions(Naeem,1998). positivelyrelatedtothevolumeofthecelloccupying
+Recent studies have re-emphasized the tremen- the lorica (Dolan, 2010) and tintinnids follow the
+dous diversity of protists in the marine plankton common inverse relationship between cell size and
+(de Vargas et al., 2015). The phylogenetic diversity maximum specific growth rate (Montagnes, 2013).
+and extreme ecological complexity of protistan TintinnidspecieswithasimilarLOD,ormouthsize,
+assemblages makes assessing how assemblages are are usually similar in terms of both preferred prey
+structured a daunting task (for example, Lima- size and maximum growth rate; here these simila-
+Mendez et al., 2015). Among planktonic protists, rities are taken as indicating ecological redundancy.
+tintinnids are an example of a phylogenetically and The structure of tintinnid populations, in terms
+ecologicallycoherentgroupandsorepresentataxon of both species abundance distributions and distribu-
+in which study of the structure of assemblages tions of species grouped in size-classes, has
+are considerably simplified. Tintinnid ciliates also been characterized for the species-rich assemblages
+represent an ideal group to examine with regard to of tropical, sub-tropical and temperate systems
+the question of how the structure of species (Dolan et al., 2007, 2013). Typically in these
+assemblages varies with latitude. This is because systems, dozens of species can be found in material
+not only do they show a typical latitudinal diversity from 10 to 20l (Dolan and Stoeck, 2011). In general,
+gradient but also the population structure of tempe- species abundance distributions are log-series or log-
+rate, sub-tropical and tropical populations are well normal distributions, whereas grouping forms by size-
+known and species of similar ecology share similar classesratherthanspeciesyieldsageometricdistribu-
+morphologies allowing identification of ecologically tion(Dolanetal.,2007,2013).Assemblagesareoverall
+redundant species. structured by ‘mouth size’. Typically there are 4–10
+Tintinnid ciliates are characterized by the posses- abundantspeciesandtheseareofmouthsizesdistinct
+sion of a shell or lorica whose architecture and from one another. The other species, of markedly less
+dimensions form the basis of classic taxonomic abundance,canbedividedintotwogroups.Thefirstis
+schemes (Figure 1). About 1200 species are in composed of those with mouth sizes similar to one of
+the literature (Agatha and Strüder-Kypke, 2012); thedominantspecies;theseareecologicallyredundant
+virtually all are restricted to the marine plankton. forms. The second group is formed of species in LOD
+The diameter of the mouth-end of the lorica, lorica size-classes distinct from those of the dominants and
+oral diameter (LOD), is a conservative taxonomic these species appear to be occasional, ephemeral, or
+character (Laval-Peuto and Brownlee, 1986). It does rare species (Dolan et al., 2009) and are generally
+not change with development; newly divided cells presentinverylowconcentrations(Dolanetal.,2013).
+formanewloricawiththesameoraldiameterasthe However, it is important to note that the categories of
+fully developed organism (Agatha et al., 2013). ‘redundant’ and trace or ‘rare’ are not exclusive. If a
+species found intrace concentrations is in a size-class
+with other species, then it is both redundant and rare
+while if alone in a size-class then it is not redundant
+butrarewithecologicalcharacteristicsdistinctfromall
+the other species.
+Tropical, sub-tropical and temperate assemblages
+are characterised by high species richness reflecting
+both considerable species redundancy as well as the
+presence of species with morphologies distinct from
+abundant forms but found in low concentrations. In
+thisstudyweaddressthequestionofhowsub-arctic
+and arctic communities with lower species richness
+are structured compared with well-studied tempe-
+rate communities.
+We characterized communities along a latitudinal
+gradient of decreasing species richness. We examined
+large-scale or metapopulation characteristics in terms
+of species and in terms of 'ecotypes', defined here as
+species of similar feeding ecology and maximum
+Figure 1 Salpingella acuminata. Image of a specimen from
+growth rate based on LOD or mouth size. In 2012
+station 10 in the Bering Sea showing the basic features of a
+tintinnidciliate. we sampled populations of the East Sea/Sea of Japan,
+TheISMEJournal
+
+Highlatitudeassemblages
+JRDolanetal
+2176
+the North Pacific Ocean, the Bering Sea and the asshowninFigure1.ExactlocationsandtheKorean
+Chukchi Sea and the High Arctic along a transect of Polar Research Station Designations are given in the
+over 43° of latitude and 5000 km (Figure 2). Notably supplementary data file. A Niskin bottle rosette
+the year 2012 was a year of record low sea ice extent equipped with CTD probes was used to obtain
+permitting open water sampling of plankton in the temperature profile data and discrete depth samples
+High Arctic, to our knowledge for the first time. For for chlorophyll determinations. Plankton net tows
+each system two to six stations were sampled provid- wereperformedtoassessmicroplanktoncommunity
+ing at least 2000 ciliate cells representing each composition.
+assemblage. The parameters estimated for each of the For chlorophyll a determinations, water samples
+five populations were species richness, number of of 0.3–1l were obtained from 7 to 9 discrete depths
+tracespecies(foundasasinglecell),numberofmouth betweenthesurfaceand100mdepth.Watersamples
+size-classes, proportion of size-classes with multiple were filtered through a 0.7μm Whatman glass fiber
+occupants (containing more than one species) and the filter (GF/F) and chlorophyll concentrations deter-
+number of apparently redundant species. For each mined onboard using a Turner Designs Trilogy
+assemblagetheobservedpatternofspeciesabundance model fluorometer calibrated using commercial
+distribution was compared with modeled abundance chlorophyll a standards.
+curves constructed using parameters of the particular Net tows were made with a 20μm mesh plankton
+assemblage for three common models of community net of 0.45m diameter towed from 100m depth
+organization: geometric, log-normal and log-series. to the surface, except at some shallow stations
+Substituting size-class of oral diameter for 'species', sampled from 50 or 30m depth. A portion of the
+wealsodeterminedsize-classabundancedistributions. net tow material was fixed with Lugol’s fixative
+solution (2% final concentration) for direct micro-
+scopic examination. In the laboratory, multiple
+Materials and methods 1–2ml aliquots of net tow material were diluted
+and examined in 3ml settling chambers using an
+Sampling and sample analysis inverted microscope equipped with differential
+Data and samples were collected from onboard interference contrast optics. The entire surface of
+the Korean Research Icebreaker Araon from July to the settling chamber was examined at ×200 total
+September in 2012. Data presented here are from 22 magnification. Tintinnid identifications were made
+stationsdistributedbetweentheJapanSeaand82°N based on lorica morphology and following
+Figure2 LocationssampledbetweenlateJulyandearlySeptemberin2012rangingfromtheEastSea/SeaofJapan(1and2),acrossthe
+NorthPacific(3–8),theBeringSea(9–12),theChukchiSea(A–F)andtheHighArctic(GandH).Thesummerof2012wastheyearof
+recordlowseaiceextentallowingsamplingintheHighArcticSea.Seesupplementarydatafileforexactstationlocationsandsummary
+stationdata.
+TheISMEJournal
+
+Highlatitudeassemblages
+JRDolanetal
+2177
+Kofoid and Campbell (1929, 1939) and Hada (1937). The observed rank abundance distributions were
+We adopted a conservative approach, distinguishing compared with the hypothetical models using
+all forms corresponding to species currently recog- a Bayesian approach: an Akaike goodness of fit
+nized as valid. Species names, occurrences and LOD calculation (19). Using this approach, an Akaike
+diameters assigned are given in the supplementary Information Criterion was determined as the natural
+datafile.Aspreviouslydescribedandjustified(Dolan logarithmofthemean(sumdividedbyS)ofsquared
+et al., 2006, 2007, 2009, 2013), species of similar deviations between observed and predicted in
+ecologyintermsofpreferredpreysizeandmaximum (relative abundance) for all ranked S species plus
+growth rate were grouped based on (LOD). Each an additional term to correct for the number of
+specieswasassignedtheaveragedimensionsreported estimated parameters, k (1 for geometric series and
+inKofoidandCampbell(1929,1939)andHada(1937). 2 each for log-series and log-normal distributions):
+Size-class diameters were binned over 4μm intervals (S+k)/(S−k−2). The lower the calculated Akaike
+beginning with the overall smallest diameter (11μm) Information Criterion value, the better the fit.
+andcontinuingtothelargestdiameterencounteredin A difference of 1 in Akaike Information Criterion
+a given sample. corresponds roughly to a 1.5 evidence ratio; we
+Total sample volumes examined varied, depend- considered that a minimum difference of 1.0
+ing on the concentrations of organisms, and the between Akaike Information Criterion values was
+dilutions employed varied according to concentra- required to represent a significantly different fit
+tions of phytoplankton. However, multiple aliquots following Burnham and Anderson (2002).
+were examined until material from at least 100liters
+filtered by the net was analyzed for each station.
+Nominal concentrations of organisms (given in the Results and discussion
+supplementary file) were calculated based on the
+volume filtered by the net (calculated from net The expected latitudinal decline of species richness
+surface area and depth of the strata sampled) and was evident. In the East Sea/Sea of Japan species
+thevolumeofnettowmaterialexamined.Itshouldbe richnesswasmuchhigherthaninthehigherlatitude
+noted that the concentrations reported here are the systems. The East Sea/Sea of Japan also had higher
+average values per liter for the portion of the water cell and chlorophyll a concentrations. However,
+column sampled, for most stations the top 100m. plotting individual station data showed the decline
+inspeciesrichnessacrossthefivesystemstobemore
+closely relatable to sea surface temperature rather
+Data analysis than latitude, and independent of the abundance of
+Tintinnid assemblages were characterized by pooling tintinnid cells or chlorophyll concentrations
+data by system: East Sea/Sea of Japan stations 1–2; (Figure 3).
+North Pacific stations 3–8; Bering Sea stations 9–12, The dominant species in each assemblage (shown
+Chukchi Sea stations A–F and the High Arctic Sea in Supplementary Figure 1) were small-mouthed
+stations G–H. The parameters estimated for each of species,Proplectellaexpolita, Condonellopsisfrigida,
+thefivepopulationswerespeciesrichness,numberof Acanthostomella norvegica except in the North
+tracespecies(foundasasinglecell),numberofmouth Pacific where the relatively large-mouthed Ptycho-
+size-classes, proportion of size-classes containing cylis obtusa dominated. In each assemblage, the
+more than one species (multiple occupants) and the dominant species accounted for 45–86% of the cells
+number of apparently redundant species. We used encountered (Table 2). Overall, of the 31 species
+simplelinearcorrelationanalysistoexaminerelation- found most (25) were not widely distributed but
+shipsacrossallstationsbetweenspeciesrichnessand rather found in only in one or two of the systems
+latitude, water temperature, organismal concentra- sampled. In contrast, four species were found in all
+tions and chlorophyll a concentrations. five populations sampled. These widespread forms
+For each assemblage we examined the patterns of werefourofthesixspeciesfoundintheHighArctic
+both species abundance distribution and the abun- Sea. Thus, the few species found in the High Arctic
+dance distributions of LOD size-classes. We first are mostly the widely distributed forms (for details
+made log-rank abundance curves by calculating distributions of each species distributions see the
+relative abundance for each species and ranking supplementary data file ‘species data’).
+species from highest to lowest and plotting ln The populations in the East Sea/Sea of Japan
+(relative abundance) vs rank. Then, we constructed differed considerably from all of the high latitude
+hypothetical log-rank abundance curves that could assemblages (Table 1). Overall species richness was
+fit the data by using parameters of the particular similar to that reported for stations from the
+assemblage. We produced curves for three common California Current system in the Eastern Pacific at
+modelsofcommunityorganization:geometricseries, about the same latitude (Dolan et al., 2013). The 25
+log-series and log-normal, as in several previous speciesoftheEastSea/SeaofJapanassemblagewere
+studies (Raybaud et al., 2009; Claessens et al., 2010; distributed in 11 size-classes, most of which were
+Doherty et al., 2010; Dolan et al., 2007, 2009, 2013; occupied by more than one species. Thus, a large
+Dolan and Stoeck, 2011). portion of the species pool was composed of
+TheISMEJournal
+
+Highlatitudeassemblages
+JRDolanetal
+2178
+Figure 3 Relationship of species richness of the tintinnid assemblages to: latitude, sea surface temperature (top 10m), average
+chlorophyll concentration (top 100m), andthe abundance of tintinnids. Therewere significant(Po0.01) negativelinear relationships
+betweenspeciesrichnessandlatitude(r=0.6,n=21)andseasurfacetemperature(r=0.81,n=20).ES/SJindicatesEastSea/SeaofJapan.
+Seesupplementarydatafileforthedata.
+Table1 Summaryofdatabyregion
+Region Cellsenumerated Species Tracespecies Size-classes Size-classesco-habitated Redundantspp
+EastSea/SeaofJapan 2203 25 5 11 7(63%) 14
+NorthPacific 2566 13 4 8 4(50%) 5
+BeringSea 2255 13 2 9 3(33%) 6
+ChukchiSea 2038 8 1 7 1(14%) 1
+HighArctic 2496 6 0 6 0(0%) 0
+Tracespeciesarespeciesfoundasasingleindividual.Numberofsize-classescontainingmorethanonespeciesgivenassize-classesco-habitated.
+Numberofredundantspeciesisthenumberofspeciesinexcessofthenumberofsize-classes.
+‘ecological redundants’, species occupying a size- assemblage resembled that of the North Pacific in
+classalongwithoneormoreotherspecies.Thesize- species richness. The assemblage formed nine size-
+class containing the largest number of species was classes with the dominant species, Codonellopsis
+that of the dominant species, Proplectella expolita, frigida, sharing a size-class with two redundant
+which was accompanied by three other species. The species. Two other redundant species shared the
+five rare or ‘trace’ species (those found as a single size-class of the second most abundant species
+individual) were redundants with one exception. Parafavella parumdentata. The two trace species
+Thus, only one rare form was distinct from all other were alone in their size-class.
+species in terms of mouth size. Low species richness characterised both Arctic
+Compared with the East Sea/Sea of Japan, the assemblages (Table 1). In the Chukchi Sea the eight
+North Pacific assemblage was composed of fewer species found were distributed in seven size-classes
+species and these were distributed in fewer size- with only the size-class of the dominant species,
+classes (Table 1). Half the size-classes contained Acanthostomella norvegica, containing a redundant
+redundantsastheywere occupied bymore than one species. The single trace species was alone in its
+species. The dominant species, the large-mouthed size-class. The High Arctic population, dominated
+Pytchocylis obtusa, was alone in its size-class. None byPtychocylisobtusa,wassingularinhavingneither
+of the trace species formed a distinct size-class, rare species nor redundant species; all six species
+all appeared to be redundants. The Bering Sea found were in distinct size-classes. The latitudinal
+TheISMEJournal
+
+Highlatitudeassemblages
+JRDolanetal
+2179
+decline in species richness we found from the East ‘species’ is genetically distinct from that in the High
+Sea/Sea of Japan to the High Arctic represented Arctic would not change species inventories or
+declines in numbers of redundant and trace species. distributions for the geographically distinct assem-
+Notably, although there were many fewer species in blages. Given that cryptic forms of tintinnids appear
+the high latitudes, the total overall size range of tobesegregatedeithertemporally,thatis,seasonally
+LODs found in the assemblages, 11–75μm, was (Xu et al., 2012) or spatially, that is, distinct water
+invariant across all the assemblages. masses (Santoferrara et al., 2015), they are unlikely
+The data reported here are from a summer time to represent hidden diversity within an assemblage.
+sampling as is the case for most studies of high Hence, in comparing assemblages from different
+latitude plankton. In lower latitude coastal systems systems the true problematic phenomenon is poly-
+seasonal changes in species richness of tintinnid morphismthatmayinflateapparentspeciesrichness
+assemblages are well documented and summer is of an assemblage. If the five Parafavella species
+usually a period of low diversity (reviewed in Dolan distinguished here (all found in low numbers: 1–5
+and Pierce, 2013). Few data exist concerning cells per assemblage, see Supplementary data file)
+seasonality in open water systems, especially in are revealed to be a single species, the species
+arctic and sub-arctic waters owing to the technical richness of the assemblages of the East Sea/Sea of
+difficultyofsamplinginperiodsotherthansummer. Japan, North Pacific and Bering Sea may be slightly
+The gradient we found may be more prominent in lower than the numbers reported here.
+other seasons, for example, when the ice cover is Besides species richness, differences between the
+maximal in the Chukchi Sea and High Arctic. EastSea/SeaofJapanassemblageandhigherlatitude
+Also worth noting is that rather than harboring populationswerealsoevidentinthestructuresofthe
+cryptic species, some species of the high latitude assemblages. The patterns of species abundance
+assemblages have long been suspected to be poly- distributions as well as the abundance distributions
+morphic, having variable loricas, which perhaps of size-classes differed among the assemblages
+have been designated wrongly as distinct species. (Table 2 and Figure 4). Species abundance distribu-
+Among these suspected polymorphs are Parafavella tions of most of the high latitude populations were
+spp (Burkovsky 1973; Davis 1978) of which five are best fit by a geometric distribution in contrast to
+reported here (see Supplementary data file). The the log-series distribution of the East Sea/Sea of
+phenomenonof cryptic speciesin tintinnids (that is, Japan (Table 3). For the High Arctic population no
+Santoferrara et al., 2015) may be less common single distribution pattern provided a significantly
+compared with polymorphism as there are species better fit.
+known to display different lorica morphologies, but Long-tailed log or log-series distributions, with
+of the same LOD, previously described as different large numbers of relatively rare species, are com-
+species and/or genera (that is, Laval-Peuto, 1983; monly observed for most natural assemblages
+Kim et al., 2013; Bachy et al., 2012). At present it is (McGill et al., 2007). Long-tailed distributions are
+not clear which phenomenon is more common. typical of abundance curves of planktonic protists
+Among tintinnids and foraminfera cryptic species determined using molecular techniques (for exam-
+are generally segregated either temporally or spa- ple, Brown et al., 2009; Edgcomb et al., 2011; Orsi
+tially (for example, de Vargas et al., 1999; Xu et al., et al., 2012; Bachy et al., 2013). Notably, the pattern
+2012; Santoferrara et al., 2015), whereas in poly- can be partially the result of problems arising from
+morphic species the different morphotypes occur sequencing errors and differential sequencing of
+together (for example, Dolan et al., 2013, 2014; different taxa, issues which require attention (for
+Dolan, 2015). example, de Vargas et al., 2015).
+The most likely candidates for crypticism are The species abundance distribution of the East
+the widespread species, those found from the Sea/Sea of Japan assemblage was best fit by a log
+East Sea/Sea of Japan to the high Arctic such as model(Table3). Logdistributions,either log-normal
+Ptychocylis obtusa and Acanthostomella norvegica. or log-series are associated with a multitude of
+These species inhabit waters ranging in temperature factors governing relative species abundance in the
+from 20° to −2°C. However whether or not, for caseofthelog-normal,orimmigrationandextinction
+example, an East Sea/Sea of Japan population of a from a metapopulation in the case of log-series
+Table2 Identityofthedominantspeciesintheassemblages
+Region Dominantspecies %totalcells No.otherspeciesintheirsize-class Apparentrange
+EastSea/SeaofJapan Proplectellaexpolita 65 3 EastSea/SeaofJapanonly
+NorthPacific Ptychocylisobtusa 45 0 All
+BeringSea Codonellopsisfrigida 45 2 AllbutHighArctic
+ChukchiSea Acanthostomellanorvegica 52 1 All
+HighArctic Ptychocylisobtusa 86 0 All
+Notethatdominantsaccountedforalargeportionofthepopulationinall5systemsandmosthadawideapparentrange.
+TheISMEJournal
+
+Highlatitudeassemblages
+JRDolanetal
+2180
+(that is, Hubbell, 2001). Substituting size-classes for Rare species, although low in abundance, may have
+species, similar differences were evident as the log- important roles if they possess key functional traits
+normal distribution of the East Sea/Sea of Japan differentfromabundantspecies(Mouillotetal.,2013).
+population contrasted with the mostly geometric Intheprotistan‘rarebiosphere’,rarespeciesmaybeof
+distributions of the high latitude assemblages importance because they can become abundant if
+(Table 3). A geometric distribution represents the conditions change favoring different species with
+result of a priority exploitation of resources by certain characteristics (Caron and Countway, 2009).
+individualspeciesinacommunityandisclassically Admittedly, rare species can also be of minor
+associated with 'immature' or pioneer communities ecologicalimportance,asinmembersofthe‘acciden-
+limited by a single resource such as space (for tal rare biosphere’ (Weisse, 2014). Regardless of the
+example, Whittaker, 1972). This distribution is also nature of the rare tintinnid species we found, their
+thought to characterize assemblages of low species numbersdecreasedmarkedlywithlatitude(Figure5).
+richness or severe environments (Wilson, 1991). In
+Antarctic waters, a geometric species abundance
+distribution was found to describe the species
+abundance distribution of the entire planktonic Table3 Resultsofmodelingabundancedistributionpatterns
+ciliate community (Wickham et al., 2011). In
+tintinnid assemblages, the geometric distribution of Region Log-normal Geometric Log-series
+LOD size-class abundance is most simply attributa-
+ble to availability of prey concentration and size Speciesabundancedistributionfits
+EastSea/SeaofJapan 3.2 5.8 2.7
+given the close relationship between LOD size and
+NorthPacific 3.8 1.9 3.9
+prey exploited by tintinnids (Dolan, 2010). BeringSea 3.3 0.0 3.4
+The species found in trace concentrations, just 1 ChukchiSea 4.0 2.6 4.3
+individualin100liters,canbeconsidered‘rare’.The HighArctic 5.5 4.8 5.7
+phenomenonofrarespecieshasreceivedagooddeal
+Size-classabundancedistributionfits
+ofattention(forexample,Gaston,1994).Rarespecies
+EastSea/SeaofJapan 1.8 4.9 2.4
+have become a focus in biodiversity conservation NorthPacific 4.4 3.7 4.7
+(for example, Lyons et al., 2005). In microbial BeringSea 4.4 1.9 4.7
+ecology, the results from high-throughput sequen- ChukchiSea 4.6 3.8 4.9
+HighArctic 5.5 4.8 5.7
+cing commonly suggest the existence of very large
+numbers of apparently rare species, present in low
+LowestAICvalues(inbold)indicatethebestmodelfit.Multiplevalues
+concentrations (for example, Dunthorn et al., 2014). inboldindicateindistinguishablefits(differenceso1).
+Figure4 Observedabundancedistributionsoftintinnidassemblages:speciesabundancedistributions(spp)andsize-classabundance(S-
+C) for pooled populations of each of the five systems sampled. ES/SJ indicates East Sea/Sea of Japan. See Table 3 for the results of
+modelingtheabundancedistributionshown.
+TheISMEJournal
+
+Highlatitudeassemblages
+JRDolanetal
+2181
+hemisphererepresentsdeclinesinthevarietyofforms
+in an assemblage and species redundancy. Conse-
+quently, there appears to be a latitudinal gradient in
+the capability of assemblages to adapt to environ-
+mental changes in least with regard to size-spectra of
+available prey items or the loss of a particular
+dominant species. The latitudinal diversity gradient
+in another group of planktonic protists, foraminifera,
+appears closely related to temperature over a wide
+variety of time scales (Yasuhara et al., 2012), suggest-
+ing temperaturehasa preponderant role indetermin-
+ing species richness. If changes in species occur with
+distributions shifted northward, Arctic assemblages
+may become slightly more species-rich and increases
+inspeciesrichnesswouldlikelyincreasethenumbers
+Figure5 Therelationshipsbetweentheaveragelatitudesampled of redundant species. Theoretically, as redundancy
+for each of the five assemblages and the portion of redundant
+among species increases ecosystem stability (Naeem,
+speciesfound(squares)andthenumbertracespeciesencountered
+(circles). Significant (Po0.01) negative linear relationships with 1998),globalclimatechangemayincreasethestability
+latitudeareevidentforboththe%ofspeciespoolasredundants of high latitude ecosystems. However, the relatively
+(n=5,r=0.984)andthenumberoftracespecies(n=5,r=0.987). small species pools of the northern high latitude
+assemblages suggest a low capacity to adapt to
+Using our non-exclusive categories, a species changing conditions.
+found as a single cell is defined as rare but if it
+is in the same LOD size-class as another species, it
+is also a redundant. However, the majority of
+Conflict of Interest
+redundant species were not rare but relatively
+abundant, as they were found in far greater than The authors declare no conflict of interest.
+trace concentrations. Redundants were most numer-
+ous in the size-classes of the dominant species and
+Acknowledgements
+can likely replace a dominant species, for example,
+onesubjectedtoahighrateofspecificmortalityfrom
+The comments and suggestions of Dave Montagnes, three
+a parasite or predator (that is, Coats and Bachvaroff, reviewers and the editor on previous versions led to
+2012). A species can change roles from a minor to significant improvement in the manuscript. Financial
+a major role. In temperate and sub-tropical assem- supportwasprovidedbytheCNRS(France).Thisresearch
+blages of tintinnids, a species can be dominant in was part of the project titled ‘Korea-Polar Ocean in Rapid
+Transition(KOPRI,PM15040)’,fundedbytheMOF,Korea.
+one population and a redundant in another (Dolan
+etal.,2013).IntheBeringSea,Codonellopsisfrigida
+wasthedominantformwhereasinChukchiSeawas
+a redundant species. It has been argued that the
+existence of redundant species should increase the
+References
+capability of an assemblage to exploit changes in
+conditions (Naeem, 1998). Like rare species, we
+Adams J. (2009). The Holy Grail of ecology: latitudinal
+found redundant species declined in relative impor-
+gradients.In'SpeciesRichness:PatternsintheDiversity
+tance with latitude (Figure 5). ofLife'.Springer:Berlin,Germany,pp47–95.
+AgathaS,Strüder-KypkeMC.(2012).Reconcilingcladistic
+andgeneticanalysesinchoreotrichidciliates(Protists,
+Spirotrichea, Oligotrichea). J Eukaryot Microbiol 59:
+Conclusion
+325–350.
+We found the latitudinal decline in species richness Agatha S, Laval-Peuto M, Simon P. (2013). The tintinnid
+lorica.In:DolanJR,MontagnesDJS,AgathaS,CoatsDW,
+of tintinnid ciliates corresponded to fewer rare
+StoeckerDK(eds).TheBiologyandEcologyofTintinnid
+species, fewer presumed redundant species and
+Ciliates: Models for Marine Plankton. Wiley-Blackwell:
+fewer size-classes but without a reduction in the
+Oxford,UK,pp17–41.
+total range of size-classes present. Overall, declines
+Bachy C, Gómez F, López-García P, Dolan JR, Moreira D.
+were in the numbers of species accompanying the
+(2012). Molecular phylogeny of tintinnid ciliates
+dominant forms. Interestingly, the dominant forms (Tintinnida, Ciliophora). Protist 163: 873–887.
+remained more or less the same set of species. The
+BachyC,DolanJR,López-GarcíaP,DeschampsP,Moreira
+declines were then in presumed redundant species D. (2013). Accuracy of protist diversity assessments:
+andnumbersofrarespecies.Bothcategoriesdeclined morphology compared to cloning and direct pyrose-
+with latitude to apparent zero values in the High quencingof18SrRNAgenesandITSregionsusingthe
+Arcticassemblage(Table1andFigure5).Thedecline conspicuoustintinnidciliatesasacasestudy.ISMEJ7:
+in species richness with latitude in the Northern 244–255.
+TheISMEJournal
+
+Highlatitudeassemblages
+JRDolanetal
+2182
+Brown MV, Philip GK, Bunge JA, Smith MC, Bissett A, protists) are structured by mouth size. ISMEJ 7:
+LauroFMetal.(2009).Microbialcommunitystructure 1237–1243.
+inthe NorthPacific Ocean.ISMEJ 3: 1374–1386. Dolan JR, Yang EJ, Lee SH, Kim SY. (2013). Tintinnid
+BurkovskiiIV.(1973).VariabilityofParafavelladenticulata ciliates of the Amundsen Sea (Antarctica) Plankton
+inthe WhiteSea.Zoologicheskii Zh 52:1277–1285. Communities. PolRes 32: 19784.
+Burnham KP, Anderson DR. (2002). Model selection Dolan JR, Pierce RW, Bachy C. (2014). Cyttarocylis
+and multi-model inference: a practical information- ampulla,apolymorphicciliateofthemarineplankton.
+theoreticapproach.Springer:New York, NY, USA. Protist 165:66–80.
+Caron DA, Countway PD. (2009). Hypotheses on the role DunthornM,StoeckT,ClampJ,WarrenA,MahéF.(2014).
+of the protistan rare biosphere in a changing world. Ciliates and the rare biosphere: a review. J Eukaryot
+AquatMicrob Ecol57:227–238. Microbiol 61: 404–409.
+Claessens M, Wicjkham SA, Post AF, Reuter M. (2010). Edgcomb V, Orsi W, Bunge J, Jeon S, Christen R, Leslin C
+A paradox of the ciliates? High ciliate diversity et al. (2011). Protistan microbial observatory in
+in a resource-poor environment. Mar Biol 157: the Cariaco Basin, Caribbean. 1. Pyrosequencing vs
+483–494. Sanger insights into species richness. ISMEJ 5:
+1344–1356.
+Coats DW, Bachvaroff TR. (2012). Parasites of tintinnids.
+In: Dolan JR, Montagnes DJS, Agatha S, Stoecker DK Gaston KJ, Spicer JI. (2003). Biodiversity: an introduction.
+(eds). The Biology and Ecology of Tintinnid Ciliates: 2ndedn. BlackwellPublishing: Oxford,UK.
+ModelsforMarinePlankton.Wiley-Blackwell:Oxford, GastonKJ.(1994). Rarity. Chapman& Hall:London,UK.
+UK, pp 146–170. HadaY.(1937).ThefaunaofAkkeshiBayIV.Thepelagic
+Davis CC. (1978). Variations of the lorica in the genus ciliata. J Fac Sci Hokkaido Imperial Univ, Series 6,
+Zool5: 147–216.
+Parafavella (Protozoa: Tintinnida) in northern
+Norwaywaters. CanJ Zool56:1822–1827. Hubbell SR. (2001). The unified neutral theory of biodi-
+versity and biogeography. Princeton University Press:
+deVargasC,NorrisR,ZaninettiL,GibbSW,PawlowskiJ.
+Princeton,USA.
+(1999). Molecular evidence of cryptic speciation in
+Kim SY, Choi JK, Dolan JR, Shin HC, Lee S, Yang EJ.
+planktonic foraminifers and their relation to oceanic
+provinces.Proc NatlAcad SciUSA 96:2864–2868. (2013).MorphologicalandribosomalDNA-basedchar-
+acterization of six Antarctic ciliate 5 morphopecies
+deVargasC,AudicS,HenryN,DecelleJ,MahéF,LogaresR
+from the Amundsen Sea with phylogenetic analyses.
+et al. (2015). Eukaryotic plankton diversity in the
+J EukaryotMicrobiol 60: 497–513.
+sunlitocean.Science348:1261605.
+Kofoid CA, Campbell AS. (1929). A Conspectus of the
+DohertyM,TamuraM,CostasBA,RitchieME,McManusGB,
+Marine and Freshwater Ciliata Belonging to the
+KatzLA.(2010).Ciliatediversityanddistributionacross
+suborder Tintinnoinea, with Despcriptions of New
+an environmental and depth gradient in Long Island
+Sound,USA.EnvironMicrobiol12:886–898. SpeciesPrincipallyfromtheAgassizExpeditiontothe
+Eastern Tropical Pacific 1904-1905. Univ Calif Publ
+Dolan JR. (2010). Morphology and ecology in tintinnid Zool34: 1–403.
+ciliates of the marine plankton: correlates of lorica
+Kofoid CA, Campbell AS. (1939). The Ciliata: The
+dimensions. Acta Protoz 49: 235–244.
+Tintinnoinea,84:BulletinoftheMuseumofCompara-
+Dolan JR. (2011). The legacy of the last cruise of the tiveZoology:Harvard, USA,pp 1–473.
+Carnegie:alessoninthevalueofdustyoldtaxonomic
+Laval-Peuto M. (1983). Sexual reproduction in Favella
+monographs. J PlankRes 33: 1317–1324.
+ehrenbergii (Ciliophora, Tintinnina). Taxonomical
+Dolan JR. (2015). Planktonic protists: little bugs pose big implications. Protistologica 29:503–512.
+problems for biodiversity assessments. J Plank Res;
+Laval-Peuto M, Brownlee DC. (1986). Identification and
+doi:10.1093/plankt/fbv079.
+systematics of the Tintinnina (Ciliophora): evaluation
+DolanJR,PierceRW.(2013).Diversityanddistributionsof
+and suggestion for improvement. Ann Inst Océanogr
+tintinnids. In: Dolan JR, Montagnes DJS, Agatha S, Paris62: 69–84.
+Stoecker DK (eds). The Biology and Ecology of
+Lima-Mendez G, Faust K, Henry N, Decelle J, Colin S,
+Tintinnid Ciliates: Models for Marine Plankton.
+Carcillo F et al. (2015). Determinants of community
+Wiley-Blackwell: Oxford, pp 214–243. structure in the global plankton interactome. Science
+Dolan JR, Stoeck T. (2011). Repeated sampling reveals 348:1262073.
+differential variability in measures of species richness Lyons KG, Brigham CA, Traut BH, Schwartz MW. (2005).
+and community composition in planktonic protists. Rare species and ecosystem functioning. Conserv Biol
+Environ MicrobiolRep 3:661–666. 19: 1019–1024.
+Dolan JR, Jacquet S, Torreton J-P. (2006). Comparing McGill BJ, Etienne RS, Gray JS, Alonso D, Anderson MJ,
+taxonomic and morphological biodiversity of tintin- BenechaHKetal.(2007).Speciesabundancedistribu-
+nids (planktonic ciliates) of New Caledonia. Limnol tions: moving beyond single prediction theories to
+Oceanogr 51: 950–958. integration within an ecological framework. Ecol Lett
+Dolan JR, Ritchie MR, Ras J. (2007). The neutral commu- 10: 995–1015.
+nity structure of planktonic herbivores, tintinnid Montagnes DJS. (2013). Ecophysiology and behavior of
+ciliates of the microzooplankton, across the SE tintinnids. In: Dolan JR, Montagnes DJS, Agatha S,
+Pacific Ocean.Biogeosciences4:297–310. Stoecker DK (eds). The Biology and Ecology of
+Dolan JR, Ritchie ME, Tunin-Ley A, Pizay M-D. (2009). Tintinnid Ciliates: Models for Marine Plankton.
+Dynamics of core and occasional species in the Wiley-Blackwell: Oxford, UK, pp 85–121.
+marine plankton: tintinnid ciliates of the N.W. Moulllot D, Bellwood DR, Baraloto C, Chave J, Galzin R,
+Mediterranean Sea.J Biogeogr 36: 887–895. Harmelin-Vivien M et al. (2013). Rare species support
+Dolan JR, Landry MR, Ritchie ME. (2013). The species- vulnerable functions in high diversity ecosystems.
+rich assemblages of tintinnids (marine planktonic PLoSBiol 11:e1001569.
+TheISMEJournal
+
+Highlatitudeassemblages
+JRDolanetal
+2183
+Naeem S. (1998). Species redundancy and ecosystem Whittaker RH. (1972). Evolution and measurement of
+reliability. Conserv Biol12: 39–45. species diversity. Taxon21: 213–251.
+Orsi W, Song YC, Hallam S, Edgcomb V. (2012). Effect of Wickham SA, Steinmair U, Kamennaya N. (2011). Ciliate
+oxygen minimum zone formation on communities of distributionsandforcingfactorsintheAmundsenand
+marineprotist. ISMEJ 6: 1586–1601. BellinghausenSeas(Antarctic).AquatMicrobEcol62:
+Rutherford S, D'Hondt S, Prell W. (1999). Environmental 215–230.
+controlsonthegeographicdistributionofzooplankton Willig MR, Kaufman DM, Stevens RD. (2003). Latitudinal
+diversity. Nature 400:749–752. gradients of biodiversity: patterns, process, scale and
+Raybaud V, Tunin-Ley A, Ritchie ME, Dolan JR. (2009). synthesis. AnnuRev EcolSyst 34: 273–309.
+Similarpatternsofcommunityorganizationcharacter- Wilson JB. (1991). Methods for fitting dominance/
+ize distinct groups of different trophic levels in the diversity curves. J VegSci 2: 35–46.
+plankton of the NW Mediterranean Sea. Biogeos- Xu D, Sun P, Shin MK, Kim YO. (2012). Species
+ciences6:431–438. boundaries in tintinnid ciliates: A case study -
+SantoferraraLF,TianM,AlderVA,McManusGB.(2015). Morphometric variabilty, molecular characterisation,
+Discrimination of closelyrelatedspecies in tintinnid and temporal distribution of Helicostomella species
+ciliates: New insights on crypticity and polymorph- (Cciliophora, Tintinnina). J Eukaryot Microbiol 59:
+ism in the Genus Helicostomella. Protist 16: 351–358.
+78–92. YasuharaM,HuntG,DowsettHJ,RobinsonMM,StollDK.
+Weisse T. (2014). Ciliates and the rare biospher- commu- (2012).Latitudinalspeciesdiversitygradientofmarine
+nity ecology and population dynamics. J Eukaryot zooplankton for the last three million years. Ecol Lett
+Microbiol 61:419–433. 15:1174–1179.
+SupplementaryInformationaccompaniesthispaperonTheISMEJournalwebsite(http://www.nature.com/ismej)
+TheISMEJournal
+

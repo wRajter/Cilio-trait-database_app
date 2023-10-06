@@ -1,0 +1,575 @@
+1 41 9
+Aquatic Sciences 5113, 1989 1015-1621189/030235 -14 $ 1.50 + 0.2010
+© 1989 Birkhiiuser Verlag, Basel
+On the ecology of ciliates in riverwaters: The evaluation of
+water quality via ciliates and filamentous bacteria
+Fred Stoessel
+EAW AG/ETH, UeberlandstraBe 133, CH-8600 Diibendorf
+Key words: Ecology; ciliates; river; water quality; sphaerotilus.
+ABSTRACT
+Since sewage treatment plants are most effective in Switzerland, the micro-benthic communities in receiv-
+ing running waters have changed considerably. From January 1980 to September 1981 the periphyton
+communities in 13 Swiss streams and rivers were monthly investigated. The NH,-N concentration in these
+waters varied between 0.015 and 1.0 mg/I. Four typical communities of microorganisms were found:
+In unpolluted running waters mainly small vagile ciliates were abundant; in slightly polluted waters perit-
+richa (in the presence of bacteria) were found; in moderatly polluted waters peritricha in combination of
+few hymenostomata and Sphaerotilus could grow when bacteria and some degredable organic material
+where present; in polluted waters the well-known Spaerotilus-community (after Liebmann) could be
+found.
+The microscopic as well as the macroscopic aspect should be considered to qualify the degree of pollution
+in streams and rivers.
+1. Introduction
+The 'Allgemeine Gewasserschutzverordnung' prescribes ongoing surveillance of
+underground and surface waters (1) and water-quality targets are outlined in article 1
+of the 'Verordnung uber Abwassereinleitungen' (18). The statement that confor-
+mity with waterquality guidelines be verified is much easier than fulfilling such a
+requirement, because fluctuations in the concentrations of dissolved substances, as
+well as temporal and local factors, make controls particularly difficult to carry out
+(10, 14). Over a two-year period, Jakob (11, 12) removed random samples from a
+moderately polluted river at hourly intervals. Within a single day, he detected up to
+60-fold variations in the concentration of ammonium-nitrogen and even on average,
+concentrations varied by a factor of 8. This problem can be solved by using longer-
+term integrated sampling techniques (7). However, this raises the question of how
+far the values measured by such techniques, which are obviously suitable for the cal-
+culation of pollution burdens, are applicable for the evaluation of the real condition
+of rivers and it seems probable that only biological parameters could satisfy such a
+requirement. In 1971 Warren (19) commented that properly used, biological indices
+can give early warnings. Our conception of the relationship between society and
+
+236
+Stoessel
+water pollution as well as our knowledge of the responses of communities to environ-
+mental change determine the usefulness of such biological indices.
+Thanks to the success of a major anti-pollution programme, running waters in Swit-
+zerland are presently only slightly polluted. In saprobiological terminology, they
+mainly fall in the categories from oligo- to J3-mesosaprobic. There are very few
+entirely or partially o.-mesosaprobic rivers and, with the exception of a few heavily
+polluted stretches of streams, the polysaprobic category is also largely absent.
+As early as 1974/75, we attempted to use ecological criteria in the study of rivers (15).
+However, the necessary chemical and biological data bases were inadequate for reli-
+able evaluation. Therefore, in order to improve the data base for ecological evalua-
+tion, specific long-term observations at 17 sites on selected rivers were undertaken in
+1980/81.
+This paper deals with the approximate structure of "Aufwuchs" with different kinds
+of loadings, but specific species distributions are not emphasized. For the experi-
+mental biologist this requires less detailed work than would have been needed if pre-
+cise taxonomic distinctions had been made. Nevertheless, the classification of the
+water-quality of running waters demands knowledge of both appropriate sampling
+methods and about the character and hydrography of the water course under investi-
+gation (17).
+2. Method
+2.1 The Sampling Sites
+The 17 sites lie on 16 different rivers and streams throughout Switzerland. Their
+geographical position has been described by Frutiger 1985 (9). All sites were visited
+at approximately monthly intervals from January 1980 to September 1981. Four of
+the sites are not mentioned in this report for the following reasons: three of these are
+located on streams formed from glacial melt, which are cloudy during the summer;
+the fourth is a very small mountain stream which, in many respects, cannot be com-
+pared with the other, larger rivers. In the field studies, both macro-and microinver-
+tebrates were examined simultaneously, thus, the sampling sites were spread over
+the whole of Switzerland in order to cover diverse zoogeographical regions, even
+though protozoa are less affected by geographical location than macroinvertebrates.
+2.2 Sampling of ciliate and filamentous bacteria
+As in previous investigations (16), the material for the study of protozoan fauna was
+taken from growth on stones. The sampling procedure and the quantification of the
+sample is extensively described by Stossel 1986 (17). Microscopic examination was
+performed on site immediately after sampling, to avoid changes resulting from lack
+of food, predation, oxygen loss or temperature changes in the sampling vessels. The
+presence of macroscopically visible peritricha colonies and the abundance of
+Spaerotilus natans were record.
+
+Ciliates in riverwaters 237
+The peritrichous ciliates were recorded under the following categories:
+a) no visible colonies
+b) colonies discernible as fine traces
+c) colonies present as thick, readily visible films.
+Table 1. Assessment criteria for Sphaerotilus abundance. Since growth is strongly influenced by high
+water levels, only results from samples taken at least 14 days after the last "high water" were included in
+this study, thus ensuring that all growth had occurred in the absence of mechanical disturbance.
+Description
+0 no Sphaerotilus visible, even microscopically, in samples of growth on stones.
+1 isolated bacterial strands in microscopic preparation
+2 a small number of bacterial strands in microscopic preparation
+3 frequent Sphaerotilus strands in microscopic preparation
+4 numerous Sphaerotilus strands in microscopic preparation, Sphaerotilus also visi-
+ble beneath stones with naked eye
+5 Sphaerotilus visible macroscopically in large quantities
+2.3 Chemical Reference Parameters
+In order to characterize the local conditions, chemical parameters were measured in
+random water samples. However, few of these parameters exert any direct influence
+on ciliates, therefore, they will be referred to as reference parameters. A sample was
+taken at the beginning and the end of each biological sampling period, and trans-
+ported to the laboratory in isolated vessels. From the more than thirty measured
+parameters, ammonium-nitrogen and total-phosphorus were selected for this
+report. The measured values are depicted in figures 1aand1 b. Although the study
+deliberately included heavily polluted rivers, the variation of the median values is
+very small. Therefore, since the values of the individual concentrations (particularly
+NH -N) were very scattered and their distribution rarely fitted any of the common
+4
+distribution functions, the median values were used for further analysis.
+3. Results
+3.1 The dependence of peritrichous ciliate incidence on chemical pollution
+Data evaluation is based on the classifications given in the 'Empfehlungen iiber die
+Untersuchung der schweizerischen Oberfliichengewiisser' (7), which defines pollu-
+tion classes from unpolluted to heavily polluted for a number of parameters. In
+figures 2 a to 2 c, the mean value of the total-phosphorous in the filtrate is plotted
+against the number of peritrichous ciliate species present. To take into account poss-
+ible seasonal variations in conditions, the results from summer (1st April to 31st
+October) and winter are presented separately in figures 2 a and 2 b. With two excep-
+tions in both half years, the number of species increases with increasing phosphorus
+pollution. The first exception, the Biinz (BU), is a small river in the Alpine foothills,
+heavily polluted by the effluent from villages and a large abattoir (Qmean ca. 2 m3/s ).
+
+238
+Stoessel
+3
+Phosphor im Filtrat
+1c3
+6
+3
+1if
+6
+3
+101
+6
+3
+100
+6
+3
+( ~ I : I:" l lJ )l l) ct : N::o J : cc3 . c.:: , : c~ ..:, ( I ( ( II-.I I ." l ll,I Il ll) ~ :(I I3 ;Il l: -l l: 0:= ( :' J )I :( C ( C: I/ JD DI) '.t 0 < C. Do, cC< : 0 C: cD DJ ( c N C/ : D ) C:.( 0 :. DJ/ , ) c ! N.m 2c., . .
+( '
+I
+(II CD
+(') Ill
+Ill
+}i:
+winter values
+'• maximum values
+••.• medium values
+, minimum values etc.
+summer values
+Figure 1 a. Maximum and minimum values in mg/I of the reference parameter total-phosphorus in the
+filtrate and NH-N. Average number of values per sampling site used for the calculations: in winter 12
+4
+(Biinz 8), and in summer 24 (Biinz 11).
+In the Biinz, the peritrichous diversity was small throughout the period of the investi-
+gation. The Cassarate (CA), the second exception, is also heavily polluted with
+untreated water at the sampling site. The peritrichous diversity during the summer
+was twice that of the winter period. This may be caused by the often much higher
+flow rate in summer (16); the consequent dilution of the untreated effluent allowing
+a greater species diversity. Without this large dilution, the concentration of sewage
+water would increase significantly over the summer period, because of the large
+increase in the number of visitors to the near-by holiday resorts. In the Ergolz (ER),
+the problem is different: here during the summer, up to 17 different species of peri-
+
+Ciliates in riverwaters 239
+6
+4 NH4-N
+I
+2
+10°
+~
+7
+5 ~t f~
+3 ~~
+.·.i::·::.:.:.i :
+2
+I
+:.I i
+10-1
+I
+7 ~ I I ~1:
+5 I I
+t~ I
+3 I .
+2 ~ I
+I .
+10-2 ~;~{
+7
+5
+0 I i : ( I:l i ' l)I l li 0C N:: D I Ic~ . C.:. c.~ .:. 0 I I I ~ I-l ll ll l l l i :I;I ei l: ;l . ll ·: ·. 0:(: :': ) II ( IC C:: l/ D DI l) <C. 0 C. DD. I< C 0: CC:D D I ( c N C/ : D ) C:0.( . : D/ . I) I.m 2 NC.. .
+Ill
+(') CD Ill
+Ill
+Figure lb. Maximum and minimum values in mg/I of the reference parameter NH-N. For further infor-
+4
+mation see figure la.
+trichous ciliates were found simultaneously. The median concentrations of the
+chemical reference parameters, however, remained close to their winter levels, even
+though the volume of effluent approximately halved during the summer period: with
+the exception of NH -N (figure 1 a) whose concentration sank to a median of a little
+4
+over 1 mg/I.
+If the total-phosphorus values over the whole sampling period are plotted against the
+maximum number of species detected, then here too a reduction in diversity above
+300mg/l phosphorus is apparent. Although no correlation is evident in figure 3,
+trends present in figures 2 a and 2 c are confirmed. Again, the Cassarate and the
+Biinz are on the right hand side, suggesting less diversity than the level of pollution
+would imply. According to the guidelines laid down in the 'Empfehlungen iiber die
+Untersuchung schweizerischer Oberflachengewasser' (7), the overall range of val-
+ues for total phosphorus in the filtrate and ammonium-nitrogen for both these rivers
+imply that they would fall into the 'heavily polluted' category.
+
+240
+Stoessel
+PERITRICHA PERITRICHA
+r 20-r~~~~~~~~~~..J....~~~~....uc__,_
+I
+.••
+12 18
+EA•/
+/•u ... •""
+12
+II . .., .
+··. /·
+/
+" • lrIH
+SE~
+,......../•so
+---·-·---------·
+10I ' 2 ' 4 56789 11 0 ' 2 ' 4 56769 '"1 2 ' 4 56789 to1 ' ~1 2 3 4 5678 ~ t 2 3 4 5678 ~ 1 2 3 4 5678 ~ 1
+P FILTA. P FILTR.
+,., ,.,
+Curve Curve
+'l'•A.+(BllX) 1.63393 .512831£-1 .901864 1.59724 .375087 .960174
+PERITRICHA
+1 2 3456781 2 3456781 2 3456781
+~ ~ ~ ~
+P FILTR.
+,.,
+Curve
+1,38873 . 434977 ,9"44266
+Figures 2 a-c. Maximum number of species detected aginst the median values of the reference parameter
+phosphorus in the filtrate. 2 a, summer; 2 b, winter; 2 c, Jan. 80 - Sept. 81. The following were not
+included in the correlation calculation: in 2 a, ER and BU; in 2 b, CA and BU; and in 2 c, BU. In these and
+the following figures, the rivers' names are abbreviated to their first two letters (except for the Calancasca
+= CA). For the unabbreviated forms, see figures 1 a and b. Figure 3: NH4-N concentration against the
+number of peritrichous species.
+
+Ciliates in riverwaters 241
+PERITRICHA
+16
+ve l!I l!lsu
+,••
+0 TH
+101 - 2 4 5 B 7 89 1 01 - 1 2 3 4 5 6 7 B 9
+Figure 3. NH-N concentration against the number of peritrichous species.
+4
+3.2 The dependence of peritrichous ciliate abundance on chemical pollution
+Although precise sampling and quantification of peritrichous ciliates is not possible
+and the concentrations of chemicals in any single biological sample are coincidental,
+certain trends are apparent. Figures 4 a and 4 b present the peritrichous ciliate fre-
+quency in the context of the median values of the pollutant parameters totalphos-
+phorus in the filtrate and ammonium-nitrogen. Both the number of different species
+and their frequency rise with increasing pollution, only to fall again at high concent-
+rations. (This was first established in a microscopic study of growth at 380 sites dur-
+ing the years 1974175 (Stossel, unpublished). The macroscopic detection limit for
+peritrichous strands is a density of ca. 500 individuals per 20 microscope fields of
+view at lOOx magnification. Above 1500 individuals, the peritrichous colonies gener-
+ally appear as thick, fur-like »cushions': Within this category, further division into
+thinner colonies and very dense and thick fur-like colonies is possible. On the whole,
+in the Maglisina (MA), Venoge (VE) and Murg (MU), no thick peritrichous growth
+was present, whereas, in the Ergolz (ER), Braye (BR), and above all the Cassarate
+(CA), dense peritrichous ciliate populations were visible: at this last site, the
+colonies were predominantly thick and fur-like. In figure 4 a, the Sarne (SO) lies
+outside the main scatter of points. This stream, in Jura canton, goes underground
+for a few kilometers before re-emerging a short distance above the sampling
+site. Apart from the neighbouring woods and a few fields, there are no significant
+food sources for bacterivorous filter feeders in this reach of the stream. The am-
+monium-nitrogen burden in particular is very low (see figure 1 a): the occasional
+somewhat elevated values could come from the rather small area of agricultural
+land.
+
+242 Stoessel
+PERITRICHA PERITAICHA
+... "•. 'c• ... ... .. . ... c•
+10' ,, "'
+"
+. .
+'" '" ·'"
+10' " !!i' n' '"
+... ...
+'" BU
+10' 101 -:
+.
+•o "•o
+'"' '"' ~
+"cc "cc
+. .
+10·1 ... 10-1
+'"' ' 2 345678 11 0 ' 2 3 "5678 ' "1 ' 2 3 4 !1678 1 10' · 2 ' 5 6 7 89 11 0· 1 ' 5 s 1a9 1 0t '
+P FILTR. NH4-H
+Figures 4 a and 4 b: peritrichous ciliate frequency plotted against the median values of a) totalphosphorus
+in the filtrate, and b) the NH-N concentration.
+4
+The horizontal line in the uppermost third of the diagrams corresponds to the macroscopic detection limit
+mentioned in the text. The colonies from the sampling sites lying above this line were generally visible to
+the naked eye.
+HYMENOSTOMATA
+...
+...
+,,. '"
+cc.
+•"
+" .,, •"
+"•o
+"•u
+'"
+3 4 5 6 7 89
+Figure 5: Hymenostomous ciliate frequency against the NH 4-N concentration. The straight line drawn by
+hand is not a correlation curve, but serves to clarify comments in the made text.
+3.3 Relationship between hymenostomous ciliates and chemical pollution
+Figure 5 shows that the hymnestomous ciliate frequency increases with increasing
+ammonium-nitrogen concentration, although four exceptions should be mentioned:
+over a large portion of their courses, the Murg (MU) and Ergolz (ER) flow through
+
+Ciliates in riverwaters 243
+PEAITAICHA HYMENOSTOMATA
+'CA
+10'
+1o'
+10' 'su
+... ..
+90 "
+10'
+10-I
+10I -l 5 6 7 es 1 01 ' 3 4 5 6 3 4 5 6 7 B 9 1 01 " ' ' 5
+SPHAEROTILUS
+,.,
+Curve
+2.20403 .843807
+Figures 6 a and 6 b: Plots of the Sphaerotilus abundance against a) the peritrichous ciliate frequency and b)
+the hymenostomous ciliate frequency. The Biinz (BU) was not included in the calculation of the regres-
+sion function for fig. 6 a.
+agricultural land, and receive a relatively high input of treated sewage water, which
+explains their, in a Swiss context, above average ammonium-nitrogen content. How-
+ever, since their biodegradable organic content is low, bacteria production is low.
+Thus, hymenostomic ciliate growth is limited, since as vagile filter feeders they rely on
+a high density of growing bacteria (see section 3.4). Similar conditions apply to the
+Thur (TH) and Venoge (VE), but the flow rate of the Thur is approximately twice
+that of the Murg, and because of the low population density of its drainage area, the
+Venoge has a lower sewage input than the Ergolz.
+3.4 Ciliate frequency and Sphaerotilus growth
+The dependence of Sphaerotilus natans growth on the amount of organic material
+available in the water has often been described, and is uncontested (3, 4, 5, 14). It is
+less clear, however, whether there is a relationship between peritrichous ciliate fre-
+quency and Sphaerotilus. Since there is a relationship between organic pollution and
+peritrichous ciliate frequency (see section 3.2), it is to be expected that this parallel
+dependence would manifest itself as a regression. Indeed, in figure 6 a there is good
+agreement between Sphaerotilus abundance and peritricha frequency. With the
+exception of the Biinz, the logarithmic pairs of values fit a linear regression (r2 =
+0.844). The exceptional case of the heavily polluted Biinz will not be discussed
+further in this paper, however, a possible explanation follows for the three most mar-
+kedly deviating rivers the Murg, Ergolz and Cassarate: in the cases of the Murg and
+
+244
+Stoessel
+Ergolz, the only inputs upstream of the sampling point are treated sewage and
+agricultural run-off. Bacterial drift is sufficient to support dense peritrichous growth,
+although the substrate concentration is inadequate for a large Sphaerotilus popula-
+tion. Upstream of the sampling point, the Cassarate receives a considerable input of
+untreated domestic sewage, containing both adequate substrate for Sphaerotilus and
+free bacteria for peritrichous ciliates, thus leading to the highest peritrichous density
+of all the sampling sites. Figure 6 b supports the contention that the higher hymnes-
+tomous ciliate frequencies require the presence of sufficient quantities of growing
+bacteria, and a dependence is only apparent where the pollution-burden is high.
+3.5 The effect of increasing pollution on the relative abundance ofp eritrichous and
+hymenostomous ciliates
+We have shown above that at low hymenostomous ciliate frequencies ( <20) there is
+no correlation between frequency and organic pollution, the scatter covering almost
+the whole of the pollutant-burden range. This is less true for peritrichous ciliates,
+although frequency drops off at very high pollution levels. Figure 7 presents the
+peritrichous ciliate frequencies in ascending order, with the exception of the heavily
+polluted Biinz whose values are at the right hand side, as a histogram, with the fre-
+quency and abundance respectively of Hymenostoma and Sphaerotilus super-
+posed.
+The peritrichous ciliate frequency does not correlate perfectly with the concentra-
+tions of degradable organic material as represented by the Sphaerotilus abundance.
+This is clear in the cases of the Ergolz and the Murg (fig. 6 a), where the peritrichous
+ciliates are abundant, whilst hymenostomous ciliate are not. This may be a consequ-
+ence of the elevated bacteria density but low concentrations of degradable organic
+material. The Venoge presents a similar picture. Certainly, it should be borne in
+mind that long self-cleaning stretches to sewage treatment plants have similar
+effects. The peritrichous fauna of the Biinz is completely different: the low fre-
+quency detected is most probably the result of competition for living space between
+Sphaerotilus natans and the peritricha, predominantly Carchesium polypinum. The
+rapid growth of the sewage bacteria, which stifle all competition, and whose tufts
+are kept short by the current, leaves little space in which peritricha can grow. The
+very low peritrichous density (figs. 4 a, b, 6 a and 7) is, at the most, analogous
+to that of the rivers whose organic pollution is low. The overall Ciliate community
+corresponds reasonably closely to the Sphaerotilus community described by Lieb-
+mann (13).
+The histograms for hymenostomous ciliates and Sphaerotilus show a clear similarity.
+Sphaerotilus is capable ofrapid growth because of its rapid metabolism, though only
+in the presence of sufficient degradable organic pollution: thus, it is most dense in the
+immediate vicinity of a pollutant source. At high frequencies, hymenostomous
+ciliates show a positive correlation with pollutant parameters (fig. 5). Hence, at
+higher pollution levels, predictions may be based on Hymenostomata and
+Sphaerotilus frequencies combined.
+A number of pollution categories may be derived from figure 7. Thus, the results for
+
+Ciliates in riverwaters 245
+6,-~~~~~~~~~~~~~~~~~~~
+Cl)
+::::> 5
+_J
+4
+b
+a: 3
+w
+<( 2
+::c
+a...
+1
+Cl)
+0
+400,-~~~~~~~~~~~~~~~~~~~~
+~
+~ 300
+0
+I-
+C/) 200
+0
+z
+w 100
+:::?
+>-
+::c
+<(
+::c
+0
+a: 1 00
+t-
+a:
+w
+a... 50
+mn mn mn
+m
+0 (tJ .<..I.>.
+en c:
+·u; .m...
+(tJ
+<I>
+(«(c0 t ;: J C. 0c< . JI . :> . C<ceQ ln >: )) i0 0c : I.s:. ::. -::. :. J .. C:N< :I l> ::. :0 :. ::. J. ~c00 : C :m( ::t ?J i C.> 0Q . D. .) - 0 w.0N .. . (m( eet )nnJ C::N c D>:
+I : J ::
+) ) = ) ?
+Figure 7. Histograms of the peritrichous and hymenostomous ciliate frequencies, and the Sphaerotilus
+abundance.
+
+246
+Stoessel
+the Calancasca, Some, Sense, Ticino, Thur and Suze point to low organic pollution,
+whereas those for the Murg, Venoge and Ergolz through the bacteria, reveal signific-
+ant pollution. Whether the bacteria originated in sewage works or proliferated dur-
+ing the self-cleaning process, is of no importance in this context. The incidence of
+hymenostomous ciliates and Sphaerotilus in both these categories is low. A non-neg-
+ligible level of degradable organic pollution was present in the Magliasina, Broye
+and Cassarate, and the bacterial burden was sufficient to support a high density of
+Peritricha. The Biinz exemplified another pollution-burden category. characterized
+by an enourmous reduction in the peritrichous density compared to the Cassarate:
+though additional sampling at suitable, less-polluted sites or sites on longer self-
+cleaning stretches might yield different results. In the third pollution-burden categ-
+ory, hymnenostomous ciliates are present at more frequent, reaching high densities
+in the Cassarate: the trend of the Sphaerotilus abundance is also clearly upward. In
+the final pollution-burden category, represented here by the Bilnz, both the
+hymenostomous ciliates and Sphaerotilus levels are very high. The pollution com-
+munities here emphasized, naturally do not correspond to any rigid ecological
+boundary entities, but rather to fluid boundaries.
+4. Application of the Results: Discussion
+Figure 7 shows that, in the presence of diverse groups of pollutants, the microorgan-
+isms form typical communities, which can readily be differentiated. Four types of
+pollution predominated in the rivers studied: the respective pollution communities
+are summarized in table 2 and described more fully below.
+The first community corresponds to the group of unpolluted and negligibly polluted
+rivers. Neither ciliates nor Sphaerotilus natans dominate, and never exceed low fre-
+quencies. Ciliate communities consist mainly of small, barely visible vagile forms.
+The second community, which could be defined as the 'Peritrichous group' is distin-
+guished by a peritrichous population with several species, the aggregates ranging in
+size from macroscopically invisible to readily visible. The hymenostomous ciliates
+are somewhat more abundant than in the first category, yet the vagile forms are very
+infrequent, if present at all. Sphaerotilus natans is microscopically generally readily
+detected, however, macroscopically at best visible as very small, individual tufts
+beneath stones (8). Rivers showing such an incidence of Sphaerotilus mainly carry
+treated effluent, or the sampling site lies on a stretch featuring efficient self-cleaning.
+Above all, sewage treatment plants with inadequate retention of bacterial
+aggregates, or which release sludge from the secondary clarifier can give rise to this
+community in the receiving rivers.
+The third group is characterized by an elevated abundance of Sphaerotilus natans
+and hymenostomous ciliates, as a consequence of higher concentrations of degrad-
+able organic material. Under these conditions, Sphaerotilus may also be present on
+the upper, light-facing side of stones. Peritrichous ciliates too, may reach high fre-
+quencies, appearing as fine, but dense, fur-like coatings.
+Characterized of the fourth group is a sudden decrase in the peritricha frequency,
+although the conditions remain optimal for the growth of Sphaerotilus natans. The
+
+Ciliates in riverwaters 247
+hymenostomous ciliates also attained their maximum abundance, including the larger
+forms Paramecium sp. and Colpidium sp., which were found at high frequencies.
+It should be mentioned that the only heavily polluted sampling site, where anaerobic
+conditions extended over the whole breadth of the river leading to the formation of
+iron sulphide and the covering of the river bed in black mud, proved to be an excep-
+tion. Even in the third pollution category, such iron sulphide formation could only be
+detected in small, isolated areas under stones.
+One consequence of the fact that 81 % of the Swiss population are served by sewage
+treatment plants (as of 1.1. 83, Lit. (2)), is that currently the vast majority of Swiss
+rivers and streams fall into the society categories 1 and 2, and the Sphaerotilus com-
+munities are in continual decline. The decrease in organic pollution resulting from
+the measures taken to protect rivers could lead one to the conclusion that bacteria
+from effluent and ciliates are not well-suited to the description of lightly- and neg-
+ligibly-polluted rivers. This certainly not the case, since biological assessment of
+rivers relies on sensitive, quickly-reacting organisms. Indeed, they are all the
+more necessary since investigations of macroinvertebrate societies have shown
+that, in the least polluted categories, macroinvertebrate community are far more
+susceptible to hydrographic parameters than to the bacteria and degradable
+organic material carried in the water. In such situations, ciliates and Sphaerotilus
+natans allow a prediction to be made, since they are less influenced by hydro-
+graphic conditions. Thus, for example, the same ciliates are present in both swift-
+and slow-flowing rivers, but in the former simply less abundant at any particular
+pollution level.
+REFERENCES
+1 Allgemeine Gewasserschutzverordnung vom 19. Juni 1972 (Stand am 1. Juli 1981). Syst. Sammlung
+des Bundesrechtes, Ziff. 814.201.
+2 Bundesamt fiir Umweltschutz Gewasserschutzstatistik. Schriftenreihe Umweltschutz, Nr. 46 (1985).
+3 Eichenberger, E., 1967, Okologische Untersuchungen an ModellflieBgewassern: I. Die jahreszeit-
+liche Verteilung der bestandesbildenden pflanzlichen Organismen bei verschiedener Abwasserbelas-
+tung. Schweiz. Z. Hydro!. 29: 1-31.
+4 Eichenberger, E., 1967, Okologische Untersuchungen an ModellflieBgewassern: II. Jahreszeitliche
+Veranderungen der Biomassebildung bei verschiedenen Abwasserbelastungen. Schweiz. Z. Hydro!.
+29: 32-52.
+5 Eichenberger, E., 1972, Okologische Untersuchungen an ModellflieBgewassern: III. Die jahreszeit-
+lichen Veranderungen im Verhaltnis von heterotropher zu phototropher Biomasse bei verschiedenen
+Abwasserbelastungen. Schweiz. Z. Hydro!. 34: 155-172.
+6 Eichenberger, E., 1972, Okologische Untersuchungen an ModellflieBgewassern: IV. Auswirkungen
+der Selbstreinigung auf die Biomassebildung in einem Abwassergradienten. Schweiz. Z. Hydro!. 34:
+173-189.
+7 Eidgenossisches Departement des Innern, 1982, Empfehlungen iiber die Untersuchung der
+schweizerischen Oberflachengewiisser.
+8 Favre, J ., 1975, Inhibition de la lumiere visible et UV-proche a forte intensite. Dissertation ETH
+Nr.5411.
+9 Frutiger, A., 1985, The production quotient PQ: A new approach for quality determination of slightly
+to moderately polluted running waters. Arch. Hydrobiol. 104: 513-526.
+10 Giittinger, H., 1982, Zusammenhiinge zwischen physikalischen und chemischen Faktoren und Ma-
+kroinvertebraten in FlieBgewiissern. Dissertation ETH Nr. 6952.
+
+248 Stoessel
+11 Jakob A., 1983, Tagesperiodik ausgewahlter chemischer und physikalischer Parameter in einem
+FlieBgewasser (La Suze, Vallon St. Imier). Lizentiatsarbeit Zoo!. Inst. Univ. Bern.
+12 Jakob, A. und Tschumi, P.-A., 1988, Tagesschwankungen chemischer und physikalischer Faktoren in
+einem FlieBgewasser (Schiiss, Berner Jura). Arch. Hydrobiol. 113: 607-620.
+13 Liebmann, H., 1951, Handbuch der Frischwasser-und Abwasserbiologie. R. Oldenbourg, Miinchen,
+539p.
+14 Meier, W., 1980, Untersuchungen iiber die biologische Wirkung periodischer Belastungsschwank·
+ungen in FlieBgewi.issern. Dissertation ETH Nr. 6546.
+15 Perret, P., 1977, Zustand der schweizerischen FlieBgewi.isser in den Jahren 1974175. Eidgenossisches
+Amt fiir Umweltschutz.
+16 Stossel, F., 1979, Autokologische Analyse der in schweizerischen FlieBgewi.issern haufig vorkommen-
+den Ciliatenarten und ihre Eignung als Bioindikatoren. Schweiz. Z. Hydrobiol. 41: 113-140.
+17 Stossel, F., 1987, Effect of the coefficients of discharge on ciliate populations of a running water con-
+taminated by municipal wastewater. Arch. f. Hydrobiol. 108: 483-497.
+18 Verordnung iiber Abwassereinleitungen vom 8.12. 1975 (Stand am 1. Oktober 1980). Syst. Samm-
+lung des Bundesrecht, Ziff. 814.225.21, Bern.
+19 Warren, C. E., 1971, Biology and Water Pollution Control. W. B. Saunders Company, Philadelphia,
+London, Toronto, 434 p.
+Received 23 August 1988;
+accepted 17 January 1989.
+

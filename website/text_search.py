@@ -7,7 +7,7 @@ class TaxonTraitTextSearch:
     def __init__(self,
                  keyword_taxon,
                  keyword_traits,
-                 txt_input_dir=os.path.join('raw_data', 'txt_database')):
+                 txt_input_dir=os.path.join('instances', 'txt_database')):
         self.keyword_taxon = [k.lower() for k in keyword_taxon]
         self.keyword_traits = [k.lower() for k in keyword_traits]
         self.keyword_taxon_regex = [

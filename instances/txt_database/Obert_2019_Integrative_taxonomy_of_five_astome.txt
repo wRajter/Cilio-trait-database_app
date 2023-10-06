@@ -1,0 +1,1237 @@
+European Journal of Taxonomy 559: 1–37 ISSN 2118-9773
+https://doi.org/10.5852/ejt.2019.559 www.europeanjournaloftaxonomy.eu
+2019 · Obert T. & Vďačný P.
+This work is licensed under a Creative Commons Attribution License (CC BY 4.0).
+Research article
+urn:lsid:zoobank.org:pub:8DC07412-8619-4A03-B524-04019880B9D6
+Integrative taxonomy of five astome ciliates (Ciliophora, Astomatia)
+isolated from earthworms in Central Europe
+Tomáš OBERT 1 & Peter VĎAČNÝ 2,*
+1,2 Department of Zoology, Comenius University in Bratislava, 842 15 Bratislava, Slovakia.
+* Corresponding author: peter.vdacny@uniba.sk
+1 Email: tomasobert.obert@gmail.com
+1 urn:lsid:zoobank.org:author:DBA6C599-9060-46FE-93CD-FE157754186B
+2 urn:lsid:zoobank.org:author:47A28E80-E04F-40C4-93A3-F7F685C9533A
+Abstract. Four earthworm species, the endogeic Octolasion tyrtaeum (Savigny, 1826), the anecic
+Lumbricus terrestris Linnaeus, 1758 as well as the epigeic Eisenia fetida (Savigny, 1826) and
+Dendrobaena veneta (Rosa, 1886), were examined for the presence of astome ciliates. Based on the
+integrative taxonomic approach, five ciliate species were recognized in their gastrointestinal tracts:
+Metaradiophrya lumbrici (Dujardin, 1841), M. varians (de Puytorac, 1954), Anoplophrya lumbrici
+(Schrank, 1803), A. vulgaris de Puytorac, 1954 and A. nodulata (Dujardin, 1841). Their distinctness was
+assessed using the multivariate morphometric approach and molecular phylogenetic analyses. Although
+the two species of Metaradiophrya Jankowski, 2007 on the one hand and the two former species of
+Anoplophrya Stein, 1860 on the other, were not distinctly separated by the multivariate morphometric
+analyses, they were clearly delimited by the 18S rRNA gene sequences. Species within each genus also
+differed by their hosts, M. lumbrici and A. lumbrici occurred only in anecic earthworms while M. varians
+and A. vulgaris occured exclusively in epigeic earthworms. Only a single species, A. nodulata, was
+detected in endogeic earthworms. It was morphologically distinct from and did not cluster with the
+two other species of Anoplophrya but was nested within the paraphyletic assemblage containing other
+astomes from endogeic earthworms. This indicates that the evolution of endosymbiotic ciliates from
+earthworms has very likely proceeded through a specialization to various ecological groups of their host
+organisms.
+Keywords. 18S rRNA gene, Anoplophrya, Lumbricidae, Metaradiophrya, morphometry.
+Obert T. & Vďačný P. 2019. Integrative taxonomy of five astome ciliates (Ciliophora, Astomatia) isolated from
+earthworms in Central Europe. European Journal of Taxonomy 559: 1–37. https://doi.org/10.5852/ejt.2019.559
+Introduction
+The subclass Astomatia Schewiakoff, 1896 unites ciliates lacking cytostome, cytopharynx and all
+oral ciliary structures, such as paroral membrane or adoral organelles. Based on the ultrastructural
+and molecular data, mouthless (astome) ciliates are classified within the species-rich and highly
+morphologically as well as ecologically diverse class Oligohymenophorea de Puytorac et al., 1974
+1
+
+European Journal of Taxonomy 559: 1–37 (2019)
+(Lynn 2008; Fokam et al. 2011; Rataj & Vďačný 2018, 2019). Astomes are endosymbionts typically
+inhabiting the gastrointestinal tract of a huge variety of animals, ranging from turbellarians (e.g., von
+Siebold 1839; Schultze 1851; Kijenskij 1926; de Puytorac 1957, 1963; Sikora 1963; Corliss et al.
+1965), mollusks (Lom 1959) and annelids (for reviews, see Cépède 1910 and de Puytorac 1954, 1969,
+1972) to newts and frogs (e.g., Maupas 1879; Bush 1933, 1934; Kay 1942; McAllister et al. 1993;
+McAllister & Trauth 1996). The majority of astome ciliates has been, however, discovered in annelids
+including polychaetes (de Puytorac 1954; de Puytorac & Schrével 1965; Sauvadet et al. 2017), leeches
+and, especially, in a variety of aquatic and terrestrial oligochaetes (e.g., Cépède 1910; Rossolimo 1926a,
+1926b; Heidenreich 1935; de Puytorac 1954, 1969, 1972; Ngassam 1983; Ngassam et al. 1998; Fokam
+et al. 2008, 2015, 2016).
+The gastrointestinal tract of earthworms from the oligochaete family Lumbricidae Rafinesque-
+Schmaltz, 1815 is inhabited by astomes belonging to only three genera: Metaradiophrya Jankowski,
+2007, Anoplophrya Stein, 1860 and Maupasella Cépède, 1910 (Heidenreich 1935; Lom 1961; de
+Puytorac 1972). Each genus has dozens of species and some of them have a complex taxonomic history
+(see, Heidenreich 1935; Beers 1938; Williams 1942; Lom 1961; de Puytorac 1972). Most taxonomic
+problems have arisen from the paucity of morphological differential features as well as from the lack
+of information on intraspecies variability and host range. Host species very likely constitute clearly
+isolated ecological niches that might permit speciation of symbiotic ciliates (Irwin & Lynn 2015; Irwin
+et al. 2017; Vďačný 2018; Vďačný et al. 2018, 2019), although no distinct apomorphic morphological
+features might be recognizable between astomes originated from different hosts. In this case, molecular
+data could independently prove the species identity and could also help to statistically delimit species
+boundaries (Abraham et al. 2019). Unfortunately, except for the study of Affa’a et al. (2004), molecular
+data are completely missing from astome ciliates isolated from lumbricid earthworms, although there
+are some reports from earthworms of the families Megascolecidae Rosa, 1891 and Glossoscolecidae
+Michaelsen, 1900 (Fokam et al. 2011).
+Therefore, in the present study, we apply an integrative approach to study astome ciliates inhabiting the
+gastrointestinal tract of some lumbricid earthworms originated from Slovakia, Central Europe. Our main
+goals are set as follows:
+1. to study the diversity and phylogeny of astome ciliates inhabiting the gastrointestinal tract of
+lumbricid earthworms.
+2. to test the host specificity of endosymbiotic ciliates to certain ecological groups of earthworms,
+using 18S rRNA gene sequences.
+3. to assess the morphological and genetic variability of astome ciliates isolated from lumbricid
+earthworms.
+Material and methods
+Material collection and processing
+Earthworms from the family Lumbricidae were sampled at seven localities in the capital of Bratislava
+and in its vicinity, western Slovakia, Central Europe (Fig. 1; Table 1). Collected lumbricids were
+transferred together with in situ substrates to the laboratory at the Department of Zoology, Comenius
+University in Bratislava. Their identification was based on morphological characters and followed the
+monograph of Pižl (2002). In total, four earthworm species were determined: Lumbricus terrestris
+Linnaeus, 1758, Eisenia fetida (Savigny, 1826), Dendrobaena veneta (Rossa, 1886) and Octolasion
+tyrtaeum (Savigny, 1826). After identification, earthworms were euthanized in formalin (37%) vapors,
+their guts were dissected and their contents were extracted with a micropipette and observed under an
+optical microscope Leica DM2500. Ciliate endosymbionts were manually isolated from the gut content
+2
+
+OBERT T. & VĎAČNÝ P., Morphology and phylogeny of five astome ciliates
+with the aid of Pasteur micropipettes adjusted as described by Foissner (2014). Living ciliates were
+investigated at low (50–400´) and high (1000´, oil immersion) magnifications, using bright field and
+differential interference contrast optics (Foissner 2014). Images were captured by a Canon EOS 70D
+camera. Ciliates were measured from images, using the calibrated software ImageJ ver. 1.49 (Schneider
+et al. 2012).
+Multivariate taxonomic methods
+A multivariate approach was used to investigate the morphometric variation and distinctness of four
+astome species isolated from the gastrointestinal tract of earthworms. Altogether, 16 quantitative features,
+a single qualitative character and two derived ratios were scored on 33 specimens. The libraries NumPy
+(Oliphant 2015) and Pandas (McKinney 2010) were utilized to load and process the morphometric
+matrix in Python ver. 3.6.6. The similarity of specimens was measured by Gower’s coefficient GOW
+(Gower 1971):
+Fig. 1. Map of Slovakia showing the localization of six collection sites (marked by black dots). A
+schematized outline of Bratislava City is depicted left of the map of Slovakia. Rectangles A and B
+indicate the two Bratislava study areas, whose details are shown in panels (A) and (B) under the map of
+Slovakia. For locality codes and further details, see Table 1.
+3
+
+European Journal of Taxonomy 559: 1–37 (2019)
+Table 1. Characterization of collection sites of earthworm species examined for the presence of astome
+ciliates. For localization of localities, see Fig. 1.
+Collection date Collection site Locality GPS coordinates Host species
+code
+6 Jun. 2017 Agricultural, brown soil RZ 48°11′57.6″ N, Lumbricus terrestris Linnaeus, 1758
+from a garden, Šúrska ulica 17°10′25.0″ E
+street, Rendez, Bratislava
+3 Oct. 2017 Floodplain soil from KR 48°08′47.5″ N, Lumbricus terrestris Linnaeus, 1758
+a riparian, willow-poplar 17°04′08.0″ E
+forest near the Karlova Ves
+branch of the Danube river,
+Bratislava
+19 May 2018 Decomposing plant BZ 48°08′43.5″ N, Eisenia fetida (Savigny, 1826)
+material from a compost 17°04′21.1″ E
+heap in the Botanical
+Garden, Karlova Ves,
+Bratislava
+28 Jun. 2018 Decomposing plant JA-1 48°12′10.9″ N, Eisenia fetida (Savigny, 1826)
+material and humous soil 17°09′05.7″ E
+from a garden compost
+heap, Jakubská ulica street,
+Rača, Bratislava
+28 Jun. 2018 Loamy soil with fallen JA-2 48°12′12.2″ N, Lumbricus terrestris Linnaeus, 1758
+needles in the surroundings 17°09′03.1″ E
+of a garden wall, Jakubská
+ulica street, Rača,
+Bratislava
+30 Jun. 2018 Humous soil with high NG 48°11′44.4″ N, Dendrobaena veneta (Rosa, 1886)
+content of decomposing 17°07′47.5″ E
+plant material from
+a garden at the foothill of
+the Malé Karpaty Mts., Na
+Grunte street, Krasňany,
+Bratislava
+2 Jul. 2018 Upper 50 cm turf layer in PU 48°13′21.9″ N Octolasion tyrtaeum (Savigny, 1826)
+the riparian zone of the 17°34′49.9″ E
+Rašelinisko pond in the
+vicinity of the Pusté Úľany
+village, Galanta district
+where i and j are specimens, s is the contribution provided by the k-th variable and w is 1 or 0
+ijk ijk
+depending upon whether or not the comparison is valid for the k-th variable. Values of s for variables
+ijk
+measured at interval and ratio scales are defined as follows:
+where x is the value of the k-th variable on the specimen i, x is the value of the k-th variable on
+ik jk
+the specimen j and R is the range of values for the k-th variable. Values of s for binary qualitative
+k ijk
+variables are 1, if i and j both have the attribute k present or 0 otherwise. The weight w causes
+ijk
+negative matches to be ignored. The function for computation of Gower’s coefficient was obtained from
+https://github.com/scikit-learn/scikit-learn/pull/9555.
+4
+
+OBERT T. & VĎAČNÝ P., Morphology and phylogeny of five astome ciliates
+The similarity of specimens, as measured by Gower’s index, was assessed by metric multi-dimensional
+scaling implemented in the scikit-learn package (Pedregosa et al. 2011). The SMACOF algorithm was
+run with 250 initializations, each run had 20 000 iterations and ε was set to 10-8 to declare convergence.
+Plotting of the ordination diagram was done with the Matplotlib module (Hunter 2007).
+Molecular methods
+Single cells were picked and washed in five drops of Ringer’s solution (0.6%). Thoroughly washed
+specimens were stored in 180 µl of the cell lysis buffer CLD (Promega, Fitchburg, Wisconsin, USA)
+at 6°C. Genomic DNA from single cells was extracted with the ReliaPrep™ Blood gDNA Miniprep
+System (Promega, Fitchburg, Wisconsin, USA). The 18S rRNA gene was amplified with the universal
+eukaryotic primers Euk A (5’-AAC CTG GTT GAT CCT GCC AGT-3’) and Euk B (5’-TGA TCC TTC
+TGC AGG TTC AC-3’) (Medlin et al. 1988). Individual polymerase chain reactions (PCR) included
+5 µl of the extracted template DNA, 0.4 µl of the forward and reverse primers each (10 pmol/µl) and
+10 µl of the GoTaq® Long PCR Master Mix (Promega, Fitchburg, Wisconsin, USA). The final volume
+was adjusted to 20 µl with deionized distilled water. PCR conditions were as follows: initial hot start
+denaturation at 95°C for 15 min, 30 identical amplification cycles (denaturing at 95°C for 45 s, annealing
+at 55°C for 1 min and extension at 72°C for 2.5 min) and final extension at 72°C for 10 min. The quality
+of the amplified DNA was checked by electrophoresing a 1% agarose gel. PCR products were purified
+using calf intestinal alkaline phosphatase and exonuclease I, E. coli (New England Biolabs® Inc.) and
+sequenced on an ABI 3730 automatic sequencer (Macrogen, Amsterdam, The Netherlands).
+Phylogenetic methods
+Newly obtained sequences were examined in Chromas ver. 2.6.6 (Technelysium Pty Ltd.) and high-
+quality sequence fragments were assembled into contigs in BioEdit ver. 7.2.5 (Hall 1999). Two
+18S rRNA gene alignments were generated on the GUIDANCE2 server (http://guidance.tau.ac.il/ver2/),
+with the MAFFT algorithm and 100 bootstrap repeats (Sela et al. 2015). The first alignment (referred
+as ‘general’ henceforth) included 73 taxa and served to classify the newly obtained sequences into
+oligohymenophorean subclasses. Representatives from all subclasses were selected to cover their
+diversity and sampling basically followed our previous studies (Rataj & Vďačný 2018, 2019). Members
+from the subclass Peniculia were used to a posteriori root the trees (Fokam et al. 2011). The second
+alignment (referred as ‘detailed’ henceforth) contained 34 sequences from the oligohymenophorean
+subclass Astomatia and two outgroup sequences of Dexiotricha Stokes, 1885 from the subclass
+Scuticociliatia Small, 1967. Sampling in this dataset mostly followed Fokam et al. (2011) and Rataj &
+Vďačný (2018, 2019) and served to more closely analyze the phylogenetic position of the new astome
+isolates. To estimate the reliability of alignments, unmasked datasets and datasets masked with a cutoff
+value of 0.93 were constructed.
+The best evolutionary substitution models for all datasets were estimated and selected in jModelTest
+ver. 2.1.10 under the Akaike Information Criterion (Darriba et al. 2012) on the Cipres portal ver. 3.1
+(http://www.phylo.org/) (Miller et al. 2010). Phylogenetic relationships among oligohymenophorean
+ciliates were reconstructed in the maximum likelihood, Bayesian and neighbor-joining framework under
+the GTR +Γ + I evolutionary model with parameters as estimated in jModelTest. Maximum likelihood
+analyses were performed in PhyML ver. 3.0 with the SPR swapping algorithm and 1000 non-parametric boot-
+strap replicates on the South of France bioinformatics platform (http://www.atgc-montpellier.fr/phyml/)
+(Guindon et al. 2010). Bayesian inferences were conducted on the Cipres portal ver. 3.1 in the program
+MrBayes on XSEDE ver. 3.2.6 (Ronquist et al. 2012). Prior parameters of the GTR +Γ + I evolutionary
+model were implemented with the ‘lset’ and ‘prset’ commands in the MrBayes command block. Two
+runs, each having four (one cold and three heated) simultaneous Markov chains, were five million
+generations long. The sampling frequency was set to one hundred and the burn-in fraction was specified
+as 25%. In addition, the second set of detailed alignments was also analyzed by the neighbor-joining
+5
+
+European Journal of Taxonomy 559: 1–37 (2019)
+algorithm in MEGA X (Kumar et al. 2018). All trees were computed as unrooted and were rooted a
+posteriori in FigTree ver. 1.2.3 (http://tree.bio.ed.ac.uk/software/figtree/).
+Reliability of alternative tree topologies was assessed by the approximately unbiased, weighted
+Shimodaira-Hasegawa and weighted Kishino-Hasegawa tests (Shimodaira & Hasegawa 2001;
+Shimodaira 2002, 2008). Topologically unconstrained and constrained trees were constructed under
+the GTR +Γ + I evolutionary model, using the heuristic search, random sequence addition and the SPR
+swapping algorithm in the program PAUP* ver. 4.0b8 (Swofford 2003). Site-wise log likelihoods were
+calculated for unconstrained and constrained trees and served to calculate p-values for the tree topology
+tests in the program package CONSEL, using the commands makermt, consel and catpv (Shimodaira &
+Hasegawa 2001).
+Average evolutionary distances among the five species of astome ciliates isolated from lumbricid
+earthworms, were calculated from their 18S rRNA gene alignment with the maximum composite
+likelihood model in MEGA X (Kumar et al. 2018). Standard errors of between group evolutionary
+distances were estimated with the bootstrap method and 1000 replicates. The rate variation among sites
+was modeled with a gamma distribution and the differences in the composition bias among sequences
+were considered in evolutionary comparisons (Tamura & Kumar 2002).
+Abbreviations used in the text
+AL = Anoplophrya lumbrici
+AN = Anoplophrya nodulata
+AU = approximately unbiased test
+AV = Anoplophrya vulgaris
+BA = bacteria
+BI = Bayesian inference
+CV = contractile vacuoles
+DV = Dendrobaena veneta
+EF = Eisenia fetida
+EN = envelope of macronucleus
+F = fibers
+G = granules
+H = fibrillar hook
+LT = Lumbricus terrestris
+MA = macronucleus
+MI = micronucleus
+ML = maximum likelihood
+MT = Metaradiophrya lumbrici
+MV = Metaradiophrya varians
+NJ = neighbor-joining
+OT = Octolasion tyrtaeum
+OTU = operational taxonomic unit
+SC = somatic cilia
+SK = somatic kineties
+VE = vesicules
+WKH = weighted Kishino-Hasegawa test
+WSH = weighted Shimodaira-Hasegawa test
+6
+
+OBERT T. & VĎAČNÝ P., Morphology and phylogeny of five astome ciliates
+Table 2. Occurrence of astome ciliates in earthworm species examined during the course of this study.
+Collection sitea Host species Endosymbiont speciesb
+MT MV AL AV AN
+RZ Lumbricus terrestris + ‒ + ‒ ‒
+KR Lumbricus terrestris + ‒ + ‒ ‒
+BZ Eisenia fetida ‒ + ‒ + ‒
+JA-1 Eisenia fetida ‒ + ‒ + ‒
+JA-2 Lumbricus terrestris + ‒ + ‒ ‒
+NG Dendrobaena veneta ‒ ‒ ‒ + ‒
+PU Octolasion tyrtaeum ‒ ‒ ‒ ‒ +
+a For locality codes, see Table 1.
+b For species' abbreviations, see Material and methods.
+Results
+Diversity of astome ciliates in the gastrointestinal tract of lumbricid earthworms
+In total, 300 earthworms were investigated for astome ciliates: 150 specimens of Lumbricus terrestris,
+120 individuals of Eisenia fetida, 25 exemplars of Dendrobaena veneta and five specimens of Octolasion
+tyrtaeum. Five species of endosymbiotic astome ciliates were isolated from their gastrointestinal tract:
+Metaradiophrya lumbrici, M. varians, Anoplophrya lumbrici, A. vulgaris and A. cf. nodulata (Table 2).
+Occurrence and abundance of astome ciliates were highly variable. Immature earthworms typically did
+not contain any ciliates, only bacterial clumps and sometimes nematodes. About one half of mature
+earthworms exhibiting a clitellum was inhabited by 10 to 50 ciliates per oligochaete. Sometimes, a
+mass occurrence of M. lumbrici was recorded in earthworms longer than 15 cm. Endosymbionts were
+typically found in the middle part of the gastrointestinal tract.
+Descriptions of five astome ciliates isolated from lumbricid earthworms
+Phylum Ciliophora Doflein, 1901
+Subphylum Intramacronucleata Lynn, 1996
+Class Oligohymenophorea de Puytorac et al., 1974
+Subclass Astomatia Schewiakoff, 1896
+Order Astomatida Schewiakoff, 1896
+Family Radiophryidae de Puytorac et al., 1972
+Genus Metaradiophrya Jankowski, 2007
+Metaradiophrya lumbrici (Dujardin, 1841)
+Figs 2, 3, 4, 5
+Description
+The body size is about 105‒230 × 55‒130 µm, with an average of 170 × 100 µm. The shape is ovate to
+elliptical with an anterior body end rounded and posterior end broadly rounded to truncate. The cell is
+distinctly dorsoventrally flattened (Figs 2A, F, 3B, F‒M, 4A–B, E–F). On the ventral side, about 10 µm
+away from the anterior body end, there is a conspicuous fibrillar hook composed of two unequally long
+arms. The longer arm is 25‒35 µm long, flat and completely situated underneath the cell surface. The
+shorter arm is 8‒13 µm long, usually appears slightly more robust at the base and projects from the cell
+7
+
+European Journal of Taxonomy 559: 1–37 (2019)
+Fig. 2. Metaradiophrya lumbrici (Dujardin, 1841), Slovak specimens in vivo. A. Semi-schematic
+diagram of the ventral side, showing the fibrillar hook as well as the contractile vacuole and the somatic
+ciliary pattern. Arrowheads mark the subapical suture extending from the right body margin over the
+hook towards the left body margin. B. Detail of the anterior body portion, showing the fibrillar hook and
+its associated fibers. There are on average 6 (5‒7) fibers attached to the upper right side of the longer
+arm, on average 33 (30‒37) fibers to the ventral side of the longer arm and on average 11 (8‒13) fibers
+to the left side of the shorter arm. C. Shape variants of fibrillar hooks. The hook is composed of two
+unequally long arms: the longer arm is flat and 25‒35 µm long, while the shorter arm appears slightly
+more robust at the base and is 8‒13 µm long. D–E. Lateral somatic kineties form a right and a left
+subterminal suture in the posterior body region. F. Ventral view, showing the general body organization.
+G. The cytoplasm contains innumerable granules being ca 0.4 µm across and rod-like bacteria being
+about 3‒15 µm long. Scale bars: A, F = 50 µm; B = 10 µm.
+8
+
+OBERT T. & VĎAČNÝ P., Morphology and phylogeny of five astome ciliates
+Fig. 3. Metaradiophrya lumbrici (Dujardin, 1841), Slovak specimens in vivo. A. Detail of the anterior
+body portion, showing the fibrillar hook and its associated fibers. There are on average 6 (5‒7) fibers
+attached to the upper right side of the longer arm, on average 33 (30‒37) fibers to the ventral side of
+the longer arm and on average 11 (8‒13) fibers to the left side of the shorter arm. Arrowheads mark
+the subapical suture extending from the right body margin over the fibrillar hook towards the left
+body margin. B, F‒M. Variability of body shape and size as well as of the contractile vacuole and
+nuclear apparatus. Drawn to scale. C‒E. The macronucleus is rod-like and its surface is smooth or with
+some indistinct irregularities. However, many small vesicules appear in its vicinity in dying cells. The
+micronucleus is elliptical and typically situated close to the mid-portion of the macronucleus. Scale bars:
+A = 20 µm; B, F–M = 100 µm.
+9
+
+European Journal of Taxonomy 559: 1–37 (2019)
+Fig. 4. Metaradiophrya lumbrici (Dujardin, 1841), Slovak specimens in vivo. A–B. Ventral view of
+representative specimens, showing the typical body shape, localization of the fibrillar hook, the long
+rod-like macronucleus and two staggered rows of contractile vacuoles (arrowheads). C–D. Detail,
+showing the long rod-like macronucleus, a single micronucleus, contractile vacuoles and cytoplasmic
+bacteria. The central region of the micronucleus appears homogenous and brighter than its margin in
+the differential interference optics and might represent a central nucleolus. E–F. Somatic ciliature is
+holotrichous and composed of very densely ciliated meridional kineties. In the posterior body region,
+lateral somatic kineties form a right and a left subterminal suture (arrow in E), whose detail is shown in
+the left inset. Scale bars: A–B = 100 µm; C–D = 10 µm; E–F = 20 µm.
+10
+
+OBERT T. & VĎAČNÝ P., Morphology and phylogeny of five astome ciliates
+Fig. 5. A–B. Metaradiophrya lumbrici (Dujardin, 1841), Slovak specimens in vivo. Details of the
+anterior body portion, showing the fibrillar hook and its associated fibers. There are on average 6 (5‒7)
+fibers attached to the upper right side of the longer arm, on average 33 (30‒37) fibers to the ventral side
+of the longer arm and on average 11 (8‒13) fibers to the left side of the shorter arm. Arrowheads mark
+the subapical suture extending from the right body margin over the fibrillar hook towards the left body
+margin. The somatic kineties above the suture run towards the anterior body end where they curve onto
+the dorsal body side to meridionally extend over its surface towards the posterior body end. On the other
+hand, the somatic kineties below the suture run meridionally over the ventral side towards the posterior
+body end. The ventral somatic kineties are lined with fibers attached to the fibrillar hook. Scale bars:
+20 µm.
+11
+
+European Journal of Taxonomy 559: 1–37 (2019)
+in lateral view. A set of very distinct fibers is associated with the hook: on average 6 (5‒7) fibers are
+attached to the upper right side of the longer arm, on average 33 (30‒37) fibers to the ventral side of the
+longer arm and on average 11 (8‒13) fibers to the left side of the shorter arm (Figs 2A‒C, 3A, 5).
+The nuclear apparatus is composed of a macronucleus and a micronucleus. The macronucleus is rod-
+like with both ends rounded. It begins about 27 µm away from the anterior body margin and ends about
+12 µm above the posterior body margin. Its length spans a range from approximately 85 to 200 µm and its
+width ranges from 8 to 18 µm, averaging at 13 µm. The macronuclear surface is smooth and without any
+irregularities, however, small vesicules appear in its vicinity in dying cells. The micronucleus is typically
+situated close to the mid-portion of the macronucleus. The shape of micronucleus is circular to elliptical
+and its diameter is approximately 7 µm. The central region of micronucleus appears homogenous and
+brighter than its margin in the differential interference optics and might represent a central nucleolus
+(Figs 2F–G, 3B‒M, 4A, C–D).
+There are invariably two staggered rows of contractile vacuoles, extending right and left of the
+macronucleus. Their number ranges from 3 to 12 with an average of 6 vacuoles in the right row and from
+3 to 11 with an average of 6 vacuoles in the left row (Figs 2A, F–G, 3B, F‒M, 4B‒D). The cytoplasm is
+colorless and contains innumerable granules being ca 0.4 µm across and rod-like bacteria being about
+3‒15 µm long (Figs 2G, 4C–D). The cortex is rigid and without any specific granules (Fig. 5). Swims
+moderately fast by rotation about the main body axis.
+Somatic ciliature is holotrichous and composed of very densely ciliated and narrowly spaced kineties.
+The ventral ciliature is interrupted by a subapical suture that extends from the right body margin over the
+fibrillar hook towards the left body margin. Somatic kineties above the suture run towards the anterior
+body end where they curve onto the dorsal body side to meridionally extend over its surface towards the
+posterior body end. Somatic kineties below the suture run meridionally over the ventral side towards the
+posterior body end (Figs 2A–B, 3A, 4E–F, 5). The number of kineties on each body side ranges from 60
+to 78. Lateral kineties form a right and a left subterminal suture in the posterior body region (Figs 2D–E,
+4E).
+Occurrence
+Metaradiophrya lumbrici was detected exclusively in a group of anecic earthworms, namely, in
+L. terrestris at three localities: in gardens in the Šúrska ulica street in Rendez and in the Jakubská
+ulica street in Rača as well as in floodplain soils in a riparian, willow-poplar forest near the Karlova
+Ves branch of the Danube River (Table 2). Ciliates were typically isolated from the middle part of the
+gastrointestinal tract, although very rarely one or two specimens were recorded also slightly above and
+below this gut region.
+Metaradiophrya varians (de Puytorac, 1954)
+Figs 6, 7
+Description
+The body size is about 110‒180 × 85‒95 µm. The body shape is ovate to elliptical with an anterior body
+end rounded and posterior end broadly rounded to truncate. The cell is distinctly dorsoventrally flattened
+(Figs 6A, F‒I, 7A, D). The fibrillar hook is localized about 10 µm away from the anterior body end. Its
+longer arm measures on average 30 µm, while its shorter arm only 11 µm. The hook appears slightly
+flatter than in the previous species and the thickened base of the shorter arm has been never observed.
+There are 5 or 6 fibers attached to the upper right side of the longer arm, on average 26 (22‒29) fibers to
+the ventral side of the longer arm and 11 or 12 fibers to the left side of the shorter arm (Figs 6A‒C, 7B).
+12
+
+OBERT T. & VĎAČNÝ P., Morphology and phylogeny of five astome ciliates
+Fig. 6. Metaradiophrya varians (de Puytorac, 1954), Slovak specimens in vivo. A. Semi-schematic
+diagram of the ventral side, showing the localization of fibrillar hook, the arrangement of contractile
+vacuoles and the somatic ciliary pattern. Arrowheads mark the subapical suture extending from the
+right body margin over the fibrillar hook towards the left body margin. B. Detail of the anterior body
+portion, showing the fibrillar hook and its associated fibers. There are 5 or 6 fibers attached to the upper
+right side of the longer arm, on average 26 (22‒29) fibers to the ventral side of the longer arm and 11 or
+12 fibers to the left side of the shorter arm. C. Shape variants of fibrillar hooks. The longer arm of the
+hook measures on average 30 µm, while the shorter arm only 11 µm. D–E. The macronucleus is rod-
+like and accompanied by an elliptical micronucleus. F‒I. Variability of body shape and size as well as
+of the contractile vacuole and nuclear apparatus. There are two staggered rows of contractile vacuoles
+arranged along the left and right side of the macronucleus. Drawn to scale. J. Ventral view, showing a
+late divider. Scale bars: A, F–J = 50 µm; B = 20 µm.
+13
+
+European Journal of Taxonomy 559: 1–37 (2019)
+Fig. 7. Metaradiophrya varians (de Puytorac, 1954), Slovak specimens in vivo. A, D. Ventral view of
+representative specimens, showing the typical body shape, localization of the fibrillar hook, the long rod-
+like macronucleus and two staggered rows of contractile vacuoles (arrowheads). B. Detail of the anterior
+body portion, showing the fibrillar hook and its associated fibers. There are 5 or 6 fibers attached to the
+upper right side of the longer arm, on average 26 (22‒29) fibers to the ventral side of the longer arm and
+11 or 12 fibers to the left side of the shorter arm. Arrowheads mark the subapical suture extending from
+the right body margin over the fibrillar hook towards the left body margin. C. Dorsal view, showing the
+somatic kineties. The ciliary rows are narrowly arranged and are composed of very densely spaced basal
+bodies (left inset). E. Ventral view, showing a late divider. Scale bars: A, C–E = 50 µm; B = 20 µm.
+14
+
+OBERT T. & VĎAČNÝ P., Morphology and phylogeny of five astome ciliates
+The nuclear apparatus consists of a single macronucleus and a single micronucleus. The macronucleus
+commences on average 25 µm away from the anterior body end and terminates on average 11 µm away
+from the posterior body end. The size of macronucleus is about 80‒140 × 10‒15 µm. The macronucleus
+extends through cell’s midline. The micronucleus reaches a diameter of 6‒8 µm and is situated close to
+the macronucleus about in its mid-portion (Figs 6D‒I, 7A, D).
+There are two staggered rows of contractile vacuoles arranged along the right and left side of the
+macronucleus: 5‒8 vacuoles in the right row and 6 or 7 vacuoles in the left row (Figs 6A, E‒I, 7A, D).
+The cytoplasm is colorless and studded with granules about 0.5 µm across. The cortex is rigid and
+without granules (Fig. 7B). Swims moderately fast by rotation about the main body axis.
+Somatic ciliature is holotrichous and composed of very densely ciliated and narrowly spaced kineties.
+The ventral ciliature is interrupted by a subapical suture extending from the right body margin over the
+fibrillar hook to the left body margin. Somatic kineties above the suture run towards the anterior body
+end where they curve onto the dorsal body side to meridionally extend over its surface towards the
+posterior body end. Somatic kineties below the suture run meridionally over the ventral side towards
+the posterior body end (Figs 6A–B, 7B–C). The number of ventral kineties ranges from 50 to 64 on the
+ventral side and from 53 to 64 on the dorsal side. There is a subterminal suture on the left and the right
+side of the body.
+Occurrence
+Metaradiophrya varians was solely recorded in the epigeic E. fetida at two comparatively distant
+localities, i.e., in compost heaps in the Jakubská ulica street in Rača and in the Botanical Garden of
+Comenius University (Fig. 1; Table 2). Metaradiophrya varians inhabited only the middle part of the
+gastrointestinal tract and there were usually ten exemplars per earthworm. Our data on occurrence of
+M. varians and M. lumbrici indicate that both species are specialized on different ecological groups of
+host oligochaetes. The ecologically different L. terrestris and E. fetida never contained the same species
+of Metaradiophrya, even when they originated from closely situated localities or when they were co-
+cultivated in the laboratory.
+Family Anoplophryidae Cépède, 1910
+Genus Anoplophrya Stein, 1860
+Anoplophrya lumbrici (Schrank, 1803)
+Figs 8, 9
+Description
+The body size is about 50‒120 × 35‒100 µm, with an average of 90 × 60 µm. The shape is broadly
+elliptical to elliptical with both ends rounded. The cell is distinctly dorsoventrally flattened (Figs 8A,
+E‒I, 9A–B, D).
+The nuclear apparatus consists of a single macronucleus and a single micronucleus. The macronucleus
+begins about 11 µm away from the anterior body end and extends through the cell’s midline. The size
+of macronucleus varies from about 30‒95 × 5‒15 µm, with an average of 72 × 9 µm. The macronuclear
+surface is smooth to slightly irregular. In dying cells, the macronucleus diminishes in size leaving behind
+a conspicuous hyaline envelope. The macronucleus sometimes also fragments within the envelope in
+postmortem cells. The micronucleus is situated conspicuously far away from the macronucleus, namely,
+near the middle of the left body margin and always opposite to the row of contractile vacuoles. The
+micronucleus is globular and approximately 5 µm in diameter (Figs 8A, D‒I, 9A‒D).
+15
+
+European Journal of Taxonomy 559: 1–37 (2019)
+Fig. 8. Anoplophrya lumbrici (Schrank, 1803), Slovak specimens in vivo. A. Semi-schematic diagram of
+the ventral side, showing the nuclear apparatus, the arrangement of contractile vacuoles (arrowheads) and
+the somatic ciliary pattern. B–C. Details of the anterior and posterior body pole, showing the apical and
+the terminal suture. D. In dying cells, the macronucleus diminishes in size leaving behind a conspicuous
+hyaline envelope. The macronucleus sometimes also fragments within the envelope in postmortem cells.
+E‒I. Variability of body shape and size as well as of the contractile vacuole and nuclear apparatus. The
+micronucleus is situated conspicuously far away from the macronucleus, namely, near the middle of the
+left body margin and always opposite to the row of contractile vacuoles. Drawn to scale. Scale bars: A,
+E–I = 50 µm; D = 20 µm.
+16
+
+OBERT T. & VĎAČNÝ P., Morphology and phylogeny of five astome ciliates
+Fig. 9. Anoplophrya lumbrici (Schrank, 1803), Slovak specimens in vivo. A, D. Optical sections, showing
+the general body organization. The body is elliptical with both ends rounded. The macronucleus is rod-
+like and extends through the cell’s midline. The micronucleus is situated conspicuously far away from
+the macronucleus, namely, near the middle of the left body margin and always opposite to the row of
+contractile vacuoles (arrowheads). B. Ventral view, showing the somatic ciliary pattern. Arrowheads
+denote the contractile vacuoles which originate by fusion of three to five vesicules. C. In dying cells,
+the macronucleus diminishes in size leaving behind a conspicuous hyaline envelope. The macronucleus
+sometimes also fragments within the envelope in postmortem cells. E. Frontal view, showing the apical
+suture. Scale bars: A–B, D = 50 µm; C, E = 20 µm.
+17
+
+European Journal of Taxonomy 559: 1–37 (2019)
+There is only a single row of contractile vacuoles extending along the right cell margin. The number
+of vacuoles is three or four and their size ranges from 4 to 11 µm in diastole. A contractile vacuole
+originates by fusion of three to five vesicules (Figs 8A, E–F, H–I, 9A–B, D). The cytoplasm is colorless
+and contains innumerable granules being about 1.5 µm across. The cortex is semi-rigid and without
+specific granules. Swims moderately fast by rotation about the main body axis.
+The somatic ciliature is holotrichous and composed of meridionally extending kineties over both cell
+sides. The number of ventral kineties varies from 30 to 50, averaging at 42. The number of dorsal
+kineties almost matches the number on the ventral side (30‒51, on average 43). Somatic kineties are
+composed of very densely arranged basal bodies, i.e., intrakinetal distance is only 1.3 µm (Figs 8A, 9B).
+There is an apical and a terminal suture at the anterior and the posterior pole where individual somatic
+kineties begin and terminate, respectively (Figs 8B–C, 9E).
+Occurrence
+Anoplophrya lumbrici was recorded only in the anecic L. terrestris at three localities: gardens at the
+Šúrska ulica street in Rendez and at the Jakubská ulica street in Rača as well as in floodplain soils in
+a riparian, willow-poplar forest near the Karlova Ves branch of the Danube River (Table 2). Ciliates
+were typically isolated from the middle part of the gastrointestinal tract, although very rarely some
+specimens were recorded also below this gut region.
+Anoplophrya vulgaris de Puytorac, 1954
+Figs 10, 11A‒C
+Description
+The body size is about 100‒145 × 60‒80 µm. The body shape is broadly elliptical to elliptical with both
+ends rounded. The cell is distinctly dorsoventrally flattened (Figs 10A, D‒F, 11A–B).
+The nuclear apparatus is composed of a single macronucleus and a single micronucleus. The macronucleus
+begins about 6 µm away from the anterior body end extends through the cell’s midline into the posterior
+body region. The length of macronucleus varies from 80 to 110 µm and its width ranges from 9 to
+18 µm. The macronuclear surface is smooth. The macronucleus diminishes in size leaving behind a
+conspicuous hyaline envelope in dying cells. The micronucleus is situated conspicuously far away from
+the macronucleus, namely, near the middle of the left body margin and opposite to the row of contractile
+vacuoles. The micronucleus is globular and approximately 4 µm in diameter (Figs 10A, D‒F, 11A–B).
+There is a single row of contractile vacuoles arranged along the right cell margin. It is composed of
+three or four vacuoles being 5‒9 µm across during diastole (Figs 10A, D‒F, 11A–B). The cytoplasm
+is colorless and studded with granules measuring approximately 0.5‒1.0 µm in diameter. The cortex is
+semi-rigid and without specific granules. Swims moderately fast by rotation about the main body axis.
+Somatic ciliature is holotrichous and composed of kineties meridionally extending over both cell sides.
+There are on average 34 (24‒45) kineties on each body side. Individual kineties are very narrowly
+arranged and the interkinetal distance ranges from about 0.6 to 2.0 µm. Likewise, basal bodies are
+very narrowly spaced within kineties and the intrakinetal distance is ca 1 µm. There is an apical and a
+terminal suture at each cell pole where individual somatic kineties commence and terminate, respectively
+(Figs 10A‒C, 11B–C).
+18
+
+OBERT T. & VĎAČNÝ P., Morphology and phylogeny of five astome ciliates
+Occurrence
+Anoplophrya vulgaris was recorded in two species of epigeic earthworms, viz., in E. fetida and D. veneta.
+Ciliate 18S rRNA gene sequences originated from both hosts were identical. Host earthworms came
+from a compost heap in the Botanical Garden of Comenius University and at the Jakubská ulica street
+in Rača as well as from humous soil with a high content of decomposing plant material from a garden at
+the foothill of the Malé Karpaty Mts. (Table 2). Endosymbiotic ciliates typically occurred in the middle
+part of the gastrointestinal tract. There were usually 10 to 15 endosymbionts per host.
+Anoplophrya cf. nodulata (Dujardin, 1841)
+Figs 11D–E, 12
+Description
+Only five specimens were found, three were morphologically examined and two were used for molecular
+analyses. Therefore, the description is rather incomplete. The body size is about 100 × 50 µm. The
+Fig. 10. Anoplophrya vulgaris de Puytorac, 1954, Slovak specimens in vivo. A. Semi-schematic diagram
+of the ventral side, showing the nuclear apparatus, the arrangement of contractile vacuoles (arrowheads)
+and the somatic ciliary pattern. B–C. Details of the anterior body pole and the posterior body region,
+showing the course of the somatic kineties. Arrow denotes the apical suture. D‒F. Variability of body
+shape and size as well as of the contractile vacuole and nuclear apparatus. Drawn to scale. Scale bars:
+50 µm.
+19
+
+European Journal of Taxonomy 559: 1–37 (2019)
+shape is ovate to broadly fusiform with both ends rounded. The cell is distinctly dorsoventrally flattened
+(Figs 11D–E, 12).
+The macronucleus begins about 10 µm away from the anterior body end and extends through the
+cell’s midline. Its size is usually 75 × 13 µm. The macronuclear surface was slightly irregular. The
+macronucleus displays similar postmortem changes as in the two previous Anoplophrya species, i.e.,
+it slightly diminishes in size leaving behind a hyaline envelope. The micronucleus was not observed
+(Figs 11D–E, 12).
+There are two staggered rows of contractile vacuoles extending along the right and left side of the
+macronucleus: 3‒6 vacuoles in the right row and 3‒5 vacuoles in the left row. The average size of
+vacuoles ranged from 5‒7 µm during diastole (Figs 11D–E, 12). The cytoplasm is colorless and filled
+with granules being approximately 1 µm in diameter. The cortex is semi-rigid and without specific
+granules. Swims moderately fast by rotation about the main body axis.
+Fig. 11. Anoplophrya vulgaris de Puytorac, 1954 (A‒C) and Anoplophrya nodulata (Dujardin, 1841)
+(D–E), Slovak specimens in vivo. A–B. Ventral views, showing the nuclear apparatus, the arrangement
+of contractile vacuoles (arrowheads) and the somatic ciliary pattern. Arrow marks the apical suture.
+C. Detail of the anterior body region, showing the apical suture (arrow) and the meridional ciliary rows
+composed of very narrowly arranged basal bodies. D–E. Optical sections, showing the general body
+organization. The body is ovate to broadly fusiform with both ends rounded. The macronucleus is rod-
+like with slightly irregular surface. There are two rows of contractile vacuoles (arrowheads). Scale bars:
+A–B, D–E = 50 µm; C = 20 µm.
+20
+
+OBERT T. & VĎAČNÝ P., Morphology and phylogeny of five astome ciliates
+Somatic ciliature is holotrichous and composed of densely ciliated meridional kineties. Due to the low
+number of ciliates, their number on the ventral and dorsal side could not be determined.
+Occurrence
+Anoplophrya nodulata was detected only in two out of five specimens of Octolasion tyrtaeum
+investigated. This endogeic earthworm originated from the upper 50 cm peat layer in the riparian zone
+of the Rašelinisko Pond in the vicinity of the Pusté Úľany Village in the Galanta District (Table 2).
+Endosymbiotic ciliates were found only in the central part of the oligochaete gastrointestinal tract. No
+other ciliates were recorded in the digestive system of O. tyrtaeum.
+Multivariate morphometric analyses
+Altogether, 16 quantitative features, a single qualitative character and two derived ratios were scored on
+33 individuals belonging to four astome species: M. lumbrici, M. varians, A. lumbrici and A. vulgaris.
+Morphometric data were compiled in Table 3 and served to calculate Gower’s pairwise similarities
+among ciliate specimens. Multidimensional scaling was performed on the pairwise Gower’s coefficients,
+using the scikit-learn package in Python.
+Fig. 12. Anoplophrya nodulata (Dujardin, 1841), Slovak specimens in vivo. A–B. Ventral views,
+showing the general body organization. The body is ovate with both ends rounded. The macronucleus
+is rod-like and extends through the cell’s midline. In dying cells, the macronucleus diminishes in size
+leaving behind a conspicuous hyaline envelope. There are two rows of contractile vacuoles, extending
+right and left of the macronucleus. C. Lateral view, showing the distinctly dorsoventrally flattened body.
+Arrowheads denote the right row of contractile vacuoles. Scale bars: 50 µm.
+21
+
+European Journal of Taxonomy 559: 1–37 (2019)
+Two mutually isolated groups, species of Metaradiophrya and Anoplophrya, were distinctly separated
+along the first and the second ordination axis (Fig. 13). However, individual species within each genus
+were not distinctly segregated. Specifically, two specimens of M. varians were intermingled with some
+M. lumbrici individuals, indicating that the intraspecific variability in most morphometric features of the
+latter species is so wide that M. varians at least partially falls within its range. Nevertheless, both species
+can be unequivocally distinguished by a single morphometric character, the number of fibers associated
+with the ventral side of the longer arm of the fibrillar hook. Specifically, there are 30‒37 (on average 33)
+fibers in M. lumbrici and 22‒29 (on average 26) fibers in M. varians (Table 3).
+Fig. 13. Multidimensional scaling of 33 individuals based on pairwise Gower’s similarities calculated
+from 16 quantitative features, a single qualitative character and two derived ratios.
+22
+
+OBERT T. & VĎAČNÝ P., Morphology and phylogeny of five astome ciliates
+A similar mixed pattern was revealed also for the two species of Anoplophrya. Anoplophrya lumbrici
+was depicted as a comparatively more variable species, somewhat overlapping with the cluster of
+A. vulgaris. The latter species, however, showed a trend of at least partial separation from A. lumbrici in
+the ordination diagram (Fig. 13). The morphometric data indicate that A. vulgaris is slightly larger and
+narrower than A. lumbrici (100‒145 × 60‒80 µm vs 50‒120 × 35‒100 µm), although their size ranges
+overlap distinctly.
+Molecular characterization and phylogenetic position of ciliates isolated from
+lumbricid earthworms
+In total, 19 new 18S rRNA gene sequences were obtained from M. lumbrici (eight sequences),
+M. varians (four sequences), A. lumbrici (two sequences), A. vulgaris (three sequences) and A. nodulata
+(two sequences). Their length, GC content and GenBank accession numbers are summarized in Table 4.
+Intraspecies sequence similarities were 100%, except for M. lumbrici where one out of the 1762
+nucleotide positions was polymorphic. Namely, two KR-specimens (10/1 and 10/C) had guanine at
+the position 796 while the rest of KR-exemplars as well as all other M. lumbrici individuals displayed
+adenine there.
+Genetic distances estimated under the maximum composite likelihood model showed that the evolution-
+ary divergence between M. lumbrici and M. varians is 0.0138 ± 0.0032. A slightly larger distance was
+revealed between A. lumbrici and A. vulgaris (0.0168 ± 0.0037). However, evolutionary divergences
+between species of Metaradiophrya and Anoplophrya were more than two times greater ranging from
+0.0304 to 0.0380. Anoplophrya nodulata was revealed as the most divergent taxon from both species of
+Metaradiophrya (0.0608‒0.0627) as well as from the two other species of Anoplophrya (0.0717‒0.0752)
+(Table 5).
+To determine the phylogenetic position of these five ciliate species, Bayesian and maximum likelihood
+(ML) as well as neighbor-joining (NJ) analyses were conducted (Figs 14–15). The newly obtained
+sequences were classified into the paraphyletic subclass Astomatia of the class Oligohymenophorea.
+Paraphyly of the Astomatia was caused in that the astome Haptophrya planariarum (von Siebold, 1839)
+isolated from flatworms clustered with species of the scuticociliate genus Dexiotricha with full statistical
+support both in the Bayesian and ML analyses. All astomes isolated from annelids formed a strongly
+statistically supported monophylum (posterior probability 1.00, 99% ML bootstrap). Astomes from
+polychaetes (Durchoniella spp.) branched off first and were followed by a paraphyletic assemblage of
+astomes from endogeic oligochaetes (Almophrya de Puytorac et Dragesco, 1969, Anoplophrya nodulata,
+Eudrilophrya de Puytorac, 1969, Metaracoelophrya de Puytorac et Dragesco, 1969, Njinella Ngassam,
+1983 and Paraclausilocola Fokam et al., 2011). Lineages of astome ciliates from anecic (M. lumbrici
+and A. lumbrici) and epigeic (M. varians and A. vulgaris) earthworms were nested within the crown
+radiation of this paraphyletic cluster (Figs 14–15).
+Monophylies of M. varians, A. lumbrici (including A. marylandensis Conklin, 1930), A. vulgaris and
+A. nodulata were fully statistically supported in Bayesian, ML and NJ analyses of the general and
+detailed alignment (Figs 14–15). However, monophyly of M. lumbrici was fully statistically supported
+only in NJ analyses (100% bootstrap) of the detailed alignment (Fig. 15) and strongly in ML analyses
+(91% bootstrap) of the general alignment (Fig. 14), while it was left unsupported in ML analyses of
+the detailed alignment and in the Bayesian inferences of both alignments. Specifically, specimens of
+M. lumbrici clustered together in Bayesian analyses of the general alignment, but with a statistically
+insignificant posterior probability of 0.91 (Fig. 14). On the other hand, in the Bayesian tree inferred
+from the detailed alignment, specimens of M. lumbrici were placed in a basal polytomy of a cluster
+containing a fully statistically supported clade of A. lumbrici and A. vulgaris. This whole assemblage,
+however, obtained a statistically insignificant posterior probability of 0.82 (Fig. 14) and its relevance
+23
+
+European Journal of Taxonomy 559: 1–37 (2019)
+ydob suelcunorcam fo fo 51V ;mra
+91V
+rebmun rebmun 21 21 21 21 31 21 11 11 21 11 11 11 11 11 8 9 11 21 21 11
+= ;)mµ( regnol
+2V 81V
+43 13 43 63 13 43 33 33 23 23 23 03 33 33 73 43 72 92 72 22
+;)mµ( = = kooh fo
+9V 21V
+fo edis 71V
+7 6 6 6 7 5 6 5 5 5 4 6 5 6 5 6 6 6 6 5
+htgnel htgnel ;seloucav ;swor fo
+.mra
+thgir
+gninnigeb 61V
+03 82 23 53 03 13 23 03 13 03 33 62 33 52 03 92 23 72 03 13
+ydob = yrailic reppu retrohs
+5V
+elitcartnoc 51V
+9 01 11 11 01 31 8 01 21 21 01 01 11 8 8 01 21 7 21 11
+= ;)mµ(
+citamos ot htiw fo
+1V
+dne edis 41V 9 61 6 7 11 21 5 4 21 8 8 21 2 9 8 31 8 6 01 21
+.seiceps suelcunorcam detaicossa
+fo ydob tfel
+lartnev 31V
+swor 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+htiw
+roiretna
+etailic
+fo fo serbfi detaicossa 21V 07 96 76 57 37 56 56 06 16 06 76 37 56 76 56 87 46 95 35 55
+rebmun rebmun
+emotsa fo
+gninnigeb morf fo 11V 67 36 76 27 07 36 56 06 06 87 86 37 56 76 06 87 46 95 05 25
+rebmun
+= = ecnatsid serbfi
+ruof 01V
+8V 11V 8 5 5 7 5 11 9 4 6 11 3 4 4 4 6 4 6 6 6 7
+ot ot ;suelcunorcam ;wor = fo
+gnignoleb dne = 71V rebmun 9V 5 3 6 9 3 7 9 3 6 21 4 4 3 4 6 6 6 5 6 8
+41V
+tfel
+ydob ;)mµ( 8V
+ni ;)1 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2
+=
+snemiceps roiretna seloucav = 91V
+fo tnesba kooh 7V 1.41 3.11 0.41 8.9 0.7 4.21 4.51 3.8 2.9 7.11 9.01 0.11 3.9 8.01 9.6 3.11 5.11 7.8 8.01 2.31
+oitar ;mra
+fo
+morf elitcartnoc ,0 mra 6V 11 71 01 31 81 51 8 11 31 51 81 51 9 31 21 01 21 9 31 01
+htdiw:htgnel regnol
+33
+=
+no ecnatsid tneserp( gnol 5V 551 291 041 821 621 681 321 19 911 671 791 561 48 731 38 311 831 87 141 231
+atad fo
+fo
+cirtemohproM = = fo rebmun kooh htgnel edis 4V 63 72 03 42 04 33 42 91 52 03 32 23 71 72 32 52 22 12 03 72
+4V lartnev
+7V
+3V 0.2 2.2 5.1 5.1 6.1 8.1 0.2 4.1 3.1 8.1 0.2 7.1 6.1 1.2 0.2 8.1 0.2 2.1 9.1 0.2
+;oitar rallirbfi =
+;)mµ(
+= 61V
+htiw
+htdiw:htgnel 01V 2V 99 201 711 311 311 131 18 58 221 221 711 621 56 76 65 58 78 39 69 58
+suelcunorcam = ;)mµ(
+.)egap detaicossa
+;wor 31V
+1V 102 622 081 761 871 032 561 911 751 222 232 512 701 241 111 551 471 801 181 961
+kooh
+txen thgir ;swor
+anemicepS 1 2 3 4 5 6 7 8 9 01 11 21 31 41 51 61 1 2 3 4
+no ydob fo ni yrailic fo mra serbfi 2-AJ 2-AJ 2-AJ 2-AJ 2-AJ 2-AJ 2-AJ 2-AJ 2-AJ 2-AJ 2-AJ 2-AJ RK ZR ZR ZR 1-AJ 1-AJ 1-AJ 1-AJ
+seloucav
+deunitnoc( = htdiw TM TM TM TM TM TM TM TM TM TM TM TM TM TM TM TM VM VM VM VM
+trohs fo
+3V
+citamos rebmun
+;)mµ( = elitcartnoc fo seicepS icirbmul snairav
+6V
+3 htgnel
+elbaT htdiw ;)mµ( lasrod =
+81V .M .M
+=
+24
+
+OBERT T. & VĎAČNÝ P., Morphology and phylogeny of five astome ciliates
+nemiceps
+91V
+81V eht
+fo
+71V rebmun
+61V lanidro
+51V eht
+yb
+41V dewollof
+31V
+1 1 1 1 1 1 1 1 1 1 1 1 1 ,1
+elbaT
+21V
+34 54 05 03 64 24 73 15 53 05 23 54 42
+ni
+defiiceps
+11V
+24 54 05 03 64 24 73 24 53 05 23 54 42
+01V sa
+edoc
+9V ytilacol
+3 3 3 3 3 4 4 3 3 3 3 4 4
+8V 1 1 1 1 1 1 1 1 1 1 1 1 1 a
+dna
+7V 0.01 5.5 6.71 4.6 8.7 0.8 7.6 8.51 6.4 0.8 9.8 4.5 0.11 2
+elbaT
+6V 6 51 5 21 21 6 21 5 7 01 9 81 01 ni
+defiiceps
+5V 06 38 88 77 49 84 08 97 23 08 08 89 011
+sa
+4V 31 6 5 7 21 71 01 11 8 02 8 6 4 eman
+seiceps
+3V 5.1 4.1 0.2 5.1 2.1 1.1 3.1 2.1 5.1 6.1 7.1 7.1 1.2
+fo
+2V 25 07 84 26 201 96 87 18 53 07 95 28 06 noitaiverbba
+1V 97 59 89 59 021 97 001 69 15 111 99 241 321
+na
+anemicepS 1 2 3 4 5 6 7 8 9 01 1 2 3
+2-AJ 2-AJ 2-AJ 2-AJ 2-AJ 2-AJ 2-AJ 2-AJ 2-AJ 2-AJ 1-AJ 1-AJ 1-AJ fo
+.)deunitnoc( stsisnoc
+LA LA LA LA LA LA LA LA LA LA VA VA VA
+edoc
+icirbmul siragluv
+seicepS .detagitsevni
+nemicepS
+3
+elbaT
+.A .A
+a
+25
+
+European Journal of Taxonomy 559: 1–37 (2019)
+Fig. 14. Small subunit rRNA gene phylogenetic tree showing systematic positions of astome ciliates
+isolated from lumbricid earthworms. Posterior probabilities for Bayesian Inference (BI) and bootstrap
+values for Maximum Likelihood (ML) were mapped onto the 50%-majority rule Bayesian consensus
+tree. Dashes indicate ML bootstrap values below 50%. The phylogenetic tree suggests that the evolution
+of endosymbiotic astome ciliates has proceeded through a specialization to various ecological and
+systematic groups of their host organisms. Sequences in bold face were obtained during this study.
+For specimen codes and further details, see Table 4. The scale bar denotes eight substitutions per one
+hundred nucleotide positions.
+26
+
+OBERT T. & VĎAČNÝ P., Morphology and phylogeny of five astome ciliates
+Fig. 15. Small subunit rRNA gene phylogenetic trees showing systematic positions of astome ciliates
+isolated from lumbricid earthworms. Posterior probabilities were mapped onto the 50%-majority rule
+Bayesian consensus tree (upper panel) and bootstrap values onto the 50%-majority rule neighbor-joining
+tree (lower panel). Sequences in bold face were obtained during this study. Note that there is a conflict
+between the Bayesian and the neighbor-joining tree in the position of specimens of Metaradiophrya
+Jankowski, 2007. However, according to tree topology tests, the branching pattern of the Bayesian
+tree is not significantly better than that of the neighbor-joining tree. The scale bar denotes fraction of
+substitutions.
+27
+
+European Journal of Taxonomy 559: 1–37 (2019)
+Table 4. Characterization of new 18S rRNA gene sequences of astome ciliates obtained from lumbricid
+oligochaetes.
+Species Specimena Host species Locality codeb Length (nt) GC (%) GenBank entry
+Anoplophrya lumbrici KR 11 LT L. terrestris KR 1754 43.84 MN121061
+RZ 6 LT L. terrestris RZ 1754 43.84 MN121062
+Anoplophrya nodulata PU 29 OT O. tyrtaeum PU 1758 43.86 MN121063
+PU 30 OT O. tyrtaeum PU 1758 43.86 MN121064
+Anoplophrya vulgaris JA-1 20 EF E. fetida JA-1 1750 44.57 MN121065
+JA-1 21 EF E. fetida JA-1 1750 44.57 MN121066
+NG 28 DV D. veneta NG 1750 44.57 MN121067
+Metaradiophrya lumbrici JA-2 25 LT L. terrestris JA-2 1762 44.61 MN121068
+JA-2 26 LT L. terrestris JA-2 1762 44.61 MN121069
+KR 8 LT L. terrestris KR 1762 44.61 MN121070
+KR 10/1 LT L. terrestris KR 1762 44.67 MN121071
+KR 10/2 LT L. terrestris KR 1762 44.61 MN121072
+KR 10/C LT L. terrestris KR 1762 44.67 MN121073
+RZ 4 LT L. terrestris RZ 1762 44.61 MN121074
+RZ 5 LT L. terrestris RZ 1762 44.61 MN121075
+Metaradiophrya varians BZ 12 EF E. fetida BZ 1764 44.10 MN121076
+BZ 14 EF E. fetida BZ 1764 44.10 MN121077
+JA-1 19 EF E. fetida JA-1 1764 44.10 MN121078
+JA-1 22 EF E. fetida JA-1 1764 44.10 MN121079
+a Specimen code consists of a locality code as specified in Table 1, an isolate code and an abbreviation of host species name
+(see Material and methods).
+b For locality codes, see Table 1.
+should be therefore taken with great caution. Identical topology was revealed also in ML analyses
+of the detailed alignment (–ln L = 5056.68) (data not shown). Due to the discrepancy between the
+topology of the NJ tree on the one hand and the Bayesian and ML trees on the other, statistical tree
+topology tests were conducted. They revealed that the monophyly of M. lumbrici and its sister-group
+relationship to M. varians (–ln L = 5059.33) could not be rejected (Table 6). The conflict between the
+distance NJ tree and the Bayesian and ML trees was possibly caused by a plesiomorphic/homoplastic
+trap. Meteradiophrya lumbrici differed from M. varians in 25 nucleotide positions, but a comparison
+of 18S rRNA gene sequences of M. lumbrici with those of three species of Anoplophrya revealed that
+19 out of the 25 variable nucleotide positions are either plesiomorphies or possibly homoplasies. Only
+six positions (36, 76, 100, 119, 120, 141) appear as molecular apomorphies of M. lumbrici (Fig. 16).
+This indicates that distance techniques might avoid the plesiomorphic/homoplastic trap when sequences
+of related species are highly similar (genetic distance between M. lumbrici and M. varians is only
+0.0138 ± 0.0032; Table 5). On the other hand, Bayesian inference and maximum likelihood might not
+be resistant to the plesiomorphic/homoplastic trap when plesiomorphies/homoplasies significantly
+28
+
+OBERT T. & VĎAČNÝ P., Morphology and phylogeny of five astome ciliates
+outnumber apomorphies. Therefore, taxonomic discrepancies in phylogenetic trees need to be analyzed
+also using distance methods and statistical tree topology tests.
+Discussion
+The gastrointestinal tract of earthworms from the oligochaete family Lumbricidae is inhabited by
+astomes belonging to only three genera, namely, Metaradiophrya, Anoplophrya and Maupasella
+(Heidenreich 1935; Lom 1961; de Puytorac 1972). There are several dozens of species in each genus
+and their identification is difficult because of comparatively few diagnostic morphologic features and
+lack of information about intraspecific variability and host range (e.g., Cépède 1910; Heidenreich 1935;
+Beers 1938; Williams 1942; Lom 1961; de Puytorac 1972). Because of these problems, most records
+of astome ciliates from lumbricid earthworms need to be taken with caution. Moreover, our integrative
+approach revealed that a combination of detailed microscopic observation, molecular data as well as
+identity and ecological group of host organisms is indispensable for reliable identification of astomes.
+Fig. 16. Alignment of variable positions of the 18S rRNA gene of five astome ciliates isolated from the
+lumbricid earthworms. Boxes mark 25 nucleotide positions in which M. lumbrici (Dujardin, 1841) differs
+from M. varians (de Puytorac, 1954). The comparison with three outgroup species of Anoplophrya Stein,
+1860 indicates that 19 out of the 25 variable nucleotide positions of M. lumrici are either plesiomorphies
+or possibly homoplasies.
+29
+
+European Journal of Taxonomy 559: 1–37 (2019)
+Table 5. Average between group evolutionary distances (below diagonal) and their standard errors
+(above diagonal) estimated with the maximum composite likelihood method.
+1. 2. 3. 4. 5.
+1. Metaradiophrya lumbrici – 0.0032 0.0058 0.0056 0.0096
+2. Metaradiophrya varians 0.0138 – 0.0066 0.0062 0.0098
+3. Anoplophrya lumbrici 0.0318 0.0380 – 0.0037 0.0120
+4. Anoplophrya vulgaris 0.0304 0.0352 0.0168 – 0.0113
+5. Anoplophrya nodulata 0.0608 0.0627 0.0752 0.0717 –
+Based on the integrative taxonomic approach, two species of Metaradiophrya were isolated from
+the lumbricid earthworms during the course of the present study: M. lumbrici and M. varians. The
+former species was detected exclusively in the group of anecic earthworms. However, Heidenreich
+(1935) also reported M. lumbrici from an ecologically different group of earthworms, namely, from
+the epigeic L. rubellus Hoffmeister, 1843 and E. fetida (for problems with ciliate identity, see below).
+Apart from L. terrestris, Lom (1961) recorded M. lumbrici also in Dendrobaena illyrica (Cognetti,
+1906). De Puytorac (1972) extended the host spectrum of M. lumbrici by a further species from the
+family Lumbricidae, namely, L. herculeus (Savigny, 1826). On the other hand, Williams (1942) did
+not report M. lumbrici from the gastrointestinal tract of L. terrestris at all but from “Eisenia foetidus”.
+Metaradiophrya varians has so far been reported exclusively from E. fetida (de Pyutorac 1954,
+1972; Lom 1961; Paisán et al. 2009; present study). As evidenced by molecular data, we have never
+recorded M. lumbrici in E. fetida. All sequences of Metaradiophrya from this epigeic earthworm were
+100% identical. According to morphometric data, they belong to M. varians which has a lower number
+of fibres associated with the ventral side of the longer arm of the hook than M. lumbrici (see above and
+de Pyutorac 1954, 1972; Lom 1961; Paisán et al. 2009). Therefore, we assume that Heidenreich (1935)
+and Williams (1942) misidentified M. varians as M. lumbrici.
+According to the compendium of de Puytorac (1972), eight further species of Metaradiophrya were
+reported from earthworms of the family Lumbricidae: (1) M. asymmetrica (Beers, 1938) from “Eisenia
+lönnbergi (Michlsn, 1844)” [= Eisenoides lonnbergi (Michaelsen, 1894)]; (2) M. bifulta (de Puytorac, 1954)
+from Helodrilus schneideri Michaelsen, 1900; (3) M. chlorotica (Williams, 1942) from Allolobophora
+chlorotica (Savigny, 1826); (4) M. falcifera (Stein, 1861) from L. rubellus, Nicodrilus caliginosus
+[= Aporrectodea caliginosa (Savigny, 1826)] and Octolasion lacteum (Örley, 1881); (5) M. gardneri
+(Rees, 1961) from Eisenia fetida; (6) M. gigas de Puytorac, 1954 from Aporrectodea savignyi [=
+Scherotheca savignyi (Guerne & Horst, 1893)]; (7) M. heidenreichi (de Puytorac, 1954) from Helodrilus
+schneideri; and (8) M. hovassei (de Puytorac, 1954) from Allolobophora chlorotica and Eisenia rosea
+(Savigny, 1826).
+In the course of the present study, three species of Anoplophrya were reported from the lumbricid
+earthworms: A. lumbrici, A. vulgaris and A. nodulata. We detected A. lumbrici exclusively in the anecic
+L. terrestris. Similarly, Heidenreich (1935) and de Puytorac (1972) mentioned L. terrestris as the host
+of A. lumbrici. Lom (1961), in addition, reported A. lumbrici from the epigeic earthworms L. rubellus
+and D. subrubicunda [= Dendrodrilus rubidus subrubicundus (Eisen, 1874)] in which, however,
+exemplars of A. lumbrici exhibited conspicuous morphological differences. This indicates that they
+might represent different species of Anoplophrya. Heidenreich (1935) considered A. marylandensis
+to be a junior synonym of A. lumbrici, which is also indicated by the present phylogenetic analyses
+(Figs 14–15). Sequences of A. marylandensis and A. lumbrici, originating from the same host organisms
+(L. terrestris), clustered together in our phylogenetic analyses and had a 99.3% identity. However, we
+cannot exclude that the difference of 0.7% in the 18S rRNA gene is sufficient to separate A. marylandensis
+30
+
+OBERT T. & VĎAČNÝ P., Morphology and phylogeny of five astome ciliates
+Table 6. Log likelihoods and p-values of the AU, WSH and WKH tests to compare different topological
+scenarios. Significant differences (p-value < 0.05) between the best unconstrained and constrained
+topologies in bold face.
+Topology –ln La ∆ (–ln L)b AU WSH WKH
+Best scoring maximum likelihood tree (unconstrained) 5056.68 – 0.860 0.987 0.812
+Monophyly of M. lumbrici and M. varians 5059.33 2.6 0.165 0.440 0.188
+Monophyly of M. lumbrici, M. varians and 5199.22 142.5 6e–37 0.000 0.000
+Metaradiophrya sp. HQ446279
+Monophyly of the genus Metaracoelophrya 5078.25 21.6 0.002 0.016 0.010
+a Log likelihood of a phylogenetic tree.
+b Difference between log likelihoods of constrained and best scoring (unconstrained) tree.
+from A. lumbrici. For instance, two species of Paraclausilocola are morphologically clearly distinct but
+are only 0.3% divergent in their 18S rRNA gene sequences. Therefore, at the present state of knowledge,
+it might be premature to synonymize A. marylandensis with A. lumbrici. Conklin (1930) discovered
+A. marylandensis in L. terrestris and Helodrilus caliginosus [= Aporrectodea caliginosa (Savigny, 1826)].
+Lom (1961) considered A. marylandensis as a valid species and recorded it rarely in Allolobophora
+longa [= Aporrectodea longa (Ude, 1885)] and Dendrobaena octaedra (Savigny, 1826). However, Lom
+(1961) did not list these two species in his comprehensive table but provided there two completely
+different earthworm species, Octolasium lacteum [= Octolasion lacteum] and Allolobophora caliginosa
+[= Aporrectodea caliginosa]. Due to the conflicts between text and tables, it is not possible to state
+where Lom (1961) detected A. marylandensis.
+Heidenreich (1935) also considered A. alluri Cépède, 1910, A. lloydii Ghosh, 1918 and A. striata
+(Dujardin, 1841) as junior synonyms of A. lumbrici. In addition, he also found A. striata as synonyms of
+A. alluri and A. nodulata. According to Lom (1961), A. alluri is also a junior synonym of A. nodulata.
+Whether the two latter species are conspecific and also identical with A. simplex Nana et al., 2018 is
+difficult to decide at the present state of knowledge. However, synonymization of A. alluri and A. nodulata
+with A. lumbrici is not justified in the light of both morphological (two rows of contractile vacuoles vs
+a single row of vacuoles) and molecular (Figs 14–15) data. Cépède (1910) discovered Anoplophrya
+alluri in Allurus tetraedrus [= Eiseniella tetraedra (Savigny, 1826)], but he provided a much wider host
+spectrum for A. striata: L. rubellus, L. terrestris, L. variegatus [= Lumbriculus variegatus (Müller, 1774)],
+E. foetida and Al. chlorotica. According to Ghosh (1918), A. lloydii originated from Pheretima posthuma
+[= Perichaeta posthuma Vaillant, 1868] which, however, does not belong to the family Lumbricidae but
+to the Megascolecidae. Anoplophrya simplex was isolated from Alma emini (Michaelsen, 1892) which
+belongs to the Glossoscolecidae (Nana et al. 2018). Therefore, conspecificity of A. alluri, A. lloydii and
+A. simplex is unlikely, although all three species display two rows of contractile vacuoles.
+We detected A. vulgaris exclusively from the epigeic earthworms E. fetida and D. veneta. Ciliate
+18S rRNA gene sequences obtained from both hosts were identical. Similarly, de Puytorac (1954,
+1972), Lom (1961) and Paisán et al. (2009) reported A. vulgaris from epigeic earthworms. The third
+detected species of Anoplophrya in the present study was identified as A. nodulata. Heidenreich (1935)
+considered it incorrectly as a junior synonym of A. lumbrici (see above). Dujardin (1841) did not specify
+the host organism in which he discovered A. nodulata. We have detected it exclusively in a single
+endogeic species, O. tyrtaeum. Lom (1961) frequently recorded A. nodulata in E. tetraedra and rarely
+in A. caliginosa. Because of quite different host species, the conspecificity of our and Lom’s (1961)
+populations is questionable and needs to be tested by molecular data.
+31
+
+European Journal of Taxonomy 559: 1–37 (2019)
+According to the compendium of de Puytorac (1972), seven further species of Anoplophrya were
+reported from earthworms of the family Lumbricidae: (1) Anoplophrya commune de Puytorac, 1954
+from Allolobophora savignyi [= Scherotheca savignyi]; (2) Anoplophrya enigmatica (authorship
+not provided by de Puytorac 1972) from Dendrobaena subrubicunda [= Dendrodrilus rubidus
+subrubicundus]; (3) Anoplophrya oblonga de Puytorac, 1954 from L. herculeus and L. terrestris; (4)
+Anoplophrya problematica (authorship not provided by de Puytorac 1972) from Dendrobaena illyrica;
+(5) Anoplophrya singularis de Puytorac, 1954 from L. festivus (Savigny, 1826); (6) Anoplophrya
+suspicata (authorship not provided by de Puytorac 1972) from L. castaneus (Savigny, 1826); and (7)
+Anoplophrya tchadovi de Puytorac, 1958 from “Eiseniella ohridana Cern” [= E. tetraedra var. ochridana
+Černosvitov, 1931].
+The present phylogenetic analyses did not support monophylies of the genera Metaracoelophrya,
+Metaradiophrya and Anoplophrya (Figs 14–15). Monophyly of Metaracoelophrya was also firmly refuted
+by all statistical tree topology tests (Table 6). To solve this taxonomic problem, details on morphology
+of the three species of Metaracoelophrya are needed. Likewise, monophyly of M. lumbrici, M. varians
+and Metaradiophrya sp. HQ446279 was consistently rejected, although monophyly of M. lumbrici
+and M. varians could not be excluded by any statistical test (Table 6). However, examination of the
+dissertation thesis of Fokam (2012) revealed that Metaradiophrya sp. HQ446279 (= “Metaradiophrya
+simplex” in his thesis) is obviously not a Metaradiophrya, since it does not possess a fibrillar hook
+composed of two unequally long arms. Finally, polyphyly of the genus Anoplophrya is caused in that
+A. nodulata clusters far away from the A. lumbrici + A. marylandensis + A. vulgaris clade. As mentioned
+above, the genetic divergence of A. nodulata and the two other species of Anoplophrya is comparatively
+big (0.0717‒0.0752) and even greater than from the two species of Metaradiophrya (0.0608‒0.0627).
+Since A. nodulata is distinguished from the two other species of Anoplophrya by the contractile vacuole
+pattern (two rows vs one row) and by the ecological group of host earthworms (endogeic vs anecic or
+epigeic), it should be transferred to a distinct genus. However, due to the lack of detailed morphological
+data on A. nodulata, we prefer not to establish a new genus in the present study.
+It is important to emphasize that all literature data on occurrence of astome ciliates in the digestive tract
+of oligochaetes from the family Lumbricidae are problematic due to taxonomic difficulties and lack
+of molecular data. Our integrative approach revealed that reliable identification of astome ciliates also
+requires molecular data. Moreover, our phylogenetic analyses also suggest that astome ciliates might be
+associated with certain ecological and systematic groups of their host organisms. Therefore, occurrence
+of individual astome species in ecologically different and phylogenetically distant earthworms seems to
+be unlikely and needs to be corroborated by molecular data.
+Acknowledgements
+We are grateful to Jaroslav Bella (Botanic Garden of Comenius University), Markéta Derdáková,
+Miroslav Obert, Jana Pazderová, Danica Smoláriková and Vladimír Vďačný for enabling us to sample
+in their gardens. This work was supported by the Slovak Research and Development Agency under the
+contract No. APVV-15-0147 and by the Grant Agency of the Ministry of Education, Science, Research
+and Sport of the Slovak Republic and Slovak Academy of Sciences under the Grants VEGA 1/0041/17
+and VEGA 1/0114/16.
+32
+
+OBERT T. & VĎAČNÝ P., Morphology and phylogeny of five astome ciliates
+References
+Abraham J.S., Sripoorna S., Maurya S., Makhija S., Gupta R. & Toteja R. 2019. Techniques and tools
+for species identification in ciliates: a review. International Journal of Systematic and Evolutionary
+Microbiology 69: 877–894. https://doi.org/10.1099/ijsem.0.003176
+Affa’a F.-M., Hickey D.A., Strüder-Kypke M. & Lynn D.H. 2004. Phylogenetic position of species in
+the genera Anoplophrya, Plagiotoma, and Nyctotheroides (phylum Ciliophora), endosymbiotic ciliates
+of annelids and anurans. Journal of Eukaryotic Microbiology 51: 301–306.
+https://doi.org/10.1111/j.1550-7408.2004.tb00570.x
+Beers C.D. 1938. Structure and division in the astomatous ciliate Metaradiophrya asymmetrica n. sp.
+Journal of the Elisha Mitchell Scientific Society 54: 111–125.
+Bush M. 1933. The morphology of the ciliate Haptophrya michiganensis Woodhead and its relation
+to other members of the Astomatea. Transactions of the American Microscopic Society 52: 223–232.
+https://doi.org/10.2307/3222257
+Bush M. 1934. The morphology of Haptophrya michiganensis Woodhead, an astomatous ciliate from
+the intestinal tract of Hemidactylium scutatum (Schlegel). University of California Publications in
+Zoology 39: 251–275.
+Cépède C. 1910. Recherches sur les infusoires astomes. Anatomie, biologie, ethologie parasitaire,
+systématique. Archives de Zoologie expérimentale et générale 5: 341–609.
+Conklin C. 1930. Anoplophrya marylandensis n. sp., a ciliate from the intestine of earthworms of the
+family Lumbricidæ. Biological Bulletin 58: 176–181. https://doi.org/10.2307/1536863
+Corliss J.O., de Puytorac P. & Lom J. 1965. Resolution of persistent taxonomic and nomenclatural
+problems involving ciliate protozoa assignable to the astome family Haptophryidae Cepede, 1923.
+Journal of Protozoology 12: 265–273. https://doi.org/10.1111/j.1550-7408.1965.tb01849.x
+Darriba D., Taboada G.L., Doallo R. & Posada D. 2012. jModelTest 2: more models, new heuristics and
+parallel computing. Nature Methods 9: 772. https://doi.org/10.1038/nmeth.2109
+de Puytorac P. 1954. Contribution à l’étude cytologique et taxonomique les infusoires astomes. Annales
+des Sciences naturalles, Zoologie et Biologie animale 11: 85–270.
+de Puytorac P. 1957. L’infraciliature de quelques ciliés Haptophryidae. Caparaison avec celle de certains
+thigmotriches. Comptes Rendus hebdomadaires Séances de l’Académie des Sciences 244: 1962–1965.
+de Puytorac P. 1963. Contribution à l’étude des ciliés astomes Haptophryidae Cépède, 1903 (cytologie,
+ultrastructure, taxinomie). Annales des Sciences naturelles, Zoologie et Biologie animale 5: 173–210.
+de Puytorac P. 1969. Les Ciliés Astomes Hoplitophryidae. I. Description de nouvelles espèces.
+Protistologica 5: 255–268.
+de Puytorac P. 1972. Les Ciliés Astomes Hoplitophryidae. II. Révision de la systématique de ce groupe.
+Protistologica 8: 5–42.
+de Puytorac P. & Schrével J. 1965. Nouvelles espèces de Ciliés Astomes endoparasites d’Annélides
+Polychètes. Annales de la Faculte des Sciences de l’Universite de Clermont 28: 85–99.
+Dujardin F. 1841. Histoire naturelle des zoophytes. Infusoires, comprenant la physiologie et la
+classification de ces animaux, et la maniére de les étudier a l’aide du microscope. Librairie Encyclopédique
+de Roret, Paris.
+33
+
+European Journal of Taxonomy 559: 1–37 (2019)
+Foissner W. 2014. An update of ‘basic light and scanning electron microscopic methods for taxonomic
+studies of ciliated protozoa’. International Journal of Systematic and Evolutionary Microbiology 64:
+271–292. https://doi.org/10.1099/ijs.0.057893-0
+Fokam Z. 2012. Etude morphologique et phylogénie des Ciliés Astomes endocommensaux d’Oligochètes
+terricoles de la région de Yaoundé et ses environs. PhD thesis, Université de Yaoundé I, Cameroon.
+Fokam Z., Nhassam P., Boutin C. & Togouet S.H.Z. 2008. Trois espèces nouvelles de Coelophrya,
+Ciliés Astomes endocommensaux d’Alma nilotica (oligochète terricole) du Cameroun. Bulletin de la
+Société d’Histoire naturelle de Toulouse 144: 27–33.
+Fokam Z., Ngassam P., Strüder-Kypke M.C. & Lynn D.H. 2011. Genetic diversity and phylogenetic
+position of the subclass Astomatia (Ciliophora) based on a sampling of six genera from West
+African oligochaetes (Glossoscolecidae, Megascolecidae), including description of the new genus
+Paraclausilocola n. gen. European Journal of Protistology 47: 161–171.
+https://doi.org/10.1016/j.ejop.2011.02.002
+Fokam Z., Nana P.A., Moche K., Bricheux G., Bouchard P., Ngassam P. & Sime-Ngando T. 2015.
+Influence of soil physicochemical parameters on the abundance of Paracoelophrya polymorphus
+(Ciliophora: Radiophryidae) commensal of earthworms (Annelida: Glossoscolecidae) collected in
+Bambui (North-West Cameroon). Journal of Biodiversity and Environmental Sciences 6: 376–389.
+Fokam Z., Nana P.A., Bricheux G., Vigues B., Bouchard P., Ngassam P. & Sime-Ngando T. 2016.
+Correlation between some environmental variables and abundance of Almophrya mediovacuolata
+(Ciliophora: Anoplophryidae) endocommensal ciliate of an anecic earthworms (Oligochaeta: Annelida)
+in Bambui (North-West Cameroon). International Journal of Biological and Chemical Sciences 10:
+1983–1997. https://doi.org/10.4314/ijbcs.v10i5.4
+Ghosh E. 1918. Studies on Infusoria. Records of the Indian Museum (Calcutta) 15: 129–134.
+Gower J.C. 1971. A general coefficient of similarity and some of its properties. Biometrics 27: 857–871.
+https://doi.org/10.2307/2528823
+Guindon S., Dufayard J.F., Lefort V., Anisimova M., Hordijk W. & Gascuel O. 2010. New algorithms
+and methods to estimate maximum-likelihood phylogenies: assessing the performance of PhyML 3.0.
+Systematic Biology 59: 307‒321. https://doi.org/10.1093/sysbio/syq010
+Hall T.A. 1999. BioEdit: a user-friendly biological sequence alignment editor and analysis program for
+Windows 95/98/NT. Nucleic Acids Symposium Series 41: 95–98.
+Heidenreich E. 1935. Untersuchungen an parasitischen Ciliaten aus Anneliden. Teil I: Systematik.
+Archiv für Protistenkunde 84: 315–392.
+Hunter J.D. 2007. Matplotlib: a 2D graphics environment. Computing in Science and Engineering 9:
+90–95.
+Irwin N.A.T. & Lynn D.H. 2015. Molecular phylogeny of mobilid and sessilid ciliates symbiotic in
+eastern pacific limpets (Mollusca: Patellogastropoda). Journal of Eukaryotic Microbiology 62: 543–552.
+https://doi.org/10.1111/jeu.12208
+Irwin N.A.T., Sabetrasekh M. & Lynn D.H. 2017. Diversification and phylogenetics of mobilid peritrichs
+(Ciliophora) with description of Urceolaria parakorschelti sp. nov. Protist 168: 481–493.
+https://doi.org/10.1016/j.protis.2017.07.003
+Kay M.W. 1942. A new astomatous ciliate from the newt, Eurycea bislineata (Green). American Midland
+Naturalist Journal 27: 422‒427.
+34
+
+OBERT T. & VĎAČNÝ P., Morphology and phylogeny of five astome ciliates
+Kijenskij G. 1926. Nálevníci zažívací roury některých Oligochaetů pražského okolí (Morfologie.
+Nepohlavní množení. Systematika). Věstník Královské České Společnosti Nauk, Třída Matematicko-
+Přírodovědecká year 1925 (I): 1–32.
+Kumar S., Stecher G., Li M., Knyaz C. & Tamura K. 2018. MEGA X: Molecular Evolutionary Genetics
+Analysis across computing platforms. Molecular Biology and Evolution 35: 1547–1549.
+https://doi.org/10.1093/molbev/msy096
+Lom J. 1959. Beiträge zur Kenntnis der parasitischen Ciliaten aus Evertebraten. IV Neue Ciliaten aus der
+Familie Haptophryidae Cépède 1923, nebst einigen Bemerkungen zum heutigen Stand dieser Gruppe.
+Archiv für Protistenkunde 104: 133–154.
+Lom J. 1961. Some remarks on the morphology and taxonomy of astomatous ciliates from earthworms.
+Acta Societatis Zoologicae Bohemoslovenicae 25: 167–180.
+Lynn D.H. 2008. The Ciliated Protozoa. Characterization, Classification and Guide to the Literature.
+3rd ed. Springer, Dordrecht.
+Maupas E. 1879. Sur l’Haptophyra gigantea opaline nouvelle de l’intestine des batraciens anoures
+d’Algérie. Comptes Rendus hebdomadaires Séances de l’Académie des Sciences 88: 921–923.
+McAllister C.T. & Trauth S.E. 1996. Ultrastructure of Cepedietta virginiensis (Protista: Haptophryidae)
+from the gall bladder of the pickerel frog, Rana palustris, in Arkansas. Proceedings of the Arkansas
+Academy of Science 50: 133–136.
+McAllister C.T., Upton S.J. & Trauth S.E. 1993. Endoparasites of western slimy salamanders, Plethodon
+albagula (Caudata: Plethodontidae), from Arkansas. Journal of the Helminthological Society of
+Washington 60: 124–126.
+McKinney W. 2010. Data structures for statistical computing in Python. In: van der Walt S. & Millman
+J. (eds) Proceedings of the 9th Python in Science Conference: 51–56. Austin, Texas.
+Medlin L., Elwood H.J., Stickel S. & Sogin M.L. 1988. The characterization of enzymatically amplified
+eukaryotic l6S-like rRNA-coding regions. Gene 71: 491–499.
+Miller M.A., Pfeiffer W. & Schwartz T. 2010. Creating the CIPRES Science Gateway for inference of
+large phylogenetic trees. In: Proceedings of the Gateway Computing Environments Workshop (GCE):
+1–8. Piscataway, N.J., New Orleans, Louisiana.
+Nana P.A., Fokam Z., Viguès B., Bricheux G., Aghaindum G.A., Ngassam P., Nola M. & Sime-Ngando T.
+2018. Morphology and infraciliature of two new earthworm ciliates, Hoplitophrya polymorphus sp. nov.
+and Anoplophrya simplex sp. nov. (Ciliophora: Oligohymenophorea: Astomatia). Zootaxa 4392: 169–
+178. http://dx.doi.org/10.11646/zootaxa.4392.1.9
+Ngassam P. 1983. Trois espèces nouvelles de ciliés Astomes des genres: Almophrya de Puytorac et
+Dragesco, 1968, Maupasella Cépède, 1910, Njinella nov. genre, endocommensaux d’Annélides
+oligochètes de la région de Yaoundé. Protistologica 19: 131–135.
+Ngassam P., Fokam Z., Gangoué P.J. & Motchebe N.G.M. 1998. Complément à la connaissance de deux
+ciliés Astomes endocommensaux d’Oligochètes terricoles de la région de Yaoundé. Cameroun Journal
+of Biological and Biochemical Sciences 8: 17–30.
+Oliphant T.E. 2015. Guide to NumPy. 2nd ed. Continuum Press, Austin, Texas.
+Paisán L., Alonso P., Anadón R. & Alvarez S. 2009. Descripción y primera mención en España de
+cuatro especies de ciliados endobiontes de Eisenia fetida (Savigny, 1826) (Annelida, Oligochaeta,
+Lumbricidae). Boletín de la Real Sociedad Española de Historia Natural, Sección Biológica 103: 37–47.
+35
+
+European Journal of Taxonomy 559: 1–37 (2019)
+Pedregosa F., Varoquaux G., Gramfort A., Michel V., Thirion B., Grisel O., Blondel M., Pettenhofer P.,
+Weiss R., Dubourg V., Vanderplas J., Passos A., Cournaupeau D., Brucher M., Perrot M. & Duchesnay É.
+2011. Scikit-learn: Machine Learning in Python. Journal of Machine Learning Research 12: 2825–2830.
+Pižl V. 2002. Žížaly České republiky. Sborník přírodovědného klubu v Uherskom Hradišti Supplementum
+9: 1–154.
+Rataj M. & Vďačný P. 2018. Dawn of astome ciliates in light of morphology and time-calibrated
+phylogeny of Haptophrya planariarum, an obligate endosymbiont of freshwater turbellarians. European
+Journal of Protistology 64: 54–71. https://doi.org/10.1016/j.ejop.2018.03.004
+Rataj M. & Vďačný P. 2019. Living morphology and molecular phylogeny of oligohymenophorean
+ciliates associated with freshwater turbellarians. Diseases of Aquatic Organisms 134: 147–166.
+https://doi.org/10.3354/dao03366
+Ronquist F., Teslenko M., van der Mark P., Ayres D.L., Darling A., Höhna S., Larget B., Liu L.,
+Suchard M.A. & Huelsenbeck J.P. 2012. MrBayes 3.2: efficient Bayesian phylogenetic inference and
+model choice across a large model space. Systematic Biology 61: 539–542.
+https://doi.org/10.1093/sysbio/sys029
+Rossolimo L. 1926a. Parasitische Infusorien aus dem Baikalsee. Archiv für Protistenkunde 54: 468–510.
+Rossolimo L. 1926b. Über einige neue und wenig bekannte Infusoria-Astomata aus den Anneliden des
+russischen Nordens. Zoologischer Anzeiger 68: 52–57.
+Sauvadet A.L., Lynn D.H., Roussel E.G., Le Panse S., Bigeard E., Schrével J. & Guillou L. 2017.
+Redescription and phylogenetic analyses of Durchoniella spp. (Ciliophora, Astomatida) associated with
+the polychaete Cirriformia tentaculata (Montagu, 1808). European Journal of Protistology 61: 265–277.
+https://doi.org/10.1016/j.ejop.2017.06.007
+Schneider C.A., Rasband W.S. & Eliceiri K.W. 2012. NIH Image to ImageJ: 25 years of image analysis.
+Nature Methods 9: 671–675. https://doi.org/10.1038/nmeth.2089
+Schultze M.S. 1851. Beiträge zur Naturgeschichte der Turbellarien. C.A. Koch’s Verlagshandlung,
+Greifswald.
+Sela I., Ashkenazy H., Katoh K. & Pupko T. 2015. GUIDANCE2: accurate detection of unreliable
+alignment regions accounting for the uncertainty of multiple parameters. Nucleic Acids Research 43:
+W7–W14. https://doi.org/10.1093/nar/gkv318
+Shimodaira H. 2002. An approximately unbiased test of phylogenetic tree selection. Systematic Biology
+51: 492–508. https://doi.org/10.1080/10635150290069913
+Shimodaira H. 2008. Testing regions with non-smooth boundaries via multiscale bootstrap. Journal of
+Statistical Planning and Inference 138: 1227–1241. https://doi.org/10.1016/j.jspi.2007.04.001
+Shimodaira H. & Hasegawa M. 2001. CONSEL: for assessing the confidence of phylogenetic tree
+selection. Bioinformatics 17: 1246–1247. https://doi.org/10.1093/bioinformatics/17.12.1246
+Sikora J. 1963. Study on the parasitic ciliate Steinella uncinata (Schultze). Acta Protozoologica 1: 13–
+20.
+Swofford D.L. 2003. PAUP*. Phylogenetic Analysis Using Parsimony (*And Other Methods). Version
+4.0b 10. Sinauer Associates, Sunderland.
+Tamura K. & Kumar S. 2002. Evolutionary distance estimation under heterogeneous substitution pattern
+among lineages. Molecular Biology and Evolution 19: 1727–1736.
+https://doi.org/10.1093/oxfordjournals.molbev.a003995
+36
+
+OBERT T. & VĎAČNÝ P., Morphology and phylogeny of five astome ciliates
+Vďačný P. 2018. Evolutionary associations of endosymbiotic ciliates shed light on the timing of the
+marsupial-placental split. Molecular Biology and Evolution 35: 1757–1769.
+https://doi.org/10.1093/molbev/msy071
+Vďačný P., Érseková E., Šoltys K., Budiš J., Pecina L. & Rurik I. 2018. Co-existence of multiple
+bacterivorous clevelandellid ciliate species in hindgut of wood-feeding cockroaches in light of their
+prokaryotic consortium. Scientific Reports 8: 17749. https://doi.org/10.1038/s41598-018-36245-y
+Vďačný P., Rajter Ľ., Stoeck T. & Foissner W. 2019. A proposed timescale for the evolution of
+armophorean ciliates: clevelandellids diversify more rapidly than metopids. Journal of Eukaryotic
+Microbiology 66: 167–181. https://doi.org/10.1111/jeu.12641
+von Siebold C.T. 1839. Beiträge zur Naturgeschichte der wirbellosen Thiere. Ueber Medusa, Cyclops,
+Loligo, Gregarina und Xenos. Neueste Schriften der Naturforschenden Gesellschaft in Danzig, Vol 3.
+Fr. Sam. Gerhard, Danzig.
+Williams G.W. 1942. Observations on several species of Metaradiophrya (Protozoa, Ciliata). Journal of
+Morphology 70: 545–589.
+Manuscript received: 13 May 2019
+Manuscript accepted: 15 July 2019
+Published on: 1 October 2019
+Topic editor: Rudy Jocqué
+Desk editor: Eva-Maria Levermann
+Printed versions of all papers are also deposited in the libraries of the institutes that are members of
+the EJT consortium: Muséum national d’Histoire naturelle, Paris, France; Meise Botanic Garden,
+Belgium; Royal Museum for Central Africa, Tervuren, Belgium; Royal Belgian Institute of Natural
+Sciences, Brussels, Belgium; Natural History Museum of Denmark, Copenhagen, Denmark; Naturalis
+Biodiversity Center, Leiden, the Netherlands; Museo Nacional de Ciencias Naturales-CSIC, Madrid,
+Spain; Real Jardín Botánico de Madrid CSIC, Spain; Zoological Research Museum Alexander Koenig,
+Bonn, Germany; National Museum, Prague, Czech Republic.
+37
+

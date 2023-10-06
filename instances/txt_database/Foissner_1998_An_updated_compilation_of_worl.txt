@@ -1,0 +1,2449 @@
+Europ.J.Protistol, 34, 195-235(1998) EuropeanJournalof
+June16, 1998 PROTISTOLOGY
+Review
+An Updated Compilation of World Soil Ciliates
+(Protozoa, Ciliophora), with Ecological Notes,
+New Records, and Descriptions of new Species
+Wilhelm Foissner
+UniversitatSalzburg,InstitutfurZaalagie, Salzburg,Austria
+Summary community is differentfrom freshwater and other cili
+ate assemblages. Since then many new species and
+This review compiles and analyses the taxonomic and bio records of soil ciliates have beendescribed. Thepresent
+geographicalinformationavailableonsoilciliates.Keyliter review summarises and analyses these and older taxo
+ature(257references)istabulatedfor each species.Further
+nomic and biogeographical data. Furthermore, about
+more,about500new recordsare reportedfromhundredsof
+500 new records are listed from hundreds of samples
+samples collected world-wide, and four new species are de
+collected world-wide. During these studies, more than
+scribed from Kenyan soils, including the new genus Apo
+bryophyllum; Metopus ovalis Kahl, 1927 is redescribed. 643 500 new species, a few of which are described here,
+ciliate specieswere originallydescribed or reliably recorded were found, confirming a previous estimation that
+fromabout1000soilsamples world-wide,49(7.6%) ofthem thereare atleast 1330-2000species of soilciliates [96].
+were later recognized as junior synonyms, and 78(13.2%)
+have been poorly described, leaving a total of 516 well
+known species. However, the studied samples contained
+Material and Methods
+about 700new species,mostofwhich (about500)have not
+yet been described. Thus, the total number of soil ciliates
+amountsto at least 1000species.The overwhelmingportion Areas andsampling
+ofsoilciliates belongs to three systematic assemblages, viz.
+thehypotrichs(39%),gymnostomatids(26%) andcolpodids About 817 samples were collected and analysed from
+(13%) if the undescribed species are taken into account. countries world-wide, including all main biogeographic re
+gions (Tab.1,Fig.1).Generally, collectionsweremadefrom a
+Most soil ciliates feed on bacteria (39%) or are predatory
+(34%) or omnivorous (20%). Some are strictly my variety of biotopes covering most principal soil and vegeta
+cophagousandhighlycharacteristicfor terrestrialhabitats; tiontypes of the respective region. Detailedsite descriptions
+for the new records willbeprovidedinlaterpublications.
+andafew(mainlymetopids)are anaerobic.Onlyaboutone
+The material collected usually included mineral top soil
+fourth of the soil ciliate species has been reliably reported
+from freshwater habitats and from more than threeoutof (0-5 emdepth)with fineplantroots, the humic layer,and the
+fivemain biogeographical regions, indicating a high speci deciduous and!or grasslitter from the soil surface. Further
+more, many samples contained some terrestrial or arbori
+ficity ofthe soilciliate biota and alimiteddistributionofat
+colous mosses with adheringsoiland!or bark from trees. All
+leastsomespecies.This issupportedbytheobservationthat
+someveryconspicuousspecies,such asKrassniggiaauxiliaris these habitats are referred to as "terrestrial", as opposed to
+and Bresslauidesdiscoideus, have sofar been found only in freshwater, because they contain, although in varying
+Gondwanan,respectively,Laurasiansoils. amounts, true humic and mineral soil [73].Usually, about 10
+small subsamples were taken from an area of about 100 m2
+and mixed to acompositesample. Allsampleswere air-dried
+Key words: Biodiversity; Community structure; Geo
+for at least one month and then sealed in plastic bags. Such
+graphicdistribution;Newspecies;Soilciliates; Taxonomy.
+samplescanbestoredforyearswithoutanysignificantlossof
+species[73,and unpub!. results].
+Introduction
+Sample processing andcommunity analysis
+The last comprehensive review on diversity and All collections were analysed with the non-flooded Petri
+ecology of soil ciliates was published in 1987 [73]. It dish method as described in [73, 83]. Briefly, this simple
+listedalmost300species and showedthatthe soilciliate method involvesplacing 10-50 gterrestrial material inaPetri
+© 1998 byGustavFischerVerlag
+
+196 W.Foissner
+Table1. Originand numberofsamples investigated. dish (10-15 emin diameter)and saturatingbutnotfloodingit
+withdistilledwater. Suchcultureswereanalysedfor ciliatesby
+Biogeographicregion Numberof inspectingabout2mloftherun-offondays2,7,14,21,and28.
+samplesinvestigated The non-flooded Petridish methodisselective,thatisproba
+bly only asmall proportion of the resting cysts present in a
+HOLARCTIS sample isreactivated, and undescribed species or specieswith
+specialized demands are very likely undersampled [96].Thus,
+Austria about3001,3)
+the realnumber of species, described and undescribed, in the
+Germany about101,3)
+samplesinvestigatedisprobablymuchhigher.Unfortunately,a
+Denmark 122)
+bettermethodfor broadanalysisofsoilciliatesisnotknown.
+Finland 10
+Iceland 112)
+Portugal 2 Identificationof species andspecies concept
+Italy 2
+Greece 102) Identification of species was according to the literature
+Japan 232) cited inthis paper. Mostofthe speciesfoundwereeithernew
+or describedorredescribedbymy studentsand myself. Thus,
+subtotal380 identification was mainly of live specimens using a high
+power oil immersion objective and differential interference
+contrast. However, all "difficult", new or supposedly new,
+PALAEOTROPIS species were treated with the silver staining techniques de
+Kenya 562) scribedin[82].Usually,these methodsyield permanentslides
+whichhavebeen orwill bedepositedinthe Oberosterreichis
+Tanzania 6
+cheLandesmuseuminLinz(LI).
+Cameroon 8
+The species concept, of course, influences the number of
+Namibia(EtoshaPan) 12
+species found and/or recognised as "undescribed". I usually
+RepublicofSouthAfrica 10
+applythe morphospeciesconceptwhichis,accordingto Fin
+lay et al. [55],asvalid as any, and probably more pragmatic
+subtotal92
+than any other. I do not consider myself a splitter, that is I
+classify new species as such only when populations can be
+separated from their nearest relatives by at least one distinct
+AUSTRALIS
+(non-morphometric)morphologicalcharacter.Forexamples,
+AustraliaandTasmania seepaperscited and speciesdescribedinthis review.
+NEOTROPIS Species descriptions
+CostaRica 332) The species described were found in soils from Kenya,
+Venezuela 16 equatorialAfrica. Thesoils ofthis region containaveryrich
+Brazil 52) ciliate community. 507 species were found in 92 samples,
+Peru 4 240ofthem wereundescribed[96].
+Chile 29 Protospathidium terricola: Grassland soil (0-3 em) from
+Mt. Kenya nearthe lodge"TheArk",about2300mabove sea
+subtotal87 level.Soilreddish,humic,pH6.4.Collectedon 1.7.1985,in
+vestigatedon25.7.1986.
+Apobryophyllum terricola and Tachysoma humicola
+ARCHINOTIS
+longisetum:Litter, humus,and mineralsoilfromasmallplant
+Continentaland maritimeAntarctis about731) island withinyoung(some hundredyears) lavamasses ofthe
+Gough&MarionIslands 271) Shetani vulcano, a black and almost bare, fascinating area in
+theTsavoNationalPark.Soilbrownish,pH7.6.Collectedon
+subtotal100 8.7.1985,investigatedon 1.4.1986.
+Metopus ovalisand Keronopsisdieckmanni: Grasslandsoil
+Totalnumberofsamples investigated 817 from shore of Lake Baringo, one of the highly saline, out
+standingFlamingolakes in Kenya. Soilbrownish, humicand
+Taxonomicandfaunistic data almostcompletelypublished, saline(saltcrystalswereformedwhenadropofthe soilwater
+1)
+e.g.[2,9,12-14, 16,62-65,69,70,73-75,77,81,94,95,108, evaporated on the slide), pH 7.3.Collected on 2. 7.1985,in
+111,113,161,162,183,184,189]. vestigatedinOctober1985.
+2) Taxonomic and faunistic data partially published, e.g. [8, Methodsfollowthoseused inmy previouspapers[e.g.82,
+11,20,21,49,71,72,73,75,78,87,93,97].Note,however, 84,95].Two or three typeslides (1holotypeand 1to 2para
+that almost all colpodids from all samples investigated so types) each of the new species described and two voucher
+farhavebeenpublished[84-86,89,90,93]. slides of the species redescribed have been deposited in the
+Manysites were investigated several times during aperiod Obcrosterreichischc Landesmuseum in Linz (LI), Austria.
+3)
+of 1-3years; allsamples from the othercountries are from The slidesusuallycontainmanyprotargol-impregnatedcells,
+differentsites.Detailsofthese siteswillbeprovidedinlater with relevant specimens marked by ablack inkcircle on the
+papers. cover glass.
+
+Soilciliate diversity 197
+Fig.1. Biogeographicregionsaccordingto[174].Hatchedareasaretransition zones.
+Results and Discussion Uniqueness ofthe soilciliate biota
+Only 25% (16% if the undescribed species are in
+Thedata aresummarizedinTables2-4,asin my pre
+cluded) of the described species have been reliably
+vious review [73]. The present compilation is more
+recorded from both soil and freshwater habitats (Tab.
+complete,considersextensivelytheolderliterature,and
+4).Thus,therewouldappearto be ahigh proportionof
+includes many new records from soils world-wide
+species which occur only or mainly in terrestrial envi
+(Tab. 2). Furthermore, the quality of species descrip
+ronments and verylikely evolved in such habitats [73].
+tions was analysed and detailed taxonomic literature
+The most characteristic soil ciliates are colpodids, but
+compiledfor each species (Tab.3).
+many autochthonous genera and species occur also
+The new compilation largely confirms and
+among hypotrichs (e.g., Circinella spp., Hemisincirra
+strengthens the conclusions from myprevious revie.w
+spp., Erniella filiformis, Terricirra spp.) and gymno
+[73], for instance, that soil ciliates are on average
+stomatids (e.g., Coriplites terricola, Pleuroplitoides
+smallerand moreslenderthanfreshwater ciliates(Tab.
+smithi, Spathidiumspp., Epispathidiumspp.).
+4). I believe that these are adaptations to the film-like
+distribution of the water and the narrowness of the
+habitat, that is the soil pores. Thus, the following sec
+Community structure
+tions concentrate on aspects which could not be suc
+cessfully treated in 1987 [73] due to the limited data Most soil ciliates belong to three systematic assem
+available, for instance, concerning geographic distri blages (Tab. 4), that is hypotrichs (36%), colpodids
+bution. (22%)and gymnostomatids(17%). However, thesepro
+A special note is necessary on my unpublished portions change considerably if the as yet undescribed
+taxonomic materialwhichisoccasionallyreferred to. species mentioned aboveare included (Tab.4):39% hy
+Itamounts to about500 newspecies,includingmany potrichs, 26% gymnostomatids, 13% colpodids. The
+newgeneraandsomenewfamilies. Thesespecies,the dominance of colpodids in the published material is
+full description ofwhich will require years ofwork, caused by the factthatnearlyallnew speciesfound have
+were found in the samples listed in Table 1 and beendescribed[84-86,89,90,93;Tab.4].However,even
+in about 150 other samples not included in this re ifthe lower, more realistic figure (13%) istaken, the di
+view because the data have not been sufficiently versityof colpodidsismuch higherin soilthan infresh
+checked. water(13% vs.5% [73]).The reasonfor thehighdiversi-
+
+198 W.Foissner
+ty ofcolpodidsinterrestrialenvironmentsisnotwellun thoroughlydescribedusing appropriatetechniqueslike
+derstood. Possibly,theirabilityto evolvediversefeeding silverimpregnation.
+strategies (bacterivory, fungivory, omnivory, predatori Further progress and a distinct rise in species num
+ness)and body sizes(10-1000 pm)favoured colonization ber may be expected when specialists will begin to in
+ofandadaptive radiationinsuchhabitats, asindicatedby vestigate the epizoic ciliate biota of euterrestrial inver
+the high proportion of autochthonous species [84, 92]. tebrates, an almostunexplored field, with afew excep
+The overwhelmingdiversityofhypotrichsismore easily tions, viz. Pyxidium longicollum attached to shells of
+explained. All are ciliated only on the ventral (oral) sur testateamoebae[19]and P. tardigradumliving on tardi
+faceand most arevery slenderand/orstronglyflattened. grades [233].Likewise, ciliatesattached to soil particles
+Such organisation is pre-adaptive in terrestrial habitats, and moss leaves via a stalk are poorly known because
+where water is frequently available only as a thin film they are usually not found with the non-flooded Petri
+covering soilparticles and pores. The samestructuralor dish method. Fewof the sessile,muscicolous peritrichs
+ganisationisfound incyrtophoridciliates,aconspicuous and suctoria described by Penard [177, 178] have been
+and diverse group in the Aufwuchs (periphyton) of rediscovered.
+freshwaters [114].Their low diversity (2.2%) in soils is Anotherrise in the numberofspecies can be expect
+possibly related to food: most cyrtophorids prefer edwhenthe large floodplains ofthe worldare explored
+diatomswhich are,comparedto freshwaters, rare in soil. for soil ciliates. Twenty-onenew species were found in
+The considerable number of gymnostomatids, most of twosamples from the Amazonfloodplain nearManaus
+which are rapacious carnivores, indicates that the soil [97].
+ciliatecommunityiswell-structured.
+Thecompilationcontainsalsosome planktonic(e.g.,
+Geographic distribution
+Linostomavorticella, Hastatella radians) and anaerobic
+(Metopus spp., Brachonellaspp.) species(Tab.2).These The high ciliate diversity in terrestrial environments
+were mainlyfound in soils from swampsand/orflood remained unrecognised for a long time because of the
+plains. Mostwere recorded in few samples only, except lack of an appropriate isolation method (still a great
+for some Metopus species, which are rather common problem[96])and the view ofmanyecologists thatsoil
+and excellentindicatorsof anaerobicconditions[115]. ciliates are common invaders from freshwaters and ac
+tivated sludge(forreviews, see[73,91,92]).Thus,most
+of the older faunistic and ecological literature is bur
+The number of ciliate speciesliving in soil
+dened withmisidentificationsandisalmostuseless.Ac
+Table 2 lists 643 species found in 817 samples anal cordingly,ithas been excludedfrom this review.
+ysed by my group (Tab. 1)and in anunknownnumber The reliable information on geographic distribution
+of collections investigated by others, especially Greeff ofsoilciliatesiscompiledinTable2,and includesabout
+[135], Penard [177-179], Kahl [152-157], Gellert 500 new records mainly from tropical soils in Africa,
+[126-130], Buitkamp [26-28], and Hemberger [138]. Australia, Costa Rica, and South America. A rough
+Supposing that these authors probably studied about frameworkofonlyfivewidely recognisedbiogeograph
+200samples, the compilationwouldbebased onrough ic regions (Holarctic, Palaeotropis, Australis, Neotro
+ly 1000collections. pis,Archinotis;Fig. 1)hasbeenused because ofthevery
+Ofthe 643ciliatespecies originallydescribedorreli limited data available. Substantial biogeographic infor
+ably recorded from terrestrial habitats, 49(7.6%) were mation has been extracted mainly from the following
+laterrecognizedasjunior,subjectivesynonyms, and 78 studies,mostofwhichconcernthe Holarcticregion: [2,
+(13.2%) have been poorlydescribed (Tab.2-4), leaving 16,17,20,26,27,30,35,62,71-74,78,84-86,93-95,97,
+a total of 516 well-known species. Ifwe add 500 new, 108,113,128,129,132,143,152,154,155,157,161,162,
+not yet described species mentioned above, we obtain 182,185,189,190,195,198,199,205,206,229,230,240].
+roughly 1000species of soil ciliates, that is about half While ecologists tend to consider protozoa as cos
+the numberrecentlyestimatedto bepresentby aprob mopolitan [55], taxonomists have arguedfor arestrict
+ability calculation [96]. The synonymy rate is low ed distribution of at least some genera and species [73,
+(7.6%) as compared, for instance, to insects, where 91, 92, 96]. In my experience, many morphological
+rates between 20-50% have been reported [121, 122, species of soil ciliates are cosmopolitan, depending
+168], and to ciliates in general, for which Finlay et al. mainly on appropriate habitats. This is also indicated
+[55] estimated a rate of 20-30%. The low synonymy by the rather limited genetic differentiation found
+rate in soil ciliates is very likely caused by the limited among 15isolates from three continents of a common
+numberof specialists workingin this field, the distinc soilciliate, Colpodainf/ata [24].
+tiveness of the biota, and the fortunate situation that The presentreviewcannotprovideadefiniteconclu
+more than half of the species were rather recently and sion on the extent of endemism in soil ciliates because
+
+Soil ciliatediversity 199
+Table 2. Taxonomic and ecological summary of world soil ciliate faunal). For statistics (number of species, percentage of syn-
+onyms,etc.),seeTable4.
+Species" Taxo- Biomass FoodS) Geographicdistri- Degree
+nomic of 106 bution'" ofauto-
+group" indiv. chtho-
+(rng)? H P A N Ar nism"
+Acaryophryacollaris(Kahl, 1926)Dingfelder,1962 GY 113 B,C + + ~:-
+Acineria uncinataTucolesco,1962 GY 10 C,F + + + + ::.
+Acineta[lava Kellicott, 1885 SU 30 C? + ~f-
+AcropisthiummutabilePerty, 1852 GY 35 C + + + :f-
+Actinobolinavorax(Wenrich, 1929)Kahl, 1930 GY 250 C,R + ::.
+AlinostomamultivacuolatumAlekperov,1993 CY 700 ? + ;:~;:.
+AmphibotrellaenigmaticaGrandori& Grandori,1934 ? 1750 ? + ;f-;:.
+Amphisiellabinucleata(Hemberger,1985)Foissner,1988 HY 96 F? + + ::.;:.
+AmphisiellamagnigranulosaFoissner, 1988 HY 90 C,G,H + + + + ::':f-
+AmphisiellapolycirrataBerger& Foissner, 1989 HY 120 C,F + + ::.;f-
+AmphisiellaquadrinucleataBerger& Foissner,1989 HY 70 C + ::':f-
+AmphisiellaraptansBuitkamp& Wilbert,1974 HY 1280 C,N + ::.:f-::.
+AmphisiellaterricolaGellert,1955 HY 100 C + + + + ::';f-::'
+Amphisiellavitiphila(Foissner, 1987)Foissner,1988 HY 92 C,F + + ::.::-
+Amphisiellidesatypicus (Hemberger,1985)Foissner,1988 HY 184 ? + ;f-;;.
+AmphisiellidesilluvialisEigner& Foissner,1994 HY 38 B,C + ::-
+Apoamphisiellatihanyiensis(Gellert& Tamas, 1958) HY 300 C,E,F,H,N,
+Foissner, 1997 R,T + :f-
+ApobryophyllumterricolaFoissner(thispaper) GY 30 C? + ::-::.::-
+Apocolpodaafricana Foissner, 1993 CO 16 B + ;:~::.::.
+Archinassula muscicolaKahl, 1935 NA? 77 B + ::.;:.
+Arcuospathidiumatypicum(Wenzel,1953)nov.comb. GY 20 C,H + + + + ::':f-
+ArcuospathidiumaustraleFoissner, 1988,synonymwithA.atypicum
+ArcuospathidiumcooperiFoissner, 1996 GY 38 C? + ::.;:-
+Arcuospathidiumcultriforme(Penard,1922)Foissner,1984 GY 180 C + + + + ::.::.::.
+ArcuospathidiumjaponicumFoissner, 1988 GY 23 C + + ::-::.
+Arcuospathidiumlionotiforme(Kahl, 1930)Foissner,1984 GY 400 C + + + + ::.::.::-
+Arcuospathidiumrnuscorum(Dragesco& Dragesco-
+Kerneis, 1979)Foissner,1984 GY 87 C,H + + + + ::-::.
+ArcuospathidiumvermiformeFoissner, 1984 GY 28 C? + + ::.;:.::.
+Aspidiscacicada(Muller, 1786)Claparede& Lachmann,1858 HY 5 B + ::.
+Aspidiscalynceus (Muller, 1773)Ehrenberg,1830· HY 6 B + + ::-
+AustralocirrusoctonucleatusFoissner, 1988 HY 720 B,C,F,G,H + + + + ::.::.
+AustralocirrusoscitansBlatterer& Foissner,1988 HY 990 C,F,G,H,T + + + + ;:.~.;:.
+AustralothrixalwinaeBlatterer& Foissner,1988 HY 1200 B,C,F,H,R,T + ::-::.
+AustralothrixaustralisBlatterer& Foissner,1988 HY 1120 C,F,H,R,S,T + :;.::.
+AustralothrixsimplexShen,Liu,Song& Gu, 1992 HY 270 ? + ::.::.
+AustralothrixsteineriFoissner, 1995 HY 81 B,F,H + + ::.::.::.
+Avestinaacuta (Buitkamp,1977)Jankowski, 1980 CO 4 B + + ::-:;.
+AvestinaludwigiAescht& Foissner, 1990 CO 5 H + + + ::-~.::.
+BakuellaedaphoniSong,Wilbert& Berger,1992 HY 600 B,C,D,F,T + ::-::.
+BakuellapampinariaEigner& Foissner, 1992 HY 80 C,F,H + ::.::.
+BalantidioidesbivacuolataKahl,1932 HE 280 C + ::.::.::.
+Balantidioidescorbifera(Fryd-Versavel& Tuffrau,1978) ::.::.::.
+Foissner, Adam& Foissner, 1982 HE 360 C,G + ::.::.
+BalantidioidesdragescoiFoissner, Adam& Foissner,1982 HE 135 C + + + ::-::.::.
+Balantidioidesmuscicola(Penard,1922)Penard,1930 HE 120 R + ::.::.::-
+inKahl(1930)
+BardeliellapulchraFoissner, 1984 CO 8 B + + ::.::.::.
+BicoronellacostaricanaFoissner, 1995 HY 260 C,E,H,T + ::-::.
+Birojimia muscorum(Kahl, 1932)Berger & Foissner,1989 HY 100 C,F,H,S + + + + + ::-::-
+Birojimia terricolaBerger & Foissner, 1989 HY 140 C,F,H + ::-::.
+BlepharismaamericanumSuzuki,1954 HE 640 B,C,F + ::.
+Blepharisma biancae Lepsi, 1948 HE 10 ? + ::.::.
+
+200 W.Foissner
+Table2. continued.
+Species" Taxo- Biomass Food" Geographicdistri- Degree
+nomic of106 bution" ofauto-
+group" indiv. chtho-
+(rng)" H P A N Ar nism"
+BlepharismabimicronucleatumVilleneuve-Brachon,1940 HE 42 B + + + + + ~-
+BlepbarismahyalinumPerty,1849 HE 11 B,H + + + + + ::-
+BlepharismaichthyoidesGelei, 1939,synonymwithB.lateritium
+Blepharismalateritium(Ehrenberg,1831)Kahl,1932 HE 525 B,G + ::-
+Blepharismaouatum(Stokes, 1884)Penard,1922 HE 750 C,D,G + ::-
+BlepharismasteiniKahl, 1932 HE 69 B + + + + + ::-
+BlepharismaundulansStein, 1867 HE 225 B + + + ;;.
+Brachonellacydonia(Kahl, 1927)Jankowski,1964 HE 113 B + ::-
+BresslauainsidiatrixClaff,Dewey& Kidder, 1941 CO 192 C,F + + :~::.
+BresslauasicariaClaff,Dewey& Kidder,1941 CO 200 C,H + + :l-:i-
+BresslauauoraxKahl,1931 CO 113 B,C,F,G,H + + + + :i-::.
+BresslauidesaustralisBlatterer& Foissner,1988 CO 320 B,C,F,G,H,N- + ::-::.;:-
+Bresslauidesdiscoideus(Kahl,1931)Foissner,1993 CO 9000 C,E,R + ::-::-::-
+Bresslauidesterricola(Foissner,1987)Foissner, 1993 CO 2200 C,H + + + + :i-:l-:f-
+Bryometopusalekperovinov.comb.,nov.nom.'?' CO 3200 ? + ::-::-
+BryometopusatypicusFoissner,1980 CO 45 B,F,G + + + + ~.
+BryometopusbalantidioidesFoissner,1993 CO 30 B + *~.
+.,-...-
+BryometopusedaphonusFoissner,1980 CO 24 B? +
+BryometopushawaiiensisFoissner,1994 CO 30 B,F,G,S + + *
+BryometopuspseudochilodonKahl, 1932 CO 22 B,G + + + + + ::.::.
+Bryometopussphagni(penard,1922)Kahl,1932 CO 198 B,C,D,G + + + + ::-
+BryometopustriquetrusFoissner,1993 CO 10 B,E,F + + + + ::-::-
+Bryopbryabavariensis(Kahl, 1931)Wenzel,1953 CO 85 E + *::.:-:
+Bryophryarubescens(Penard,1922)Foissner,1993 CO 150 E + :-:::-
+BryophyllumloxophylliformeKahl,1931 GY 252 C,E,H,R + + + + + ::-::-
+BryophyllumtegularumKahl, 1931 GY 100 C,R + + -e-e-
+BuitkampiaangustaFoissner,1985,synonym withPlatyophryavorax
+BursariatruncatellaMiiller, 1773 CO 50000 C,D,F,G,R,T + + + + *
+ChaeneaclavataGrandori& Grandori,1934 GY 50 ? + ::.::.
+.....-
+ChaeneahumicolaGellert,1957 GY 4 ? +
+ChilodongeographicusPenard,1922,synonymwithOdontochlamysgouraudi
+ChilodonellaaplanataKahl, 1931 CY 10 + ::-
+ChilodonellapigraLepsi,1951 CY ? + ::-::-
+Chilodonellauncinata(Ehrenberg,1838)Strand,1928 CY 13 B + + + + ::-
+Chilodonellauncinata(Ehrenberg)inGellert[126],synonymwith Pseudochilodonopsismutabilis
+ChilodontopsismuscorumKahl,1931 NA 15 ? + + ::-::.::-
+ChilophryaterricolaFoissner,1984 PR 9 C? + :}::.
+ChlamydonellaalpestrisFoissner,1979 CY 4 B,D + ::-
+Cinetochilummargaritaceum(Ehrenberg,1830)Perty,1852 HM 10 B,D,G + + + + ::-
+CinetochilummarinumPomp& Wilbert,1988 HM 5 B + :l-*
+CircinellaarenicolaFoissner, 1994 HY 120 B + ::-::.::-
+Circinellafiliformis(Foissner,1982)Foissner,1994 HY 5 ? + + + **::.
+Circinellavettersi(Berger& Foissner, 1989)Foissner, 1994 HY 23 ? + + + :.:*::-
+CirrophryaaustralisFoissner,1993 CO 20 ? + --'"-',-
+CirrophryahapticaGellert,1950 CO 25 B,G + ::-:..~::-
+CirrophryaterricolaFoissner, 1987 CO 20 C + :.::-::-:
+CladotrichaaustralisBlatterer& Foissner,1988 HY 20 B,H + ::.::-
+ColpodaasperaKahl, 1926 CO 6 B + + + + + ::.::.
+ColpodaatraAlekperov,1993 CO 1600 B,F + ::.::-
+ColpodaaugustiniFoissner, 1987 CO 20 B + + + + ;.!.::-::-
+ColpodabifurcataAlekperov, 1993,synonymwithC.lucida
+ColpodacalifornicaKahl, 1931 CO 5 + + **
+ColpodacavicolaKahl, 1935 CO 240 B,G,H + + ::.::.
+ColpodacolpidiopsisKahl, 1931 CO 12 B,F + + :}
+Colpodacucullus(Miiller,1773)Gmelin, 1790 CO 74 B,F,G + + + + + ::.
+
+Soil ciliatediversity 201
+Table2. continued.
+Species" Taxo- Biomass FoodS) Geographicdistri- Degree
+nomic of 106 burien" ofauto-
+group) indiv. chtho-
+(mg)? H P A N Ar nism"
+ColpodaduodenariaTaylor& Furgason,1938,synonymwith C.steinii
+Colpodaecaudata(Liebmann,1936)Foissner, Blatterer,
+Berger& Kohmann, 1991 CO 9 B + + + + + ;:.
+ColpodaedaphoniFoissner,1980 CO 10 B + + + + ;:-::-::-
+ColpodaelliottiBradbury& Outka,1967 CO 5 B + + + + ;:-;:-
+ColpodaeurystomaGellert,1950,synonymwithKalometopiaduplicata
+ColpodafastigataKahl, 1931,synonymwithC.maupasi
+Colpodaflavicans(Stokes, 1885)Foissner, 1993 CO 80 B,E + + + + :~
+ColpodahenneguyiFabre-Domergue,1889 CO 122 B,H + + + + + :f-:~
+Colpodainflata(Stokes,1884)Kahl, 1931 CO 40 B,F + + + + + ::-
+ColpodairregularisKahl, 1931 CO 72 ? + + ~:.
+ColpodalucidaGreeH, 1888 CO 230 B + + + + + ::.~i-
+Colpodamagna(Gruber,1879)Lynn,1978 CO 1400 B,C,F,G + + + + ::-
+ColpodamaupasiEnriques,1908 CO 39 B + + + + + ::.;:.
+Colpodaminima(Alekperov,1985)Foissner,1993 CO 420 B + + + + ::-
+ColpodaorientalisFoissner,1993 CO 300 B + + + ;:-:'",
+ColpodapraestansPenard,1922 CO 750 B,E,H + + ..-#,-
+ColpodareniformisKahl, 1931 CO 180 E? + *::-
+ColpodasimulansKahl,1931 CO 70 ? + ::~*
+ColpodaspiralisNovotny,Lynn& Evans,1977,synonymwith C.cavicola
+ColpodasteiniiMaupas, 1883 CO 5 B,E,G,H + + + + + ::-
+ColpodatripartitaKahl,1931 CO 240 B + + + + ::.::.::~
+ColpodavariabilisFoissner, 1980 CO 300 B,G + + + + ~.
+ColpodidiumcaudatumWilbert,1982 NA 30 B + + + + ::.;:.::-
+Colpodidiumviridis(Mirabdullaev,1986)Jankowski,1992 NA 80 ? + + ::-
+CondylostomaterricolaFoissner, 1995 HE 70 C,F,H,S + ::-;:-
+Corallocolpodagrelli(Foissner, 1993)Foissner,1993 CO 20 C,H + ::.::.;:-
+CorallocolpodapacificaAlekperov, 1991 CO 280 C + + + I>....~.
+CoriplitesterricolaFoissner,1988 GY 7 C,F + + + + ::-:.:
+CorticocolpodakaneshiroaeFoissner, 1993 CO 1050 C + ::-*:;.
+CosmocolpodanaschbergeriFoissncr,1993 CO 75 B + :;.:;-:;.
+Cothumiaminutissima(Penard,1914)Kahl, 1935 PE 15 B + :;.:;.
+CothumiaregalisPenard, 1914,synonymwithThuricolainnixa
+Cotburniarichtersi(Penard,1914)Kahl,1935 PE 12 B + + ::-:;.
+CothumiopsiselasticaPenard,1914,synonymwithC.valvata
+CothumiopsisvalvataStokes,1893 PE 8 B + :;.
+CyclidiumglaucomaMuller,1773 HM 2 B,G + + + + :;.
+CyclidiummuscicolaKahl,1931 HM 1 B + + + + + ::-::-
+CyclidiumopisthostomaGrandori& Grandori, 1934,synonymwithHomalogastrasetosa
+.....-
+CyclidiumterricolaKahl,1931 HM 3 B + + +
+CyrtohymenaaustralisFoissner,1995 HY 1330 C,H,T + + *::.
+Cyrtohymenaballadynula(Kahl, 1932)Foissner,1989 HY 4 ? + ::-::.
+Cyrtohymenacandens(Kahl, 1932)Foissner,1989 HY 150 B,C,F,N + + + + + ::-::-
+Cyrtohymenacandensdepressa(Gellert,1942)Foissner, 1989 HY 120 B,D,F + + + + ;:.*
+Cyrtobymenacitrina(Berger & Foissner, 1987)Foissner,1989HY 54 C,D,H,T + + + + ;:-::.
+Cyrtohymenadubia(Gellert, 1956)nov.comb.,synonymwithC.muscorurn
+Cyrtohymenagracilis(Kahl,1932)Foissner, 1989 HY 60 ? + ......-
+Cyrtohymenagranulata(Kahl,1932)Foissner, 1989 HY 40 ? + ::-::-
+Cyrtobymenamuscorum(Kahl,1932)Foissner,1989 HY 225 C,D,F,H,T + + :.:;:-::.
+Cyrtohymenaprimicirrata(Berger& Foissner, 1987) HY 77 C,D,F,H + + + + *:-:
+nov.comb.
+Cyrtohymenaquadrinucleata(Dragesco& Njine,1971) HY 81 C + + + + + ::-
+Foissner, 1989
+Cyrtohymenatetracirrata(Gellert,1942)Foissner, 1989 HY 150 B,C,F + + + ::-:-::-:
+CyrtolophosisacutaKahl, 1926 CO 1 B + + + + ::.
+
+202 W.Foissner
+Table2. continued.
+Species" Taxo- Biomass Food" Geographicdistri- Degree
+norruc of 106 bution'" ofauto-
+group" indiv. chtho-
+(rng)? H P A N Ar nism"
+Cyrtolophosis colpidiformis Foissner,1993 CO 7 B + ~:4Z:'
+Cyrtolophosis elongata(Schewiakoff,1892)Kahl, 1931 CO 1 B + + + + + ::.
+CyrtolophosisminorVuxanovici,1963 CO 1 B + + ::-
+Cyrtolophosis mucicolaStokes,1885 CO 2 B + + + + + ::.
+Dapedophryaflexilis (Penard,1922)Foissner,1995 CO 36 B,H + + ::.:;.;~
+Deviatabacilliformis(Gelei,1954)Eigner,1995 HY 47 B,G + + + ::.
+Didiniumnasutum(Muller,1773)Stein, 1859 GY 500 C,G + + ::.
+Dileptusalpinus Kahl,193111) GY 23 C + + + + + :f.::.
+DileptusamericanusKahl, 193111) GY 63 C,F + + + ::.;:.
+DileptusanguillulaKahl, 193111) GY 15 C + + + + ::-::.
+Dileptus binucleatusKahl, 193111 ) GY 158 C + ::-;:.
+Dileptus breviproboscisFoissner,1981,synonymwithD.anguillula
+Dileptus conspicuusKahl,193111) GY 168 C,D,F + + ;:.=:-=:-
+Dileptus conspicuustelobivacuolatusGellert,195511 ) GY 81 C + ::.;:.;:-
+Dileptus costaricanusFoissner,199511) GY 198 C + ~.;f.
+Dileptus edaphoniSong,199411 ) GY 82 C + ::.;:-
+Dileptusfalciformis Kahl,193111) GY 247 C + ::.;:-
+DileptusgracilisKahl, 193111) GY 43 C + + + ::-::.
+DileptuskahliSramek-Husck,19578)11) GY 180 C + ::-
+Dileptus margaritifer(Ehrenberg,1838)Wirnsberger,
+Foissner& Adam, 198411) GY 500 C,F,G,N,R + + ;:-
+Dileptus mucronatusPenard,192211 ) GY 456 C + + + ;:-
+Dileptus orientalisSong, Packroff& Wilbert,198811) GY 31 B + ::.;:-
+DileptuspolyvacuolatusFoissner,198911 ) GY 212 C + + + ;:.
+Dileptus similisFoissner,199511) GY 314 C + ;:.;:-
+Dileptus tenuis Penard,192211) GY 7 C + ::.;:-
+Dileptus terrenus Foissner,198111) GY 226 C + + + ::-;:.
+Dileptus visscheriDragesco,196311) GY 64 C + + ::-
+Dimacrocaryonamphileptoides(Kahl,1931)Jankowski, 1967 GY 127 G,H,T + + + + + ;:-:(
+DrepanomonasborzaiLepsi,1948,synonymwithD. revoluta
+DrepanomonasdentataFresenius,1858 NA 5 B + ;:-
+Drepanomonasexigua Penard,1922 NA 1 B + + ;:.;:.;:.
+DrepanomonasmuscicolaFoissner,1987 NA 1 B + + + + + ::.;:-
+Drepanomonaspauciciliata Foissncr,1987 NA 1 B + + + + + ;:-::-
+DrepanomonasrevolutaPenard,1922 NA 1 B,F + + + + + ::-
+DrepanomonassphagniKahl, 1931 NA 1 B + + + + + ;:-;:.
+Enchelydiumpiliforme(Kahl,1930)Foissner,1984 GY 100 C + ~.
+EnchelydiumpolynucleatumFoissner,1984 GY 255 C + + + + + ;:.;:-
+EnchelydiumterrenumFoissner,1984 GY 57 C + + + ;:.;:-
+EnchelyodoncalifornicusKahl, 1935 GY 110 C? + ;:-::.
+Enchelyodonlagenula(Kahl,1930)Blatterer& Foissner,1988 GY 10 C? + + + + ;:-;t-
+EnchelyodonlonginucleatusFoissner,1984 GY 63 C? + + + + ::.;:-
+Enchelyodonnodosus Berger, Foissner& Adam, 1984 GY 367 C? + + ;:-;:-
+Enchelyodonterrenus Foissner,1984 GY 132 C? + + :;·;:·;fo
+EnchelyodontratziFoissner,1987 GY 23 C? + + + ::.;:.
+Enchelyomorphavermicularis(Smith,1899)Kahl,1930 SU 2 C? + ;:-
+Enchelyotricha binucleataFoissner,1987 GY 16 C + ::.;:-
+EnchelysagricolaHorvath,1956,synonymwithPlatyophryaspumacola
+EnchelysmultimicronucleataAlekperov,1993 GY 3 + ;:-;:.
+Enchelysmultinucleata(Dragesco& Dragesco-Kerneis,1979)
+Berger,Foissner& Adam,1984 GY 141 C + + + + ;:.;:-
+EnchelysterricolaFoissner,1987 GY 99 C + ::-::.
+EnchelystokkuriShibuya,1930 GY 157 ? + ;:.;:.
+EnchelysvermiformisFoissner,1987 GY 50 C? + ;:-;:-::-
+Engelmanniellamobilis(Engelmann,1862)Foissner,1982 HY 34 B + + + ;:-
+
+Soilciliatediversity 203
+Table 2. continued.
+Species" Taxo- Biomass FoodS) Geographicdistri- Degree
+nomic of106 bution'" ofauto-
+group" indiv. chtho-
+(mg)? H P A N Ar nism"
+Epispathidiumamphoriforme(Greeff,1888)Foissner, 1984 GY 180 C + + + + ::.::.
+Epispathidiumascendens(Wenzel, 1955)Foissner, 1987 GY 64 C + + + + + ::.::.
+Epispathidiumpapilliferum(Kahl, 1930)Foissner, 1984 GY 135 C + + + :;.::.
+Epispathidiumregium Foissner,1984 GY 360 C + + :;.;;.
+EpispathidiumterricolaFoissner,1987 GY 101 C + + + + + ::.::.
+EpistylisalpestrisFoissner, 1978 PE 79 B + + + + ::.
+ErniellafiliformisFoissner, 1987 HY 100 B?,C + ::.::.;:.
+EschaneustylabrachytonaStokes, 1886 HY 146 C,D,G,H + + + ::.::.
+EschaneustylaterricolaFoissner,1982,synonymwithE.brachytona
+Euplotes corsicaBerger& Foissner,1989[[) HY 8 B? + ::.;;.
+EuplotesfinkiFoissner, 198211) HY 17 B + + ::.;;.
+Euploteslabiatus Ruinen,193811) HY 15 B? + + ::.
+EuplotesmuscicolaKahl,193211) HY 49 B,E + + + + ::.;:.
+EuplotesmuscorumDragesco,1970,synonymwithE.muscicola
+Euplotes terricolaPenard,192211) HY 36 B? + ::.;:.
+Frontoniadepressa(Stokes,1886)Kahl, 1931 HM 95 C,G,H,N + + + + + :f-
+FrontoniaparameciiformisWenzel, 1953 HM 20 ? + ::.;:.
+FrontoniaparvulaPenard,1922,synonymwithF. depressa
+FrontoniasoleaFoissner, 1987 HM 120 E + ::.
+FrontoniaterricolaFoissner, 19878) HM 192 C + + ::.;:.
+Furgasoniatrichocystis(Stokes, 1894)Jankowski,1964 NA 72 B + :;.
+FuscherialacustrisSong& Wilbert,1989 GY 23 C? + + + ::.
+FuscherianodosaFoissner, 1983 GY 42 C + + :;.
+FuscheriaterricolaBerger,Foissner& Adam,1983 GY 20 C + + + + ::.;:.;:.
+GastronautaderouxiBlatterer& Foissner,1992 CY 48 B?,H? + + + + ::.;;.;:.
+GastronautamembranaceusBiitschli,1889 CY 15 B + ::.
+GastrostyladorsicirrataFoissner,1982 HY 96 C,H + ::.;;.
+GastrostylaminimaHemberger,1985 HY 195 B,D,G + :;.
+GastrostylamuscorumKahl,1932 HY 380 C,G + ::-::.
+Gastrostylaphilippinensis Shibuya,1931,synonymwithG.steinii
+GastrostylasteiniiEngelmann,1862 HY 122 C + + + + ::.
+Glaucomagigantea Grandori& Grandori,1934 HM 420 E + ::.;:-
+GlaucomaterricolaGellert,1957,synonymwithTetrahymenarostrata
+Gonostomumaffine(Stein,1859)Sterki, 1878 HY 39 B,F,S + + + + + ::.
+GonostomumalgicolaGellert,1942,synonymwithG.affine9
+)
+GonostomumandoiShibuya, 1929,synonymwithG.affine
+GonostomumbryonicolumGellert,1956,synonymwithG.affine9
+)
+Gonostomumciliophorum Gellert,1956,synonymwithG.affine9
+)
+GonostomumgeleiiGellert,1957,synonymwithG.affine9)
+GonostomumkuehneltiFoissner,1987 HY 30 B,F + + + + + ::-::.::.
+GonostomumspirotrichoidesGellert,1956,synonymwithG.affine9)
+Gonostomumstrenua (Engelmann,1862)Sterki, 1878 HY 60 B,G + ::.::-
+Grandoriaaculeata (Grandori& Grandori,1934) CO 5 ? + ::.;:.
+Corliss,1960
+Grossglockneria acutaFoissner,1980 CO 5 H + + + + + ::.::.::-
+Grossglockneria hyalina Foissner,1985 CO 4 H + + + + ::.;;.::.
+Halteriadecemsulcata Szabo, 1934,synonymwithH.grandinella
+Halteriagrandinella(Muller, 1773)Dujardin,1841 OL 12 B,F,G + + + + + :;.
+Halterioformacaudata Horvath,1956 PR? 2 B + ::.;:.
+Haplocaulusterrenus Foissner, 1981 PE 5 B + + + + ::.;:.
+HastatellaradiansErlanger, 1890 PE 30 B + ::.
+Hausmannielladiscoidea(Gellert,1956)Foissner, 1984 CO 67 B,C,G,H + + + + ::.;;.;:.
+Hausmanniellapatella(Kahl, 1931)Foissner,1984 CO 192 C,G + + + + ::.;:.;:.
+Hausmanniellaquinquecirrata(Gellert,1955)Foissner, 1993 CO 440 G,H + :;.;:.;:.
+Hemiamphisiellagranulifera (Foissner,1987)Foissner, 1988 HY 52 F,H,N + + + ::-::.
+
+204 W.Foissner
+Table2. continued.
+Species" Taxo- Biomass Food" Geographicdistri- Degree
+nomic of106 bution" ofauto-
+group" indiv. chtho-
+(mg)" H P A N Ar nism"
+Hemiamphisiellaquadrinucleata(Foissner, 1984) HY 42 F,G,H + ::-;~
+Foissner, 1988
+HemiamphisiellaterricolaFoissner, 1988 HY 192 C,D,F,H + + + + :;.;;-
+Hemiamphisiellawilberti(Foissner,1982)Foissner, 1988 HY 152 T + + + ::.:;-
+Hemisincirragellerti(Foissner, 1982)Foissner,1984 HY 10 B + + + + + :i-::-:;'
+Hemisincirragracilis(Foissner, 1982)Foissner, 1984 HY 11 B?H + + + + ::.::-::-
+HemisincirraheterocirrataHemberger,1985 HY 26 ? + :1-=l-::-
+HemisincirrainquietaHemberger,1985 HY 7 B + + + + ::-;:-;l-
+Hemisincirrainterrupta(Foissner, 1982)Foissner,1984 HY 8 ? + + + =:.:;.:l-
+Hemisincirra kahli(Buitkamp,1977)Hemberger,1985 HY 8 B + + :!-:l-:;.
+HemisincirramuelleriFoissner, 1986 HY 11 B + :;-:;.:;.
+Hemisincirra octonucleata Hemberger,1985 HY 24 ? + :;-::-::-
+HemisincirrapolynucleataFoissner,1984 HY 30 ? + + + ::-::-:;.
+Hemisincirrapori(Wilbert& Kahan, 1986)Foissner, 1987 HY 19 B,G + ::.:l-:;.
+HemisincirraquadrinucleataHemberger,1985 HY 26 ? + :;.;:-::-
+Hemisincirrasimilis(Foissner, 1982)Foissner,1984 HY 32 B? + + + + ::-::-::-
+HemisincirravermiculareHemberger,1985 HY 24 ? + ::-::-:i-
+HemisincirrawenzeliFoissner, 1987 HY 14 B,F + + + ::-:;-:;-
+Histriculussimilis(Quennerstedt)inBuitkamp[27],synonymwithSterkiellacavicola
+HolophryabimacronucleataGrandori& Grandori,1934 PR 69 ? + :;-::-
+HolostichaadamiFoissner, 1982 HY 66 C,D,R,S,T + + ::-::-
+HolostichaaustralisBlatterer& Foissner, 1988 HY 65 C,T + + + + ::-::-
+HolostichabergeriFoissner, 1987 HY 10 E,F + + + + ::-::.:;.
+HolostichadistylaBuitkamp,1977 HY 136 F,T + ::-::-
+HolostichaislandicaBerger& Foissner, 1989 HY 30 B,H + ::-::-
+HolostichalongisetaLepsi,1951 HY 30 ? + :;-::-
+HolostichamancamononucleataGellert,1955 HY 10 F,H + ::-:;-
+HolostichamancaplurinucleataGellert,1955 HY 26 B,H,S + ::-:;.
+HolostichamonilataKahl, 1928 HY 52 B,D,E + + :;-
+HolostichamultistilataKahl, 1928 HY 109 C,D,E,F,T + + + + + ~-
+HolostichamuscicolaGellert,1956 HY 60 B,S + :;-::-
+Holostichamuscorum(Kahl,1932)Foissner, 1982 HY 360 C,D,T + + + + ::-
+Holostichasigmoidea Foissner, 1982 HY 38 B,H + + + + ::-::-
+HolostichastueberiFoissner, 1987 HY 525 C,F,H,N + + + ::-:;-
+Holostichasylvatica Foissner, 1982 HY 181 C,E,H,S + + + + ::.~.:;-
+Holostichatetracirrata Buitkamp& Wilbert, 1974 HY 39 B,C,D,G,H + + + + + :;-::-
+HolostichideschardeziFoissner, 1987 HY 63 E,H,S + + + ::-::-
+HolostichidesterricolaFoissner, 1988 HY 33 B,H,S + + + + ::-::-
+Holostichidestypicus(Song& Wilbert,1988)Eigner,1994 HY 170 ? + ::-:;-
+Holostichideswilberti(Song,1990)Eigner,1994 HY 27 B? + ::-::.
+HomalogastrasetosaKahl, 1926 HM 1 B + + + + + :;.
+Idiocolpodapelobia Foissner, 1993 CO 3 B + ::-::-
+IlsiellapalustrisFoissner, 1993 CO 65 B + + + ::-::-
+Ilsiella venustaFoissner,1987 CO 20 B + ::-::-
+Jaroschia sumptuosaFoissner, 1993 CO 100 C?F? + ::-::-::-
+Kahliellaacrobates(Horvath,1932)Corliss, 1960 HY ? B,C,G + ::-::-
+Kahliellasimplex (Horvath,1934)Corliss,1960 HY 157 B,D,F,H + + :;-:;-
+Kahlilembusattenuatus(Smith, 1897)Foissner,Berger
+& Kohmann,1994 HM B + + + + ::-
+Kahlilembusfusiformis (Kahl, 1926),synonymwithK.attenuatus
+Kalometopiaduplicata (Penard,1922)Foissner, 1993 CO 400 C,G,S + :;-::-::-
+KeronellagracilisWiackowski,1985 HY 300 C,E,G,H + ::-:;.
+Keronopsisalgivora (Gellert,1942)nov.comb. HY 64 G + :;.::.
+Keronopsis dieckmanniFoissner(thispaper) HY 300 C,F + ::-::-
+KeronopsishelluoPenard,1922 HY 800 C,R + ::-::-
+
+Soilciliatediversity 205
+Table2. continued.
+Species" Taxo- Biomass Food~) Geographicdistri- Degree
+nomic of106 bution" ofauto-
+group) indiv. chtho-
+(rng)? H P A N Ar nism"
+KeronopsistasmaniensisBlatterer & Foissner, 1988 HY 260 C,H + + :!-::.
+KeronopsiswetzeliWenzel,1953 HY 90 C,G + ::.;:-
+KeronopsisalpestrisKahl,1932 HY 96 C,G + ::-::-
+KrassniggiaauxiliarisFoissner,1987 CO 880 C + + ;:-;:-;:.
+KreyellamuscicolaKahI,1931 CO 5 ? + t.-::-
+KuehneltiellamuscicolaFoissner,1993 CO 115 C + + + ::.:i-::-
+KuehneltiellaterricolaFoissner,1990 CO 384 C,F + ::.::.;:.
+Kuklikophryaougandae(Dragesco,1972)Foissner, 1993 CO 195 E + + ::-
+LacrymariacohniKent inBuitkarnp& Wilbert (1974),synonymwithPhialinaterricolaFoissner,1984
+LacrymariapulchraWenzel,1953 GY 5 ? + ::-::.
+LagynophryaarmataKahI,1935 GY 20 ? + :!-:!-
+LagynophryageleiiFoissner,1981 GY 25 C? + + ::.;.:
+LagynophryatrichocystisFoissner,1981 GY 3 C? + ::-::.
+LamtostylaabditaFoissner,1997 HY 27 B,F,H,N + ::-::-
+Lamtostylaaustralis(Blatterer& Foissner,1988)Petz &
+Foissner,1996 HY 50 B,C,F,G,H + + + + ;-::z,.::..
+LamtostylaedaphoniBerger& Foissner,1987 HY 11 B + + + + + :"l.**
+LamtostylagranuliferaFoissner,1997 HY 90 C,F,N + + + + ::.*t.-
+Lamtostylahyalina(Berger,Foissner & Adam,1984)
+Berger& Foissner, 1987 HY 4 + + + ::-;:-;:-
+LamtostylaislandicaBerger& Foissner,1988 HY 20 B,F + + + + + ::.;:-;:.
+LamtostylakirkeniensisBerger& Foissner,1988 HY 20 B,C,F,H + + ::.*::.
+LamtostylalamotteiBuitkamp,1977 HY 26 C,D + ;:.::-;:-
+Lamtostylalonga(Hemberger,1985)Berger& Foissner,1988 HY 135 ? + ::-;:.::.
+Lamtostylaperisincirra(Hemberger,1985) HY 7 ? + + + :-:::-;:.
+Berger& Foissner, 1987
+Lamtostylaraptans(Hemberger,1985)Foissner, 1997 HY 150 ? + ::-::-::.
+Laurentiellastrenua(Dingfelder, 1962) HY 3000 B,C,D + + ;:-
+Berger& Foissner, 1989
+LeptopharynxcostatusMermod, 1914 NA 5 B,F + + + + + t.-
+Leptopharynxeurystoma(KahI,1931)nov.comb. NA 10 E? + + + ::-
+LeptopharynxmacrostomaNjine,1979,synonymwithL.eurystoma
+LeptopharynxminimusAlekperov,1993,synonym withL.costatus
+Leptopharynxstenostoma(Gellert,1942)nov.comb.,synonymwith L.costatus
+Linostomavorticella(Ehrenberg,1833)Jankowski,1978 HE 1000 C,D,G + ::.
+LitonotuscrinitusGrandori& Grandori,1934 GY 40 C? + ::-::.
+LitonotusdigitatusGrandori& Grandori,1934 GY 39 C? + ::.;!-
+Litonotusmuscorum(Kahl,1931)Blatterer& Foissner,1988 GY 12 C + + + + :.:;:-
+Marynaacuminata(Gellert, 1955)Foissner,1993 CO 1 B + :!-:.:
+MarynaantarcticaFoissner, 1993 CO 7 B + + :-:::-
+Marynaatra(Gelei, 1950)Foissner,1993 CO 180 B + + ::.
+Marynalichenicola(Gelei,1950)Foissner,1993 CO 9 B + + ::.:-:
+Marynaminima(Gelei,1950)Foissner,1993 CO 7 ? + ::.
+Marynaovata(Gelei, 1950)Foissner,1993 CO 40 B + + + ;:-
+MarynapinguisDingfelder, 1962 CO 270 ? + ::-;:-
+MarynarotundaDingfelder,1962 CO 113 ? + ::.
+MarynasocialisGruber,1879 CO 830 ? + ::-:i-
+Marynaumbrellata(Gelei,1950)Foissner,1993 CO 523 B,S? + ::-
+Metacineta micraster(Penard, 1914)Batisse,1967 SU 33 C + ::-::-
+Metacinetamystacina(Ehrenberg,1831)Butschli,1889 SU 65 C + ::.
+MetopuscontractusPenard,1922 HE 100 B + ::.
+Metopuses(Muller,1776)Laurerborn,1916 HE 95 B,E,F,S + + ;:-
+MetopushaseiSondheim,1929 HE 14 B + + + + ::.:r-
+MetopusovalisKahI,1927 HE 240 B + + t.-
+MetopuspalaeformisKahI,1927 HE 10 B + ;z.
+
+206 w. Foissner
+Table2. continued.
+Species" Taxo- Biomass Food" Geographicdistri- Degree
+nomic of106 bution'" ofauto-
+group" indiv. chtho-
+(mg)" H P A N Ar nism"
+Metopusrectus(Kahl, 1932)Foissner,1980 HE 72 B + ::.
+MetopussetosusKahl, 1927 HE 32 B + ::~
+MetopussetosusminorKahl, 1927 HE 18 B + ::-
+Microdiaphanosomaarcuatum(Grandori& Grandori,1934)
+Wenzel,1953 CO 0.5 B + + + + + ::.::.::-
+MicrodiaphanosomaterricolaFoissner,1993 CO 0.5 ? + + ::-::-::-
+Microthoraxsimulans(Kahl,1926)Kahl, 1931 NA 0.7 B + + + + + ::.;:.
+MonodiniumbalbianiFabre-Domergue,1888 GY 55 C,G + + + ::-
+Mycterothrixtuamotuensis(Balbiani,1887)Kahl, 1931 CO 20 B + + :i-:i-::-
+Mykophagophrysterricola(Foissner,1985)Foissner,1995 CO 3 H + + + + + ;:.::.;:-
+NassulacitreaKahl, 1930 NA 150 E + + ::-
+Nassulapicta GreeH, 1888 NA 224 E + + + ::-
+Nassulaprotectissima Penard,1922 NA 40 E + ::.::-
+Nassula terricolaFoissner,1989 NA 180 E + ::-::-
+NassulatumidaobscuraLepsi,1951 NA 50 ? + ::-::.
+NeogeneiahortualisEigner, 1995 HY 38 B + :1-::.
+NivaliellaplanaFoissner,1980 CO 0.5 H + + + + + ::-::-::-
+NotohymenaantarcticaFoissner,1996 HY 45 B?C,F + ::-::.
+Notohymenaaustralis(Foissner& O'Donoghue)
+Blatterer& Foissner,1988 HY 45 B + ::-
+NotohymenarubescensBlatterer& Foissner,1988 HY 40 F,H,N + + + ::-::.
+Notohymenaselvatica(Hemberger,1985) HY 560 ? + + ::-::-
+Blatterer& Foissner,1988
+NotoxomaparabryophryidesFoissner,1993 CO 10 B + + + + ::.::.;:-
+NotoxomasigmoidesFoissner,1993 CO 3 B + ::-::-::.
+ObertrumiakahliFoissner,1989 NA 180 E + ::-::.
+OdontochlamysalpestrisFoissner,1981 CY 10 B,F + + + + :;.
+Odontochlamysconvexa (Kahl,1931) CY 9 B? + + + + ::-:1-::'
+Blatterer& Foissner,1992
+OdontochlamysgouraudiCertes,1891 CY 13 B + + + + ::-
+Odontochlamyswisconsinensis(Kahl,1931)
+Petz& Foissner,1997 CY 6 B,G? + + ::-::-
+Onychodromopsisflexilis Stokes,1887 HY 80 B,C,F + + ::-
+Operculariaarboricola(Biegel, 1954)Foissner,1981,synonymwithO. curvicaule
+OperculariaarenicolaGreeH, 1873 PE ? + ::-:i-
+Operculariaasymmetrica(Biczok,1956) PE 13 B + ::-
+Aescht& Foissner,1992
+Operculariacurvicaule(Penard,1922)nov.comb. PE 48 B + + + + + ::-::-
+OphryoglenamarginataGreeH, 1888 HM ? ? + ::-::-
+OpisthonectaminimaFoissner,1975 PE 143 B + + + ::-
+Opisthotrichaelongata Grandori& Grandori,1934 HY 20 ? + ::-::-
+OpisthotrichaproceraKahl, 1932 HY 20 ? + ::.::-
+OpisthotrichaterrestrisHorvath,1956,synonymwithSterkiellahistriomuscorum
+OpisthotrichaterricolaGellert,1957 HY 24 B + ::-::-
+Orthoamphisiellafranzi(Foissner,.1982)Eigner, 1995 HY 30 B,F,S + ::-
+OrthoamphisiellagrelliEigner& Foissner,1993 HY 20 B,F + ::-::-
+OrthoamphisiellastramenticolaEigner& Foissner,1991 HY 60 B?C,E,H + + ::-::-
+OrthokreyellaschiffmanniFoissner,1984 CO 0.2 B? + ::.::-::.
+OxytrichaauripunctataBlatterer& Foissner,1988 HY 40 C,F,H + + + :10::'
+OxytrichabimembranataShibuya,1929 HY 300 ? + :i-::.
+OxytrichacrassistilataKahl inAlekperov[4],synonymwithSterkiellahistriomuscorum
+Oxytrichagigantea Horvath,1933 HY 270 B,C,F,H + + ::-
+Oxytrichagranulifera Foissner& Adam,1983 HY 72 B,F,H + + + + + ::-::.
+Oxytrichagranulifera quadricirrataBlatterer& Foissner, 1988 HY 30 B,F,H + + + ::.;:-
+OxytrichahengshanensisShen, Liu, Song & Gu, 1992 HY 252 G,N + ::.;:-
+
+Soil ciliatediversity 207
+Table2. continued.
+Species" Taxo- Biomass Food" Geographicdistri- Degree
+nomic of 106 bution" ofauto-
+group" indiv. chtho-
+(rng)" H P A N Ar nism"
+OxytrichahistrioidesGellert, 1957 HY 175 B + ;:.::.
+OxytrichaislandicaBerger & Foissner,1989 HY 70 N + + ::-:.:
+......
+OxytrichalanceolataShibuya,1930 HY 70 B,F,G + + + + +
+OxytrichalongigranulosaBerger& Foissner, 1989 HY 120 C,F,H + + + + + :;.:;..
+OxytrichanaupliaBerger& Foissner,1987 HY 26 F,G,H + + + + ;:.;;.
+OxytrichaopisthomuscorumFoissneretal.,1991 HY 27 B,F,G + + + ;:.;:-
+.,.....
+OxytrichaottowiFoissner,1996 HY 40 B,E,F +
+OxytrichaproximataShibuya,1930 HY 150 S + :;..::.
+OxytrichapseudosimilisHemberger,1985 HY 180 ? + ::-::-
+OxytrichaquercinetiLepsi,1948 HY 45 B + ::-::.
+OxytricharubraBuitkarnp,1977,synonymwithCyrtohymenamuscorum[76]
+OxytricharubripunctaBerger& Foissner,1987 HY 200 B,C,D,G,T + ::-::.
+OxytrichasetigeraStokes,1891 HY 8 B,F + + + + ::-
+OxytrichasiserisVuxanovici, 1963 HY 30 B? + + + + :;..
+OxytrichatricirrataBuitkarnp, 1977 HY 56 C,N + ::-::-
+PapillorhabdosmultinucleatusFoissner,1984 GY 44 C + ::-
+Parabryophryapenardi(Kahl, 1931)Foissner, 1985 CO 28 B + + + + + ;:.::.::.
+ParacinetalauterbomiSondheim,1929 SU 11 C + + + + ;:-;:.
+ParaenchelysterricolaFoissner,1984 GY 49 C + + + + + -e-r
+ParaenchelyswenzeliFoissner,1984 GY 89 C? + + + + ::-:;-
+.........-
+Parafurgasoniasorex(Penard,1922)Foissner& Adam,1981 NA 56 G,H?N + + + +
+ParagastrostylalanceolataHemberger,1985 HY 120 ? + ::.:;..
+ParaholostichalichenicolaGellert, 1955 HY 63 G,S + ;:-;:.
+ParaholostichamuscicolaKahl,1932 HY 210 C,F,G,H + + :;-:;.
+ParaholostichananaGellert,1955 HY 30 G + :;.:;.
+......
+ParakahliellahaideriBerger& Foissner,1989 HY 112 C,F + +
+Parakahliellamacrostoma(Foissner, 1982)Berger,Foissner
+& Adam, 1986 HY 168 C,N + *::-
+Parakahliellaterricola(Buitkarnp,1977)Berger,Foissner
+& Adam, 1986 HY 504 C + *::.
+Paramphisiellaacuta(Foissner, 1982)Foissner,1988 HY 18 ? + + ;:-::.;;.
+Paramphisiellacaudata(Hemberger,1985)Foissner,1988 HY 300 B,C,F + + + ::-
+ParaurostylagranuliferaBerger& Foissner, 1989 HY 490 F,H,N,T + ::-:;..
+ParaurostylapolynucleataAlekperov, 1993 HY 380 ? + ::.::.
+ParaurostylapulchraBuitkamp,1977 HY 300 C,D + ::-:[-
+PattersoniellavitiphilaFoissner,1987 HY 1000 C,F,G,H,S,T + + ::.::.::.
+PedohymenaaustralienseFoissner, 1995 NA 15 B + + + ::-::-::-
+Pelagotrichidiumtisiae(Gelei, 1929)Jankowski, 1978 HY 396 C,D,F,H + ::.
+PentahymenacorticicolaFoissner, 1994 CO 470 C + ::.;:.;:-
+PeriholostichaacuminataHemberger,1985 HY 56 ? + ::.;:-::.
+Periholostichalanceolata Hemberger,1985 HY 30 ? + ;:.::.;:.
+Phacodiniummetchnicoffi(Certes,1891)Kahl, 1932 HE' 280 B,C,G,S + + + + :;-:;-::-
+PhialinabinucleataBerger,Foissner& Adam, 1984 GY 8 C + + + + ::-:;.
+Phialinaflagellifera (Gellert, 1957)nov.comb. GY 16 C + ;:-:;-
+PhialinaterricolaFoissner,1984 GY 5 C + + ::.::-
+PhialinidesaustralisFoissner,1988 GY 8 C + + + :;.:;.
+PlagiocampaatraGrandori& Grandori,1934 PR 4 ? + ::-::.
+PlagiocampacaudataAlekperov,1993 PR 2 B,F + :;..::-
+PlagiocampadifficilisFoissner, 1981 PR 11 B,F + + + + ::.;;.
+PlagiocamparouxiKahl, 1926 PR 7 B,G + + + + ~.
+PlatycolalongicollisKent, 1881 PE 45 ? + :;-
+Platycolasteineri(Penard,1914)Kahl,1935 PE 20 B + ::-::.
+PlatyophryaangustaKahl, 1926,synonymwithP. vorax
+........-
+PlatyophryabinucleataFoissner,1987 CO 10 H + +
+Platyophryafissistoma Lepsi, 1948,synonymwithP. spumacola
+
+208 W.Foissner
+Table2. continued.
+Species" Taxo- Biomass FoodS) Geographicdistri- Degree
+nomic of106 bution" ofauto-
+group" indiv. chtho-
+(mg)? H P A N Ar nism/'
+PlatyophryamacrostomaFoissner,1980 CO 1.5 B + + + + + ~:-::-
+PlatyophryapaolettiFoissner,1997 CO 3 B + :~~:.::.
+Platyophryasimilis(Foissner,1980)Foissner,1987 CO 180 C,D,F,G + + + :~:i-
+PlatyophryaspumacolaKahl, 1927 CO 40 B,C,E,F,G,
+H,R,T + + + + + :i-:i-
+PlatyophryavoraxKahl, 1926 CO 12 B,F,G,H + + + + + *
+PlatyophryidesdragescoiFoissner,1987 CO 64 C + + + + ::-:i-::-
+Platyophryideslatus(Kahl, 1930)Foissner,1987 CO 108 C,G,H + + + ::-::-::-
+PlatyophryidesmagnusFoissner,1993 CO 700 C + ::-:;.::-
+PleuroplitesaustralisFoissner,1988 GY 8 C,F + + + + + ::-::-:;.
+PleuroplitoidessmithiFoissner,1996 GY 56 C + + + + + :l-::.::-
+PodophryahalophilaKahl, 1934 SU 17 C + + ::-
+ProtocyclidiumterrenumAlekperov,1993 HM 2 B + ::-::-
+Protospathidiumbonnetti(Buitkamp,1977)Foissner,1981 GY 5 C + + + + ::-:;.::.
+ProtospathidiummuscicolaDragesco& Dragesco- GY 7 F + + + ::-::-
+Kerneis,1979
+Protospathidiumserpens(Kahl,1930)Foissner,1981 GY 5 C? + + + + + ::-::.
+ProtospathidiumterricolaFoissner(thispaper) GY 28 C? + + ::-::-
+Pseudocarchesiumclaudicans(Penard,1922)Foissner,1989 PE 3 B + + + ::-::-
+PseudochilodonopsismutabilisFoissner,1981 CY 8 B + + + + + ::-~!,
+PseudochilodonopsispolyvacuolataFoissner& Didier,1981 CY 30 B + + Y,-
+PseudocohnilembusmarinusThompson,1966 HM 3 B? + ::-
+PseudocohnilembuspersalinusEvans & Thompson,1964,synonymwithP.pusillus
+Pseudocohnilembuspusillus(Quennerstedt,1869)
+Foissner& Wilbert,1981 HM 3 B + ::-
+Pseudocohnilembusputrinus(Kahl, 1928) HM 2 B + + + + :;.
+Foissner& Wilbert,1981
+PseudocohnilembusveisoviAlekperov& Musaev,1988,synonymwithP.pusillus
+PseudocristigerahymenoferaHorvath,1956,synonymwithDrepanomonasrevoluta
+PseudocyrtolophosisalpestrisFoissner,1980 CO 2 B + + + + + ::-::-
+PseudocyrtolophosisterricolaFoissner,1993 CO 3 B + + + ::-::-
+Pseudoglaucomamuscorum(Kahl, 1931)Wenzel, 1953 CO 1 ? + ::-::-
+PseudoholophryaterricolaBerger,Foissner& Adam, 1984 GY 32 C? + + + + + ::-::-
+PseudokreyellaterricolaFoissner,1985 CO 3 B? + + + + ::-::-::-
+PseudokreyellaaustralisFoissner,1993 CO 3 B + + ::-:l-:;.
+PseudomicrothoraxagilisMermod,1914 NA 14 B,E,G + + t,-
+Pseudomicrothoraxdubius(Maupas,1883)Penard,1922 NA 50 B,E + ::.
+Pseudoplatyophryanana(Kahl,1926)Foissner, 1980 CO 3 H + + + + + ::-::-::-
+PseudoplatyophryasaltansFoissner,1988 CO 2 H + + + + + ::-::.:;.
+Pseudothuricoladionysii(Penard,1922)Kahl, 1935 PE 9 B + ::-::-
+Pseudouroleptusbuitkampi (Foissner,1982) HY 72 B,C,S + ::-t,-:;-
+Berger& Foissner, 1987
+PseudouroleptusprocerusBerger& Foissner,1987 HY 120 C,F,G,N + + ::-::-::-
+PseudouroleptusterrestrisHemberger,1985 HY 330 ? + :r-:;.
+PseudourostylafranziFoissner,1987 HY 375 C,H,N,T + + + ::-t,-
+Pseudovorticellamutans(Penard,1922)Foissner, 1979 HY 14 B + ::-
+PseudovorticellasphagniFoissner& Schiffmann,1974 PE 14 B + + + + to-
+Psilotrichasuccisa(Muller, 1786)Foissner,1983 HY 66 G + ::.
+PyxidiuminvaginatummuscorumKahl, 1935,synonymwithOperculariacurvicaule
+PyxidiumlongicollumBiegel, 1954 PE 7 ? + :!-:!-
+PyxidiumtardigradumVander Land,1964 PE 7 B? + ::-::-
+ReticulowoodruffiaterricolaFoissner,1993 CO 54 ? + ::.:;-:;-
+Rhabdostyla(?)arboreaGreeff,1888 PE ? ? + :!-::-
+RhabdostylamuscorumKahl, 1935 PE 6 ? + :!-::-
+RhabdotrichaterricolaGreeff,1888 HY ? ? + ::-::-
+
+Soilciliatediversity 209
+Table2. continued.
+Species" Taxo- Biomass Food5) Geographicdistri- Degree
+nomic of 106 bution" ofauto-
+group" indiv. chtho-
+(mg)? H P A N Ar nisrn"
+RhopalophryaelegansHorvath,1956 GY 2 B,F + ~~~:-
+RhopalophryapentacercaGrandori& Grandori,1934 GY 4 ? + ::-::.
+Rostrophryacamerounensis(Njine,1979)Foissner,1993 CO 640 D,E + ::-
+RostrophryaterricolaFoissner,1993 CO 360 ? + + ::-:;.;:-
+Rostrophryidesafricana Foissner,1987 CO 14 ? + + + :;.::.::.
+RostrophryidesaustralisBlatterer& Foissner,1988 CO 30 B,G,H + + + ::.;;-;:-
+SagittariaaustralisPomp& Wilbert,1988 CO 9 ? + ::-;:.
+SagittariahyalinaFoissner,Czapik& Wiackowski,1981 CO 4 B + + + + ::.
+SagittariapoligonalisGrandori& Grandori,1934 CO 5 ? + ::.;;.
+Sathrophilusmuscorum(Kahl, 1931)Corliss,1960 HM 12 B + + + + + ::.::.
+Sathrophilussimonis(Lepsi, 1948)Corliss,1960 HM 6 ? + ::-::.
+SemiplatyophryafoissneriWilbert& Kahan,1986 CO 13 B + + + ::-::-
+SolenophryaflavescensPenard,1914 SU 33 C + ;f-~.
+Solenophrya massula Penard,1914 SU 3 C + ::-::.
+SolenophryasacculusPenard,1914 SU 5 C + ::-::.
+SorogenastoianovitchaeBradbury& Olive,1980 CO 54 C + + + + ::.;:.
+SpathidiumalpinumGellert,1956 GY 30 C + ::.;:.
+SpathidiumanguillaVuxanovici,1962 GY 25 C? + + + + ::-
+SpathidiumbavarienseKahl, 1930 GY 130 C + + + + ::.;:-
+Spathidiumclaviforme Kahl, 1930 GY 31 C + + + + ::-::.
+Spathidiumfalciforme(Penard,1922)Kahl, 1930 GY 4 ? + ::-:;.
+SpathidiumfurcatumShibuya,1930 GY 60 C? + ::.;:.
+SpathidiumgeobiumLepsi, 1951 GY 10 C? + ::.;:.
+Spathidiumholsatiae Kahl, 1930 GY 45 C? + :;.;:.
+SpathidiumlagyniformeKahl, 1930 GY 34 C? + ::-
+Spathidiumlongicaudatum(Buitkamp& Wilbert,1974) GY 18 C,N + + + + :i-::.;:'
+Buitkamp,1977
+SpathidiummetabolicumPomp& Wilbert,1988,synonymwithS.anguilla
+SpathidiummultinucleatumGellert,1955 GY 23 C + ::-::-
+SpathidiummuscicolaKahl, 1930 GY 84 C + + + + ::.;:.
+SpathidiumprocerumKahl, 1930 GY 15 C? + + + + ::.;:-
+SpathidiumrusticanumFoissner,1981 GY 25 C? + + ::.;:-
+Spathidiumscalpriforme(Kahl, 1930)Kahl, 1930 GY 220 OF + ::-::-
+SpathidiumseppeltiPetz& Foissner, 1997 GY 65 C + ::-::.
+Spathidiumspathula(Muller, 1773)Moody, 1912 GY 45 C + + + + ::-
+SpathidiumspathuloidesGellert,1955 GY 6 C + ::-::-
+SpetazoonaustralienseFoissner,1994 GY 200 C + + ::.::-
+SphaerophryaparvaGreeff,1888 SU ? ? + ::-::-
+SphaerophryaterricolaFoissner,1986 SU 8 C + + + + + ::-::.
+Spirofilopsistubicola(Gruber,1879)Dingfelder,1962 HY 30 ? + ::.::-
+Stammeridiumkahli(Wenzel, 1953)Wenzel,1969 NA 0.6 B + + + + ::.;:-::-
+StegochilumsmalliAlekperov,1993,synonymwithTetrahymenarostrata
+Steiniaplatystoma(Ehrenberg,1831)Diesing,1866 HY 175 C,F,G,D + + ::.
+Sterkiellacavicola(Kahl, 1935)Foissneretal.,1991
+(formerlyHistriculus) HY 540 C,N + + + + ::-::-
+Sterkiella histriomuscorum(Foissneretal.,1991)Foissner
+etal.,1991(formerlyHistriculusmuscorum) HY 72 B,C,F,N + + + + + ::-
+Sterkiella similisf.tricirrata(Buitkamp,1977)nov.comb. HY 234 B,E + :;.;:-
+SterkiellathompsoniFoissner,1996 HY 90 B,D,F,G + ::.
+Stichotrichaaculeata WrzeSniowski,1866 HY 20 B,G + + + :1-
+StichotrichasocialisGruber,1879 HY 63 ? + ::-
+StrongylidiumcalifornicumKahl, 1932 HY 100 ? + ::-::-
+StrongylidiummuscorumKahl, 1932 HY 30 ? + ::.;:-
+Stylonychiabifaria (Stokes, 1887)nov.comb." HY 100 B,C + + ::-
+Stylonychiamytilus(Muller, 1773)Ehrenberg,1830 HY 70 B,C,G,Z + + + ::-
+
+210 W.Foissner
+Table2. continued.
+Species" Taxo- Biomass Food" Geographicdistri- Degree
+nomic of106 bution" ofauto-
+group" indiv. chtho-
+(mg)" H P A N Ar nism"
+Stylonychiapustulata(Muller, 1786)Ehrenberg,1835 HY 80 B,C,F,G + + ;~
+StylonychiaquadnnucleataAlekperov& Musaev,1988 HY 3500 C + :;.::.
+Stylonychiastylomuscorum(Foissner,Blatterer, Berger&
+Kohmann, 1991)Foissner,Blatterer,Berger& Kohmann,1991 HY 30 D,F,G + :;-
+TachysomagranuliferaBerger& Foissner,1987 HY 26 F,G,H,N + + + ::.;~::-
+TachysomahumicolaGellert,1957 HY 9 B,T + + + + :;.::-;:.
+.........-
+TachysomahumicolalongisetumFoissner(thispaper) HY 12 B + +
+TachysomaterricolaHemberger,1985 HY 45 ? + :;.~:.:;-
+TeetohymenaterncolaFoissner,1993 CO 10 B + + ::-::-:l-
+Telostomatella[erroi(Grandori,1935)Foissner, 1985 CO 11 E,F + ::.;:-
+TelotrochidiumcylindricumFoissner,1978 PE 66 B + + :;-
+Terricirralivida(Berger& Foissner,1987)Berger& HY 24 B + + + ::-::-;;-
+Foissner,1989
+TerricirramatsusakaiBerger& Foissner,1989 HY 45 B + + + + ::-::-::-
+Terricirraviridis(Foissner, 1982)Berger& Foissner,1989 HY 33 B + + + :l-:;.::.
+TerritricbastramenticolaBerger& Foissner, 1988 HY 100 C,H + ::-::-
+TetrahymenaedaphoniFoissner,1987 HM 8 B + :;-:;.
+Tetrahymenarostrata(Kahl,1926)Corliss,1952 HM 12 B,G + + + + -r-e
+TburicolainnixaStokes,1882 PE 70 B + ::.
+Thuricolakellicottiana(Stokes,1887)Kahl, 1935 PE 200 E + :;-
+ThylakidiummacrostomumAlekperov,1991,synonymwithBryometopussphagni
+ThylakidiumtypicumGellert, 1955 CO 175 B + ::-::-
+TokophryamuscicolaPenard,1914 SU 7 C + + :,...:,...
+TrachelocbaetagonostomoidaHemberger,1985 HY 204 ? + ::-:;-
+Trachelophyllumapiculatum(Perty,1852)Claparede& GY 39 C + + + + ::-
+Lachmann,1859
+TracbelostylacanadensisBuitkamp& Wilbert,1974,synonymwithGonostomumalgicola
+TransitellalichenicolaGellert,1950,synonymwithBalantidioidesbivacuolata
+TricoronellapulcbraBlatterer& Foissner,1988 HY 540 C,F,H,N,S,T + :;-::-:;-
+TrihymenaterricolaFoissner,1988 CO 2 B? + + + + ::-*::.
+Trithigmostomabavariensis(Kahl, 1931)Foissner, 1987 CY 96 B + + + :;-:;.
+UrliellaterncolaFoissner,1989 NA 6 B + ::-::-
+UroleptoideskihniWenzel, 1953 HY 15 ? + ::-
+UroleptoidesqingdaoensisSong & Wilbert,1989,synonymwithHemiamphisiellaterricola
+UroleptushumicolaGellert,1956 HY 37 S + :;.:;.
+Uroleptuslepisma(Wenzel,1953)nov.comb. HY 120 B,C,F,H,N,T + + + + ::-::-
+UroleptusmatthesiWenzel,1953 HY 15 ? + ::.;:.
+Uroleptusmusculus(Kahl, 1932)FoissneretaI.,1991 HY 214 B,C,G + ::-
+Uroleptusnotabilis(Foissner,1982)nov.comb. HY 32 F,H,T + + + + + ::.;:.
+Uronemanigricans(Muller, 1786)Florentin,1901 HM 5 B,F + + + ::-
+Urosomaacuminata(Stokes,1887)Kahl, 1932 HY 73 D,H,G + + + + :;-
+UrosomacienkowskiiKowalewski,1882 HY 34 B,C,F,H + + ::-
+UrosomakarinaeFoissner,1987nom. corr. HY 60 B?F + + + ::-::-
+Urosoma macrostomaGellert,1957 HY 14 S + -e-e
+Urosomamacrostyla(WrzeSniowski,1866)Kahl,1932 HY 41 B + + + + ::-
+Urosoma octonucleata Berger& Foissner, 1989 HY 67 B + :;-;,'..
+UrosomoidaagiliformisFoissner,1982 HY 30 B,C + + + + :l-:;'
+Urosomoidaagilis(Engelmann,1862)Hemberger,1985 HY 30 B,D,N,S,T + + + + :;-
+UrosomoidaantarcticaFoissner,1996 HY 25 B,F?N? + ::-:;.
+UrosomoidadorsiincisuraFoissner,1982 HY 38 B,C,N + + + ::-:;.
+UrosomoidagranuliferaFoissner,1996 HY 28 B? + :;-:;.
+UrosomoidaminimaHemberger,1985 HY 12 ? + ::-:;.
+UrostylagrandisEhrenberg,1830 HY 500 C,G,R,T + ::-
+Urostyla muscorumKahl, 1932 HY 630 C,R + :.:*
+UrotricbaatypicaAlekperov,1993 PR 44 ? + :;-:;.
+
+Soilciliatediversity 211
+Table 2. continued.
+Species" Taxo- Biomass Food" Geographicdistri- Degree
+nomic of 106 bution" ofauto-
+group" indiv. chtho-
+(mg)? H P A N Ar nism"
+UrotrichamamillaLepsi,1951 PR 2 + ::.;:.
+UrotrichaterricolaAlekperov& Musayev,1988 PR 20 + :;.::.
+Vaginicolachaperoni(Penard,1914)Kahl, 1935 PE 30 B + ::.;!-
+Vaginicoladoliolum(Penard,1914)Kahl,1935 PE 9 B + ::-::.
+VaginicolaterricolaGreeH,1888 PE 22 B + + ::.;:.
+Vaginicolavirgula(Penard,1914)Kahl, 1935 PE 8 B + ::.::.
+VorticellaastyliformisFoissner,1981 PE 13 B,S + + + + + ::.:;.
+VorticellacoeniLepsi,1948 PE 160 ? + ::.::.
+VorticellainfusionumDujardin,1841 PE 18 B + + + + ::.
+VorticellalichenicolaGreeH, 1888 PE 23 B + ::.;:.
+VorticellamicrostomaEhrenberg,1830 PE 30 B,G + + ::-
+VorticellamuralisPenard,1922 PE 63 B + ::.;;.
+VorticellaoperculariformisFoissner,1979 PE 40 B + + :;.
+VorticellapileolataLepsi,1948 PE 20 ? + ::.::.
+VorticellasimilisStokes,1887 PE 75 B + + + + ::-
+Wallackiabujoreani(Lepsi,1951)Berger& Foissner,1989 HY 15 B + ::.::.
+WoodruffiaaustralisFoissner,1993 CO 25 B? + + + ::.;:.;:-
+WoodruffialichenicolaGellert,1955,synonymwithPlatyophryideslatus
+Woodruffiarostrata Kahl,1931 CO 126 C + + ::.
+WoodruffiasinistromembranellataGellert,1955,synonymwithPlatyophryaspumacola
+Woodruffidesmetabolicus(johnson& Larson,1938) CO 1000 C + + + + ::-::.
+Foissner,1987
+WoodruffidesterricolaFoissner,1987 CO 110 + + ::.::-::-
+1) Thislist contains (i)allspecies originallydescribedfrom terrestrial habitats (soil, litter, terrestrial mosses erc.) and (ii) species
+originallydescribedfromfreshwaterhabitatsbutlaterreliablyrecorded(bysilverimpregnation)fromterrestrialenvironments.
+True Sphagnumspecies and species from ephemeralpuddleswereexcluded,ifnotlaterreliablyrecordedfromterrestrialhabi
+tats. Colpodidswereselectedfrom Foissner's [84Jmonograph. As far asit concerns my papers, this summarysupersedes my
+earlierspecieslists.
+2) Forliterature of original species descriptions, recent combinations, importantredescriptions, and synonymies (most subjec
+tive),seeTable 3.
+3) Classification mainly after [34J, that of colpodids after [84]. CO = colpodid, CY = cyrtophorid, GY = gymnostomatid
+(haptorid), HE = heterotrich, HM = hymenostome, HY= hypotrich, NA = nassulid, OL = oligotrich, PE = peritrich, PR =
+=
+prostomatid,SU suctorian.
+4) Roughestimationobtainedby reducingthe shapeofthe cellsto simplegeometricfigures andassumingaspecific gravityof1.
+S) Fooditemsweredeterminedmainlyby examinationofthefoodvacuoles.B=bacteria,C=ciliates,D=diatoms,E=bluegreen
+algae(cyanobacteria),F=colourlessflagellates,G=green algae,includingautotrophicflagellates,H =hyphaeand/orsporesof
+fungi andyeasts,N = nakedamoebae, R =rotifers and/ornematodes,S=inorganicandorganicsoil particles("detritus"),T =
+testateamoebae.
+6) Classificationof biogeographicregions,seeFig. 1.H =Holarctis(NorthAmerica,Greenland,EurasiawithIceland,CanaryIs
+lands,Korea,Japan,andnorthAfrica),P=Palaeotropis(AfricasouthofSaharadesert,Madagascar,India),A=Australis(main
+ly Australia), N = Neotropis (Central and SouthAmerica), Ar= Archinotis (Antarctica and islands in the southern oceans).
+Mostare originalrecordspublishedherefor the first time (seetext).Notethatfreshwaterand/ormarinerecordsarenotinclud
+ed.
+7) ".low,reliablyrecordedalsofromfreshwaterhabitats;'f'" probablystrong;includesmostofthenewspecies and manymossin
+habitants; "·'f"·probablyfound exclusivelyin trueterrestrial habitats (litter,soil, humus under and in moss etc.). Onlyspecies
+withspecificfoodrequirementsorverycharacteristicmorphologicaladaptationshave beenclassifiedto this level;furthermore,
+species belongingto generaknownfromsoil only, wereusuallyalso classifiedtothis level.
+8) MisidentifiedasDileptusmonilatusStokes, 1886by Song [205Jaccordingto [98J;misidentifiedasStylonychiavoraxby[245J;
+misidentifiedby Song[206JasFrontonia acuminata.
+9) Synonymyquestionable.
+10) For Thylakidium magnum Alekperov, 1991 [3J, which becomes, after transfer to Bryometopus, a secondary homonym of
+B.magnusFoissner,1980[61J,whichis,however,verylikelyajuniorsynonymofB.sphagniPenard,1922[84J.
+II) Notethatthe generaDileptus and Euplotesweresplitinseveral generaby someauthors[98,256].
+
+212 W.Foissner
+Table3. Qualityofdescriptions(+poor;++incomplete,i.e.eitherlifeaspect or infraciliatureinsufficientlydescribed;+++ex
+cellent, i.e.original description and/or redescriptions include morphometry and appropriatefigures from live and silverpre
+pared specimens) and key literature. Usually, the original reference isprovided, except for those species treated in our recent
+monographs[84,114-117].
+Species Species
+Acaryophryacollaris+++ [38,68,148,149,152,191] Bresslauasicaria+[84]
+Acineriauncinata +++ [107,117,207,232] Bresslauavorax+++[84,154]
+Acinetaflava +++[117] Bresslauidesaustralis+++[20,84]
+Acropisthiummutabile+++ [69,152,181] Bresslauidesdiscoideus+++[84,154]
+Aetinobolinavorax ++[117,152] Bresslauidesterricola+++[75,84]
+Alinostomamultivacuolatum++[4] Bryometopusalekperovi++[3]
+Amphibotrellaenigmatica+[132,133] Bryometopusatypicus +++[61,84]
+Amphisiellabinucleata+++ [11,78,138] Bryometopusbalantidioides+++[84]
+Amphisiellamagnigranulosa+++[78] Bryometopusedaphonus+[28,61,84]
+Amphisiellapolycirrata +++ [11] Bryometopushawaiiensis+++[89]
+Amphisiellaquadrinucleata+++ [11] Bryometopuspseudochilodon+++[84,155]
+Amphisiellaraptans++[28] Bryometopussphagni +++[3,84,155,179]
+Amphisiellaterricola+++ [69,128] Bryometopustriquetrus+++[84]
+Amphisiellavitiphila+++ [75,78] Bryophryabavariensis+++[84,154,240]
+Amphisiellidesatypicus++ [78,138] Bryophryarubescens++[84,179]
+Amphisiellidesilluvialis +++[49] Bryophyllumloxophylliforme++[154]
+Apoamphisiellatihanyiensis+++ [97,131] Bryophyllumtegularum+++[69,154]
+Apobryophyllumterricola+++(thispaper) Bursariatruncatella+++[84]
+Apocolpodaafricana+++ [84] Chaenaclavata+[132]
+Archinassulamuscicola+[157] Chaenea humicola+[130]
+Arcuospathidiumatypicum+++[78,240] Chilodonellaaplanata+[154]
+Arcuospathidiumcooperi+++[94] Chilodonellapigra +[164]
+Arcuospathidiumcultriforme+++[69,152,179] Chilodonellauncinata+++[114,154]
+Arcuospathidiumjaponicum+++[78] Chilodontopsismuscorum+++[69,154]
+Arcuospathidiumlionotiforme+++[69,152,179] Chilophryaterricola+++ [69]
+Arcuospathidiummuscorum+++[13,41,69] Chlamydonellaalpestris+++ [114]
+Arcuospathidiumvermiforme+++[69] Cinetochilummargaritaceum+++[116]
+Aspidiscacicada+++ [114] Cinetochilummarinum++[185]
+Aspidiscalynceus+++[114] Circinellaarenicola +++[88]
+Australocirrusoetonucleatus +++[78] Circinellafiliformis +++ [65,88]
+Australocirrusoscitans+++ [20] Circinellavettersi+++[11,88]
+Australothrixalwinae+++ [20] Cirrophrya australis ++[84]
+Australothrixaustralis+++ [20] Cirrophrya haptica ++ [84]
+Australothrixsimplex ++[252] Cirrophrya terricola+++[77,84]
+Australothrixsteineri+++ [93] Cladotrichaaustralis+++[20]
+Avestinaacuta++[26,84] Colpodaaspera+++ [4,84,148,154]
+Avestinaludwigi+++[84] Colpodaatra+[4]
+Bakuellaedaphoni+++ [23,212] Colpodaaugustini+++ [75,84]
+Bakuellapampinaria+++ [23,47] Colpodacalifornica+[84,154]
+Balantidioidesbivacuolata+++ [111,119,127,155,230,240] Colpodacavicola+++ [84,157]
+Balantidioidescorbifera+++[111,119] Colpodacolpidiopsis++[4,84,154]
+Balantidioidesdragescoi+++[111] Colpodacucullus+++ [4,84,154]
+Balantidioidesmuscicola+[152,179] Colpodaecaudata +++[84,114]
+Bardeliellapulchra +++[69,84] Colpodaedaphoni+++ [84]
+Bicoronellacostaricana+++ [93] Colpodaelliotti+++ [4,84]
+Birojimiamuscorum+++ [11,65,155] Colpodaflavicans +++ [84]
+Birojimiaterricola+++[11] Colpodahenneguyi+++ [84,154]
+Blepharismaamericanum+++[107,139,226] Colpodainflata+++ [4,84,154,206]
+Blepharisma biancae+[163] Colpodairregularis++[84,154]
+Blepharisma bimicronucleatum+++[81,139,234] Colpodalucida +++ [4,84,135]
+Blepharismahyalinum+++ [27,81,139,180] Colpodamagna+++ [84,137]
+Blepharisma lateritium+++ [81,115,124,139,155,160] Colpodamaupasi+++ [84,154]
+Blepharisma ovatum+[139,155,179,219] Colpodaminima+++[84]
+Blepharisma steini+++ [4,20,81,139,155] Colpodaorientalis +++[84]
+Blepharisma undulans+++ [81,139,155,216] Colpodapraestans ++[84,179]
+Brachonellacydonia++[144,150,155] Colpodareniformis+[84,154]
+Bresslauainsidiatrix +++ [84] Colpodasimulans+[84,154]
+
+Soilciliatediversity 213
+Table3. continued.
+Species Species
+Colpodasteinii +++[84,154J Drepanomonasrevoluta+++[27,77,129,143,154,163,240J
+Colpodatripartita+++[20,84,154,230J Drepanomonassphagni+++[77, 154J
+Colpodavariabilis+++[84J Enchelydiumpiliforme+++[69,102,152,153J
+Colpodidiumcaudatum+++[93,243J Enchelydiumpolynucleatum+++[69,103J
+Colpodidiumviridis +++[147, 170J Enchelydiumterrenum+++[69J
+Condylostomaterricola+++[93J Enchelyodoncalifornicus+[157J
+Corallocolpodagrelli+++[84J Enchelyodonlagenula +++[20, 152,153J
+Corallocolpodapacifica+++[84J Enchelyodonlonginucleatus+++[69J
+Coriplitesterricola+++[78J Enchelyodonnodosus+++[14J
+Corticocolpodakaneshiroae +++[86J Enchelyodonterrenus +++[69J
+Cosmocolpoda naschbergeri+++[84, 105J Enchelyodontratzi+++[74J
+Cothurniaminutissima++[157,177,239J Enchelyomorphavermicularis+++[6,106,132,152,153,200J
+Cothurniarichtersi++[157,177,179,239J Enchelyotrichabinucleata+++ [77J
+Cothurniopsisvalvata++[157,224,239J Enchelys multimicronucleata++[4J
+Cyclidiumglaucoma +++[95, 116,154J Enchelys multinucleata+++[14,41J
+Cyclidiummuscicola+++[93,154J Enchelys terricola+++[77J
+Cyclidiumterricola+[154J Enchelys tokkuri+[193J
+Cyrtohymenaaustralis+++[93J Enchelysvermiformis+++[77J
+Cyrtohymenaballadynula++[81, 155J Engelmanniellamobilis +++[51,65,246,247J
+Cyrtohymenacandens+++[65,81,155J Epispathidiumamphoriforme+++[69,128,135,152, 179J
+Cyrtohymenacandensdepressa++[81, 126J Epispathidiumascendens+++[77,241J
+Cyrtohymenacitrina+++[8,81J Epispathidiumpapilliferum+++[69,152,153J
+Cyrtohymenagracilis+[81,155J Epispathidiumregium +++[69J
+Cyrtohymenagranulata+[81,155J Epispathidiumterricola+++[77J
+Cyrtohymenamuscorum+++[11,26,65,81,129,155,254J Epistylisalpestris+++[57,59J
+Cyrtohymenaprimicirrata+++[8,69J Erniellafiliformis+++[75J
+Cyrtohymenaquadrinucleata+++[43,69,81J Eschaneustyla brachytona+++[44,65,220J
+Cyrtohymenatetracirrata +++[8,81, 126J Euplotes corsica+++[l1J
+Cyrtolophosisacuta+++[84,148J Euplotesfinki+++[65,257J
+Cyrtolophosis colpidiformis +++[84J Euplotes labiatus+++[20, 188J
+Cyrtolophosis elongata+++[27,84,154,230J Euplotes muscicola+++[40,65,155,204J
+Cyrtolophosis minor+++[84J Euplotes terricola+[179J
+Cyrtolophosis mucicola+++[84, 154J Frontonia depressa+++[77, 126,154,179,221J
+Dapedophryaflexilis+++[84,93,179J Frontoniaparameciiformis+[240J
+Deviatabacilliformis+++[8,45,125J Frontonia solea++[77J
+Didiniumnasutum+++[69,117,152J Frontonia terricola+++[77J
+Dileptusalpinus +++[39,81,154,240J Furgasoniatrichocystis+++[81, 144,154,225J
+Dileptusamericanus++[39, 154J Fuscherialacustris+++[210J
+Dileptusanguillula+++[39,64,69,154J Fuscherianodosa+++[68, 107J
+Dileptusbinucleatus++[39,154J Fuscheriaterricola+++[4,13,104J
+Dileptusconspicuus+++[39,81,154J Gastronautaderouxi+++[21J
+Dileptusconspicuustelobivacuolatus++[39, 128J Gastronautamembranaceus+++[4,21,76,114J
+Dileptuscostaricanus+++[93J Gastrostyla dorsicirrata+++[65J
+Dileptusedaphoni+++[205J Gastrostyla minima+++[98, 138J
+Dileptusfalciformis++[39,154J Gastrostyla muscorum++[155J
+Dileptusgracilis+++[39,81,154J Gastrostyla steinii+++[51,65,155,194J
+Dileptuskahli+++[98,205,214J Glaucomagigantea +[132, 133J
+Dileptusmargaritifer+++[39, 117J Gonostomumaffine+++ [26,28,65,126,129,130,165, 192,
+Dileptusmucronatus+++[39,69,179,206J 213,215,217,240J
+Dileptusorientalis +++[211J Gonostomumkuehnelti+++[77J
+Dileptuspolyvacuolatus+++[81] Gonostomumstrenua +++[51, 165,202,217J
+Dileptussimilis+++[93J Grandoriaaculeata+[33,84, 132J
+Dileptustenuis++[39,154,179J Grossglockneriaacuta+++[84J
+Dileptusterrenus +++[64,69J Grossglockneriahyalina+++[84J
+Dileptusvisscheri++[39J Halteriagrandinella+++[114,155,227J
+Dimacrocaryonamphileptoides+++[39,69,145,154,240J Halterioformacaudata+[143J
+Drepanomonasdentata++[118, 154,179, 186J Haplocaulusterrenus+++[63J
+Drepanomonasexigua ++[154, 179J Hastatellaradians+++[57, 115,157J
+Drepanomonasmuscicola+++[77,250J Hausmannielladiscoidea+++[69,84,129J
+Drepanomonaspauciciliata+++[77J Hausmanniellapatella +++[69,84,154J
+
+214 W.Foissner
+Table3. continued.
+Species Species
+Hausmanniellaquinquecirrata+[84, 128J Kuklikophryaougandae+++ [42,84J
+Hemiamphisiellagranulifera+++[75,78J Lacrymariapulchra ++[240J
+Hemiamphisiellaquadrinucleata+++[69,78J Lagynophryaarmata+[157J
+Hemiamphisiellaterricola+++[20,44,49,69,75,209J Lagynophryageleii+++ [64J
+Hemiamphisiellawilberti+++[65, 78J Lagynophryatrichocystis+++[64J
+Hemisincirragellerti +++[65,69J Lamtostylaabdita+++ [97J
+Hemisincirragracilis+++[65,69J Lamtostylaaustralis+++ [20,78,183,255J
+Hemisincirraheterocirrata ++[138J Lamtostylaedaphoni+++ [8,9,183J
+Hemisincirrainquieta+++[8,11,138J Lamtostylagranulifera+++ [97J
+Hemisincirrainterrupta+++[65,69J Lamtostylahyalina+++ [9,14J
+Hemisincirrakahli++[26,138J Lamtostylaislandica+++ [9J
+Hemisincirramuelleri+++[71J Lamtostylakirkeniensis+++ [9J
+Hemisincirraoctonucleata ++[138J Lamtostylalamottei++[9,27J
+Hemisincirrapolynucleata+++[69J Lamtostylalonga++[9,138J
+Hemisincirrapori++[73,244J Lamtostylaperisincirra+++ [9,14,138J
+Hemisincirraquadrinucleata++[138J Lamtostylaraptans++[97, 138J
+Hemisincirrasimilis+++[65,69J Laurentiellastrenua +++ [11,38J
+Hemisincirra vermiculare++[138J Leptopharynxcostatus+++[4,81,116,126,154,169,175,240J
+Hemisincirrawenzeli+++[75J Leptopharynxeurystoma+++ [154, 175J
+Holophryabimacronucleata+[132, 133J Linostomavorticella +++ [115, 146J
+Holostichaadami+++[65J Litonotuscrinitus+[132J
+Holostichaaustralis+++[20J Litonotusdigitatus+[132J
+Holostichabergeri+++[75J Litonotusmuscorum+++ [20, 154J
+Holostichadistyla ++[27J Marynaacuminata++[84, 128J
+Holostichaislandica+++[llJ Marynaantarctica+++ [84J
+Holostichalongiseta +[164J Marynaatra+++[84J
+Holostichamanca mononucleata+[23, 128J Marynalichenicola+++ [84J
+Holostichamancaplurinucleata++[23, 128J Marynaminima++[84J
+Holostichamonilata+++[23,102, 114,151, 155J Marynaovata+++[84J
+Holostichamultistilata+++[23,27,65,114,151,155,195J Marynapinguis+[38,84J
+Holostichamuscicola++[23,129J Marynarotunda++[38,84J
+Holostichamuscorum+++[23,65, 155J Marynasocialis+[84, 137J
+Holostichasigmoidea+++[23,65,69J Marynaumbrellata++[84J
+Holostichastueberi+++[74J Metacinetamicraster++[7,166,178J
+Holostichasylvatica+++[11,23,65,195J Metacinetamystacina+++ [117, 166J
+Holostichatetracirrata +++[20,23,28, 65J Metopuscontractus+[155, 179J
+Holostichideschardezi+++[75J Metopuses+++[115,144,155J
+Holostichidesterricola+++[78J Metopushasei+++[63,155,201J
+Holostichidestypicus+++[44,208J Metopusovalis+++[150, 155,this paper]
+Holostichideswilberti+++[44,203J Metopuspalaeformis++ [144, 150,155J
+Homalogastrasetosa+++[27,112,132,154,185J Metopusrectus++[61, 155J
+Idiocolpodapelobia+++[85J Metopussetosus++[144,150,155J
+Ilsiellapalustris+++[84J Metopussetosusminor++[61, 150,155J
+Ilsiellavenusta+++[75,84J Microdiaphanosomaarcuatum+++[63,84,132,240J
+Jaroschiasumptuosa+++[84J Microdiaphanosomaterricola+++[84J
+Kahliella acrobates++[33,140J Microthoraxsimulans+++ [70, 148,154J
+Kahliella simplex+++[8,33, 142J Monodiniumbalbiani+++ [117J
+Kahlilembusattenuatus+++[112, 116, 136,154J Mycterothrixtuamotuensis++[84, 154J
+Kalometopiaduplicata +++[84, 179J Mykophagophrysterricola+++ [84,93J
+Keronellagracilis+++[242J Nassula citrea+++[50, 154J
+Keronopsisalgivora++[126J Nassulapicta+++[81, 116, 179,230J
+Keronopsisdieckmanni+++(thispaper) Nassulaprotectissima+[154, 179J
+Keronopsishelluo ++[155, 179J Nassula terricola+++[81]
+Keronopsistasmaniensis +++[20J Nassula tumidaobscura+[164J
+Keronopsiswetzeli+++[8,240J Neogeneiahortualis +++ [45J
+Keronopsisalpestris+[155J Nivaliellaplana +++[84J
+Krassniggiaauxiliaris +++[75,84J Notohymenaantarctica +++ [95J
+Kreyella muscicola+[84,154J Notohymenaaustralis+++ [20, 107]
+Kuehneltiellamuscicola+++[84J Notohymenarubescens+++ [20,253]
+Kuehneltiellaterricola+++[84J Notohymenaselvatica++[20, 138]
+
+Soilciliate diversity 215
+Table3. continued.
+Species Species
+Notoxomaparabryophryides+++[84] Pelagotrichidiumtisiae+++[42,114,146J
+Notoxomasigmoides +++[84] Pentahymenacorticicola+++[90]
+Obertrumiakahli+++[81] Periholostichaacuminata++[138]
+Odontochlamysalpestris+++[21,64,184] Periholostichalanceolata++[138J
+Odontochlamysconvexa+++[21,154,230] Phacodiniummetchnicoffi+++[29,40,42,54,155,196]
+Odontochlamysgouraudi+++[27,29,80,154,179,240] Phialinabinucleata+++[14]
+Odontochlamyswisconsinensis+++[154,184] Phialinaflagellifera +[130]
+Onychodromopsisflexilis +++[183,222] Phialinaterricola+++[28,69]
+Opercularia arenicola+[134] Phialinidesaustralis+++[78]
+Operculariaasymmetrica+++[1,18] Plagiocampa atra +[132,133]
+Opercularia curvicaule+++[19,63,157,179] Plagiocampa caudata +[4]
+Ophryoglenamarginata+[135] Plagiocampa difficilis+++[64]
+Opisthonectaminima+++[56] Plagiocampa rouxi+++[58,148,152]
+Opisthotrichaelongata+[132] Platycola longicollis++[157,158,238]
+Opisthotrichaprocera+[155] Platycola steineri ++[157,177,238]
+Opisthotrichaterricola+[130] Platyophryabinucleata+++[75,84]
+Orthoamphisiellafranzi+++[10,45,65] Platyophryamacrostoma+++[84]
+Orthoamphisiellagrelli+++[48] Platyophryapaoletti+++[97]
+Orthoamphisiellastramenticola+++[46,48] Platyophryasimilis+++[84]
+Orthokreyellaschiffmanni+++[69,84] Platyophryaspumacola +++[27,84,143,149,152,163]
+Oxytrichaauripunetata+++[20] Platyophryavorax+++[84,148,152]
+Oxytrichabimembranata+[192] Platyophryidesdragescoi+++[75,84]
+Oxytrichagigantea +++[8,10,141] Platyophryideslatus+++[41,84,128,152]
+Oxytrichagranulifera+++[101] Platyophryidesmagnus+++[84]
+Oxytrichagranuliferaquadricirrata+++[20] Pleuroplitesaustralis+++[78]
+Oxytrichahengshanensis++[252] Pleuroplitoidessmithi+++[95]
+Oxytrichahistrioides +[130] Podophryahalophila+++[20,156]
+Oxytrichaislandica+++[11] Protocyclidiumterrenum++[4]
+Oxytrichalanceolata +++[8,11,95,193] Protospathidiumbonnetti+++[27,42,64]
+Oxytrichalongigranulosa+++[11] Protospathidiummuscicola+++[14,41,184]
+Oxytrichanauplia +++[8] Protospathidiumserpens+++[64,95,152,184]
+Oxytrichaopisthomuscorum+++[114,155,184] Protospathidiumterricola+++(this paperand [184])
+Oxytrichaottowi+++ [94] Pseudocarchesiumclaudicans+++[81,179]
+Oxytrichaproximata+[193] Pseudochilodonopsismutabilis+++[64,79,126,184]
+Oxytrichapseudosimilis++[138] Pseudochilodonopsispolyvacuolata+++[98,102]
+Oxytrichaquercineti+[163] Pseudocohnilembusmarinus+++[110,228]
+Oxytricharubripuncta+++[8] Pseudocohnilembuspusillus +++[5,53,110,116,185,187]
+Oxytrichasetigera+++[27,42,65,114,210] Pseudocohnilembusputrinus+++[110,151,154]
+Oxytrichasiseris+++[65,237] Pseudocyrtolophosisalpestris+++[84]
+Oxytrichatricirrata++[27J Pseudocyrtolophosisterricola+++[84]
+Papillorhabdosmultinucleatus+++[69J Pseudoglaucomamuscorum+[84,154,240]
+Parabryophryapenardi+++[84,154J Pseudoholophryaterricola+++[14]
+Paracinetalauterborni+++[93,201] Pseudokreyellaterricola+++[84]
+Paraenchelysterricola+++[69J Pseudokreyellaaustralis+++[84]
+Paraenchelyswenzeli+++[69J Pseudomicrothoraxagilis+++[32,116,169,176,213,240]
+Parafurgasonia sorex+++[42,99,179J Pseudomicrothoraxdubius +++[32,116,167,176,179]
+Paragastrostylalanceolata ++[138J Pseudoplatyophryanana +++[84,148]
+Paraholosticha lichenicola++[128J Pseudoplatyophryasaltans+++[78,84]
+Paraholosticha muscicola+++[36,37,75,155J Pseudothuricoladionysii++[157,179,231]
+Paraholostichanana +[128J Pseudouroleptusbuitkampi+++[8,65]
+Parakahliellahaideri+++[12J Pseudouroleptusprocerus+++[8]
+Parakahliellamacrostoma+++[15,65J Pseudouroleptusterrestris++[138J
+Parakahliellaterricola++[15,26J Pseudourostylafranzi+++[75J
+Paramphisiella acuta +++[65,78J Pseudovorticellamutans+++[60,179J
+Paramphisiella caudata +++[49,78,138J Pseudovorticellasphagni+++[60,93,109J
+Paraurostyla granulifera+++[11J Psilotrichasuccisa+++[67,173]
+Paraurostylapolynucleata++ [4] Pyxidiumlongicollum+[19J
+Paraurostylapulchra++ [26J Pyxidiumtardigradum++[233]
+Pattersoniella vitiphila+++[75] Reticulowoodruffiaterricola+++[84J
+Pedohymenaaustraliense+++[93J Rhabdostylaarborea +[135J
+
+216 W. Foissner
+Table3. continued.
+Species Species
+Rhabdostylamuscorum+[157] Telostomatellaferroi +[84,133]
+Rhabdotrichaterricola+[135] Telotrochidiumcylindricum+++[14,59]
+Rhopalophryaelegans+[143] Terricirralivida +++[9,11]
+Rhopalophryapentacerca+[132] Terricirramatsusakai+++[11]
+Rostrophryacamerounensis+++[42,84,98] Terricirraviridis +++[11,65]
+Rostrophryaterricola+++[84] Territrichastramenticola +++[9]
+Rostrophryidesafricana+++[75,84] Tetrahymenaedaphoni+++[77]
+Rostrophryidesaustralis+++[20,84] Tetrahymenarostrata+++[4,31,77,130,148,154]
+Sagittariaaustralis+++[84,185] Thuricola innixa ++[157,177,218,223,231,239]
+Sagittaria hyalina+++[84] Thuricola kellicottiana++[115,157,223,231]
+Sagittariapoligonalis+[84,132,133] Thylakidiumtypicum+[84,128]
+Sathrophilusmuscorum+++[27,33, 112,116,154] Tokophryamuscicola++[166, 178]
+Sathrophilussimonis+[33,163] Trachelochaetagonostomoida++[138]
+Semiplatyophryafoissneri+++[84,244] Trachelophyllumapiculatum+++[68,69,117,181,206]
+Solenophryaflavescens ++[166,178] Tricoronellapulchra +++[20]
+Solenophrya massula++[166,178] Trihymenaterricola+++[78,84]
+Solenophryasacculus++[166,178] Trithigmostomabavariensis +++[73,76,79,154,230]
+Sorogenastoianovitchae+++[84] Urliellaterricola+++[81]
+Spathidiumalpinum++[129] Uroleptoideskihni+[22,240]
+Spathidiumanguilla +++[6,69,185,235] Uroleptus humicola++[129]
+Spathidiumbavariense++[152,153,230,240] Uroleptus lepisma+++[11,240]
+Spathidiumclaviforme+++[77,152,153] Uroleptus matthesi+[240]
+Spathidiumfalciforme+[152,179] Uroleptus musculus+++[69,114,155]
+Spathidiumfurcatum +[193] Uroleptus notabilis+++[8,20,65,95]
+Spathidiumgeobium+[164] Uronemanigricans+++[4,116,173]
+Spathidiumholsatiae++[152,153] Urosomaacuminata+++[65,155,222]
+Spathidiumlagyniforme+++[69,152] Urosoma cienkowskii+++[65,69,155,159]
+Spathidiumlongicaudatum+++[26,28,64] Urosoma karini+++[74]
+Spathidiummultinucleatum+[128] Urosoma macrostoma ++[130]
+Spathidiummuscicola++[4,14,27,152,153,185,206] Urosoma macrostyla+++[65,66,155,248,249]
+Spathidiumprocerum+++[4,69,152,153] Urosoma octonucleata+++[11]
+Spathidiumrusticanum++[64] Urosomoida agiliformis +++[65,100,120]
+Spathidiumscalpriforme++[152,153] Urosomoida agilis+++[25,51,65,138]
+Spathidiumseppelti+++[184] Urosomoida antarctica+++[95]
+Spathidiumspathula +++[69,126,152,171,172,240] Urosomoidadorsiincisura+++[65]
+Spathidiumspathuloides +[128] Urosomoidagranulifera+++[95]
+Spetazoonaustraliense +++[87] Urosomoidaminima++[138]
+Sphaerophryaparva+[135,166] Urostylagrandis+++[114,213]
+Sphaerophryaterricola++[71,166] Urostyla muscorum++[155]
+Spirofilopsistubicola +[38,137] Urotricha atypica++[4]
+Stammeridiumkahli+++[70,240] Urotricha mamilla+[164]
+Steiniaplatystoma++ [27,114] Urotricha terricola++[5]
+Sterkiella cavicola+++[8,27,114,157] Vaginicolachaperoni++[157,177,179,239]
+Sterkiella histriomuscorum+++[6,15,65,114,143,155,184] Vaginicoladoliolum ++[157, 177,179,239]
+Sterkiella similisf.tricirrata++[27] Vaginicolaterricola++[135,177,179]
+Sterkiella thompsoni+++[95] Vaginicolavirgula++ [157,177,179,239]
+Stichotrichaaculeata+++[61,114,248] Vorticellaastyliformis+++[63,115]
+Stichotricha socialis++[137] Vorticellacoeni+[163]
+Strongylidiumcalifornicum +[155] Vorticellainfusionum+++[115]
+Strongylidiummuscorum+[155] Vorticellalichenicola++[135,179]
+Stylonychiabifaria+++[222,245] Vorticellamicrostoma +++[115]
+Stylonychiamytilus+++[65,114,172] Vorticellamuralis++[179]
+Stylonychiapustulata+++[114,173] Vorticellaoperculariformis +++[60]
+Stylonychiaquadrinucleata++[5] Vorticellapileolata +[163]
+Stylonychiastylomuscorum++[114,155] Vorticellasimilis+++[63,115]
+Tachysomagranulifera+++[8] Wallackiabujoreani+++[11,164]
+Tachysomahumicola+++[69,130] Woodruffiaaustralis+++[84]
+Tachysomahumicolalongisetum+++(thispaper) Woodmffiarostrata+++[75,84,154]
+Tachysomaterricola++[138] Woodruffidesmetabolicus+++[84]
+Tectohymenaterricola+++[84] Woodruffidesterricola+++[75,84]
+
+Soilciliatediversity 217
+Table 4. Statisticsand ecological characteristicsofthe soilciliatecommunity(extractedfrom Tables2and 3).
+Characteristics AccordingtoTables2,3 AccordingtoTables2,3
+plus 500undescribedspecies!'
+numberof % numberof %
+speCIeS specIes
+Totalnumberofspeciesdescribed 643 100.0
+Validspecies 594 92.4 1092 100.0
+Synonyms 49 7.6 notdetermined
+Excellentlydescribedspecies 409 68.9 not determined
+Sufficientlydescribedspecies 107 17.9 notdetermined
+Poorlydescribedspecies 78 13.2 none
+Colpodids 129 21.8 146 13.4
+Cyrtophorids 14 2.2 16 1.5
+Gymnostomatids 105 17.8 289 26.5
+Heterotrichs 24 4.1 35 3.2
+Hymenostomes 23 4.0 35 3.2
+Hypotrichs 214 36.0 429 39.2
+Nassulids 26 4.4 50 4.6
+Oligotrichs 1 0.1 3 0.3
+Peritrichs 35 5.9 40 3.7
+Prostomatids 10 1.7 22 2.0
+Suctorians 12 2.0 26 2.4
+Smallspecies(biomass~100mg/l06cells) 416 70.9 notdetermined
+Largespecies(biomass~400mg/l06cells) 48 8.2 notdetermined
+Mean Biomass of106specimens 241 notdetermined
+Omnivores" 103 20.2 notdetermined
+Mainlybacteriovorous 196 38.5 notdetermined
+Mainlypredaceous 172 34.1 notdetermined
+Mainly(filamentous)cyanobacteria 18 3.6 notdetermined
+Mainlymycophagous 8 1.6 notdetermined
+Aerobics 582 98.3 1074 98.4
+Anaerobics 10 1.7 18 1.6
+Occurringonly interrestrialhabitats(,;,:.,:.) 133 22.5 397 36.4
+ProbablyoccurringonlyinterrestrialhabitatsC',:') 310 52.2 519 47.6
+OccurringinsoilandfreshwaterC;) 151 25.3 174 16.0
+Recordedfrom 1geographicalregion only 265 44.5 notdetermined
+Recordedfrom 2geographicalregions only 95 16.0 notdetermined
+Recordedfrom 3geographicalregions only 64 10.8 notdetermined
+Recordedfrom 4geographicalregions 103 17.4 notdetermined
+Recordedfrom all(5)geographicalregions 67 11.3 notdetermined
+Speciesrecordedfrom Holarctis 483 81.2 notdetermined
+SpeciesrecordedfromPalaeotropis 290 49.0 notdetermined
+SpeciesrecordedfromAustralis 251 42.4 notdetermined
+SpeciesrecordedfromNeotropis 259 43.9 notdetermined
+SpeciesrecordedfromArchinotis 101 17.1 notdetermined
+!) I havenotyet describedthesespecies,whichIfoundinabout1000soilsamples worldwide,butfully studiedinliveand silver
+slides.Manybelongto new generaorto generaasyet knownfrom soilonly.
+2) Feedingon~thanthreeitems.
+
+218 W. Foissner
+the reliablebiogeographic informationisstill much too and curved.Macronucleuselongatereniform(3.5:1).Ex
+incomplete and most of the rare species possibly have trusomes rod-shaped, about 5 )lm long. On average 21
+not yet been discovered due to methodological prob somatickinetieswith 40basalbodieseach,3ofthem an
+lems [96]. In spiteofthis, thepresent dataset isproba teriorlydifferentiatedtodistinct brush on dorsalside.
+bly the most complete and reliable available, not only Type location: Grassland soilfrom Mt. Kenya near
+for soil ciliates but also for ciliates in general. Thus, the lodge "The Ark", Mount Kenya National Park,
+some preliminary conclusionsshould bepossible. Kenya,equatorialAfrica(about37°E,0°N).
+Only about 30% of the soil ciliate species have been Etymology: terricolabecauselivingin soil.
+found in morethan three out offivebiogeographical re Description: Size in vivo 70-100x2Q-30 pm. Elon
+gions,and44% havebeen recordedfromoneregiononly gate saccular, usually lookinglike aswimmingsausage,
+(Tab. 4). These figures suggest a high degree of en anteriorportionfrequently slightly curved,middleand
+demism. However, they are very likely strongly biased posterior portion more or less distinctly inflated, de
+due to the very limited data available. To mention only pending on nutritional state (Figs. 2, 5). Unflattened,
+two examples:When Trihymenaterricolawas discovered except for slightly compressed anterior third. Macro
+in African soils in 1988, I supposed that it could be en nucleusin mid-body,elongate reniform,rarelyslender
+demicbecauseofthe uniqueorganisationofitsoralappa ly ellipsoidal, contains many tiny nucleoli. Micro
+ratus. Later it was found in many soils world-wide [16, nucleus globular, attached to macronucleus, but not in
+84;Tab.2],indicatingthat we previously overlooked or fixed position. Contractile vacuole in posterior end.
+misidentified this minute creature. Likewise, the bipolar Extrusornes mainly in oral bulge, rod-shaped, about
+biogeography of the genus Colpoda,suggested by Smith 5)lm long(Fig.3).Cortexflexible, contains aboutfour
+[197],did notwithstand amoredetailedanalysis andwas rows of minute, colourless granules between each two
+caused by methodologicalshortcomings [95]. kineties (Fig. 6). Cytoplasm usually packed with fat
+Thus, it is probably more accurate to select the data globules 0.5-3 pm across. Swims moderately fast by
+very rigorously, that is to look at conspicuous species rotationabout longitudinalbodyaxis.
+("flagships" with largesize or othervery distinct char Cilia 10-12pmlong,ratherunevenly spaced.Somat
+acters) whichare easily recognised and identified. Such ic kinetiesevenlyspaced, extend meridionally,anterior
+species are, for example, Apobryophyllum terricola, ends conspicuously curved and composed of 3-6 dis
+Australothrix spp., Bresslauidesaustralis,Cosmocolpo tinct dikinetids associated with long, fine nematodes
+da naschbergeri, Erniella filiformis,Jaroschia sumptu rnata.Dorsal brush ofusualstructure, i.e. composed of
+osa, Keronopsis tasmaniensis, Krassniggia auxiliaris, narrowlyspaced dikinetidshavingshort,slightlyinflat
+Periholosticha spp. and Tricoronella pulchra, which ed cilia;atanterior endofeach brush kinety 2-6 mono
+have so far been found only in the Palaeotropis and/or kinetids(Figs.7-11).
+Australis, whereas, e.g., Amphisiella quadrinucleata, Oralbulgeconspicuous,althoughindistinctlysetoff
+Bresslauides discoideus, Chilophrya terricola, Hemi from neck, becauserather high and refractiledue to the
+amphisiella quadrinucleata, Kalometopia duplicata, extrusomes contained. Bulge centre depressed funnel
+Keronopsis wetzeli, Orthoamphisiellafranzi and Wal like.Circumoralkinety discontinuous becauseanterior
+lackiabujoreanihave beenfound onlyin the Holarctic. dikinetidal fragments adhering to their respective so
+These data, especially the limited distribution of the matickinetiesseparatedbysmallgaps(Figs.2, 7,9-11).
+two most conspicuous species, viz. Krassniggia auxil Genericclassification and comparison with related
+iarisand Bresslauidesdiscoideus,both belonging to the species:Protospathidium terricolahasthe typical gener
+orderColpodida,suggestthat atleastsomespecieshave ic character ofProtospathidium [41], viz. a discontinu
+a limited Gondwanan or Laurasian distribution. How ous circumoral kinety composed of small dikinetidal
+ever, even this example is not entirely convincing be fragments. These fragments adhere to the anterior end
+cause both species are very rare and the limited distri of the somatic kineties and are separated from each
+butioncould thus be caused by undersampling. other by a narrow gap (Figs. 9-11), unlike in Spathi
+dium (Figs.12, 13)andArcuospathidium [69], where the
+fragmentsare fused to asingle,continuous row [69].
+Protospathidium terricola is a difficult species be
+Description of new and insufficiently
+cause it has few distinct characters and is thus, in life,
+known species
+easily confused with several congeners and with
+Spathidium claviforme,which haveasimilarsize,shape
+Protospathidiumterricola nov.spec.(Figs.2-13,
+and macronucleus; in fact, it was only a fortunate
+Tab.5)
+chance that I did notconfuseit with S. claviformedur
+Diagnosis: Size in vivo about 90x25 )lm. Elongate ing the routineinspection of thesample,i.e. recognised
+saccular with anteriorportion usuallyslightlynarrowed thediscontinuouscircumoralkinety! Spathidium clavi-
+
+Soilciliatediversity 219
+"---0 8---/
+. .
+Figs. 2-13. Protospathidiumterricola(2,3,5-11), Spathidium vermiculus(4,from [148]),andS.claviforme(12,13,from [77])
+from life (2-6) and after protargol impregnation (7-13).2. Right lateral view of typical specimen packed with fat globules.
+3.Extrusome(5prn)athighmagnification.4.Spathidium vermiculus,length40-50 pm.5.Saccularshapevariant ofP. terricola.
+6.Surfaceviewshowingcorticalgranules.7,8, 12.Infraciliatureofright (7,12)andleft(8)sideofP. terricola(7,8)andS.clavi
+forme (12).9.Oralkinetofragments athigh magnification.Thefragmentsdonotform acontinuouscircumoralkinety,asthey
+do inS. claviforme(13).10, 11.Infraciliature ofanterior ventraland dorsalside. 13.Infraciliature of anterior ventralside of
+S. claviforme, where the oral kinetofragments form a continuous circumoral kinety. B =dorsal brush, CF =(circum)oral
+kinetofragments,CK= circumoralkinety,FG =fat globules,MI= micronucleus,N = nematodesmata, OB= oralbulge.Scale
+bardivision10pm.
+
+220 W.Foissner
+Table5. MorphometricdatafromProtospathidiumterricola(upperline) and Apobryophyllumterricola(lowerline).
+Character" x M SD SE CV Min Max n
+Body,length 80.7 82.0 9.6 3.0 11.9 65.0 93.0 10
+154.0 155.0 22.1 7.0 14.3 125.0 190.0 10
+Body,maximumwidth 22.5 22.0 3.6 1.1 16.1 16.0 28.0 10
+21.2 20.5 5.9 1.9 28.0 16.0 35.0 10
+Oralbulge,length 14.3 15.0 1.7 0.6 11.6 12.0 17.0 10
+Macronuclearfigure, length 28.1 26.5 4.2 1.3 15.0 22.0 35.0 10
+60.4 61.0 12.8 4.0 21.1 40.0 80.0 10
+Macronucleus,width 7.6 8.0 0.8 0.3 11.1 6.0 9.0 10
+3.9 4.0 1.2 0.4 30.7 2.0 6.0 10
+Macronuclei,number 1.0 1.0 0.0 0.0 0.0 1.0 1.0 10
+1.0 1.0 0.0 0.0 0.0 1.0 1.0 10
+Micronucleus,largestdiameter 3.5 3.5' 3.0 4.0 10
+2.3 2.1 2.0 3.0 10
+Micronuclei,number 1.0 1.0 0.0 0.0 0.0 1.0 1.0 10
+8.8 8.0 2.8 1.2 31.5 6.0 13.0 5
+Somatickineties,numberin mid-body 21.3 21.0 1.6 0.5 7.7 19.0 25.0 10
+16.0 16.0 2.3 0.7 14.1 13.0 19.0 10
+Basal bodiesinrightlateralkinety,number 42.2 39.5 7.3 2.3 17.3 35.0 55.0 10
+63.3 65.0 55.0 70.0 3
+Dorsalbrushrows,number 3.0 3.0 0.0 0.0 0.0 3.0 3.0 10
+4.2 4.0 4.0 5.0 10
+Circumoralkinetyto end ofbrushrow1, 15.0 15.0 2.6 0.9 17.0 11.0 18.0 9
+distance 19.1 20.0 1.9 0.6 10.1 15.0 22.0 10
+Circumoralkinetyto end ofbrushrow2, 18.0 18.0 2.1 0.7 11.5 15.0 21.0 9
+distance 35.8 35.0 5.0 1.6 13.9 30.0 48.0 10
+Circumoralkinetytoend ofbrushrow3, 10.8 10.0 1.7 0.6 15.9 8.0 14.0 9
+distance 40.3 40.0 5.6 1.8 14.0 35.0 55.0 10
+Circumoralkinetytoend ofbrushrow4,
+distance 39.8 39.0 5.9 1.9 14.8 35.0 55.0 10
+I) Databasedonprotargol-impregnatedand mountedspecimensfromfield. Measurementsinpm. Abbreviations:CV=coeffi-
+cientof variationin %, M =median,Max =maximum,Min=minimum,n =numberof individualsinvestigated,SD =stan-
+darddeviation,SE=standarddeviationofmean,x=arithmeticmean.
+forme hasfewer ciliary rows thanP. terricola(10-13 vs. anteriorleft side of cell,left brush kineties regular and
+19-25) and isa"true" Spathidium because the anterior dikinetidal, right brush kineties fragmented and very
+kinetofragments are fused to a continuous circumoral likely monokinetidal.
+kinety(Figs.12,13[77]).Thiswas confirmedby arein Type species:Apobryophyllumterricolanov.spec.
+vestigationofthe neotypeslides. Etymology: Composite of apo (derived), bryan
+As concerns the congeners, P. serpenshas fewer cil (moss),andphyllon (leaf).Neutergender.
+iary rows (11-13 vs. 19-25) and its macronucleus is Comparisonwithrelatedgenera:Gymnostomecil
+longer and usually distinctly coiled and/or nodulated iates have a fascinating variety of brush structures,
+[64,95,184]. Protospathidium muscicola [41]has many often separating species at genus levelwhich otherwise
+small macronuclear nodules and only 10-12 ciliary look very much alike [69]. Apobryophyllum certainly
+rows. has a new type of brush, and is closely related to
+Protospathidiumterricola alsoresembles Spathidium Bryophyllum, asindicatedby the typicaloral bulge and
+vermiculus[148]which, however,issmaller (40-60um) lateral flattening. Bryophyllum tegularum has, like
+and has amore cylindroid shape and onlyabout 10so Spathidium spp., threebrushkineties of usual structure
+matic kineties (Fig.4[148,152,251]). [69]. However, the Bryophyllum species described by
+Gelei [123]have, likeApobryophyllum, amorecompli
+cated, bipartited brush composed of many short
+Apobryophyllumnov. gen.
+kineties near the organism's anterior end and three to
+Diagnosis:Spathidiidaewithoral bulge extendingto fivelong rows in mid-body. Unfortunately, the details
+and aroundposteriorend oforganism.Dorsalbrushon provided by Gelei [123] are insufficient to decide
+
+. '- - -8
+, ••I
+. i
+" •
+' . ' \ I
+I
+...... ... .. I,. II
+."
+:..
+. ..
+.. .. .. ... .. .. .:: \
+i.
+.
+I .
+I . '
+i
+·
+I•
+·II,
+·
+·
+I,
+·
+· . .
+.
+I
+I
+-N
+16
+17
+E
+RC E L/C
+······:1"::·0::··.:
+~ ! : .
+.;....:: ...::~'...~':: ~.:.::." ..
+" ~ ~~ .. ..
+:(~ 26~
+.. . .. ....
+~ : . ~\ .... , .. ".' ... .... ..
+~ " ..~ .' .... ... .. .. . .'
+"
+~ .
+:2\
+.. ..
+~. ." ~,: t.: -?' ",' ..>~ ..
+~ ~
+FG
+~ .. '<,
+.'.
+18 ~ 19 '\
+Figs. 14-24. Apobryophyllumterricolafromlife(14-18,23,24)andafterprotargolimpregnation(19-22).14,15.Leftlateral and
+ventralviewoftypicalspecimen.16.Broadshapevariantshowingarrangementofextrusomes.17.Extrusomeinsurface andlat
+eral view.18.Optical section of cellperiphery showing arrangement of cortical granules (cp. Fig. 24) and extrusomes, which
+form a fringe around the cell (cp, Fig. 16). 19. Frontal view of oral bulge showing orientation and ciliation of circumoral
+dikinetids. 20,21. Infraciliature ofright and left side and nuclearapparatus. 22. Infraciliature of anteriorleft side showingthe
+genus-specificbrush,whichconsistsoffourrows,indetail.23.Posteriorendofbrushrows (numbers1-4),whichhaveahighly
+differentiated ciliation. 24. Surface view showing cortical granules. B =dorsal brush, C =normal somatic cilium, E =extru
+somes, EP =pores of contractile vacuole, FG =fat globule, LC =left branch of circumoral kinety, MA =macronucleus,
+MI =micronucleus,N =nematodesmata,OB=oral bulge, RC =rightbranchofcircumoralkinety. Scalebardivision20pm.
+
+222 W. Foissner
+whether his species have fragmented brush rows like of many short, rather irregularfragments having about
+Apobryophyllum. 4)lmlong,distinctlyinflated cilia;rows 3and 4regular
+The monokinetidal (?) fragments in the brush of ly dikinetidal with anterior cilium slightlyinflated and
+Apobryophyllum are reminiscent of those found in longer (3 urn) than posterior (2 um); row 4 has a
+Paraenchelys which, however, has a very small, apical monokinetidaltailwithshortbristles extendingtolevel
+oral openingandlacksdikinetidal brushrows [69]. ofposteriorend of row3(Figs.21-23).
+Apobryophyllumhas,unlikeallBryophyllumspecies Oral bulgevery inconspicuous, hardlydistinctfrom
+known, a slightly bipartite oral bulge and circumoral body proper and thus almost invisible in live speci
+kinety, composed of a slightly concave and relatively mens, extends from anterior dorsal end to posterior
+short,cuneate, densely ciliated anteriorpartand along, dorsal end, bordered by dikinetidal circumoral kinety
+straight,looselyciliatedposteriorportion.The anterior associated with very fine nematodesmata; circumoral
+part is highly reminiscent of the oral bulge of Arcu dikinetidsonrightsidevery likelyciliated and orientat
+ospathidium, indicating that Apobryophyllum, Bryo edtransverselyto longitudinal axisofcell,those on left
+phyllum and Arcuospathidium might have a common side, having very likely only the posterior basal body
+ancestor. ciliated, longitudinally to slightly obliquely arranged
+(Figs.14,19-22).
+Comparison with related species: No species has
+Apobryophyllumterricolanov. spec.(Figs. 14-24,
+been found in the literature which might be identical
+Tab. 5)
+with A. terricola. It is easily distinguished from the
+Diagnosis: Sizein vivo about 160x25)lm.Slenderly Bryophyllum species known by its very slender shape
+knife-shaped to spatulate. Macronucleus filiform and and inconspicuousoral bulge.However, livespecimens
+tortuous. Extrusomes rod-shaped, about 5 )lm long, of A. terricola are easily confused with large Arcuo
+form peripheral fringe. 16somatic kineties on average, spathidium species, especially A. lionotiforme, which
+4 of them differentiated to distinct brush on anterior has a very similar size, shape and nuclear apparatus
+leftside. [69]. The best in vivo character for separating these
+Type location:Soilfrom Shetani volcano area,Tsavo speciesisthe arrangementofthe extrusomes,whichare
+National Park, Kenya, equatorial Africa (about 38° E, restricted to the oral bulge in Arcuospathidium, and
+2°55' N). distributed in a peripheral girdle in A. terricola. Some
+Etymology:terricolabecause livinginsoil. Prorodon and Cranotheridium species,especially P. ar
+Description:Sizeinvivo13G-200x2G-55)lm,length: matides [98], also look very much alike A. terricola.
+width ratio 5:1to 9:1,usually near 7:1.Slenderly spatu However, all Prorodon and Cranotheridium species
+late to knife-shaped, i.e. anterior ventral third rather knownliveinfreshwater.
+distinctly curved and gradually narrowing to form
+bluntlypointeddorsal anteriorend; bladeleaf-likeflat
+Metopusovalis Kahl, 1927(Figs.25-30)
+tened and sometimes slightly broadened,handle evenly
+rounded posteriorly and flattened up to 2:1 (Figs. Redescription: Like Kahl [150, 155], I found only
+14-16). Macronucleus in middle bodyportion,filiform few specimens. Thus, the morphometric analysis is
+and tortuous, with many small nucleoli. Micronuclei rather incomplete and summarised here: length
+globular, near or attached to macronucleus. Contractile 102-145)lm(x= 123.8,SD=16.9,n=6),postoralwidth
+vacuole in posterior end, about 6 excretory pores on 42-57 )lm(x= 47.6, SD = 6.0, n = 5),distance anterior
+right posterior surface of cell (Fig. 20). Extrusomes end to macronucleus 24-45 )lm (x = 33.3, SD = 8.2,
+rod-shaped, slightly curved, about 5 )lm long, more n = 6),distance anterior end to proximal end of adoral
+narrowly spaced in anterior third than posteriorly, at zone 53-80 )lm(x= 64.2, SD = 10.2,n = 6), length of
+= =
+tached to oral bulge in two indistinctrows and to dor macronucleus 20-34 )lm (x 25.7, SD 5.6, n = 6),
+sal side, forming conspicuous peripheral fringe (Figs. widthofmacronucleus 13-22)lm (x= 16.0,SD = 3.1,n
+14-18). Cortex flexible, fragile, contains about five =6), largest diameter of micronucleus 3-5 pm (x=4.0,
+rows of colourless granules between each two ciliary SD=0.6,n=6),numberofperizonal kineties 5(n=5),
+rows (Fig. 24).Cytoplasmusuallypacked with colour number of somatic kineties in postoral body portion
+lessfat globules 2-6 )lmacross and many scattered ex 23-29 (x= 25.8, SD = 2.5, n = 4), number of adoral
+trusomes very similar to those found in oral bulge. membranelies46-55 (x= 50.6,SD=3.8,n=4).
+Glides slowlyon slidesurface and soilparticles. Sizeinvivo about 120-170x50-60 )lm.Cells reddish
+Cilia rather loosely spaced, arranged in meridional at low « XI00) magnification, as also mentioned by
+rows distinctlyseparate from circumoralkinety.Dorsal Kahl [150],possibly due to minute cytoplasmic gran
+brush at anterior end of first four kineties of left side, ules and food vacuole contents. Preoral dome conspic
+aboutaslong asbladeofknife; rows 1and2composed uous, occupies about 1/3 of body length, projects
+
+Soilciliatediversity 223
+, ,
+, , ,
+I
+I I I \
+I
+I
+I
+l'
+,
+.,
+I I I
+"
+•
+I
+I I I I
+I ,I
+,
+I ,
+, ,
+.. ..
+I I
+26
+Figs. 25-30. Metopus ovalis fromlife(27-30) and after pro
+targol impregnation (25,26).25,26. Infraciliature of ventral
+and dorsal side of same specimen.27.Ventral view of large
+specimen(150urn),The cytoplasmoftheKenyanpopulation
+is strongly vacuolated. 28. Ventral view of M. uentrosus
+Vuxanovici, 1962,very likely ajuniorsynonym of M. ova/is
+(length 100 pm; from [236]). 29. Metopus ova/is, length
+150 prn (from [155]). 30. Ventral and dorsal view of type
+populations of M. ova/is, length 10D-150pm (from [150]).
+G = violet granule accumulation, PM = paroral membrane,
+PZ=perizonal ciliarystripe.Scalebardivision20pm.
+
+224 W.Foissner
+sharply above ventral side and left margin when cell is lipsoidal macronucleus left of the cytostome, and the
+viewed ventrally. Postoral portion elongate to slightly relatively short and little spiralized adoral zone of
+saccular, broadly rounded and slightlyflattened poste membranelles, which thus extends only to mid-body
+riorly, wrinkled by longitudinal folds after release of and terminates on the right side. Metopus ventrosus
+contractile vacuole content (Figs. 25, 27). Macro Vuxanovici [236] differs from M. ovalis only by its
+nucleus slightly ellipsoidal, usually close underneath more distinct oval shape, resembling that of my speci
+preoral dome, contains many small nucleoli. Micronu mens, and the greenish colour of the anterior granule
+cleus globular, in small indentation of macronucleus accumulation(Fig.28).Thus,IagreewithEstebanetal.
+(Figs. 26, 27). Contractile vacuole in posterior end. [52] that these species should be synonymized. Meto
+Cortex flexible, contains loosely arranged, pale disks pus[uscus Kahl [150, 155] also resembles M. ovalis in
+about 1.5pm across, possibly mitochondria and/or fat size (180-300x40-60 urn), shape, and absence of caudal
+globules, and some 0.5 pm sized granules (extrusomes cilia.However,it has45-50somatickineties [144]and a
+?), which do not stain with methyl green-pyronin. thick(2urn) ectoplasmcontainingbluntprotrichocysts
+Cytoplasm distinctly vacuolated, possibly due to the [150, 155]. Brachonella elongata Jankowski [144] is
+saline environment, contains large food vacuoles with smaller(100x42 pm) than M. ovalisand its adoral zone
+bacterial residues; no anterior granule accumulation, of membranelles extends almost to the posterior body
+but cytoplasmic vacuoles often contain some granular end.
+material. Moves slowly by rotation about longitudinal
+bodyaxis.
+Keronopsis dieckmanninov. spec.(Figs. 31-34,
+Somatic infraciliature composed of dikinetids
+Table 6)
+throughout, anterior cilium lacking in many postoral
+and dorsalkinetids. Cilia about 15pm long, form about Diagnosis: Size in vivo about 220x70 prn, elliptical
+5oblique,sigmoidalrows on preoraldomeand longitu with oral area usually slightly narrowed and set off
+dinal rows on postoraltrunk. Perizonalciliary rows on head-like. 4 macronuclear nodules. 3 short and 2 long
+proximal edge of preoral dome, exactly S-shaped like rows offrontoventral cirri. Onaverage 52adoralmem
+adoralzoneofmembranelles,separatedfrom first dome branelles, 61right marginal cirri, 60left marginal cirri,
+kinetyby adistanceabouttwice aswide asbetweenso 51 cirri in right long ventral row, 53 cirri in left long
+matic kineties, narrowly spaced with dikinetids ar ventral row, 5 cirri in frontal corona, 6 buccal cirri, 5
+ranged in curious, arrow-like pattern (Figs. 25, 26). transverse cirri, and 3 dorsal kineties. Buccal cavity
+About7postperistomialkineties. Nocaudal cilia. deep and semicircularlycurvedanteriorly.
+Adoral zone of membranelles exactly S-shaped, Type location: Saline soil at shore of Lake Baringo,
+commences on left dorsal end of preoral dome and ex Kenya, equatorialAfrica(about36°E,0°45' N).
+tends sigmoidallyto rightside, plungingintoanincon Dedication: Named in memory of my friend and
+spicuous cytopharynx supplied with a long, narrow colleagueJosefDieckmann(1948-1996).
+bundle of fibres. Individual membranelles cuneiform, Description: Sizein vivo 180-260x50-100 pm. Slen
+largest bases near proximal end of zone in vivo about derlyto moderatebroadlyelliptical,rarelyalmostparal
+5 pm wide. Paroral membrane inconspicuous because lel-sided, oral portion slightly cephalized because nar
+short and near proximal end of membranellar zone, rowed and due to conspicuously short adoral zone of
+consists of narrowly spaced, zigzagging, ciliated membranelles occupying only about 25% of body
+dikinetids (Figs.25-27). length (Figs. 31, 32). Flexible and dorsoventrally
+Comparisonwith original description and related flattened up to 2:1. Usually four roughly ellipsoidal
+species: My population stronglyresembles the original macronuclearnodulesone after theotherinmiddlepor
+figures (Figs.29,30)and description[150].Thereare, as tionofcellslightlyleftofmidline, sometimesindistinct
+usual, some small differences, viz. the strong vacuola ly groupedforming an anterior and posteriorpair, con
+tion of the cytoplasm and the lack of an accumulation tain manyglobularnucleoli. Micronucleialmostspheri
+of violet granules in the preoral dome, which seems to cal, compact and thus well recognizable in live speci
+be more distinct in my specimens than in that figured mens, near or in small indentations of macronuclei
+by Kahl (Figs. 27, 30). However, these differences are (Figs.31,34).Contractilevacuole distinctlyabove mid
+small comparedto the conformities,and mightberelat body. Cortex colourless, flexible, without special gran
+ed to the rathersalineenvironmentmy specimens lived ules. Cytoplasm colourless, contains some 1-3 pm
+in.Thus,Ihavefewdoubtsaboutthe identification,but sized, yellowish fat globules and, usually, many food
+suggestthatfurtherpopulations shouldbestudied. vacuoles with large heterotrophic flagellates (Polytoma
+Metopus ovalisiseasily identified by its rather large sp.) and/or small ciliates (Cyclidium, Halteria gran
+size (110-200 urn) and elliptical to slightly oval shape, dinella). Movement withoutpeculiarities, ratherslowly
+the lack of caudal cilia and distinct extrusomes, the el- gliding.
+
+Soilciliatediversity 225
+·
+· .
+·
+· · · ·
+· ·
+· ·
+·
+·
+·
+·. ·
+·. ·
+·
+· -
+· "'""' \
+·· --
+· :;~~: "
+· ....
+·
+· , r-
+I
+. \ f
+...., -. :r
+,r
+l( ,....
+{
+'I
+.~
+32
+Figs. 31-34. Keronopsisdieckmanni from life (31,32) and after protargol impregnation (33,34).31. Ventral view of typical
+specimen packed with food vacuoles containing smallciliates and heterotrophic flagellates.32. Dorsalview of shape variant.
+33, 34. Infraciliature of ventral and dorsal side. Arrows mark breaks in left long ventral row. CV = contractile vacuole,
+RM=rightmarginalcirralrow extending on dorsalside.Scalebardivision20pm.
+Cirri fine and very narrowly spaced, marginal rows Oral apparatus of usual structure, adoral zone of
+almostconfluentposteriorly, rightrowextendsondor membranelles, however, conspicuously short, as de
+salside anteriorly.Frontalcoronacomparativelyincon scribed above. Buccal cavity rather narrow but deep,
+spicuous because composed of only five enlarged cirri, strongly curved anteriorly. Paroral membrane almost
+three rightmost cirri of corona at end of short frontal semicircular, consists of at least three rows of basal
+rows composed of cirri gradually decreasing in size bodies, distinctly separate from endoral membrane
+posteriorly; rightmostrowpossibly belongstolongleft obliquely crossing buccal cavity. Pharyngealfibres in
+ventral row. Long ventral rows extend from anterior conspicuous(Figs.31,33).
+end to transverse cirri; cirri of same size throughout, Comparison with related species and generic clas
+left rowpossibly composed ofthreefragments, asindi sification: K. dieckmanni resembles K. tasmaniensis
+cated by twosmallbreaksinanteriorhalf of mostspec Blatterer & Foissner [20] which, however, has only 2
+imens. Buccal cirral row conspicuous. Transverse cirri macronuclear nodules, 1-2 buccal cirri, and 2 short
+inconspicuous, hardlyprojectingabove posteriorbody frontal cirral rows. Keronopsis belluo [179], type of
+margin. Dorsal bristles in vivo about 3 pm long, ar genus, isalso rathersimilarto K dieckmannibecause it
+ranged inthree rows almostaslong asbody.Nocaudal has5-6macronuclearnodules,manybuccalcirri, asim
+cirri(Figs.31,33,34). ilar size (250-300 urn) and buccal field, and lives in
+
+226 W. Foissner
+Table6. Morphometricdata fromKeronopsisdieckmanni.
+Character" x M SD SE CV Min Max n
+Body, length 201.8 197.5 26.8 8.5 13.3 165.0 245.0 10
+Body,width 67.8 68.5 11.8 3.7 17.4 48.0 91.0 10
+Anteriorsomaticend toproximalend of
+adoralzone,distance 50.5 50.0 5.2 1.6 10.2 42.0 60.0 10
+Anteriorsomaticendtoposteriorend of
+rightlongventralrow, distance 182.5 175.0 24.6 7.8 13.5 150.0 225.0 10
+Anteriorsomaticendtoposteriorend of
+left longventralrow, distance 169.4 162.0 29.0 9.2 17.1 138.0 221.0 10
+Anteriorsomaticend totransversecirri,
+distance 181.5 176.0 23.3 7.4 12.8 150.0 225.0 10
+Macronuclearnodules,length 19.9 19.0 4.3 1.4 21.8 15.0 26.0 10
+Macronuclearnodules,width 12.4 12.5 1.7 0.5 13.8 10.0 16.0 10
+Macronuclearfigure, length 103.5 96.0 18.8 5.9 18.2 80.0 138.0 10
+Macronuclearnodules,number 3.9 4.0 0.9 0.3 22.5 2.0 5.0 10
+Micronuclei,length 4.2 4.0 0.6 0.2 14.0 3.5 5.0 10
+Micronuclei,width 3.6 3.5 3.0 4.0 10
+Micronuclei,number 3.1 3.0 1.1 0.4 33.9 1.0 4.0 9
+Adoralmembranelles,number 50.7 52.5 6.1 1.9 12.0 40.0 60.0 10
+Rightmarginalcirri, number 64.2 61.0 7.0 2.3 10.9 55.0 75.0 9
+Leftmarginalcirri, number 62.3 60.0 8.7 2.9 14.0 51.0 74.0 9
+Anteriorfrontalcirri, number 5.0 5.0 0.0 0.0 0.0 5.0 5.0 10
+Buccal cirri,number 5.6 6.0 5.0 6.0 8
+Cirriin rightventralrow, number 50.3 51.0 5.6 1.9 11.2 42.0 58.0 9
+Cirriinleftventralrow,number" 54.0 53.0 9.4 3.3 17.4 41.0 68.0 8
+Transversecirri, number 5.2 5.0 1.0 0.3 19.9 4.0 7.0 10
+Dorsalkineties,number 3.0 3.0 0.0 0.0 0.0 3.0 3.0 9
+I) Databasedon protargol-impregnatedand mountedspecimensfromfield.Measurementsin}lm.Abbreviations:CV=coeffi-
+cientofvariationin %, M=median, Max =maximum,Min=minimum,n=numberof individualsinvestigated,SD =stan-
+darddeviation,SE=standarddeviationofmean, x=arithmeticmean.
+2) Includingrightmostshortrowoffrontalcirri.
+mosses. However, K helluo lacks short frontal rows Typelocation:SoilfromShetani volcanoarea,Tsavo
+and has atleast 10cirri inthe frontal cirral corona. National Park, Kenya, equatorial Africa (about 38° E,
+Both Keronopsis and Paraholosticha have a frontal 2°55' N).
+cirral corona and a very similar general organization. Etymology: longisetum (long bristles) refers to the
+However, I agree with Dieckmann [36] that the pres main subspecies character,viz. the elongatedciliaofthe
+ence (Keronopsis), respectively, absence (Paraholo posteriormostdorsalkinetids.
+sticha) of transverse cirri is sufficient to maintain both Description: Size in vivo 40-55x20-30 ]lm, usually
+genera. Thefrontal cirral corona of K dieckmanni and about45x25 ]lm. Shape conspicuous because ofits reg
+K tasmaniensis israther inconspicuous because it con ularity, i.e.slenderlyto broadly elliptical (Figs. 35,36),
+sists of only 5-7cirri, whereas it iscomposed of 10-20 often fusiform after protargol impregnation (Figs. 37).
+cirri in the other members of the genus [8,36,37, 75]. Rather inflexible like, e.g. Sterkiella histriomuscorum,
+Thus, the genericclassificationofK dieckmanniand K and dorsoventrally flattened up to 2:1. Macronuclear
+tasmaniensis might bequestioned. However,bothhave, nodules slightly ellipsoidal, in middle third of cell to
+like the other Keronopsisand Paraholosticha species, 3 left of midline, contain many granular nucleoli. Mi
+dorsalkinetiesand lackcaudal cirri. cronucleus globular, invariably between macronuclear
+nodules (Figs.35,38).Contractilevacuole in mid-body
+near left margin, without distinct collecting canals.
+Tachysomahumicolalongisetum nov. subspec.
+Cortex colourless, rather inflexible, without special
+(Figs. 35-38,Table 7)
+granules. Cells usually very transparent, contain 10-20
+Diagnosis: Like T. humicola Gellert, 1957, but curvedcrystals (3urn)and some 3-4]lmsizedfood vac
+posteriormost bristles of dorsal kineties 1-3 distinctly uoleswithbacterialresidues; posteriorend oftendarkly
+elongated(10prn). granulated after protargol impregnation (Fig. 38).
+
+Soilciliatediversity 227
+/
+\
+/
+~
+\'\..... ~ ~
+r-t' /
+j¢;;bl
+38
+'( \
+/
+Figs. 35-38. Tachysoma humicola longisetum from life(35,36)and after protargol impregnation (37,38).35.Ventralview of
+typical specimen. 36.Dorsal viewofslender shape variant.37,38.Infraciliatureofventral and dorsalside.Arrowheads mark
+two dorsal bristles between which thedistance is slightly increased.AM = distalmost adoral membranelle, DB = elongated
+dorsal cilia,FC = rightmostfrontal cirrus, MC = lastmarginalcirrus ofright row,PC = pretransversecirrus.Scalebardivision
+lOpm.
+Movement conspicuous due to long periods of gliding of zone and with cilia more distinctly curved right
+interruptedby short,fast jumps. wards thanthoseofotheranteriormembranelles;occu
+Cirri conspicuously thick compared to size of cell, pies about 34% of body length, bases of largest mem
+about 10 pm long; transverse cirri, however, about branelles about 5 pm wide. Buccal cavity narrow and
+15 pm long and distinctly projecting above posterior flat. Undulatingmembranesalmoststraightand side by
+body margin, conspicuously enlarged and slightly sig side, paroral shorter than endoral, forms thick line
+moidal. Marginal rows widely open at both ends, pos alongits posteriorhalf; endoralcomposed ofdikinetids
+terior gap occupied by transverse cirri; remarkably separated slightlyY-like in anterior third of membrane
+short because commencing at level of proximal end of (Figs.35,37).
+adoralzoneof membranellesand terminatingat levelof Comparison with related species: T. humicola
+uppermost transverse cirri. Right pretransverse cirrus longisetum highly resembles T. humicola Gellert [130]
+difficult to identify because usuallyalmostin line with as redescribed by Foissner [69J, both in general mor
+right marginal row; likewise, rightmostanteriorfrontal phologyand morphometry (Tab. 7).Forinstance, both
+cirrus difficult to recognize because in line with distal have the right pretransverse cirrus close to the last cir
+mostadoral membranelles (Figs. 35,37). Dorsal ciliain rus of the rightmarginalcirralrow. Theonlysignificant
+vivo about3pmlong, those ofposteriormostkinetid in difference concerns the posteriormost dorsal bristles,
+kinetics 1-3, however, elongated to 10prn; arranged in which are distinctly elongated in the African popula
+four rows with row 4 terminating in mid-body; one tion. Admittedly, this is a fairly indistinct character.
+kinetid frequently lacking near posterior end of kinety However, I found such populations at several sites in
+3(Figs.36,38). Africa and SouthAmerica, indicating that they are sta
+Adoral zone of usual structure, distalmost three to ble modifications. Thus, separation at subspecies rank
+fourmembranelles,however,slightlyseparatefromrest seems appropriate.
+
+228 W.Foissner
+Table7. Morphometricdatafrom Tachysomahumicolalongisetum(upperline)and T humicolahumicola(lowerline;from[69J).
+Character!' x M SD SE CV Min Max n
+Body,length 44.0 45.0 3.9 1.1 8.8 37.0 50.0 13
+42.4 41.0 4.3 1.3 10.0 38.0 50.0 11
+Body,width 21.2 21.0 2.4 0.7 11.2 18.0 27.0 13
+21.0 20.0 2.6 0.8 12.4 18.0 27.0 11
+Anteriorsomaticend toproximal 14.6 15.0 0.7 0.2 5.3 13.0 15.0 13
+end ofadoralzone,distance 14.0 14.0 0.9 0.3 6.4 13.0 16.0 11
+Anteriorsomaticendto anterior 14.2 14.0 1.2 0.3 8.2 12.0 16.0 13
+endofrightmarginalrow, distance 14.0 14.0 0.6 0.2 4.5 13.0 15.0 11
+Anteriorsomaticend to anterior 14.2 14.0 1.2 0.3 8.6 12.0 16.0 13
+endofleftmarginalrow, distance 13.1 13.0 1.0 0.3 8.0 11.0 15.0 11
+Macronuclearnodules,length 7.2 7.0 1.3 0.4 18.8 6.0 10.0 13
+7.8 7.0 1.8 0.5 22.9 5.6 10.0 11
+Macronuclearnodules,width 5.4 5.0 0.7 0.2 14.3 4.0 7.0 13
+5.7 5.6 0.4 0.1 6.3 4.8 6.0 11
+Micronucleus,diameter 2.3 2.2 0.3 0.1 11.8 2.0 3.0 13
+2.3 2.4 0.4 0.1 15.1 1.6 2.8 11
+Macronuclearnodules,number 2.0 2.0 0.0 0.0 0.0 2.0 2.0 13
+2.0 2.0 0.0 0.0 0.0 2.0 2.0 11
+Micronuclei,number 1.0 1.0 0.0 0.0 0.0 1.0 1.0 13
+1.1 1.0 1.0 2.0 11
+Adoralmembranelles,number 15.0 15.0 0.0 0.0 0.0 15.0 15.0 13
+14.8 15.0 0.6 0.2 4.1 14.0 16.0 11
+Rightmarginalcirri, number 6.0 6.0 0.0 0.0 0.0 6.0 6.0 13
+6.4 6.0 0.7 0.2 10.7 6.0 8.0 11
+Leftmarginalcirri, number 7.1 7.0 7.0 8.0 13
+7.2 7.0 7.0 8.0 11
+Anteriorfrontalcirri, number 3.0 3.0 0.0 0.0 0.0 3.0 3.0 13
+3.0 3.0 0.0 0.0 0.0 3.0 3.0 11
+Posteriorfrontalcirri, number 4.0 4.0 0.0 0.0 0.0 4.0 4.0 13
+4.0 4.0 0.0 0.0 0.0 4.0 4.0 11
+Buccal cirri,number 1.0 1.0 0.0 0.0 0.0 1.0 1.0 13
+1.0 1.0 0.0 0.0 0.0 1.0 1.0 11
+Postoralcirri, number 3.0 3.0 0.0 0.0 0.0 3.0 3.0 13
+3.0 3.0 0.0 0.0 0.0 3.0 3.0 11
+Pretransversecirri, number 2.0 2.0 0.0 0.0 0.0 2.0 2.0 13
+2.0 2.0 0.0 0.0 0.0 2.0 2.0 11
+Transversecirri, number 5.0 5.0 0.0 0.0 0.0 5.0 5.0 13
+5.0 5.0 0.0 0.0 0.0 5.0 5.0 11
+Dorsalkineties,number 4.0 4.0 0.0 0.0 0.0 4.0 4.0 13
+4.0 4.0 0.0 0.0 0.0 4.0 4.0 11
+!) Databasedon protargol-impregnatedand mountedspecimensfromfield.Measurementsin)lm.Abbreviations:CV=coeffi-
+cientofvariationin %, M =median, Max =maximum, Min=minimum, n=numberof individualsinvestigated,SD =stan-
+darddeviation,SE=standarddeviationofmean,x=arithmeticmean.
+Acknowledgements: Supported by the Austrian Science 2 AeschtE. and FoissnerW.(1993):Effects of organically
+Foundation(FWFprojectPI0264-BIO).The technicalassis- enriched magnesite fertilizers on the soil ciliates of a
+tance of Dr. Eva Herzog and Mag. Eric Strobl is greatly ac- spruceforest. Pedobiologia,38,321-335.
+knowledged. Special thanks to my wife, Prof. Dr. Ilse Foiss- 3 Alekperov1.Kh. (1991):Two new species Thylakidium
+ner,forassistingmeinsampling. (Bursariidae,Ciliophora)fromthe soilsof the Apsheron
+peninsula. Zoo!' Zh., 70, 127-129 (in Russian with En-
+glishsummary).
+4 Alekperov 1.Kh. (1993):Free-living ciliatesin the soils of
+References
+St.Petersburgparks (Protozoa).Zoosyst. Rossica,2,13-28.
+5 Alekperov 1.Kh. and Musayev M. A. (1988): New and
+AeschtE.and FoissnerW.(1992):Biologyofahigh-rate rare free-living infusoria from fresh waters and soil of
+activated sludge plant of a pharmaceutical company. the Apsheron peninsuia. Zoo!' Zh., 67, 1904-1909 (in
+Arch.Hydrobio!.Supp!., 90,207-251. RussianwithEnglishsummary).
+
+Soilciliate diversity 229
+6 Augustin H. and FoissnerW.(1992): Morphologic und phology, systematics and identification of species. Acta
+Okologie einiger Ciliaten (Protozoa: Ciliophora) aus Protozool.,22,97-126.
+dem Belebtschlamm.Arch.Protistenk.,141,243-283. 24 BowersN.J.and PrattJ.R.(1995):Estimationofgenetic
+7 BatisseA.(1967):Ultrastructuredelacoqueetdu disque variationamongsoilisolates of Colpoda inflata (Stokes)
+chez Ie genre Metacineta Butschli. Protistologica, 3, (Protozoa:Ciliophora)usingthe polymerasechain reac
+395-411. tionand restrictionfragmentlengthpolymorphismanal
+8 Berger H. and Foissner W. (1987): Morphology and ysis. Arch.Protistenk.,145,29-36.
+biometry of some soil hypotrichs (Protozoa, Ciliopho 25 Buitkamp U. (1975): The morphogenesis of Oxytricha
+ra).Zool.Jb. Syst., 114,193-239. agilis Engelmann (Ciliatea, Hypotrichida). Acta Proto
+9 Berger H. and Foissner W. (1988a): Revision of Lam zool.,14,67-74.
+tostyla Buitkamp, 1977 and description of Territricha 26 Buitkamp U. (1977a): Dber die Ciliatenfauna zweier
+nov. gen. (Ciliophora: Hypotrichida). Zool. Anz., 220, mitteleuropaischer Bodenstandorte (Protozoa; Ciliata).
+113-134. Decheniana(Bonn),130,114-126.
+10 BergerH. and FoissnerW.(1988b): The morphogenesis 27 BuitkampU. (1977b):DieCiliatenfaunaderSavannevon
+of Kahliella franzi (Foissner, 1982) nov. comb. and Lamto(Elfenbcinkuste).ActaProtozool.,16,249-276.
+Oxytricha gigantea Horvath, 1933 (Ciliophora, Hypo 28 Buitkamp U. and Wilbert N. (1974): Morphologie und
+trichida).Arch.Protistenk.,136,65-77. Taxonomie einiger Ciliaten eines kanadischen Prarie
+11 Berger H. and Foissner W. (1989a): Morphology and bodens.ActaProtozool.,13,201-210.
+biometryofsomesoilhypotrichs(Protozoa,Ciliophora) 29 CertesA.(1891):Notesur deuxinfusoiresnouveauxdes
+fromEuropeand]apan. Bull. Br.Mus. nat. Hisr, (Zool.), environsdeParis. Mem, Soc.zool.Fr.,4,536-541.
+55,19-46. 30 ChardezD. (1967):Infusoiresciliesterricoles(Protozoa,
+12 Berger H. and Foissner W. (1989b): Morphology and InfusoriaCiliata).Revue Ecol.BioI.Sol,4,289-298.
+morphogenesis of Parakahliella haideri nov. spec. 31 CorlissJ. O. (1952): Le cycle autogamique de Tetrahy
+(Ciliophora, Hypotrichida). Bull. Br. Mus. nat. Hist. mena rostrata. C. r. hebd. Seanc, Acad. Sci., Paris, 235,
+(Zool.),55,11-17. 399-402.
+w.,
+13 BergerH., Foissner andAdamH. (1983):Morpholo 32 CorlissJ. O. (1958):ThesystematicpositionofPseudo
+gy and morphogenesis of Fuscheriaterricola n. sp. and microthorax dubius,ciliatewithauniquecombinationof
+Spathidium muscorum (Ciliophora: Kinetofragmino anatomicalfeatures.J.Protozool.,5,184-193.
+phora),J.Protozool.,30,529-535. 33 CorlissJ. O. (1960):Theproblemof homonyms among
+w.,
+14 Berger H., Foissner and Adam H. (1984):Taxonomie, genericnamesofciliated protozoa,withproposalofsev
+Biometrie und Morphogenese einiger terricoler Ciliaten eralnew names.J.Protozool.,7,269-278.
+(Protozoa:Ciliophora).Zool.Jb.Syst.,111,339-367. 34 CorlissJ.O. (1979):The ciliatedprotozoa.Characteriza
+15 BergerH., FoissnerW.,and Adam H. (1985): Morpho tion, classification and guide to the literature. 2nd ed.
+logical variation and comparative analysis of morpho PergamonPress, Oxford,NewYork.
+genesis in Parakahliella macrostoma (Foissner, 1982) 35 Detcheva R. B. (1992): Protozoa, Ciliophora. Catalogi
+nov. gen.and Histriculus muscorum (Kahl, 1932),(Cilio FaunaeBulgaricae,1,1-136.
+phora,Hypotrichida).Protistologica,21,295-311. 36 DieckmannJ. (1988): Infraciliature and morphogenesis
+16 Berthold A. (1994): Zoozonologische Untersuchungen of Paraholosticha sterkii (Garnjobst, 1934) n. comb.
+derWimpertierchen (Ciliophora, Protozoa) in der Um (Ciliophora, Hypotrichida). Europ. J. Protistol., 23,
+gebung von Brixlegg mit einer allgemeinen Einfuhrung 218-228.
+und einem Uberblick uber Schwermetalleffekte und 37 Dieckmann J. (1989): Neubeschreibung der Morpho
+Toxizitatstests, Reports Federal Environment Agency, genese von Paraholostichamuscicola Kahl, 1932 (Cilio
+Austria, UBA-94-99b, 1-69(each contributionpaginat phora,Hypotrichida).Arch.Protistenk.,137,143-156.
+edseparately!). 38 Dingfelder J. H. (1962): Die Ciliaten vorubergchcnder
+17 BickH. and BuitkampU. (1976):Ciliatedprotozoafrom Gewasser,Arch.Protistenk.,105,509-658.
+Canadian grassland soils. Trans. Am. microsc. Soc., 95, 39 DragescoJ. (1963):Revisiondu genreDileptus Dujardin
+490-491. 1841 (Ciliata Holotricha) (systematique, cytologie, bio
+18 Biczok F. (1956): Morphologische und physiologische logie). Bull. biol. Fr.Belg.,97,103-145.
+Untersuchungen an einer neuen Pyxidium-Art. Acta 40 Dragesco J. (1970): Cilies libres du Cameroun. AnnIs.
+bioI.,Szeged., 2,155-165. Fac. Sci. Univ. fed. Cameroun (Numero Hors-serie),
+19 Biegel M. (1954): Beitrag zur Peritrichenfauna der year1970,1-141.
+UmgebungErlangens.Arch.Protistenk.,100,153-182. 41 DragescoJ.and Dragesco-KerneisA.(1979):Cilies mus
+20 Blatterer H. and Foissner W. (1988): Beitrag zur terri cicoles nouveaux ou peu connus. Acta Protozool., 18,
+colen Ciliatenfauna (Protozoa, Ciliophora) Australiens. 401-416.
+Stapfia(Linz),17,1-84. 42 Dragesco J. and Dragesco-Kerneis A. (1986): Cilies li
+21 Blatterer H. and Foissner W. (1992): Morphology and bres de I'Afrique intertropicale. Faune tropicale, 26,
+infraciliature of some cyrtophorid ciliates (Protozoa, 1-559.
+Ciliophora)from freshwater and soil. Arch. Protistenk., 43 DragescoJ. and NjineT.(1971): Complements alacon
+142,101-118. naissancedes cilieslibres du Cameroun. AnnIs. Fac. Sci.
+22 Borror A. C. and Evans F.R. (1979): Cladotricha and Univ,fed. Cameroun,7-8,97-140.
+phylogeny in the suborder Stichotrichina (Ciliophora, 44 EignerP.(1994): Divisional morphogenesis and reorga
+Hypotrichida).J.Protozool.,26,51-55. nization in Eschaneustyla brachytona Stokes, 1886 and
+23 Borror A. C. and Wicklow B.J. (1983): The suborder revision of the Bakuellinae (Ciliophora, Hypotrichida).
+UrostylinaJankowski(Ciliophora,Hypotrichida):mor- Europ.J.Protistol.,30,462-475.
+
+230 W.Foissner
+45 Eigner P.(1995): Divisional morphogenesis in Deviata Ciliaten des Grossglocknergebietes (Hohe Tauern,
+abbrevescens nov. gen., nov. spec., Neogeneia hortualis Osterreich). IX. OrdnungenHeterotrichidaund Hypo
+nov. gen., nov. spec., and Kahliella simplex (Horvath) trichida.Ber.Nat.-Med.Ver.Salzburg,5,71-117.
+Corliss and redefinitionof the Kahliellidae (Ciliophora, 62 Foissner W. (1981a): Die Gemeinschaftsstruktur der
+Hypotrichida).Europ.J.Protisto!.,31,341-366. Ciliatenzonose in alpinen Boden (Hohe Tauern, Oster
+46 EignerP.and FoissnerW.(1991):Orthoamphisiellastra reich) und Grundlagen fiir eine Synokologie der terri
+menticolanov. gen., nov. spec., anew hypotrichous cili colen Ciliaten (Protozoa, Ciliophora). Veroff, Osterr,
+ate (Ciliophora: Hypotrichida) occurringin walnut leaf MaB-Programms,4,7-52.
+litter.ActaProtozoo!.,30,129-133. 63 Foissner W. (1981b): Morphologie und Taxonomie
+47 EignerP.andFoissnerW.(1992):Divisionalmorphogen einigerheterotricherundperitricherCiliaten(Protozoa:
+esis in Bakuellapampinaria nov. spec. and reevaluation Ciliophora) aus alpinen Boden. Protistologica, 17,
+of the classification of the urostylids (Ciliophora, Hy 29-43.
+potrichida).Europ.J. Protisto!.,28,460-470. 64 Foissner W. (1981c): Morphologie und Taxonomie
+48 EignerP.and FoissnerW.(1993)Divisionalmorphogen einigerneuerundwenigbekannterkinetofragrninophor
+esis in Orthoamphisiella stramenticola Eigner & Foiss er Ciliaten (Protozoa: Ciliophora) aus alpinen Boden.
+ner, 1991 and O. grelli nov. spec. (Ciliophora, Hypo Zoo!'Jb. Syst., 108,264-297.
+trichida).Arch. Protistenk.,143,337-345. 65 FoissnerW.(1982):OkologieundTaxonomieder Hypo
+49 EignerP.andFoissnerW.(1994):Divisionalmorphogen trichida (Protozoa: Ciliophora) einiger osterrcichischcr
+esisinAmphisiellidesilluvialisn.sp.,Paramphisiellacau Boden.Arch.Protistenk.,126,19-143.
+data (Hemberger) andHemiamphisiella terricola Foiss 66 Foissner W. (1983a): Die Morphogenese von Urosoma
+ner, and redefinition of the Amphisiellidae (Ciliophora, macrostyla (WrzeSniowski, 1870) (Ciliophora: Oxytri
+Hypotrichida).J.Euk.Microbiol.,41,243-261. chidae). Arch.Protistenk.,127,413-428.
+50 EislerK.and BardeleC.E (1986):Corticalmorphology 67 Foissner W. (1983b): Morphologie und Morphogenese
+and morphogenesis of the nassulid ciliates Furgasonia von Psilotricha succisa(0. E Miiller, 1786) nov. comb.
+blochmanni Faure-Frerniet, 1967 and Nassula citrea (Ciliophora,Hypotrichida).Protistologica,19,479-493.
+Kahl, 1930.Protistologica,22,461-476. 68 Foissner W. (1983c): Taxonomische Studien iiber die
+51 EngelmannT.W. (1862):ZurNaturgeschichte der Infu Ciliaten des Grofsglocknergebieres (Hohe Tauern,
+sionsthiere.Z.wiss. Zoo!',11,347-393. Osterreich) I. Familien Holophryidae, Prorodontidae,
+52 Esteban G., Fenchel T.,and Finlay B. (1995): Diversity Plagiocampidae, Colepidae, Enchelyidae und Lacryma
+of free-living morphospecies in the ciliate genus Meto riidae nov.fam. Annlnnaturh.Mus. Wien, 84B,49-85.
+pus.Arch. Protistenk.,146,137-164. 69 FoissnerW. (1984): Infraciliatur, Silberliniensystemund
+53 Evans E R. and Thompson J. c., Jr. (1964): Pseudo Biometrie einiger neuer und wenig bekannter terre
+cohnilembidae n. fam., a hymenostome ciliate family strischer, limnischer und mariner Ciliaten (Protozoa:
+containing one genus, Pseudocohnilembus n. g., with Ciliophora) aus den Klassen Kinetofragminophora,
+threenew species.J.Protozoo!.,11,344-352. Colpodea und Polyhymenophora. Stapfia (Linz) 12,
+54 Fernandez-Galiano D. and Calvo P.(1992): Redescrip 1-165.
+tion of Phacodinium metchnikoffi (Ciliophora, Hypo 70 Foissner W. (1985): Morphologie und Infraciliatur der
+trichida):general morphologyandtaxonomicposition.J. GeneraMicrothorax undStammeridiumundKlassifika
+Protozoo!.,39,443-448. tionderMicrothoracinaJankowski,1967(Protozoa:Cil
+55 Finlay B.J., Corliss J. 0., Esteban G., and Fenchel T. iophora).Zool.Anz.,214,33-53.
+(1996):Biodiversityatthe microbiallevel:the numberof 71 Foissner W. (1986a): Beitrag zur Kenntnis der Boden
+free-living ciliates in the biosphere. Q. Rev. Bio!., 71, ciliaten (Protozoa: Ciliophora) des Himalaja, Zoo!' Jb.
+221-237. Syst., 113,45-53.
+56 FoissnerW.(1975): Opisthonectidae(Ciliata,Peritrichi 72 Foissner W. (1986b): Wimpertiere (Protozoa: Cilio
+da) nov. fam. und Revision der Genera Telotrochidium phora) in Flechten. Kataloge des Oberosterreichischen
+(Kent) und Opisthonecta (Faurc-Frerniet). Protistologi LandesmuseumsLinz(N.E),5,43-46.
+ca,11,395-414. 73 Foissner W. (1987a): Soil protozoa: fundamental prob
+57 FoissnerW.(1977):Revisiondergenera Astylozoon(En lems, ecological significance, adaptations in ciliates and
+gelmann) und Hastatella (Erlanger) (Ciliata Natantina). testaceans, bioindicators, and guide to the literature.
+Protistologica,13,353-379. Progr. Protisto!.,2,69-212.
+58 FoissnerW.(1978a): Morphologie, InfraciliaturundSil 74 Foissner W. (1987b): Faunistische und taxonomische
+berliniensystem von Plagiocampa rouxi Kahl, 1926 NotizeniiberdieProtozoendesFuscherTales(Salzburg,
+(Prostomatida,Plagiocampidae)undBalanonemasapro Osterreich).Jb. HausNat.Salzburg,10,56-68.
+pelica nov. spec. (Philasterina, Loxocephalidae). Protis 75 Foissner W. (1987c): Neue und wenig bekannte hypo
+tologica, 14,381-389. tricheundcolpodideCiliaten(Protozoa:Ciliophora)aus
+59 Foissner W. (1978b): Opisthonecta bivacuolata nov. BodenundMoosen.Zool.Beitr.(N.E),31,187-282.
+spec., Telotrochidium cylindricum nov. spec. und Epis 76 FoissnerW.(1987d): Miscellaneanomenclatoricaciliatea
+tylisalpestrisnov. spec., drei neue peritricheCiliatenaus (Protozoa:Ciliophora).Arch. Protistenk.,133,219-235.
+dem Hochgebirge (Hohe Tauern, Osterreich), Annln 77 Foissner W. (1987e): Neue terrestrische und limnische
+naturh.Mus. Wien, 81,549-565. Ciliaten (Protozoa, Ciliophora) aus Osterreich und
+60 FoissnerW.(1979):PeritricheCiliaten(Protozoa: Cilio Deutschland.Sber.Akad.Wiss.Wien, 195,217-268.
+phora) aus alpinen Kleingewassern, Zool.Jb. Syst., 106, 78 FoissnerW.(1988a):GemeinsameArteninderterricolen
+529-558. Ciliatenfauna (Protozoa: Ciliophora) von Australien
+61 Foissner W. (1980): Taxonomische Studien iiber die undAfrika.Stapfia (Linz),17,85-133.
+
+Soilciliate diversity 231
+79 Foissner W. (1988b): Taxonomie und Okologie einiger Pleuroplitoidessmithigen.n.,sp.n.ActaProtozool.,35,
+Ciliaten (Protozoa, Ciliophora) des Saprobiensystems. 95-123.
+II.Familie Chilodonellidae.Hydrobiologia,162,21-45. 96 FoissnerW.(1997a):Globalsoilciliate(Protozoa,Cilio
+80 FoissnerW.(1988c):Taxonomicand nomenclaturalrevi phora) diversity: a probability-based approach using
+sion of Sladecek's list of ciliates (Protozoa:Ciliophora) large sample collections from Africa, Australia and
+asindicatorsofwaterquality.Hydrobiologia,166,I-M. Antarctica.Biodiv.Conserv.,6, 1627-1638.
+81 Foissner W. (1989): Morphologie und Infraciliatur 97 FoissnerW.(1997b):Soilciliates(Protozoa:Ciliophora)
+einiger neuer und wenig bekannter terrestrischer und from evergreenrain forestsofAustralia,SouthAmerica
+limnischer Ciliaten (Protozoa, Ciliophora).Sber.Akad. andCostaRica:diversityanddescriptionofnewspecies.
+Wiss.Wien, 196,173-247. BioI.Fertil.Soils,25,317-339.
+82 Foissner W. (1991): Basic light and scanning electron 98 Foissner W.(1997c):Faunisticand taxonomicstudies on
+microscopic methods for taxonomic studies of ciliated ciliates (Protozoa, Ciliophora) from clean rivers in
+protozoa.Europ.J.Protisto!.,27,313-330. Bavaria(Germany),with descriptionsofnewspeciesand
+83 Foissner W. (1992): Estimating the species richness of ecologicalnotes.Limnologica(Berlin),27,179-238.
+soil protozoa using the "non-flooded petri dish 99 FoissnerW.and Adam H. (1981):Morphologie und In
+method".In:Leej.].andSoldo A.T.(eds.):Protocolsin fraciliatur von Parafurgasonia sorex(Penard, 1922)nov.
+Protozoology. Allen Press, Lawrence, Kansas. B gen. und Obertrumia georgiana (Dragesco, 1972) nov.
+10.I-B-I0.2. gen.(Protozoa:Ciliophora).Zool. Anz., 207,303-319.
+84 FoissnerW.(1993a):Colpodea(Ciliophora).Protozoen 100 Foissner W.and Adam I-I. (1983a):Die Morphogenese
+fauna,4/1, I-X+1-798. von Urosomoida agiliformis Foissner, 1982(Ciliophora,
+85 FoissnerW.(1993b):Idiocolpodapelobia gen.n.,sp.n.,a Oxytrichidae).Zool. Anz., 211,161-176.
+new colpodid ciliate (Protozoa, Ciliophora) from an 101 Foissner W. and Adam H. (1983b): Morphologie und
+ephemeral stream in Hawaii. Acta Protozool., 32, Morphogenese des Bodenciliaten Oxytrichagranulifera
+175-182. sp.n.(Ciliophora,Oxytrichidae).Zool. Scr.,12,1-11.
+86 FoissnerW.(1993c):Corticocolpodakaneshiroaen.g.,n. 102 Foissner W.and Didier P.(1981):Morphologic und In
+sp., a new colpodid ciliate (Protozoa, Ciliophora) from fraciliatur einiger kinetofragminophorer und hypo
+the bark ofOhiatrees inHawaii.]. Euk. Microbiol., 40, tricher Ciliaten aus den FlieBgewassern von Besse-en
+764-775. Chandesse (Frankreich). Annis. Stn. limnol. Besse, 15,
+87 Foissner W. (1994a): Spetazoon australiense nov. gen., 254-275.
+nov.spec., einneues Wimpertier(Protozoa, Ciliophora) 103 Foissner W.andFoissner I.(1985):Oralmonokinetidsin
+vonAustralien. KatalogedesOberosterreichischenLan the free-living haptorid ciliate Enchelydium polynuclea
+desmuseumsLinz (N.F.),71,267-278. tum (Ciliophora, Enchelyidae): ultrastructural evidence
+88 FoissnerW.(1994b):Morphologyand morphogenesisof andphylogeneticirnplications.].Protozool.,32,712-722.
+Circinelfa arenicola nov. gen., nov. spec., a cephalized 104 Foissner W.and Foissner I. (1988):Thefinestructureof
+hypotrich (Ciliophora, Hypotrichida) from sand dunes Fuscheria terricola Berger et aI., 1983 and a proposed
+inUtah,USA.Europ.].Protistol.,30,156-170. new classification of the subclassHaptoriaCorliss, 1974
+89 Foissner W. (1994c): Bryometopus hawaiiensis sp. n., a (Ciliophora, Litostornatea). Arch. Protistenk., 135,
+new colpodid ciliate from a terrestrial biotope of the 213-235.
+Hawaiian Archipelago (Protozoa: Ciliophora). Annl. 105 FoissnerW.andFoissnerI.(1994):FinestructureofCos
+naturh.Mus.Wien,96B,19-27. mocolpoda naschbergeri (Ciliophora, Colpodida). Arch.
+90 Foissner W.(1994d):Pentabymena corticicolanov.gen., Protistenk.,144,129---136.
+nov.spec.,anew colpodidciliate(Protozoa,Ciliophora) 106 Foissner W.and Foissner I. (1995): Fine structure and
+from bark of Acacia trees in Costa Rica. Arch. Protis systematic position of Enchelyomorpha vermicularis
+tenk., 144,289-295. (Smith, 1899)Kahl, 1930,ananaerobicciliate(Protozoa,
+91 Foissner W. (1994e): Soil protozoa as bioindicators in Ciliophora)from domesticsewage.Acta Protozool., 34,
+ecosystems underhuman influence. In: Darbyshire]. F. 21-34.
+(ed.): Soil Protozoa, pp. 147-193. CAB International, 107 Foissner W.and O'Donoghue P.]. (1990):Morphology
+Wallingford,Oxon,England. and infraciliature of some freshwater ciliates (Protozoa:
+92 Foissner W. (1994f): Die Urtiere (Protozoen) des Bo Ciliophora)from westernandsouthAustralia. Invertebr.
+dens. Kataloge des Oberosterreichischen Landes Taxon.,3,661-696.
+museums Linz (N.F.),71,169-218. 108 FoissnerW.andPeerT.(1985):ProtozoologischeUnter
+93 Foissner W.(1995):Tropicalprotozoandiversity:80cili suchungenanAlrnbodenimGasteinerTal(Zentralalpen,
+atespecies(Protozoa,Ciliophora)inasoilsamplefroma Osterreich). I. Charakteristik der Taxotope, Faunistik
+tropical dry forest of Costa Rica, with descriptions of und Autokologie der Testacea und Ciliophora. Veroff,
+four new genera and seven new species. Arch. Protis Osterr.MaB-Programms,9,27-50.
+tenk.,145,37-79. 109 Foissner W. and Schiffmann H. (1974): Vergleichende
+94 FoissnerW.(1996a):Terrestrialciliates(Protozoa,Cilio Studien an argyrophilen Strukturen von vierzehn peri
+phora)from two islands(Gough,Marion) in the south trichen Ciliaten. Protistologica,10,489-508.
+ern oceans, with description of two new species,Arcuo 110 FoissnerW.andWilbertN.(1981):Acomparativestudy
+spathidium cooperi and Oxytricha ottowi. BioI. Fertil. of the infraciliature and silverline system of the
+Soils,23,282---291. fresh-water scuticociliates Pseudocohnilembusputrinus
+95 Foissner W. (1996b):Faunistics, taxonomy and ecology (Kahl, 1928)nov.comb.,P.pusillus(Quennerstedt,1869)
+of moss and soil ciliates (Protozoa, Ciliophora) from nov.comb., and the marineform P. marinus Thompson,
+Antarctica, with description of new species, including 1966.J.Protozool.,28,291-297.
+
+232 W.Foissner
+111 Foissner W., Adam H., and Foissner I. (1982a): Mor 127 Gellert J. (1950): A legkisebb vizi eletter atmeneti
+phologie und Infraciliatur von Bryometopus pseudo vegleny formai (Especes transitoires d'infusoires du
+chilodon Kahl, 1932,Balantidioides dragescoinov. spec. minimum de biotop aquatique). Hidrol. Kozl., 30,
+undKahliella marina nov.spec.und Revision desGenus 121-126 (in Hungarian with French summary on page
+Balantidioides Penard, 1930 (Protozoa, Ciliophora). 158).
+Protistologica,18,211-225. 128 GellertJ. (1955):Die Ciliatendes sichunter der Flechte
+112 Foissner W., Adam H., and Foissner I. (1982b): Mor Parmelia saxatilis Mass. gebildeten Humus. Acta bioI.
+phologie, Infraciliatur und Silberliniensystem einiger hung., 6,77-111.
+wenigbekannterScuticociliatida(Protozoa:Ciliophora). 129 GellertJ. (1956):Ciliatendessichunterdem Moosrasen
+Zool.jb,Syst.,109,443-468. auf Felsen gebildeten Humus. Acta bioI. hung., 6,
+113 Foissnerw., Peer T.,and AdamH. (1985):Pedologische 337-359.
+und protozoologische Untersuchung einiger Boden des 130 GellertJ. (1957): Nebany hazai lomblevelu es tulevelu
+Tullnerfeldes (Niederosterreich), Mitt. ost. bodenk. erdo talajanak ciliata fauaja (Ciliatenfauna im Humus
+Ges., 30,77-117. einigerungarischenLaub-und Nadclholzwalder).AnnIs
+114 Foissner W., Blatterer H., Berger H., and Kohmann F. Inst. BioI.pervest hung., 24, 11-34 (in Hungarian with
+(1991):Taxonomischeund okologische Revisionder Cili Germansummary).
+aten desSaprobiensystems. Band I:Cyrtophorida,Oligo 131 Gellert].andTamasG.(1958):Detrftusz-turzasokkova
+trichida, Hypotrichia, Colpodea. Informationsberichte moszatainak es csi1l6sainak okologiai vizsgalata a tiha
+desBayer.LandesamtesfurWasserwirtschaft, 1/91,1-478. nyi-felsziget keleti partjan (Okologische Untersuchun
+115 Foissner W.,Berger H. und Kohmann F.(1992):Taxo gen an Diatomeen und Ciliaten der Detritus-Drifte am
+nomische und okologische Revision der Ciliaten des Ostuferder HalbinselTihany). AnnIs Inst. bioI.Tihany,
+Saprobiensystems. Band II: Peritrichia, Heterotrichida, 25,217-240(inHungarianwithGermansummary).
+Odontostomatida.InformationsberichtedesBayer.Lan 132 Grandori R. and Grandori1. (1934):Studisui protozoi
+desamtes furWasserwirtschaft,5/92, 1-502. delterreno. Boll. Lab. Zool. agr.Bachic. R. Ist. sup. agr.
+116 Foissner W.,Berger H., and Kohmann F.(1994):Taxo Milano, 5,1-341.
+nomische und okologische Revision der Ciliaten des 133 GrandoriR.and Grandori1. (1935):Nuoviprotozoidel
+Saprobiensystems. Band III: Hymenostomata, Prosto terreno agrario (nota preliminare). Boll. Lab. Zool. agr.
+matida,Nassulida.InformationsberichtedesBayer.Lan Bachic.R.1st.sup. agr.Milano, 4,64-80.
+desamtes furWasserwirtschaft, 1194,1-548. 134 Greeff R. (1873): Vorkommen von Vorticellen in der
+117 Foissner W.,Berger H., Blatterer H., and Kohmann F. Erde. Sber.Ges.Beford,ges.Naturw,Marburg,3,23-24.
+(1995): Taxonomische und okologische Revision der 135 Greeff R. (1888): Land-Protozoen. Sber. Ges. Beford.
+Ciliatendes Saprobiensystems. Band IV:Gymnostoma ges.Naturw.Marburg,3,90-158.
+tea, Loxodes, Suctoria. Informationsberichte des Bayer. 136 GroliereC.A.and CouteauxM.M.(1984):Morphologie
+LandesamtesfurWasserwirtschaft,1/95, 1-540. et infraciliature de Kahlilembusfusiformis (Kahl, 1926)
+118 Fresenius G. (1858):Beitrage zur Kenntniss mikrosko gen.nov.,scuticociliedesol.ActaProtozool.,23,77-83.
+pischer Organismen. Abh. senckenb. naturforsch. Ges., 137 Gruber A. (1879): Neue Infusorien. Z. wiss. Zool., 33
+2,211-242. (year 1880),439-466.
+119 Fryd-VersavelG.andTuffrauM.(1978):Complementsa 138 Hemberger H. (1985): Neue Gattungen und Arten hy
+laconnaissancedu genre TransitellaGellert1950.Protis potricherCiliaten.Arch. Protistenk.,130,397-417.
+tologica,14,91-98. 139 HirshfieldH. I.,IsquithI.R.,andBhandaryA.V.(1965):
+120 Ganner B.,Foissnerw., and Adam H. (1987):Morpho AproposedorganizationofthegenusBlepharismaPerty
+metricand biometriccomparisonoffour populationsof and description of four new species. J. Protozool., 12,
+Urosomoida agiliformis (Ciliophora, Hypotrichida). 136-144.
+AnnIs Sci.nat.(Zool.), 8(years 1986-87), 199-207. 140 Horvath J. v. (1932): Ein neues hypotriches Infusor,
+121 Gaston K. J. (1991): The magnitude of global insect Kahliaacrobatesnov.gen.,nov.sp.Arch. Protistenk.,77,
+speciesrichness. Conserv.BioI.,5,283-296. 424-433.
+122 Gaston K.J. and Mound 1. A. (1993):Taxonomy, hy 141 Horvath], v.(1933):Beitragezur hypotrichenFauna der
+pothesistestingand the biodiversitycrisis.Proc. R. Soc. Umgebungvon Szeged.I.Arch. Protistenk.,80,281-302.
+LondonB,251,139-142. 142 Horvath]. v.(1934):Kahlia simplex nov.sp. alkata, elet
+123 GeleiJ. v.(1934):Beitrage zurCiliatenfaunader Umge tani megvilagitasban. Acta Litt. Scient. R. Univ. hung.
+bung von Szeged. II. Vier Bryophyllum-Arten. Arch. Francisco-Josephina,3,60-76 (inHungarian).
+Protistenk.,81,201-230. 143 HorvathJ. (1956): Beitrage zur Kenntnis einiger neuer
+124 Gelei J. (1939): Adatok Szeged kornyekenek azale Bodenciliaten.Arch. Protistenk.,101,269-276.
+kallatkavilagahoz, III. NehanyBlepharismaSzegedkor 144 Jankowski A. W.(1964):Morphology and evolution of
+nyekerol[BeitragezurCiliatenfaunaderUmgebungvon Ciliophora.III. Diagnosesandphylogenesisof53sapro
+Szeged. II. Einige Blepharismen]. Acta Univ. szeged., 5, pelebionts, mainly of the order Heterotrichida. Arch.
+169-194(inHungarianwithGermansummary). Protistenk.,107,185-294.
+125 Gelei J. v.(1954):Dber die Lebensgemeinschaft einiger 145 Jankowski A. W.(1967):New genera and subgenera of
+temporarer Tumpel auf einer Bergwiese im Borzsony classesGymnostomeaand Ciliostomea. Materials ofthe
+gebirge (Oberungarn) III. Ciliaten. Acta bioI. hung., 5, V Conference of Young Scientists of Moldavia, year
+259-343. 1967,p.36(inRussian).
+126 Gellert J. (1942): Eletegyiittes a fakereg zoldporos 146 Jankowski A. W. (1978): Systematische Revision der
+bevonataban. Acta Sci. math.-nat. Univ. Kolozsvar Klasse Polyhymenophora (Spirotricha). Trudy zool.
+(N.F.), 8,1-36 (inHungarian). Inst., Leningr., year 1978,39-40(inRussian).
+
+Soilciliate diversity 233
+147 Jankowski A. W.(1992):New generic combinations for gique et anatomique des infusoires cilies, Archs 2001.
+some species of Ciliophora. Cytologia, 34, p. 171 (in expogen.,1,427-664.
+RussianwithEnglishtitle translation). 168 May R.M.and Nee S.(1995):The speciesaliasproblem.
+148 Kahl A. (1926): Neue und wenig bekannte Formen der Nature,378,447-448.
+holotrichen und heterotrichen Ciliaten. Arch. Protis 169 MermodG. (1914):Recherchessur lafaune infusorienne
+tenk., 55,197-438. des tourbieresetdeseauxvoisines deSainte-Croixaura
+149 Kahl A. (1927a): Neue und erganzende Beobachtungen vaudois).Revuesuisse2001.,22,31-114.
+holotricherCiliaten.I.Arch. Protistenk.,60,34-129. 170 MirabdullayevI.M. (1986):Foissneriaviridis gen. et sp.
+150 Kahl A. (1927b): Neue und erganzende Beobachtungen n.(Synhymenida,Furgasoniidae),anewplanktonicinfu
+heterotricherCiliaten.Arch. Protistenk.,57,121-203. sorian from Uzbekistan piscicultural ponds. 2001. Zh.,
+151 Kahl A. (1928): Die Infusorien (Ciliata) der Oldesloer 65,928-929(inRussian withEnglishsummary).
+Salzwasserstellen.Arch. Hydrobiol.,19,50-123. 171 MoodyJ. E.(1912):Observations on the life-history of
+152 Kahl A. (1930a): Urtiere oder Protozoa I: Wimpertiere two rare ciliates, Spathidium spathula and Aetinobolus
+oder Ciliata (Infusoria) 1. Allgemeiner Teil und Pro radians.J.Morph.,23,349-407.
+stomata.TierweltDtl., 18,1-180. 172 MullerO.F.(1773):Vermiumterrestriumetfluviatilium,
+153 Kahl A. (1930b): Neue und crganzende Beobachtungen seu animalium infusorium, helminthicorum et testaceo
+holotricher Infusorien. II. Arch. Protistenk., 70, rum, non marinorum, succincta historia. Heineck &
+313-416. Faber, HavniaeetLipsiae.
+154 Kahl A. (1931): Urtiere oder Protozoa I: Wimpertiere 173 Muller O. F.(1786):Animalcula infusoria fluviatilia et
+oder Ciliata (Infusoria) 2. Holotricha auBer den im 1. marina, quae detexit, systematice descripsit et advivum
+TeilbehandeltenProstomata.TierweltDtl., 21,181-398. delinearicuravit. N. Molleri, Hauniae.
+155 Kahl A. (1932): Urtiere oder Protozoa I: Wimpertiere 174 Muller P. (1981): Arealsysteme und Biogeographie.
+oderCiliata (Infusoria) 3.Spirotricha.TierweltDtl.,25, Ulmer,Stuttgart.
+399-650. 175 NjineT.(1979):Structure et morphogenese buccales du
+156 Kahl A.(1934):Suctoria. TierweltN.- und Ostsee, 1(II cilie Leptopharynx (Mermod, 1914). Protistologica, 15,
+c5),184-226. 459-465.
+157 Kahl A. (1935): Urtiere oder Protozoa I: Wimpertiere 176 Peck R. K. (1974):Morphology and morphogenesis of
+oder Ciliata (Infusoria) 4. Peritricha und Chonotricha. Pseudomicrothorax, Glaucoma and Dexiotricha, with
+TierweltDtl.,30,651-886. emphasison thetypes ofstomatogenesisinholotrichous
+158 Kent W.S.(1880-1882): A manual of the infusoria: in ciliates.Protistologica,10,333-369.
+cludingadescriptionof allknownflagellate, ciliate, and 177 Penard E. (1914a): Les cothurnides muscicoles. Mem.
+tentaculiferous protozoaBritishand foreign, and an ac Soc.Phys.Hist, nat.Geneve, 38,19-66.
+count of the organization and affinities of the sponges. 178 Penard E. (1914b): Sur quelques tcntaculiferes musci
+VoIs.I-III. DavidBogue, London. 913pp. (Vol.I 1880: coles.Arch. Protistenk.,34,277-294.
+1-432; Vol. II 1881: 433-720; 1882: 721-913; Vol. III 179 Penard E. (1922):Etudes sur lesinfusoires d'eaudouce.
+1882:Plates). Georg& Cie, Geneve.
+159 KowalewskiM. (1882):Przyczynekdo historyinatural 180 PertyM.(1849):MikroskopischeOrganismenderAlpen
+ne]oxytrich6w.Pam. fizyogr., 2,395-413 (inPolishwith und der italienischen Schweiz. Mitt. naturf. Ges. Bern,
+French figure explanation; Polish spelling of name: year1849,153-176.
+Kowalewskiego). 181 Perty M. (1852):2ur Kenntniss kleinster Lebensformcn
+160 Larsen H. F.(1983): Observations on the morphology nachBau,Funktionen,Systematik,mitSpecialverzeichniss
+andecology ofBlepharismalateritium(Ehrenberg,1831) derinderSchweizbeobachteten.Jent & Reinert,Bern.
+Kahl, 1932.Arch. Protistenk.,127,65-80. 182 Petz W. (1997): Ecology of the active soil microfauna
+161 LehleE.(1989):Beitrage zurFaunaderUlmerRegionII. (Protozoa, Metazoa) of Wilkes Land, East Antarctica.
+Ciliaten(Protozoa:Ciliophora)BioindikatoreninWald PolarBioI.,18,33-44.
+baden. Mitt. Ver. Naturwiss. Math. Ulm (Donau), 35, 183 Petz W.and FoissnerW. (1996):Morphology and mor
+131-156. phogenesis of Lamtostyla edaphoniBerger and Foissner
+162 Lehle E. (1994): Die Auswirkungen von Dungung und and Onychodromopsis flexilis Stokes, two hypotrichs
+Kalkung auf die Bodenciliaten (Protozoa: Ciliophora) (Protozoa:Ciliophora)fromAntarcticsoils.ActaProto
+eines Fichtenbestandes im Schwarzwald (Suddeutsch zool., 35,257-280.
+land).Arch. Protistenk.,144,113-125. 184 PetzW.and FoissnerW.(1997):Morphologyand infra
+163 Lepsi I. (1948): Protozoen aus Boden und Laubstreu ciliature of some soil ciliates (Protozoa, Ciliophora)
+einesEichenwaldes.Notat, bioI.,Buc.,6,149-159. from continentalAntarctica,withnotes on the morpho
+164 Lepsi I. (1951): Modificarea faunei de protozoare teri genesis ofSterkiella histriomuscorum. PolarRecord, 33,
+cole, prin irigatii agricole. Bul. Stiint. Sect. Stiinte BioI. 307-326.
+Agron. Geol. Geog., 3,513-523. 185 PompR.andWilbertN. (1988):Taxonomicandecologi
+165 MaedaM.and CareyP.G. (1984):Arevisionofthe gen calstudies ofciliatesfrom Australiansalinesoils:colpo
+era Trachelostylaand Gonostomum (Ciliophora, Hypo dids and hymenostomateciliates.Aust. J.mar.Freshwat.
+trichida), including redescriptions of T. pediculiformis Res.,39,479-495.
+(Cohn,1866)Kahl, 1932and T. caudataKahl, 1932.Bull. 186 Prelle A. (1968): Ultrastructures corticales du cilic
+Br.Mus.nat. Hist.(2001.),47,1-17. holotriche Drepanomonas dentata Fresenius, 1858. J.
+166 Matthes D. (1988): Suctoria (Sauginfusorien). Proto Protozool.,15,517-520.
+zoenfauna,7/1, I-XIII,1-226 and307-309. 187 Quennerstedt A. (1869): Bidrag till sveriges infusorie
+167 Maupas E. (1883): Contribution a l'etude morpholo- fauna. Acta Univ.lund.,6,1-35(inSwedish).
+
+234 W. Foissner
+188 Ruinen J. (1938): Notizen tiber Ciliaten aus konzen 206 SongW.(1994b): Faunisticalstudieson somesoilciliates
+triertenSalzgewassern.Zool.Med. Leiden,20,243-256. from Qingdao. - I. Kinetofragminophora, Oligohy
+189 RyanP.G.,WatkinsB.P,LewisSmithR.I.,DastychH., menophora, Colpodea, J. Ocean Univ. Qingdao, 24,
+Eicker A., FoissnerW.,Heatwole H., Miller W.R., and 15-23 (inChinesewithEnglishsummary).
+Thompson G. (1989): Biological survey of Roberts 207 Song W. and Gao L. (1994): Observations on the soil
+kollen, western Dronning Maud Land: area description ciliate Acineria uncinata with light and SEM methods
+and preliminary species list. S. Afr. T. Antarkt., 19, (Ciliophora, Pleurostomatida). Zool. Res., 15,10-14(in
+10-20. ChinesewithEnglishsummary).
+190 Sandon H. (1927):The composition and distribution of 208 SongW.and WilbertN. (1988):Parabakuellatypicanov.
+the protozoanfauna of the soil. Oliverand Boyd, Edin gen., nov. spec. (Ciliata, Hypotrichida) aus dem Eda
+burghand London. phoneines Standortesin Qingdao, China. Arch. Protis
+191 SerranoS.,Martin-GonzalezA., andFernandez-Galiano tenk., 135,319-325.
+D. (1990): General morphology and cytological events 209 SongW.and WilbertN. (1989a):Morphologyand infra
+during the conjugation process in Acaryophrya collaris ciliatureof Uroleptoides qingdaoensissp.nov.(Ciliopho
+(Kahl, 1926)(Ciliophora,Haptorina). Arch. Protistenk., ra;Hypotrichida:Amphisiellidae).Acta Zootax.Sin.,14,
+138,65-74. 390-395(inChinesewithEnglishsummary).
+192 Shibuya M. (1929): Notes on two new hypotrichous 210 Song W.and Wilbert N. (1989b): Taxonomische Unter
+ciliates fromthe soil.Proc.imp. Acad.Japan,5,155-156. suchungen an Aufwuchsciliaten (Protozoa, Ciliophora)
+193 Shibuya M. (1930): Ciliates found in soils from some imPoppelsdorferWeiher, Bonn.Lauterbornia,3,2-221.
+parts of Japan. J. imp. agric. Exp. Stn Tokyo, 1, 200, 211 Songw.,PackroffG., and WilbertN. (1988):Morpholo
+212-214(resumeofanarticlewritteninJapanese). gieundInfraciliaturvonDileptus orientalissp. n., einem
+194 ShibuyaM. (1931):Notes on two ciliates, Cyrtolophosis Bodenciliatenaus Qingdao, China. ActaProtozool.,27,
+mucicola Stokes and Gastrostylaphilippinensis sp. nov., 271-277.
+found in the soil of the Philippines. Proc. imp. Acad. 212 SongW.,WilbertN.,and BergerH. (1992):Morphology
+Japan,7,124-127. and morphogenesis of the soil ciliate Bakuella edaphoni
+195 Shin M. K. and Kim W. (1993): Redescription of two nov.spec. and revisionof the genus BakuellaAgamaliev
+holostichid species of genus Holosticha Wrzesniowski & Alekperov, 1976(Ciliophora,Hypotrichida).Bull. Br.
+1877 (Ciliophora, Hypotrichida, Holostichidae) from Mus. nat. Hist.(Zool.),58,133-148.
+Seoul, Korea. KoreanJ.Syst. Zool.,1,251-259. 213 Sramek-HuSekR. (1952): 0 nekolika zajimavych nalev
+196 Silvada Neto I.D. (1993):Structuraland ultrastructural niefch z ceskych mechu (Uber einige bemerkenswerte
+observations of the ciliate Phacodinium metchnicoffi CiliatenausbohmischenMoosen).Cslka.BioI.,Praha,1,
+Certes, 1891 (Heterotrichea, Phacodiniida). Europ. J. 175-184(inCzech).
+Protistol.,29,209-218. 214 Sramek-HuSek R. (1957): K poznaninalevnfkuostravs
+197 Smith H. G. (1973): The temperature relations and keho kraje [ZurKenntnis der Ciliatendes Ostrauer-Ge
+bi-polar biogeography of the ciliate genus Colpoda. Br. bietes (Tschechoslovakei)].vest.csl.zool.Spol., 21,1-24
+Antarct.Surv.Bull.,37,7-13. (inCzechwithGermansummary).
+198 SmithH. G. (1978):Thedistributionand ecologyofter 215 SteinF.(1859):DerOrganismusderInfusionsthierenach
+restrialprotozoaof sub-Antarcticand maritimeAntarc eigenen Forschungen in systematischer Reihenfolge
+ticislands.Br.Antarct,Surv.Sci.Rep., 95,1-104. bearbeitet, I.Abtheilung. AllgemeinerTheilund Natur
+199 SmithH. G.(1981):Acomparativestudyofthe terrestri geschichte der hypotrichen Infusionsthiere. W. Engel
+al protozoa inhabiting moss turf peat on Iles Crozet mann,Leipzig.
+SouthGeorgiaand the SouthOrkneyIslands. Colloque 216 SteinF.(1867):DerOrganismusderInfusionsthierenach
+sur les Ecosysternes Subantarctiques (Paimpont, eigenen Forschungen in systematischer Reihenfolge
+C.N.F.R.A.),51,137-145. bearbeitet. II. Abtheilung. 1) Darstellung der neuesten
+200 Smith]. C. (1899):Notices of someundescribed infuso Forschungsergebnisse tiber Bau, Fortpflanzung und
+ria, from the infusorial fauna of Louisiana. Trans. Am. Entwickelung der Infusionsthiere. 2) Naturgeschichte
+microsc.Soc.,20,51-56. derheterotrichenInfusorien.W.Engelmann,Leipzig.
+201 Sondheim M. (1929): Protozoen aus der Ausbeute der 217 Sterki V. (1878): Beitrage zur Morphologie der Oxy
+Voeltzkowschen Reisen in Madagaskar und Ostafrika. trichinen.Z.wiss. Zool.,31,29-58.
+Abh.senckenb.naturforsch. Ges., 41,283-313. 218 Stokes A. C. (1882): A new Thuricola. Am. mono
+202 SongW.(1990a):Acomparativeanalysisofthe morphol microsc.J.,3,181-183.
+ogyand morphogenesisof Gonostomumstrenua (Engel 219 Stokes A. C. (1884): Notes on some apparently unde
+mann, 1862) (Ciliophora, Hypotrichida) and related scribed forms of fresh-water infusoria. Am. J. Sci., 28,
+species.J.Protozool.,37,249-257. 38-49.
+203 Song W. (1990b): Morphologie und Morphogenese des 220 Stokes A.C. (1886a): Some new hypotrichousinfusoria.
+Bodenciliaten Periholosticha wilberti nov. spec. (Cilio Proc.Am.phil.Soc.,23,21-30.
+phora,Hypotrichida).Arch.Protistenk.,138,221-231. 221 Stokes A.C.(1886b): Noticesofnewfresh-waterinfuso
+204 Song W.(1991):The infraciliature and silverline system ria.Proc.Am. phil.Soc.,23,562-568.
+ofEuplotesnovemcarinataWang, 1930(Ciliophora,Hy 222 Stokes A. C. (1887a): Some new hypotrichous infusoria
+potrichida).J. OceanUniv. Qingdao,21,76-84 (in Chi from American fresh waters. Ann. Mag. nat. Hist., 20,
+nesewithEnglishsummary). 104-114.
+205 Song W.(1994a):Ontwosoil ciliates ofthe genus Dilep 223 Stokes A.C.(1887b): Noticesofnewfresh-waterinfuso
+tus (Ciliophora: Haptorida). Acta Zootax. Sin., 19, ria.Proc.Am. phil.Soc.,24,244-255.
+385-391 (inChinesewithEnglishsummary). 224 Stokes A. C. (1893): Notices of some undescribed infu-
+
+Soilciliatediversity 235
+soria from brackishwaters of the easternUnited States. 244 WilbertN. and Kahan D. (1986):Semiplatyophrya[oiss
+J!R.microsc. Soc.,year 1893,298-302. neri nov.gen.,nov.spec._undPerisincirraporinov.spec.,
+225 Stokes A. C.(1894):Noticesofpresumablyundescribed Ciliaten aus einem Salzboden des Sinai. Arch. Protis
+infusoria.Proc. Am.phil. Soc.,33,338-344. tenk., 131,129-138.
+w.,
+226 SuzukiS.(1954):Taxonomicstudies on Blepharismaun 245 WirnsbergerE.,Foissner and AdamH. (1985):Mor
+dulans Stein with special reference to the macronuclear phological, biometric, and morphogenetic comparison
+variation.J.Sci.HiroshimaUniv.,15,205-220. of two closely related species, Stylonychia vorax and S.
+227 Szabo M. (1934): Beitrage zur Kenntnis der Gattung pustulata (Ciliophora: Oxytrichidae).J. Protozool., 32,
+Halteria (Protozoa,Ciliata). Arb. ung. bioI.ForschInst., 261-268.
+w.,
+7,95-106(inGermanandHungarian). 246 Wirnsberger-Aescht E., Foissner and Foissner 1.
+228 ThompsonJ. c.,Jr.(1966):Pseudocohnilembus marinus (1989):Morphogenesisand ultrastructureofthesoilcili
+n. sp., ahymenostomeciliatefrom the Virginia coast.J. ate Engelmanniella mobilis (Ciliophora, Hypotrichida).
+Protozool.,13,463-465. Europ.J.Protistol.,24,354-368.
+229 TirjakovaE.(1988):Structuresanddynamicsofcommu 247 Wirnsberger-Aescht E., Foissner W., and Foissner 1.
+nities of ciliated protozoa (Ciliophora) in field commu (1990): Natural and cultured variability of Engelman
+nities. 1.Species composition, group dominance, com niella mobilis (Ciliophora,Hypotrichida);with notes on
+munities. Biologia, Bratisl.,43,497-503. the ultrastructure of its resting cyst. Arch. Protistenk.,
+230 TirjakovaE. and Matis D. (1987):Ciliates ofdrymosses 138,29-49.
+inBratislava inrelationtoairpollution.Acta Fac.Rerum 248 WrzeS'niowski A. (1866): Spis wyrnoczkow spostrze
+nat.Univ.comen.,Bratisl.SeriesZoologia,29,17-31. ganych w Warszawie i jej okolicach wlatach 1861 do
+231 Trueba F.J. (1980):Ataxonomicrevisionoftheperitrich 1865 (Verzeichnis der Infusorien, welche in Warschau
+ciliategenera Thuricola and Pseudothuricola. Beaufortia, und seiner Umgebungen von 1861-65 gesammelt wur
+30,125-138. den).WykazSzkotyGlownejWarszawskiej,5,15-28(in
+232 Tucolesco J. (1962): Etudes protozoologiques sur les Polishwith Latin diagnoses of new taxa;Polish spelling
+eaux Roumaines 1.Especes nouvelles d'infusoires de la ofname:Wrzesniowskiego).
+mer noire et des bassins salesparamarins. Arch. Protis 249 WrzeS'niowski A. (1870): Beobachtungen tiber Infu
+tenk., 106,1-36. sorienausder Umgebungvon Warschau. Z.wiss.Zool.,
+233 Van der LandJ. (1964):A new peritrichous ciliate as a 20,467-511.
+symphoriont on a tardigrade. Zool. Med. Leiden, 39,
+85-88.
+234 Villcncuve-Brachon S. (1940): Recherches sur les cilies AdditionalReferences
+heterotriches: cinetome, argyrome, myonemes, formes
+nouvellesoupeuconnues.ArchsZool.expogen.,82,1-180. 250 Foissner W. (1979): Taxonomische Studien tiber die
+235 Vuxanovici A. (1962a): Contributii la sistematica cilia Ciliaten des Groliglockncrgcbictcs (Hohe Tauern,
+telor (Nota I). Studii Cere. BioI. (BioI. Anim.), 14, Osterreich). Familien Microthoracidae, Chilodonellidae
+197-215 (in Roumanian with Russian and French sum undFurgasoniidae.Sber.Akad. Wiss.Wien, 188,27-43.
+maries). 251 Foissner W. (1980): Taxonomische Studien tiber die
+236 Vuxanovici A. (1962b): Contributii la sistematica cili Ciliaten des Grogglocknergebietes (Hohe Tauern,
+atelor (Nota III). Studii Cere. BioI. (BioI. Anim.), 14, Osterreich) IV. Familien Spathidiidae, Podophryidae
+549-573 (in Roumanian with Russian and French sum und Urnulidae. Verh. zool.-bot. Ges. Wien, 118/119,
+maries). 97-112.
+237 VuxanoviciA.(1963):Contributiilastudiulspeciilordin 252 Shen Y, LiuJ.,SongB.,and Gu M.(1992):Protozoa. In:
+subordinul Hypotricha (Ciliata) (Nota I). Studii Cere. Yin W. et al. (eds.):Subtropical Soil Animals of China,
+BioI. (BioI. Anim.), 15, 199-222 (in Roumanian with pp. 97-156. SciencePress,Beijing(inChinese).
+Russian and Frenchsummaries). 253 VossH.-J.(1991a):Die MorphogenesevonNotohymena
+238 Warren A. (1982): A taxonomic revision of the genus rubescens Blatterer & Foissner, 1988 (Ciliophora,
+Platycola (Ciliophora: Peritrichida). Bull. Br,Mus. nat. Oxytrichidae).Arch. Protistenk., 140,219-236.
+Hist.(Zool.),43,95-108. 254 Voss H.-J. (1991b): Die Morphogenese von Cyrtoby
+239 Warren A.andPaynterJ.(1991):ArevisionofCothurnia mena muscorum (Kahl, 1932)Foissner, 1989(Ciliopho
+(Ciliophora: Peritrichida) and its morphological rela ra,Oxytrichidae).Arch. Protistenk.,140,67-81.
+tives.Bull.Br.Mus. nat. Hist.(Zool.), 57,17-59. 255 VogH.-J.(1992):MorphogenesisinAmphisiellaaustralis
+240 Wenzel F.(1953): Die Ciliaten der Moosrasen trockner Blatterer & Foissner, 1988 (Ciliophora, Hypotrichida).
+Standorte.Arch. Protistenk.,99,70-141. Europ.J.Protistol.,28,405-414.
+241 WenzelF.(1955):UbereineArtentstehunginnerhalbder 256 BorrorA. C. and Hill B.F.(1995):TheorderEuplotida
+GattungSpathidium (Holotricha, Ciliata). [So ascendens (Ciliophora): taxonomy, with division of Euplotes into
+n.sp.undS.polymorphumn.sp.].Arch. Protistenk.,100, severalgenera.J.Euk. Microbiol.,42,457-466.
+514-540. 257 Voss H.-J. (1989): Vergleichende morphogenetische
+242 Wiackowski K. (1985): The morphology and morpho Untersuchung von 13 Arten der Gattung Euplotes
+genesisofKeronella gracilisn.gen.,n.spec.(Hypotrichi (Ciliophora, Hypotrichida). Arch. Protistenkd., 137,
+da,Ciliophora).Protistologica,21,81-91. 331-344.
+243 Wilbert N. (1982):Ein neuercolpodiderCiliataus einer
+Grassteppe in Ningerhar, Afghanistan: Colpodidium Address for correspondence: Wilhelm Foissner, Universitar
+caudatum nov. gen., nov. spec. Arch. Protistenk., 125, Salzburg, Institut [iir Zoologie, Hellbrunnerstrasse 34, A
+291-296. 5020Salzburg,Austria(Europe).
+

@@ -1,0 +1,664 @@
+Chietal.BMCMicrobiology (2020) 20:297
+https://doi.org/10.1186/s12866-020-01879-4
+RESEARCH ARTICLE Open Access
+New contributions to two ciliate genera
+(Ciliophora, Heterotrichea) based on
+morphological and molecular analyses,
+with description of a new Gruberia species
+Yong Chi1† , Yuqing Li1† , Qianqian Zhang2,3† , Mingzhen Ma1, Alan Warren4, Xiangrui Chen5* and Weibo Song1*
+Abstract
+Background: Heterotrichous ciliates are common members of microeukaryotecommunities which play important
+roles inboth thetransfer of material and the flow of energy inaquatic food webs. This group has been known for
+over twocenturies due to their large body size and cosmopolitan distribution.Nevertheless,speciesidentification
+and phylogeneticrelationships ofheterotrichs remain challenging due to the lack of accurate morphological
+information and insufficient molecular data.
+Results: The morphology and phylogeny of two heterotrichous ciliates, namely Gruberia foissneri spec. nov. and
+Linostomella vorticella (Ehrenberg, 1833) Aescht inFoissner et al., 1999, were studied using rigorous methods (living
+morphology, stained preparations,and small subunit rDNA sequence data). Gruberia foissnerispec. nov. is
+morphologically very similar to G. uninucleata Kahl, 1932, however, it can be distinguished from thelatterby having
+more ciliary rows (about 32 vs.about 20) and macronuclear shape (sausage-shapedvs. ellipsoid). Based ona
+combination of previous and present studies, an improved diagnosis of L. vorticella is supplied and several
+taxonomic anomaliesare clarified. Inaddition, phylogenetic analyses based onSSU rDNA sequence data support
+thegeneric assignmentof these two species.
+Conclusions: Modern ciliate taxonomy should be performed by means ofdetailed living observation, stained
+preparations and molecular information. For those species that have been reported in previous studies, it is
+necessary to provideas much useful information as possible using state-of-the-art methods inorder to resolve
+taxonomic anomalies.
+Keywords: Heterotrichs, Morphology, Phylogeny, SSU rDNA
+*Correspondence:xiangruichen@126.com;wsong@ouc.edu.cn
+†YongChi,YuqingLiandQianqianZhangcontributedequallytothiswork.
+5SchoolofMarineSciences,NingboUniversity,Ningbo315211,China
+1InstituteofEvolutionandMarineBiodiversity,andCollegeofFisheries,
+OceanUniversityofChina,Qingdao266003,China
+Fulllistofauthorinformationisavailableattheendofthearticle
+©TheAuthor(s).2020OpenAccessThisarticleislicensedunderaCreativeCommonsAttribution4.0InternationalLicense,
+whichpermitsuse,sharing,adaptation,distributionandreproductioninanymediumorformat,aslongasyougive
+appropriatecredittotheoriginalauthor(s)andthesource,providealinktotheCreativeCommonslicence,andindicateif
+changesweremade.Theimagesorotherthirdpartymaterialinthisarticleareincludedinthearticle'sCreativeCommons
+licence,unlessindicatedotherwiseinacreditlinetothematerial.Ifmaterialisnotincludedinthearticle'sCreativeCommons
+licenceandyourintendeduseisnotpermittedbystatutoryregulationorexceedsthepermitteduse,youwillneedtoobtain
+permissiondirectlyfromthecopyrightholder.Toviewacopyofthislicence,visithttp://creativecommons.org/licenses/by/4.0/.
+TheCreativeCommonsPublicDomainDedicationwaiver(http://creativecommons.org/publicdomain/zero/1.0/)appliestothe
+datamadeavailableinthisarticle,unlessotherwisestatedinacreditlinetothedata.
+
+Chietal.BMCMicrobiology (2020) 20:297 Page2of17
+Background that Linostoma is a homonym and re-named it Linosto-
+Members of the ciliate class Heterotrichea Stein, 1859 are mella. Recently, Rossi et al. [11] reported the molecular
+found in a wide range of aquatic biotopes. The heterotrichs phylogeneticpositionofthisgenus.
+are characterized by their typically large body size, somatic In the present study, two heterotrich species, namely
+kinetiescomposedofdikinetidswithpostciliodesmata and a Gruberia foissneri spec. nov. and Linostomella vorticella,
+prominentoralapparatuscomposedofaparoralmembrane were isolated in Qingdao, China (Fig. 1), giving the op-
+andanadoralzoneofmembranelles[1,2].Accordingtothe portunity to investigate their taxonomy and phylogeny
+two latest works on the classification of heterotrichs [3, 4], based onbothmorphologicalandmoleculardata.
+the class Heterotrichea contains ten families and about 58
+genera, several of which are well-known, e.g.,Condylostoma Results
+Bory de St. Vincent, 1824, Spirostomum Ehrenberg, 1834, Zoobankregistration.
+and Stentor Oken, 1815. Gruberia Kahl, 1932 is rarely re- urn:lsid:zoobank.org:pub:6D18CFB8-D987-4825-9BA6-
+ported and has only three valid species: G. binucleata Dra- 72A748AF29B4.
+gesco,1960,G.lanceolata(Gruber,1884)Kahl,1932,andG. FamilyGruberiidaeShazib etal.,2014.
+uninucleata Kahl, 1932 [5, 6]. Of these, only G. lanceolata Genus Gruberia Kahl, 1932.
+has been investigated using modern methods while its con- Gruberiafoissneri spec.nov.(Figs. 2,3,4,Table 1).
+genersremaininsufficientlydescribed[5,6].
+ThegenusLinostomellaAeschtinFoissneretal.,1999is Diagnosis
+monotypicandclassifiedwithinthefamilyCondylostomati- Bodyabout400–800×30–50μminvivo,slightlycontract-
+daeKahlinDofleinandReichenow,1929.Thetypespecies, ile, slender with a conspicuously pointed caudal region;
+L.vorticella,wasfirstreportedbyEhrenberg[7]asBursaria macronucleus sausage-shaped; pellicle with rod-shaped,
+vorticella due to the similarity of its body shape with the dark-brownish cortical granules and rod-shaped mito-
+colpodid B. truncatella. Dujardin [8] doubted Ehrenberg’s chondria (?); 25–37 somatic kineties, several of which are
+classification and transferred this species to the heterotrich shortened forming a suture near posterior end of body;
+genus Condylostoma because of it is holotrichous somatic 76–174adoralmembranelles;paroralmembranefragmen-
+ciliationandtheconspicuous,spiraledadoralzoneofmem- ted,comprising29–75pieces;marinehabitat.
+branelles. More than a century later, Jankowski [9] estab-
+lished the genus Linostoma for this species because it has Typelocality
+no frontal cirrus/cirri, which is a diagnostic characteristics A seawater aquarium in the Laboratory of Protozoology
+of Condylostoma. Subsequently, Aescht [10] recognized (N36°03′45″,E120°19′52″),Qingdao,China.Theseawater,
+Fig.1GeographicallocationofQingdaoandphotographsofthesamplingsites.a,PortionofthemapofChina,showinglocationofQingdao.b,The
+seawateraquariumfromwhichGruberiafoissnerispec.nov.wasisolated.c,ThefreshwaterpondfromwhichLinostomellavorticellawasisolated
+
+Chietal.BMCMicrobiology (2020) 20:297 Page3of17
+Fig.2SchematicdrawingsofGruberiafoissnerispec.nov.fromlife(a,b,d,f,g)andafterprotargolstaining(c,e,h,i).a,Right-lateralviewofa
+typicalindividual.b,Variousindividualstoshowdifferentbodyshapesandratiosofbuccallengthtobodylength.c,Patternoftheadoralzone
+ofmembranelles(red)andparoralmembrane(green),arrowsshowfragmentswiththreerowsofkinetosomes.d,Corticalgranulesdistributed
+betweentheciliaryrows.e,Variousmacronuclearshapes,arrowsmarkthecontractedregions.f,Schematicdrawingofatangentialsectionofthe
+cortex,arrowmarksthecorticalgranules,arrowheadindicatestherod-shapedmitochondria(?).g,Rod-shapedmitochondria(?)regularly
+arrangedunderneathcortex,arrowheadsindicatethepositionofsomatickineties.h,Schematicdrawingoftheadoralmembranellesandparoral
+membrane,greenindicatesadoralmembranellesthatentertheoralopening,arrowsmarktheanteriorfragmentsconsistingoftwoorthreerows
+ofkinetosomes,arrowheadsshowtheshortenedsomatickinetiesalongtheleftmarginoftheadoralzoneofmembranelles.i,Ventralviewto
+showtheinfraciliatureandsausage-shapedmacronucleus.Scalebars=135μm(a),110μm(i)
+stones and sand in the aquarium were collected from Tai- numbers CY201812200101 and CY201812200102. The
+pingjiao Marine Wetland Park and the Second Beach in othertwoparatypeslidesaredepositedintheNaturalHis-
+Qingdao alongwithlivingseaanemonesandUlvalactuca. tory Museum, London, UK, with registration numbers
+Thewatertemperaturewas24°Candsalinitywas30ppt. NHMUN2020.4.6.1andNHMUN2020.4.6.2.
+Typedeposition
+Oneprotargol-stainedslidecontainingtheholotypespeci- Dedication
+menmarkedwithaninkcircleandoneslidewithparatype We dedicate this new species to Prof. Wilhelm Foissner,
+specimens are deposited in the Laboratory of Protozool- Salzburg University, Austria, in recognition of his tre-
+ogy, Ocean University of China, China, with registration mendouscontributions tothestudy ofciliates.
+
+Chietal.BMCMicrobiology (2020) 20:297 Page4of17
+Fig.3PhotomicrographsofGruberiafoissnerispec.nov.fromlife(a–g,i–q)andafterHoechst33342staining(h).a–g,Generalright-lateralviews
+toshowthedifferentbodyshapesandratiosofbuccallengthtobodylength,arrowsmarkthecytopharynx,arrowheadsindicatethe
+macronucleus.h,Hoechst33342-stainedindividual,toshowthemacronucleus.i,Rightlateralviewofanteriorendofcell,arrowmarkstherostral
+apex.j,Cytoplasmfilledwithmanyemptyvacuoles.k,Detailsofadoralzone,arrowsmarktheconspicuousciliaoftheparoralmembrane,
+arrowheadsindicatetheadoralzoneofmembranelles.l,Corticalgranules(arrows)arrangedin3–5irregularlinesbetweenadjacentsomatic
+kineties.m,Tangentialsectionofthecelltoshowthethickcortex,arrowsmarktherod-shapedcorticalgranules.n,Rod-shapedmitochondria(?)
+(arrows)underthecortex.o–q,Variousmacronucleusshapes(arrows),arrowheadsindicatethecontractedregion.Abbreviation:Ma,
+macronucleus.Scalebars=150μm(a–d),100μm(e,f),75μm(g,h),20μm(i–q)
+Genesequence like, posterior part gradually narrows to a pointed end
+The SSU rDNA sequence derived from a single cell iso- (Fig. 2a, Fig. 3a–e, i). Macronucleus sausage-shaped with
+lated from the same populationas theholotypeisdepos- an obvious depression (Fig. 2e, Fig. 3o–q, Fig. 4h). Mi-
+itedinGenBank(accessionnumber MN783327). cronucleus difficult to recognize either in vivo or in pro-
+targol preparations. Contractile vacuole absent. Pellicle
+Description thick with rod-shaped, dark-brownish cortical granules
+When fully extended, cell about 400–800×30–50μm (about 1.2×0.5μm in size) embedded in cortex, forming
+in vivo, on average about 560×40μm (185–430×57– 3–5 irregular lines between adjacent somatic kineties
+145μm in protargol-stained specimens) with length to (Fig. 2d, f, Fig. 3l, m). Mitochondria (?) rod-shaped,
+width ratio about 10–18:1. Body flexible and slightly about 2.0×0.7μm in size, located underneath cortex
+contractile, elliptical in cross-section, anterior end beak- formingthreeor fourrows between adjacentciliary rows
+
+Chietal.BMCMicrobiology (2020) 20:297 Page5of17
+Fig.4PhotomicrographsofGruberiafoissnerispec.nov.afterprotargolstaining.a,Right-lateralviewofatypicalspecimen.b,Detailoforal
+apparatus,arrowsmarktheparoralmembrane,arrowheadsshowtheadoralzoneofmembranelles,doublearrowheadsindicatethecytopharynx.
+c,Enlargementoftheanteriorpartofparoralmembrane,arrowsindicatethefragmentsconsistingofthreelinesofkinetosomes,arrowheads
+markthefragmentsconsistingoftwolinesofkinetosomes.d,Enlargementoftheposteriorportionofparoralmembrane,arrowsmarkfragments
+composedoftworowsofkinetosomes,arrowheadsindicatetheproximalregionoftheparoralmembranethatisnotfragmented.e,Ventral
+viewoftheadoralzoneofmembranelles(arrowheads)andparoralmembrane(arrows).f,Ventralviewoftheciliarypattern,arrowsmarkthe
+shortenedkinetiesoriginatingfromleftmarginofadoralzoneofmembranellesororalcavity,arrowheadsmarktheshortenedkineties
+interspersedamongbipolarkineties.g,Detailofdikinetids,arrowsmarkciliatedbasalbody.h,Macronucleus.i,Ventralviewofposteriorportion
+adjustedbytheinvertiblefunctioninPhotoshop,asterisksmarkaconspicuoussuture.Abbreviation:Ma,macronucleus.Scalebars=100μm(a),
+50μm(b,i),30μm(c–h)
+(Fig. 2f, g, Fig. 3n). Cytoplasm opaque at low magnifica- Length of oral area relative to body length highly vari-
+tion due to numerous small granules and food vacuoles able, ranging from 25 to 45% (Fig. 2b, Fig. 3a–e). Adoral
+(Fig. 3a–g,j).Locomotion byglidingoversubstratum. zone extends from apical end to main body, oral groove
+Twenty-five to 37 somatic kineties composed of diki- slightly curved to right side, twisted in proximal region
+netids, only one basal body of each dikinetid bears a makingahalf-turnasitentersthebuccalcavity(Fig.2h,i,
+cilium (Fig. 2h, i, Fig. 4g). Somatic cilia 5–7μm long. Fig.3a–g,Fig.4b,d).About76–174adoralmembranelles,
+About 9–21 shortened somatic kineties, most of which each composed of one short and two long rows of basal
+originate from left margin of adoral zone of membra- bodies (Fig. 2c, h, Fig. 4b, d). Cilia of membranelles 11–
+nelles or oral cavity, remaining ones interspersed among 16μm long in vivo. Paroral membrane fragmented into
+bipolar kineties (Fig. 2h, Fig. 4f). Several shortened kin- about29–75piecesandarrangedalongrightsideofadoral
+eties form a conspicuous suture on ventral side near zone of membranelles, almost all fragments composed of
+posteriorendofbody (Fig. 2i,Fig.4i). two rows of kinetosomes except several anterior ones
+
+Chietal.BMCMicrobiology (2020) 20:297 Page6of17
+Table1MorphometricdataforGruberiafoissnerispec.nov.(G.foi)andLinostomellavorticella(L.vor)
+Character Species Min Max Mean M SD CV n
+Body,lengthinvivo(μm) G.foi 400 800 560.0 525.0 144.8 25.9 7
+L.vor 135 205 175.0 175.0 22.2 12.7 11
+Body,widthinvivo(μm) G.foi 30 50 39.3 35.0 6.8 17.2 7
+L.vor 70 110 93.2 95.0 11.3 12.2 11
+Body,lengtha(μm) G.foi 185 430 325.1 334.0 53.9 16.6 31
+L.vor 150 269 205.4 203.0 27.5 13.4 39
+Body,widtha(μm) G.foi 57 145 87.1 86.0 15.8 18.1 31
+L.vor 111 204 154.7 156.0 21.7 14.1 39
+Oralarea,lengthinvivo(μm) G.foi 145 295 200.7 195.0 46.2 23.0 7
+L.vor 55 110 80.0 85.0 16.5 20.6 11
+Oralarea,lengtha(μm) G.foi 72 190 135.7 140.5 27.4 20.2 30
+L.vor 68 130 96.9 96.5 16.2 16.7 34
+Adoralmembranelles,number G.foi 76 174 136.7 141.0 25.8 18.8 26
+L.vor 36 51 43.5 44.0 3.7 8.5 34
+Somatickineties,number(includingbipolarandshortenedsomatickineties) G.foi 25 37 32.4 32.5 3.2 9.9 28
+L.vor 37 51 42.4 42.5 3.5 8.2 22
+Shortenedsomatickineties,number G.foi 9 21 14.4 14.5 3.3 23.2 26
+L.vor 11 18 13.5 13.0 2.0 14.7 25
+Fragmentsofparoralmembrane,number G.foi 29 75 56.7 55.5 10.9 19.3 24
+L.vor – – – – – – –
+Manodules,number G.foi 1 1 1.0 1.0 0 0 21
+L.vor 5 12 9.0 10.0 1.8 20.4 31
+Ma,length(μm) G.foi 68 100 85.0 84.0 10.4 12.2 21
+L.vorb 12 41 26.8 26.0 7.9 29.5 31
+Ma,width(μm) G.foi 19 33 24.8 25.0 3.7 15.0 21
+L.vorb 9 26 17.1 17.0 3.0 17.7 31
+Abbreviations:CVCoefficientofvariationin%;MMedian;MaMacronucleus;MaxMaximum;MeanArithmeticmean;MinMinimum;nNumberofspecimens;SD
+standarddeviation
+aDatabasedonprotargol-stainedspecimens,bMacronuclearnoduleswereselectedrandomlyineachindividual,−Datanotavailable
+which comprise three rows; paroral membrane conspicu- 1841 Bursaria vorticella Ehrenberg – Dujardin, Zoo-
+ous, comprising two portions: fragmented main portion phytes 511 (without morphological description, only
+with each fragment composed of 2–5 pairs of kineto- simple review ofEhrenberg’sworks)[8].
+somes;twisted,unfragmentedposteriorportion(Fig.2c,h, 1870 Condylostoma stagnale – Wrześniowski, Z wiss
+i,Fig.4b–e).Ciliaofparoralmembraneconspicuous,well- Zool 20: 487–489 [Fig. 20] (redescription of living
+developed,19–22μmlonginvivo(Fig.3k). morphology)(presentwork:Table3)[12].
+Family Condylostomatidae Kahl in Doflein & 1922 Condylostoma vorticella (Ehrenberg) Dujardin –
+Reichenow,1929. Penard, Études Infusoires 201, 202 [Fig. 200] (morpho-
+Genus LinostomellaAeschtinFoissner etal.,1999. logical redescription based on living cell) (present work:
+Linostomella vorticella (Ehrenberg, 1833) Aescht in Table 3)[13].
+Foissner et al.,1999(Figs. 5,6,7,Table 1). 1924 Condylostoma vorticella (Ehrenberg, 1833) –
+Synonyms. Fauré-Fremiet, Bull biol Fr Belg 6: 136–139 [Fig. 45] (re-
+1833 Bursaria vorticella n. sp. – Ehrenberg, Abh dt description fromlife)(presentwork:Table3)[14].
+Akad Wiss 237 (original description without illustration) 1932 Condylostoma (Bursaria) vorticella (Ehren-
+(presentwork:Table3)[7]. berg, 1833) – Kahl, Tierwelt Dtl 25: 457 [Figs. 12–
+1838 Bursaria vorticella Ehrenberg, 1833 – Ehren- 14 on page 454, Fig. 28 on page 458] (short
+berg, Infusionsthierchen 326, 327 [Fig. VI] (brief re- revision with simple redescription) (present work:
+description) [24]. Table 3) [15].
+
+Chietal.BMCMicrobiology (2020) 20:297 Page7of17
+Fig.5Schematic drawings of Linostomella vorticella from life (a–c, g–i) and after protargol staining (d–f). a, Ventral view of a typical
+individual, arrow marks the fully expanded contractile vacuole. b, Ventral view of a squashed cell, arrows indicate the oval glabrous
+protuberance in the buccal cavity. c, Cortical granules distributed between the ciliary rows. d, e, Ventral (d) and dorsal (e) views to show
+the ciliary pattern, oral ciliature and macronucleus. f, Schematic drawing of the adoral membranelles and paroral membrane. g, To show
+the diastolic process of the contractile vacuole. h, Various individuals to show the different body shapes, ratios of buccal length to body
+length and distribution of macronuclear nodules. i, Left-lateral views of different individuals, arrows mark the depression at posterior end
+of body. Scale bars=50μm (a, g–i), 95μm (d, e)
+1933 Condylostoma vorticella (Ehrenberg) Dujardin 1978 Linostoma vorticella Ehrenberg – Jankowski,
+1841 – Wang & Nie, Contr biol Lab Sci Soc China 10: Tezisy Dokl zool Inst Akad Nauk SSSR, Jahr 39 (pro-
+45–48 [Fig. 36] (redescription of morphology based on posalfor theestablishment ofgenusLinostoma)[9].
+livingcells) (presentwork:Table3)[16]. 1986 Condylostoma vorticella Ehrenberg, 1833 – Dra-
+1967 Condylostoma vorticella – Tuffrau, Protistologica gesco & Dragesco-Kernéis, Faune Tropicale 391–393
+3:381, 382[Fig.7](brief redescription)[25]. [Figs. A–D] (simple redescription including infraciliature
+1974 Condylostoma vorticella (Ehrenberg) – Pätsch, information) (present work:Table 3)[20].
+Arb Inst landw Zool Bienenkd 1: 48, 49 [Fig. 38] (brief 1991 Condylostoma vorticella (Ehrenberg, 1838) –
+redescription, including the infraciliature information) Packroff & Wilbert, Arch Protistenkd 140: 132–134
+(presentwork:Table3)[19]. [Fig. 7] (detailed morphological redescription from life
+
+Chietal.BMCMicrobiology (2020) 20:297 Page8of17
+Fig.6PhotomicrographsofLinostomellavorticellafromlife(a–n)andafterHoechst33342staining(o).a–c,Variousindividualstoshowthe
+differentbodyshapesandratiosofbuccallengthtobodylength,arrowsmarktheprominentparoralmembrane.d,h,Left-lateralviewsof
+differentcells,arrowsmarkthedepressionatposteriorendofbody.e,Detailoforalarea,arrowsmarktheadoralzoneofmembranelles,
+arrowheadsshowtheparoralmembrane.f,Detailofcilia,arrowsdenoteeachbasalbodybearsacilium.g,Tinycorticalgranulesdensely
+distributedbetweenciliaryrows.i,Detailoftheglabrousprotuberanceinoralcavity,arrowheadsmarkthefiber-likestripes.j,Foodvacuoleswith
+algae.k,Dorsalviewofanindividualfulloffoodvacuoles,arrowsmarkthecollectingcanal.l,Contractilevacuole(arrows)nearposteriorendof
+body.m,Ventralviewofasquashedcell,arrowsindicatetheglabrousprotuberance,arrowheadsmarkdifferentstagesinthediastolicprocessof
+thecontractilevacuole.N,Dorsalviewofacell,arrowsmarkthemoniliformmacronucleus.o,Hoechst33342-stainedindividualtoshowthe
+moniliformmacronucleus.Abbreviation:Ma,macronucleus.Scalebars=60μm(a,d,e,k,m,n),90μm(b,h),75μm(c,l,o)
+and protargol-stained individuals) (present work: Plate 2D on page 114] (simple redescription) (Present
+Table 3) [21]. work: Table 3) [23].
+1992 Linostoma vorticella (Ehrenberg, 1833) Jan- Prior to the current investigation, Linostomella vorti-
+kowski, 1978 – Foissner et al., Informationsberichte des cella has been found and reported numerous times, but
+Bayer Landesamtes für Wasserwirtschaft 5/92: 390–393 some details of its morphology remain unknown. Based
+[Figs. 1–14] (diagnosis based on previous reports) on both previous and present studies, an improved diag-
+(presentwork:Table3)[26]. nosisissupplied.
+1999 Linostomella vorticella (Ehrenberg, 1833) Aescht nov.
+nom. nov. comb. – Foissner et al., Informationsberichte des Improveddiagnosis
+BayerischenLandesamtesfürWasserwirtschaft3/99:655–661 Cell size in vivo about 90–210×70–160μm; body ovoi-
+[Figs. 1–32] (improved diagnosis provided based on detailed dal or ellipsoidal with anterior end obliquely truncated;
+morphologicalredescription)(presentwork:Table3)[22]. macronucleus moniliform with 2–15 nodules; single
+2007 Linostomella vorticella (Ehrenberg, 1838) – contractile vacuole posteriorly positioned with a long
+Alekperov et al., Protistology 5: 117, 118 [Fig. 9, collecting canal; cortical granules colorless to dark-gray;
+
+Chietal.BMCMicrobiology (2020) 20:297 Page9of17
+Fig.7PhotomicrographsofLinostomellavorticellaafterprotargolstaining.a,Ventralviewofatypicalindividual.b–d,Photomicrographsmodified
+withinvertiblefunctioninPhotoshop.b,Dorsalviewofacell,arrowsmarktheparoralmembrane.c,Detailofthemoniliformmacronucleusand
+conspicuousoralribs(arrows).d,Detailoforalapparatus,arrowsindicatetheadoralzoneofmembranelles,arrowheadsshowtheparoral
+membrane.e,Detailoftheadoralzoneofmembranelles,arrowsdenotesomemembranellescomposedofthreerowsofbasalbodies,oneof
+whichisveryshort.f,Detailofsomatickineties,arrowsmarktheshortenedsomatickineties.g,Detailofthemacronucleusandmicronuclei
+(arrows).h,Detailofdikinetids,arrowsindicatethatonlyonebasalbodyofeachdikinetidbearsacilium.Abbreviation:Ma,macronucleus.Scale
+bars=95μm(a,b),50μm(c,d),20μm(e–h)
+about 26–51 somatic kineties; buccal cavity conspicuous widthratioabout1.5–2.0:1(Fig.5a,h,Fig.6a–c).Ingen-
+with numerous oral ribs; 36–51 adoral membranelles; eral, anterior half wider than posterior half, apical end
+freshwaterandmarinehabitats. obliquely truncated, posterior end with a slight depres-
+sion (Fig. 5h, i, Fig. 6d, h). Macronucleus moniliform
+Voucherslides with 5–12 nodules, located in middle portion of body
+Three voucher slides with protargol-stained specimens (Fig. 5a, e, h, Fig. 6n, o, Fig. 7a, c). Micronuclei incon-
+are deposited in the Laboratory of Protozoology, Ocean spicuous, closely associated with macronuclear nodules
+University of China (OUC) with registration numbers: (Fig. 7g). Contractile vacuole in posterior region, varies
+CY2019010501–01,02,03. in shape during diastolic process, with a collecting canal
+thatextendstoanteriorregionofbody(Fig.5a,g,Fig.6k–
+MorphologicaldescriptionoftheQingdaopopulation m). Pellicle soft and thin with numerous spherical, dark-
+Cell size 135–205×70–110μm in vivo, about 175× gray cortical granules (about 0.9μm in diameter) densely
+95μm on average. Body ovoid in outline with length to distributed between ciliary rows (Fig. 5c, Fig. 6g).
+
+Chietal.BMCMicrobiology (2020) 20:297 Page10of17
+Cytoplasm colorless, invariably filled with numerous Gruberia is similar to that of Spirostomum in having an
+globular particles and food vacuoles filled with algae (Fig. elongated, slightly contractile body and a well-developed
+5a, Fig. 6j, k–n). Locomotion by swimming while rotating peristomial region, although the body of Gruberia lacks
+aboutmainbodyaxis. spiraling or torsion [6, 27]. Seven nominal species of
+Thirty-sevento51somatickinetiescomposedofdikine- Gruberia have been reported: G. aculeata Ozaki &
+tids, only one basal body of each dikinetid bears a cilium Yagiu, 1941, G. beninensis Dragesco & Dragesco-
+(Fig. 5d, e, Fig. 6f, Fig. 7h). Somatic cilia 9–12μm long. Kernéis, 1986, G. binucleata Dragesco, 1960, G. calkinsi
+About11–18ventralkinetiesareshortenedsincetheyori- Beltran, 1933, G. lanceolata (Gruber, 1884) Kahl, 1932,
+ginatebelowbuccalcavity;alldorsalkinetiesextendalong G. nematodomorpha Lepsi, 1965, and G. uninucleata
+completelengthofcell(Fig.5d,e,Fig.7a,b,f). Kahl, 1932 [15, 20, 28–32]. In their generic review,
+Buccal cavity prominent, length about 35–60% of body Campello-Nunes et al. [5] and Chen et al. [6] synony-
+length, with numerous oral ribs (Fig. 5h, Fig. 6a–c, Fig. 7c, mized G. aculeata, G. beninensis and G. calkinsi with G.
+d).Ovalglabrousprotuberancewithfiber-likestripesvisible lanceolata, and considered G. nematodomorpha as a
+in slightly squashed specimens (Fig. 5b, Fig. 6i, m). Adoral nomen nudum. We accept these decisions and recognize
+zone of membranelles prominent, composed of 36–51 only four valid species, namely G. uninucleata, G. binu-
+membranelles, most of which consist of two rows of basal cleata,G.lanceolataandG.foissneri spec.nov.
+bodiesofequallength;severaladoralmembranellesinmid- Gruberia foissneri spec. nov. can be easily distin-
+dle portion consist ofthree rowsof basal bodies, third row guished from two of its three congeners by its sausage-
+withonlytwoorthreebasalbodies(Fig.5d,f,Fig.7e).Cilia shaped macronucleus (vs. two oval macronuclei in G.
+of adoral membranelles 20–30μm long in vivo. Paroral binucleata and a moniliform macronucleus in G. lanceo-
+membraneconspicuous,curvedandliesalongrightmargin lata) (Table 2) [5, 6, 29, 30]. In contrast, G. foissneri
+ofbuccalcavity,anteriorportioncurvestowardtheleftside spec. nov. is very similar to G. uninucleata which was
+ofbuccalcavity,posteriorportionlocatedneardistalendof originally discovered by Kahl [15] from an aquarium in
+adoralzone(Fig.6a,e,Fig.7b–d). Helgoland, Germany. Kahl [15] described the organism
+based on living observations as follows: “Gr. 300–650μ;
+Moleculardataandphylogeneticanalyses Schlank spindelförmig, im hinteren Drittel gleichmäßig
+The two new SSU rDNA sequences obtained in this zu einem dünnen Schwanzstachel ausgezogen, der mit
+study were deposited in the GenBank database with kurzkonischer Spitze endigt; 8-10 Reihen auf einer Seite;
+lengths, G+C contents, and accession numbers as fol- Ma, ellipsoid” (translation: size 300–650μm; slender
+lows: Gruberia foissneri spec. nov., 1627bp, 46.22%, spindle-shaped, posterior third evenly narrowed to a thin
+MN783327; Linostomella vorticella, 1683bp, 46.88%, tail ending with short conical tip; 8–10 ciliary rows on
+MN783328. The Maximum likelihood (ML) and Bayes- one side; macronucleus, ellipsoid) (Table 2). Dragesco
+ian inference (BI) trees based on SSU rDNA data had [33] supplied comprehensive data of a Roscoff popula-
+nearly identical topologies, therefore only the ML tree is tion based on living morphology and infraciliature
+shownwith support values from both analyses (Fig. 8). (Table 2). According to these two reports, G. uninu-
+Seven sequences of Gruberia were included in the cleata can be characterized by: (1) cell size about 250–
+present analyses, i.e., the newly obtained sequence of G. 650μm in vivo; (2) slender body shape with a pointed
+foissneri spec. nov. and six sequences obtained from the caudal region; (3) single ellipsoidal macronucleus; (4)
+GenBank database. These seven sequences form a max- about 20 somatic kineties; (5) oral area about 25–33% of
+imallysupportedclade(100%ML,1.00BI)thatrepresents body length, with 40–82 adoral membranelles about
+thefamilyGruberiidaeintheSSUrDNAtree(Fig.8). 70 on average; (6) paroral membrane fragmented,
+Linostomella vorticella and two other Linostomella se- comprising about 23–29 pieces (Table 2). Gruberia
+quences (LN869952, LN870136) cluster together with foissneri spec. nov. is very similar to G. uninucleata
+maximal support (100% ML, 1.00 BI), forming a sister- in the living morphology, however the former can be
+group to the Condylostomides assemblage (100% ML, easily distinguished from the latter by the following
+1.00 BI). The Linostomella-Condylostomides clade com- characters: (1) number of somatic kineties (25–37,
+prises one of the two sub-clades of the family Condylos- about 32 on average vs. about 20 in G. uninucleata);
+tomatidae; the other sub-clade contains the genera (2) number of adoral zone of membranelles (76–174,
+Condylostoma,Chattonidium,andCondylostentor. about 137 on average vs. 40–82, about 70 on average
+in G. uninucleata); (3) number of paroral membrane
+Discussion fragments (29–75, about 57 on average vs. 23–29 in
+CommentsonGruberiafoissnerispec.nov. G. uninucleata); (4) macronucleus shape (sausage-
+The genus Gruberia was established by Kahl [15] with shaped with an obvious depression vs. ellipsoidal in
+G. uninucleata as the type species. The morphology of G. uninucleata).
+
+Chietal.BMCMicrobiology (2020) 20:297 Page11of17
+Fig.8Maximumlikelihood(ML)phylogenetictreeinferredfrom18SrDNAsequences(91heterotricheanand5karyorelicteantaxa).Theposterior
+probabilitiesfromtheBayesianinference(BI)weremappedontotheMLtree.AsterisksindicateamismatchinbranchingpatternbetweentheML
+andBItrees.Thenewlysequencedspeciesinthisstudyareshowninredfont.Thescalebarcorrespondsto2substitutionsper100
+nucleotidepositions
+It is worth noting that Dragesco [34] described a nov. or represent another species. Further studies are
+smaller Gruberia uninucleata (200μm on average) based needed totestthishypothesis.
+on living observations of a Port-Etienne population. Like
+the population described by Kahl [15], this population CommentsonLinostomellavorticella
+has an ellispoidal macronucleus but possesses about 40 Linostomella vorticella, which is mainly found in fresh-
+(vs. 8–10 on one side in the population described by water, was originally reported as Bursaria vorticella by
+Kahl) somatic kineties. In view of the unavailability of Ehrenberg [7]. It was subsequently named Condylostoma
+key morphological characters and difference in the num- vorticella (Ehrenberg, 1833) Dujardin and then Linos-
+ber of somatic kineties, we suspect that this population toma vorticella (Ehrenberg, 1833) Jankowski [9, 13].
+may either be conspecific with Gruberia foissneri spec. Aescht [10] reported that Linostoma Jankowski, 1978 is
+
+Chietal.BMCMicrobiology (2020) 20:297 Page12of17
+krowtneserP ]33[ocsegarD ]92[ocsegarD
+]03[reburG
+ecnerefeR
+]51[lhaK
+,muirauqaretawaesA
+ynamreG,dnalogleH
+niardmuirauqanA
+ecnarF,etreVeli’L
+etisnoitcelloC anihC,oadgniQ ,xobnoitcelloc ecnarF,ffocsoR
+ylatI,avoneG
+tnesbA tneserP tneserP
+*VC
+– –
+epahsdnarebmunaM depahs-egasuas,elgniS
+diospille,elgniS
+mrofilinoM
+lavo,owT
+belgniS
+MPFforebmuN
+57–92 92–32
+seitenikcitamoSKS;suelcunorcaMaM;enarbmemlarorapfostnemgarFMPF;eloucavelitcartnoC*VC:snoitaiverbbA
+– – –
+ralopibgnidulcni( )KSdenetrohsdna edisenono01–8
+KSforebmuN
+73–52 22–61
+srenegnoceerhthtiw.von.cepsirenssiofaireburGfonosirapmoC2elbaT 02 – elbaliavatonataD−,serutciprogniwardmorfataDb,htgnelydobothtgnellarofooitaRa
+larodaforebmuN
+sellenarbmem
+471–67
+28–04
+– – –
+emotsireP
+ahtgnel %54–52 %33–52 b%82.ac
+– –
+05–03×008–004
+ezisydoB
+056–003 006–052
+002
+–
+lanigiro(ataelcuninu.G
+.von.cepsirenssiof.G lanigiro(ataelcunib.G lanigiro(ataloecnal.G
+ataelcuninu.G
+)noitpircsed )noitpircsed )noitpircsed
+seicepS
+
+Chietal.BMCMicrobiology (2020) 20:297 Page13of17
+a homonym, thus she re-named it Linostomella. For no- In additionto the populationsdiscussed above, L.vorti-
+menclatural purposes the genus and species names cellahasbeenreportednumeroustimes(Table3)[12–16,
+should be cited as Linostomella Aescht in Foissner et al., 20]. However, we cannot make effective comparisons due
+1999 and Linostomella vorticella (Ehrenberg, 1833) toinsufficientmorphologicaldescriptionsinthesereports.
+AeschtinFoissner etal.,1999,respectively[22].
+Linostomella vorticella resembles Condylostoma in PhylogeneticanalysesbasedonSSUrDNAsequences
+having an expansive oral region at the anterior end of Based on its fragmented paroral membrane, Shazib et al.
+the body and a conspicuous paroral membrane, there- [4] separated Gruberia from the family Spirostomidae
+fore it was for a long time classified in the genus Condy- and established the new family Gruberiidae. This assign-
+lostoma. However, L. vorticella can be distinguished ment is supported by the present phylogenetic analyses,
+from Condylostoma by the presence of a contractile in which Gruberia is clearly divergent from the family
+vacuole (absent in Condylostoma), lack of frontal cirri Spirostomidae. All sequences of Gruberia form a clade
+(present in Condylostoma) and only one kinetosome of that is the sister-group of the Stentoridae + Blepharismi-
+each dikinetid bears a cilium (both kinetosomes ciliated dae + Folliculinidae + Maristentoridae + Fabreidae clade
+inCondylostoma)[35–38]. (‘Clade SBFMF’ in Fig. 8). This is consistent with the
+Linostomella vorticella was originally reported by findings of previous studies [3–6, 39–41], and supports
+Ehrenberg [7] under the name Bursaria vorticella. the scenario proposed by Luo et al. [39], which recog-
+Ehrenberg’s description, however, was rather superficial nized that only species of ‘Clade SBFMF’ possess
+which made the subsequent re-identification of this or- hypericin-like pigment granules. It is suggested that
+ganism difficult. According to the original and subse- these pigment granules probably play important roles in
+quent investigations, this species should be recognizable the evolution of the class Heterotrichea, including the
+by the following characters: (1) body shape spherical to separationofGruberia from‘CladeSBFMF’[3].
+ellipsoidal, posterior end rounded, anterior end always The genus Linostomella is most closely related to Con-
+slightly truncated; (2) conspicuous oral cavity that occu- dylostomides in the SSU rDNA tree which is consistent
+pies about half the body length; (3) macronucleus mo- with the phylogenetic analyses in Rossi et al. [11]. The
+niliform with nodules arranged in a horseshoe-shape or similarities of these two taxa in terms of habitat (fresh-
+an oblique line; (4) contractile vacuole at the posterior water), body shape (ellipsoidal), oral apparatus (con-
+end of the body with a long collecting canal (Table 3). spicuous buccal cavity with adoral zone membrane on
+Furthermore, three populations (two from Germany and the left and paroral membrane on the right), contractile
+one from Austria)wereinvestigated usinga combination vacuole (present), and macronuclear shape (moniliform)
+of in vivo observations and histological staining methods [22, 42] support their close evolutionary relationship.
+and were found to closely resemble the original popula- The monophyletic family Condylostomatidae comprises
+tion [7, 19, 21]. The Qingdao population corresponds two clearly separated sub-clades, namely Linostomella+
+closely with the populations from Europe. We therefore Condylostomides and Condylostoma+Condylostentor+
+believethatitsidentification asL.vorticellaiscorrect. Chattonidium, which is broadly consistent with the find-
+Gelei [17] reportedanorganismthatresemblesL.vorti- ings of Rossi et al. [11]. We suspect that the separation
+cella in all key characters except the number of somatic of these sub-clades is probably related to differences in
+kineties (60–70 vs. 26–51 in L. vorticella) (Table 3). Al- habitat,membersoftheformercladeinhabitingfreshwa-
+though the description provided by Gelei [17] was brief, terswhereasmembersofthelatter cladearemarine.
+the somatic kinety number is an important character in The new sequence of Linostomella vorticella differs
+ciliatespeciescircumscription,sowepositthatthispopu- from the two unspecified Linostomella sequences
+lation may represent a different species of Linostomella. (LN869952, LN870136) by 14 and 9 nucleotides respect-
+Dragesco [18] described an isolate collected from a fresh- ively.This finding,combinedwithdescriptionsofpopula-
+waterpondinMokolo,Cameroon,whichhasfeweradoral tionsthatdiffersignificantlyintheirmorphology,suggests
+membranelles (19–22) than L. vorticella (36–51) (Table thatthegenusLinostomellamaybenotbemonotypic.
+3). We agree with Foissner et al. [22] that this population
+either represents a different species or was mis-observed. Conclusions
+Alekperov et al. [23] reported a marine population of L. In the present paper we describe two heterotrich ciliates,
+vorticella from the Mexican Gulf, the key characters of Gruberia foissneri spec. nov. and Linostomella vorticella,
+whichareconsistentwiththefreshwaterpopulationsfrom collected from Qingdao, China, using an integrative ap-
+Germany,AustriaandQingdao(Table3).Ingeneral,habi- proach as suggested by Warren et al. [43]. Although G.
+tat is an important character for ciliate species circum- foissneri spec. nov. closely resembles G. uninucleata, we
+scription, so further evidence is needed to verify the provide evidence that these are separate species. In
+identityofthismarinepopulation. addition,animproveddiagnosisofL.vorticellaissupplied
+
+Chietal.BMCMicrobiology (2020) 20:297 Page14of17
+Table3MorphometriccomparisonofLinostomellavorticellapopulationswithsignificantdataanddoubtfulspeciesreportedunder
+thatname
+Bodyshape Body Body Peristome Numberofadoral Number Numberof Collectionsite Reference
+length width lengtha membranelles ofSK Manodules
+ellipsoidalandvariable, 135–205 70–110 35–60% 36–51 37–51 5–12 Afreshwaterpond, Presentwork
+obliquelytruncatedat Qingdao,China
+theanteriorend,a
+depressionatthe
+posteriorend
+almostsphericalbody, – – – – – – Afirebucket,Berlin, Ehrenberg[7]
+largeandobliqueoral Germany (typepopulation)
+cavityinfront
+ovoidbodywitha 210 160 ca.50% – – 8 Apollutedpond, Wrześniowski[12]
+broadlyroundedrim Warsaw,Poland
+ovoidbodywithbroad 200 – ca.50% – – 5 Underwaterlilies, Penard[13]
+backandtruncated Ariana,Tunisia
+forward
+globular,hemispherical 100–125 – ca.45%b – – – – Fauré-Fremiet[14]
+orovoidbodywith
+obliquelytruncated
+anterior
+bag-shaped,truncated 100–200 – ca.51%b – – 6–10 Clearpoolsand Kahl[15]
+infront ponds
+ovoidbody,largeand 180 120 ca.50% – – 5 Variousponds, Wang&Nie[16]
+evenlyroundedtoward Nanjing,China
+theposteriorextremity,
+truncatedattheanterior
+end
+– – – ca.47%b – 60–70 11 Someponds, Gelei[17]†
+Hungary
+– 160 – ca.56%b 19–22 31–34 2–7 Afreshwaterpond, Dragesco[18]†
+Mokolo,Cameroon
+– 140–170 80–110 ca.58%b ca.40 30–38 8–12 Kleikuhle,Husum, Pätsch[19]
+Germany
+ovalbody,rounded 140–170 – – ca.44 30–38 2–12 – Dragesco&Dragesco-
+posteriorly Kernéis[20]
+bag-shaped,truncated 170–200 100 ca.53%b 40–50 39–45 5–9 MeerfelderMaares, Packroff&Wilbert[21]
+infront,roundedat Rheinland-Pfalz,
+theback Germany
+sacculartoellipsoidal, 100–210 70–160 ca.50% 40–50 26–45 2–15 Eutrophicpond, Foissneretal.[22]
+bothendsbroadly Salzburg,Austria
+rounded,ventralanterior
+halfobliquelytruncated
+ellipsoidal,roundedon 90–160 70–120 ca.50% ca.50 ca.35 8–12 AransasNational Alekperovetal.[23]†
+anteriorandposterior WildlifeRefuge,
+ends Texas,theUnited
+States
+Abbreviations:MaMacronucleus;SKSomatickineties
+†Doubtfulspecies,aRatiooforallengthtobodylength,bDatafromdrawingorpictures,−Datanotavailable
+basedonpresentandpreviousdescriptions.Basedonana- Protozoology (N36°03′45″, E120°19′52″), Qingdao, China,
+lysesofitsmorphologyandmolecularphylogeny,weposit on 20th December 2018; the water temperature was 24°C
+thatthegenusLinostomellaisnotmonotypic. andsalinitywas30ppt(Fig.1c).Linostomellavorticellawas
+isolated from a freshwater pond in Baihuayuan Park
+Methods (N36°03′53″, E120°20′22″), Qingdao, China, on 5th Janu-
+Samplecollection,morphologicalmethods,and ary2019;thewatertemperaturewas2°C(Fig.1d).
+identification Living cells were randomly selected from the original
+Gruberia foissneri spec. nov. was collected from the samples and observed at 100–1000× magnification using
+sandy surface of a seawater aquarium in the Laboratory of both bright field and differential interference contrast
+
+Chietal.BMCMicrobiology (2020) 20:297 Page15of17
+microscopy (Olympus BX53; Zeiss AXIO Imager. D2). chain Monte Carlo simulations were then run with
+The protargol staining method of Wilbert [44] was two sets of four chains using the default settings. The
+used to reveal the infraciliature. The protargol powder chain length for the analysis was 10,000,000 genera-
+was made according to Pan et al. [45]. The invertible tions with trees sampled every 100 generations. The
+function in Photoshop was used to adjust the photo- first 10% of trees were discarded as burn-in. MEGA
+micrographs of the infraciliature to show the struc- 5.2 [57] was used to visualize tree topology.
+ture more clearly. Hoechst 33342 solution was used
+Abbreviations
+to reveal the nuclear apparatus [46]. Counts, measure-
+BI:Bayesianinference;CV:Coefficientofvariationin%;CV*:Contractile
+ments, and drawings of stained specimens were made vacuole;FPM:Fragmentsofparoralmembrane;M:Median;
+from photomicrographs (Nikon Y-IDT). Terminology Ma:Macronucleus;Max:Maximum;Mean:Arithmeticmean;Min:Minimum;
+ML:Maximumlikelihood;n:Numberofspecimens;SD:Standarddeviation;
+and systematics are mainly according to Foissner et al.
+SK:Somatickineties;SSUrDNA:SmallsubunitrDNA
+[22], Lynn [2] and Shazib et al. [4].
+Acknowledgements
+DNAextraction,PCRamplification,andsequencing Notapplicable.
+A single cell of each species was isolated from the ori- Authors’contributions
+ginal sample and washed five times with filtered habitat YCperformedtheexperimentsanddraftedthemanuscript;YLperformed
+water to remove potential contaminants. Extraction of thephylogeneticsection;MM,QZ,AWandXCcheckedallthedataand
+helpedtowritethemanuscript;WSsupervisedandcoordinatedthework.
+genomic DNA was performed using the DNeasy Blood
+Allauthorsreadandapprovedthefinalmanuscript.
+& Tissue Kit (QIAGEN, Hilden, Germany) following the
+manufacturer’s instructions. Q5® Hot Start high-fidelity Funding
+ThisworkwassupportedbytheNaturalScienceFoundationofChina(No.
+DNA polymerase (NEB, Ipswich, MA) was used to amp-
+31970398toXC;No.31672251toQZ)andtheMarineS&TFundof
+lify the SSU rDNA using universal eukaryotic primers ShandongProvinceforPilotNational457LaboratoryforMarineScienceand
+82F (5′-GAAACTGCGAATGGCTC-3′) and 18s-R (5′- Technology(Qingdao)(No.2018SDKJ0406–1toWS).
+TGATCCTTCTGCAGGTTCACCTAC-3′) [47, 48].
+Availabilityofdataandmaterials
+Cycling parameters of touchdown PCR were as follows:
+Alldatageneratedoranalysedduringthisstudyareincludedinthe
+1cycle of initial denaturation at 98°C for 30s, followed publishedarticle.
+by 18cycles of amplification (98°C, 10s; 69–51°C
+Ethicsapprovalandconsenttoparticipate
+touchdown, 30s; 72°C, 1min), and another 18cycles
+Notapplicable.
+(98°C, 10s; 51°C, 30s; 72°C, 1min), with a final exten-
+sion of 72°C for 5min. PCR products were checked Consentforpublication
+Notapplicable.
+using agarose gel and were sequenced in TSINGKE
+(Qingdao, China). Sequence fragments were assembled
+Competinginterests
+into contigs usingSeqman (DNAStar). Theauthorsdeclarethattheyhavenocompetinginterests.
+Authordetails
+Phylogeneticanalyses 1InstituteofEvolutionandMarineBiodiversity,andCollegeofFisheries,
+A total of 96 taxa were used for phylogenetic ana- OceanUniversityofChina,Qingdao266003,China.2YantaiInstituteof
+lyses, including the two newly sequenced species and CoastalZoneResearch,ChineseAcademyofSciences,Yantai264003,China.
+3CenterforOceanMega-Science,ChineseAcademyofSciences,7Nanhai
+94 sequences obtained from the GenBank database Road,Qingdao266071,China.4DepartmentofLifeSciences,NaturalHistory
+(see Fig. 8 for accession numbers). Five karyorelictean Museum,LondonSW75BD,UK.5SchoolofMarineSciences,Ningbo
+species were used as the outgroup. Sequences were University,Ningbo315211,China.
+aligned using MUSCLE on the web server GUID-
+Received:28January2020Accepted:25June2020
+ANCE (http://guidance.tau.ac.il/ver2/) with default pa-
+rameters [49]. Ambiguously aligned regions were
+References
+excluded before phylogenetic analyses using G-blocks
+1. GaoF,WarrenA,ZhangQQ,GongJ,MiaoM,SunP,etal.Theall-data-
+version 0.91b [50, 51]. The final alignment with 1431 basedevolutionaryhypothesisofciliatedprotistswitharevised
+characters was used to construct phylogenetic trees. classificationofthephylumCiliophora(Eukaryota,Alveolata).SciRep.2016;
+6:24874.
+Maximum likelihood (ML) analysis was carried out
+2. LynnDH.TheciliatedProtozoa:characterization,classification,andguideto
+on the CIPRES Science Gateway [52] using RAxML- theliterature.3rded.German:Springer;2008.
+HPC2 on XSEDE v8.2.12 [53]. Bayesian inference (BI) 3. FernandesNM,daSilvaPT,daSilva-NetoID,SchlegelM,SchragoCG.
+ExpandedphylogeneticanalysesoftheclassHeterotrichea(Ciliophora,
+analysis was performed with MrBayes version 3.2.6 on
+Postciliodesmatophora)usingfivemolecularmarkersandmorphological
+XSEDE [54, 55] of the CIPRES Science Gateway. data.MolPhylogenEvol.2016;95:229–46.
+GTR+ I+ G was selected as the best fitting evolution- 4. ShazibSUA,Vd'ačnýP,KimJH,JangSW,ShinMK.Phylogenetic
+relationshipsoftheciliateclassHeterotrichea(Protista,Ciliophora,
+ary model by MrModeltest version 2.2 according to
+Postciliodesmatophora)inferredfrommultiplemolecularmarkersand
+the Akaike Information Criterion (AIC) [56]. Markov multifacetedanalysisstrategy.MolPhylogenEvol.2014;78:118–35.
+
+Chietal.BMCMicrobiology (2020) 20:297 Page16of17
+5. Campello-NunesPH,FernandesNM,SzokoliF,PetroniG,daSilva-NetoID. 32. OzakiY,YagiuR.StudiesonthemarineciliatesofJapan,mainlyfromthe
+MorphologyandphylogeneticpositionofGruberialanceolata(Gruber1884) Setonaikai(theInlandSeaofJapan).JSciHirosimaUnivSerB.1941;8:165–
+(Ciliophora,Heterotrichea)fromRiodeJaneiro,Brazil.JEukaryotMicrobiol. 84.
+2018;65(6):902–12. 33. DragescoJ.Infraciliaturedequinzeespecesdeciliesmesopsammiques
+6. ChenXR,ShazibSUA,KimJH,KimMS,ShinMK.Newcontributionsto marinscomprenantTrachelocercastephanicomb.nova,T.bodianicomb.
+Gruberialanceolata(Gruber,1884)Kahl,1932basedonanalysesofmultiple nova,Tracheloraphisfiliformisspec.nova,T.exilisspec.nova,etSathrophilus
+populationsandgenes(Ciliophora,Heterotrichea,Gruberiidae).EurJ arenicolusspec.nova.LinzerBoilBeitr.2002;34(2):1545–626.
+Protistol.2018;65:16–30. 34. DragescoJ.Ciliésmésopsammiquesd'Afriquenoire.Paris:Cahiersde
+7. EhrenbergCG.DritterBeitragzurErkenntnissgrosserOrganisationinder BiologieMarine;1965.
+RichtungdeskleinstenRaumes.Berlin:AkademiederWissenschaften;1833. 35. HuXZ,LinXF,SongWB.Ciliateatlas:speciesfoundintheSouthChinaSea.
+8. DujardinF.Histoirenaturelledeszoophytes.Infusoires,comprenantla Beijing:SciencePress;2019.
+physiologieetlaclassificationdecesanimauxetlamaniéredelesétudierà 36. RosatiG,ModeoL,MelaiM,PetroniG,VerniF.Amultidisciplinaryapproach
+l'aidedumicroscope.Paris:LibrairieEncyclopédiquedeRoret;1841. todescribeprotists:amorphological,ultrastructural,andmolecularstudyon
+9. JankowskiAW.RevisionofasystemofclassPolyhymenophora(Spirotricha). PeritromuskahliVilleneuve-Brachon,1940(Ciliophora,Heterotrichea).J
+TeziskyDoklZoolInstAkadNaukSSSR.1978:39–40. EukaryotMicrobiol.2004;51(1):49–59.
+10. AeschtE.Catalogueofthegenericnamesofciliates(Protozoa,Ciliophora). 37. SongWB,WarrenA,HuXZ.Free-livingciliatesintheBohaiandyellowseas,
+Denisia.2001;1:1–350. China.Beijing:SciencePress;2009.
+11. RossiA,BoscaroV,CarducciD,SerraV,ModeoL,VerniF,etal.Ciliate 38. YanY,ChenXM,ChenXR,GaoF,Al-FarrajSA,Al-RasheidKAS.Morphology
+communitiesandhiddenbiodiversityinfreshwaterbiotopesofthePistoia andmolecularphylogenyofthreemarineCondylostomaspeciesfrom
+province(Tuscany,Italy).EurJProtistol.2016;53:11–9. China,includingtwonewones(Ciliophora,Heterotrichea).EurJProtistol.
+12. WrześniowskiA.BeobachtungenüberInfusorienausderUmgebungvon 2015;51(1):66–78.
+Warschau.ZWissZool.1870;20:467–511. 39. LuoJ,MaMZ,LuBR,LiXH,WarrenA,ShiYH,etal.Thetaxonomyand
+13. PenardE.ÉtudessurlesInfusoiresd'EauDouce.Genève:Georg&Cie;1922. phylogenyofthepoorlyknownheterotrichciliateAmpullofolliculina
+14. Fauré-FremietE.Contributionalaconnaissancedesinfusoires lageniformisHadži,1951(Ciliophora:Heterotrichea).JEukaryotMicrobiol.
+planktoniques.BullBiolFrBelg.1924;6:1–171. 2019;66(6):925–36.
+15. KahlA.UrtiereoderProtozoa.I:wimpertiereoderCiliata(Infusoria)3. 40. YanY,FanY,ChenXR,LiLF,WarrenA,Al-FarrajSA,etal.Taxonomyand
+Spirotricha.TierweltDtl.1932;25:399–650. phylogenyofthreeheterotrichciliates(Protozoa,Ciliophora),with
+16. WangCC,NieD.Reportontherareandnewspeciesoffreshwater descriptionofanewBlepharismaspecies.ZoolJLinneanSoc.2016;177(2):
+infusoria,part1.ContrBiolLabScSocChina.1933;10:1–99. 320–34.
+17. GeleiJ.ÜberdieLebensgemeinschafteinigertemporärerTümpelaufeiner 41. ChiY,DuanLL,LuoXT,ChengT,WarrenA,HuangJA,etal.Anew
+BergwieseimBörzsönygebirge(Oberungarn)III.Ciliaten.ActaBiolHung. contributiontothetaxonomyandmolecularphylogenyofthree,well-
+1954;5:259–343. knownfreshwaterspeciesoftheciliategenusSpirostomum(Protozoa:
+18. DragescoJ.CilliésLibresDuCameroun.Cameroun:AnnalesdeLaFaculté Ciliophora:Heterotrichea).ZoolJLinneanSoc.2020;189:158–77.
+desSciences;1970. 42. FoissnerW,AgathaS,BergerH.Soilciliates(Protozoa,Ciliophora)from
+19. PätschB.DieAufwuchsciliatendesNaturlehrparksHausWildenrath: Namibia(SouthwestAfrica),withemphasisontwocontrasting
+MonographischeBearbeitungderMorphologieundÖkologie.Bonn: environments,theEtosharegionandtheNamibDesert.Denisia.2002;5:1–
+ArbeitenausdemInstitutfürLandwirtschaftlicheZoologieund 1459.
+Bienenkunde;1974. 43. WarrenA,PattersonDJ,DunthornM,ClampJC,Achilles-DayUE,AeschtE,
+20. DragescoJ,Dragesco-KernéisA.Ciliéslibresdel'Afriqueintertropicale: etal.Beyondthe“code”:aguidetothedescriptionanddocumentationof
+introductionàlaconnaissanceetàl'étudedesCiliés.Paris:FauneTropicale biodiversityinciliatedprotists(Alveolata,Ciliophora).JEukaryotMicrobiol.
+(Éditionsdel'ORSTOM);1986. 2017;64(4):539–54.
+21. PackroffG,WilbertN.TaxonomischeStudienüberdieCiliatenfauna 44. WilbertN.EineverbesserteTechnikderProtargolimprägnationfürCiliaten.
+(Protozoa,Ciliophora)derEifelmaare.ArchProtistenkd.1991;140(2–3):121– Mikrokosmos.1975;64:171–9.
+39. 45. PanXM,BourlandWA,SongWB.Protargolsynthesis:anin-houseprotocol.J
+22. FoissnerW,BergerH,SchaumburgJ.Identificationandecologyoflimnetic EukaryotMicrobiol.2013;60(6):609–14.
+planktonciliates,vol.3/99.Munich:InformationsberichtedesBayerischen 46. JiangYH,ZhangTT,VallesiA,YangXY,GaoF.Time-courseanalysisof
+LandesamtesfürWasserwirtschaft;1999. nucleareventsduringconjugationinthemarineciliateEuplotesvannusand
+23. AlekperovI,BuskeyE,SnegovayaN.Thefree-livingciliatesoftheMexican comparisonwithotherciliates(Protozoa,Ciliophora).CellCycle.2019;18(3):
+gulfcoastnearPortAransascityanditssuburbs(SouthTexas,USA). 288–98.
+Protistology.2007;5(2–3):101–30. 47. JeromeCA,SimonEM,LynnDH.DescriptionofTetrahymenaempidokyrean.
+24. EhrenbergCG.DieInfusionsthierchenalsvollkommeneOrganismen:Ein sp.,anewspeciesintheTetrahymenapyriformissiblingspeciescomplex
+BlickindastiefereorganischeLebenderNatur.Leipzig:VerlagvonLeopold (Ciliophora,Oligohymenophorea),andanassessmentofitsphylogenetic
+Voss;1838. positionusingsmall-subunitrRNAsequences.CanJZool.1996;74(10):1898–
+25. TuffrauM.Lesstructuresfibrillairessomatiquesetbuccaleschezlesciliés 906.
+hétérotriches.Protistologica.1968;3(1):369–94. 48. MedlinL,ElwoodHJ,StickelS,SoginML.Thecharacterizationof
+26. FoissnerW,BergerH,KohmannF.TaxonomischeundökologischeRevision enzymaticallyamplifiedeukaryotic16S-likerRNA-codingregions.Gene.
+derCiliatendesSaprobiensystems.BandII:Peritrichia,Heterotrichida, 1988;71(2):491–9.
+Odontostomatida,vol.5/92.Munich:InformationsberichtedesBayer 49. WangCD,ZhangTT,WangYR,KatzLA,GaoF,SongWB.Disentangling
+LandesamtesfürWasserwirtschaft;1992. sourcesofvariationinSSUrDNAsequencesfromsinglecellanalysesof
+27. ChenXR,KimJH,ShazibSUA,KwonCB,ShinMK.Morphologyand ciliates:impactofcopynumbervariationandexperimentalerror.PRoySoc
+molecularphylogenyofthreeheterotrichidspecies(Ciliophora, B:BiolSci.2017;284(1859):20170425.
+Heterotrichea),includinganewspeciesofAnigsteinia.EurJProtistol.2017; 50. CastresanaJ.Selectionofconservedblocksfrommultiplealignmentsfor
+61:278–93. theiruseinphylogeneticanalysis.MolBiolEvol.2000;17(4):540–52.
+28. BeltranE.Gruberiacalkinsisp.nov.,abrackish-waterciliate(Protozoa, 51. TalaveraG,CastresanaJ.Improvementofphylogeniesafterremoving
+Heterotrichida)fromwoodshole,Massachusetts.BiolBull.1933;64(1):21–7. divergentandambiguouslyalignedblocksfromproteinsequence
+29. DragescoJ.Ciliésmésopsammiqueslittoraux:systématique,morphologie, alignments.SystBiol.2007;56(4):564–77.
+écologie.Roscoff:DesTravauxdelaStationBiologique;1960. 52. MillerMA,PfeifferW,SchwartzT.CreatingtheCIPRESsciencegatewayfor
+30. GruberA.DieProtozoendesHafensvonGenua.Halle:E.Blochmann& inferenceoflargephylogenetictrees.In:GatewayComputingEnvironments
+Sohn;1884. Workshop;NewOrleans.2010:1–8.
+31. LepsiJ.Protozoologie.România,Bucarest:AcademiaRepubliciiSocialiste; 53. StamatakisA.RAxMLversion8:atoolforphylogeneticanalysisandpost-
+1965. analysisoflargephylogenies.Bioinformatics.2014;30(9):1312–3.
+
+Chietal.BMCMicrobiology (2020) 20:297 Page17of17
+54. RonquistF,TeslenkoM,vanDerMarkP,AyresDL,DarlingA,HöhnaS,etal.
+MrBayes3.2:efficientBayesianphylogeneticinferenceandmodelchoice
+acrossalargemodelspace.SystBiol.2012;61(3):539–42.
+55. WangYR,WangCD,JiangYH,KatzLA,GaoF,YanY.Furtheranalysesof
+variationofribosomeDNAcopynumberandpolymorphisminciliates
+provideinsightsrelevanttostudiesofbothmolecularecologyand
+phylogeny.SciChinaLifeSci.2019;62(2):203–14.
+56. NylanderJAA.MrModeltestver.2.2004:evolutionarybiologyCentre,
+UppsalaUniversity,Sweden.
+57. TamuraK,PetersonD,PetersonN,StecherG,NeiM,KumarS.MEGA5:
+molecularevolutionarygeneticsanalysisusingmaximumlikelihood,
+evolutionarydistance,andmaximumparsimonymethods.MolBiolEvol.
+2011;28(10):2731–9.
+Publisher’s Note
+SpringerNatureremainsneutralwithregardtojurisdictionalclaimsin
+publishedmapsandinstitutionalaffiliations.
+

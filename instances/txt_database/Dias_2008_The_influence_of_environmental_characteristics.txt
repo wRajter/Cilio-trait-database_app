@@ -1,0 +1,586 @@
+The influence of environmental characteristics on the distribution of
+ciliates (Protozoa, Ciliophora) in an urban stream of southeast Brazil
+Dias, RJP.a*, Wieloch, AH.b and D’Agosto, M.a
+aPrograma de Pós-graduação em Comportamento e Biologia Animal, Departamento de Zoologia,
+Instituto de Ciências Biológicas, Campus Universitário, Universidade Federal de Juiz de Fora – UFJF,
+CEP 36036-900, Juiz de Fora, MG, Brazil
+bDepartamento de Zoologia, Instituto de Ciências Biológicas, Universidade Federal de Minas Gerais – UFMG,
+Av. Antônio Carlos, 6627, Pampulha, CEP 31270-910, Belo Horizonte, MG, Brazil
+*e-mail: rjuniodias@hotmail.com
+Received June 12, 2006 – Accepted June 18, 2007 – Distributed May 31, 2008
+(With 8 figures)
+Abstract
+The aim of this research was to study the ciliated protozoa community at three sampling stations that receive different
+levels of domestic sewage along the São Pedro Stream in the municipality of Juiz de Fora, Minas Gerais, Brazil, in
+order to determine the influence of organic pollution on this community and to assess the feasibility of using ciliates
+as water quality indicators. Four physical-chemical parameters of the water samples were evaluated: dissolved oxygen
+concentration, electrical conductivity, pH and temperature. The sediment was obtained manually, using dredges with
+capacity of 300 mL, at each collection point. Point 1 was located in a rural region that receives a low sewage load,
+while Points 2 and 3 were located in populated regions receiving high sewage loads. We found 22 ciliate species, of
+which 18 are included in the saprobic system and are considered bioindicators. These showed beta-mesosaprobic envi-
+ronments at Point 1 and alfa-mesosaprobic to polisaprobic environments at Points 2 and 3. The low levels of dissolved
+oxygen and the high electrical conductivity values at Points 2 and 3, together with the strong similarity between the
+ciliate taxocenoses of these points and the weak similarity between Point 1 and the other two, confirm the high sewage
+loads received at the latter two points. The combination of the biological indicators and physical-chemical analyses
+therefore proved itself to be an efficient method of evaluating water quality, and has excellent potential to support deci-
+sions on the conservation of headwaters and recuperation of degraded environments in lotic systems.
+Keywords: ciliated protozoa, organic pollution, water quality, watercourses.
+Influência das características ambientais sobre distribuição dos ciliados
+(Protozoa, Ciliophora) em um córrego urbano no sudeste brasileiro
+Resumo
+O objetivo deste trabalho foi estudar a comunidade de protozoários ciliados em três estações amostrais, que recebem
+diferentes níveis de lançamento de esgoto doméstico, ao longo do córrego São Pedro, Juiz de Fora, MG, a fim de se de-
+terminar a influência da poluição orgânica sobre a composição e distribuição desta comunidade e avaliar a viabilidade
+da utilização dos ciliados como indicadores da qualidade da água. Foram mensurados quatro parâmetros físico-quími-
+cos da água amostrada: teor de oxigênio dissolvido, condutividade elétrica, pH e temperatura. Amostras do sedimento
+foram obtidas manualmente com o auxílio de dragas, com capacidade de 300 mL, em cada ponto de coleta. O ponto1,
+localizado em uma região rural, recebe baixa carga de esgoto, enquanto os pontos 2 e 3, localizados em regiões com
+ampla ocupação humana, recebem altas cargas de esgoto. Foram registradas 22 espécies de ciliados, sendo que 18
+estão incluídas no sistema sapróbio e são consideradas bioindicadoras de ambientes beta-mesossapróbio no ponto 1 e
+de alfa a polissapróbio nos pontos 2 e 3. Os baixos valores de oxigênio dissolvido e os altos valores de condutividade
+elétrica registrados nas estações 2 e 3, juntamente com a similaridade entre a taxocenose de ciliados destas estações
+e a baixa similaridade entre a estação 1 e as demais, confirmaram as altas cargas de esgoto recebidas nestas estações.
+A união do método biológico com a análise físico-química mostrou-se, portanto, um eficiente método na avaliação
+da qualidade da água, e apresenta grande potencial de utilização em tomadas de decisões relativas à conservação de
+nascentes e recuperação de ambientes degradados em sistemas lóticos.
+Palavras-chave: águas correntes, poluição orgânica, protozoários ciliados, qualidade da água.
+Braz. J. Biol., 68(2): 287-295, 2008 287
+
+Dias, RJP., Wieloch, AH. and D’Agosto, M.
+1. Introduction 1991; Madoni, 1983; 1984; 1993; Fernandez-Leborans
+and Novillo, 1996; Sola et al., 1996; Primc-Habdija
+Studies on pollution effects in freshwater environ-
+etal., 1998; Madoni and Bassanini, 1999; Madoni, 2005;
+ments were traditionally based on observing the physi-
+Madoni and Braghiroli, 2007).
+cal and chemical characteristics of the water (Norris and
+The present research studies the community of cili-
+Thoms, 1999). However, these parameters, isolated from
+ated protozoa at points with different raw domestic sew-
+the analysis of the biotic community, do not provide
+age levels along São Pedro Stream (Southeast Brazil) to
+enough evidence to completely evaluate water quality.
+determine the influence of organic pollution on the com-
+The current trend is to analyze not only changes in the
+position and distribution of this community and to evalu-
+physical-chemical characteristics, but also the responses
+ate the use of ciliates as water quality indicators.
+to these changes by the organisms that live in these en-
+vironments. Biological data, together with physical and
+2. Material and Methods
+chemical data represent an important tool to evaluate
+water quality in rivers and streams and have contributed
+2.1. Study area and sampling stations
+to efforts to control emissions of organic pollutants in
+urban lotic systems (Suehiro and Tezuca, 1981; Groliére The watershed of São Pedro Stream, located in
+et al., 1990; Sparagano and Grolière, 1991; Madoni, the southwest part of the urban area of the municipal-
+1993; Fernandez-Leborans and Novillo, 1996; Sola ity of Juiz de Fora, Minas Gerais, Brazil (Figure 1), in-
+etal., 1996; Madoni and Bassanini, 1999; Madoni, 2005; cludes São Pedro Dam, which is responsible for 9% of
+Madoni and Braghiroli, 2007). the city’s water supply. The streamlet itself extends for
+In this context, ciliated protozoa are very important 13,250 m (watercourse) and 10,750 m (straight line),
+because the disturbances caused by pollution can signifi- traversing various districts of the municipality. Its head-
+cantly alter the aquatic food chain, and thus the compo- waters are located at an altitude of 875 m above sea level
+sition and abundance of these protozoa (Czapik, 1982; (Latuf,2004).
+Primc, 1988; Primc-Habdija et al., 1998; Madoni and The collections were done monthly, always in the
+Bassanini, 1999; Madoni and Braghiroli, 2007). morning, at three points (Figure 1) along the stream, to
+The use of ciliated protozoa as bioindicators has obtain samples with different levels of untreated sew-
+advantages over the use of other organisms. The high age. Point 1 (23K, 663036, 7590303) is located in a rural
+sensitivity of these protists to changes in their surround- region and receives a low sewage load, while Points 2
+ings, allied with their short generation time, enables (23K, 668307, 7591772) and 3 (23K, 668645, 7592804)
+them to reveal the response to environmental contamina- are located in considerably populated regions, receiving
+tion much more quickly. Besides this, they are widely high sewage loads.
+distributed geographically, being essential components At each station, samples were collected monthly
+of nearly all environments and can be easily main- from August 2002 to June 2003. Benthic ciliates were
+tained in the laboratory (Sparagano and Grolière, 1991; collected from the substrate by using dredges with ca-
+Piccinni and Gutiérrez, 1995; Fernandez-Leborans and pacity of 300 mL, at each collection point. At each sta-
+Novillo,1996). tion three samples were collected along the line of the
+Their great sensitivity to physical and chemical fac- river cross-section and near the border. Glass jars were
+tors can be explained by the fact that many protozoa lowered to the bottom, recovered and capped. The sam-
+have specific demands in relation to the characteristics
+ples were then put in thermal containers to maintain their
+of the medium in which they live, such as the quan-
+physical conditions and taken to the laboratory.
+tity of dissolved organic matter, temperature, pH, elec-
+tric conductivity and dissolved oxygen concentration 2.2. Physical and chemical parameters
+(Noland, 1925; Kudo, 1966; Sleigh, 1988). Among these Monitoring of the physical and chemical proper-
+characteristics, the quantity of organic matter and dis- ties of the water at the sampling points was done with
+solved oxygen in the water define pollution zones that portable equipment at the collection sites, recording the
+are associated with particular species of protozoan indi- following parameters: dissolved oxygen concentration,
+cators (Foissnerand Berger, 1996). Four main zones of electrical conductivity, pH and water temperature.
+pollution are distinguished: polysaprobity (very heavily
+2.3. Processing the samples and identifying the ciliates
+polluted), alfa-mesosaprobity (heavily polluted), beta-
+mesosaprobity (moderately polluted) and oligosaprobity Of the samples taken to the laboratory, we placed
+(clean or very slightly polluted) (Streble and Krauter, five fractions of approximately 20 mL in Petri dishes
+1987; Foissnerand Berger, 1996). to observe the organisms under a stereoscopic micro-
+In recent years many studies have examined the scope with transmitted light, on the day of collection.
+composition, distribution and dynamics of ciliate com- The ciliates was sorted from these portions with mi-
+munities in lotic systems, as well as their value as water cropipettes (made in the laboratory) and observed in
+quality indicators (Madoni and Ghetti, 1981; Suehiroand vivo (Tuffrau, 1959) until eight hours after their col-
+Tezuca, 1981; Wiackowski, 1981; Czapik, 1982; Primc, lection, under an optical microscope (bright field and
+1988; Groliére et al., 1990; Sparagano and Grolière, phase contrast) in order to make preliminary identifica-
+288 Braz. J. Biol., 68(2): 287-295, 2008
+
+Ciliates in an urban stream
+7913000:655000 7913000:678000
+c
+N
+a
+W E
+S
+Juiz de Fora
+RRiioo PPaarraaiibbuunnaa
+b
+Minas Gerais
+Juiz de Fora
+2000 m
+7586000:655000 7586000:678000
+Drenagem
+Limite da bacia de estudo
+7594000:660000 7594000:670000
+d
+33
+ddrroo
+óórrrree gg oo SS ãã oo PP ee
+CC
+Pedro 22
+São
+o
+g
+Córre Grot1 dB
+oR
+P0 i4 n0 RReepprreessaa ddee SSããoo PPeedd AAeerroorr ppoorrttoooo
+to
+a
+órre g o
+C
+1000 m
+7587000:660000 7587000:670000
+Mancha urbana - 1965 Mancha urbana - 2000
+Rodovia Federal - BR 040 Drenagem
+Map of the São Pedro streamlet showing the sampling stations (P1 = Station 1; P2 = Station 2; P3 = Station3) in
+the urban area of Juiz de Fora, Minas Gerais, Brazil (from Latuf, 2004).
+tions. Observation of live ciliates is of great taxonomic 2.4. Statistical treatment
+importance in classifying genera and species (Foissner The Mann-Whitney nonparametric test was used to
+and Berger, 1996). Cultures were prepared to carry out verify differences between the mean values of the physi-
+further identification techniques, adding crushed rice cal and chemical parameters among the three collection
+in fractions of other samples. The rice grains served stations.
+as a source of carbon for the bacteria present, encour- Cluster analysis, with Euclidian distance and
+aging excystment of the ciliates. The following silver UPGMA, was used to examine the similarity among
+impregnation techniques were carried out: protargol these parameters at the three collection points, as well as
+(Dieckmann, 1995) and “dry” silver (Klein, 1958; the data showing presence or absence of the ciliate com-
+Foissner, 1991). munity at the points. To determine the degree of similar-
+Braz. J. Biol., 68(2): 287-295, 2008 289
+
+Dias, RJP., Wieloch, AH. and D’Agosto, M.
+ity among the ciliate communities of the three sampling 500
+stations, the qualitative similarity indices of Jaccard and 450
+Sorensen (Magurran, 1988) was calculated.
+400
+350
+3. Results and Discussion ytivitcudnoC
+300
+250
+3.1. Physical and chemical analysis
+200
+Dissolved oxygen is one of the most important gases
+150
+in the dynamics and characterization of aquatic ecosys-
+100
+tems (Esteves, 1988; Von Sperling, 1996). The low av-
+50
+erage oxygen values obtained at Points 2 (3.02mg.L–1)
+0
+and 3 (2.04 mg.L–1), when compared with the high aver- .guA .peS .tcO .voN .ceD .naJ .beF .raM .rpA yaM .nuJ
+age values at Point 1 (6.49 mg.L–1) (Figure 2), indicate
+high organic pollution loads at the stations in the urban Months
+area (Points 2 and 3). There was a significant difference Station 1 Station 2 Station 3
+(Mann-Whitney test, p < 0.05) between the mean O
+2 Figure 3. Variation of conductivity from three points along
+values from Point 1 in relation to Points 2 and 3, and
+São Pedro stream, from August 2002 to June 2003.
+no significant difference (Mann-Whitney test, p < 0.05)
+between the mean O values of Points 2 and 3.
+2
+The electrical conductivity of a solution is consid- 27
+ered an important variable in characterizing water bod-
+26
+ies and detecting sources of pollution (Esteves, 1988).
+The low conductivity levels at Point 1 and high values 25
+at Points 2 and 3 confirm the high sewage loads received C°
+24
+at the latter two collection sites (Figure 3). There was erutarepmeT
+a significant difference (Mann-Whitney test, p < 0.05) 23
+between the mean electrical conductivity values from 22
+Point 1 (78.6 (cid:77)S.cm–1) in relation to the sampling sta-
+21
+tions 2 (286.4 (cid:77)S.cm–1) and 3 (293.0 (cid:77)Scm–1), and no
+significant difference (Mann-Whitney test, p > 0.05) be- 20
+tween these average values from Points 2 and 3.
+19
+The water temperature was nearly the same at all .guA .peS .tcO .voN .ceD .naJ .beF .raM .rpA yaM .nuJ
+three collection points: 1 (22.4 °C), 2 (22.5 °C) and
+Months
+3 (23.2 °C), with no significant difference (Mann-
+Station 1 Station 2 Station 3
+Whitney test, p > 0.05) among them (Figure 4).
+Point 2 (7.41) and Point 3 (7.46) had lower pH val-
+ues than Point 1 (8.11) (Figure 5). In lakes where there Figure 4. Variation of temperature from three points along
+São Pedro stream, from August 2002 to June 2003.
+is an upper aerobic layer and another anaerobic layer at
+9.0 9 )1(cid:13)L.gm(
+8
+8.5
+noitartnecnoc
+7
+6 8.0
+Hp
+5
+7.5
+4 negyxo
+3 7.0
+devlossiD
+2
+1 6.5 .guA .peS .tcO .voN .ceD .naJ .beF .raM .rpA yaM .nuJ .guA .peS .tcO .voN .ceD .naJ .beF .raM .rpA yaM .nuJ
+Months Months
+Station 1 Station 2 Station 3 Station 1 Station 2 Station 3
+Figure 2. Variation of dissolved oxygen concentration from
+three points along São Pedro stream, from August 2002 to Figure 5. Variation of pH from three points along São Pedro
+June 2003. stream, from August 2002 to June 2003.
+290 Braz. J. Biol., 68(2): 287-295, 2008
+
+Ciliates in an urban stream
+the bottom, anaerobia can cause elevation of the pH as a in Table 2 and Figure 7. As expected, there was a close
+consequence of photosynthetic action. It is interesting to similarity between Stations 2 and 3 and low similarity
+note that phenomena like those that keep the pH slightly between these two and Station 1.
+base in polluted waters can also be occurring in lotic sys- The species Stentor coeruleus and Blepharisma
+tems, such as in the São Pedro Stream, in stretches that sinuosumwere recorded only in the cultures kept in the
+receive high domestic sewage loads. These effluents flow laboratory (Table 1), because they possibly were en-
+in constantly, forming a layer of activated mud on the cysted in the samples analyzed on the collection day,
+bed. This layer can be washed out during extremely rainy due to the unfavorable environmental conditions. In the
+periods, but it accumulates again in short order (Branco, cultures, with favorable food supply, the excystment of
+1986). There was a significant difference (Mann-Whitney these species occurred. However, it was not possible to
+test, p < 0.05) between the mean pH values for Point 1 in investigate these species in the ecological study because
+relation to Points 2 and 3, and no significant difference they had not been registered on the collection day. The
+(Mann-Whitney test, p < 0.05) between these mean val- excystment mechanism is important because it permits
+ues for Points 2 and 3. the ciliated protozoan populations to resist predation,
+The similarity between collection stations 2 and 3, unfavorable physical and chemical conditions and food
+regarding physical and chemical parameters, is shown in shortages (Taylor, 1983).
+Figure 6. The saprobic system for evaluating water quality,
+3.2. Biological analysis and more specifically for assessing organic pollution,
+developed by Kolkwitz and Marsson (1908, 1909) and
+Table 1 presents the ciliated protozoa taxa that were
+Kolkwitz (1950), is widely used in biological classifi-
+identified from São Pedro Stream during the study and the
+cation of flowing waters. The original lists of indicator
+occurrence frequency of each species at the three sample
+species has been revised and extended by various au-
+stations along eleven months sampling. A total amount
+thors (Slade(cid:254)ek, 1973; Slade(cid:254)ek et al., 1981; Foissner,
+of 22 species of ciliated protozoa belonging to 20 genera
+1988, Foissner etal., 1995), who have added data on the
+were identified. The species Coleps sp., Spirostomum
+water quality and revised taxonomic errors (Paiva and
+minus Roux, 1901, Frontonia leucas (Ehrenberg,
+Silva-Neto, 2004).
+1833), Urocentrum turbo Ehrenberg, 1838, Stylonychia
+Among the ciliate species found in São Pedro Stream,
+pustulata Müller, 1786 and Vorticella sp. occurred at
+18 are included in the sabrobic system and are considered
+all the sampling stations. The species occurring at only
+bioindicators: Caenomorpha sp., Lagynus sp., Loxodes
+one station were: Halteria sp. at Station 1, Podophrya
+striatus(Eugelmann, 1862) Penard, 1917, Metopussp.,
+fixa Müller, 1786 at Station 2; and Stentor coeruleus
+Paramecium caudatum Ehrenberg, 1838, Plagiopylasp.
+Ehrenberg, 1830, Tokophrya lenarum Stein, 1859 and
+and Spirostomum teres Clapère et Lachmann, 1958
+Blepharisma sinuosum Sawaya, 1940 at Station 3. Of the
+are indicators of polysaprobic environments; Euplotes
+22 taxa recorded, 17 occurred at Stations 2 and3.
+The smaller number of species registered at Station1 eurystomus Wrzesmiowski, 1870, Podophrya fixa,
+(6 species) in comparison with Stations 2 (18 species) Stentor coeruleus and Tokophrya lenarum of alfa-mes-
+and 3 (20 species) (Table 1) can be related to the low osaprobic environments; Coleps sp., Spirostomum minus
+abundance of species typical of clear water and head- and Stentor polymorphus Ehrenberg, 1830 of alpha-mes-
+waters, making them harder to find in samples collected osaprobic to beta-mesosaprobic environments; Frontonia
+from that station. Foissner (1997), studying the ciliate leucas, Urocentrum turbo and Stylonychia pustulata
+fauna of four clear water rivers in Germany, attributed of beta-mesosaprobic environments; and Halteria sp.,
+the low abundance of ciliates encountered to a possible which indicates oligosaprobic to alpha-mesosaprobic
+shortage of nutrients in these environments. environments (Table 1).
+The degree of similarity among the ciliate taxo- Figure 8 shows the presence of indicator species of
+cenoses at the three sampling stations studied is shown alpha-mesosaprobic and polysaprobic environments at
+Stations 2 and 3 and the occurrence of an indicator spe-
+cies of an oligosaprobic environment only at Station 1.
+Among the eight species included in the saprobic system
+UPGMA S3 that occurred exclusively at Stations 2 and 3 (Table1), only
+E. eurystomus is an indicator of an alpha-mesosaprobic
+S2 environment. The others are indicators of a polysaprobic
+environment. These saprobity levels correspond to class
+S1 III and IV waters, with low or no oxygen content, char-
+acterizing polytrophic environments, meaning extremely
+960 800 640 480 320 160 0 polluted (Streble and Krauter, 1987).
+Euclidean At Station 1, where six ciliate species occurred,
+Figure 6. Dendrogram of cluster analysis, showing the simi- three of them indicate a beta-mesosaprobic environment,
+larities among stations (S1, S2 and S3) on the basis of physi- whereas the other two indicate alfa to beta-mesosaprobic
+cal and chemical qualities. environments (Table 1). Thus, this site has a moderate to
+Braz. J. Biol., 68(2): 287-295, 2008 291
+
+Dias, RJP., Wieloch, AH. and D’Agosto, M.
+Table 1. List of ciliate species at three stations (S1, S2, S3), with number of positive samples throughout the 11 collecting
+months, in which each species was found, saprobity levels (S) and main food source (Mf).
+Protist species S1 S2 S3 S* Mf
+Caenomorpha sp. - 5 5 p-i Ba, Sb
+Lagynus sp. - 1 3 p-i O
+Loxodes striatus (Engelmann, 1862) - 3 4 p Al, Ki, Cy
+Metopus sp. - 5 5 p-i Ba, Al, Fl
+Paramecium caudatum Ehrenberg, 1833 - 11 11 p-a Ba, Al
+Plagiopyla sp. - 4 2 p-i Ba, Sb, Al, Fl
+Spirostomum teres Claparède and Lachmann, 1858 - 5 5 p Ba, Sb, Al, Ki
+Euplotes eurystomus Wrzesniowski, 1870 - 3 4 a O
+Podophrya fixa (Müller, 1786) - 1 - a R
+Stentor coeruleus (Pallas, 1766) - - + a O
+Tokophrya lenarum (Stein, 1859) - - 1 a R
+Coleps sp. 3 4 5 a-b -
+Spirostomum minus Roux, 1901 5 6 6 a-b Ba
+Stentor polymorphus (Müller, 1773) - 3 1 a-b Ba, Al, Ki
+Frontonia leucas Ehrenberg, 1833 8 5 5 b O
+Urocentrum turbo Müller, 1786 4 7 9 b Ba, Ki
+Stylonychia pustutala (Müller, 1786) 2 7 7 b O
+Halteria sp. 2 - - o-a Al
+Blepharisma sinuosum Sawaya, 1940 - - + - -
+Epistylis sp. - 3 1 - -
+Prorodon sp. - 2 3 - -
+Vorticella sp. 1 5 9 - -
+p = polisaprobity; i = isosaprobity; a = alfa-mesosaprobity; b = beta-mesosaprobity; o = oligosaprobity; Al = algae;
+Ba= bacteria; Cy = cyanobacteria; Fl = heterotrophic flagellates; Ki = diatoms; O = omnivorous; R = predator; Sb = sulphur
+bacteria. + = species recorded only in the cultures kept in the laboratory. *Foissner and Berger (1996).
+Table 2. Qualitative similarity indices of Jaccard and
+Sorensen between the station pairs 1 and 2 (S1-S2), 1 and 3 8
+(S1-S3) and 2 and 3 (S2-S3). 7
+seiceps
+6
+Qualitative similarity index
+5
+Stations Jaccard Sorensen
+4 fo
+S1-S2 0.32 0.48 3 rebmuN
+S1-S3 0.29 0.44
+2
+S2-S3 0.81 0.89
+1
+0
+p a a-b b o p a a-b b o p a a-b b o
+UPGMA S3 S1 S2 S3
+S2
+Figure 8. The number of species indicators of polisapro-
+S1
+bity (p), alfa-mesosaprobity (a), alfa to beta-mesosaprobity
+(a-b), betamesosaprobity (b) and oligosaprobity (o) environ-
+480 400 320 240 160 80 0
+Euclidean ments at the three stations (S1, S2 and S3).
+Figure 7. Dendrogram of cluster analysis, showing the simi-
+larities among stations (S1, S2 and S3) on the basis of ciliate
+taxocenoses. Czapik, 1982; Madoni and Ghetti, 1982; Sparagano and
+Grolière, 1991; Sola et al., 1996; Madoni and Bassanini,
+1999), which shows the ample ecological valence that is
+critical grade of pollution. Among the species that oc- characteristic of this species.
+curred at all the collection stations (Table 1), S. minus, Several authors, studying rivers in France (Sparagano
+F. leucas and U. turbo have been reported along rivers and Grolière, 1991), Spain (Sola et al., 1996), Italy
+with different saprobic levels (Wiackowski, 1981; (Madoni and Ghetti, 1981; Madoni, 1993; Madoni and
+292 Braz. J. Biol., 68(2): 287-295, 2008
+
+Ciliates in an urban stream
+Bassanini, 1999; Madoni, 2005; Madoni and Braghiroli, lations in the various ecosystems (Noland, 1925; Sleigh,
+2007) and Poland (Wiackowski, 1981), have demonstrat- 1988). Several studies have shown the effect of pollu-
+ed an increased proportion of polysaprobic and alpha- tion on the trophic relationships of the community of
+mesosaprobic species and a decrease in beta-metosapro- ciliated protozoa in flowing waters (Wiackowski, 1981;
+bic and oligosaprobic species with increasing pollution Czapik, 1982; Primc, 1988; Primc-Habdija et al., 1998;
+loads caused by anthropic impacts. Madoni (1993) dem- Madoni and Bassanini, 1999; Madoni, 2005; Madoni
+onstrated the efficiency of using ciliate protists as water and Braghiroli, 2007).
+quality indicators in the Parma River, comparing data In oligosaprobic waters, ciliates mainly feed on al-
+collected in 1978, when the system received untreated gae, while only a few feed on bacteria and cyanobac-
+sewage, and in 1989, after a treatment station was operat- teria. The trophic relationships are significantly altered
+ing. The marked change in the ciliate community was ac- when the level of saprobity increases. These changes
+companied by an increase in organic load, which caused start with a decrease in the number of algivorous cili-
+the disappearance of some typical species and dampened ates and an increase in the number of bacterivorous
+the diversifying effects of other environmental factors, species (Wiackowski, 1981; Czapik, 1982; Madoni and
+producing comparatively similar community structures Bassanini, 1999; Madoni, 2005). Organic pollutants
+in that whole zone. cause an increase in phosphates and other nutrients, al-
+The species Coleps sp., Epistylis sp. and Vorticellasp. tering the structure of bacteria communities, inducing
+have not been classified as to saprobity because they changes in the ciliate fauna, which depend directly on
+have only been identified at the genus level. On the lists these bacteria for food (Primc, 1988).
+of indicators contained in Foissner (1988) and Foissner Among the species that occurred at all the collec-
+and Berger (1996), the genera Coleps Nitzsch, 1817, tion stations (Table 1), only S. minus is exclusively bac-
+Epistylis Ehrenberg, 1830 and Vorticella Linnaeus, terivorous. F. leucas and S. pustulata are omnivorous
+1767 indicate environments that vary from oligosapro- andU.turbocan feed on both bacteria and diatoms. The
+bic to alpha-mesosaprobic. The presence of Epistylissp. species of the genus Coleps are mostly omnivorous and
+only at Stations 2 and 3 and the greater frequency of some species of the genus Vorticella can feed on algae
+Vorticella sp. at these stations as well (Table 1), cor- and bacteria (Foissner and Berger, 1996). The omnivo-
+roborate that peritrichous ciliates are strongly related to rous feeding habits of some ciliate species enable them
+organic pollution (Antipa, 1967; Burbanck and Spoon, to occur both in headwaters and polluted stretches of
+1967; Henebry and Ridgeway, 1979). rivers and streams, as demonstrated in various studies
+The indicator species of polysaprobic environ- (Czapik, 1982, Sparagano and Grolière, 1991, Packroff
+ments recorded at Stations 2 and 3, located in the ur- and Zwick 1996, Sola et al. 1996, Madoni and Bassanini
+ban area of São Pedro Stream, have been reported by 1999). In the present work, Halteriasp., which occurred
+various authors in eutropic lakes (Finlay, 1981, 1982; only at Station 1, is algivorous, indicating an environ-
+Laybourn-Parry et al., 1990), at sewage treatment sta- ment with little impact. This corroborates the data ob-
+tions (Salvadó et al., 1995) and in polluted rivers and tained by Czapik (1982), who recorded species with this
+streams (Madoni and Ghetti, 1981; Suehiro and Tezuca, feeding habit at well preserved spots along a river pol-
+1981; Wiackowski, 1981; Czapik, 1982; Sola et al., 1996; luted by domestic sewage.
+Madoni and Bassanini, 1999; Madoni, 2005; Madoni Among the ten species recorded exclusively at
+and Braghiroli,2007). Stations 2 and 3 (Table 1), 70% are indicators of polys-
+In his guide to freshwater protozoa, Patterson (1996) aprobic environments, and the majority preferentially
+classified the species of the genera Metopus(Claparède bacterivorous. Among the bacterivorous ciliates, the most
+et Lachman, 1850), Caenomorpha Perty, 1852, specialized are those that feed on sulfurous bacteria, in-
+Plagiopyla Stein, 1860, Spirostomum Ehrenberg, 1833 dicating highly degraded environments (Czapik, 1982).
+and the species L. striatus as anoxic benthonic ciliates. The species Caenomorphasp., Lagynus sp., Metopussp.
+Foissner and Berger (1996) included Caenomorpha and Plagiopyla sp. registered in the present paper are ex-
+spp., Metopus spp., Plagiopyla nassuta, Loxodes amples of this group of ciliates.
+spp. and Lagynus elegans in a community called The study of the physical and chemical characteris-
+“Metopetum”, composed mainly of strictly anaerobic tics of São Pedro Stream, such as low levels of dissolved
+organisms, which do not have mitochondria and present oxygen and high electrical conductivity values recorded
+sulphurous bacteria as symbionts, being “infallible” in- at Stations 2 and 3 (Figures 2 and 3), as well as the high
+dicators (Czapik, 1982) of the presence of sulphurated similarity among the ciliate taxocenoses at these sta-
+hydrogen in the water. Heterotropic sulphurous bacte- tions and the low similarity between Station 1 and the
+ria occur principally at the surface of sediment, where other two (Figure 7), confirm the high sewage loads at
+the reducing conditions are more favorable, and ap- these stations, along with the high sensitivity of the cili-
+pear in great densities in highly polluted environments ate populations to changes in organic pollution and the
+(Esteves, 1988). saprobic condition in running waters.
+The availability of food is an important biotic factor The combination of the biological method (ciliate
+that controls the distribution of ciliated protozoan popu- community) with the traditional method (physical and
+Braz. J. Biol., 68(2): 287-295, 2008 293
+
+Dias, RJP., Wieloch, AH. and D’Agosto, M.
+chemical data), therefore, is an efficient way to evaluate Loxodes. Munich: Informationsberichte des Bayer Landesamtes
+water quality and has great potential for use in reach- für Wasserwirtschaft. 540 p.
+ing decisions on the preservation and recuperation of FOISSNER, W. and BERGER., H. 1996. A user-friendly
+degraded lotic systems. guide to ciliates (Protozoa, Ciliophora) commonly used by
+hydrobiologists as bioindicators in rivers, lakes, and waste
+Acknowledgements –– We acknowledge the help of Dr. Roberto
+waters, with notes on their ecology. Freshw. Biol., vol. 35,
+da Gama Alves (Zoology Department, ICB, UFJF) with the
+p.375-498.
+statistical and ecological analysis and Márcia Regina Silva
+Alves for assisting with the impregnation of the specimens. GROLIÈRE, CA., CHAKLI, R., SPARAGANO, O. and PEPIN,
+We are very grateful to Dr. Inácio da Silva-Neto (Zoology D. 1990. Application de la colonisation d’un substrat artificiel
+Department, CCS, UFRJ) and all of the laboratory staff for their par les ciliés à l’étude de la qualité des eaux d’une riviére.
+incentive in the study of the ciliates. Thanks are also due to Dr. Europ. J. Protistol., vol. 25, p. 381-390.
+Érik Daemon (Zoology Department, ICB, UFJF) for reviewing
+HENEBRY, MS. and RIDGEWAY, BT., 1979. Epizoic ciliated
+this manuscript. This research was supported by CNPq.
+protozoa of planktonic copepods and cladocerans and their
+possible use as indicators of organic pollution. Trans. Am.
+References Microsc. Soc., vol. 98, no. 4, p. 495-508.
+KLEIN, BN., 1958. The “dry” silver method and its proper and
+ANTIPA, GA., 1977. Use of commensal protozoa as biological
+use.J. Protozool., vol. 5, no. 2, p. 99-103.
+indicators of water quality and pollution. Trans.Am. Microsc.
+Soc., vol. 96, p. 482-489. KOLKWITZ, R. and MARSSON, K., 1908. Ökologie der
+pfanzlichen Saprobien. Berichte der Deutschen Botanischen
+BRANCO, SG., 1986. Hidrobiologia aplicada à engenharia
+Gesellschaft, vol. 26, p. 505-519.
+sanitária. São Paulo: Cetesb. 616 p.
+KOLKWITZ, R. and MARSSON, K., 1909. Ökologie der
+BURBANCK, WD. and SPOON, DM., 1967. The use of sessile
+tierischen Saprobien. Int. Revue ges. Hydrobiol. Hydrogr.,
+ciliates collected in plastic Petri dishes for rapid assessment of
+vol.2, p. 126-152.
+water pollution. J. Protozool., vol. 14, p. 739-744.
+KOLKWITZ, R., 1950. Okologie der Saprobien. SchReihe Ver
+CZAPIK, A., 1982. The effect of waste water on ciliate
+Wass-Boden-u-Lufthyg., vol. 4, p. 1-64.
+communities in the Biata Przemsza River. Acta Hydrobiol.,
+vol.24, no. 1, p. 29-37. KUDO, RR., 1966. Protozoology. Illinois: Charles C. Thomas.
+786 p.
+DIECKMANN, J., 1995. An improved protargol impregnation
+for ciliates yielding reproducile results. Europ. J. Protistol., LATUF, M., 2004. Diagnóstico das águas superficiais do córrego
+vol.31, p. 372-382. São Pedro, Juiz de Fora/MG. Geografia, vol. 13, no.1, p. 18-55.
+Available from: http://www.geo.uel.br/revista. [Visited March
+ESTEVES, FA., 1988. Fundamentos de limnologia. Rio de
+12, 2006]
+Janeiro: Interciência. 575 p.
+LAYOURN-PARRY, J., 1990. The hypolimnetic protozoan
+FENCHEL, T., 1987. Ecology of Protozoa. The biology plankton of a eutrophic lake. Hydrobiologia, vol. 203,
+of free-living phagotrophic protists. Berlin and Tokyo: p.111-119.
+Springer.197p.
+MADONI, P. and GHETTI, PF., 1981. Ciliated Protozoa and
+FERNANDEZ-LEBORANS, G. and NOVILLO, A., 1996. water quality in the Torrente Stirone (Northern Italy). Acta
+Protozoan communities and contamination of several fluvial Hydrobiol., vol. 23, no. 2, p. 143-154.
+systems.Water Environ. Res., vol. 68, no. 3, p. 311-319.
+MADONI, P., 1983. Relationship between ciliated protozoa and
+FINLAY, BJ., 1981. Oxygen availaity and seasonal migrations ecological zones in some water courses of the River Po Basin.
+of ciliated protozoa in a freshwater lake. J. Gen. Microbiol., Int. J. Ecol. Environ. Science, vol. 9, p. 87-98.
+vol.123, p. 173-178.
+-, 1984. Ecological characterization of different types of
+FINLAY, BJ., 1982. Effects of seasonal anoxia on the watercourses by the multivariate analysis of ciliated protozoa
+community of benthic ciliated protozoa in a productive lake. populations.Acta Hydrobiol., vol. 100, no.2, p. 171-188.
+Arch. Hydrobiol., vol. 125, p. 215-222.
+-, 1993. Ciliated protozoa and water quality in the Parma River
+FOISSSNER, W., 1988. Taxonomic and nomenclatural revision (Northern Italy): long-term changes in the community structure.
+of Sláde(cid:254)ek’s list of ciliates (Protozoa: Ciliophora) as indicators Hydrobiologia, vol. 264, p. 129-135.
+of water quality. Hydrobiologia, vol. 166, p. 1-64.
+-, 2005. Ciliated protozoan communities and saprobic evaluation
+FOISSNER, W., 1991. Basic ligth and scanning electron of water quality in the hilly zone of some tributaries of the Po
+microscopic methods for taxonomic studies of ciliated protozoa. River (northern Italy). Hydrobiologia, vol. 541, p. 55-69.
+Europ. J. Protistol., vol. 27, p. 313-330.
+MADONI, P. and BASSANINI, N., 1999. Longitudinal
+FOISSNER, W., 1997. Faunistic and taxonomic studies on changes in the ciliated protozoa communities along a fluvial
+ciliates (Protozoa, Ciliophora) from clean rivers in Bavaria system polluted by organic matter. Europ. J. Protistol., vol. 35,
+(Germany), with description of a new species and ecological p.391-402.
+notes.Limonologica, vol. 27, no. 2, p. 179-238
+MADONI, P. and BRAGHIROLI, S., 2007. Changes in the
+FOISSNER, W., BERGER, H., BLATTERER, H. and ciliate assemblage along a fluvial system related to physical,
+KOHMANN, F., 1995. Taxonomische und ökologische revision chemical and geomorphological characteristics. Europ. J.
+der ciliaten des saprobiensystems - Band IV: Gymnostomates, Protistol. vol. 43, no. 2, p. 67-75.
+294 Braz. J. Biol., 68(2): 287-295, 2008
+
+Ciliates in an urban stream
+MAGURRAN, AE., 1988. Ecological diversity and its SLÀDE(cid:253)EK, V., ZELINKA, M., ROTSCHEIN, J., and
+measurement. Princeton, New Jersey: Princeton University MORACOVÁ, V., 1981. Biologický rozbor povrchové vody.
+Press. 179 p. Komentár k CSN 830532- eásti 6: Stanovi saprobniho indexu.
+Vydalo Vydavatelstvi Üradu pro normalizaci a mereni, Phara,
+NOLAND, LE., 1925. Factors influencing the distribution of
+186 p.
+fresh water ciliates. Ecology, vol. 6, p. 437-452
+SLEIGH, M., 1988. Protozoa and other Protists. New York:
+NORRIS, R. and THOMS, M., 1999. What is river health?
+Chapman and Hall. 399 p.
+Freswater Biology, vol. 41, p. 197-209.
+SOLA, A., LONGÁS, JF., SERRANO, S. and ALMUDENA,
+PACKROFF, G. and ZWICK, P., 1996. The ciliate fauna of
+A. 1996. Influence of environmental characteristics on the
+an unpolluted foothill stream, the Breitenbach, 1: qualitative
+distribution of ciliates in the River Henares (Central Spain).
+aspects.Limnologica, vol. 26, no. 3, p. 255-262.
+Hydrobiologia, vol. 324, p. 237-252.
+PAIVA, TS. and SILVA-NETO. ID., 2004. Ciliate protists
+SPARAGANO, O. and GROLILÈRE, CA., 1991. Evaluation
+from Cabiúnas lagoon (Restinga de Jurubatiba, Macaé, Rio de
+de la qualité des eaux d’une rivière avec les protozoaires
+Janeiro) with emphasis on water quality indicator species and
+ciliés comme bioindicteurs de pollution. Comparaison avec la
+description of Oxytricha marcili sp. n. Braz. J. Biol.= Rev. Bras.
+physico-chimie. Hydroecol. Applique, vol. 1, p. 43-62.
+Biol.,vol. 64, no. 3A, p. 465-478.
+STREBLE, H. and KRAUTER., D., 1985. Atlas de los
+PATTERSON, DJ., 1996. Free-living freshwater protozoa: a
+colour guide. USA: John Wiley & Sons. p. 181-191. Microorganismos de agua dulce. Barcelona: Omega. 337 p.
+PICCINNI, E. and J. GUTIÉRREZ., 1995. Protists as SUEHIRO, S. and TEZUCA, Y., 1981. Seasonal change in
+bioindicators in the environment. Protistol. Actualities, vol. 1, ciliate populations in the bottom sediment of a polluted river.
+p. 173-184. Jap. J. Limnol., vol. 42, no. 1, p. 1-7.
+PRIMC, B., 1988. Trophic relationships of ciliated Protozoa TAYLOR, WD. 1983. A comparative study of the sessile,
+developed under different saprobic conditions in the periphyton filter-feeding ciliates of several small streams. Hydrobiologia,
+of the Sava River. Period. Biol., vol. 90, no. 3, p. 349-353. vol.98, p. 125-133.
+PRIMC-HABDIJA, B., HABDIJA, I. and RADANOVIC, I., TUFFRAU, M., 1959. Un dispositif simple pour l´obsevation
+1998. Seasonal changes in trophic structure of periphytic ciliates durable in vivo des microorganismes. Hydrobiologia, vol. 18,
+in relation to discharge regime. Verh. Inter. Ver. Limnologie, no. 4, p. 316-318.
+vol.26, p. 1116-1119.
+VON-SPERLING, M. 1996. Introdução à qualidade das águas
+SALVADÓ, H., GRACIA, M. and AMIGÓ, J., 1995. Capability e ao tratamento das águas e ao tratamento de esgotos. Belo
+of ciliated protozoa as indicators of effluent quality in activated Horizonte: Universidade Federal de Minas Gerais. vol. 1.
+sludge plants. Water Res., vol. 29, no. 4, p. 1041-1050. 243p.
+SLÀDE(cid:253)EK, V., 1973. System of water quality from the WIACKOWSKI, K., 1981. Analysis of Ciliata from polluted
+biological point of view. Arch. Hydrobiol. Beih. Ergebn. sector of the River Drwinka on the basis of binary data. Acta
+Limnol., vol. 7, no. I-IV, p. 1-218. Hydrobiol., vol. 23, no.4, p. 319-329.
+Braz. J. Biol., 68(2): 287-295, 2008 295
+

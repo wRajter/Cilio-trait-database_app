@@ -1,0 +1,568 @@
+vol. 34, no. 2, pp. 201–212, 2013 doi: 10.2478/popore−2013−0008
+Vertical microzonation of ciliates in cryoconite holes
+in Ecology Glacier, King George Island
+Tomasz MIECZAN1, Dorota GÓRNIAK2, Aleksander ŚWIĄTECKI2,
+Marek ZDANOWSKI3, Monika TARKOWSKA−KUKURYK1
+and Małgorzata ADAMCZUK1
+1Katedra Hydrobiologii, Uniwersytet Przyrodniczy, ul. Dobrzańskiego 37, 20−262 Lublin, Polska
+<tomasz.mieczan@up.lublin.pl>
+2Katedra Mikrobiologii, Uniwersytet Warmińsko−Mazurski,
+ul. Oczapowskiego 1A, 10−719 Olsztyn, Polska <gorniak@uwm.edu.pl>
+3Zakład Biologii Antarktyki, Instytut Biochemii i Biofizyki, Polska Akademia Nauk,
+ul. Ustrzycka 10/12, 02−141 Warszawa, Polska <mzdanowski@arctowski.pl>
+Abstract:Therearehardlyanydataconcerningtheverticalmicro−distributionofprotozoain
+watercolumnincryoconiteholesontheglaciersurface.Suchcomparisonscanprovidein−
+sightsintotheecologyofprotozoa.ThepresentresearchwasmadeonEcologyGlacier(South
+Shetland Islands, Antarctic); vertical microzonation of ciliates in relation to physical and
+chemicalparametersincryoconiteholeswasstudied.Thedensityandbiomassofprotozoans
+significantlydifferedbetweenthestudiedstations(cryoconiteholes),withthelowestnum−
+bersinthesurfacewaterandthehighestinthebottomwater.Thesurfacewatersweredomi−
+natedbymixotrophicandomnivoroustaxa,whereasthedeepestsamplinglevelhasshownthe
+increaseoftheproportionofbacterivorespecies.OrdinationanalysisindicatedthatTNand
+P−PO canstronglyregulatetheabundanceandspeciescompositionofprotozoa.Theredun−
+4
+dancyanalyses(RDA)showedthattheciliatecommunitiescanbeseparatedintotwogroups.
+The first group included species associated with surface water: Halteria grandinella and
+Codonella sp. The second group included species that are associated with bottom water:
+Prorodonsp.,Holostichapullaster,Stylonychiamytilus−complexandsmallscuticociliates.
+Key words: Antarctic, cryoconite holes, protozoa, biodiversity.
+Introduction
+Cryoconite holes arerelatively small, shallow, straight−sided holes with con−
+cavebottoms.Theytendtobenotmorethan50–60cmindepth(Säwströmetal.
+2002).Cryoconiteholescancover0.1–10%ofthesurfaceoftheglacier(Anesioet
+al.2009).Cryoconiteholesarecreatedwhenwind−blownsedimentpreferentially
+Pol. Polar Res.34 (2): 201–212, 2013
+Brought to you by | Instytut Biochemii I Biofizyki Pan
+Authenticated | 212.87.28.5
+Download Date | 6/4/13 7:59 AM
+
+202 Tomasz Mieczanet al.
+melts at the ice surface due to its relatively low albedo. Over time, the holes be−
+come roughly circular and water filled with black cryoconite material at the bot−
+tom(MuellerandPollard2004;AnesioandLaybourn−Parry 2012).Investigation
+of the structure and function of glaciers ecology relate mainly to the bacteria
+(Anesio et al. 2007). In cryoconite holes the animal communities, especially
+meiofauna(e.g.copepods,nematodesandtardigrades),arewellknown(Anesioet
+al. 2007). However, ecologists have paid little attention to ciliates in cryoconite
+holes, compared to other habitats. Although these microorganisms are important
+consumersofpico−andnano−sizedproducers,aswellasnutrientregeneratorsand
+importantfoodsourcesofmetazoan(PierceandTurner1992),moststudiesinpo−
+larregionspaidattentiontociliatesoflakeecosystemsandsoilsonly(Petz1997;
+Roberts et al. 2004; Bamforth et al. 2005). So far ciliated protozoans were ob−
+served incryoconite holes, usually insediment, but inmostcasesno attempt has
+been made to identify them (Mueller et al. 2001, Porazinska et al. 2004). Due to
+clear diversification of chemical conditions of the water in the micro−vertical ar−
+rangement (present study), it seems that a similar differentiation should be ex−
+pected in case of ciliates. There are hardly no data concerning the vertical mi−
+cro−distribution ofprotozoainwatercolumninthecryoconiteholes.Thesecom−
+parisonscanprovideinsightsintotheecologyofciliates.Sofar,researchershave
+onlycomparedsurfaceandbottomwatersincryoconiteholesinrespecttospecies
+diversityandbacterialabundanceinthesemicro−habitats(Anesioetal.2009).On
+theotherhand,thestudiesperformedbySäwströmetal.(2007)onciliategroups
+inSvalbardglaciercryoconitessupportasmallnumberofspeciesandacleardom−
+ination of haptorid ciliate genus Monodinium and oligotrichs Halteria spp. and
+Strombidium spp. However, there are still no studies comparing protozoan com−
+munity composition and the factors conditioning their occurrence in cryoconite
+hole surfaceandbottom watermicro−habitats. Toaddresstheseknowledge gaps,
+weevaluatedthefollowinghypotheses:(i)speciesrichnessandtheabundanceof
+ciliatesrevealadistinctverticalmicrozonation;(ii)thediversificationofphysical
+andchemicalparametersofsurfaceandbottomwatersmayhaveinfluenceonthe
+abundance and the trophic structure of protozoan communities.
+Study area
+SampleswerecollectedfromEcologyGlacierlocatedontheKingGeorgeIs−
+land(SouthShetlandIslands,WestAntarctic)(Fig.1).Climateofthisislandcan
+becharacterizedbyarapidsuccessionofeastwardmovinglowpressuresystems,
+which transport relatively warm,humid air towards the coast of Antarctica (Bin−
+tanja 1995; Birkenmajer 2002). This is the cause of the relatively high annual
+mean temperature (2.0(cid:2)C) and humidity (82%) at Arctowski Station, situated on
+the south−eastern side of the island (Martianov and Rakusa−Suszczewski 1989).
+Brought to you by | Instytut Biochemii I Biofizyki Pan
+Authenticated | 212.87.28.5
+Download Date | 6/4/13 7:59 AM
+
+Vertical microzonation of ciliates in cryonite holes 203
+EzcurraInlet
+A
+d
+mir
+alty
+B
+ay
+62°10’S
+GEORGEISLAND roloB
+GlacE iec gy
+A
+KINGE
+B50m
+Ecology
+Glacier
+STRAIT 100m
+BRANSFIELD 90°
+200m
+180° 58°30’W
+Fig. 1. Location of study area and sampling sites on Ecology Glacier (Admiralty Bay):
+A, transect with 7 sites; B, sites outside the transect.
+During summer, the mean temperature is well above zero. Precipitation varies
+from500mmyr−1atsea−leveltoapproximately2000mmyr−1atthesummitofthe
+island (Martianov and Rakusa−Suszczewski 1989). The Ecology Glacier drains
+partoftheWarszawaIcefield.Duringthepastdecadearapidretreatoftheseval−
+ley−typetidewaterglaciershasbeenobserved.Ithasbeenundercontinuousreces−
+sionsinceatleast1956/1957. From1957to1989itretreatedatarateof4–4.5m
+peryear.Theretreatrapidlyacceleratedinthepastdecade(1989–1999),reaching
+arateofupto30mperyear(Gryziak2009).Microbialcommunitiesweresampled
+from62(cid:2)10.404'S,58(cid:2)28.546'W,85–145 ma.s.l.to62(cid:2)10.226'S,58(cid:2)28.268'W,
+40 m a.s.l. Samples were taken from a zone in the mid−parts of the ablation area.
+Material and methods
+ProtozoancommunitieswereexaminedincryoconiteholeslocatedonEcology
+Glacier(Fig.1).Samplingwasdonefrom17Januaryto24February2012.Samples
+werecollectedfromninesites.Atransectofsamplingsiteswasestablishedalongthe
+ablation zone of the glacier (seven cryoconite holes, Fig. 1A), and two additional
+siteswerelocatedinthemedialedgesoftheglacier,approximatelyhalfwayalong
+the transect (two cryoconite holes, Fig. 1B). In each cryoconite hole two samples
+weretakenfromsurfacewater–SW(0–5cmthick/adjacentwaterlayer)andbottom
+water – BW (water layer at thebottomsurfaceand/or water between bottomsedi−
+ments)(Fig.2).Waterandwaterwithsedimentswassampledusingaplasticpipette
+(length15cm,Ø50mm).Threesubsamples,about10mleach,werepoolledintoa
+calibrated vessel to form a composite sample (30 ml) of water or water/sediment.
+20mlofthissamplewaspreservedimmediatelywithLugol’ssolution(0.2%final
+concentration),settledinglasscolumnforover24hinthelaboratory,andthencon−
+Brought to you by | Instytut Biochemii I Biofizyki Pan
+Authenticated | 212.87.28.5
+Download Date | 6/4/13 7:59 AM
+
+204 Tomasz Mieczanet al.
+surfacesamples
+5–10cm
+bottomsamples
+3–10cm
+Fig. 2. Scheme of the sampling points in cryoconite hole.
+centratedto10mlbysedimentation.Ciliatesfrom0.1mloftheconcentratedsample
+werecountedusingamicroscopeat400–1000×magnification.Theabundanceof
+microorganisms was calculated in 1 ml of water. The species were determined by
+meansofthefollowingmethods:intravital–colouringvacuoleswithindifferentred
+(whichcancolourthemacronucleus)andmicro−andmacro−nucleuswithmalachite
+green(Leeetal.1985);Fernandezo−Galianomethod–colouringthecellstructures
+in ammoniacal solution (kinetosomes, micro− and macronucleus) (Fernandezo−
+Galiano 1994). Trophicidentification wasdoneusing themethod by Foissner and
+Berger (1996). Ciliate biomass was estimated by multiplying the numerical abun−
+dancebythemeancellvolumecalculatedfromdirectvolumemeasurementsusing
+appropriategeometricformulas(Finlay1982).
+Water samples for chemical analyses were taken simultaneously with micro−
+bialsamples.Temperature,oxygen,pHandconductivity weredeterminedinsitu
+usingCX−461multiparameterwaterqualitysonde(Elmetron,Poland),andthere−
+mainingvariables(N ,P ,N−NH ,P−PO )wereanalysedinthelaboratoryusing
+tot tot 4 4
+a VEGA 400 spectrophotometer equipped with a TR320 thermoreactor Spectro−
+quant (Merck, Germany).
+One−way analysis of variance (ANOVA) was used to compare mean abun−
+dancesandspeciesrichnessofciliatesbetweensurfacewaterandbottomwaterof
+cryoconite. The analysis was performed using STATISTICA 7.0 software.
+Ordination techniques were used to describe the relationships between the
+abundanceofciliatesincryoconiteholesurfaceandbottomwaterandenvironmen−
+tal variables. The length of the gradient indicated by a detrended correspondence
+analysis of ciliate abundance was 2.08 SD, which suggests that principal compo−
+nentanalysis(PCA)andredundancyanalysis(RDA)areappropriatemethod(Ter
+Braak 1992). PCA was performed in order to specify separation between surface
+water and bottom water habitats. RDA was used to recognize the most important
+environmental variables which determine abundances of ciliates in surface water
+Brought to you by | Instytut Biochemii I Biofizyki Pan
+Authenticated | 212.87.28.5
+Download Date | 6/4/13 7:59 AM
+
+Vertical microzonation of ciliates in cryonite holes 205
+andbottomwaterofcryoconite.Theordinationanalyseswereperformedbymeans
+ofCANOCO4.5forWindows.DiversityanalysisapplyingShannon−Wienerindex
+wasperformedusingtheMultivariateStatisticalPackage–MVSP.
+Results
+Physical and chemical parameters, diversity and abundance. — Water
+temperatureamongsitesandsamplesrangedfrom0to−0.3±0.2(cid:2)C.ThepHranged
+from8.3to8.6±1.3, dissolvedoxygenfrom8.80to11.2mgl−1,andconductivity
+fluctuated between 0.29 and 3.4±0.4 μS cm−1. Nutrients level in the water of
+cryoconiteswerelow,withN rangingfrom0.9to2.0±0.3mgNl−1,N−NH from
+tot 4
+0.045to0.125±0.022mgNl−1,P from0.01to0.25±0.01mgPl−1andP−PO be−
+tot 4
+tween0.08and0.38±0.04mgPO l−1.Micro−verticaldifferenceswerenotedinthe
+4
+conductivity and concentrations of nutrients. Conductivity ranged from 0.30 μS
+cm−1in surface water to 2.9–3.4 μS.cm−1 in bottom water. Nutrients reached the
+highest values in the bottom water (N > 1.0 mg N l−1, N−NH from 0.098 to
+tot 4
+0.125mgNl−1,P from0.22to0.25mgPl−1andP−PO between0.28and0.38mg
+tot 4
+PO l−1), which were considerably lower in surface water with N ranging to
+4 tot
+0.9mgNl−1,N−NH from0.045to0.056mgNl−1,P from0.01to0.15mgPl−1
+4 tot
+and P−PO between 0.08 and 0.16 mg PO l−1.
+4 4
+Thehighestnumbersofciliatestaxaoccurredinthebottomwater(16taxa)and
+weremuchlowerinsurfacewaterwhereonlyfiveciliatetaxawereidentified.Ac−
+cordingly the diversity analysis revealed a mean Shannon−Wiener diversity index
+(H)of2.35.Thehighestdiversitywasmeasuredinbottomwater(H=3.2),andthe
+lowestdiversitywasobservedinsurfacewater(H=1.2).Themostfrequenttaxain
+surfacewaterwereHalteriasp.andProrodonsp.Threetaxahadfrequencies<5%.
+InbottomwaterthemostfrequentwereProrodonsp.,Holostichapullaster,Stylo−
+nychia mytilus−complex and scuticociliates (Cinetochilum margaritaceum) (Table
+1). Mean abundances of ciliates were significantly higher (ANOVA, F = 92.97;
+P < 0.001) in bottom water (21 cells ml−1) than in surface water samples (17 cells
+ml−1) (Table 1). Similarly, significantly higher biomass (ANOVA, F = 103.95;
+P < 0.001) was observed in bottom water (1.23 μg C ml−1) than in surface water
+(0.21 μg C ml−1). Distinct micro−vertical differences were noted in the domination
+structure(%intotalnumbersofciliates).Oligotrichs,suchasCodonellacrateraand
+Halteriagrandinella,dominatedinthesurfacewater.Inbottomwaterthecommu−
+nitywaspredominantlycomposedofProrodonsp.,Hypotrichida(e.g.Oxytrichasp.
+andHolostichasp.)andscuticociliates.Ciliatefeedinggroupsconsistedofbacteri−
+vores,algae−diatomfeeders,mixotrophicones,predators,andomnivores(Table1).
+Algivores and mixotrophic taxa clearly dominated in surface water. In turn, sedi−
+mentsweredominatedbybacterivorousandomnivorousciliates,at25–30%ofthe
+totalnumber.
+Brought to you by | Instytut Biochemii I Biofizyki Pan
+Authenticated | 212.87.28.5
+Download Date | 6/4/13 7:59 AM
+
+206 Tomasz Mieczanet al.
+A 0
+2.
+7
+Bottomwater
+9
+6
+14
+1517
+18
+1
+11
+1316 2
+10
+12 8
+3
+5
+Surfacewater
+4
+0
+1.
+-
+-1.0 1.5
+B 6 Col.cuc
+0. Eupl.sp. Oxyt.sp.
+Hal.gra
+Cyrtoph
+Hol.pul
+Dre.rev
+Urot.sp.
+Zost.sp.
+Sty.myt
+Cyae.sp.
+Cod.cra
+Cin.mar
+Par.put
+Holo.sp.
+Pror.sp.
+8
+0.
+-
+-1.0 1.0
+Fig.3.PrincipalComponentsAnalysisbiplotsforaxes1and2showing:A,surfaceandbottomwater
+ofcrioconite;B,ciliatesspecies.SamplescollectedinstudiedzonesaremarkedwithanArabicnu−
+meral:1–9bottomwater;10–18surfacewater.(Cyrtoph.–Cyrtophorida,Cin.mar–Cinetochilum
+margaritaceum, Cod. cra– Codonella cratera, Col. cuc– Colpoda cucullus, Cyae.sp.– Caeno−
+morpha spp., Dre. rev. – Drepanomonas revolute, Eupl. sp. – Euplotes sp., Hal. gra – Halteria
+grandinella,Holo.sp.–Holophryasp.,Hol.pul–Holostichapullaster,Oxyt.sp.–Oxytrichasp.,
+Par.put–Parameciumputrinum,Pror.sp.–Prorodonsp.,Sty.myt–Stylonychiamytilus−complex,
+Urot. sp. –Urotrichasp.,Zost. sp. –Zosterodasyssp.).
+Brought to you by | Instytut Biochemii I Biofizyki Pan
+Authenticated | 212.87.28.5
+Download Date | 6/4/13 7:59 AM
+
+Vertical microzonation of ciliates in cryonite holes 207
+A 0
+1.
+Cod.cra
+Cyrtoph
+Dre.rev Pror.sp.
+Zost.sp. Holo.sp.
+Urot.sp.
+Par.put
+Sty.myt
+Cyae.sp.
+Hal.gra
+Oxyt.sp. Hol.pul
+Cin.mar
+Col.cuc
+Eupl.sp.
+0
+1.
+-
+-0.8 1.0
+B 0 Hol.pul
+1.
+Pror.sp.
+Hal.gra
+Oxyt.sp.
+Holo.sp.
+Cod.cra
+6
+0.
+-
+-1.0 1.0
+Fig.4.RedundancyAnalysis(RDA)biplotsformicroverticaldistributionofciliatesincrioconite
+holes:A,samplescollectedinbottomwaterandenvironmentalvariables;B,samplescollectedinsur−
+facewaterandenvironmentalvariables.Thelengthofarrowindicatesthesignificanceofenviron−
+mental variable.
+Brought to you by | Instytut Biochemii I Biofizyki Pan
+Authenticated | 212.87.28.5
+Download Date | 6/4/13 7:59 AM
+
+208 Tomasz Mieczanet al.
+Table 1
+Thecomposition,frequency(%ofsamples)andabundancesofciliatesfoundincryoconite
+holes on Ecology Glacier.
+Frequence Mean abundance
+(% of samples) (ind.ml−1)
+Size Feednig
+Taxon habitat type habitat type
+(μm) groups*
+surface bottom surface bottom
+water water water water
+Cyrtophorida >50 B 0 100 0 1
+Cinetochilum margaritaceum
+<50 B, A 0 61 0 2
+(Ehrenberg, 1831)
+Codonella cratera(Leidy, 1877) >50 A 45 10 6 1
+Colpoda cucullusMuller, 1773 >50 O 0 100 0 2
+Caenomorphaspp. >50 B 0 100 0 3
+Drepanomonas revolutaPenard, 1922 <50 B 0 30 0 1
+Euplotes sp. >50 O 0 61 0 1
+Halteria grandinella(Müller, 1773) <50 B, A 0 10 0 1
+Holophryasp. >50 O 15 50 4 1
+Holosticha pullaster(Müller, 1773) >50 B, A 0 10 0 1
+Oxytrichasp. >50 O 10 100 2 2
+Paramecium putrinum
+>50 O 10 30 2 1
+ClaparedeetLachmann, 1859
+Prorodonsp. >200 P 30 90 3 1
+Stylonychia mytilus−complex >200 O 0 30 0 1
+Urotrichasp. <50 B, A 0 40 0 1
+Zosterodasyssp. >200 A 0 40 0 1
+Total species number: 16 5 16
+Mean abundance: 17 21
+*Feedinggroups:A–algivores,B–bacterivores,M–mixotrophic,O–omnivores,P–predators
+(Foissner and Berger 1996).
+Table 2
+Redundancyanalysis:inter−setcorrelationofenvironmentalvariableswithaxes1and2of
+RDA for cryoconite hole bottom and surface water.
+Bottom water Surface water
+Environmental Environmental Environmental Environmental
+Variable
+Axis 1 Axis 2 Axis 1 Axis 2
+Temperature −0.182 −0.709 −0.615 0.461
+Conductivity −0.030 −0.737 −0.625 0.314
+pH −0.027 −0.746 −0.609 0.284
+O 0.270 0.684 0.398 −0.319
+2
+N−NH 0.063 0.559 0.523 −0.204
+4
+TN −0.089 0.776 0.802 −0.216
+P−PO −0.056 −0.563 −0.453 0.235
+4
+TP −0.176 0.314 0.384 −0.067
+Brought to you by | Instytut Biochemii I Biofizyki Pan
+Authenticated | 212.87.28.5
+Download Date | 6/4/13 7:59 AM
+
+Vertical microzonation of ciliates in cryonite holes 209
+Table 3
+SummaryofRDAofciliatesandenvironmentalvariablesfromcryoconiteholebottomand
+surface water and the significance of individual variables.
+Bottom water Surface water
+Variable
+% F Pvalue % F Pvalue
+Temperature 24.0 0.41 0.760 25.0 1.23 0.362
+Conductivity 20.0 0.24 0.834 34.0 1.57 0.190
+pH 37.0 1.19 0.320 45.0 1.28 0.292
+O 51.0 1.28 0.252 17.0 1.11 0.394
+2
+N−NH 1.0 0.22 0.740 4.0 0.04 0.102
+4
+TN 30.0 0.49 0.782 56.0 4.65 0.008
+P−PO 57.0 5.63 0.006 8.0 1.54 0.340
+4
+TP 8.0 0.58 0.654 1.0 1.74 0.418
+Relations between ciliates and environmental variables. — In PCA dia−
+gram the first two axes separate ciliates between surface and bottom water of
+cryoconite(Fig.3A).Axis1(l=0.544)andaxis2(l=0.218)explained76.2%of
+thetotalvarianceintheciliatesdata.Theabundancesofciliateswasmoststrongly
+correlatedwiththemaindirectionofvariation(Axis1),withsamplescollectedin
+bottomwater(Fig.3B).Theabundanceofmostciliatestaxaincreasedtowardbot−
+tomwater,withexceptionoftwociliatespecies,Halteriagrandinella andCodo−
+nella cratera. These two species seem to prefer surface water habitat and were
+rarely presented in bottom water samples (Fig. 3B). Axis 2 appeared to separate
+ciliate community collected in surface water from bottom water.
+Thedirect relationshipsbetween abundanceofciliatesand environmental vari−
+ables were specified using redundancy analysis (RDA). The results of analysis
+showeddifferencesbetweensurfaceandbottomwaterhabitats(Fig.4).Forbottom
+water all variables together explained 40.2% of total variance in community struc−
+ture.Axis2showedveryhighcorrelationswithmostenvironmentalvariables,corre−
+lationcoefficientsexceeded0.6;onlyN−NH ,TPandP−PO showedlowercorrela−
+4 4
+tionvalues(Table2).Temperature,conductivity,pH,O andTNcorrelatedwiththe
+2
+abundanceofciliatesinbottomwaterofcryoconiteholes.Forsurfacewaterallvari−
+ablestogetherexplained79.4%oftotalvariance.Axis1showedthehighestcorrela−
+tionwithTN,conductivity,temperatureandpH(Table2).Thesevariablesarethere−
+foreassociatedwiththeabundanceofciliatespeciesinsurfacewater.Valuesofcor−
+relationcoefficientsbetweenenvironmentalvariablesandAxis2didn'texceed0.5.
+TheRedundancyAnalysisofindividualenvironmentalvariablesrevealedthat
+the proportion of ciliates data explained by each of variable and the significance
+variedstronglyamongvariablesandamongsurfaceandbottomwater(Table3).In
+the separate RDAs on bottom water and surface water samples, TN and P−PO
+4
+weresignificant.ThehighestproportionofvarianceinbottomwaterexplainedO
+2
+and P−PO and in surface water – TN and pH.
+4
+Brought to you by | Instytut Biochemii I Biofizyki Pan
+Authenticated | 212.87.28.5
+Download Date | 6/4/13 7:59 AM
+
+210 Tomasz Mieczanet al.
+Discussion
+Intotal,16ciliatetaxawererecordedinthecryoconiteholes.Thenumberofcili−
+ate species found in the cryoconite holes during the study period was higher than
+thosereportedfromglacierecosystemsbyotherscientists.OnaglacierintheArctic
+archipelago of Svalbard only four species of ciliates occurred (Säwström et al.
+2002). The population density of ciliates in our study ranged from 14 cells ml−1to
+21 cellsml−1.Forcomparison,in thecryoconiteholesin aSvalbard glacier,ciliate
+numberswere10cellsml−1(Säwströmetal.2002).However,therearenocompara−
+tive data available regarding the micro−vertical diversity of these microorganisms.
+Theincreaseinabundanceofprotozoainthebottomwatermaybetheresultofprof−
+itablefeedingconditions.Thebottomwaterwascharacterizedbythepresenceofor−
+ganicandmineralmaterials.Suchatypeofenvironmentcouldenhanceamassive
+developmentofciliates.Theresultspresentedshowthatprotozoaabundanceisre−
+latedtonutrientconcentrations.Itseemsthatnutrientshaveanindirectinfluenceon
+theprevalenceofprotozoathroughthecontroloffoodabundance(mainlybacteria).
+Temperatureisanotherfactorapparentlyinfluencingsuccessionofciliates.Accord−
+ingtoBeaverandCrisman(1990)thegrowthandreproductionoffreshwaterciliates
+arestronglycorrelatedwithtemperature.AsshownbypreviousresearchbyFinlay
+(1980)thewatertemperaturehasadditionallyasignificantinfluenceontheoccur−
+renceofgroupsofciliatesinsignificantlyfertilereservoirs.Inthecryoconites,itwas
+ascertainedthattemperaturecorrelatedwiththenumberofciliates.
+Ciliatefeedinggroupsconsistedofbacterivores,algivores,mixotrophic,preda−
+torsandomnivores.Algivorousandmixotrophictaxaprevailedinthesurfacewater.
+Thebacterivorousandomnivorousciliatesweremoreabundantinthebottomwa−
+ters. This vertical micro−distribution of algivorous and bacterivorous ciliates was
+similar to that previously observed in shallow lakes (Jacquet et al. 2005). In this
+study,ciliatescommunitywasmainlycomposedofgeneraProrodon,Oxytrichaand
+Cinetochilum.Thecommunitycompositionofprotozoansvariedgreatlywithdepth.
+Inthesurfacewaterthemostnumerouswereoligotrichs.However,theabundanceof
+oligotrichs decreased quickly with depth. In the bottom water small−sized scuti−
+cociliates, which are known to be effective filter−feeding bacterivores, were very
+abundant. It has also been suggested that scuticociliates tend to concentrate at the
+bottom,wherebacterialproductivityishigh.Thisgroupofciliatespresentsanop−
+portunistic bacterivorous behaviour (Foissner and Berger 1996). The species be−
+longing to Oligotrichida have also been observed in Svalbard glacier cryoconites
+(Säwström et al. 2002). The dominance of Hypotrichida was observed in moss in
+Gough and Marion Islands(Foissner 1996). Thedomination of theseorderscould
+haveresultedfromwideecologicaltolerance.Oxytrichasp.wasuntilnowreported
+fromEurope,IsraelandSouthAustralia(Berger1999)andthusmightpossiblyhave
+acosmopolitandistribution.AccordingtoMaceketal.(2001),therateoffeedingon
+bacteria by a single Scuticociliatida individual amounts to 210 bacterial cells per
+Brought to you by | Instytut Biochemii I Biofizyki Pan
+Authenticated | 212.87.28.5
+Download Date | 6/4/13 7:59 AM
+
+Vertical microzonation of ciliates in cryonite holes 211
+hour, whereas for Oligotrichida and Colpodea individuals it ranges from 180 to
+1700bacterialcellsperhour.TherelativelyhighdensityofthoseCiliatasuggests
+theircrucialimportanceincontrollingnumbersofbacteria.
+Inconclusion, thepresentstudyshowedclearverticalmicro−distribution pat−
+ternsofciliates.Boththehighestnumberoftaxa,abundanceandbiomassofproto−
+zoanswereobservedinthebottomwater,andthelowestvalueswerenotedinsur−
+facewater.Thetrophicstructureofprotozoanschangedalsowithdepth.Thesur−
+facewaterzone wasdominated by large−sized mixotrophic and omnivorous spe−
+cies,while,withdepth,theshareoffinebacterivoresincreased.Theresultsofthis
+studysuggestthattheTNandP−PO aremoreimportantthanpHandtemperature
+4
+in vertical distribution of ciliates.
+Acknowledgments. — We thank our colleagues Marta Nieckarz and Adam Latusek for
+their invaluable technical assistance during samples collecting.
+References
+ANESIOA.M,HODSONA.J.,FRITZA.,PSENNERR.andSATTLERB.2009.Highmicrobialactivity
+on glaciers: importance to the global carbon cycle.Global Changes Biology15: 955–960.
+ANESIOA.M.andLAYBOURN−PARRYJ.2012.Glaciersandicesheetsasabiome.TrendsinEcology
+and Evolution4: 219–225.
+ANESIOA.M.,MINDLB.,LAYBOURN−PARRYJ.,HADSONA.J.andSATTLERB.2007.Viraldynam−
+icsincryoconiteholesonahighArcticglacier(Svalbard).JournalofGeographicResearch112:
+G04S31.
+BERGERH.1999.MonographofOxytrichidae(Ciliophora,Hypotrichida).Kulwer,Dordrecht:1080pp.
+BAMFORTHS.S.,WALLD.H.andVIRGINIAR.A.2005.Distributionanddiversityofsoilprotozoain
+the McMurdo Dry Valleys of Antarctica.Polar Biology28: 756–762.
+BEAVERJ.R.andCRISMANL.T.1990.Seasonalityofplanktonicciliatedprotozoain20subtropical
+Florida lakes of varying trophic state.Hydrobiologia190: 127–135.
+BINTANJAR.1995.ThelocalsurfaceenergybalanceoftheEcologyGlacier,KingGeorgeIsland,
+Antarctica: measurements and modeling.Antarctic Science3: 315–325.
+BIRKENMAJER K. 2002. Retreat of Ecology Glacier, Admiralty Bay, King George Island (South
+ShetlandIslands,WestAntarctica),1956–2001.BulletinofPolishAcademyofSciences,Earth
+Sciences50: 15–29.
+FERNANDEZ−GALIANOD.1994.Theammoniacalsilvercarbonatemethodasageneralprocedurein
+the study of protozoa from sewage (and other) waters.Water Research28: 495–496.
+FINLAYB.J.1980.Temporalandverticaldistributionofciliophorancommunitiesinthebenthosofa
+smalleutrophiclochwithparticularreferencetotheredoxprofile.FreshwaterBiology10:15–34.
+FOISSNERW.1996.Terrestialciliates(Protozoa,Ciliophora)fromtwoislands(Gough,Marion)inthe
+southern oceans, with description of two new species, Arcuospathidium cooperi and Oxytricha
+ottowi.ArchivfürProtistenekology23:282–291.
+FOISSNERW.andBERGERH.1996.Auser−friendlyguidetotheciliates(Protozoa,Ciliophora)com−
+monlyusedbyhydrobiologistsasbioindicatorsinrivers,lakesandwastewaters,withnoteson
+their ecology.Freshwater Biology35: 375–470.
+FINLAYB.J.1982.Proceduresfortheisolation,cultivationandidentificationofprotozoa.Experi−
+mental Microbial Ecology1: 44–65.
+Brought to you by | Instytut Biochemii I Biofizyki Pan
+Authenticated | 212.87.28.5
+Download Date | 6/4/13 7:59 AM
+
+212 Tomasz Mieczanet al.
+GRYZIAKG.2009.Colonizationbymitesofglacier−freeareasinKingGeorgeIsland,Antarctica.
+Pesquisa Agropecuária Brasileira8: 891–895.
+JACQUETV.,LAIRN.,HOFFMANNL.andCAUCHIEH.M.2005.Spatio−temporalpatternsofproto−
+zoancommunitiesinameso−eutrophicreservoir(Esch−sur−Sure,Luxemburg).Hydrobiologia
+551: 49–60.
+LEEJ.J.,SMALLE.B.,LYNND.H.andBOVEEE.C.1985.Sometechniquesforcollecting,cultivating
+andobservingProtozoa.In:J.J.Lee,S.H.HutnerandE.C.Bovee(eds)AnIllustratedGuideto
+the Protozoa. Society of Protozoologists, Allen Press, Lawrence, Kansas: 1–7.
+LEGENDREP.andGALLAGHERE.D.2001.Ecologicallymeaningfultransformationsforordination
+of species data.Oecologia129: 271–280.
+MARTINOVV.andRAKUSA−SUSZCZEWSKIS.1989.TenyearsofclimateobservationsattheArctowski
+andBellingshausenStation(KingGeorgeIslands,SouthShetlands,Antarctic.In:A.Breymeyer
+(ed.)GlobalChangeRegionalResearchCentres:ScientificProblemsandConceptDevelopments.
+PolishAcademyofSciences,Warsaw:80–90.
+MACEKM.,SIMEKK.andBITTLT.2001.Conspicuouspeakofoligotrichousciliatesfollowingwin−
+ter stratification in a bog lake.Journal of Plankton Research23: 353–363.
+MUELLERD.R.andPOLLARDW.H.2004.Gradientanalysisofcryoconiteecosystemsfromtwopo−
+lar glaciers.Polar Biology27: 66–74.
+MUELLERD.R.,VINCENTW.F.,POLLARDW.H.andFRISTENC.H.2001.Glacialcryoconiteecosys−
+tems: a bipolar comparison of algal communities and habitats. Nova Hedvigia, Beiheft 123:
+173–197.
+PETZ W. 1997. Ecology of the active soil microfauna (Protozoa, Metazoa) of Wilkes Land, East
+Antarctica.Polar Biology18: 33–44.
+PIERCER.W.andTURNERJ.T.1992.Ecologyofplanktonciliatesinmarinefoodwebs.Reviewof
+Aquatic Sciences6: 139–181.
+PORAZIŃSKAD.L.,FOUNTAINA.G.,NYLENT.H.,TRANTERM.,VIRGINIAR.A.andWALLD.H.
+2004.ThebiodiversityandbiogeochemistryofcryoconiteholesfromMcMurdoDryValleygla−
+ciers, Antarctica.Arctic, Antarctic and Alp Research36: 84–91.
+ROBERTSE.C.,PRISCUJ.C.,WOLFC.,LYONSB.andLAYBOURN−PARRYJ.2004.Thedistribution
+ofmicroplanktonintheMcMurdoDryValleyLakes,Antarctica:responsetoecosystemlegacy
+or present−day climatic control?Polar Biology27: 238–249.
+SÄWSTRÖMC.,MUMFORDP.,MARSHALLW.,HADSONA.andLAYBOURN−PARRYJ.2002.Themi−
+crobialcommunitiesandprimaryproductivityofcryoconiteholesinArcticglacier(Svalbard
+79(cid:2)N).Polar Biology25: 591–596.
+SÄWSTRÖMC.,ANESIOA.M.,GRANÈLIW.andLAYBOURN−PARRYJ.2007.Seasonalviralloopdy−
+namics in two ultra−oligotrophic Antarctic freshwater lakes.Microbial Ecology53: 1–11.
+TERBRAAKC.J.F.1992.CANOCO−FORTRANprogramforCanonicalCommunityOrdination(ver−
+sion 2.1). Ithaca, Microcomputer Power 96, New York.
+Received 15 June 2012
+Accepted 4 February 2013
+Brought to you by | Instytut Biochemii I Biofizyki Pan
+Authenticated | 212.87.28.5
+Download Date | 6/4/13 7:59 AM
+

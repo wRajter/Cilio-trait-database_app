@@ -1,0 +1,681 @@
+AQUATIC MICROBIAL ECOLOGY
+Vol. 22: 79–91, 2000 Published July 21
+AquatMicrob Ecol
+Benthic ciliate identification and enumeration: an
+improved methodology and its application
+Stephen Wickham1,*, Armin Gieseke2, Ulrike-G. Berninger3
+1Zoological Institute, University of Cologne, Weyertal 119, 50923 Cologne, Germany
+2Max Planck Institute for Marine Microbiology, Molecular Ecology Group, Celsiusstr. 1, 28359 Bremen, Germany
+3Institut für Meereskunde der Christian-Albrechts-Universität Kiel, Abt. Meeresbotanik, Düsternbrooker Weg 20,
+24105 Kiel, Germany
+ABSTRACT: The study of the ecological role played by benthic ciliates is hampered by the lack of a
+methodology to accurately enumerate benthic ciliates with good taxonomic resolution. As a result, a
+technique was developed that combined 2 previously published methods developed to identify and
+count pelagic ciliates and benthic flagellates, respectively. The new method utilizes centrifugation in a
+non-linear density gradient to separate ciliates from sediment, and the QPS (quantitative protargol
+stain) silver-staining technique to stain the cilia and nuclei of ciliates which, after centrifugation, are
+concentrated on cellulose nitrate filters. The wide applicability of the method was shown by utilizing it
+to count and identify ciliates in cores taken from intertidal sediment and sampled on a 2 mm depth in-
+terval. The intertidal cores had a total of 41 species or morphotypes present, but no more than 21 spe-
+cies or morphotypes in any single 2 mm layer. Total ciliate abundance was as high as 2500 cells ml–1,
+with the upper layers having higher abundance than deeper layers. There was no obvious pattern with
+depth either for the number of species found in any one layer, or for ciliate diversity. The method was
+further utilized in an experiment that explored the interactions between benthic ciliates and the ostra-
+cod Cyrideis trosa. Ostracods reduced the final abundance of ciliates, but this effect was confined to
+the upper 5 mm of sediment. Two-thirds of the ostracods were found in the 5–10 mm layer at the end of
+the experiment, but while there was an effect on ciliate diversity in this layer, there was no effect on to-
+tal ciliate abundance. We conclude that the method is suitable for studying both the natural distribu-
+tion and diversity of benthic ciliates and their response to experimental manipulations.
+KEY WORDS: Benthic ciliate distribution · Benthic ciliate enumeration · Benthic ciliate identification ·
+Ostracod
+Resale or republication not permitted without written consent of the publisher
+INTRODUCTION 1997). Nevertheless, the trophic role of benthic ciliates
+is not nearly as well understood as that of pelagic cili-
+The diversity and functional role of ciliates has been ates. While simply knowing the number of species in
+a recent topic of discussion in the literature (Finlay et an area of a given size has yielded a wealth of infor-
+al. 1996, Fenchel et al. 1997, Finlay & Esteban 1998). mation central to community ecology (e.g. MacArthur
+While the functional role and abundance of pelagic & Wilson 1967, Tilman & Downing 1994), many other
+ciliates is reasonably well understood, research on questions, such as those about species distribution pat-
+benthic ciliates is not as advanced. Work with natural terns, ecosystem stability, and biotic diversity, require
+communities of benthic ciliates has shown distribution not only species number, but the abundance or bio-
+patterns in response to abiotic and biotic factors mass of individual species (e.g. MacArthur 1957, Hair-
+(Fenchel 1969, Epstein & Gallagher 1992, Berninger & ston 1969, Brown 1984, Tilman 1996). Clearly, hypo-
+Epstein 1995, Epstein 1997, Lucchesi & Santangelo theses about benthic protist community associations or
+about predator-prey or competitive trophic relation-
+ships require both the number of species or trophic
+*E-mail: steve.wickham@uni-koeln.de groups, and the abundance of individuals of the
+© Inter-Research 2000
+
+80 AquatMicrob Ecol 22: 79–91, 2000
+species or group. Ecologically important differences the dye fades, that the ciliature is not well stained, re-
+between morphospecies in the genus Euplotes have stricting the degree of taxonomic resolution, that there
+already been demonstrated (Dini & Nyberg 1999), is sometimes background fluorescence from remaining
+emphasizing the importance of combining good taxo- detritus particles, and that no permanent record of the
+nomic resolution with accurate enumeration of benthic sample remained.
+ciliates. It has been hypothesized that benthic ciliates In this paper we outline a method that allows benthic
+consume only a minor amount of benthic bacterial pro- ciliates to be enumerated with good taxonomic resolu-
+duction (Kemp 1988, 1990, Epstein & Shiaris 1992), but tion, and that creates a permanent record of the sam-
+without satisfactory methods for enumerating benthic ple. The methodology is a combination of the non-lin-
+ciliates and differentiating between species the hypo- ear density gradient method of Starink et al. (1994) and
+thesis cannot be adequately tested. the staining procedure of Montagnes & Lynn (1987).
+A major reason for the lack of understanding of ben- We then applied the technique in both field and labo-
+thic protists is the methodological difficulties encoun- ratory studies. The field work involved enumerating
+tered when working with benthic organisms. Gradi- the ciliates in intertidal sediment samples at a fine
+ents of light, oxygen and redox potential are orders of (2mm) spatial resolution, while the experiment in the
+magnitude steeper in sediment than in the overlying laboratory tested the hypothesis that meiofauna (in this
+water (Jørgensen & Revsbech 1985, Kühl et al. 1994, case the ostracod Cyrideis trosa) could have a measur-
+Berninger & Huettel 1997), requiring sampling on a able impact on benthic ciliates. In this way, we hoped
+very fine spatial scale. What is normally an even to demonstrate the advantages of the technique and its
+greater problem is the difficulty in separating cells applicability to ecological questions regarding benthic
+from sediment particles. Uhlig’s (1964) method utilizes ciliates.
+ice to create a temperature and osmotic gradient which
+drives ciliates from the sediment, but this is not quanti-
+tative and may select against entire ciliate groups MATERIAL AND METHODS
+(Uhlig 1964, Alongi 1986). Live counting either only
+identifies and enumerates larger ciliates (Goulder Ciliate enumeration. The methodology developed
+1971), or it uses replicate counts of highly dilute sam- was a combination of the non-linear density gradient
+ples to separate ciliates from sediment (Finlay et al. method developed by Starink et al. (1994) for the enu-
+1979, Gasol 1993). As a result, live counting is only meration of flagellates (and by Epstein [1995] for the
+appropriate when there is only a small number of sam- enumeration of ciliates) and the Quantitative Protargol
+ples to count, and the samples can be counted immedi- Stain (QPS) developed by Montagnes & Lynn (1987),
+ately. This precludes using live counting in experimen- as modified by Skibbe (1994). Both Starink et al. (1994)
+tal work, for which multiple samples are generated and Epstein (1995) used Percoll to establish density
+simultaneously. Alongi (1986) developed a method gradients with a region that was too dense for protists
+using centrifugation in the silica gels Percoll and Sor- to pass through, but not so dense that sediment would
+bitol to separate protists from sediment. However, in be retained. Percoll (Amersham Pharmacia Biotech,
+Alongi’s method, the distance travelled by the protists Little Chalfont, UK) consists of colloidal silica particles
+was a function of the speed and duration of centrifuga- coated with Polyvinylpyrrolidone (molecular diameter
+tion, and the protists were subsequently counted in a of 20 nm). Similar to Epstein (1995), we used a 1:1 solu-
+petri dish under a dissecting microscope (Alongi 1986). tion of Percoll and twice-concentrated sample water as
+Starink et al. (1994) improved this technique by first the medium in which the density gradient was estab-
+creating a non-linear density gradient in the Percoll, lished. The twice-concentrated sample water, from the
+by centrifuging a Percoll-water solution at high speed same sampling location as where the sediment cores
+prior to sample addition and a second centrifugation were taken, was GF/F filtered and concentrated by the
+step. This creates a region at the bottom of the cen- evaporation of warmed water. The water was concen-
+trifuge tube which is too dense for protists (in this case trated in order to retain the original osmolarity of the
+heterotrophic nanoflagellates) to enter into, but not too sample water in the 1:1 Percoll-water solution. We
+dense for sediment particles. Thus, the sediment forms used 2 different centrifuges and 2 different sets of cen-
+a pellet at the bottom of the centrifuge tube, while the trifuge speeds and durations, but obtained essentially
+flagellates remain suspended in the Percoll-water identical density gradient profiles (Fig. 1). For the
+solution above (Starink et al. 1994). This technique was ostracod experiment, we used 8 ml of the Percoll-water
+later applied by Epstein (1995) to separate ciliates from solution, centrifuged in 10 ml Naglene polycarbonate
+sediment. However, Epstein stained his cells with 2 Oak Ridge centrifuge tubes at 20000 · g for 1 h in a
+epifluorescent dyes. This has the disadvantages that fixed-arm rotor in a Heraeus Sepatech Megafuge 1.0R
+the cells can only be observed for a short time before centrifuge at 18°C. The protocol for the Wattenmeer
+
+Wickham et al.: Benthic ciliate identification and enumeration 81
+sediment profiles also used 8 ml of the Percoll-water remaining sediment was checked by examining dilu-
+solution, but the solution was centrifuged for 25 min at ted 1 ml samples in a Sedgewick-Rafter counting
+38600 · g in Beckmann Polyallomer centrifuge tubes chamber. With the exception of ostracods and snails,
+(14 · 89 mm) on a Beckman L70 (type Optima L) ultra- no meiofauna or protists were found. The Wattenmeer
+centrifuge by use of a swinging bucket rotor (Beck- sediment was too fine to allow a substantial improve-
+man, type SW 41 Ti) at 4°C. The density gradients ment of ciliate separation by washing (median grain
+were checked by removing from the centrifuge tubes size, 86 µm).
+50 µl sub-samples at 5 mm intervals and weighing After the sediment samples had been washed, 1.5 ml
+them. In order to ensure that the density gradients (ostracod experiment) or 1.0 ml (Wattenmeer sedi-
+were replicable and stable, density gradients were ment) of the sample was carefully placed on top of the
+established on different dates and then measured density gradient in the centrifuge tubes. These were
+either 0, 1 and 17 d (Heraeus centrifuge), or 0, 5 and then spun at either 5000 · g (Heraeus centrifuge) or
+20 d (Beckman centrifuge) after the establishment of 4300 · g (Beckman centrifuge) for 15 min in a swing-
+the gradient. arm rotor. The upper approximately 5 cm of the
+Ciliates were sampled using plexiglass mini-cores sample, to just above the sediment pellet, was then
+inserted into the sediment (ostracod experiment: 150 · removed using a Pasteur pipette. This suspension was
+24 mm cores inserted 70 to 80 mm into the sediment; filtered onto a 25 mm, 1.2 µm pore-size cellulose ni-
+Wattenmeer sediment profiles: 200 · 36 mm cores trate filter with a black grid pattern. The grid could
+inserted 150 mm). Stoppers with a hole bored through theoretically be used when counting sub-samples on
+them and rubber tubing attached were placed in the the filter, but in practice was most useful in determin-
+tops of the cores before they were inserted into the ing which side of the filter was the upper side during
+sediment, and as the cores were inserted a partial vac- the staining procedure. Preliminary tests did not reveal
+uum was created to prevent compaction of the sedi- any advantage in using 3.0 or 5.0 µm pore-size filters,
+ment. The mini-cores were then extracted, and stop- and as a result, the less-expensive 1.2 µm filters were
+pers were placed in the bottom of the cores. For the routinely used. The remaining filter pellet was checked
+ostracod experiment, the cores were extruded and in preliminary tests by diluting the pellet and examin-
+sliced in 0–5 mm and 5–10 mm sections, giving a sam- ing it using a Sedgewick-Rafter counting chamber and
+ple volume of 2.33 ml. The Wattenmeer sediments at 100· magnification.
+were extruded and cut into 2 mm sections to a depth of Glutaraldehyde was used as a fixative because Per-
+20 mm (sample volume, 2.0 ml). The samples were coll forms a gel too dense to pass through a filter at a
+fixed in 1% (ostracod experiment) or 1.6% (Watten- pH less than 4.5. This theoretically precludes the use of
+meer) final concentration glutaraldehyde solution acidic fixatives such as Bouin’s or acid Lugol’s. How-
+(diluted with filtered water from the sampling location) ever, it was found that with 5% Bouin’s as a fixative,
+to give a final volume of 10 ml glutaraldehyde-fixed the gel requires at least 30 min to become established,
+sample. The samples were then stored in 50 ml plastic leaving enough time to filter the samples after they
+centrifuge tubes at 4°C. have been centrifuged. Samples that stood for 15 min
+In the ostracod experiment, the samples were washed after centrifugation could still be filtered, but samples
+prior to centrifugation in a manner similar to Epstein left standing for 30 min post-centrifugation were not
+(1995) in order to achieve an initial separation of pro- usable. Nevertheless, glutaraldehyde was chosen as a
+tists from the denser sediment particles. The samples fixative because the time frame using Bouin’s was too
+were shaken and then allowed to stand for approxi- short to process more than 2 samples.
+mately 5 s. A 5 ml sample (50 % of the sample volume) Once the samples had been concentrated on the fil-
+was removed with an Eppendorf pipettor with the ters, they were stained using the Skibbe (1994) ver-
+opening enlarged to prevent sediment particles from sion of the Montagnes & Lynn (1987) QPS method.
+blocking the tip. The remaining 5 ml sample was then Protargol is a silver proteinate stain, which stains cilia
+increased to 10 ml again by adding 5 ml of a 1% glu- as well as internal structures such as microtubuli,
+taraldehyde solution. This 10 ml sample was also extrusomes and nuclei (Lynn 1992). After the ciliates
+shaken, and another 5 ml was removed. The procedure were collected on a cellulose nitrate filter and embed-
+was repeated for a total of 5 times, resulting in 25 ml of ded in agar, they were bleached using potassium per-
+washed sample. Assuming that protists were randomly manganate, stained first with Protargol and then
+distributed in the solution immediately after shaking, 5 briefly with gold chloride. The stain was subsequently
+rinses removed 97% of the protists present in the initial fixed with sodium thiosulfate, and the cells were
+sample (if 50% of the protists present remain behind dehydrated with an alcohol series. Finally, the filters
+after every rinse, then after 5 rinses there will be 0.55· were mounted on slides with a permanent mounting
+100 = 3.1% of the original sample remaining). The medium such as Canada Balsam (Montagnes & Lynn
+
+82 AquatMicrob Ecol 22: 79–91, 2000
+1987, Skibbe 1994). Except for lengthening the dura- described above. The sediment was black from FeS
+2
+tion of the KMnO step (see ‘Results’), and adding of a at approximately 5 mm depth, indicating that the
+4
+90% isopropyl alcohol dehydration step, Skibbe’s pro- 0–5 mm depth sample included both oxic and anoxic
+tocol was followed. Filters were counted in their zones, while the 5–10 mm sample was restricted to
+entirety using light microscopy at a magnification of the anoxic layer. The samples were then fixed in 1%
+200· ; magnifications of 400· and 630· were used for glutaraldehyde fixative (final concentration) and later
+identifications. stained as described above. In order to obtain an
+Wattenmeer sediment profiles. The sediment sam- accurate count of ostracods in the sample, the portion
+ples were obtained from the Lower Saxony Watten- of the sample remaining after the washes described
+meer National Park, on the North Sea coast of above was examined with a dissecting microscope,
+Germany, north of the Weser estuary (53°44’00’’N, and the ostracods were counted and measured with
+8°30’20’’E). The samples were taken in October 1996 an ocular micrometer. The remaining 6 cores were
+at low tide, approximately 250 m seaward of the high prepared for the experiment as follows: In each core,
+tide mark. The sediment in this area is a fine sand 2 of the 23 · 150 mm mini-cores were inserted 70 to
+(87% of the particles in Wentworth class 4, or 0.125 to 80 mm into the sediment, leaving approximately
+0.0625 mm diameter) with an average water content of 20 mm of the tubes above the overlying water, in
+31% (salinity, 36 PSU) and an organic content of 2% order to prevent the potential ciliate predator Neomy-
+(dry weight). Two cores were taken in shallow tidal sis integer from entering the tubes. One mini-core
+pools with 10 to 30 mm of overlying water by inserting was used for the experimental manipulation, and the
+36 · 200 mm plastic cores approximately 150 mm into other served as a control. We inoculated each of the
+the sediment. The cores were stoppered at the top, experimental mini-cores with 200 ostracods of the
+extracted, and then stoppered at the bottom. The sam- species Cyrideis trosa, giving an initial density of 43
+ples were then placed in a water-filled pail until pro- ostracods cm–2. The ostracods (mean length, 0.90 mm)
+cessing at the sampling site to maintain a constant had been kept in culture and originated from the
+temperature. The cores were extruded in 2 mm sec- nearby Darß-Zingst coastal lagoon system. The cores
+tions, and the sediment fixed in glutaraldehyde with were then placed in a water bath in an environmental
+an end concentration of 1.6%. A total of 10 samples chamber at 14°C and illuminated from above on a
+were taken per core, to a depth of 20 mm. A further 2 18:6h light:dark cycle, with a mean light intensity of
+cores were taken and extruded as above, but not fixed, 222 µE at the water surface. The experiment was
+in order to make live observations to aid the identifica- begun on 8 July 1996, between 22:45 and 23:35 h,
+tion of the ciliates. Ciliates were identified using and ended 4 d later on 12 July 1996 between 14:00
+mainly Carey (1992), Small & Lynn (1985) and Kahl and 16:20 h. The mini-cores with and without ostra-
+(1930–1935) as guides. Ciliate biodiversity was calcu- cods were then extracted from the sediment, and sed-
+lated using the Shannon-Wiener diversity index (H’). iment samples from the 0–5 mm and 5–10 mm depths
+This is calculated as were taken, fixed, and stained as described for the
+initial samples.
+H’= –∑p · ln(p)
+i i Ciliate abundance and diversity data were analyzed
+where p is the proportion of the total ciliate abun- in pair-wise t-tests, which tested whether the mean
+i
+dance made up by species i. The maximum diversity difference in ciliate abundance between tubes with
+occurs when each species has the same proportion of and without ostracods within each core was signifi-
+the total abundance, and is equal to the natural loga- cantly different from zero. Because the test was per-
+rithm of the species richness (the total number of spe- formed on the differences within cores, the between-
+cies). core variance, which was considerable and could
+Ostracod experiment. Sediment samples were easily mask a large difference due to the experimental
+obtained from a standard sampling station in the Ras- treatment, was eliminated from the statistical analysis.
+sower Strom, a brackish water inlet (salinity, 8 to In order to restrict the number of statistical tests per-
+12 PSU) on the Baltic island of Rügen (54°34’N, formed, and thereby the probability that a difference
+13°10’E). Water depth at the sampling station was in treatments with and without ostracods would be
+approximately 3.5 m. Sediment cores were taken on falsely declared significant (a Type I error), ciliates
+8July 1996 with a multi-corer, using nine 8.5 · 60 cm were grouped into broad taxonomic or physiological
+plastic cores. These were brought directly to shore, groups for the statistical analysis. These groups were
+and 3 cores were chosen at random for initial sam- total ciliates, obligate anaerobes, hypotrichs, scutic-
+ples. The cores were sampled by inserting into each a ociliates, and Blepharisma species. Nematodes were
+23 · 150 mm plastic mini-core and extracting 2 sam- the only meiofauna group abundant enough for the
+ples from 0–5 and 5–10 mm sediment depths as data to be statistically analyzed.
+
+Wickham et al.: Benthic ciliate identification and enumeration 83
+RESULTS cle-bound ciliates. Of the meiofauna, only nematodes
+were abundant enough to count accurately, and the
+Gradient establishment and sample staining loss of, on average, 0.4 nematodes per sample was also
+thought acceptable. In 8 samples prepared by estab-
+Both centrifuge times and speeds were effective in lishing a density gradient with centrifugation for
+establishing density gradients (Fig. 1). However, longer 25 min at 38600 · g, and centrifuging the samples at
+centrifuge times with either centrifuge speed produced 4300 · gfor 15 min, there were no ciliates or meiofauna
+a high-density pellet that could not be drawn into a found in the sediment pellets.
+pipette tip to be measured. There were no significant After centrifugation, the ciliate samples could be
+differences in the density gradients established or successfully stained with the QPS procedure. It was
+measured on different centrifuges or days, with the critical that as little as possible of the sediment pellet
+exception of gradients established on the Beckman (which usually had a loose consistency) be drawn out
+centrifuge and measured immediately or 20 d later with the Pasture pipette and filtered. Not only did this
+(Kolmogorov-Smirnov test, p = 0.018; all other compar- make the protists easier to see, but if some of the sedi-
+isions, p > 0.05; Fig. 1). However, the gradients estab- ment pellet was drawn into the pipette, then the appli-
+lished using a centrifugation of 20000 · g for 1 h did cation of agar often washed a considerable amount of
+have a zone of higher density towards the bottom of the sample off the filter. Inspection with a dissecting
+the tube. microscope showed that this did not occur when only a
+The density gradient was successful in separating minimal amount of sediment was on the filter. The only
+ciliates from sediment. In 5 samples where the sedi- important modification to Skibbe’s version of the QPS
+ment pellet at the bottom of the centrifuge tubes was staining procedure was to lengthen the time the sam-
+thoroughly examined after centrifugation, an average ples were bleached with potassium permanganate.
+of 1.0ciliate per sample was found, as well as 0.8 tes- The duration of this step was critical, with too short a
+tate amoebae, 0.4 harpacticoid copepods, copepod period leaving the sample too dark to see the ciliature,
+nauplii or nematodes, and 0.2 ostracods. Because 85% and too long a period leaving the sample so bleached
+of the filtered samples had a total of at least 40 ciliates, that little or nothing was subsequently stained. It was
+the loss of 1 ciliate (≤2.5%) was deemed non-critical. found that bleaching the sample for 6 min (7 min for
+None of the ciliates found were bound to sediment par- the Wattenmeer sediment profiles), instead of the
+ticles, suggesting no systematic error involving parti- 5 min recommended by Skibbe for plankton samples,
+produced markedly better results (Fig. 2).
+Wattenmeer sediment
+Total ciliate abundance was high in the Wattenmeer
+sediment, especially in comparison to previously pub-
+lished values obtained using other methods (Kemp
+1990, Epstein & Gallagher 1992, Epstein 1995) and, to a
+lesser extent, to the Rassower Strom sediment used in
+the ostracod experiment (see below). In the layers be-
+tween 0 and 10 mm depth (comparable to the ostracod
+experiment samples), ciliate abundance was between
+1000 and 2500 cells ml–1(Fig. 3A). In the layers beneath
+10 mm, total ciliate abundance was considerably less,
+but did not drop beneath 180 ciliates ml–1. While there
+was considerable variance between the cores, and gen-
+erally higher abundance in the second core, similar
+trends in both cores could be seen. There was reduced
+Fig. 1. Density gradients established in Percoll-water solu-
+abundance with increased depth in both cores, but also
+tions. Depth is distance from the solution meniscus in the cen-
+trifuge tube, drawn to scale on the left. Data were grouped in both, a peak in abundance at either the 4–6 or
+according to the significant differences found by Kolmo- 6–8 mm depth. Ciliate biodiversity did not show any
+gorov-Smirnov tests (a = 0.05). (s) Gradients established at obvious trend with depth, and while both cores had
+20000 · g measured 0, 1 and 17 d afterwards. (M) Gradients
+identical diversity values (as measured by H’) in the
+established at 38600 · gand measured 0 or 5 d later. (n) Gra-
+dients established at 38600 · gand measured 20 d later. The 0–2 mm layer, one core subsequently had consistently
+error bars are 1 standard deviation higher diversity than the other (Fig. 3B). Species diver-
+
+84 AquatMicrob Ecol 22: 79–91, 2000
+A B
+C
+D
+10 µm
+E F
+100 µm
+Fig. 2. Representative benthic ciliates stained with the density-gradient QPS methodology. (A) Aspidisca fusca,a hypotrich cili-
+ate from the 0–5 mm layer of the ostracod experiment. (B) Pleuronema marinum, a scuticociliate from the 0–5 mm layer of the
+ostracod experiment. (C) Kentrophoros fasciolatum, from the Wattenmeer sediment. (D) An unidentified nematode (inset: the
+same nematode at higher magnification, showing the oral region). (E) Metopus setosus, an obligate anaerobic ciliate from the
+5–10 mm layer of the ostracod experiment. (F) Sonderiasp., an obligate anaerobic ciliate from the 5–10 mm layer of the ostracod
+experiment. All ciliates and the nematode inset were photographed with a 100· objective. Scale bar for the ciliates and nematode
+inset is 10µm. The whole nematode was photographed with a 40· objective; scale bar = 100 µm
+
+Wickham et al.: Benthic ciliate identification and enumeration 85
+Table 1. Ostracod experiment. p-values from pairwise t-tests,
+testing the probability that there was no significant difference
+in abundance and diversity between tubes with and without
+ostracods. Pairwise tests calculate the difference between
+pairs of mini-cores (one with and one without ostracods)
+within each larger core, and then test whether the mean dif-
+ference between pairs of mini-cores is significantly different
+from zero. This way the variance between the larger cores is
+discounted and cannot mask differences due to the addition
+of ostracods
+Group Depth (mm)
+0–5 5–10
+Total ciliates 0.006 0.631
+Hypotrichs 0.023 0.470
+Scuticociliates 0.060 0.575
+Anaerobic ciliates 0.221 0.515
+Blepharismasp. 0.111 0.810
+Nematodes 0.013 0.605
+Ciliate diversity 0.671 0.011
+The most consistently abundant group in the Wat-
+tenmeer cores were members of the family Cyclidi-
+idae, species in the genera Cyclidium and Cristigera.
+These small scuticociliates had a maximum abundance
+of 720 cells ml–1 (in the 6–8 mm layer), and a mean
+abundance of 230 cells ml–1, averaged over all depths
+in the 2 cores (Fig. 4). The most abundant ciliate in any
+single layer was Mesodinium pulex, which had a max-
+imum abundance of 850 cells ml–1in the 0–2 mm layer
+of one core, or 40% of the total ciliate abundance in
+this layer and core. However, M. pulex was mostly
+confined to the surface layer, and did not make up
+more than 3% of the total abundance in any other
+layer. Also abundant in the surface layer was Chlamy-
+dodon mnemosyne, with a maximum abundance of
+820 cells ml–1. The most abundant ciliate in the deeper
+layers was Remanella spp., which had a maximum
+abundance of 540 cells ml–1 in the 12–14 mm layer
+(Fig. 4). Together, the 6 most abundant groups (Cycli-
+diidae, M. pulex, C. mnemosyne,Remanellaspp., Eu-
+plotes spp. and Aspidisca sp.) made up ~50% of the
+total ciliate abundance. There was also a dominance of
+Fig. 3. Wattenmeer sediment profiles for 2 cores sampled at
+2 mm intervals. (A) Total ciliate abundance in cells ml–1, small-bodied groups. Four of the 6 most abundant
+(B)Shannon-Wiener diversity index (H’) and (C) species rich- groups (Cyclidiidae, M. pulex, Euplotesspp. and Aspi-
+ness (total number of species) disca sp.) were smaller than 30 µm, and made up 33%
+of the total abundance, averaged over all depths and
+cores.
+sity ranged between 1.48 and 2.47. Species richness
+(the number of species present) also did not show any
+obvious trend with increasing depth (Fig. 3C). There Ostracod experiment
+was a total of 41 species and morphotypes found in the
+2 cores, but between 10 and 21 in any 2mm layer. The Of the 200 ostracods (43 cm–2) placed in each tube,
+peak in ciliate abundance between 4 and 8 mm and the an average of 80% (mean ± 1 standard deviation: 33.7
+subsequent decline was not mirrored in either the di- ± 8.3 ostracods cm–2) were recovered at the end of
+versity or species richness data. the experiment. One-third of the ostracods (11.4 ± 6.0
+
+86 AquatMicrob Ecol 22: 79–91, 2000
+Fig. 4. Depth distributions for indi-
+vidual species and groups in the 2
+Wattenmeer cores. Note the log-
+scale for the abundance. Horizon-
+tal bars with vertical lines indicate
+the average of the mean depths
+for the 2 profiles, ±1 standard
+deviation
+ostracods cm–2) were found in the 0–5 mm sediment obligate anaerobes (Metopus setosus, Parablepharisma
+layer, while the rest (22.3 ± 3.7 ostracods cm–2) were bacteriophora, and Sonderia sp.). The total initial
+in the 5–10 mm layer. In the tubes without added anaerobe abundance in the 0–5 mm layer was 160 cells
+ostracods, the abundance of naturally occurring ostra- ml–1, and 210 cells ml–1 in the 5–10 mm layer. There
+cods was low but followed this trend (0.8 ± 0.6 ostra- were 9 hypotrich species, with Aspidisca fusca and 2
+cods cm–2 were found in the upper layer, and 2.2 ± Euplotesspecies being the most abundant (total initial
+0.6ostracods cm–2in the deeper layer). hypotrich ciliates: 0–5 mm, 190 cells ml–1; 5–10 mm,
+In the 3 initial samples, a total of 36 ciliate species or 84 cells ml–1). Three Blepharisma species were also
+morphotypes were found. There was moderately higher found in the initial samples, with a total abundance of
+diversity in the upper layer (Fig. 5). A higher total 35 cells ml–1(0–5 mm) and 19 cells ml–1(5–10 mm).
+number of species (42, Table 1) was found in the final The addition of ostracods significantly affected cili-
+samples, but there were a total of 12 cores (6 with, and ate diversity and abundance, but the effect on abun-
+6 without ostracods) examined for the final samples, dance was confined to the upper 5 mm layer, while the
+and only 3 cores for the initial samples. Initial, total cil- effect on diversity was only seen in the deeper layer.
+iate abundance was 660 cells ml–1in the 0–5mm layer, Total ciliate abundance was on average ~50% less in
+and 570 cells in the 5–10 mm layer. Of the 42 species treatments with ostracods in the 0–5 mm layer, but not
+and morphotypes found, 13 could be identified to spe- significantly different in the 5–10 mm layer (Fig. 5,
+cies, and a further 26 to genus. Three species were Table 1). Among the main ciliate groups, only the
+
+Wickham et al.: Benthic ciliate identification and enumeration 87
+total ciliate abundance, but in the pres-
+ence of ostracods, their contribution in-
+creased to ~40% of the total abundance.
+In addition, 7 rare species (together
+≤1.2% total abundance) were found only
+when ostracods were absent.
+Ciliate diversity in the 5–10 mm layer
+was considerably higher at the end of the
+experiment in both ostracod present and
+absent treatments than in the initial sam-
+ples. This was due to the dominance of
+Kentrophoros fasciolatum in the initial
+samples, in which it comprised almost
+35% of the total ciliate abundance. In
+samples at the end of the experiment, K.
+fasciolatumcomprised less than 6% of the
+total abundance, a proportion that was
+unaffected by the presence or absence of
+ostracods.
+Total nematode abundance increased
+in the presence of ostracods in the
+0–5mm layer, but not the 5–10 mm layer
+(Table 1). In addition, there was a size-
+able increase in nematode abundance in
+both treatments in the 5–10 mm layer
+from the beginning to end of the experi-
+ment.
+Fig. 5. Initial and final ciliate abundance and diversity in the 0–5 and DISCUSSION
+5–10mm depths of the ostracod experiment. Horizontal lines represent the
+initial abundance or diversity; open bars are the final values in the absence The combination of the QPS technique
+of additional ostracods, and hatched bars are the final values in the presence
+with non-linear density-gradient centrifu-
+of additional ostracods. Error bars represent 1 standard error. Note the dif-
+ference in the scales used in the y-axes (ind. ml–1). Diversity is measured by gation is at the moment the most effective
+the Shannon-Wiener diversity index (H’) method of obtaining quantitative, spe-
+cies-specific information about benthic
+ciliates. Unlike Uhlig’s method, we ob-
+abundance of the hypotrichs and the scuticociliates tained a quantitative estimate of ciliate abundance,
+was depressed by addition of ostracods, and only in the and unlike live-counting, we could work with a large
+0–5 mm depth. There were no effects of ostracods on number of samples and produce a permanent record.
+any of the ciliate groups in the 5–10 mm layer (p > 0.05, Our method effectively separates ciliates from sedi-
+Fig. 5). However, diversity significantly declined in the ment, stains the cells well enough that many morpho-
+5–10 mm layer in the presence of ostracods, with fewer types can be identified to at least genus, and allows
+species dominating the total ciliate abundance (p = counts to be made with enough individuals that
+0.011, Fig. 5). Without ostracods, species richness was hypotheses about the control of abundance and biodi-
+greater (35 species in total, while there were 29 species versity can be tested. In the ostracod experiment, we
+with ostracods present), and the distribution of abun- distinguished 42 species or morphotypes, while in the
+dance between species more even. In contrast, there Wattenmeer profiles we found a total of 41 groups or
+was no change in ciliate diversity in the 0–5 mm layer species, with up to 21 groups or species in any one
+(p = 0.67), despite the significant change in total abun- 2 mm layer. We could also slice the sediment finely
+dance. The decrease in diversity in the 5–10 mm depth enough (into either 5 mm [ostracod experiment] or
+was largely due to the increase in relative abundance 2 mm [Wattenmeer sediment] sections) to obtain fine
+of the already abundant Uronema sp., Blepharismasp. scale information about ciliate depth distributions.
+2, Pleuronema marinumand Holosticha fasciola. With- Moreover, the method produces a permanent record
+out ostracods, these 4 species made up ~30% of the that can be checked months or years later.
+
+88 AquatMicrob Ecol 22: 79–91, 2000
+Meiofauna could also be separated from sediment In addition, the strong qualitative and quantitative
+with the non-linear density gradient centrifugation, effects of ciliates on benthic diatom communities that
+and nematodes, harpacticoid copepods and copepod have been observed (changing community structure
+nauplii could also be well stained with the QPS tech- and grazing up to 19% of daily benthic diatom produc-
+nique. However, in our samples only nematodes were tion) may be a common phenomenon (McCormick
+abundant enough to be counted reliably. While we did 1991, Balczon & Pratt 1996).
+not attempt to further identify nematodes, they were In the Wattenmeer sediment, our method allowed us
+stained well enough that this may be possible (Fig. 2). to distinguish differences in the fine-scale depth distri-
+The extraction efficiency of Percoll declines when the butions of the different groups or species. Mesodinium
+volume to volume ratio of diluted Percoll to sample and Chlamydodon were both confined to the upper
+drops beneath 4:1 (Schwinghamer 1981, Starink et al. few millimeters of the sediment, with a mean depth
+1994), meaning that in a 10 ml centrifuge tube, not distribution of 1.3 and 2.1 mm, respectively (Fig. 4). At
+more than 2 ml of the washed sample can be used. In least a few Remanella cells could be found at all
+the ostracod experiment, the initial 2.33 ml sediment depths, but the majority of the population could be
+sample was diluted down to 25 ml by washes to found relatively deep in the sediment, at an average
+remove some of the sediment prior to centrifugation. depth of 9.5 mm. Several of the species or groups
+We then centrifuged 1.5 ml of this sample, equivalent abundant in the Wattenmeer profiles were found much
+to 0.14 ml of the original sample. As a result, ciliates or deeper in the sediment than would be expected from
+meiofauna need to be abundant before they can be their known oxygen preferences. Maximal oxygen
+counted precisely. Almost all our samples had a ciliate penetration in these sediments is typically about 4 mm
+abundance in excess of 200 cells ml–1, with maximum (Berninger & Epstein 1995, Forster et al. 1996) How-
+abundance greater than 2300 cells ml–1, providing suf- ever, the Cyclidiidae and Euplotes sp. could be found
+ficient material for reliable counts. However, when cil- at all depths, and their mean depth distributions were
+iate abundance is lower, or it is critical to count and at 8.6 and 5.4 mm, respectively (Fig. 4). Aspidisca sp.
+identify the rarest species, eliminating the preliminary had a shallower mean depth distribution (4.4mm), but
+washes should be considered. In finer sediment, as a few individuals were found as deep as 20 mm.
+with the Wattenmeer samples, washes can be reduced Berninger & Epstein (1995) reported the same phe-
+in number or not performed at all and an acceptable nomenon in their depth profiles, finding epibenthic cil-
+initial separation of sediment from ciliates or meio- iates beneath the maximum oxygen penetration depth.
+fauna will still be obtained. In very sandy sediment, on Microaerophilic ciliates have been shown in the labo-
+the other hand, it may be possible to simply wash the ratory to confine themselves to a narrow range of oxy-
+sample with the rinses described in the ‘Material and gen concentrations (Fenchel et al. 1989, Fenchel &
+methods’, and not perform with the non-linear cen- Bernard 1996), and ciliate communities are known to
+trifugation. This was successfully done to identify a change their vertical position in the sediment with
+Euplotes species in an artificial sand sediment (S.W. changes in oxygen penetration (Berninger & Epstein
+pers. obs.). 1995). Nevertheless, both our work and that of Bern-
+The high ciliate abundance found in the Wattenmeer inger & Epstein would suggest that while ciliates can
+sediment may mean that the conclusion that ciliates orient themselves in a oxygen gradient, they are often
+are unlikely to exert significant grazing pressure on found outside their preferred oxyen concentration.
+benthic bacteria (Kemp 1988, 1990, Epstein & Shiaris There is also evidence that the depth distribution of
+1992) needs to be re-evaluated. 1500 ciliates ml–1 in algal prey overrides the oxygen preferences of an
+sediment with a water content of 31% need only to Euplotes species (U.G.B. unpubl. data). The presence
+filter 4.3 nl ciliate–1 h–1 to remove 50% of all bacteria of ostracods did not drive the ciliates any deeper into
+each day, a clearance rate well below that reported for the sediment (Fig. 5), suggesting that predator avoid-
+pelagic ciliates (e.g. Sherr & Sherr 1987, Sˇimek et al. ance is not the reason for ciliates commonly described
+1996). It is clearly dangerous to make comparisons as aerobic being found in anoxic sediment. The 2
+between grazing on benthic and pelagic bacteria, with groups suppressed by ostracods (hypotrichs and scu-
+much depending on how far the pelagic rates are ticociliates) are normally thought to be epibenthic, but
+beneath the maximum potential ingestion rate, and were found in both the 0–5 and 5–10 mm layers. It is
+how available the benthic bacteria are to ciliates. Nev- unlikely that extruding the sediment from the mini-
+ertheless, if the lower ciliate abundance previously cores and slicing them substantially disturbed the cili-
+reported (e.g. Kemp 1990, Epstein & Gallagher 1992, ate distribution. Despite any potential disturbance of
+Epstein 1995) was due to methodological problems, the sediment, it was still possible to discern obvious
+then benthic ciliates may indeed be more important differences in the depth distributions of the ciliates,
+benthic bacterial consumers than previously thought. particularly in the Wattenmeer sediments. Mesodi-
+
+Wickham et al.: Benthic ciliate identification and enumeration 89
+nium, for example, had a mean depth of 1.3 mm, while survey of meiofauna abundance in the nearby Greif-
+the center of Euplotes’ distribution was at 5.4 mm. swalder Bodden showed that in a 40 · 40 cm quad-
+Thus, disturbance through extruding the cores seems rate, 8.7% of the area had an ostracod abundance
+unlikely to be the explanation for finding aerobic cili- >20ostracods cm–2, and in 1.5% of the quadrate, there
+ates in anoxic sediment. was an ostracod abundance in excess of 25 ostracods
+The ostracod experiment demonstrated that despite cm–2 (Arlt 1973). Thus, while the magnitude of the
+the heterogeneity of benthic ciliate distributions, the ostracod effects we saw in the experiment may be
+method developed here is accurate enough to use in greater than what normally occurs in the field, we
+manipulative experiments, with both highly significant would expect that our results are at least qualitatively
+and non-significant effects. Use of a pair-wise t-test representative.
+and a relatively large number of replicates (6) was suf- While we were able to successfully stain and count
+ficient to overcome the high between-replicate vari- ciliates using the method developed here, the method
+ance. Over the course of the experiment, there was does have its limitations. Not all sediment is separated
+a general movement of Blepharisma species to the equally well from the ciliates. Anecdotal evidence
+deeper layer, and a loss of anaerobic ciliates in com- would suggest that extremely fine sediment is not
+parison to the initial values, but overall most effects entirely removed from ciliates, and much clearer
+were attributable to the experimental manipulation results are obtained from sandy sediment. Organic
+(Fig. 5). Ostracods had a direct impact on ciliates, re- sediment appears to compete with ciliates for the per-
+ducing their abundance, but the effect was group spe- manganate, resulting in masking both through the
+cific and confined to the upper 5 mm of the sediment. physical presence of the sediment over the ciliate cells,
+The reduction in ciliate abundance in the presence of and by insufficient bleaching of the ciliates. Lengthen-
+ostracods did not result in an increase in ciliate diver- ing the permanganate step ensures that the ciliates are
+sity in the 0–5 mm layer, making it unlikely that ostra- sufficiently bleached, and lightens the color of the
+cods were acting as a ‘keystone predator’ (sensu Paine organic component of the sediment. However, if too
+1966). Increasing diversity is known to occur when a much sediment is present on the filter, there is still the
+keystone predator suppresses a species or group that problem of the agar washing cells off the filter before
+would otherwise dominate the biomass of a commu- the agar has hardened. Therefore, a test preparation
+nity. Instead, the results are consistent with a ciliate must be made in order to establish the appropriate
+community that was already under predation pressure. sample volume and staining times. A normal staining
+While the effects of ostracods on ciliate abundance sequence, from centrifuging the sample to finally
+were confined to the upper 5 mm, the majority of ostra- embedding the filter on a slide, can be expected to
+cods were found in the deeper layer. There was a neg- take approximately 4 h, with a practical maximum of
+ative effect of ostracods on ciliate diversity and species approximately 10 samples per staining run. Our expe-
+richness in this layer, suggesting that the ostracods rience is that the time required to count the resulting
+were not entirely inactive. The main effect of ostracods preparations is approximately 1 to 2 h per filter, once
+in the deeper layer may have been through biotur- the main ciliate groups have been identified. As a
+bation, allowing deeper oxygen penetration. Species result, counting benthic ciliate samples is a rather
+such as Pleuronema and Uronema, which are often labor-intensive enterprise.
+planktonic and aerobic, increased in abundance in this Another consideration when using the method is
+layer in the presence of ostracods. There was, how- that, as previously pointed out by various authors (Choi
+ever, no decline in the abundance of anaerobic species & Stoecker 1989, Jerome et al. 1993, Pfister et al. 1999),
+in the presence of ostracods, suggesting that there is both fixation and QPS staining results in species-spe-
+no single explanation that can account for the results in cific shrinkage of ciliates. As a result, caution needs to
+the 0–5 mm layer. The positive response of nematode be used when calculating biovolumes or biomasses.
+abundance to the presence of ostracods also suggests Shrinkage can also cause distortion in ciliate body
+that indirect effects of ostracods were important. Possi- shape, making identification difficult. The fixative we
+ble explanations include bioturbation by ostracods used, glutaraldehyde, is not commonly used for cili-
+releasing nutrients that could then be used by algae ates, and may lead to the selective loss of some benthic
+and bacteria, which are in turn grazed by nematodes, species (Anik Güber pers. comm.). The problem of
+or processing of sediment and detritus by ostracods, Bouin’s, and presumably other acidic fixatives, which
+making them more available to nematodes. However, cause Percoll to gel, can be circumvented if the time
+testing these hypotheses was beyond the scope of this between centrifuging the samples and collecting them
+study. on filters is kept to under 30 min. Centrifugation in a
+The ostracod density we used (end abundance, 34 Percoll solution itself does not apparently harm the
+ostracods cm–2) was high, but not unrealistically so. A fixed cells. While we did not attempt to quantify any
+
+90 AquatMicrob Ecol 22: 79–91, 2000
+loss due to centrifugation, Percoll has been reported as LITERATURE CITED
+being useful for centrifuging live ciliates, algae and
+Alongi DM (1986) Quantitative estimates of benthic protozoa
+meiofauna (Price et al. 1978, Schwinghamer 1981,
+in tropical marine systems using silica gel: a comparison of
+Alongi 1986). We did find that the centrifugation times
+methods. Estuar Coast Shelf Sci 23:443–450
+and speeds we used were successful in forming the Arlt G (1973) Vertical and horizontal microdistribution of the
+sediment into a pellet that did not contain any appre- meiofauna in the Greifswalder Bodden. Oikos (Suppl) 15:
+ciable numbers of ciliates or, with the exception of 105–111
+Balczon JM, Pratt JR (1996) The functional response of two
+ostracods, meiofauna. We did not test for the efficiency
+benthic algivorous ciliated protozoa with differing feeding
+of the combined centrifugation-QPS method. How- strategies. Microb Ecol 31:209–224
+ever, recent evidence suggests that, at least for pelagic Berninger UG, Epstein SS (1995) Vertical distribution of
+samples, the QPS method does not result in lower cili- benthic ciliates in response to the oxygen concentration in
+an intertidal North Sea sediment. Aquat Microb Ecol 9:
+ate abundance than live counting (Pfister et al. 1999).
+229–236
+In addition, Percoll gradients have been shown to
+Berninger UG, Huettel M (1997) Impact of flow on oxygen
+recover up to 100% of flagellates from sandy sedi- dynamics in photosynthetically active sediments. Aquat
+ments, and up to 94% of flagellates from finer sedi- Microb Ecol 12:291–302
+ments (Starink et al. 1994). Actual recovery percent- Brown JH (1984) On the relationship between abundance and
+distribution of species. Am Nat 124:255–279
+ages will undoubtedly vary with sediment type and the
+Carey PG (1992) Marine interstitial ciliates: an illustrated key.
+ciliate community present, but given the relatively Chapman and Hall, London
+high total abundance we obtained in both the Watten- Choi JW, Stoecker DK (1989) Effects of fixation on cell volume
+meer and ostracod experiment cores, we believe that of marine planktonic ciliates. Appl Environ Microbiol 55:
+1761–1765
+losses due to the method used are relatively low.
+Dini F, Nyberg D (1999) Growth rates of marine ciliates on
+Despite the shortcomings noted above, the method-
+diverse organisms reveal ecological specializations within
+ology outlined and applied in this paper appears to morphospecies. Microb Ecol 37:13–22
+give, at the moment, the best combination of taxo- Epstein SS (1995) Simultaneous enumeration of protozoa
+nomic resolution and counting precision. This combi- and micrometazoa from marine sandy sediments. Aquat
+Microb Ecol 9:219–227
+nation is probably the minimum necessary to quantita-
+Epstein SS (1997) Microbial food webs in marine sediments. I.
+tively answer relevant ecological questions, and can Trophic interactions and grazing rates in two tidal flat
+hopefully in the future be improved upon. Dini & communities. Microb Ecol 34:188–198
+Nyberg (1999) have recently demonstrated differences Epstein SS, Gallagher ED (1992) Evidence for facilitation and
+inhibition of ciliate population growth by meiofauna and
+in feeding efficiencies not only between but also
+macrofauna on a temperate zone sandflat. J Exp Mar Biol
+within Euplotesspecies, suggesting that many ecolog-
+Ecol 155:27–39
+ical questions involving benthic ciliates will require Epstein SS, Shiaris MP (1992) Rates of microbenthic and
+the best possible taxonomic resolution. Basic questions meiobenthic bacterivory in a temperature muddy flat com-
+of trophic interactions, such as whether ciliates are munity. Appl Environ Microbiol 58:2426–2431
+Fenchel T (1969) The ecology of marine microbenthos. IV.
+predators, competitors or prey to other groups, will also
+Structure and function of the benthic ecosystem, its chem-
+almost certainly require species-level abundances. In ical and physical factors and the microfauna communities
+this paper we have shown that we can use our tech- with special reference to the ciliated protozoa. Ophelia 6:
+nique to investigate predator-prey interactions at both 1–186
+Fenchel T, Bernard C (1996) Behavioural responses in oxygen
+a broad and fine taxonomic scale. In addition, we were
+gradients of ciliates from microbial mats. Eur J Protistol 32:
+able to demonstrate distributions of benthic ciliates at
+55–63
+both a fine spatial and taxonomic scale. Clearly this Fenchel T, Finlay BJ, Gianni A (1989) Microaerophily in cili-
+was only a first step, but we hope that the methodology ates: responses of an Euplotes species (Hypotrichida) to
+and results presented will further the study of benthic oxygen tension. Arch Protistenkd 137:317–330
+Fenchel T, Esteban GF, Finlay BJ (1997) Local versus global
+ciliates.
+diversity of microorganisms: cryptic diversity of ciliated
+protozoa. Oikos 80:220–225
+Finlay BJ, Esteban GF (1998) Freshwater protozoa: bio-
+diversity and ecological function. Biodivers Conserv 7:
+Acknowledgements. We thank Günter Arlt for supplying 1163–1186
+the ostracods, and colleagues in the Institute for Ecology, Finlay BJ, Laybourn J, Strachan I (1979) A technique for the
+Hiddensee, and Stella Eix (Max Planck Institut, Bremen) for enumeration of benthic ciliated protozoa. Oecologia 39:
+obtaining the sediment cores used in the experiments. We 375–377
+also thank 4 anonymous reviewers for their comments on an Finlay BJ, Corliss JO, Esteban G, Fenchel T (1996) Biodiver-
+earlier version of the manuscript. This work was supported by sity at the microbial level: the number of free-living cili-
+the German Bundesministerium für Bildung und Forschung ates in the biosphere. Q Rev Biol 71:221–237
+through the multidisciplinary project ‘Ökobod: Ökosystem Forster S, Huettel M, Ziebis W (1996) Impact of boundary
+Boddengewässer—Organismen und Stoffhaushalt’ and by layer flow velocity on oxygen utilization in coastal sedi-
+the Max Planck Society. ments. Mar Ecol Prog Ser 143:173–185
+
+Wickham et al.: Benthic ciliate identification and enumeration 91
+Gasol JM (1993) Benthic flagellates and ciliates in fine fresh- and its potential impact on benthic algal assemblages. J N
+water sediments: calibration of a live counting procedure Am Benthol Soc 10:238–250
+and estimation of their abundance. Microb Ecol 25: Montagnes DJS, Lynn DH (1987) A quantitative protargol
+247–262 stain (qps) for ciliates: method description and test of its
+Goulder R (1971) The effects of saprobic conditions on some quantitative nature. Mar Microb Food Webs 2:83–93
+ciliated Protozoa in the benthos and hypolimnion of a Paine RT (1966) Food web complexity and species diversity.
+eutrophic pond. Freshw Biol 1:307–318 Am Nat 100:65–75
+Hairston NG (1969) On the relative abundance of species. Pfister G, Sonntag B, Posch T (1999) Comparison of a direct
+Ecology 50:1091–1094 live count and an improved quantitative protargol stain
+Jerome CA, Montagnes JS, Taylor FJR (1993) The effect of (QPS) in determining abundance and cell volumes of
+the quantitative protargol stain and Lugol’s and Bouin’s pelagic freshwater protozoa. Aquat Microb Ecol 18:
+fixatives of cell size: a more accurate estimate of ciliate 95–103
+species biomass. J Eukaryot Microbiol 40:254–259 Price CA, Reardon EM, Guillard RRL (1978) Collection of
+Jørgensen BB, Revsbech NP ( 1985) Diffusive boundary layers dinoflagellates and other marine microalgae by centrifu-
+and the oxygen uptake of sediments and detritus. Limnol gation in density gradients of a modified silica gel. Limnol
+Oceanogr 30:111–122 Oceanogr 23:548–553
+Kahl A (1930–1935) Urtiere oder Protozoa: I: Wimpertiere Schwinghamer P (1981) Extraction of living meiofauna from
+oder Ciliata (Infusoria), eine Bearbeitung der freilebenden marine sediments by centrifugation in a silica sol-sorbitol
+und ectocomensalen Infusorien der Erde, unter Ausschluß mixture. Can J Fish Aquat Sci 38:476–478
+der marinen Tintinnidae. In: Dahl F (ed) Die Tierwelt Sherr EB, Sherr BF (1987) High rates of consumption of bacte-
+Deutschlands. G. Fischer, Jena, p 1–886 ria by pelagic ciliates. Nature 325:710–711
+Kemp PF (1988) Bacterivory by benthic ciliates: significance Sˇimek K, Macek M, Pernthaler J, Straskrabová V, Psenner R
+as a carbon source and impact on sediment bacteria. Mar (1996) Can freshwater planktonic ciliates survive on a diet
+Ecol Prog Ser 49:63–71 of picoplankton? J Plankton Res 18:597–613
+Kemp PF (1990) The fate of benthic bacterial production. Rev Skibbe O (1994) An improved quantitative protargol stain for
+Aquat Sci 2:109–124 ciliates and other planktonic protists. Arch Hydrobiol 130:
+Kühl M, Lassen C, Jørgensen BB (1994) Optical properties of 339–347
+microbial mats: light measurements with fiber-optic Small, EB, Lynn DH (1985) Phylum Ciliophora. In: Lee JJ,
+microprobes. In: Stal LJ, Caumette P (eds) Microbial mats. Hunter SH, Bovee EC (eds) An illustrated guide to the pro-
+Springer-Verlag, Berlin, p 149–166 tozoa. Society of Protozoologists, Lawrence, p 393–575
+Lucchesi P, Santangelo G (1997) The interstitial ciliate micro- Starink M, Bär-Gilissen MJ, Bak RPM, Cappenberg TE (1994)
+community of a Mediterranean sandy shore under differ- Quantitative centrifugation to extract benthic protozoa
+ing hydrodynamic disturbances. Ital J Zool 64:253–259 from freshwater sediments. Appl Environ Microbiol 60:
+Lynn DJ (1992) Protargol staining. In: Lee JJ, Soldo AT (eds) 167–173
+Protocols in protozoology. Society of Protozoologists, Tilman D (1996) Biodiversity: population versus ecosystem
+Lawrence, p C4.1–C4.8 stability. Ecology 77:350–363
+MacArthur RH (1957) On the relative abundance of bird spe- Tilman D, Downing JA (1994) Biodiversity and stability in
+cies. Proc Natl Acad Sci US 43:293–295 grasslands. Nature 367:363–365
+MacArthur RH, Wilson EO (1967) The theory of island bio- Uhlig G (1964) Eine einfache Methode zur Extraktion der
+geography. Princeton University Press, Princeton vagilen mesopsammalen Mikrofauna. Helgol Wiss Meere-
+McCormick PV (1991) Lotic protistan herbivore selectivity sunters 11:178–185
+Editorial responsibility: John Dolan, Submitted: February 7, 2000; Accepted: May 15, 2000
+Edgewater, Maryland, USA Proofs received from author(s): June 30, 2000
+

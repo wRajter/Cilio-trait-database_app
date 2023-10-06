@@ -1,0 +1,779 @@
+I
+MARINE ECOLOGY PROGRESS SERIES
+Vol. 52: 39-53, 1989 Published February 16
+Mar. Ecol. Prog. Ser.
+Vertical distribution of planktonic ciliates -
+an experimental analysis of swimming behaviour
+Per R. Jonsson
+Tjarno Marine Biological Laboratory, P1. 2781, S-452 00 Stromstad, Sweden
+ABSTRACT: Many marine planktonic ciliates accumulate close to the water surface or around the
+pycnocline. Similar vertical distribution patterns are repeated if natural or cultured populations are
+allowed to swim in an experimental water-column. Turbulence, light, pycnocline or chemical gradients
+do not seem to be necessary to explain the accumulation close to the surface. It is suggested that gravity
+is the ultimate cause for directed swimming towards the surface, although no evidence could be found
+for a statocyst-like mechanoreceptor. Experimental analysis of ciliate models in glycerol and manipula-
+tions of ciliate density as well as medium density indicate that the negative geotaxis results from
+interactions between sinking velocity, swimming velocity, tumbling rate and shape or density asym-
+metry of the cell. This is supported by the lability of the geotaxis which can be reversed by changing
+temperature or light intensity which correlate with changes in swimming patterns. Measurements of
+vertical velocities show that the cihates studied can move between 1 and 2.5m h-' and this may
+determine, together with water turbulence, the vertical distribution of planktonic ciliates. A simple
+stochastic model was constructed in an attempt to study the combined effects of vertical swimming
+velocity and water turbulence. This model explains the different distribution patterns observed in the
+field as a function of the relative magnitude of vertical swimming velocity and water turbulence rate.
+The ecological significance of a possible ability of planktonic ciliates to influence their vertical
+distribution is discussed.
+INTRODUCTION modulated by physiological status. Microscale
+behaviour of bacteria has also been suggested (Azam &
+The recognition of Protozoa, such as heterotrophic Ammerman 1984); motile bacteria may accumulate
+flagellates and ciliates, as important predators on pico- around algal cells through a chemokinetical response
+and nanoplankton in the marine pelagial (Spittler 1973, to exudate gradients. In lakes, chemokinetic and
+Heinbokel 1978, Capriulo 1982, Fenchel 1982, Rassoul- photokinetic responses have been shown to influence
+zadegan 1982, Azam et al. 1983, Andersen & Sorensen the vertical distributions in some ciliates (Finlay et al.
+1986, Jonsson 1986, Verity 1986, Sherr & Sherr 1987) 1987). In loxodid ciliates a mechanoreceptor based
+calls for more detailed studies of the functional biology geotaxis has been demonstrated (Fenchel & Finlay
+of these groups of organisms. An interesting question 1984, 1986).
+with profound implications for plankton ecology is to Marine planktonic ciliates mainly feed on nano-
+what extent plankters are able to orient in response to sized prey (Rassoulzadegan & Etienne 1981, Capriulo
+environmental stimuli. The best known behaviour of 1982, Jonsson 1986, Verity 1986) including many
+plankters is the diurnal vertical migration of many autotrophic flagellates. In neritic areas, primary pro-
+mesozooplankters, with some of them migrating sev- duction is confined to a thin surface layer, and prey
+eral l00 m (e.g. Marshal1 & Orr 1955, Longhurst 1976). availability for ciliates decreases with depth with a
+Phototaxic behaviour of many autotrophs is also well marked reduction below the pycnocline. Because
+established although the ecological significance of ciliates are denser than seawater, they face the risk
+such behaviour is mostly unknown. Natural popula- of sinking out of the surface layer. An interesting
+tions of dinoflagellates show diurnal changes in their possibility is that planktonic ciliates, through directed
+vertical distribution (Hasle 1950, Eppley et al. 1968), motility, may compensate for sinking and even move
+and experimental studies (Eppley et al. 1968, Heany & towards the prey-rich surface waters. Some previous
+Eppley 1981) indicate that this is caused by phototaxis, studies support this possibility: planktonic ciliates
+O Inter-ResearcWPrinted in F. R. Germany
+
+40 Mar Ecol. Prog. Ser. 52. 39-53, 1989
+have been found most concentrated near the water Experimental vertical profiles. Vertical distribution
+surface (Cillbricht 1955, Vitiello 1964, Beers & of planktonic ciliates, either cultured or natural popula-
+Stewart 1969, Middlebrook et al. 1987). However, no tion~,w as studied in wide lOOml test tubes (200x
+study has specifically dealt with the possible mechan- 25 mm). At least 2 replicates of the test tubes were filled
+isms by which non-random distributions of planktonic with ciliates and incubated in the dark. To reduce
+ciliates are maintained in the sea. Here I report a convection currents within the tubes these were kept in
+detailed study of vertical distributions of marine a stirred water bath. All experiments were perfol-med
+planktonic ciliates and an analysis of swimming during the day. The vertical distribution of a population
+behaviour designed to investigate the possibility that was monitored by taking samples (0.2 to 3 rnl, depend-
+many planktonic ciliates can influence their vertical ing on ciliate concentration) at 4 or 5 depths from the
+position in the water-column. surface to the bottom of the tubes (150 mm depth).
+Ciliates were then fixed with Lugol's and counted in
+sedimentation chambers on an inverted microscope. In
+MATERIALS AND METHODS separate experiments the effects of changes in light
+intensity and temperature on vertical distribution were
+Material. Both cultured and natural populations of studied.
+planktonic ciliates were used. Strombidium reticulatum In order to test if a pycnocline can prevent planktonic
+(Leegaard), Lohmanniella oviformis Leegaard and Tin- ciliates from moving downwards, an experiment with
+tinnopsis carnpanula (Ehrenberg) were isolated from an artificial halocline was designed. Natural seawater
+the Kosterfjord. Sweden, and cultured as described in containing ciliates was collected from the surface, and
+Jonsson (1986). some of the water was filtered through a GF/C filter.
+Field vertical profiles. The sampling site was located The filtered seawater from the surface was mixed with
+near the shores (gm water depth) of the Kosterfjord on filtered seawater from 40 m depth which had a higher
+the west coast of Sweden. This area is influenced by salinity (33 ppt). This yielded a salinity approximately
+brackish water coming from the Baltic and flowing 4ppt above that of the original surface water. Test
+north along the coast. Occasionally freshwater from the tubes (100 ml) were filled to a depth of 100mm with
+Norwegian river Glomma may also affect the Koster- unfiltered surface water, and then the filtered, more
+fjord. This results in great variations in salinity of the saline seawater, was gently introduced at the bottom.
+surface water, which varies between 16 and 31 ppt. This artificial halocline was about 5 times steeper than
+Normally, a pronounced halocline is present at 2 to the most extreme gradients which I have observed in
+10m depth with salinity approaching 31 to 33ppt the field. As a control, filtered surface water (without
+below 40 m. With a hand-worked pump (Nalgene) and increased salinity), but slightly cooled to reduce mix-
+a 5 m hose samples were taken at 0.2 m intervals from ing, was introduced at the bottom. After l h, samples
+the surface down to 2m depth, and at 0.4 m intervals (3m l) were collected from 5 depths from surface to the
+between 2 to 5m depth. All samplings were made bottom (150 mm depth). Samples were fixed with
+around mid-day. Samples, 50 or 100 ml, were fixed Lugol's, and ciliates were counted in sedimentation
+with acid Lugol's and centrifuged (1000 xg, 15 min). chambers. At the termination of the experiment, salin-
+Centrifuged plankton was transferred to 3 m1 sedimen- ity at the 5 sampling depths was measured to check
+tation counting chambers, and clliates were identified that the halocline had remained ~ntact.
+and counted using an inverted microscope (Nikon Measurements of vertical velocity. Vertical velocity
+Diavert, 100 to 200x). Identification was sometimes of ciliates was measured using 2 different methods.
+facilitated by observations of living ciliates. The tax- Velocities of Laboea strobila, Parafavella denticulata
+onomy of naked oligotrich ciliates (suborder Oligotri- and Tintinnopsis campanula were measured as
+china) is largely based on insufficient descriptions and averages for individual ciliates swimming in a vertical
+the names used here may be regarded as provisional column. In Strombidium reticulatum, S. cf. emergens
+following Leegaard (1915). Identification of tintinnids and Lohmanniella ovlformis the upward drift of an
+(suborder Tintinnina) was based on the lonca descrip- initially homogeneously suspended population was
+tions of Marshal1 (1969). This also poses some prob- measured. This was done by counting ciliates moving
+lems, particularly for species agglutinating foreign par- upwards and downwards as a function of time at the
+ticles to the lorica, because of lorica polymorphlsm top of a 115 mm vertical water-column. The cumulative
+(Bakker & Phaff 1976, Laval-Peuto & Brownlee 1986). net migration was plotted against time, and reached an
+On each sampling occasion temperature and salinity equilibrium level when steady-state was achieved and
+profiles were recorded using a YSI-33 salinometer the net migration was zero. Division of the depth of the
+From these profiles, density profiles were calculated column with time indicated by extrapolation of the
+according to Cox et al. (1970). initial linear part of the curve to the equilibrium level is
+
+Jonsson: Vertical distribution of ciliates 4 1
+the mean vertical drift of the population (Fenchel & reorientation rate was measured on living cells. This
+Finlay 1984). was possible because this ciliate hovers while feeding.
+Swimming patterns. In connection with the studies of At regular intervals (a few seconds), this hovering is
+vertical distribution in experimental columns, swim- interrupted by swift jumps (about 3000 pm S-'). During
+ming patterns were recorded with a video camera the hovering phase, ciliates could be seen to reorient
+(Panasonic camera WVP-100E and NV-180 tape- until the membranelle zone was pointing upwards and
+recorder) fitted to a horizontally mounted dissecting the rate of change was measured.
+microscope (Wild M5, 12 to 25x). Sequences were Models in glycerol. To study the effect of density
+played frame by frame (25 S-'), and the position of and drag asymmetry on reorientation of a body sinking
+individual ciliates was plotted on plastic sheets in a viscous fluid, experiments with scale-models sink-
+attached to the screen. Swimming velocities and tum- ing in glycerol were performed. The models were
+bling rates were quantified from these tracings. shaped as ellipsoids slightly polnted at one end, 3 mm
+Test of chemosensory responses. To test if the vertical in cross section and made of rubber with a density of
+distribution of planktonic ciliates was affected by prey 1.31 g cm-3. Reynolds number of the sinlung models
+density, presumably through chemosensory responses, were ca IO-~an d should appropriately scale sinking
+behaviour in prey gradients was studied. Vertical prey ciliates with viscous force predominating. The effect of
+gradients were created by filling 50 m1 test tubes (200 X a density asymmetry was studied by gluing small
+18 mm) to a height of 30mm with a suspension of the pieces of plasticine (density 1.91 g cmp3) of varying size
+autotrophic flagellate, Pyrarnimonas sp. (ca 105 cells on the models. The plasticine pieces were flattened out
+m]-'), and then adding filtered and autoclaved seawater on the pointed end to reduce changes in the shape of
+up to 150 mm height. To reduce mixing, the salinity of the model. A possible drag asymmetry due to the mem-
+the filtered top water was reduced by 3 ppt and the test branelle zone was simulated using varying numbers of
+tubes were placed in a stirred water bath. Cultured small pieces of plastic film fixed like membranelles on
+Strombidiurn reticulatum were then introduced into the the blunt end of the model. Sinking models were video
+prey suspension at the bottom. After 1 h, samples (2 ml) recorded using a macro-lens, and reorientation was
+were taken at 5 depths. Similar experiments in test tubes followed frame by frame as described above for swim-
+containing filtered and autoclaved seawater, with and ming ciliates.
+without salinity stratification, served as controls. Manipulation of ciliate and medium density.
+Because it may be difficult to distinguish between Density of Tintinnopsis campanula and medium were
+chemical and mechanical responses of a predator, a manipulated in order to determine if the density of the
+simpler experiment was also performed. Small capillary lorica of tintinnids affects vertical swimming. In nature,
+tubes (10 X 0.5 mm) were filled with centrifuged flagel- T. carnpanula agglutinate foreign particles, such as
+lates (Pyramimonas sp.) or bacteria (Pseudornonas sp.) mineral grains and diatom frustules to its lorica. This
+and placed in culture dishes containing filtered and ability was utilized to change the density of the lorica.
+autoclaved seawater. Cultured S. reticulatum and S. Latex beads (5.8 pm) were added to the culture
+vestiturn were then added to the culture dishes. medium, and newly divided tintinnids were allowed to
+Accumulation or behavioural change in the ciliates build their loricae with these beads. Latex beads have a
+around the capillary tubes were monitored with a dis- density of 1.025 g cm-3 which is close to that of sea-
+secting microscope. water, thus making the lorica Lighter than natural
+Sinking and reorientation rates. Sinking rates of loricae which contain mineral grains. Tintinnids with
+Os04-fixed (2 % w/v) Strornbidiurn reticulatum, Strorn- the 2 kinds of loricae were allowed to swim upward
+bidium sp., Tintinnopsis campanula and T. parvula from the bottom of a culture dish. The time taken to
+were measured in spectrophotometer cells in stirred swim from the bottom to the surface was measured.
+water-baths. The sinking of individual ciliates was fol- Vertical velocity was first measured for tintinnids
+lowed with a horizontally mounted dissecting micro- swimming in filtered seawater, then the same individu-
+scope. When fixed individuals of S. reticulatum and als were transferred to a medium made of a mixture of
+Strombidiurn sp. sink, they reorient so that the cells are seawater and deuteriumoxide (heavy water) with a
+aligned along the vertical axis with the membranelle density of 1.052 g cmp3. The mixture was prepared by
+zone upwards. To measure this reorientation rate, mixing deuteriumoxide and partly evaporated (40 ppt)
+ciliates were studied in a spectrophotometer cell as seawater to yield seawater of 25 ppt containing about
+described above. The water with fixed ciliates was 35 O/O deuteriumoxide.
+stirred for a few seconds making orientation of ciliates Computer simulation. A simple model was con-
+more or less random. When stirring ceased, the time to structed to simulate the vertical distribution of planktonic
+reorient from 135 to 45" (0" when membranelle zone is ciliates as a function of vertical swimming velocity and
+upward) was measured. For Lohmanniella oviformis, turbulent diffusion. The model assumes that turbulence
+
+,P
+0
+-
+)m( W
+htpeD Y
+L
+n
+C
+)m(
+htpeD
+-i
+P
+30 W n V
+o
+O
+-
+)m( )m(
+N
+htpeD W htpeD
+a
+C
++
+- ' -$
+; .E - G
+:"Y
+g ." 6 W V
+0
+y m
+N
+)m(
+y
+htpeD
+e
+-
+~
+1 .h .E .g -$
+5 .n( "Y G W V
+
+Jonsson: Vertical distribution of ciliates
+nopsis campanula are allowed to swim in a 100 m1 test
+tube set in a water-bath, members of all species
+accumulate close to the surface (Fig. 3). Experiments
+were carried out in darkness and in the absence of
+turbulence since heat convection was negligible. No
+obvious gradients of food particles were observed.
+Observations of swimming ciliates reveal that the non-
+random vertical distribution is caused by net upward
+swimming. The average upward velocity component
+IOI! I.Ulh 1031 I O?J ranges from 260 to 690 pm S-' (Table 1) which is more
+Density (9 cni-' ) Abundance (cells or loricae I-' ) than half of the swimming speed of the studied species,
+thus indicating high directionality.
+Fig. 2. Tinhnnopsisparvula. Vertical distnbution at midday on The distribution of dividing Strombidium reticulatum
+May 6, 1987 of living cells (black) and empty loricae (stippled) differs drastically from that of non-dividing cells and is
+heavily skewed towards the bottom (Fig. 4). Oligotrich
+rate decays exponentially downwards and is reduced to ciliates have apokinetal stomatogenesis, causing the
+10 % at the pycnocline depth. Turbulence is simulated as newly developed membranelle zone to point in the
+a l-dimensional random walk given by K = U2T/2,w here opposite direction to the parental membranelles. This
+K = turbulence rate; U = up- or downward velocity of disrupts normal swimming behaviour and causes a
+water; T = time between changes of direction (Fenchel& reduced swimming velocity, an increased sinking ve-
+Finlay 1984). locity and peculiar swimming paths. These changes of
+swimming behaviour probably cause dividing cells to
+RESULTS accumulate at the bottom.
+Field vertical profiles
+Effects of light and temperature
+Vertical distribution of some natural populations of
+planktonic ciliates from 5 sampling occasions are shown The lability of the surface-skewed distribution was
+in Fig. l. Depth and development of the pycnocline demonstrated by changing light intensity or tempera-
+varied considerably between sampling dates as shown ture. In Fig. 5 accumulation towards the surface of
+by the density profiles mainly as a result of variations in Strombidium reticulatum is reversed when light ~nten-
+surface water salinity. It is obvious that most ciliate sity suddenly drops. The change in vertical distribution
+species show a pronounced non-random distribution and is accompanied by a reduction in swimming velocity
+the most striking feature is the accumulation close to the and time between tumbles (Fig. 6). The changes in
+surface or around the pycnocline. Many species have a vertical distribution and swimming pattern are mainly
+bimodal distribution with local maxima close to the temporary. After l h, swimming speed increases but
+surface and around the pycnocline, and for most of the remains somewhat lower than in the light, and the
+observed ciliates the abundance drops suddenly below ciliates once more accumulate at the surface. A similar
+the pycnocllne. There is some variation between the pattern is found if temperature is lowered. A reduction
+species. Tontonia gracillima, Strombidium conicum and
+Leprotintinnus pellucidus have a weaker tendency to
+Table 1. Vertical velocity of some planktonic ciliates, either
+accumulate close to the surface than tintinnids like L. directly measured on individual ciliates (mean f SE) (I), or
+bottnicus, Tintinnidium sp., Tintinnopsis parvula, T. based on the time taken for a population to reach a steady-
+campanula and Hel~costomellas ubulata. In Fig. 2 the state vertical distribution (S). See text for further information
+vertical distribution of living T. parvula and empty
+loricae are compared. The distribution of empty loricae Species Method Vertical velocity
+clearly differs from that of the living cells and the relative (pm s-~)
+abundance of empty loricae increases with depth.
+Laboea strobia I
+Parafavella den ticulata I
+Tintinnopsis campanula I
+Experimental vertical profiles Lohmanniella oviformjs S
+Strombidium cf. emergens S
+Strombidium reticula tum S
+When cultures of Strombidium reticulatum, Lohman-
+niella oviformis and natural populations of S. vestitum, ' Sample size
+S. cf. emergens, Helicostomella subulata and Tintin-
+
+44 Mar. Ecol. Prog. Ser. 52: 39-53, 1989
+Abund'111ce( cells nil-' ) Abundnnce (cells ml ' )
+Ahundancc (cclls nil ' l
+Pig. 3. Vertical distribution of 5 species of planktonic ciliates in
+experimental water-columns
+in temperature from 18 to 4'C strongly affects the ciliate behaviour is seen in Fig.9; Strombidium retlcu-
+distributions of S. reticulatum and S. cf. emergens as latum accumulated at the surface irrespective of the
+shown in Fig. 7, and drastically reduces swimming presence or absence of a halocline. Observations of
+speed of S. reticulatum (Table 2). individual S. reticulatum and Tintinnopsis campanula
+starting from the bottom of a test tube and swimming
+through a steep halocline (ca 0.5ppt cm-') reveal no
+Halocline effects changes in upward swimming behaviour.
+Although a pycnocline is not a necessary condition
+for the observed accumulations of c~hateisn the experi- Chemosensory ability
+mental water-columns, I tested if a pycnocline has any
+effect on the vertical distribution. The aim was to test if Experiments show that even an extremely steep prey
+an artificial halocline prevented ciliates from entering gradient, decreasing towards the surface, has no sig-
+the more saline bottom water. The results in Fig. 8 show nificant effect on the vertical distribution of Strom-
+some scatter but no essential difference can be seen bidium reticulatum (Fig. 9). Absence of responses to
+between the halocline columns and the controls. food density is also evident when S, reticulatum or S.
+Further evidence that a steep halocline does not affect vestitum swim through food patches, made with capil-
+
+Jonsson: Vertical distribution of ciliates 45
+n o. I 0.2 0.4
+Propor~io~ofi cclls in division
+Fig. 4. Strombidium reticulatum. Proportion (mean f SE) of
+d1ivid ing cells as a function of column depth
+;
+Fig. 6. Strombidium reticulatum. Changes in swimming veloc-
+-
+ity (a) and time between tumbles (b) (mean f SE) following
+sudden drop in light intensity
+C5
+-' loo 7
+C lary tubes slowly lealung microalgae and bacteria.
+U
+When these ciliates approach or swim through a food
+IS patch they change neither swimming velocity nor
+tumbling rate and their distributions remain random
+relative to the food patches.
+-
+E
+Hydrodynamical reorientation
+---
+- When fixed oligotrich ciliates are allowed to sink
+,,.
+ij - through the water, the cells start to reorient until the
+A-,$.
+anterior end points upwards. As seen in Table3, this
+reorientation of the cells is very fast, 10 to 30° s l ,in fact
+T T
+so fast that it was difficult to measure. Unfortunately, I
+'
+Abundance (cells rnl
+could not obtain any meaningful measurements of
+reorientation rate of tintinnids because all species
+Fig. 5. Strombidium reticulatum. Vertical distribution (2
+replicates) in fight (black) and 15 rnin after sudden drop in tested contract into the lorica on fixation. Since the
+light intensity (stippled) observed reorientation of oligotnch ciliates may be a
+Srrombidium cf. emergens Slrombidium rericularum
+Abundance (cclls rnl ' )
+Fig. 7. Vertical distribution of Strombidium cf. emergens (2 replicates) and S. reticulatum in 18°C (black) and in 4 'C (stippled)
+
+46 Mar Ecol. Prog. Ser. 52: 39-53, 1989
+Table 2. Strombidium reticulatum. Swimming velocity (+_SE)
+as a function of temperature
+Temperature ("C) Swimming velocity (pm S-')
+18.5 1070 f 73 (14)'
+4 410 f 28 (14)
+Sample size
+I 10
+Abundance (cells ml ' )
+~p I0
+Abundance (cells rnl-' ) Abundance (cells m1 ' '
+IU
+Abundancc (cells rnl ' )
+Fig. 9. Strombidium reticulatum. Effect of prey gradient on
+Abundance (cells rnl-l ) vertical distribution. (a) Prey gradient decreasing towards
+surface in a salinity-stratified column; (b) without prey in a
+Fig. 8. Vertical distribution of planktonic ciliates in columns salinity-stratified column; (c) without prey in a mixed column
+with and without artificial halocline (2 replicates). (L) Strom-
+bidium conicurn; (A) S. cf. emergens; (D) Tontonia gracilluna;
+(a) HeLicostomella subulata; (0)T intinnopsis campanula; (0) Table 3. Sinking rates (& SE) and reorientation rates (t- SE) of
+Favella ehrenbergii some planktonic cillates Results are for Os04-flxed cells,
+except for Lohmanniella oviformis where measurements were
+made on living cells
+possible mechanism for ciliates to swim upwards with
+greater probability than downwards, an attempt was
+Species Sinking Reorientation
+made to analyze the causes of reorientation. Scale- rate (km S-') rate (" S-')
+models of ciliates were allowed to sink in a column of
++
+glycerol where viscosity and dimensions of the models Strombidium reticulatum 29 2.5 (19)' 33 f 2.9 (15)
++
+were chosen to simulate a hydrodynamical situation Strom bidium sp. 29 2 (26) 22 C 2 (24)
+Lohmanniella onformis nd" 9.3 +- 0.7 (20)
+where viscous forces predominate. When an ellipsoid
+Tintinnopsis parvula 72 2 9 (6) nd
+model is dropped in the glycerol column, it starts to Tintinnopsis lobiancoi 104 2 5.9 (2) nd
+sink, but keeps its initial orientation. In the first series Empty loricae of 66+4.1(4) nd
+of experiments, the density distribution of a model was T lobiancoi
+manipulated with small weights at the posterior end.
+Sample size
+Fig. 10a illustrates increases in reorientation rate with " Not determined
+density asymmetry; without density asymmetry
+
+Jonsson: Vertical distribution of ciliates 47
+function of the number of plastic 'membranelles' is
+shown in Fig. lob. Without 'membranelles' reorienta-
+tion rate is zero; it increases with the number of 'mem-
+branelles'. Note that reorientation rates of scale-models
+can only be used qualitatively since sinking rates
+measured as cell lengths per unit time did not scale.
+UU I?: 11 2 a G X
+Aboral u.cight (m=) Tintinnid density asymmetry
+E
+It is tempting to suggest that the lorica of tintinnids is
+denser than the cell and would cause reorientation of
+tintinnids resulting in a greater probability to swim
+upwards. To test this hypothesis an experiment was
+designed where density of both a tintinnid, Tintinnopsis
+campanula, and the medium were manipulated. By
+allowing tintinnids to build their lorica with latex beads
+the lorica became less dense as apparent from the
+reduction in sinking velocity shown in Table4. The
+vertical velocity of the two kinds of tintinnids was first
+Fig. 10. Reorientation rate of scale models sinlung in glycerol
+measuredin seawater with normal density and then they
+as a function of (a) aboral \veight and (b) membraneue
+number, Arrow indicates the approximate scaled density Were transferred to Seawater with increased density by
+asymmetry in Strombidiunl species mixing seawater and deutel-lumoxide (heavy water). As
+a control of any physiological changes caused by
+deuteriumoxide the ciliates were finally transferred back
+(weight = 0) reorientation rate is 0. Planktonic ciliates
+to seawater again and the vertical velocity was measured
+of the family Strombidiidae have cortical polysac-
+immediately. The results (Table 4) show that there is a
+charide plates which cover the posterior end. Since
+statistical difference (p < 0.001) in vertical velocity
+polysaccharide is denser than cell contents, the cell
+between both the kinds of loricae and between the
+should show some density asymmetry. This was
+media, and the vertical velocities correlate positively
+roughly calculated assuming a density of the 1 pm thick
+with increased density asymmetry. The vertical vel-
+polysaccharide plates of 1.5g and a cell density of
+ocities measured in seawater before and after transfer to
+1.07 g cm-" The density asymn~etryo f the scale-model
+the deuteriumoxide-containing medium are not signifi-
+corresponding to the calculated asymmetry of the cili-
+cantly different (p > 0.05) although there is a trend of
+ate is shown with an arrow in Fig. 10a. In the second
+increasing velocity in the last treatment.
+series of experiments I investigated the effect of shape
+asymmetry on reorientation rate. The most asymmetri-
+cal feature of oligotrich ciliates is the oral zone of DISCUSSION
+membranelles. Individual membranelles were imitated
+by small pieces of plastic film which were fixed to the Previous works show that natural populations of
+anterior part of the model. Reorientation rate as a marine planktonic ciliates often exhibit non-random
+Table 4. Tintinnopsis campanula. Vertical velocity (fS E) and sinking velocity (+ SE) as a function of ciliate and medium density.
+Density of ciliates was manipulated by letting tintinnids incorporate latex beads instead of mineral particles in their lorica;
+medium density was changed by mixing seawater with deuteriumoxide. Control of vertlcal velocity in sea-water was made after
+treatment with medium containing deuteriumoxide
+Type of lorica p = 1.021 g cm-3 p = 1.052 g cm-3 Control: p = 1.021 g
+Sinking velocity Vertical velocity Sinking velocity Vertical velocity Vertical velocity
+Mineral particles 122 5* 16 (6)' 260 2 42 (7) 87 f 6.9 (6) l60 k 29 (7) 310 5 38 (7)
+Latex beads 67 5.2 (7) 64 5 19 (11) 44 f 2.5 (4) 34 f 5.2 (11) 140 2 61 (9)
+' Sample size
+p<0.001 for vertical velocity between lorica types and between medium densities (2-way ANOVA)
+p> 0.05 for vertical velocity between seawater medium before and after treatment with deuteriumoxide (Mann-Whltney)
+
+48 Mar. Ecol. Prog. Ser. 52: 39-53, 1989
+vertical distributions (Gillbricht 1955, Vitiello 1964, change of concentration during a path length (the dis-
+Beers & Stewart 1969, Middlebrook et al. 1987). Gener- tance moved between tumbles) and suppress the
+ally the distributions are skewed towards the water tumbling rate when they are swimming up a favour-
+surface, particularly for many tintinnids. Similar dis- able gradient. This so-called transient response is
+tribution patterns are found in the present study, and much more efficient than a simple kinetic response,
+detailed sampling reveals that distributions differ provided that the gradient is sufficiently steep. As a
+between species of planktonic ciliates. Considering rough example, I assume a ciliate like S. reticulatum
+reproduction, mortality, stratification of water, wave swimming in a helix with a swimming speed of 1000
+and wind driven turbulence, a random vertical dis- btm S-' (Table 4) yielding a transportation rate of 500
+tribution can hardly be expected. But in addition to pm S-' and a tumbling frequency of 0.25 S-' (Fig. 6b). If
+these non-adaptive processes, there is the interesting tumbling rate is suppressed to 0.15 S-' when the ciliate
+possibility that ciliates may, by directed motility, influ- covers 75 % of the maximum upward gradient in one
+ence their vertical distribution. The strongest indication path length, a stochastic simulation shows that the
+from the field profiles that ciliate motility may influence vertical velocity would be about 150 Itm S-'. This is not
+vertical distribution is the difference in distribution far from the vertical velocities actually found (Table 1).
+between tintinnids and their empty loricae (Fig. 2). The However, it is difficult to find gradients over several
+empty loricae show a distribution more skewed to the meters long which are sufficiently steep so that a ciliate
+bottom than living tintinnids, although living tintinnids may sense a change in one path length of some mm.
+have greater sinking velocity than empty loricae Chemosensory orientation in ciliates may be important
+(Table 3). However, it is difficult to conclude from mere on a microscale, e.g. when a predator approaches a
+field studies which mechanisms are causing the prey, but it is probably safe to assume that it is not
+observed vertical distrj.butions and to evaluate the con- important in modest gradients over several meters.
+tribuhon of ciliate swimming behaviour
+To study individual mechanisms, vertical distribu-
+tions of planktonic ciliates were studied in experimental Geotaxis
+water-columns. These show that the accumulation at
+the surface is not dependent on light, stratified water or A possible cue to vertical orientation is of course
+turbulence. Haloclines many times steeper than found gravity. Many protists are known to swim upwards or
+in the field do not significantly affect vertical distribu- downwards in the absence of other stimuli. This has
+tion and ciliates swimming through steep haloclines do been described as geotaxis. True geotaxis mediated by
+not exhibit changes in tumbling beha.v~ouro r obvious a statocyst-like mechanoreceptor has recently been
+changes in swimming velocity. I therefore hypothesize demonstrated for a limnic ciliate (Fenchel & Finlay
+that the observed accumulation around the pycnocline 1984, 1986), but so far this is only known for the ciliate
+in the field is not caused by behavioural responses to the family Loxodidae. Roberts (1970, 1981) has explained
+salinity and temperature gradient but rather is a result of other cases of apparent geotaxis as a result of sinlung
+reduced turbulence, as discussed below. velocity and some asymmetry of the cell, either in
+Absence of behavioural responses to patches of con- density or hydrodynamical drag. When a cell which is
+centrated bacteria and algae indicates that chemical denser then the medium sinks through the water an
+gradients are of minor importance as a cause of the asymmetry in density will cause the centre of buoyancy
+oriented responses of the ciliates I studied. It is striking
+to compare the planktonic species of Strombidium hav-
+ing an apparently weak chemical response to prey,
+with the efficient kinetic response in, the benthic Strom-
+bidium sulcatum (Fenchel & Jonsson 1988).B y theoret-
+ical considerations, it is possible to further examine the
+potential of chemical gradients for vertical orientation
+in the pelagial. Assuming a kinetic response to a prey
+gradient, the time taken for a ciliate to move from one
+end of the gradient to the other can be calculated to be
+of the order of 12/~,w, here 1 = length of the gradient;
+D,. = motility (diffusion coefficient) of th.e ciliate (Okubo
+1980, Fenchel 1987). If D, is about 1 mm2 S ' , which is Fig. 11 Schematic drawing showing (a) separation of the
+centre of gravity, g, and the centre of buoyancy. B, and the
+typical of many ciliates, a vertical gradient of 1 m would
+induced torque, R, due to density asyrnn~etrya nd (h) separa-
+take on average 10d to swim through. Another possi- tion of the centre of gravity and the centre of drag, D, due to
+bility for ciliates to onent in a gradient is by sensing the shape aqrnmetry
+
+Jonsson: Vertical distr~butiono f c~liates 49
+and the centre of gravity to be separated and a gravity study, the distributions are expected to be much more
+induced torque will start to reorient the cell until the skewed to the surface than actually found in the water-
+centres are aligned with the force of gravity (Fig. lla). column experiments (Fig. 3). One explanation for this
+An asymmetry in shape, with accompanying asym- discrepancy is that the high reorientation rates,
+metry in hydrodynamical drag, will reorient the cell in between 20 and 30" S ' , w ere obtained from measure-
+an analogous way until the centre of gravity and the ments on fixed non-motile ciliates. In swimming
+centre of drag align with the force of gravity (Fig. 1l b). c~liates,t he reorientation component caused by the
+If there is a front-rear asymmetry, the cell will either drag of the membranelles will only be effective when
+swim downwards or upwards. It can also be shown that ciliates stop swimming, e.g. during tumbles. This is
+for cells reorienting with the anterior end upward, the indicated by the low reorientation rate of living
+vertical position is a balance between swimming veloc- Lohmanniella oviformis, where reorientation is pre-
+ity, sinking velocity, tumbling rate and reorientation sumably caused by the membranelles when this ciliate
+rate (Roberts 1970). In summary, it can be concluded 'hovers' between sudden jumps. Another important
+that although no gravity sensing organelle is present a characteristic of real populations that makes the dis-
+ciliate may respond to gravity through interactions tribution broader, is the great variation in behaviour
+between sinking velocity and the morphology of the between individuals, e.g. between dividing and non-
+cell. The ciliate can not perceive the direction of grav- dividing cells (Fig. 4). Unfortunately, it is difficult to
+ity, so it is not a true taxis, and instead I will here refer formulate a model of vertical distribution that includes
+to it as passive geotaxis. this individual variation of reorientation rates, sinking
+In none of the planktonic ciliates studied have I velocity and swimming behaviour.
+found a mechanoreceptor that might function as a The experiment with manipulations of the density of
+gravity sensor. Fenchel & Finlay (1984) calculated that Tintinnopsis campanula and its medium strongly sug-
+to overcome Brownian motion a statocyst must be at gests that the lorica of tintinnids has an effect on
+least a few microns and thus lt should be visible in light reorientation of the cell resulting in upward swimming.
+microscopy. A mechanoreceptor must affect the activity The use of deuteriumoxide (heavy water) first requires
+of the cilia in order to mediate the direction of gravity to a cautionary remark. Deuteriumoxide is known to
+an appropriate behavioural response. Geotaxic correc- affect the physiology of cells in various ways e.g. the
+tion of ciliates deviating from the desired orientation structure of microtubuli. The concentrations of
+probably always involves repeated tumbling with small deuteriumoxide I used in the experiments did not
+changes of direction as described in Fenchel & Finlay apparently alter swimming speed and tumbling rate
+(1984). No such tumbling behaviour was observed in but it can not be excluded that swimming behaviour
+this study, instead changes in vertical orientation of might have been affected. However, the similar results
+ciliates are smooth and continuous. The observations of vertical velocity in seawater obtained before and
+that changes in light intensity and temperature reverse immediately after the treatment with deuteriumoxide
+the vertical distribution (Figs. 5 and 7) and that this (Table 4) suggest that the differences in vertical veloc-
+correlates with changes in swimming behaviour, also ity between seawater and the medium containing
+suggest a labile, passive geotaxis rather than a mecha- deuteriumoxide are not caused by any physiological
+noreceptor-based true geotaxis. change. From the experiments with T. carnpanula, I
+The high reorientation rates found for fixed oligotnch conclude that the lonca creates a density asymmetry in
+ciliates (Table 3),a nd experiments with scale-models in the tintinnid with the denser lorica inducing a torque
+glycerol, suggest that asymmetries in density and drag tending to reorient the tintinnid with the lonca down-
+could be mechanisms causing planktonic oligotrich wards. This would lead to the observed upward swim-
+ciliates to swim upwards. They show a pronounced ming and accumulation at the surface. Reducing this
+asymmetry in shape due to the oral membranelles and density asymmetry either by reducing weight of the
+it seems reasonable to believe that the membranelles lorica with latex beads or by increasing the buoyancy
+account for significant drag but contribute little to cell with a denser medium resulted in the expected reduc-
+weight. This should reonent a cell with the anterior end tion of vertical velocity. Although not statistically
+upwards. Furthermore, the posterior 'cap' of polysac- different, the trend of increased vertical velocity in
+charide cortical plates should also contribute to this seawater after swimming in the deuteriumoxide
+reorientation by malung the posterior end denser. medium may be explained by assuming that the large
+Knowing the parameters of swimming behaviour, sink- space inside the lorica not occupied by the cell was
+ing velocity and reorientation rate, the expected verti- initially filled with the deuteriumoxide mixture and the
+cal distribution can be analytically calculated (Roberts density asymmetry in the tintinnid was further accentu-
+1970) and compared to that actually found. If this is ated.
+applied to the high reorientation rates found in this There is a great diversity of lorica shapes and build-
+
+50 Mar Ecol. Prog. Ser. 52: 39-53, 1989
+(Fenchel & Finlay 1984, 1986). Another possibility
+would be an organelle sensitive to the direchon of light,
+but phototaxis in ciliates has unambiguously only been
+described in Stentor coeruleus (Song et al. 1980). The
+lack of these perception organelles in tintlnnids and
+oligotrichs may thus be due to phyletic constraints.
+However, a true physiological taxis may also be a
+disadvantage in the turbulent marine pelagial. Fre-
+quent changes of the cell orientation caused by water
+movements would trigger compensation responses to
+Lorica diarnc1cr (pm) regain the upward orientation, including a series of
+tumbles. During tumbles, ciliary beat is reversed and
+Fig. 12. Lorica size in agglutinated (filled circles) and hyallne
+feeding is interrupted, thus frequent disturbances
+tintinnids (open squares). Isolines show where tintinnid sink-
+ing velocity is 300 pm s-' as a function of lorica size and would reduce time for feeding. A passive geotaxis can
+density (g cm-?) function constantly without interfering with feeding
+activities. The reduced precision may not be important
+ing materials among different species of tintinnids. in the marine pelagial where no steep gradients are
+Some species agglutinate mineral particles to the lorica normally found. In contrast, loxodid ciliates are living
+and other species build a hyaline lorica entirely of in low-turbulent environments where chemical gra-
+organic substances. The vertical distribution of the dients are very steep. A vertical difference of a few mm
+hyaline Helicostomella subulata shows that the posses- may be a matter of life and death and behavioural
+sion of a lorica with mineral particles is not necessary responses with high precision are necessary. Here the
+for upward swimming, but the experiments with Tin- ability of loxodid ciliates to perceive gravity is clearly of
+tinnopsis campanula indicate that a lorica without min- great value.
+eral particles results in reduced vertical velocity. A
+lorica built of organic macro-molecules will still be
+denser than the cell and may cause reorientation. It Ciliate movement and water turbulence
+may be speculated that when mineral particles are
+available a small agglutinated lorica results in suf- The vertical velocities of some planktonic ciliates
+ficient reorientation. In tropical and off-shore areas shown in Table 1 obviously enable ciliates to concen-
+where mineral particles are scarce, large hyaline trate at the surface in experimental water-columns
+species often dominate. The construction of a large without any water turbulence, but will ciliate vertical
+lorica of less dense organic material may be an alterna- velocities of 300 to 700 llm S-' be of any significance out
+tive strategy to have a small, dense lorica to achieve in the turbulent pelagial? A strong biological indication
+reorientation. It is probably also important that species that protists through motility may influence their verti-
+building large loricae possess some mechanism that cal distribution comes from studies of diurnal vertical
+prevents incorporation of mineral particles since sink- migrations of ciliates (Stoecker et al. 1984, McManus &
+ing velocity will approach swimming velocity as the Fuhrman 1986) and dinoflagellates (e.g. Hasle 1950,
+lorica becomes denser. This is illustrated in Fig. 12, Heaney & Eppley 1981). Data are most extensive for
+where together with data gathered on lorica size (Mar- migrating dinoflagellates which have vertical velocities
+shall 1969, Capriulo & Carpenter 1983, Verity 1987) for similar to or lower (Heaney & Eppley 1981) than found
+species with agglutinated and hyaline loricae, isolines for the planktonic ciliates in this study, and their ability
+for a sinking velocity of 300 pm S-' are shown as a of diurnal changes In distribution patterns shows that
+function of lorica size and lorica density. The calcula- swimming behaviour is not negligible compared to
+tions of sinking velocity assume a cylindrical shape of water movements.
+tintinnids, that the cell completely fills the lorica, a cell The vertical turbulence of seawater is very difficult to
+density of 1.07 g cm-3 and a Stokes radius. This roughly measure di.rectly, but if changes of salinity and temper-
+shows that agglutination of the lorica constrains the ature in space and time are known indirect estimates
+possible lorica size. are possible. Such estimates of vertical eddy diffusivity,
+If many planktonic ciliates gain in fitness by directed which measures turbulent transport, has been found to
+swimming upwards, why have not special percept~on vary greatly between 0.04 and 100 cm2 S-' depending
+organelles evolved instead of the passive geotaxis sug- on wind, waves, depth, currents and denslty stratifica-
+gested in this study? A statocyst-like mechanoreceptor tion (Defant 1961). Sundby (1983) presented a model
+would be the obvious choice but this kind of organelle designed to describe the vertical distribution of pelagic
+is presently known only in the ciliate family Loxodidae fish eggs. The model considers the combined effect of
+
+Jonsson: Vertical distribution of ciliates
+A bundance
+Fig. 13. Simulation of vertical distribution as a function of turbulent diffusion and vertical swimming velocity. Vertical diffusivity
+(K,) expressed as cm2 S-' was varied holding vertical swimming velocity at 0.05 cm S-' and the pycnocline at 2 m
+vertical turbulence and the vertical velocity of posi- of the model are rather similar to a distribution process
+tively buoyant eggs. The solution to the diffusion equa- with a kinetic response where motihty (diffusion coeffi-
+tion is cient) differs between 2 environments. Accumulation
+occurs in the environment with the lowest motility and
+the steady-state distribution will be inversely pro-
+where C(z) = concentration of eggs as a function of portional to the local motility (Okubo 1980). With low
+depth z; C(a) = concentration of -e ggs at the depth a; turbulence, the diffusion rate is similar above and
+W = vertical velocity of eggs; K eddy diffusivity. If below the pycnocline and the directed swimming
+this model is applied to the vertical velocities found for results in accumulation at the surface. When turbu-
+some planktonic ciliates, a significant accumulation of lence increases, the diffusion rate of ciliates is higher
+ciliates at the surface results below an eddy diffusivity above the pycnocline and ciliates accumulate below
+of around 25 cm' S-'. This indicates that planktonic where motility is lower. Directed movement causes
+ciliates will be able to influence their vertical position ciliates to concentrate around the pycnocline where the
+at least under some conditions of weather and hydro- transition of diffusion rates occurs. This model tenta-
+graphy. Equation (1) assumes a completely mixed tively explains why many of the ciliates studied in the
+water mass where the eddy diffusivity is constant with field showed local maxima around the pycnocline and
+depth. Presence of a pycnocline will reduce eddy dif- the often sudden reduction in abundance below the
+fusivity with increasing depth and this will influence pycnocline (Fig. 1). In addition, it suggests that differ-
+the distribution of ciliates. In an attempt to simulate a ences in distribution patterns among species may be a
+stratified water mass, a simple stochastic model was result of differences in swimming velocity.
+constructed. The model considers a water-column with
+2 layers separated by a pycnocline. Turbulence is simu-
+lated as a stochastic vertical movement where the verti- Ecological implications
+cal diffusivity (K,) decays exponentially with depth and
+is 10 % of the surface value at the pycnocline. Ciliates If many planktonic ciliates have the ability to swim
+in the water-column move upwards with a higher prob- upwards and to accumulate in surface waters, what are
+ability than downwards in each time unit. Simulated on the ecological implications? A predator that can orient
+a computer, this model produced the distribution pat- towards prey can grow at lower prey concentrations
+terns shown in Fig. 13. The combined effect of swim- than a predator that moves randomly. Generally, suit-
+ming behaviour and turbulence in this model yields able prey for ciliates are found in surface waters, and
+qualitatively different distribution patterns as a func- prey decrease in abundance with depth. Vertical swim-
+tion of the relative order of turbulence rate and ciliate ming would therefore increase the probability that a
+vertical velocity. When turbulence is low relative to ciliate would move into and remain in areas rich in
+vertical swimming velocity ciliates accumulate at the prey, and thus the ingestion rate of prey should be
+surface but with increasing turbulence the distribution higher than if the ciliates movement were random. This
+peak moves towards the pycnocline. At intermediate also bears on sampling strategy, where heterogeneous
+turbulence bimodal distributions occur with maxima at distributions of ciliates may result in erroneous
+the surface and around the pycnocline. The dynamics estimates of average abundance, reproduction and cal-
+
+52 Mar Ecol. Prog. Ser. 52: 39-53, 1989
+culated ingestion rates. The difference in distribution of Acknowledgements. I am grateful to Professor Anders Stige-
+non-dlviding and dividing cells (Fig, 4) also calls for brandt for valuable discussions about turbulent water trans-
+some caution when the frequency of dividing cells Port- I thank One referee greatly
+improved the readability of the manuscript. This study was
+(HagstrGm et 1979*C oats & HeinbOkel 1982) is used
+supported by the Swedish Natural Science Research Council
+as a measure of in situ reproduction rate. through contract B-DT 1860-107.
+It may be speculated that differences in mean verti-
+cal velocity will separate different species vertically,
+thus reducing competition. The lability of the sug-
+LITERATURE CITED
+gested passive geotaxis as indicated in Figs. 5 to 7
+could also alter vertical distributions of planktonic Andersen, P., Serrensen. H. M. (1986). Population dynamics
+ciliates as a result of changes in water temperature and and trophlc coupling in pelagic , m icroA organism; in eu-
+trophic coastal waters. Mar. Ecol. Prog. Ser. 33: 99-109
+availability of mineraI particles for tintinnids. This
+Azam, F., Ammerman, J. W. (1984).C ycling of organic matter
+could affect the distributions of species differently
+by bacterioplankton in pelagic marine ecosystems: mi-
+according to their responses to changes in the environ- croenvironmental considerations. In: Fasham, M. J. R. (ed.)
+ment. A species adapted to warm water may lose the Flows of energy and materials in marine ecosystems.
+Plenum Press, New York, p. 345-360
+ability to swim upwards in cold water if swimming
+Azam, F., Fenchel, T., Field, J. G., Gray, J S., Meyer-Reil,
+speed is reduced. Similarly, vertical distributions of
+L. A., Thingstad, F. (1983). The ecological role of water-
+tintinnid species may or may not be affected by availa- column microbes in the sea. Mar. Ecol. Prog. Ser 10:
+bility of inorganic particles depending on the type of 257-263
+lorica. If the vertical position in the water-column Bakker, C., Phaff, W. J. (1976).T intinnida from coastal waters
+of the S. W.-Netherlands I. The genus Tintinnopsis Stein.
+influences survival and reproduction rates, some
+Hydrobiologia 50: 101-1 11
+species may therefore be excluded from the pelagial
+Beers, J. R., Stewart, G. L. (1969). The vertical distribution
+under some conditions. Upward swimming could also of microzooplankton and some ecolog~calo bservations.
+increase fitness in s~eciesw ith life-cvcles in which J. Cons. int. Explor. Mer 33: 30-44
+encystment occurs .(Paranjape 1g8~: 1987). Capriulo, G. M. (i982). Feeding of field collected tintinnid
+micro-zooplankton on natural food. Mar. Biol. 71: 73-86
+excysting from cysts On the bottom Capriulo, G M,, Carpenter, E. J. (1983). Abundance, species
+would be guided towards the surface by directed swim- composition and feeding- im -p act of tintinnid micro-zoo-
+minq- . p elarn kton in central Lonq Island Sound. Mar. Ecol. Proq- .
+Passive geotaxis is an example of how behaviour is 10: 277-288
+affected by the morp~o~ogoyf the organism,~ ~ ~ ~Coats h, D. ~W., H leinb -okel , J. F. (1982).A study of reproduction
+and other life cycle phenomena in planktonic protists
+ogy is of course largely a result of physiological pro-
+using an acridine orange fluorescence technique. Mar
+cesses during ontogeny, but the behaviour is termed Biol. 67: 71-79
+~assiveb ecause the reorientation rate of the indi- Cox, R. A., McCartney, M. J., Culkin, F. (1970). The specific
+vidual ciliate may be viewed as a fixed trait deter- gravitY/saline/tem~eraturer elationsh~p in natural sea
+water Deep Sea Res. 17: 679-689
+mined by It is important to point Out that Defant, A. (1961). Physical Oceanography, Vol. I. Pergamon
+even if this reorientation is a passive consequence of Press, Oxford
+morphology it may still be an adaptation. If individuals Eppley, R. W., Holm-Hansen, O., Strickland, J. D. H. (1968).
+-. - -
+gain in fitness by upward swimming, due to certain Some observations on the vertical migration of dinoflagel-
+heritable features of morphology, this will lead to lates. J. Phycol. 4: 333-340
+Fenchel, T. (1982). Ecology of heterotrophic microflagellates.
+evolution of reorientation by natural selection. This
+IV Quantitative occurrence and importance as bacterial
+also implies that if passive geotaxis increases fitness of consumers. Mar Ecol. Prog. Ser. 9: 35-42
+.
+ciliates inhabitina the ~elaaial,o nlv a limited set of Fenchel, T (1987). Ecology of Protozoa. Science Tech/
+U U Springer Verlag, ~adisok
+cell morphologies may be expected. Many unrelated
+Fenchel, T., Finlay, B. J. (1984).G eotaxis in the ciliated proto-
+planktonic ciliates such as species of Urotricha,
+zoon Loxodes. J. exp. Biol. 110: 17-33
+C~clotrjchjum,M esodinium, Tiarina and the Oligot- Fenchel, T., Finlay, B. J. (1986).T he structure and function of
+richida share the possession of lonq oral cilia or mem- Miiller vesicles in Loxodid ciliates. J. Protozool. 33: 69-76
+branelles arranged in a peristomial ring. It may be Fenchel, T., Jonsson. P. R. (1988). The functional bl010gy of
+Strornbidium sulcatum, a marine oligotrich ciliate (Cilio-
+speculated that this convergence of morphology is
+phora, Oligotrichina). Mar Ecol. Prog. Ser. 48: 1-15
+partly the of for an increased 'pward Finlay, B, J.,B erninger, ",-G, Stewart, J L,, Hind]e, R, M,,
+reorientation of the cell. Davison, W. (1987). Some factors controlling the distribu-
+Finally, I suggest that passive geotaxis, based on tion of two pond-dwelling ciliates with algal symbionts
+(Frontonia vernalis and Euplotes daidaleos). J. Protozool.
+density asymmetry, may also apply to some planktonic
+34: 349-356
+rotifer' (e'g' genus Kerate'a) and planktonic Gillbricht, M, (1955). Wucherungen Phytoplankton in
+larvae of benthic invertebrates, e.g. molluscan veliger einem abqeschlossenen Hafenbecken. Helaolander wiss.
+larvae.
+
+Jonsson: Vertical distribution of ciliates 53
+Hagstrom, A., Larsson, U ., Horstedt, P, Normark, S. (1979). ing cysts in a hyaline tintinnid, He/l~0St0mellas ubulata
+Frequency of dividing cells, a new approach to the deter- (Ehre.)J srgensen J. exp. mar Biol. Ecol 48: 23-33
+mination of bacterial growth rates in aquatic environ- Rassoulzadegan. F (1982).D ependence of grazing rate, gross
+ments. Appl. environ. Microbial. 37. 805-812 growth efficiency and food size range on temperature in a
+Hasle, G. R. (1950). Phototactic vertical migration in marine pelagic oligotrichous ciliate Lohnlanniella spiralis Leeg..
+dinoflagellates. Oikos 2: 162-175 fed on naturally occurring partlculate matter Annls Inst.
+Heaney, S. I., Eppley, R. W (1981). Light, temperature and oceanogr.. Paris 58: 177-184
+nitrogen as interacting factors affecting die1 vertical migra- Rassoulzadegan, F., Etienne, M. (1981). Grazing rate of the
+tions of dinoflagellates in culture. J. Plankton Res. 3: tintinnid Stenosemella ventricosa (Clap. & Lachm.) Jorg.
+331-344 on the spectrum of the naturally occurring particulate
+Heinbokel, J. F. (1978). Studies on the functional role of matter from a Mediterranean ner~tic area. Limnol.
+tintinnids in the Southern California Bight. 11. Grazing Oceanogr 26: 258-270
+rates of field populations. Mar Biol. 47: 191-197 Reid, P. C. (1987).M ass encystment of a planktonic oligotrich
+Jonsson, P. R. (1986). Particle size selection. feeding rates and ciliate. Mar Biol. 95: 221-230
+growth dynamics of marine planktonic oligotrichous Roberts, A. M. (1970). Geotaxis in motile micro-organisms.
+ciliates (Ciliophora: Oligotrichina). Mar. Ecol. Prog. Ser J. exp. Biol. 53: 687-699
+33: 265-237 Roberts, A. M. (1981). Hydrodynamics of protozoan swim-
+Laval-Peuto, M., Brownlee, D. C. (1986). Identification and ming. In: Levandowsky, M,, Hutner, S. H. (eds.)
+systematics of the Tintinnina (Ciliophora): evaluation and Biochemistry and physiology of protozoa, Vol. 4. Academic
+suggestions for improvement. Annls Inst oceanogr., Paris Press, New York, p. 5-66
+62: 69-84 Sherr, E., Sherr, B. (1987). High rates of consumption of
+Leegaard, C. (1915). Untersuchungen iiber einlge Plankton- bacteria by pelagic ciliates. Nature. Lond. 325: 710-711
+ciliaten des Meeres. Nytt Mag. Natunrid. 53: 1-37 Song, P. S., Hader, D.-P., Poff, K. L. (1980). Phototactic orienta-
+Longhurst, A. R. (1976). Vertical migration. In: Cushing, D. H., tion by the ciliate Stentor coeruleus. Photochem. Photobiol.
+Walsh, J. J. (eds.) The ecology of the seas. Blackwell, 32: 781-786
+Oxford, p. 116-137 Spittler, P. (1973). Feeding experiments with tintinnids. Oikos
+Marshall, S. M. (1969). Protozoa order. Tintinnida. Cons. int. 15 (SUPPI.):1 28-132
+Explor. Mer, Zooplankton Sheets No. 117-127 Stoecker, D. K., Davis, L H., Anderson, D M. (1984). Fine
+Marshall, S. M., 01-r,A P. (1955). The biology of a marine scale spatial correlat~onsb etween plankton~cc iliates and
+copepod Calanus finmarchicus (Gunnerus). Oliver and dinoflagellates. J. Plankton Res. 6: 829-842
+Boyd, Edinburgh Sundby, S. (1983). A one-dimensional model for the vertical
+McManus, G. B., Fuhrman, J. A. (1986). Photosynthetic pig- distribution of pelagic fish eggs in the mixed layer Deep
+ments in the ciliate Laboea strobila from Long Island Sea Res. 30: 645-661
+Sound, USA. J. Plankton Res. 8: 317-327 Verity, P. G. (1986). Grazing of phototrophic nanoplankton by
+Middlebrook, K., Emerson, C. W., Roff, J. C., Lynn, D. H. microzooplankton In Narragansett Bay. Mar Ecol. Prog.
+(1987). Distribution and abundance of tintinnids in the Ser. 29: 105-115
+Quoddy Region of the Bay of Fundy. Can. J. Zool. 65: Venty, P. G. (1987).A bundance, community composition, size
+594-601 distribution, and production rates of tintinnids in Narragan-
+Okubo, A. (1980).D iffusion and ecological problems: mathe- sett Bay, Rhode Island. Estuar. coast. Shelf Sci. 24: 671-691
+matical models. Springer-Verlag, Berlin Vitiello, P. (1964). Contribution a I'etude des Tintinnides de la
+Paranjape, M. A. (1980). Occurrence and significance of re?+- baie d'Alger. Pelagos 2: 5-42
+This article was submitted to the editor Manuscript received: July 27, 1988
+Revised version accepted: Novem ber 2, 1988
+

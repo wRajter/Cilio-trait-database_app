@@ -1,0 +1,586 @@
+APPLIEDANDENVIRONMENTALMICROBIOLOGY,Mar.2008,p.1740–1747 Vol.74,No.6
+0099-2240/08/$08.00(cid:1)0 doi:10.1128/AEM.01438-07
+Copyright©2008,AmericanSocietyforMicrobiology.AllRightsReserved.
+(cid:1)
+Molecular Characterization of Ciliate Diversity in Stream Biofilms †
+Andrew Dopheide,1 Gavin Lear,1 Rebecca Stott,2 and Gillian Lewis1*
+SchoolofBiologicalSciences,UniversityofAuckland,3aSymondsStreet,Auckland,NewZealand,1andNationalInstitutefor
+WaterandAtmosphericResearch,P.O.Box11-115,Hamilton,NewZealand2
+Received28June2007/Accepted7January2008
+Free-livingprotozoaarethoughttobeoffundamentalimportanceinaquaticecosystems,butthereislimited
+understanding of their diversity and ecological role, particularly in surface-associated communities such as
+biofilms. Existing eukaryote-specific PCR primers were used to survey 18S rRNA gene sequence diversity in
+streambiofilmsbutpoorlyrevealedprotozoandiversity,demonstratinganeedforprotozoan-targetedprimers.
+Group-specific PCR primers targeting 18S rRNA genes of the protozoan phylum Ciliophora were therefore
+designed and tested using DNA extracted from cultured protozoan isolates. The two most reliable primer
+combinationswereappliedtostreambiofilmDNA,followedbycloningandsequencinganalysis.Of44clones
+derivedfromprimerset384F/1147R,86%wereofprobableciliateorigin,aswere25%of44clonesdetectedby
+primer set 121F/1147R. A further 29% of 121F/1147R-detected clones matched sequences from the closely
+relatedphylumApicomplexa.Thehighlyciliate-specificprimerset384F/1147RwassubsequentlyusedinPCRs
+onbiofilmDNAfromfourstreamsexhibitingdifferentlevelsofhumanimpact,revealingdifferencesinciliate
+sequencediversityinsamplesfromeachsite.Ofatotalof240clones,73%wereofprobableciliateorigin;54
+differentputativeciliatesequencesweredetectedfromthroughoutseventaxonomicciliateclasses.Sequences
+from Oligohymenophorea were most commonly detected in all samples, followed by either Spirotrichea or
+Phyllopharyngea. Restriction fragment length polymorphism profile-based analysis of clones suggested a
+potentially higher level of diversity than did sequencing. Nevertheless, newly designed PCR primers 384F/
+1147Rwereconsideredtoprovideaneffectivemolecularbasisforcharacterizationofciliatediversityinstream
+biofilms.
+Protozoa can be defined as motile unicellular eukaryotes crobes as well as microbial energy and nutrient cycling in
+possessing a capacity for phagotrophy and comprise an ex- streamecosystemsmayoccur(4,11,39).
+tremely diverse assemblage of organisms commonly grouped Detection and identification of protozoa have commonly
+into amoebae, ciliates, flagellates, and intracellular parasitic been achieved through microscopic examination of morpho-
+apicomplexans (10, 17). It is clear that protozoa, thought to logical features. It remains difficult and time-consuming to
+occurvirtuallyeverywherethatliquidwaterexists,areintegral reliably detect or identify many protozoan species by these
+components of aquatic ecosystems, regulating the abundance methods,asprotozoamaybefragileandinconspicuousandas
+of bacteria and phytoplankton and population dynamics of itmaybedifficulttodeterminewhetheragivenmorphological .452.01.4.19
+other protozoa through predation and providing a source of feature can be regarded as distinct or not (7, 19, 38, 46).
+nutritionforinvertebratezooplanktonandprobablymacroin- Molecular techniques based upon analysis of small-subunit
+vertebratesandfishlarvae(6,24,31,41–43,51).Protozoahave RNA gene sequences, while not foolproof (18), offer the po-
+yb
+beenidentifiedasamajormicrobialpathwayforthetransferof tential for more-accurate and -efficient methods for detecting
+3202
+carbonandphosphorustohighertrophiclevelswithinpelagic andidentifyingprotozoanorganismsandcharacterizingproto-
+systems such as an oligotrophic lake (20) and, more recently, zoan communities, including unculturable components (3, 7). rebmetpeS
+running waters such as streams (28). In general, however, an Recent studies have used eukaryote-specific PCR primers to
+understandingoftheroleofprotozoainmicrobialfoodwebsis reveal previously unsuspected protistan diversity, including
+limited to planktonic communities, and little is known of the stramenopiles,rhizarians,andalveolatesandsequencesofun-
+12
+diversityandecologicalroleofprotozoainbenthiccommuni- certain affinity, in deep-sea and anoxic aquatic environments
+no
+ties. Bacterivory by ciliates and flagellates has been shown to (26, 30, 47–50). However, little work has been specifically di- mea/lanruoj/gro.msa.slanruoj//:sptth
+enhancethedecompositionofleafdetritusinstreamsthrough rectedatunderstandingthediversityoftheheterotrophicpro-
+a presumed increased turnover of bacterial populations (37). tist(protozoan)componentsofecosystems.
+This suggests that protozoan predation is likely to play an Combined biochemical, molecular, and morphological evi-
+important role in stream biofilms, where the majority of mi- dencehasrecentlybeenusedtoresolveoutstandingquestions
+ofeukaryotictaxonomy,confirmingthepolyphyleticevolution-
+ary history of protozoa (1, 23). This suggests that eukaryote-
+*Correspondingauthor.Mailingaddress:SchoolofBiologicalSci- specific primers are likely to be of limited utility for studying
+ences, University of Auckland, Private Bag 92019, Auckland, New onlytheprotozoancomponentofeukaryotediversity.Rather,
+Zealand. Phone: 64 (9) 373 7599. Fax: 64 (9) 373 7416. E-mail: gd it is necessary to target monophyletic protozoan groups, and
+.lewis@auckland.ac.nz.
+the existence of recent molecular sequence data provides an
+†Supplementalmaterialforthisarticlemaybefoundathttp://aem
+.asm.org/. opportunity for development of group-specific PCR primers morf
+(cid:1)Publishedaheadofprinton25January2008. andassociatedmolecularbiologicalmethodsforthispurpose.
+dedaolnwoD
+1740
+
+VOL.74,2008 MOLECULAR CHARACTERIZATION OF CILIATE DIVERSITY 1741
+TABLE 1. PrimersusedforPCRsinthisstudytodetectandidentifyciliatedprotozoainpureculturesandstreambiofilmsamples
+Targetandprimer Sequence(5(cid:5)33(cid:5)) Reference(s)orsource
+Eukaryotic18SrRNAgenes
+82FEa GAADTCGYGAAYGGCTC 13,26,47
+EK-1520Rb CYGCAGGTTCACCTAC 26,47
+E528F CGGTAATTCCAGCTCC 50
+1391REc GGGCGGTGTGTACAARGRG 13,50
+Ciliophora18SrRNAgenese
+121F CTGCGAATGGCTCATTAMAA Thisstudy
+384F YTBGATGGTAGTGTATTGGA Thisstudy
+1147R GACGGTATCTRATCGTCTTT Thisstudy
+1147Fd GAACGAAAGWTARGGGATCA Thisstudy
+2755Rd CGTTSAWGATCYANAATTNCAAAG Thisstudy
+2824Rd CAGGGACKTARTCARTGCAA Thisstudy
+aReferredtoas18S-82F,withsequenceGAAACTGCGAAYGGCTC,inreference47andEK-82F,withsequenceGAAACTGCGAATGGCTC,inreference
+26.
+bReferredtoas18S-1520Rinreference47.
+cReferredtoasUniv1391REinreference50.
+dDesignedandtestedbutexcludedfromfurtherapplicationinthisstudy.
+ePrimerswerenewlydesigned.
+Group-specificPCRprimershavepreviouslybeendesignedfor Freshcultureswereinitiatedevery7to14daysbyinoculationofbetween50and
+several monophyletic protozoan groups (3, 5, 16, 21, 25), but 200(cid:3)lofexistingcultures(dependingupondensity)into20mloffreshmedium.
+Tenculturesrepresentingarangeofprotozoawerethusmaintained:fiveciliates
+such tools remain undeveloped for detection of most proto-
+(tentativelyidentifiedasaChilodonellasp.,aColpidiumsp.,aCyclidiumsp.,a
+zoan phyla, including the alveolate phylum Ciliophora. The
+Glaucomasp.,andaTetrahymenasp.accordingtoaprotozoanidentificationkey
+ciliates are considered to be a very diverse and important (35),fourflagellates(achrysophyteSpumellasp.,acryptomonadChroomonas
+protozoangroup.Althoughtheyhavebeenrelativelywellstud- sp.,aeuglenidEntosiphonsp.,andakinetoplastidBodosp.),andalobosean
+ied, their accurate identification is nevertheless challenging amoeba(anAcanthamoebasp.).Theseculturesprovidedmaterialfortestingthe
+reliabilityofmolecularmethodsandthespecificityofPCRprimersfortarget
+becauseitisdependentuponconsiderabletaxonomicexpertise
+organisms.IdentificationofciliatecultureswasconfirmedusingPCRprimers
+andofteninvolvescomplexfixingandstainingprotocols.Many
+developedinthisstudyandsequencing.
+ciliates are very fast moving, making observation of live cells DNAextraction.DNAwasreleasedfromprotozoanpureculturesbyboiling
+difficult.Fortunately,ciliatesareanappropriatetargetformo- 50-(cid:3)l samples for 10 min. DNA was extracted from pelleted biofilm samples
+lecular diversity analysis, since there exists a reasonable body using a phosphate-sodium dodecyl sulfate (SDS)-chloroform bead-beating
+methodadaptedfromapreviousstudy(29),asfollows.Eachpelletedsamplewas
+ofpubliclyavailablesequencedataandbecause,incontrastto
+resuspendedin270(cid:3)lof100mMsodiumphosphatebuffer(pH8.0),towhich
+amoebaeandflagellates,ciliatesdoconstituteamonophyletic 300(cid:3)lofSDSlysisbuffer(10%SDS,500mMTris[pH8.0],1.0MNaCl)was
+group. The main objective of this research was therefore to added,andmixedgently.Theresultingmixturewastransferredtoa2-mlvial
+develop specific PCR primers with which to characterize the containing0.5geachof0.1-mmand3.0-mmsilica-zirconiumbeads(Biospec .452.01.4.19
+Products,Inc.),towhich300(cid:3)lofchloroformwasthenadded.Themixturewas
+diversityofciliatedprotozoawithinstreambiofilms.
+shakeninaBio101SavantFastprepFP120at4ms(cid:4)1for40s,cooledinanice
+bath for 1 min, shaken a second time, and then centrifuged to pellet debris
+MATERIALSANDMETHODS (19,400(cid:2)g,5min).Thesupernatantwasaddedto360(cid:3)lof7Mammonium
+yb
+acetate,brieflymixedbyhand,andcentrifuged(19,400(cid:2)g,5min),resultingin
+Biofilmsamplecollection.Biofilmsampleswerecollectedfromfourstreamsin 3202
+twoseparatephases.Theclearupperphasewasremoved,andDNAwaspre-
+Auckland,NewZealand.Threestreamshadstonysubstrates:CascadeStream
+cipitatedfromthissolutionbyadditionof315(cid:3)lofice-coldisopropanol,fol-
+(anundevelopednativeforestsite;mapreferenceNZMS260-Q11&Pt.R11 rebmetpeS
+lowedbyincubationatroomtemperaturefor15min.Nucleicacidswerepelleted
+458778),StoneyCreek(apartiallydevelopednativeforestsiteclosetohouses
+bycentrifugation(19,400(cid:2)g,5min),washedwith1mlof70%ethanol,centri-
+androads;mapreferenceNZMS260-Q11&Pt.R11503762),andOpanuku
+fugedagain(19,400(cid:2)g,5min),airdried,andresuspendedin40(cid:3)lofsterile
+Stream (a rural site in proximity to agricultural development; map reference
+NZMS260-Q11&Pt.R11525770),whilePakurangaStream(ahighlydeveloped water.TheefficacyofDNAextractionwasassessedbyelectrophoresisona1% 12
+urbansite;mapreferenceNZMS260-Q11802765)consistsofaconcretechannel agarosegelstainedwithethidiumbromide. no
+atthesamplinglocation.Biofilmmaterialwascollectedfromanapproximately PCRprimers.Eukaryote-specificPCRprimersderivedfromtheliteratureand mea/lanruoj/gro.msa.slanruoj//:sptth
+130-cm2areaofthesurfaceofstreambedboulders,orconcretechannelinthe newly designed PCR primers designed to target the 18S rRNA genes of the
+case of Pakuranga Stream, by scrubbing with Speci-sponges (Nasco Ltd.) to protozoanphylumCiliophorawerebothusedinthisstudy(Table1).Todesign
+absorb dislodged biofilm material. The sponges were then placed into sterile ciliate-specificprimers,representative18SrRNAgenesequencesfrom61ciliates
+Whirl-Pakbags(NascoLtd.)withabout50mlstreamwateratambienttemper- from throughout all ciliate classes and 24 nonciliate organisms common in
+ature.Inthelaboratory,spongesweregentlysqueezedtoreleasebiofilmmaterial stream biofilms were retrieved from GenBank, aligned using Geneious 2.0.1
+into petri dishes containing stream water (as appropriate from each site) for (BiomattersLtd.,NZ;developedbyA.J.Drummond,M.Kearse,J.Heled,R.
+cultureisolation.Alternatively,spongesweresubjectedtorepetitivecompression Moir,T.Thierer,B.Ashton,andA.Wilson),andscrutinizedforsitesconserved
+inaSewardstomacherlaboratoryblender(normalspeedfor120s)andthe among ciliates but not among nonciliates. Potential primer sequences were
+resulting biofilm material was transferred into 50-ml centrifuge tubes and testedforciliatespecificitybyconductingnucleotide-nucleotideBLASTsearches
+pelletedbycentrifugation(3,500(cid:2)g,10min)forsubsequentDNAextrac- withinGenBank.Primersequencesshowingahighdegreeofspecificitywere
+tion. synthesizedbyInvitrogenLtd.(NewZealand)andtestedinPCRswithDNA
+Protozoancultures.Individualprotozoancellsandassociatedbacteriawere template material extracted from ciliate and nonciliate cultures and stream
+isolatedfrombiofilmsamplesusingaDeFonbrunepneumaticmicromanipulator biofilmsamples.Thereliabilityofdifferentprimerswasdeterminedfromcom-
+morf
+system,transferredtopetridishescontainingmodifiedNeff’samoebasaline(34), parative PCR success rates. Products of PCRs with biofilm-derived template
+andincubatedatambientroomtemperatureundernaturallight/darkregimens. DNA were digested with HaeIII (Invitrogen). Resulting restriction fragment dedaolnwoD
+
+1742 DOPHEIDE ET AL. APPL.ENVIRON.MICROBIOL.
+lengthpolymorphism(RFLP)profilesshowingcomparativelymorebandswere TABLE 2. Summaryofidentityof18SrRNAgeneclonesderived
+presumed to indicate the ability of newly designed primers to detect greater frombiofilmsamplesfromruralOpanukuStreamusing
+sequencediversity. eukaryote-specificprimersetsa
+PCR amplification and purification. PCR amplifications were carried out
+usingstandard50-(cid:3)lreactionmixtures(1(cid:2)PCRbuffer,2mMMgCl,and1U Primers82FE/EK-1520R PrimersE528F/1391RE
+2
+AmpliTaqDNApolymerase[allAppliedBiosystems];100(cid:3)Mdeoxynucleoside Sequencesource
+No. No.ofdifferent No. No.ofdifferent
+triphosphates[Invitrogen];0.2(cid:3)Mforwardandreverseprimers;and0.4%bo-
+ofclones sequences ofclones sequences
+vineserumalbumin[Invitrogen]),with2(cid:3)loftemplateDNAextractedfrom
+either protozoan cultures or stream biofilm samples. The eukaryote-specific Annelida 1 1
+primercombinationstestedwere82FE/EK-1520RandE528F/1391RE,expected Arthropoda 3 3
+togiveamplifiedproductsizesofabout1,600and1,000bp,respectively.Ciliate- Ascomycota 1 1
+specificprimers121Fand384Fwereeachusedwithprimer1147Randexpected Bacillariophyta 15 7 25 7
+to give product sizes of about 1,000 and 750 bp, respectively. The following Basidiomycota 1 1
+temperatureregimenwasused:initialincubationfor5minutesat94°Candthen Cercozoa 1 1
+30cyclesof45sat94°C(denaturing),60sat55°C(annealing),and90sat72°C Chlorophyta 1 1 1 1
+(extension),followedbyafinalextensionstepof7minat72°C.Thesuccessof Chytridiomycota 1 1
+PCRswasdeterminedbythepresenceorabsenceofcorrectlysizedproducts Mollusca 1 1 3 3
+uponelectrophoresison1%agarosegelsstainedwithethidiumbromide.PCR Nematoda 2 2 1 1
+productswerepurifiedusinganInvitrogenPurelinkPCRpurificationkitaccord- Rotifera 1 1
+ingtothemanufacturer’sinstructions. Tardigrada 1 1 5 2
+Cloning,RFLPanalysis,andsequencing.PCRproductsobtainedfrombio- Unculturedfungus 1 1
+film-extracted DNA using eukaryote-specific and ciliate-specific primers were
+used to construct clone libraries using an Invitrogen TOPO TA cloning kit Total 22 14 43 22
+accordingtothemanufacturer’sinstructions.TransformedEscherichiacolicol-
+onieswerepickedatrandominto150-(cid:3)laliquotsofLuria-Bertanibrothand aClones were identified according to RFLP profiles (data not shown) and
+BLASTmatches.
+incubatedovernightat37°C.InthecaseofclonesderivedfromOpanukuStream
+usingeukaryote-specificprimersetsandciliate-specificprimersets121F/1147R
+and384F/1147R,48colonieswerepicked;inallothercases,96colonieswere
+picked. Samples were subsequently incubated at 94°C for 20 min for use as derived from primer set 82FE/EK-1520R, only 22 cloned se-
+templatematerialinPCRswiththeprimersM13FandM13RfromtheTOPOkit quences were successfully recovered using PCR. Fifteen dif-
+torecoverclonedinserts.Aliquots(10(cid:3)l)ofallsuccessfullyrecoveredcloned
+ferent RFLP profiles and matches to 14 different GenBank
+sequenceswereeachdigestedwith1UoftherestrictionendonucleaseHaeIIIat
+37°C for 4 h and visualized by electrophoresis on 1.5% agarose gels. Each sequences were detected among these, matching a variety of
+differentrestrictionprofilewasassumedtoindicateadifferentsequence(and eukaryote taxa, none of which were protozoan. Forty-three
+species).RFLPprofilesfromOpanukuStreamcloneswereusedtoconstruct clonesderivedfromprimersetE528F/1391REwererecovered
+speciesaccumulationcurvesbyplottingthenumberofdifferentRFLPprofiles
+using PCR and found to contain 27 different RFLP profiles
+detectedpernumberofcloneRFLPprofilesanalyzed.Atleastoneclonecor-
+and 22 different sequences, 1 of which (representing a single
+respondingtoeachdifferentRFLPprofilewaspurifiedandsequencedbyMac-
+rogen Inc. (Seoul, South Korea). Sequence chromatograms were visually in- clone) most closely matched a Cercozoa protozoan sequence
+spected to assess sequence quality and checked for chimeric molecules using (86%querycoverage,92%maximumidentity).Amongtheclone
+ChimeraCheckattheRibosomalDatabaseProject(9)andBellerophon(22). libraries derived from both primer combinations, matches with
+ResultsofBLASTsearchesformatchingnucleotidesequencesinGenBankwere
+diatom sequences (Bacillariophyta) far exceeded matches with
+usedtodetermineprobableidentitiesofclonedsequences.Clonedsequences
+foundtomatchthesameGenBanksequencewerecomparedbyalignmentin sequences from all other taxa, followed by matches with se-
+.452.01.4.19
+Geneious2.0.1,andthosesharinglessthan97%nucleotideidentitywerecon- quences from various metazoan organisms, chlorophytes, and
+sideredtorepresentdifferenttaxonomicunits. fungi(Table2;forsequencematchdata,seeTablesS1andS2
+Nucleotidesequenceaccessionnumbers.Thedifferentsequencesobtainedin
+inthesupplementalmaterial).
+thisstudyhavebeendepositedintheGenBankdatabaseunderaccessionnum-
+Newly designed ciliate-specific primers. Twenty-one poten-
+bersEF586072toEF586193andEU280168toEU280178. yb
+tial primer sequences were assessed for ciliate specificity
+3202
+through BLAST searches. Of these, six sequences had a high
+RESULTS
+levelofciliatespecificityandweresynthesizedasprimers(Ta- rebmetpeS
+Eukaryote-specific primers. PCRs using eukaryote-specific ble1).AllprimercombinationswereusedinsuccessfulPCRs
+primer combinations 82FE/EK-1520R and E528F/1391RE with cultured ciliate material and Opanuku Stream biofilm
+with protozoan pure culture material as the template had a DNAextractasthetemplate,althoughprimer2755Rwasless 12
+verylowsuccessrate.Aninvestigationintothecauseofthese reliablethantheothers.Noprimercombinationresultedina no
+PCR failures was undertaken, in which template sample cell product when used in reactions with flagellate and amoeba mea/lanruoj/gro.msa.slanruoj//:sptth
+density, template DNA extraction method, template DNA protozoan culture material as the template, indicating that
+concentration, and PCR conditions were varied singly and in ciliatespecificitywashigh.HaeIIIdigestionofaliquotsofPCR
+combination.However,areasonforfrequentreactionfailures products from reactions with Opanuku Stream biofilm DNA
+could not be conclusively identified. Comparison of primer extractasthetemplatesuggestedthatproductsofprimercom-
+sequenceswithprimerbindingsitesequencesforculturedor- binations 121F/1147R and 384F/1147R contained relatively
+ganisms resulted in identification of several mismatches, but greatersequencediversitythanproductsofotherprimercom-
+these were in positions considered unlikely to affect reaction binations,andtheseweresubsequentlyclonedandsequenced.
+outcome and did not correlate with the pattern of reaction Species accumulation curves based on RFLP profiles derived
+failures. PCRs (and subsequent cloning and sequencing) with from these clones do not approach an asymptote, indicating
+eukaryote-specific primers on Opanuku Stream biofilm DNA thatthefullextentofciliatediversityassociatedwithOpanuku
+extractswerenotablymoresuccessful,butveryfewprotozoan Streambiofilmisnotreflectedintheclonesanalyzed(Fig.1). morf
+sequences were detected. From 48 randomly selected clones Sequencing of clones derived from newly designed primers
+dedaolnwoD
+
+VOL.74,2008 MOLECULAR CHARACTERIZATION OF CILIATE DIVERSITY 1743
+rial). In contrast, primer combination 384F/1147R was found
+to be much more ciliate specific: 86% of 44 clones matched
+Ciliophorasequences,withtheremainingclonesmatchingse-
+quences from the protozoan phylum Cercozoa, fungi, and a
+chlorophyte (see Table S6 in the supplemental material).
+Primercombination384F/1147Rwasthereforeappliedtobio-
+filmsamplesfromfurtherstreams,resultinginconstructionof
+DNAclonelibrariesfromatotaloffourdifferentstreams.
+Analysisoftheclonelibrariesrevealeddifferencesbetween
+biofilm samples from the four streams. Sixty-nine of 96 Cas-
+cade Stream clones selected for analysis were successfully re-
+covered with PCR, among which 43 different RFLP profiles
+weredetected.Fifty-onedifferentRFLPprofilesweredetected
+among 88 clones recovered from Stoney Creek and 31 RFLP
+profilesamong77clonesfromPakurangaStream,inaddition
+to27differentRFLPprofilesamong44clonesfromOpanuku
+Stream.Sequencescorrespondingto13CascadeStreamRFLP
+FIG. 1. Speciesaccumulationcurvesfor18SrRNAgenesequences profiles (17 clones), 11 Stoney Creek RFLP profiles (18
+derived from Opanuku Stream biofilm using ciliate-targeted primer
+clones), 3 Pakuranga Stream RFLP profiles (3 clones), and a
+combinations 121F/1147R and 384F/1147R, based on the number of
+differentRFLPprofilesdetectedpernumberofclonesanalyzed. single Opanuku Stream clone were of poor quality and ex-
+cludedfromfurtheranalysis,aswasasinglechimericOpanuku
+Stream sequence. In all clone libraries, the number of RFLP
+showedthatciliatespecificityvariedbetweendifferentprimer profiles detected exceeded the number of different BLAST
+sets. In each case 44 of 48 clones picked for analysis were sequencematches.
+successfully recovered by PCR. Twenty-five percent of 44 Sequence matches, combined with RFLP profiles, resulted
+clonesderivedfromprimers121F/1147Rmostcloselymatched inidentificationofatotalof240clonesamongthefourstream
+sequences from the phylum Ciliophora, a further 29% of samples.Ofthese,176(73%)weredeterminedtobeofprob-
+clones matched sequences from the protozoan phylum Api- ableciliateorigin.Withintheseputativeciliateclones,54dif-
+complexa, and the remaining clones matched various other ferenttaxonomicunits,representingsevenciliateclasses,were
+eukaryotesequences(seeTableS3inthesupplementalmate- identified(Table3;forsequencematchdata,seeTablesS4to
+TABLE 3. Summaryofidentityof18SrRNAgeneclonesderivedfrombiofilmDNAextractsfromfourstreamsusingciliate-specificprimer
+combination384F/1147Ra
+CascadeStream StoneyCreek
+OpanukuStream PakurangaStream (undevelopednative (developednative Total .452.01.4.19
+(rural) (urban)
+Sequencesource forest) forest)
+(classorphylumb)
+No.of No.of No.of No.of No.of No.of No.of No.of No.of No.of
+clones sequences clones sequences clones sequences clones sequences clones sequences
+yb
+Ciliates
+3202
+Colpodea 2 1 10 3 12 4
+Litostomatea 2 1 1 1 4 4 7 6
+rebmetpeS
+Nassophorea 4 2 4 2
+Oligohymenophorea 20 6 14 5 26 8 41 6 101 23
+Phyllopharyngea 14 4 10 2 24 6
+Prostomatea 2 1 2 1 1 1 5 3
+Spirotrichea 5 2 4 2 11 6 2 2 22 9 12
+Unculturedciliate 1 1 1 1 no
+mea/lanruoj/gro.msa.slanruoj//:sptth
+Totalciliates 31(60) 11(73) 49(70) 18(90) 38(86) 15(79) 58(78) 15(83) 176(73) 54(87)
+Nonciliates
+Amoebozoa 9 1 2 1 1 1 12 1
+Apicomplexa 9 1 9 1
+Basidiomycota 14 1 14 1
+Cercozoa 2 1 2 1
+Chlorophyta 1 1 1 1
+Chytridiomycota 3 2 19 1 3 2 1 1 26 3
+Totalnonciliates 21 4 21 2 6 4 16 3 64 8
+morf
+aCloneswereidentifiedaccordingtoRFLPprofiles(datanotshown)andBLASTmatches.Valuesinparenthesesarepercentagesofciliates.
+bClassforciliatesandphylumfornonciliates.
+dedaolnwoD
+
+1744 DOPHEIDE ET AL. APPL.ENVIRON.MICROBIOL.
+S7inthesupplementalmaterial).Ofthe54,only1wasfound sequenceweredetectedinOpanukuStreambiofilm(seeTable
+in samples from three streams and 3 in samples from two S6 in the supplemental material). All GenBank matches with
+streams.Theremaining50wereeachdetectedinsamplesfrom amoebozoan,apicomplexan,andchytridsequences(47clones)
+onlyoneofthefourstreams.Clonesmostfrequentlymatched were fragmented and of relatively poor quality, with a mean
+oligohymenophorean sequences, followed by phyllopharyn- matchcoverageof87%andmeanmaximumidentityof86%.
+gean, spirotrichean, colpodean, and litostomatean sequences. Among all four streams, only eight different nonciliate taxo-
+Least frequently matched were prostomatean and nassopho- nomic units were detected, but these accounted for a total of
+reansequences.ThemeancoverageofGenBankmatcheswith 64clonesoutof240.
+ciliatesequenceswas96%,whilethemeanmaximumidentity
+ofmatcheswithciliatesequenceswas93%.
+DISCUSSION
+Thediversityofsequencesdetectedvariedbetweenthesam-
+plesfromdifferentstreams(Table3).Theproportionofclones Eukaryote-specific primers. The eukaryote-specific PCR
+matching ciliate sequences ranged from 60% for Cascade primers82FE,EK-1520R,E528F,and1391REhaveallampli-
+Streambiofilmto86%forOpanukuStreambiofilm.Thenum- fiedprotozoansequencesfromenvironmentalsamplesinprior
+ber of different putative ciliate taxonomic units detected studies (13, 26, 47, 50). In the present study, these primers
+ranged from 11 in Cascade Stream biofilm to 18 in Stoney proved largely ineffective at amplifying 18S rRNA gene se-
+Creekbiofilm.Clonesmatchingoligohymenophoreanandspi- quencesfromculturedprotozoanDNA.Whenappliedtoen-
+rotricheansequencesweredetectedinbiofilmsamplesfromall vironmentalextracts,theseprimersamplifiedsequenceswhich
+four streams. Clones matching phyllopharyngean, colpodean, matched those from a variety of eukaryotes, as expected, but
+litostomatean, and prostomatean sequences were detected in thenumberofsequencesmatchingthosefromprotozoaamong
+biofilmsamplesfromtwoorthreestreams,butclonesmatch- clonedPCRproductswaslow(0of22clonesand1of43clones
+ing nassophorean sequences were detected only in Stoney from 82FE/EK-1520R and E528F/1391RE, respectively). In
+Creek biofilm. Clones matching sequences from seven ciliate contrast,highproportionsofdiatomandmetazoansequences
+classesweredetectedinStoneyCreekbiofilm,whereasclones weredetected,alongwithseveralsequencesofpresumedfun-
+matching sequences from only two ciliate classes, Oligohym- gal and chlorophyte origin, reflecting the broad specificity of
+enophorea and Spirotrichea, were detected in Opanuku theseprimers.Theseresultssuggestarestrictedabilityonthe
+Streambiofilm. part of these primers to detect protozoa and indicate that
+In terms of species, a Zoothamnium sp. (Oligohymenopho- eukaryote-specific primers are of limited value for this appli-
+rea)sequencewasthemostcommonciliatesequencetomatch cationincomplexstreamcommunitiesduetothepresenceof
+Cascade Stream clones (see Table S4 in the supplemental large quantities of competing sequences from algal, fungal,
+material) and was also a common match to Stoney Creek plant,andmetazoanorganisms.Thisisincontrasttothesub-
+clones(seeTableS5inthesupplementalmaterial),whiletwo oxic (47), anoxic (13, 50), and aphotic (26) environments to
+Opanuku Stream clones matched a different Zoothamnium whichtheseprimershavepreviouslybeenapplied,inwhichit
+sequence (see Table S6 in the supplemental material). The is presumed that the relative abundances of protozoan and
+other most common Stoney Creek ciliate sequence matches nonprotozoan organisms may be rather different. Indeed, a
+(Platyophrya sp., Colpodea, and Dysteria spp., Phyllopharyn- comparative survey of freshwater ponds using eukaryote-spe-
+.452.01.4.19
+gea)werenotdetectedinsamplesfromtheotherstreams,nor cificPCRprimershasshownprotozoansequencestobemuch
+were the most common ciliate sequence matches in samples more frequent in a suboxic habitat than in an oxygenated
+from Opanuku Stream (a Vorticella sp., Oligohymenophorea) habitat(47).Therefore,PCRprimersspecifictomonophyletic
+orPakurangaStream(aMesanophryssp.andanEntorhipidium groups of interest are required if the protozoan subset of
+yb
+sp.,bothOligohymenophorea;seeTableS7inthesupplemen- microeukaryoticdiversityinstreambiofilmsistobeanalyzed.
+3202
+tal material). Interestingly, clones matching sequences from Designandapplicationofnewprimerstodetectionofciliate
+sessileperitrichs(Epistylisspp.,aVorticellasp.,andZootham- diversity. Ciliate-specific PCR primers designed in this study rebmetpeS
+nium spp.) were common in biofilm samples from all three revealed very different DNA sequences and were more selec-
+stony-bottom streams but were not detected in channelized tive than eukaryote-specific PCR primers, as sequences from
+PakurangaStreambiofilm. most nontarget organisms, particularly diatoms and metazo- 12
+A small number of nonciliate sequence matches were de- ans, were not detected. Of primer combinations 121F/1147R no
+tected(Table3).NineCascadeStreamclonesmatchedasingle and 384F/1147R, the latter combination detected the most mea/lanruoj/gro.msa.slanruoj//:sptth
+apicomplexan sequence (a Theileria sp., see Table S4 in the ciliate-matching sequences and was therefore considered the
+supplemental material), and a further nine Cascade Stream mostciliatespecific:atleast54differentciliatesequenceswere
+clones matched an amoebozoan sequence (a Stemonitis sp.), detected, representing 7 of 11 known ciliate classes as de-
+which was also matched at lesser frequency by clones from fined by Lynn (27): Colpodea, Litostomatea, Nassophorea,
+Stoney Creek and Pakuranga Stream biofilm (see Tables S5 Oligohymenophorea, Phyllopharyngea, Prostomatea, and
+and S7, respectively, in the supplemental material). Clones Spirotrichea.Althoughthedetectedsequencesarenotentirely
+matching sequences from the chytrid genus Monoblepharis reflective of the full range of known ciliate diversity, several
+werepresentinsamplesfromallfourstreamsbutwerebyfar factorssuggestthattheseprimersshouldbecapableofdetect-
+most common in Stoney Creek biofilm (19 clones). In Pa- ingarepresentativerangeofsequencesfrommostorallciliate
+kuranga Stream biofilm 14 clones matched a basidiomycete classes. First, the primer design process was based on DNA
+sequence(aSchizoporasp.).Inaddition,twoclonesmatching fragments conserved throughout an alignment of 18S rRNA morf
+a cercozoan sequence and one clone matching a chlorophyte sequences from all 11 ciliate classes. Occasional unconserved
+dedaolnwoD
+
+VOL.74,2008 MOLECULAR CHARACTERIZATION OF CILIATE DIVERSITY 1745
+nucleotides were present at primer binding sites, but these ited;forexample,onlyaboutone-sixthofthetotalrecognized
+weren’t found in particular classes. For example, if it is as- Phyllopharyngea ciliate species are represented by 18S se-
+sumedthatthethreeterminal3(cid:5)positionsaremostimportant quence data in GenBank. This suggests that the ability to
+for correct priming (14) and that mismatched nucleotides in identify ciliates on the basis of matches to database sequence
+anyofthesepositionswillhencecausefailureoftheprimerto information is limited. Sequence matches in this study were
+bindtoitsintendedsite,thenprimer384Fmaynotproducethe frequently imperfect, and in a number of cases, two or more
+expected PCR product from 2 of 18 oligohymenophorean se- clonedsequencessharingpairwisesimilarityoflessthan97%
+quences and 1 of 5 litostomatean sequences investigated (of werefoundtomatchthesameGenBanksequence,presumably
+course, these mismatches may be due to sequencing errors in due to the unavailability of more-representative sequences.
+the deposited sequences). Since the aligned sequences reflect Use of a similarity threshold that is higher than 97% when
+evolutionary relationships, it is likely that the distribution of assessing different taxonomic units would, it is presumed, re-
+unconservednucleotidesinthealignedsequencesisrepresen- sult in the determination of a number of different sequences
+tative of that of other ciliate sequences and that the primers closer to the number of different RFLP profiles detected.
+willfindappropriateannealingsitesinallclassesasfrequently Given the difficulties inherent in morphological characteriza-
+as in the aligned sequences. In any case, BLAST nucleotide tion of protozoan species, another possibility may be raised,
+searchesformatchestoprimersequencesindicatedthatprim- namely, that ciliate species which have been differentiated on
+ers384Fand1147Rshouldbindtosequencesfromtheciliate the basis of morphology may not actually be genetically dis-
+classesthatareunrepresentedintheseresults.Inaddition,the tinct,althoughthiswouldnotexplainthehigherlevelofdiver-
+type of ciliate sequences detected during cloning is broadly sity suggested by RFLP profiling of clones. Further studies
+similar to those observed during visual inspection of samples combiningtraditionaltaxonomicmethodsalongsidemolecular
+fromthesameenvironment.Forexample,microscopicinspec- investigations of diversity using primers such as those devel-
+tionofsamplesfromOpanukuStreamresultedinvisualiden- opedinthisstudyarenecessarytoinvestigatethesepoints.
+tificationofseveraloligohymenophoreanandspirotricheancil- SpeciesaccumulationcurvesderivedfromOpanukuStream
+iates and occasional phyllopharyngean, prostomatean, and RFLP profiles point to the existence of a high level of RFLP
+nassophorean ciliates, an assemblage of organisms similar to diversity associated with stream biofilms (Fig. 1). The curve
+that detected by molecular analysis. Furthermore, Oligohym- associatedwithprimers121F/1147Rissteeperthanthatasso-
+enophorea, Spirotrichea, Phyllopharyngea, Litostomatea, and ciatedwith384F/1147R,consistentwiththelesserspecificityof
+Colpodeaarethelargestciliateclassesintermsofnumbersof 121F/1147R demonstrated by cloning/sequencing results (see
+described species, considered as having some 600, 400, 340, TablesS3andS6inthesupplementalmaterial).Neithercurve
+300, and 100 known species, respectively, compared with a appears to approach an asymptote, indicating that further
+range of between 70 and 8 species in Heterotrichea, Nasso- RFLPprofilesawaitdiscovery,evenafteranalysisof100clones
+phorea, Prostomatea, Armophorea, Karyorelictea and Pla- (384F/1147R), and that insufficient clones were analyzed in
+giopylea,inorderofdecreasingnumbersofspecies,according this study to reveal the full extent of diversity present in
+to D. H. Lynn (Classification of the phylum Ciliophora [http: stream biofilms. These curves are similar to those based
+//www.uoguelph.ca/(cid:6)ciliates/classification/genera.html]). The upon sequence data derived from other 18S rRNA-based
+number of sequences from different classes detected in this surveys of environmental cercozoan and protistan diversity
+.452.01.4.19
+study shows a similar distribution: oligohymenophorean se- (3, 12) and suggest the existence of diverse communities of
+quences were most common, followed by phyllopharyngean a subset of eukaryotes (121F/1147R) and ciliates (384F/
+andspirotricheansequences,whileonlytwonassophoreanse- 1147R) in Opanuku Stream.
+quences and a single prostomatean sequence were detected. These results are subject to caveats regarding variability in
+yb
+Figure1suggeststhattheclonesanalyzedinthisstudyrepre- ribosomal gene copy number among different eukaryotes,
+3202
+sent only a fraction of the total ciliate diversity present in whichmayconfoundconclusionsabouttherelativeabundance
+biofilmsamples,anditseemslikelythatrareornonabundant of different organisms based upon sequences detected (36). rebmetpeS
+ciliate species from the smaller, unrepresented classes may Additionally,itislikelythatencystedprotozoainaparticular
+havebeenoverlookedforthisreason. environmentwillbeunderrepresentedtosomeextent,depend-
+Sixty-fourof240clonesderivedfromprimers384F/1147R ingupontheDNAextractionmethodapplied(17).Ithasbeen 12
+matched nonciliate sequences, showing that the specificity shownthatuseofmultipledifferent“universal”primersresults no
+of these primers is not perfect. The range of nonciliate indetectionofahigherproportionofdifferentsequences(50), mea/lanruoj/gro.msa.slanruoj//:sptth
+sequence matches was very limited, however, and most se- anditispresumedthatthismayalsobetrue,tosomeextent,
+quenceswereeitherfragmentedorofpoorquality,suggesting of primers targeted at specific phyla. This implies that the
+that some ambiguity surrounds these sequence matches and diversitydetectedinthisstudymaybeonlyasubsetofthetotal
+that interpretation of these nonciliate sequence matches re- andthatapplicationofmultipleciliate-specificprimers,inad-
+mainslimited. ditiontogreatercloningandsequencingefforts,mayincrease
+RepresentativenessofRFLPandsequencediversity.RFLP- therangeofciliatesequencediversitydetected.
+based surveys of molecular diversity have been found to un- Primer coverage of protozoan diversity. The ciliates com-
+derestimate total sequence diversity, due to conservation of prise only one of several major protozoan groups, and mo-
+restriction sites among different species (15). In this study, lecular assessment of ciliate diversity does not therefore
+RFLPdiversityofclonesderivedfromciliate-specificprimers constitute a complete evaluation of protozoan diversity.
+suggestsaconsiderablyhigherlevelofdiversitythansequenc- Group-specific primers for the protozoan phylum Cercozoa morf
+ing. The availability of ciliate sequence data is presently lim- (3), the Foraminifera (21), the Dinophyceae (25), and the
+dedaolnwoD
+
+1746 DOPHEIDE ET AL. APPL.ENVIRON.MICROBIOL.
+Chrysophyceae (5) have also been published. It is presently 3. Bass,D.,andT.Cavalier-Smith.2004.Phylum-specificenvironmentalDNA
+unclear whether the excavates—a loose grouping of assorted analysisrevealsremarkablyhighglobalbiodiversityofCercozoa(Protozoa).
+Int.J.Syst.Evol.Microbiol.54:2393–2404.
+flagellates—formamonophyleticgroup(8,44,45),anddevel- 4. Battin, T. J., L. A. Kaplan, J. D. Newbold, and C. M. E. Hansen. 2003.
+opmentofPCRprimerstargetingallexcavatesmaytherefore Contributionsofmicrobialbiofilmstoecosystemprocessesinstreammeso-
+cosms.Nature426:439–442.
+notbefeasible,insteadrequiringindividualtargetingofexca-
+5. Berglund,J.,K.Jurgens,I.Bruchmuller,M.Wedin,andA.Andersson.2005.
+vate subgroups. Amoebozoa spp. are a well-supported mono- Use of group-specific PCR primers for identification of chrysophytes by
+phyleticprotozoangroup(2,33)andanappropriatetargetfor denaturinggradientgelelectrophoresis.Aquat.Microb.Ecol.39:171–182.
+6. Berninger,U.G.,B.J.Finlay,andP.Kuuppo-Leinikki.1991.Protozoan
+group-specific primer design, as are Choanozoa and Crypto-
+controlofbacterialabundancesinfreshwater.Limnol.Oceanogr.36:139–
+phyceae (unrelated flagellate groups) (23), Acantharea and 147.
+Polycystinea (formerly included in Radiolaria) (32, 52), Acti- 7. Caron,D.A.,P.D.Countway,andM.V.Brown.2004.Thegrowingcontri-
+butionofmolecularbiologyandimmunologytoprotistanecology:molecular
+nophryida and Centrohelida (formerly included in Heliozoa) signaturesasecologicaltools.J.Eukaryot.Microbiol.51:38–48.
+(32, 40), and Apicomplexa, sister taxa to the Ciliophora and 8. Cavalier-Smith,T.2002.Thephagotrophicoriginofeukaryotesandphylo-
+geneticclassificationonprotozoa.Int.J.Syst.Evol.Microbiol.52:297–354.
+Dinophyceae. BLAST searches for sequence matches to
+9. Cole,J.R.,B.Chai,R.J.Farris,Q.Wang,A.S.Kulam-Syed-Mohideen,
+primer121Fsuggestedthatitwoulddetectsequencesfromall D.M.McGarrell,A.M.Bandela,E.Cardenas,G.M.Garrity,andJ.M.
+threealveolategroups(ciliates,apicomplexans,anddinoflagel- Tiedje. 2007. The Ribosomal Database Project (RDP-II): introducing
+myRDP space and quality controlled public data. Nucleic Acids Res. 35:
+lates). In this study several apicomplexan sequences were de-
+D169–D172.
+tected by primer combination 121F/1147R, suggesting that 10. Corliss,J.O.2002.Biodiversityandbiocomplexityoftheprotistsandan
+primer 121F or a modification thereof, in combination with a overviewoftheirrolesinthemaintenanceofourbiosphere.ActaProtozool.
+41:199–219.
+suitable reverse primer, may provide a basis for development 11. Costerton,J.W.,Z.Lewandowski,D.E.Caldwell,D.R.Korber,andH.M.
+ofApicomplexa-orAlveolata-specificprimers. Lappin-Scott.1995.Microbialbiofilms.Annu.Rev.Microbiol.49:711–745.
+ThisisthefirststudyofCiliophora18SrRNAgenesequence 12. Countway, P. D., R. J. Gast, P. Savai, and D. A. Caron. 2005. Protistan
+diversityestimatesbasedon18SrDNAfromseawaterincubationsinthe
+diversityinenvironmentalsamplesandthefirstmolecularin- westernNorthAtlantic.J.Eukaryot.Microbiol.52:95–106.
+vestigation of microeukaryotes in stream biofilms. This study 13. Dawson,S.C.,andN.R.Pace.2002.Novelkingdom-leveleukaryoticdiver-
+sityinanoxicenvironments.Proc.Natl.Acad.Sci.USA99:8324–8329.
+hasdemonstratedthatmolecularmethodscanbeusedtochar-
+14. Dieffenbach, C. W., T. M. J. Lowe, and G. S. Dveksler. 1995. General
+acterizemicroeukaryotediversityinstreamenvironments,and conceptsforPCRprimerdesign,p.133–142.InC.W.DieffenbachandG.S.
+more specifically ciliate diversity in stream biofilms, through Dveksler(ed.),PCRprimer:alaboratorymanual.ColdSpringHarborLab-
+oratoryPress,ColdSpringHarbor,NY.
+design and application of primers targeted to this monophy-
+15. Diez,B.,C.Pedros-Alio,andR.Massana.2001.Studyofgeneticdiversityof
+leticprotozoantaxon.Thisispossibleduetorecentadvances eukaryoticpicoplanktonindifferentoceanicregionsbysmall-subunitrRNA
+in understanding protozoan phylogeny and the associated genecloningandsequencing.Appl.Environ.Microbiol.67:2932–2941.
+16. Doherty,M.,B.A.Costas,G.B.McManus,andL.A.Katz.2007.Culture-
+availability of sequence data. Comparing results of molecular independentassessmentofplanktonicciliatediversityincoastalnorthwest
+analyses using eukaryote-specific primers and ciliate-specific Atlanticwaters.Aquat.Microb.Ecol.48:141–154.
+17. Finlay,B.J.,andG.F.Esteban.1998.Freshwaterprotozoa:biodiversityand
+primers shows that phylum-specific PCR primers can provide
+ecologicalfunction.Biodivers.andConserv.7:1163–1186.
+more-detaileddataregardingspecifictaxaofinterest.Primers 18. Forney,L.J.,X.Zhou,andC.J.Brown.2004.Molecularmicrobialecology:
+384F and 1147R were effective for the detection of a broad landoftheone-eyedking.Curr.Opin.Microbiol.7:210–220.
+19. Fried,J.,R.Psenner,W.Ludwig,andK.H.Schleifer.2002.Improvementof
+rangeofciliatediversityandrevealedtheexistenceofdiverse
+ciliateidentificationandquantification:anewprotocolforfluorescencein
+microeukaryote communities associated with stream biofilms. situhybridization(FISH)incombinationwithsilverstaintechniques.Syst.
+Group-specificprimersremaintobedevelopedformanyother Appl.Microbiol.25:555–571. .452.01.4.19
+20. Heath,R.T.,S.J.Hwang,andM.Munawar.2003.Ahypothesisforthe
+protozoan groups. This study has defined a feasible route to assessmentoftheimportanceofmicrobialfoodweblinkagesinnearshore
+achieving a comprehensive measure of molecular protozoan andoffshorehabitatsoftheLaurentianGreatLakes.Aquat.Ecosyst.Health
+Management6:231–239.
+diversity, and the process which led to the method applied in
+21. Holzmann,M.,J.Pawlowski,A.Habura,H.Giles,andS.S.Bowser.2003. yb
+this study can be applied in the same way to other protozoan FreshwaterforaminiferansrevealedbyanalysisofenvironmentalDNAsam- 3202
+groups. Application of the methodology developed in this ples.J.Eukaryot.Microbiol.50:135–139.
+22. Huber,T.,G.Faulkner,andP.Hugenholtz.2004.Bellerophon:aprogramto
+studyhasthepotentialtocontributetoimprovedunderstand- rebmetpeS
+detectchimericsequencesinmultiplesequencealignments.Bioinformatics
+ingoftheroleofprotozoainaquaticecosystems. 20:2317–2319.
+23. Keeling, P. J., G. Burger, D. G. Durnford, B. F. Lang, R. W. Lee, R. E.
+Pearlman, A. J. Roger, and M. W. Gray. 2005. The tree of eukaryotes.
+ACKNOWLEDGMENTS
+TrendsEcol.Evol.20:670–676. 12
+FundingforthisresearchwasprovidedbyNewZealandFoundation 24. Kneitel,J.M.,andJ.M.Chase.2004.Disturbance,predator,andresource no
+interactionsaltercontainercommunitycomposition.Ecology85:2088–2093.
+for Research, Science and Technology Public Good Science Fund mea/lanruoj/gro.msa.slanruoj//:sptth
+25. Lin,S.,H.Zhang,Y.Hou,L.Miranda,andD.Bhattacharya.2006.Devel-
+UOA306andaUniversityofAucklandMastersScholarship.
+opmentofadinoflagellate-orientedPCRprimersetleadstodetectionof
+picoplanktonicdinoflagellatesfromLongIslandSound.Appl.Environ.Mi-
+REFERENCES crobiol.72:5626–5630.
+1. Adl,S.M.,A.G.B.Simpson,M.A.Farmer,R.A.Andersen,O.R.Anderson, 26. Lopez-Garcia, P., F. Rodriguez-Valera, C. Pedros-Alio, and D. Moreira.
+J.R.Barta,S.S.Bowser,G.Brugerolle,R.A.Fensome,S.Fredericq,T.Y. 2001.Unexpecteddiversityofsmalleukaryotesindeep-seaAntarcticplank-
+James,S.Karpov,P.Kugrens,J.Krug,C.E.Lane,L.A.Lewis,J.Lodge, ton.Nature409:603–607.
+D.H.Lynn,D.G.Mann,R.M.McCourt,L.Mendoza,Ø.Moestrup,S.E. 27. Lynn,D.H.2003.Morphologyormolecules:howdoweidentifythemajor
+Mozley-Standridge,T.A.Nerad,C.A.Shearer,A.V.Smirnov,F.W.Spiegel, lineagesofciliates(PhylumCiliophora)?Eur.J.Protistol.39:356–364.
+and M. F. J. R. Taylor. 2005. The new higher level classification of eu- 28. Marxsen, J. 2006. Bacterial production in the carbon flow of a central
+karyoteswithemphasisonthetaxonomyofprotists.J.Eukaryot.Microbiol. Europeanstream,theBreitenbach.Freshw.Biol.51:1838–1861.
+52:399–451. 29. Miller,D.N.,J.E.Bryant,E.L.Madsen,andW.C.Ghiorse.1999.Evalu-
+2. Bapteste, E., H. Brinkmann, J. A. Lee, D. V. Moore, C. W. Sensen, P. ationandoptimizationofDNAextractionandpurificationproceduresfor
+Gordon,L.Durufle,T.Gaasterland,P.Lopez,M.Muller,andH.Philippe. soilandsedimentsamples.Appl.Environ.Microbiol.65:4715–4724.
+2002.Theanalysisof100genessupportsthegroupingofthreehighlydiver- 30. Moon-vanderStaay,S.Y.,R.DeWachter,andD.Vaulot.2001.Oceanic18S morf
+gent amoebae: Dictyostelium, Entamoeba, and Mastigamoeba. Proc. Natl. rDNAsequencesfrompicoplanktonrevealunsuspectedeukaryoticdiversity.
+Acad.Sci.USA99:1414–1419. Nature409:607–610.
+dedaolnwoD
+
+VOL.74,2008 MOLECULAR CHARACTERIZATION OF CILIATE DIVERSITY 1747
+31. Muylaert, K., R. Van Mieghem, K. Sabbe, M. Tackx, and W. Vyverman. 42. Sherr,E.B.,andB.F.Sherr.1994.Bacterivoryandherbivory:keyrolesof
+2000.Dynamicsandtrophicrolesofheterotrophicprotistsintheplanktonof phagotrophicprotistsinpelagicfoodwebs.Microb.Ecol.28:223–235.
+afreshwatertidalestuary.Hydrobiologia432:25–36. 43. Sherr,E.B.,andB.F.Sherr.2002.Significanceofpredationbyprotistsin
+32. Nikolaev,S.I.,C.Berney,J.F.Fahrni,I.Bolivar,S.Polet,A.P.Mylnikov, aquaticmicrobialfoodwebs.AntonievanLeeuwenhoek81:293–308.
+V.V.Aleshin,N.B.Petrov,andJ.Pawlowski.2004.ThetwilightofHeliozoa 44. Simpson,A.G.B.2003.Cytoskeletalorganization,phylogeneticaffinitiesand
+andriseofRhizaria,anemergingsupergroupofamoeboideukaryotes.Proc. systematicsinthecontentioustaxonExcavata(Eukaryota).Int.J.Syst.Evol.
+Natl.Acad.Sci.USA101:8066–8071. Microbiol.53:1759–1777.
+33. Nikolaev,S.I.,C.Berney,N.B.Petrov,A.P.Mylnikov,J.F.Fahrni,andJ. 45. Simpson,A.G.B.,Y.Inagaki,andA.J.Roger.2006.Comprehensivemul-
+Pawlowski.2006.PhylogeneticpositionofMulticiliamarinaandtheevolu- tigenephylogeniesofexcavateprotistsrevealtheevolutionarypositionsof
+tionofAmoebozoa.Int.J.Syst.Evol.Microbiol.56:1449–1458. “primitive”eukaryotes.Mol.Biol.Evol.23:615–625.
+34. Page,F.C.1988.AnewkeytofreshwaterandsoilGymnamoebae.Fresh- 46. Sims,G.P.,R.Aitken,andA.Rogerson.2002.Identificationandphyloge-
+waterBiologicalAssociation,Ambleside,England.
+neticanalysisofmorphologicallysimilarnakedamoebaeusingsmallsubunit
+35. Patterson,D.J.1996.Free-livingfreshwaterProtozoa:acolourguide.Uni-
+ribosomalRNA.J.Eukaryot.Microbiol.49:478–484.
+versityofNewSouthWalesPress,Sydney,Australia.
+47. Slapeta,J.,D.Moreira,andP.Lopez-Garcia.2005.Theextentofprotist
+36. Prokopowich,C.D.,T.R.Gregory,andT.J.Crease.2003.Thecorrelation
+diversity:insightsfrommolecularecologyoffreshwatereukaryotes.Proc.R.
+betweenrDNAcopynumberandgenomesizeineukaryotes.Genome46:
+Soc.Biol.Sci.Ser.B272:2073–2081.
+48–50.
+48. Stoeck,T.,andS.Epstein.2003.Noveleukaryoticlineagesinferredfrom
+37. Ribblett,S.G.,M.A.Palmer,andD.W.Coats.2005.Theimportanceof
+small-subunit rRNA analyses of oxygen-depleted marine environments.
+bacterivorous protists in the decomposition of stream leaf litter. Freshw.
+Appl.Environ.Microbiol.69:2657–2663.
+Biol.50:516–526.
+38. Rogerson,A.,andC.Gwaltney.2000.Highnumbersofnakedamoebaein 49. Stoeck,T.,S.S.Epstein,andG.T.Taylor.2003.Noveleukaryotesfromthe
+the planktonic waters of a mangrove stand in southern Florida, USA. J. permanentlyanoxicCariacoBasin(CaribbeanSea).Appl.Environ.Micro-
+Eukaryot.Microbiol.47:235–241. biol.69:5656–5663.
+39. Romani,A.M.,H.Guasch,I.Munoz,J.Ruana,E.Vilalta,T.Schwartz,F. 50. Stoeck,T.,B.Hayward,S.S.Epstein,G.T.Taylor,andR.Varela.2006.A
+Emtiazi,andS.Sabater.2004.Biofilmstructureandfunctionandpossible multiple PCR-primer approach to access the microeukaryotic diversity in
+implicationsforriverineDOCdynamics.Microb.Ecol.47:316–328. environmentalsamples.Protist157:31–43.
+40. Sakaguchi,M.,T.Nakayama,T.Hashimoto,andI.Inouye.2005.Phylogeny 51. Stoecker,D.K.,andJ.McDowellCapuzzo.1990.Predationonprotozoa:its
+oftheCentrohelidainferredfromSSUrRNA,tubulins,andactingenes.J. importancetozooplankton.J.PlanktonRes.12:891–908.
+Mol.Evol.61:765–775. 52. Yuasa,T.,O.Takahashi,J.K.Dolven,S.Mayama,A.Matsuoka,D.Honda,
+41. Sanders, R. W., D. A. Caron, and U. G. Berninger. 1992. Relationships andK.R.Bjørklund.2006.Phylogeneticpositionofthesmallsolitaryphae-
+betweenbacteriaandheterotrophicnanoplanktoninmarineandfreshwa- odarians (Radiolaria) based on 18S rDNA sequences by single cell PCR
+ters:aninter-ecosystemcomparison.Mar.Ecol.Progr.Ser.86:1–14. analysis.Mar.Micropaleontol.59:104–114.
+.452.01.4.19
+yb
+3202
+rebmetpeS
+12
+no
+mea/lanruoj/gro.msa.slanruoj//:sptth
+morf
+dedaolnwoD
+

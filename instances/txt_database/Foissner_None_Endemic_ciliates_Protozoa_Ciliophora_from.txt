@@ -1,0 +1,417 @@
+Europ.J.Protistol.39,365–372 (2003)
+© Urban & Fischer Verlag
+http://www.urbanfischer.de/journals/ejp
+Endemic ciliates (Protozoa, Ciliophora) from tank
+bromeliads (Bromeliaceae): a combined morphological,
+molecular, and ecological study
+Wilhelm Foissner1,*,Michaela Strüder-Kypke2,Georg W.M.van der Staay3,
+Seung-Yeo Moon-van der Staay3,and Johannes H.P.Hackstein3
+1Universität Salzburg,Institut für Zoologie,Hellbrunnerstrasse 34,A-5020 Salzburg,Austria;
+2University of Guelph,Department of Zoology,Ontario N1G 2W1,Canada;
+3University of Nijmegen,Department of Evolutionary Microbiology,NL–6525 Ed Nijmegen,The Netherlands
+Received:1 September 2003;15 October 2003. Accepted:22 October 2003
+Bromeliads are mainly epiphytic rosette plants occurring only in Central and South America.They collect
+rain water and particulate materials in tanks (cisterns) formed by the coalescing leaf axils.These tanks
+form an extensive,highly compartmentalized water and humus body above the ground and are inhabited
+by many ordinary and endemic organisms.We discovered at least 10 new ciliate species in the tanks of
+about 15 bromelian species from the Dominican Republic,Ecuador,and Brazil.Since there are 2000–3000
+bromelian species with very different lifestyles, they are likely to contain hundreds of novel ciliate
+species.Two of the new species described here are real “flagships”,that is,they have such a large size
+that they would have been found in Europe,if they were there.Consequently,these species must have a
+restricted geographical distribution,disproving the old hypothesis that microscopic organisms are cos-
+mopolitan.Also the smaller ciliates described here represent new genera and families, arguing for a
+long-lasting,independent evolution driven by ecological constraints and spatial isolation.Almost half of
+the new species can switch from bacteriophagous, microstome morphs to a predatory, macrostome
+lifestyle,likely due to the strong competition in these peculiar habitats.The high morphological and eco-
+logical diversity of tank bromeliad ciliates is only partially recovered by small-subunit (18S) ribosomal
+RNA (rRNA) gene sequences.
+Key words:Biodiversity;Biogeography;Brazil;Conventional vs.molecular classification;Dominican Re-
+public;Ecuador;Endemic ciliates.
+Introduction
+Lakes, ponds, and rivers are rare in many tropi- substantial reservoir of water and raw humus is
+cal and subtropical rain forests because most rain available in undisturbed rain forests of Central and
+water is immediately collected by the tree roots. South America, viz., in the tanks (cisterns) of epi-
+Likewise, soils contain little humus because the or- phytic and ground bromeliads, which form an ex-
+ganic matter is quickly mineralized due to the high tensive, highly compartmentalized ecosystem
+air humidity and temperature. In spite of this, a (Martinelli 2000; Schönborn 2003).
+Bromeliads are rosette plants of the subclass
+*corresponding author Liliidae (lilies), and the most famous species is the
+0932-4739/03/39/04-365 $ 15.00/0
+
+366 W.Foissner et al.
+pineapple, Ananas sativus (Sitte et al. 1991). The All species shown, except for those living on other
+tanks are formed by the coalescing leaf axils, which animals, could be cultivated in natural, centrifuged tank
+collect the rain water, and the rosettes of the larger water and/or Eau de Volvic (French table water) en-
+riched with some cracked wheat grains to stimulate
+species may entrap up to 30 litres. There are
+growth of food organisms, viz., bacteria, flagellates, and
+2000–3000 bromelia species, many of which exhib-
+small ciliates. Predatory species were either fed with
+it peculiar lifestyles in a wide variety of environ-
+flagellates or small ciliates isolated from the tanks, or
+ments; some or even most release specific sub-
+with ordinary laboratory cultures of Colpidium kleini
+stances into the tank water, whose chemical and and Paramecium aurelia. For details, see Foissner
+physical conditions show great local and temporal (2003a, b).
+differences, providing innumerable niches for pro- Most morphological and ecological data presented
+tists and small metazoans (Picado 1913; Maguire here, are based on cultivated specimens investigated in
+vivo and with the methods described in Foissner (1991).
+1971; Martinelli 2000; Schönborn 2003).
+Soil (humus) samples were investigated with the non-
+Since Picado (1913), it is well-known that
+flooded Petri dish method, as described in Foissner et al.
+bromelian tanks are inhabited by a more or less
+(2002). Sequencing of the 18S rRNA genes was per-
+specific flora and fauna; about 400 metazoan
+formed with standard procedures.
+species have been recorded, but many more can be
+expected because the tanks are generally poorly
+explored (Schönborn 2003). Protists, although ob- Results
+viously being common and abundant, were never
+studied in detail (Picado 1913; Laessle 1961; Most of the new species found are documented
+Maguire 1971; Janetzky and Vareschi 1992; Esteves here by some figures. Only key characteristics are
+and da Silva Neto 1996; Little and Hebert 1996; described due to space constraints. For distribu-
+Martinelli 2000; Carrias et al. 2001). Only testate tion, see Table 1.
+amoebae were investigated to some extent (Van
+Oye 1923), and recently a new species, represent-
+Morphology,ontogenesis,and gene sequences
+ing a new family, was described from Brazilian
+tank bromeliads (Torres-Stolzenberg 2000). Here, 1. Lambornella trichoglossa Foissner, 2003
+we shall show that also many undescribed ciliate (Figs 1, 2): This tetrahymenid ciliate, measuring
+species inhabit this peculiar ecosystem, and that about 200 ×50 µm, described by Foissner (2003b),
+their study significantly contributes to understand possibly represents a new genus because it reorga-
+protist speciation and diversity. nizes the parental oral apparatus during ontogene-
+sis and does not infect mosquito larvae, in contrast
+to the congeners. Unfortunately, 18S sequence data
+Material and methods are not available. Although L. trichoglossadoes not
+form macrostomes, it can feed on large rotifers.
+Ciliates were collected from the water and mud accu- Resting cysts are produced.
+mulated in the tanks of epiphytic and ground 2. Bromeliophrya brasiliensis Foissner, 2003
+bromelians from the Dominican Republic, Ecuador, (Figs 6, 14, 19):This species, described by Foissner
+and Brazil. Most samples were taken by W. Foissner
+(2003a), is type of the new genus Bromeliophrya
+(Brazil, Dominican Republic), some were kindly sup-
+and of the new tetrahymenid family Bromelio-
+plied by Dr. T. Cordeiro (Cidade University, João Pes-
+phryidae, which is characterized by a partially re-
+soa, Brazil) and Prof. W. Till (Vienna University; sam-
+ples from Ecuador and a single sample from the Do- duced somatic ciliature and migrating kinetofrag-
+minican Republic). Since the tank water is acidic (pH ments during ontogenesis. The family consists of
+4–6), delaying decomposition and putrefaction of water the genus Bromeliophryaand the two new, not yet
+and organic materials, samples can be transported for described genera mentioned below. Morphology,
+several days, perhaps even for one or two weeks, with- ontogenesis, and the 18S sequence data show that
+out special precautions. However, larger predators,
+the Bromeliophryidae are closely related to the
+such as insect larvae and crustaceans should be sieved
+Glaucomidae (sequence identity with G. scintillans
+off because they consume most protists, especially in
+98.5%, 98.4% and 98.2%, respectively). The
+small samples stored for a longer time. On the other
+Metopus-shaped type species has a size of about 55
+hand, many of these small metazoans are colonized by
+epizoic peritrichs. Accordingly, they should be sampled × 35 µm. It possesses two large, unciliated areas
+and transported separately. and does not form macrostomes. Resting cyst pro-
+
+Figs 1–13. Ciliates from bromelian tanks in the SEM (1, 3–5, 7, 8, 10, 12, 13), in vivo (9), and after silver impregna-
+tion (2, 6, 11). 1, 2:Lambornella trichoglossa. Arrowheads mark excretory pores. 3–5:New genus 1, ventral and dor-
+sal (4, asterisk marks unciliated patch) view of microstomes (3, 4) and ventrolateral view of a macrostome (5). 6:
+Bromeliophrya brasiliensishas a large, unciliated area (asterisk) left of the oral apparatus. 7, 8:New, tetrahymenid
+genus 3. This gigantic, up to 800 µm long ciliate has a functionless, minute, primary oral apparatus (arrows) and a
+large secondary mouth (OA) used to capture large prey, e.g. Paramecium. 9–13:New genus 4 is a minute colpodid
+ciliate, which divides in freely motile condition forming a chain (9) with pairs connected by a special structure (10,
+13, arrows). LP – left oral polykinetid, MA – macronucleus, OA – oral apparatus, RP – right oral polykinetid. Bars
+2 µm (Fig. 13), 10 µm (Figs 8, 10–12), 20 µm (Figs 3–6), 50 µm (Figs 1, 2, 7, 9).
+
+368 W.Foissner et al.
+Table 1. Distribution of new and described ciliate species in duction not investigated. A distinctly smaller, new
+tanks of about 15 bromelia species from the Dominican Repub- (?) species occurs in the Dominican Republic.
+lic (DR; six samples from three sites), Ecuador (E; five samples
+3. New genus 1 (Figs 3–5, 14, 17): This ciliate,
+from three sites), and Brazil (five samples from two sites).
+about 50 µm long, belongs to the Bromeliophryi-
+Species 1 Distribution
+dae described above. It is rather similar to Glauco-
+DR E B ma scintillans, but has an unciliated patch dorsally
+and can transform to macrostomes. Resting cysts
+New or supposedly new species
+could be not produced.
+Bromeliophrya brasiliensis + +
+Bromeliophryan. sp. (?) + 4. New genus 2 (Figs 14, 18):This ciliate, about
+New genus 1 (bromeliophryid) + 60 µm long, also belongs to the Bromeliophryidae
+New genus 2 (bromeliophryid) + and is rather similar to B. brasiliensis, but the uncil-
+Lambornella trichoglossa + + +
+iated areas are less distinct and the right side preo-
+Tetrahymena n. sp. (?)2 + +
+ral ciliary rows are less conspicuously elongated.
+New genus 3 (gigantic tetrahymenid) + +
+New genus 4 (colpodid) + Resting cysts could be not produced.
+Rhabdostylan. sp. 1(?) (epizoic) + 5. New genus 3 (Figs 7, 8, 14):This gigantic cil-
+Rhabdostyla n. sp. 2(?) + iate, up to 800 µm long, is also a tetrahymenine hy-
+Epistylisn. sp. (epizoic) + +
+menostome, according to both the morphological
+Opercularian. sp. (?) (epizoic) +
+and the 18S sequence data. It is outstanding by its
+Leptopharynxn. sp. (?) +
+large size, in being able to feed on Paramecium,
+Described species
+and in having two entirely different mouths, both
+Bresslaua vorax +
+completely reorganized during ontogenesis. The
+Bryometopus triquetus +
+Chilodonella uncinata + original (primary), tetrahymenine oral apparatus is
+Cinetochilum margaritaceum + located subapically at the left margin of the cell and
+Colpoda cucullus + is likely functionless because it is minute and lacks
+Colpoda inflata + + +
+a paroral membrane; it possesses, however, 4–8
+Colpoda lucida +
+(x¯6) adoral membranelles, while all other tetrahy-
+Colpoda maupasi +
+Colpoda steinii + + menids have only three. The functional (sec-
+Cyclidium glaucoma(?)3 + + ondary) mouth is a large funnel produced by the
+Cyclidium muscicola + + invaginated anterior body end and lacks any spe-
+Cyrtolophosis mucicola + + + cific oral structures. This species also shows some
+Dexiotricha granulosa +
+sort of microstome-macrostome transformation
+Dexiotrichasp.3 +
+and produces large resting cysts. Morphologically,
+Drepanomonas revoluta +
+Frontonia depressa + the ciliate is so different from all the known
+Halteria grandinella + tetrahymenids that it could be a representative of
+Leptopharynx costatus + + + at least a new family. However, its 18S rRNA se-
+Litonotussp.3 +
+quence is almost identical (99.3%) to that of
+Meseres corlissi +
+Tetrahymena corlissi(see Discussion).
+Metopus minor +
+6. Peritrichs: Several, likely undescribed per-
+Microdiaphanosoma arcuatum +
+Microthorax pusillus + itrichs were found, most attached to small meta-
+Operculariasp.3 + zoans, such as oligochaetes and mosquito larvae.
+Oxytricha longigranulosa + Some are rather conspicuous because they form
+Pattersoniella vitiphila +
+large colonies and have zooids up to 150 µm long.
+Plagiocampa rouxi +
+Although difficult to quantify, contractility ap-
+Platyophrya vorax +
+Pseudocyrtolophosis alpestris + + + pears more pronounced than in many related
+Sathrophilus muscorum + species from ordinary limnetic habitats. All feed
+Stammeridium kahli + on bacteria. No macrostomes were observed. Most
+Sterkiella histriomuscorum-complex +
+likely they produce resting cysts.
+Tetrahymena rostrata + +
+7. New genus 4 (Figs 9–13, 15): This ciliate,
+Uroleptus lepisma + +
+only 20–50 µm long, briefly described by Foissner
+Vorticella aqua-dulcis-complex +
+and Cordeiro (2000), represents not only a new
+1For authorship and date of species, see Result section,
+genus, but likely also a new family. Morphological-
+Foissner (1998), and Foissner et al. (2002).
+ly, it belongs to the order Colpodida, while gene se-
+2Reorganizes the parental oral apparatus during ontogenesis.
+3Some of these might be undescribed (new) species. quences place it somewhere between the Colpodi-
+
+Endemic ciliates from tank bromeliads 369
+da and Grossglockneriida. This species is outstand- Ecology
+ing by dividing in freely motile condition (most
+other colpodids of this type reproduce in division Ecological data are still very incomplete because
+cysts), whereby chains of four individuals are pro- only a few bromelian species and sites were inves-
+duced with the individual pairs connected by a spe- tigated. None the less, some interesting observa-
+cial structure highly reminiscent of an ordinary tions were made, which will be briefly described.
+patent fastener. Further, it forms bacteriophagous (1) Two main ciliate habitats can be distin-
+microstomes and flagellate-feeding macrostomes, guished in the tanks, viz., the water and mud, and
+and produces two types of resting cysts. the body surface of small metazoans, such as
+Figs 14, 15. 18S rRNA sequence trees from some new bromelian
+tank ciliates (neighbour-joining analysis). 14: The new genera
+1 and 2 and Bromeliophrya brasiliensisform a new family related
+to the Glaucomidae, represented by Glaucoma scintillans. The
+new, gigantic (up to 800 µm) tetrahymenid ciliate, though having a
+unique morphology, clusters close to Tetrahymena corlissi. The
+numbers at nodes represent bootstrap percentages from 100 repli-
+cates. The scale bar corresponds to 5 substitutions per 100 nu-
+cleotide sequences. 15: Tamura-Nei evolutionary distances show
+that the new colpodid ciliate belongs to the order Colpodida.
+Figs 16–19. The three genera (Figs 17–19) of the new family Bromeliophryidae Foissner, 2003a evolved from a Glau-
+coma scintillans-like ancestor (Fig. 16), according to both morphologic data and ribosomal gene sequences (Fig. 14).
+The new genus 1 (Figs 3–5, 17), which looks like G. scintillansventrally (Figs 3, 16, 17), has an unciliated patch dorsal-
+ly (Fig. 4) and forms macrostomes (Fig. 5). The ciliary rows of the new genus 2 (Fig. 18), which also has an unciliated
+patch dorsally, are elongated preorally (arrow) and interrupted left laterally (asterisk). Bromeliophrya brasiliensis(Figs
+6, 19), which has a large, unciliated patch each dorsally and left laterally (asterisk), possesses strongly elongated pre-
+oral ciliary rows (arrow) and two short kinetofragments (arrowhead) which migrate from left to right during ontoge-
+nesis, an outstanding feature previously not known in tetrahymenid ciliates (Foissner 2003a). Evolution within the
+family Bromeliophryidae, composed of the genus Bromeliophryaand the new genera 1 and 2, is still obscure.
+
+370 W.Foissner et al.
+mosquito larvae and oligochaetes, where epizoic molecular markers than the 18S might represent
+peritrichs are frequent. (2) Distribution of the new the morphological divergence more adequately.
+species appears rather scattered, that is, only Lam- However, even identical 18S sequences of two
+bornella trichoglossa was found at all sites investi- species a priori do not allow detailed predictions
+gated (Table 1). (3) The tank bromeliad ciliate com- about the morphological similarity, as exemplified
+munity consists of several endemic, undescribed by the minute 18S divergence of man and chim-
+taxa and ordinary, cosmopolitan freshwater (e.g., panzee. With respect to the 18S sequences analysed
+Halteria, Cinetochilum) and moss (e.g., Colpoda here, all tetrahymenids could be united in a single
+spp., Drepanomonas spp., Leptopharynx) species. genus, notwithstanding their high morphological
+True soil and euplanktonic species are rare (Table and ecological diversity. A similar, but less striking
+1). (4) None of the new species was found in any of situation is obvious with the new colpodid, which
+about 150 soil samples from Central and South appears as a typical member of the order Colpodi-
+America. They also could not be recovered in two da, according to its morphology (Figs 9–12) and
+dried and re-wetted tank mud samples from the evolutionary distances (Fig. 15), while 18S se-
+Dominican Republic, although most of them pro- quence trees (not shown) classify it as a member of
+duce resting cysts. On the other hand, the new the Grossglockneriida.
+colpodid (genus 4) grows well when added to vari-
+ous ordinary soil samples. (5) Garden bromeliads
+Endemic ciliates in bromelian tanks
+from two sites of the Dominican Republic had lost
+the original ciliate community and were inhabited When one of us (W. Foissner) collected some
+by pond and waste-water ciliates, indicating that water and mud from a ground bromelia in Brazil,
+sometimes cleared waste-water was used for irriga- this was done only for fun because the mainstream
+tion. (6) Most tank ciliates are bacteriophagous or ideology fostered the expectation that such small
+feed, after transformation to macrostomes, on flag- biota should be inhabited by common, cosmopoli-
+ellates (new genera 1, 2, 4). Trials to adapt the new tan ciliate species. However, the sample contained
+colpodid to feed on small ciliates (Colpoda steinii, two new taxa (Foissner 2003a, b), and further sam-
+Tetrahymena) failed. Large species, such as Lam- ples provided many other new species, disproving
+bornella trichoglossaand the new genus 3 feed on a the widespread, old hypothesis that, in the micro-
+variety of protists and small metazoans; genus 3 is bial world, “everything is everywhere, the envi-
+even cannibalistic. ronment selects”. Some of these new species, viz.,
+the large, Paramecium-feeding tetrahymenid pre-
+sented here and the 200 µm long Lambornella tri-
+Discussion choglossa Foissner (2003b) are too conspicuous to
+assume that they were overlooked in Europe (Figs
+1, 2, 7). Thus, the little ponds in the cisterns of
+Contrasting morphological and
+bromelian plants add significant evidence for the
+molecular classifications
+occurrence of free-living protists with restricted,
+We shall discuss here mainly the gigantic geographic distribution (for reviews, see Foissner
+tetrahymenid ciliate (= new genus 3) because it is 1999 and Foissner et al. 2002).
+the most informative example. Morphological and There are 2000–3000 bromelia species, many of
+molecular data both support the assignment to the which have special lifestyles and grow in extreme
+tetrahymenine hymenostomes (Fig. 14). However, environments, such as the tepuis in Venezuela and
+a comparison of the 18S sequence with those avail- the Andean semi-deserts (Martinelli 2000). We in-
+able in the public data bank shows that this species vestigated less than 20 bromelia species from only
+is very closely related to Tetrahymena corlissi, a eight sites, but found at least 10 new species (Table
+small, possibly ubiquitous ciliate. This contrasts 1). Since samples were taken just once and from a
+sharply with the morphological and ecological few plants only, it is likely that merely a tiny fraction
+data, which suggest at least a distinct family for this of the species actually present was encountered.
+peculiar ciliate, especially if the differences are Common sense suggests that the highly compart-
+compared with those found in other tetrahymenid mentalized and diverse bromelian tank ecosystem
+families, for instance, the Tetrahymenidae and will host hundreds, perhaps thousands of novel cili-
+Glaucomidae (Lynn 1994). Potentially, other ate species, as do soils globally (Foissner et al. 2002).
+
+Endemic ciliates from tank bromeliads 371
+Ecology and selective forces chously ciliated, Glaucoma-like ancestor (Fig. 14),
+possibly from an ancestor shared with Glaucoma
+Although the bromelian tank ciliate community scintillans, a very frequent, euryoecious cos-
+has an original character due to those species not mopolitan (Foissner et al. 1994). Commencing
+found elsewhere, it likely evolved from cos- with G. scintillans, the following features gradually
+mopolitan pond and moss ciliate biota, as indicated increase/change, reaching a maximum in Brome-
+by the frequent occurrence of bacteriophagous liophrya brasiliensis (Figs 16–19): the length and
+tetrahymenids, epizoic peritrichs, and euryoecious curvature of the right side preoral ciliary rows, the
+species of the genus Colpoda. Typical soil inhabi- reduction of the somatic ciliature, the body asym-
+tants are rare. This matches the observation that metry, and the length of adoral membranelle 3.
+we could not find any of the new bromelian ciliates
+Unfortunately, the sequence data (Fig. 14) do not
+in about 150 soil samples from Central and South
+follow this “straight” line, and a cladistic analysis
+America. Interestingly, the bromelian tank ciliate
+of the morphological features (not shown) also
+community is also highly different from that
+gives doubtful results. Further, the proposed stem-
+found in astatic road and meadow puddles (Gelei
+species, G. scintillans, is rather speculative because
+1954; Dingfelder 1962), mainly due to the rarity or
+the silverline pattern and the ability to transform
+lack of nassulids (likely because filamentous
+the oral apparatus match G. ferox better, a species
+cyanobacteria are rare), colpodid marynids, rapa-
+whose geographic origin is, unfortunately, un-
+cious haptorids, and euplanktonic stichotrich hy-
+known (Puytorac et al. 1973). There is also con-
+potrichs.
+spicuous parallelism: the preoral ciliary patterns of
+The new ciliates occurring in bromelian tanks
+the Bromeliophryidae are highly similar to those
+are basically similar to those found in ordinary
+found in the genera Dexiostoma, Paracolpidium,
+limnetic habitats, but frequently represent new
+and Colpidium of the tetrahymenid family Tu-
+genera and families; these could suggest a long, in-
+raniellidae (for reviews, see Ganner and Foissner
+dependent evolution, which matches the age of the
+1989; Lynn 1994).
+bromelian plant family documented to date from
+at least 65 million years ago (Sitte et al. 1991). Mor-
+Acknowledgements: The technical assistance of Dr.
+phology suggests at least two selective forces. The
+Brigitte Moser and Dr. Eva Herzog is greatly acknowl-
+ability to switch between bacteriophagous micro-
+edged. The study was supported by the Austrian Sci-
+stomes and predaceous macrostomes (Figs 3, 5) ence Foundation (FWF), Project P–15017, and by the
+and the overall changes in the oral structures, even NSERC Canada.
+those found in the large tetrahymenid (Figs 7, 8),
+become understandable when the habitat is con-
+References
+sidered. It desiccates during dry periods (thus,
+many of the species can form resting cysts), where-
+Carrias J.-F., Cussac M.-E. and Corbara B. (2001): A prelimi-
+by intra- and interspecific competition must be- nary study of freshwater protozoa in tank bromeliads. J.
+come extremely high due to the decreasing space Trop. Ecol. 17, 611–617.
+Dingfelder J. H. (1962): Die Ciliaten vorübergehender
+and resources. More difficult to understand are the
+Gewässer. Arch. Protistenkd. 105, 509–658.
+rather pronounced changes in body shape and so-
+Esteves C. B. and da Silva Neto I. D. (1996): Study of Hy-
+matic ciliary pattern because they have no obvious menostomatida ciliates found in water tanks of Bromeli-
+ecological advantage and the somatic ciliary pat- aceae from Bracuhy Port, Angra dos Reis, Rio de Janeiro.
+tern is usually much more stable than the oral one. Mem. Inst. Osw. Cruz 91 (Suppl.), 63 (abstract).
+Foissner W. (1991): Basic light and scanning electron micro-
+Probably, these changes are caused by long spatial
+scopic methods for taxonomic studies of ciliated protozoa.
+isolation and/or the substances secreted by the Europ. J. Protistol. 27, 313–330.
+bromelian leaves into the tank water. Foissner W. (1998): An updated compilation of world soil cili-
+ates (Protozoa, Ciliophora), with ecological notes, new
+records, and descriptions of new species. Europ. J. Protis-
+The Bromeliophryidae,an impressive example tol. 34, 195–235.
+Foissner W. (1999): Protist diversity: estimates of the near-im-
+of ciliate evolution
+ponderable. Protist 150, 363–368.
+Foissner W. (2003a): Morphology and ontogenesis of Brome-
+When looking at the three known species of the
+liophrya brasiliensisgen. n., sp. n., a new ciliate (Protozoa:
+family Bromeliophryidae and the sequence data, it
+Ciliophora) from Brazilian tank bromeliads (Bromeli-
+becomes obvious that they evolved from a holotri- aceae). Acta Protozool. 42, 55–70.
+
+372 W.Foissner et al.
+Foissner W. (2003b): Morphology and ontogenesis of Lam- Laessle A. M. (1961): A micro-limnological study of Jamaican
+bornella trichoglossanov. spec., a new tetrahymenid ciliate bromeliads. Ecology 42, 499–517.
+(Protozoa, Ciliophora) from Brasilian tank bromeliads Little T. J. and Hebert P. D. N. (1996): Endemism and ecolog-
+(Bromeliaceae). Europ. J. Protistol. 39, 63–82. ical islands: the ostracods from Jamaican brom liads.
+Foissner W. and Cordeiro T. (2000): A new, peculiar colpodid Freshwat. Biol. 36, 327–338.
+ciliate from the tanks of a Brasilian bromeliad. J. Eukary- Lynn D. H. (1994): Ordre des Tetrahymenida Fauré-Fremiet
+ot. Microbiol. 47 (Suppl.), 9A, abstract 69. in Corliss, 1956. Traité Zool. 2(2), 791–812.
+Foissner W., Berger H. and Kohmann F. (1994): Taxonomi- Maguire B., Jr. (1971): Phytotelmata: biota and community
+sche und ökologische Revision der Ciliaten des Saprobien- structure determination in plant-held waters. Ann. Rev.
+systems – Band III: Hymenostomata, Prostomatida, Nas- Ecol. Syst. 2, 439–464.
+sulida. Informationsberichte des Bayer. Landesamtes für Martinelli G. (2000): Gefährdete Raritäten. Bromelien im at-
+Wasserwirtschaft 1/94, 1–548. lantischen Regenwald. Spektrum der Wissenschaft 6/2000,
+Foissner W., Agatha S. and Berger H. (2002): Soil ciliates (Pro- 66–73.
+tozoa, Ciliophora) from Namibia (Southwest Africa), Picado C. (1913): Les broméliacees épiphytes. Considerées
+with emphasis on two contrasting environments, the comme milieu biologique (1). Bull. scient. Fr. Belg. 47,
+Etosha region and the Namib Desert. Denisia 5, 1–1459. 215–360.
+Ganner B. and Foissner W. (1989): Taxonomy and ecology of Puytorac P. de, Savoie A. and Roque M. (1973): Observations
+some ciliates (Protozoa, Ciliophora) of the saprobic sys- cytologiques et biologiques sur le cilié polymorphe Glau-
+tem. III. Revision of the genera Colpidium and Dexio- coma ferox Savoie et de Puytorac 1971. Protistologica 9,
+stoma, and establishment of a new genus, Paracolpidium 45–63.
+nov. gen. Hydrobiologia 182, 181–218. Schönborn W. (2003): Lehrbuch der Limnologie. Schweitzer-
+Gelei J. (1954): Über die Lebensgemeinschaft einiger tem- bart, Stuttgart.
+porärer Tümpel auf einer Bergwiese im Börzsönygebirge Sitte P., Ziegler H., Ehrendorfer F. and Bresinsky A. (1991):
+(Oberungarn) III. Ciliaten. Acta biol. hung. 5, 259–343. Lehrbuch der Botanik. 33thed. G. Fischer, Stuttgart, Jena,
+Janetzky W. and Vareschi E. (1992): Phytotelmata in bromeliads New York.
+as microhabitats for limnetic organisms. In: Animal-Plant Torres-Stolzenberg V. (2000): Procta em associacao com
+Interactions in Tropical Environments (Eds. W. Barthlott, Vrieseasp. (Bromeliaceae): tres novos taxa de amebas tes-
+C.M. Naumann, K. Schmidt-Loske, K. L. Schuchmann). taceas (Protoctista: Rhizopoda, Testacealobosea). Not.
+Results of the Annual Meeting of the German Society for Faun. Gembloux 41, 105–113.
+Tropical Ecology, Bonn 1992, Zoologisches Forschungsin- Van Oye P. (1923): De mikrofauna en flora der bladtrechters
+stitut und Museum Alexander Koenig, 199–209. van Bromeliacea. Natuurwet. Tijdschr. 5, 179–182.
+

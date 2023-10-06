@@ -1,0 +1,837 @@
+Thematic Section:
+Mini-Reviews in Applied Limnology
+Acta Limnologica Brasiliensia, 2020, vol. 32, e202
+https://doi.org/10.1590/S2179-975X6719
+ISSN 2179-975X on-line version
+Ciliates in ecotoxicological studies: A minireview
+Ciliados em estudos ecotoxicológicos: uma pequena revisão
+Jéssica Andrade Vilas-Boas1,2* , Marcus Vinicius Xavier Senra3 
+and Roberto Júnio Pedroso Dias1,2 
+1 Laboratório de Protozoologia, Laboratório Avançado de Zoologia - LAZ, Departamento
+de Zoologia, Universidade Federal de Juiz de Fora – UFJF, Rua José Lourenço Kelmer, s/n,
+CEP: 36036-900, Juiz de Fora, MG, Brasil
+2 Programa de Pós-graduação em Ecologia – PGECOL, Universidade Federal de Juiz de Fora –
+UFJF, Rua José Lourenço Kelmer, s/n, CEP: 36036-900, Juiz de Fora, MG, Brasil
+3 Programa de Pós-graduação em Meio Ambiente e Recursos Hídricos, Instituto de Recursos Naturais,
+Universidade Federal de Itajubá – UNIFEI, Av. BPS, 1303, Pinheirinho, CEP: 37500-903, Itajubá,
+MG, Brasil
+*e-mail: jessica_biol@outlook.com
+Cite as: Vilas-Boas, J.A., Senra, M.V.X. and Dias, R.J.P. Ciliates in ecotoxicological studies:
+a minireview. Acta Limnologica Brasiliensia, 2020, vol. 32, e202.
+Abstract: The present study has conducted a minireview of ecotoxicological studies using ciliated
+microeucaryotes, presenting a breif history, describing the current scenario and pointing out their
+methodological approaches gaps. We highlight in a clear and objective way the ecological importance
+of ciliates for ecosystems, their usefulness and the inherent characteristics that classify them as a good
+model organism. Finally, we discuss some modern tools that can be added to studies with ciliates in
+the near future.
+Keywords: Ciliophora, ecotoxicology; model organism.
+Resumo: O presente estudo realizou uma pequena revisão de estudos ecotoxicológicos utilizando
+microeucariotos ciliados, apresentando um histórico, descrevendo o cenário atual e apontando suas
+lacunas nas abordagens metodológicas. Destacamos de forma clara e objetiva a importância ecológica
+dos ciliados para os ecossistemas, sua utilidade e as características inerentes que os classificam como
+bons organismos modelo. Finalmente, discutimos algumas ferramentas modernas que podem ser
+adicionadas aos estudos com os ciliados em um futuro próximo.
+Palavras-chave: Ciliophora, ecotoxicologia; organismo modelo.
+This is an Open Access article distributed under the terms of the Creative Commons Attribution License, which permits
+unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.
+
+2 Vilas-Boas, J.A., Senra, M.V.X. and Dias, R.J.P.
+1. Introduction useful for answering different questions. This
+representativeness allows a better understanding of
+Despite all the importance of water for
+the effects caused by toxic agents and contributes
+mankind, the acelerated deterioration of aquatic
+to the establishment of toxicity threshold values
+systems has been observed all over the world,
+(Grolière et al., 1990; Lombardi, 2004).
+affecting human health and the environment
+The choice of a model organism should be based
+(Schwarzenbach et al., 2010). The population
+on previous knowledge of their biology, physiology,
+increase, occupation of irregular areas, agriculture,
+behavior, and food habits; they need to be abundant
+discard of industrial and urban effluents, mining
+and available; have ecological representativeness
+and landfill activities, fragmentation of the
+within the ecosystem; have constant and accurate
+landscape, deviation of rivers and the load of
+sensitivity; short life cycle; commercial importance
+contaminants from different sources has been
+and; be easily cultivated and maintained in the
+causing, unfortunately, huge and unprecedented
+laboratory (Niemeyer et al., 2010).
+impacts on aquatic ecosystems causing changes in
+Ciliated microeukaryotes have been used in
+the chemical profile of waterbodies (Molden et al.,
+ecotoxicological studies since the 1950s (Grebecki
+2007). According to the Chemical Abstracts
+& Kuznicki, 1956). However, these organisms have
+Registry database (www.cas.org) there are more
+been historically neglected in detriment of other
+than 100 million chemical substances and less than
+model organisms (Figure 1). Many ciliate species,
+0.36% are regularized. These chemicals can reach such as from genera Paramecium and Tetrahymena
+both surface and subterranean water bodies even have many biological features that makes them
+those in far remote areas (Bernhardt et al., 2017). appropriate to toxicity bioassays, such as the presence
+This represents a human health concerned, because of a delicate cell membrane, small size (from ~ 10 μm
+many of these substances can be toxic, reducing the to 4,500 μm), which allows the use of reduced
+availability of potable water (Oki & Kanae, 2006; volumes for maintenance and experimentation,
+UNESCO, 2009). In fact, it is estimated that by short life cycle and high reproductive rate, allowing
+2025, 50% of the population will live in countries for long-term transgenerational assays in relatively
+with water shortages (Qureshi & Hanjra, 2010). short time periods. Also, encystement stages allow
+Accordingly, the best way to ensure the quality greater resistance to environmental stressors and
+of water resources is through the establishment allow the measuring the possible effects of toxic
+of accurate standard protocols, management substances (Soldo & Van Wagtendonk, 1969;
+methods and environmental legislation, which Lee & Soldo, 1992; Nerad & Daggett, 1992;
+would provide also the guidelines for proper Madoni et al., 1996; Gilron & Lynn, 1998;
+environmental monitoring (Schwarzenbach et al., Madoni, 2000, 2003, 2011; Gutierrez et al., 2003;
+2006; Schwarzenbach et al., 2010). The degree Delmonte Corrado et al., 2005; Kchaou et al., 2009;
+of contamination of aquatic environments is Gomiero et al., 2013).
+evaluated mainly through chemical analysis and The phylum Ciliophora represents a basic
+biomonitoring programs (USEPA, 1992; Silveira, component of microplankton and microbenthic
+2004). However, these approaches are not enough
+to water quality control and must be complemented
+by ecotoxicological studies, which are useful for
+assessing the ability of a toxic agent to produce
+effects on organisms (Forget et al., 2000).
+Ecotoxicology is used to integrate and
+understand the harmful effects of chemical
+substances on populations, communities, and
+ecosystems (Walker et al., 1996 ; Forbes &
+Forbes, 1994), and this knowledge can be used to
+complement environmental impact studies and on
+risk assessment programs (Silva et al., 2015). One of
+the most important steps for ecotoxicological studies
+is to find a model organism which is ideal and
+Figure 1. Number of ecotoxicological studies per model
+able to provide reproducible information on the
+organism. Data available in the Scopus database from
+acute and chronic toxicity of pollutants in aquatic
+1977 to 2019 (survey conducted 06/06/2019). Codes
+environments. Some good examples of model used to search: Ecotoxicol * AND ciliate *, Ecotoxicol *
+organisms (i.e. Pseudokiriella subcaptata, Daphnia AND algae *, Ecotoxicol * AND bacteria *, Ecotoxicol *
+similis, Ceriodaphnia spp. and Danio rerio) are AND mollusk *, Ecotoxicol * AND crustacean * AND
+representatives of different trophic levels and are Ecotoxicol * AND fish *.
+Acta Limnologica Brasiliensia, 2020, vol. 32, e202
+
+Ciliates in ecotoxicological studies… 3
+within environments (Finlay & Fenchel, 1996; 1999; Lynn, 2008; Mitchell & Meisterfeld, 2005).
+Madoni, 2000). They have a wide geographical Biology information (Lynn, 2008; Lynn & Small,
+distribution and can be found in freshwater, brackish, 2002; Pratt & Cairns Júnior, 1985; Weisse, 2017),
+salty, bromeliads and edaphic environments, such as evolution and taxonomy (Foissner & Berger, 1996;
+superficial soils, mosses and lichens (Puytorac, 1994; Lynn, 2008; Gao et al., 2016), behavioral traits
+Corliss, 1979; Joppert et al., 1995; Foissner et al., (Nishigami et al., 2018; Ohmura et al., 2018;
+2002; Foissner, 2003; Lynn, 2008). Ciliates are Ishikawa, 2019), physiology, histology and even the
+mostly heterotrophic organisms, predators of bacteria genome description of the species, i.e., Tetrahymena
+and other protozoa (Fenchel, 1987; Beaver & thermophila, Paramecium tetraurelia, Euplotes crassus,
+Crisman, 1989; Müller et al., 1991), and are preyed Oxytricha trifallax and Stentor coeruleus (Aury et al.,
+by different species from the zooplankton. Therefore, 2006; Eisen et al., 2006; Vinogradov et al., 2012;
+representing an essential link for the flow of carbon Swart et al., 2013; Slabodnick et al., 2017) may
+and energy to higher trophic levels (Fenchel, 1987; be useful for answering different questions within
+Sherr & Sherr, 1994; Madoni, 2000). ecotoxicology. Therefore, the present study presents
+The presence of ciliates in several habitats is a minireview of the ecotoxicological studies with
+influenced by their tolerance and adaptability to the ciliates, the importance of these organisms for
+different physical and chemical conditions of the the aquatic ecosystems, the approaches and gaps
+environments (Noland, 1925; Sleigh, 1988). When found, besides presenting some perspectives for
+under unfavorable conditions, they form resistance the advancement of the studies in the near future.
+cysts, which can be dispersed and transported by
+wind, water, insects, among other animals (Finlay 2. Ciliates as Models in Ecotoxicological
+& Fenchel, 1996; Finlay, 2002; Esteban & Finlay, Studies
+2003; Fenchel & Finlay, 2004). This adaptive
+2.1. Brief history and approaches
+changes may be linked to the specificity of the
+recurrent changes in the physical-chemical factors of The first ecotoxicological stuty using ciliates
+the water, such as temperature, amount of dissolved was published in the 1950s (Grebecki & Kuznicki,
+organic matter, pH, conductivity and oxygen 1956). Paramecium caudatum species were exposed
+concentration (Noland, 1925; Kudo, 1966; Sleigh, to different concentrations of Copper, Mercury,
+1988; Madoni, 2005; Madoni & Barghiroli, 2007). Cadmium, Zinc, Nickel, Cobalt, and Chromium.
+Seasonal, vertical, trophic and flood pulse variations Posteriorly, some studies were done using different
+can also be determining factors in the patterns ciliate species and approach (Figure 2A, Supplementary
+of distribution, composition and abundance of Material Table S1). The main ecotoxicological
+ciliates in aquatic systems (Madoni, 2003, 2005; approaches using ciliated organisms are those related
+Velho et al., 2005, 2013; Gomiero et al., 2013; to the determination of lethal concentrations,
+Debastiani et al., 2016; Pauleto et al., 2009). changes in behavioral, substances accumulation
+Ciliates can be used as bioindicators of water and morphological changes (Figure 2B). Acute and
+quality in biomonitoring studies (Madoni, 1994, chronic tests have been used since the first works
+2003, 2005; Dias et al., 2008; Bagantini et al., 2013; to identify the maximum concentration ranges that
+Debastiani et al., 2016). They play an important cause population to decline and/or mortality (mean
+role in the purification process in water treatment lethal concentration - LC ), to check cell deformities,
+50
+plants, especially in the activated sludge system, heavy metal accumulation and/or behavioral changes.
+where it makes up more than 9% of the biomass Mortality and/or survive states are commonly
+of microorganisms (Madoni, 1994, 2003, 2011). established through optical microscope (Madoni,
+The use of ciliates as model organisms had 1994; Madoni et al., 1992, 1996; Madoni & Romeo,
+its beginning with the work of Gause (1934) 2006; Mansano et al., 2016). Moreover, microscopy
+in population ecology. The Russian ecologist can also be used to evaluate other features such as
+used the ciliate species Paramecium caudatum behavior, morphological deformities, changes in
+and Paramecium aurelia to test the hypothesis of generation time, abundance and cell shape. Rao et al.
+competitive exclusion. The results showed that (2006) observed changes in cell shape, developing
+both species of ciliates occupy the same ecological irregular membrane bubbles promoting cell lysis.
+niche and can not coexist. Since then, the use of In addition, a tracking system with optical microscope
+these organisms as models for applied studies has was used to observe changes in the locomotion
+been through the knowledge of the species through of Paramecium caudatum. An initial increase and
+the use of techniques of optical microscopy and subsequent decrease in swimming speed were observed
+appropriate techniques (Klein, 1958; Foissner, when exposed to concentrations of an acephate
+1994, 1999; Dieckmann, 1995; Kapuscinski, insecticide. The number of generations decreased and
+1995; Foissner & Berger, 1996; Finlay & Fenchel, the generation time increased significantly in a manner
+Acta Limnologica Brasiliensia, 2020, vol. 32, e202
+
+4 Vilas-Boas, J.A., Senra, M.V.X. and Dias, R.J.P.
+Figure 2. A=Percentage of ecotoxicological studies per compound; B= Endpoints distributions.
+dependent on the sublethal concentrations used. formulation of vaccines and drugs has also been
+Changes in the number and ultrastructure of cilia were performed from the use of ciliates (Putten et al., 2006,
+observed in the study by Li et al. (2016) in the exposure Hartmann et al., 2000). The successes of studies like
+of an emerging compound (Tris (1,3-dichloro-2- these require the use of organisms that are culturable
+propyl) phosphate (TDCIPP). The authors conclude under laboratory/industrial conditions such as ciliates.
+by highlighting that the results suggest that chemical In this sense, there are a lot of tools that can be used
+exposure in organisms of the early trophic levels can to evaluate environmental alteration using ciliates in
+cause long-term damage. The resistance of ciliates to different approaches contributing to the understanding
+metal ions shows the importance of these organisms of how environmental changes can affect the role of
+for bioremediation in industrial wastewater (Madoni, these organisms in the ecosystem processes.
+1994; Martin-Gonzalez et al., 2006; Rehman et al.,
+2.2. Species
+2009; Chaudhry & Shakoori, 2011; Elguero et al.,
+2019). In regards to ciliates species, more than 50 have
+Rico et al. (2009) evaluated the induction of been used in ecotoxicological studies to evaluate the
+reactive oxygen species (ROS) after exposure to impact of different compounds (Table S1). In this
+heavy metals in ciliates. Benbouzid et al. (2012) sense, given its wide geographic distribution and
+observed reduced growth, increased generation short cell cycles, Paramecium caudatum could be
+time, respiratory metabolism disturbance (significant considered a good model for behavioral and population
+increase in oxygen uptake), and high percentage reproductive rate studies allowing evaluation of a large
+response in a ciliate species in a short-term (24h) number of generations in short time spans (Rao et al.,
+experiment. Kim et al. (2014) measured intracellular 2006; Mansano et al., 2016). While T. thermophila,
+oxygen levels (ROS) and total glutathione content Paramecium tetraurelia (and also P. caudatum), Euplotes
+(GSH) using gene expression by means of RT-PCR. crassus, Oxytricha trifallax and Stentor coeruleus can be
+Wu et al. (2015) used UV spectrophotometry to considered are potential model species in molecular
+visualize changes in enzymatic antioxidants in a ciliate (ecotoxicogenomics) approaches, given the availability
+species. The application of modern techniques may of their genome in sequence databases (Aury et al.,
+be useful for ecotoxicological studies with ciliates, 2006; Eisen et al., 2006; Vinogradov et al., 2012;
+such as the use of flow cytometry by Liu et al. (2017) Swart et al., 2013; Slabodnick et al., 2017).
+to evaluate the Mercury accumulation properties in The intensification in the use of ciliated protists
+species of the genus Tetrahymena. will be of great value to the field of ecotoxicological.
+The use of the ‘Omics’ in ecological studies They present several characteristics that make them
+has allowed advances and brought the possibility model organisms (Giovanni Junior & Carvalho,
+of evaluating changes in different levels of cellular 2017) and since many species are aquatic, their
+organization, such as individual, tissue, cell and use can contribute to more accurately evaluate the
+molecule (Zhang et al., 2018). The union of these changes these environments have been facing, as
+sciences allows the uncovering of cellular processes consequence of antropic activites.
+details of many organisms, such as the screening of
+2.3. Substances
+genes whose loss of function may confer resistance or
+sensitivity to phenotypic toxicity, such as programmed As available within the AQUIRE database
+cell death (Jo et al., 2009). In the study by Kim et al. (USEPA, 2019), the heavy metals were the
+(2018) it was possible to evaluate the transcriptional first and the most often chemicals used in
+response of the antioxidant defense system and ecotoxicological studies using ciliates as model
+heat shock protein of the Euplotes crassus species. organisms (Figures 2A, 3 and 4). However, over the
+The production of proteins or metabolites for the time, the environmental impact of contaminants
+Acta Limnologica Brasiliensia, 2020, vol. 32, e202
+
+Ciliates in ecotoxicological studies… 5
+Figure 3. Number of studies with heavy metals and their respective approaches according to the Ecotox knowledgebase
+database (USEPA, 2019) (survey conducted on 05/28/2019); Number of studies with heavy metals and their respective
+approaches according to the Ecotox knowledgebase database (USEPA, 2019) (survey conducted on 05/28/2019).
+Acta Limnologica Brasiliensia, 2020, vol. 32, e202
+
+6 Vilas-Boas, J.A., Senra, M.V.X. and Dias, R.J.P.
+Figure 4. Number of studies with organic compounds and their respective approaches according to the Ecotox knowledgebase
+database (USEPA, 2019) (survey conducted on 05/28/2019); DDTM: DDT and metabolites, E: Explosives; GE: Glycol
+ethers, MI: Major ions, P: Perchlorates, PFOS: Perfluorooctane sulfonates and acids, PE: Phthalate Esters, PAHs: Polyaromatic
+Hydrocarbons, PBCs: Polychlorinated Biphenyls, PPCPs: Pharmaceutical Personal Care Products.
+of emerging concerns, such as inorganic, organic, used to promote the growth of bacteria that are,
+-blockers, herbicides, insecticides and pesticides actualy the sources of food for ciliates employed
+β
+started to have their toxicity evaluated also within by Ruthven & Cairns Junior (1973), Dive et al.
+ciliate species (Figures 2A, 3 and 4 ). Among
+(1980), Madoni et al.(1992), Madoni (1994, 2000),
+heavy metals, Copper, Cadmium, Zinc, Lead and
+Madoni & Romeo (2006), Wanick et al. (2008) and
+Mercury were the most frequently used in ciliates
+Bitencourt et al. (2016). Water from the original
+and within these, the assays directed toward their
+sample sites are used in association with a variety
+effects over populations (growth rate), mortality
+(lethal concentration) and accumulation were the of cereals as in the studies of Nalecz-Jawecki et al.
+most often used (Figures 2A, 3 and 4). With regards (1993), Madoni et al. (1996), Rehman et al.
+to contaminants of emergent concern, the personal (2005, 2006, 2007, 2007a, 2008, 2008a, 2009,
+pharmaceutical care products (PPCPs) were the 2010, 2010a) and Shakoori et al. (2011). There
+most often used compounds against ciliates, are also culture media available for marine ciliates,
+followed by polycyclic aromatic hydrocarbons,
+such as proposed by Yoo & Hur (2002) and used
+in mortality and populational alteration assays
+by Kim et al. (2011, 2014, 2018). On the other
+(Figures 2A, 3 and 4).
+hand, Madoni et al. (1996) did not use methods
+2.4. Methodological approaches gaps of cultivation in laboratory. The species used in
+the bioassays were directly from activated sludge.
+There are numerous growth media and
+Twagilimana et al. (1998) tested different culture
+conditions available in the literature for in vitro
+conditions for the Spirostomum ambiguum species.
+maintenance of ciliates in laboratory. For example,
+The authors conclude by highlighting the need
+species of the genus Tetrahymena can be cultivated
+in axenic cultures based on protease (Carter for reproducibility of the assays in order to allow
+& Cameron, 1973; Schlenk & Moore, 1994; comparison between laboratories.
+Gallego et al., 2007; Zhang et al., 2013, Liu et al., The major challenge today limiting the use of
+2017). Paramecium and many others can grow ciliates in ecotoxicological tests is the creation of a
+using the Cerophyl culture medium proposed by standard methods. Thus, it is necessary to develop
+Sonnebobn (1970) was used by Joshi & Misra specific methods to each potential species leading
+(1986), Juchelka & Snell (1994), Pratt et al. to efficient, replicable and comparable bioassays.
+(1997) and Salvadó et al. (1997). Mineral water The standardization of procedures in toxicity
+and bark rice, is a common general used media tests is paramount for the reproducibility and
+Acta Limnologica Brasiliensia, 2020, vol. 32, e202
+
+Ciliates in ecotoxicological studies… 7
+comparability of results comparability of results BAGANTINI, I.L., SPÍNOLA, A.L.G., PERES,
+from laboratories in different geographical regions B.M., MANSANO, A.S., RODRIGUES, M.A.A.,
+(Soares & Calow, 1993). Furthermore, they can BATALHA, M.A.P., LUCCA, J.V., GODINHO,
+M.J.L., TUNDISI, T.M. and REGALI-SELEGHIM,
+help environmental managers since one of the first
+M.H. Protozooplankton and its relationship with
+approaches in environmental studies is precisely
+environmental conditions in 13 water bodies of the
+the ecotoxicological risk assessment, which is
+Mogi-Guaçu basin - SP, Brazil. Biota Neotropica,
+responsible for showing the fate and effects of 2013, 13, 1-12.
+chemicals in the environment (Vindimian, 2001).
+BEAVER, J. and CRISMAN, T.L.R. The role of Ciliated
+Protozoa in pelagic freshwater ecosystems. Microbial
+3. Final Considerations
+Ecology, 1989, 17(2), 111-136. http://dx.doi.
+Here, we highlighted the advantages of using org/10.1007/BF02011847. PMid:24197241.
+ciliates in ecotoxicological studies. They have BENBOUZID, H., BERREBBAH, H., BERREDJEM,
+many characteristics that make them good model M. and DJEBAR, M.R. Toxic effects of
+phosphoramidate on Paramecium sp. with special
+organisms for environmental toxicity evaluation.
+emphasis on respiratory metabolism, growth, and
+Therefore, they can potentially contribute to the
+generation time. Toxicological and Environmental
+establishment of more accurate guidelines and risk
+Chemistry, 2012, 94(3), 557-565. http://dx.doi.org
+management programs, and also represent a valuable
+/10.1080/02772248.2012.655696.
+system to study how environmental contaminants
+BERNHARDT, E.S., ROSI-MARSHALL, E.J. and
+may impacts normal cell biological functions.
+GESSNER, M.O. Synthetic chemicals as agents
+For these reasons, we hope that in a near future of global change. Frontiers in Ecology and the
+more ecotoxicological works will be using ciliates Environment, 2017, 5(2), 84-89. http://dx.doi.
+as model organisms. org/10.1002/fee.1450.
+BITENCOURT, J.A.P., PEREIRA, D.C., SILVA-
+Acknowledgements
+NETO, I.D., CRAPES, M.C.C. and NETO, J.A.B.
+Evaluation of sensitivity to zinc and copper of
+The authors acknowledge the “Coordenação
+Diophrys appendiculata (Protozoa, Ciliophora) and
+de Aperfeiçoamento de Pessoal de Nível Superior”
+their associated bacteria, both isolated from a tropical
+(CAPES) for the post-doctoral (PNPD) and PhD
+polluted bay. Revista Brasileira de Zoociências, 2016,
+fellowship confered to MS and JAVB, respectively. 17(1), 112-123.
+This work was granted by the “Fundação de Amparo
+CARTER, J.W. and CAMERON, I. Toxicity bioassay of
+à Pesquisa do Estado de Minas Gerais” (FAPEMIG, heavy metals in water using Tetrahymena pyriformis.
+CRA 03648/16) and “Conselho Nacional de Water Research, 1973, 7(7), 951-961. http://dx.doi.
+Desenvolvimento Científico e Tecnológico” (CNPq, org/10.1016/0043-1354(73)90177-2.
+Bolsa de Produtividade to RJPD). CHAUDHRY, R. and SHAKOORI, A.R.
+Characterization of copper resistant ciliates: Potential
+References
+candidates for consortia of organisms used in
+bioremediation of wastewater. African Journal of
+AURY, J.M., JAILLON, O., DURET, L., NOEL,
+Biotechnology, 2011, 10(45), 9101-9113. http://
+B., JUBIN, C., PORCEL, B.M., SÉGURENS,
+dx.doi.org/10.5897/AJB10.2405.
+B., DAUBIN, V., ANTHOUARD, V., AIACH,
+N., ARNAIZ, O., BILLAUT, A., BEISSON, J., CORLISS, J.O. The ciliated protozoa. London: Pergamon
+BLANC, I., BOUHOUCHE, K., CÂMARA, F., Press, 1979, 455 p.
+DUHARCOURT, S., GUIGO, R., GOGENDEAU, DEBASTIANI, C., MEIRA, B.R., LANSAC-TÔHA,
+D., KATINKA, M., KELLER, A.M., KISSMEHL, F.M., VELHO, L.F.M. and LANSAC-TÔHA, F.A.
+R., KLOTZ, C., KOLL, F., LE MOUËL, A., Protozoa ciliates community structure in urban
+LEPÈRE, G., MALINSKY, S., NOWACKI, M., streams and their environmental use as indicators.
+NOWAK, J.K., PLATTNER, H., POULAIN, Brazilian Journal of Biology = Revista Brasileira de
+J., RUIZ, F., SERRANO, V., ZAGULSKI, M., Biologia, 2016, 76(4), 1043-1053. http://dx.doi.
+DESSEN, P., BÉTERMIER, M., WEISSENBACH, org/10.1590/1519-6984.08615. PMid:27191462.
+J., SCARPELLI, C., SCHÄCHTER, V., SPERLING, DELMONTE CORRADO, M.U., TRIELLI, F.,
+L., MEYER, E., COHEN, J. and WINCKER, P. AMAROLI, A., OGNIBENE, M. and FALUGI, C.
+Global trends of whole-genome duplications revealed Protists as tools for environmental biomonitoring:
+by the ciliate Paramecium tetraurelia. Nature, 2006, importance of cholinesterase enzyme activities. In:
+444(7116), 171-178. http://dx.doi.org/10.1038/ A.R. BURK, ed. Water pollution. Nova Iorque: Nova
+nature05230. PMid:17086204. Science Publishers, 2005, pp. 181-200.
+Acta Limnologica Brasiliensia, 2020, vol. 32, e202
+
+8 Vilas-Boas, J.A., Senra, M.V.X. and Dias, R.J.P.
+DIAS, R.J.P., WIELOCH, A.H.B. and D’AGOSTO, FENCHEL, T. The Ecology of the Protozoa: The biology of
+M.A. The influence of environmental characteristics free-living phagotrophic protists. New York: Springer
+on the distribution of ciliates (Protozoa, Ciliophora) Verlag, 1987.
+in an urban stream of southeast. Brazilian Journal FINLAY, B. and FENCHEL, T.J. Divergent perspectives
+of Biology = Revista Brasileira de Biologia, 2008, on protist species richness. Protistology, 1999,
+68(2), 287-295. http://dx.doi.org/10.1590/S1519- 150(3), 229-233. http://dx.doi.org/10.1016/S1434-
+69842008000200009. PMid:18660956. 4610(99)70025-8. PMid:10575696.
+DIECKMANN, J. An improved protargol impregnation FINLAY, B.J. and FENCHEL, T. Ecology: role of ciliates
+for ciliates yielding reproducible results). European in the natural environment, In: K. HAUSMANN
+Journal of Protistology, 1995, 31(4), 372-382. http:// and P.C. RADBURY, eds. Ciliates: cells as organisms.
+dx.doi.org/10.1016/S0932-4739(11)80449-9. Stuttgart: Fischer Verlag, 1996, pp. 417-440.
+DIVE, D., LECLERC, H. and PERSOONE, G. FINLAY, B.J. Outing the researcher: The provenance,
+Pesticide toxicity on the ciliate protozoan Colpidium principles and practice of reflexivity. Qualitative
+Health Research, 2002, 12(4), 531-545. http://
+campylum: possible consequences of the effect of
+dx.doi.org/10.1177/104973202129120052.
+pesticides in the aquatic environment. Ecotoxicology
+PMid:11939252.
+and Environmental Safety, 1980, 4(2), 129-133.
+http://dx.doi.org/10.1016/0147-6513(80)90014-7. FOISSNER, W. and BERGER, H. A user-friendly guide
+PMid:7389633. to ciliates (Protozoa, Ciliophora) commonly used by
+hydrobiologists as bioindicators in rivers, lakes, and
+EISEN, J.A., COYNE, R.S., WU, M., WU, D.,
+waste waters, with notes on their ecology. Freshwater
+THIAGARAJAN, M., WORTMAN, J.R.,
+Biology, 1996, 35, 375-498.
+BADGER, J.H., REN, Q., AMEDEO, P.,
+FOISSNER, W. Morphology and morphogenesis of
+JONES, K.M., TALLON, L.J., DELCHER, A.L.,
+Circinella arenicolanov. gen., nov. spec., a cephalized
+SALZBERG, S.L., SILVA, J.C., HAAS, B.J.,
+hypotrich (Ciliophora, Hypotrichida) from sand
+MAJOROS, W.H., FARZAD, M., CARLTON,
+dunes in Utah, USA. European Journal of Protistology,
+J.M., SMITH JUNIOR, R.K.J.R., GARG, J.,
+1994, 30(2), 156-170. http://dx.doi.org/10.1016/
+PEARLMAN, R.E., KARRER, K.M., SUN, L.,
+S0932-4739(11)80026-X.
+MANNING, G., ELDE, N.C., TURKEWITZ,
+FOISSNER, W. Morphology and ontogenesis of
+A.P., ASAI, D.J., WILKES, D.E., WANG, Y., CAI,
+Bromeliophyra brasiliensis gen. n., sp. n., a new
+H., COLLINS, K., STEWART, B.A., LEE, S.R.,
+tetrahymenid ciliate (Protozoa: Ciliophora) from
+WILAMOWSKA, K., WEINBERG, Z., RUZZO,
+Brazilian tank bromeliads (Bromeliaceae). Acta
+W.L., WLOGA, D., GAERTIG, J., FRANKEL,
+Protozoologica, 2003, 42, 55-70.
+J., TSAO, C.C., GOROVSKY, M.A., KEELING,
+FOISSNER, W. Protist diversity: Estimates of the near-
+P.J., WALLER, R.F., PATRON, N.J., CHERRY,
+imponderable. Protistology, 1999, 150(4), 363-368.
+J.M., STOVER, N.A., KRIEGER, C.J., DEL
+http://dx.doi.org/10.1016/S1434-4610(99)70037-4.
+TORO, C., RYDER, H.F., WILLIAMSON, S.C.,
+PMid:10714770.
+BARBEAU, R.A., HAMILTON, E.P. and ORIAS,
+E. Macronuclear genome sequence of the ciliate FOISSNER, W., AGATHA, S. and BERGER, H.
+Soil ciliates (Protozoa, Ciliophora) from Namibia
+Tetrahymena thermophila, a model eukaryote. PLoS
+(Southwest Africa), with emphasis on two contrasting
+Biology, 2006, 4(9), e286. http://dx.doi.org/10.1371/
+environments, the Etosha Region and the Namib
+journal.pbio.0040286. PMid:16933976.
+Desert. Denisia, 2002, 5, 1-1459.
+ELGUERO, M.E., NUDEL, C.B. and NUSBLAT,
+FORBES, V.E. and FORBES, T.L. Ecotoxicology in theory
+A.D. Biotechnology in ciliates: An overview. Critical
+and practice. 1st ed. London: Chapman and Hall
+Reviews in Biotechnology, 2019, 39(2), 220-234.
+Ecotoxicology, 1994. Series 2.
+http://dx.doi.org/10.1080/07388551.2018.15301
+FORGET, G., GAGNON, P., SANCHEZ, W.A. and
+88. PMid:30422738.
+DUTKA, B.J. Overview of methods and results of the
+ESTEBAN, G.F. and FINLAY, B.J. Cryptic
+eight countries international development research
+freshwater ciliates in a hypersaline lagoon.
+centre (IDRC) water tox project. Environmental
+Protistology, 2003, 154(3-4), 411-418. http://
+Toxicology, 2000, 15(4), 264-276. http://dx.doi.
+dx.doi.org/10.1078/143446103322454149. org/10.1002/1522-7278(2000)15:4<264::AID-
+PMid:14658497. TOX2>3.0.CO;2-Q.
+FENCHEL, T. and FINLAY, B.J. The ubiquity of GALLEGO, A., MARTÍN-GONZÁLEZ, A., ORTEGA,
+small species: Patterns of local and global diversity. R. and GUTIÉRREZ, J. Flow cytometry assessment
+Bioscience, 2004, 54(8), 777-784. http://dx.doi. of cytotoxicity and reactive oxygen species generation
+org/10.1641/0006-3568(2004)054[0777:TUOSS by single and binary mixtures of cadmium, zinc and
+P]2.0.CO;2. copper on populations of the ciliated protozoan
+Acta Limnologica Brasiliensia, 2020, vol. 32, e202
+
+Ciliates in ecotoxicological studies… 9
+Tetrahymena thermophila. Chemosphere, 2007, ISHIKAWA, T. Swimming of ciliates under geometric
+68(4), 647-661. http://dx.doi.org/10.1016/j. constraints. Journal of Applied Physics, 2019, 125(20),
+chemosphere.2007.02.031. PMid:17397902. 1-10. http://dx.doi.org/10.1063/1.5084764.
+GAO, F., WARREN, A., ZHANG, Q., GONG, J., JO, W.J., LOGUINOV, A., WINTZ, H., CHANG,
+MIAO, M., SUN, P., XU, D., HUANG, J., YI, Z. M., SMITH, A.H., KALMAN, D., ZHANG, L.,
+and SONG, W. The all-data-based evolutionary SMITH, M.T. and VULPE, C.D. Comparative
+hypothesis of ciliated protists with a revised functional genomic analysis identifies distinct and
+classification of the Phylum Ciliophora (Eukaryota, overlapping sets of genes required for resistance to
+Alveolata). Nature. Scientific Reports, 2016, 29(6), monomethylarsonous acid (MMAIII) and arsenite
+1-14. (AsIII) in yeast. Toxicological Sciences, 2009, 111(2),
+424-436. http://dx.doi.org/10.1093/toxsci/kfp162.
+GAUSE, G.F. The Struggle For Existence. 1st ed.
+PMid:19635755.
+Baltimore: Williams & Wilkins, 1934. Archived from
+JOPPERT, F., GUEDES, L.H.C. and SILVA-NETO,
+the originalon 2016-11-28. Retrieved 2016-11-24.
+I.D. Qualitative study of the ciliated protozoa in
+GILRON, D.L. and LYNN, D.H. Ciliated protozoa as
+tanks of Aechmea nudicalis (Bromeliaceae) at Barra de
+test organism in toxicity assessment. In: P.G. WELLS,
+Maricá, Rio de Janeiro. Memorias do Instituto Oswaldo
+K. LEE and C. BLAISE, ed. Microscale testing in
+Cruz, 1995, 90, 251.
+aquatic toxicology. Boca Raton: CRC Press, 1998,
+JOSHI, P.C. and MISRA, R.B. Evaluation of
+pp. 323-336.
+chemically-induced phototoxicity to aquatic
+GIOVANNI JUNIOR, N. and CARVALHO, M.B.
+organism using Paramecium as a model. Biochemical
+A utilização de protozoários como organismos
+and Biophysical Research Communications, 1986,
+bioindicadores em ensaios ecotoxicológicos e suas
+139(29), 79-84. http://dx.doi.org/10.1016/S0006-
+respostas à exposição a fármacos e outros compostos.
+291X(86)80082-1.
+Periódico Eletrônico Fórum Ambiental da Alta Paulista,
+JUCHELKA, C.M. and SNELL, T.W. Rapid toxicity
+2017, 13(4), 24-37.
+assessment using ingestion rate of cladocerans and
+GOMIERO, A., DAGNINO, A., NASCI, C. ciliates. Archives of Environmental Contamination and
+and VIARENGO, A. The use of protozoa in Toxicology, 1994, 28, 508-512.
+ecotoxicology: Application of multiple endpoint
+KAPUSCINSKI, J. DAPI: a DNA-Specific Fluorescent
+tests of the ciliate E. crassus for the evaluation of
+Probe. Journal Biotechnic & Histochemistry,
+sediment quality in coastal marine ecosystems. The
+1995, 70(5), 220-233. http://dx.doi.
+Science of the Total Environment, 2013, 442, 534-544.
+org/10.3109/10520299509108199. PMid:8580206.
+http://dx.doi.org/10.1016/j.scitotenv.2012.10.023.
+KCHAOU, N., ELLOUMI, J., DRIRA, Z., HAMZA,
+PMid:23202299.
+A., AYADI, H., BOUAIN, A. and ALEYA, L.
+GREBECKI, A. and KUZNICKI, L. Autoprotection
+Distribution of ciliates in relation to environmental
+in Paramecium caudatum by influencing the factors along the coastline of the Gulf of Gabes,
+chemical properties of its medium. Acta Biologiae Tunisia. Estuarine, Coastal and Shelf Science, 2009,
+Experimentalis, 1956, 17, 71-107. 83(4), 414-424. http://dx.doi.org/10.1016/j.
+GROLIÈRE, C.A., CHAKLI, R., SPARAGANO, O. ecss.2009.04.019.
+and PEPIN, D. Application de la colonisation d’un KIM, B.M., RHEE, J.S., CHOI, I.Y. and LEE, M.Y.
+substrat artificiel par les ciliés à l’étude de la qualité Transcriptional profiling of antioxidant defense
+des eaux d’une riviére. European Journal of Protistology, system and heat shock protein (Hsp) families in
+1990, 25(4), 381-390. http://dx.doi.org/10.1016/ the cadmium- and copper-exposed marine ciliate
+S0932-4739(11)80131-8. PMid:23196052. Euplotes crassus. Genes & Genomics, 2018, 40(1), 85-
+GUTIÉRREZ, J.C., MARTÍN-GONZÁLEZ, A., 98. http://dx.doi.org/10.1007/s13258-017-0611-y.
+DÍAZ, S. and ORTEGA, R. Ciliates as a potential PMid:29892903.
+source of cellular and molecular biomarkers/ KIM, S.H., JUNG, M.Y. and LEE, Y.M. Effect of heavy
+biosensors for heavy metal pollution. European metals on the antioxidant enzymes in the Marine
+Journal of Protistology, 2003, 39(4), 461-467. http:// Ciliate Euplotes crassus. Toxicology, 2011, 3, 213-219.
+dx.doi.org/10.1078/0932-4739-00021. KIM, S.H., KIM, J.S., LEE, J.S. and LEE, Y.M.
+HARTMANN, M., GUBERMAN, A., FLORIN- Acute effects of heavy metals on the expression of
+CHRISTENSEN, M. and TIEDTKE, A. Screening glutathione-related antioxidant genes in the marine
+for and characterization of phospholipase A1 ciliate Euplotes crassus. Marine Pollution Bulletin,
+hypersecretory mutants of Tetrahymena thermophila. 2014, 85(2), 455-462. http://dx.doi.org/10.1016/j.
+Applied Microbiology and Biotechnology, 2000, marpolbul.2014.05.025. PMid:24882442.
+54(3), 390-396. http://dx.doi.org/10.1007/ KLEIN, B.N. The “dry” silver method and its proper
+s002530000405. PMid:11030577. and use. The Journal of Protozoology, 1958, 5(2), 99-
+Acta Limnologica Brasiliensia, 2020, vol. 32, e202
+
+10 Vilas-Boas, J.A., Senra, M.V.X. and Dias, R.J.P.
+103. http://dx.doi.org/10.1111/j.1550-7408.1958. MADONI, P. Protozoa as indicators of wastewater
+tb02535.x. treatment efficiency. In: D. MARA and N.
+HORAN, eds. The handbook of water and wastewater
+KUDO, R.R. Protozoology. Illinois: Charles C. Thomas,
+microbiology. Cambridge: Academic Press, 2003,
+1966, 786 p.
+pp. 361-371. http://dx.doi.org/10.1016/B978-
+LEE, J.J. and SOLDO, A.T. Protocols in protozoology.
+012470100-7/50023-6.
+Lawrence: Society of Protozoologists, 1992, 655 p.
+MADONI, P. Protozoa in wastewater treatment
+LI, J.I.N.G., MA, X., SU, G., GIESY, J.P., XIAO,
+processes: A minireview. The Italian Journal
+Y., ZHOU, B., LETCHER, R.J. and LIU, C.
+of Zoology, 2011, 78(1), 3-11. http://dx.doi.
+Multigenerational effects of tris(1,3-dichloro-
+org/10.1080/11250000903373797.
+2-propyl) phosphate on the free-living ciliate
+MADONI, P. The acute toxicity of nickel to freshwater
+protozoa Tetrahymena thermophila exposed to
+ciliates. Environmental Pollution, 2000, 109(1), 53-59.
+environmentally relevant concentrations and after
+http://dx.doi.org/10.1016/S0269-7491(99)00226-2.
+subsequente recovery. Environmental Pollution,
+PMid:15092912.
+2016, 218, 50-58. http://dx.doi.org/10.1016/j.
+MADONI, P., DAVOLI, D., GORBI, G. and VESCOVI,
+envpol.2016.08.034. PMid:27552037.
+L. Toxic effect of heavy metals on the activated
+LIU, C.B., QU, G.B., CAO, M.X., LIANG, Y., HU,
+sludge protozoan community. Water Research, 1996,
+L.G., SHI, J.B., CAI, Y. and JIANG, G.B. Distinct
+30(1), 135-141. http://dx.doi.org/10.1016/0043-
+toxicological characteristics and mechanisms of Hg2+
+1354(95)00124-4.
+and MeHg in Tetrahymena under low concentration
+MADONI, P., ESTEBAN, G. and GORBI, G. Acute
+exposure. Aquatic Toxicology, 2017, 193, 152-159.
+toxicity of Cadmium, Copper, Mercury, and Zinc
+http://dx.doi.org/10.1016/j.aquatox.2017.10.014.
+to ciliates from activated sludge plants. Bulletin
+PMid:29096088.
+of Environmental Contamination and Toxicology,
+LOMBARDI, J.V. Fundamentos de toxicologia aquática. 1992, 49(6), 900-905. http://dx.doi.org/10.1007/
+In: M.J.T. RANZANI-PAIVA, R.M. TAKEMOTO BF00203165. PMid:1450572.
+and M.A.P. LIZAMA, eds. Sanidade de organismos
+MARTÍN-GONZÁLEZ, A., DÍAZ, S., BORNIQUEL,
+aquáticos. São Paulo: Varela, 2004, pp. 263-272.
+S., GALLEGO, A. and GUTIÉRREZ, J.C.
+LYNN, D.H. and SMALL, E.B. An illustred Guide to Cytotoxicity and bioaccumulation of heavy metals
+the Protozoa. In: J.J. LEE, P.C. BRADBURY and by ciliated protozoa isolated from urban wastewater
+G.F. LEEDALE, eds. Phylum Ciliophora. Lawrence, treatment plants. Research in Microbiology, 2006,
+Kansas: Society of Protozoologists, 2002, pp. 371- 157(2), 108-118. http://dx.doi.org/10.1016/j.
+656. resmic.2005.06.005. PMid:16129584.
+LYNN, D.H. The Ciliated Protozoa: Characterization, MANSANO, A.S., MOREIRA, R.A., PIEROZZI, M.,
+classification and guide to the literature. 3rd ed. New OLIVEIRA, T.M.A., VIEIRA, E.M., ROCHA,
+York: Springer Press, 2008. O. and REGALI–SELEGHIM, M.H. Effects of
+diuron and carbofuran pesticides in their pure and
+MADONI, P. A sludge biotic index (SBI) for the
+commercial forms on Paramecium caudatum: The
+evaluation of the biological performance of activated
+use of protozoan in ecotoxicology. Environmental
+sludge plants based on the microfauna analysis.
+Pollution, 2016, 213, 160-172. http://dx.doi.
+Water Research, 1994, 28(1), 67-75. http://dx.doi.
+org/10.1016/j.envpol.2015.11.054.
+org/10.1016/0043-1354(94)90120-1.
+MITCHELL, E.A.D. and MEISTERFELD, R.
+MADONI, P. and BARGHIROLI, S. Changes in
+Taxonomic confusion blurs the debate on
+the ciliate assemblage along a fluvial system
+cosmopolitanism versus local endemism of free
+related to physical, chemical and geomorphologic
+living protists. Protistology, 2005, 156(3), 263-267.
+characteristics. European Journal of Protistology,
+http://dx.doi.org/10.1016/j.protis.2005.07.001.
+2007, 43(2), 67-75. http://dx.doi.org/10.1016/j.
+PMid:16325540.
+ejop.2006.09.004. PMid:17222541.
+MOLDEN, D., FRENKEN, K., BARKER, R., DE
+MADONI, P. and ROMEO, M.G. Acute toxicity of FRAITURE, C., MATI, B., SVENDSEN, M.,
+heavy metals towards freshwater ciliated protists. SADOFF, C. and FINLAYSON, C.M. Trends
+Environmental Pollution, 2006, 141(1), 1-7. in water and agricultural development. In: D.
+http://dx.doi.org/10.1016/j.envpol.2005.08.025. MOLDEN ed. Water for food, water for life: A
+PMid:16198032. comprehensive assessment of water management in
+MADONI, P. Ciliated protozoans communities and agriculture. London, Colombo: Earthscan and
+saprobic evaluation of water quality in the hilly zone International Water Management Institute, 2007.
+of some tributaries of the Po River (northern Italy). MÜLLER, H., SCHÖNE, A., PINTO-COELHO,
+Hydrobiologia, 2005, 541(1), 55-69. http://dx.doi. R.M., SCHWEIZER, A. and WEISSE, T. Seasonal
+org/10.1007/s10750-004-4667-8. succession of ciliates in Lake Constance. Microbial
+Acta Limnologica Brasiliensia, 2020, vol. 32, e202
+
+Ciliates in ecotoxicological studies… 11
+Ecology, 1991, 21(1), 119-138. http://dx.doi. dx.doi.org/10.1590/S1519-69842009000300007.
+org/10.1007/BF02539148. PMid:24194205. PMid:19738959.
+NALECZ-JAWECKI, G., DEMKOWICZ- PRATT, J.R. and CAIRNS JÚNIOR, J. Functional
+DOBRZAHSKI, K. and SAWICKI, J. Protozoan groups in the Protozoa: roles in differing ecosystems.
+Spirostomum ambiguum as a highly sensitive The Journal of Protozoology, 1985, 32(3), 415-422.
+bioindicator for rapid and easy determination of http://dx.doi.org/10.1111/j.1550-7408.1985.
+water quality. The Science of the Total Environment, tb04037.x.
+1993, 134(2), 1227-1234, Supplement. PRATT, J.R., MOCHAN, D. and XU, Z. Rapid
+NERAD, T.A. and DAGGETT, P.M. Cultivation of toxicity estimation using soil ciliates: sensitivity
+selected colorless crypromonads. In: A.T. SOLDO, and bioavailability. Bulletin of Environmental
+ed. Protocols of protozoology. Lawrence: Society of Contamination and Toxicology, 1997, 58(3), 387-
+Protozoologists, 1992, pp. A71-A73. 393. http://dx.doi.org/10.1007/s001289900346.
+PMid:9008047.
+NIEMEYER, J.C., MOREIRA-SANTOS, M.,
+NOGUEIRA, M.A., CARVALHO, G.M., RIBEIRO, PUTTEN, A., KONIG, T., FABRITUS, D., KIY, T.,
+R., DA SILVA, E.M. and SOUSA, J.P. Environmental LESKE, A. and PLOTE, J. Method for producing
+risk assessment of a metal contaminated area in the gamma-linolenic acids from a ciliate culture by adding
+tropics. Tier I: screening phase. Journal of Soils and suitable precursor molecules to said culture medium,
+Sediments, 2010, 10(8), 1557-1571. http://dx.doi. United States. US20060205047A1. 2006.
+org/10.1007/s11368-010-0255-x. PUYTORAC, P. Phylum Ciliophora Doflein, 1901.
+NISHIGAMI, Y., OHMURA, T., TANIGUCHI, In: P. PUYTORAC, ed. Traité de zoologie, Tome ii,
+A., NONAKA, S., MANABE, J., ISHIKAWA, T. Infusoires Ciliés, fasc. 2, Systématoque. Masson, Paris:
+and ICHIKAWA, M. Influence of cellular shape Dunod, 1994, pp. 1-15.
+on sliding behavior of ciliates. Communicative & QURESHI, M.E. and HANJRA, M.A. Global water
+Integrative Biology, 2018, 11(4), e1506666. http:// crisis and future security in an era of climate change.
+dx.doi.org/10.1080/19420889.2018.1506666. Food Policy, 2010, 35(5), 365-377. http://dx.doi.
+PMid:30534342. org/10.1016/j.foodpol.2010.05.006.
+NOLAND, L.E. Factors influencing the distribution of RAO, J.V., SRIKANTH, K., AREPALLI, S.K. and
+frech water ciliates. Ecology, 1925, 6(4), 437-452. GUNDA, V.G. Toxic effects of acephate on
+http://dx.doi.org/10.2307/1929108. Paramecium caudatum withspecial emphasis on
+OHMURA, T., NISHIGAMIA, Y., TANIGUCHIB, morphology, behaviour, and generation time. Pesticide
+A., NONAKAB, S., MANABEC, J., ISHIKAWAC, Biochemistry and Physiology, 2006, 86(3), 131-137.
+T. and ICHIKAWAA, A. Simple mechanosense and http://dx.doi.org/10.1016/j.pestbp.2006.02.005.
+response of cilia motion reveal the intrinsic habits of REHMAN, A., ASHRAF, S., QAZI, J.I. and SHAKOORI,
+ciliates. Proceedings of the National Academy of Sciences A.R. Uptake of lead by a Ciliate, Stylonychia
+of the United States of America, 2018, 115(13), 3231- mytilus, isolated from industrial effluents: Potential
+3236. http://dx.doi.org/10.1073/pnas.1718294115. use in bioremediation of wastewater. Bulletin of
+PMid:29531024. Environmental Contamination and Toxicology, 2005,
+OKI, T. and KANAE, S. Global hydrological cycles 75(2), 290-296. http://dx.doi.org/10.1007/s00128-
+and world water resources. Science 313:1068-72 4. 005-0751-7. PMid:16222500.
+Fenwick A. Waterborne infectious diseases-Could REHMAN, A., SHAKOORI, F.R. and SHAKOORI,
+they be consigned to history? Science, 2006, 313, A.R. Heavy metal resistant ciliate, Euplotes mutabilis,
+1077-1081. isolated from industrial effluents can decontaminate
+ORGANIZAÇÃO DAS NAÇÕES UNIDAS – wastewater of heavy metals. Bulletin of Environmental
+UNESCO. The United Nations World Water Contamination and Toxicology, 2006, 76(6), 907-913.
+Development Report 3: Water in a Changing World. http://dx.doi.org/10.1007/s00128-006-1004-0.
+Paris/New York: UNESCO/Berghahn Books 2. PMid:16855894.
+Huntington TG. 2006. Evidence for intensification REHMAN, A., SHAKOORI, F.R. and SHAKOORI,
+of the global water cycle: review and synthesis. Journal A.R. Potential use of a ciliate, Vorticella microstoma,
+of Hydrology, 2009, 319, 83-95. surviving in lead containing industrial effluents in
+PAULETO, G.M., VELHO, L.F.M., BUOSI, P.R.B., waste water treatment. Pakistan Journal of Zoology,
+BRÃO, A.F.S., LANSAC-TÔHA, F.A. and 2007a, 39(4), 259-264.
+BONECKER, C.C. Spatial and temporal patterns REHMAN, A., SHAKOORI, F.R. and SHAKOORI,
+of ciliate species composition (Protozoa: Ciliophora) A.R. Multiple metal resistance and uptake by a ciliate,
+in the plankton of the Upper Paraná River floodplain. Stylonychia mytilus, isolated from industrial effluents
+Brazilian Journal of Biology = Revista Brasileira de and its possible use in wastewater treatment. Bulletin
+Biologia, 2009, 69(2), 517-527, Supplement. http:// of Environmental Contamination and Toxicology,
+Acta Limnologica Brasiliensia, 2020, vol. 32, e202
+
+12 Vilas-Boas, J.A., Senra, M.V.X. and Dias, R.J.P.
+2007b, 79(4), 410-414. http://dx.doi.org/10.1007/ SCHWARZENBACH, R.P., EGLI, T., HOFSTETTER,
+s00128-007-9270-z. PMid:17874022. T.B., VON GUNTEN, U. and WEHRLI, B.
+Global water pollution and human health. Annual
+REHMAN, A., SHAKOORI, F.R. and SHAKOORI,
+A.R. Heavy metal resistant freshwater ciliate, Euplotes Review of Environment and Resources, 2010, 35(1),
+109-136. http://dx.doi.org/10.1146/annurev-
+mutabilis,isolated from industrial effluents has
+environ-100809-125342.
+potential to decontaminate wastewater of toxic metals.
+Bioresource Technology, 2008b, 99(9), 3890-3895. SCHWARZENBACH, R.P., ESCHER, B.I., FENNER,
+http://dx.doi.org/10.1016/j.biortech.2007.08.007. K., HOFSTETTER, T.B., JOHNSON, C.A., VON
+PMid:17888657. GUNTEN, U. and WEHRLI, B. The challenge of
+micropollutants in aquatic systems. Science, 2006,
+REHMAN, A., SHAKOORI, F.R. and SHAKOORI,
+313(5790), 1072-1077. http://dx.doi.org/10.1126/
+A.R. Uptake of heavy metals by Stylonychia mytilus
+science.1127291. PMid:16931750.
+and its possible use in decontamination industrial
+wastewater. World Journal of Microbiology & SHAKOORI, F.R., ZAFAR, M.F., FATEHULLAH, A.,
+Biotechnology, 2008a, 24(1), 47-53. http://dx.doi. REHMAN, A. and SHAKOORI, A.R. Response of
+org/10.1007/s11274-007-9436-1. Glutathione Level in a Protozoan Ciliate, Stylonychia
+mytilus, to Increasing Uptake of and Tolerance to
+REHMAN, A., SHAKOORI, F.R. and SHAKOORI,
+Nickel and Zinc in the Medium. Pakistan Journal of
+A.R. Heavy metal uptake by Euplotes mutabilis
+Zoology, 2011, 43(3), 569-574.
+and its possible use in bioremediation of industrial
+wastewater. Bulletin of Environmental Contamination SHERR, E.B. and SHERR, B.F. Bacterivory and
+and Toxicology, 2009, 83(1), 130-135. http://dx.doi. herbivory: key roles of phagotrophic protists in
+org/10.1007/s00128-009-9725-5. PMid:19387521. pelagic food webs. Microbial Ecology, 1994, 28,
+223-235.
+REHMAN, A., SHAKOORI, F.R. and SHAKOORI,
+A.R. Multiple heavy metal tolerant ciliates, Oxytricha SILVA, D.C.V.R., POMPÊO, M. and PAIVA, T.C.B.
+fallax and Paramecium caudatum, isolated from A ecotoxicologia no contexto atual no Brasil. Ecologia
+industrial effluents and their potential use in de reservatórios e interfaces. São Paulo: Instituto de
+wastewater treatment. Pakistan Journal of Zoology, Biociencias da Universidade de São Paulo, 2015.
+2010a, 42(3), 301-309. SILVEIRA, M.P. Aplicação do biomonitoramento para
+REHMAN, A., SHAKOORI, F.R. and SHAKOORI, avaliação da qualidade da água em rios. Jaguariúna:
+A.R. Resistance and uptake of heavy metals by Embrapa Meio Ambiente, 2004, 68 p.
+Vorticella microstoma and its potential use in industrial SLABODNICK, M.M., RUBY, G., REIFF, S.B.,
+wastewater treatment. Environmental Progress & SWART, C.E., GOSAI, S., PRABAKARAN, S.,
+Sustainable Energy, 2010b, 29(4), 481-486. http:// WITKOWSKA, E., LARUE, G.E., FISHER, S.,
+dx.doi.org/10.1002/ep.10450. FREEMAN, R.M., GUWARDENA, J., CHU, W.,
+STOVER, N.A., GREGORY, B.D., NOWACKI,
+RICO, D., MARTÍN-GONZÀLEZ, A., DÍAZ, S.,
+M., DERISI, J., ROY, S.W., WALLACE, F.M. and
+LUCAS, P. and GUTIÉRREZ, J.C. Heavy metals
+SOOD, P. The macronuclear genome of Stentor
+generate reactive oxygen species in terrestrial and
+coeruleus reveals tiny introns in a giant cell. Current
+aquatic ciliated protozoa. Comparative Biochemistry
+Biology, 2017, 27(4), R146-R148. http://dx.doi.
+and Physiology. Part C, 2009, 149(1), 90-96.
+org/10.1016/j.cub.2016.12.057. PMid:28190732.
+PMid:18725323.
+SLEIGH, M. Protozoa and other Protists. New York:
+RUTHVEN, J. and CAIRNS JUNIOR, J.J. Response
+Chapman and Hall, 1988, 399 p.
+of fresh-water protozoan artificial communities to
+metals. The Journal of Protozoology, 1973, 20(1), 127- SOARES, A.M.V.M. and CALOW, P. Seeking
+135. http://dx.doi.org/10.1111/j.1550-7408.1973. standardization in ecotoxicology. In: A.M.V.M.
+tb06015.x. SOARES and P. CALOW, eds. Progress in
+standardization of aquatic toxicity test. Boca Raton:
+SALVADO, H., GRACIA, M.P., AMIGÓ, J.M. and
+Lewis Publishers, 1993.
+RIUS, M. Effects of cadmium on growth and Motility
+in Euplotes aediculatus Isolated from Activated SOLDO, A.T. and VAN WAGTENDONK, W.J. The
+Sludge. Bulletin of Environmental Contamination nutrition of Paramecium aurelia, stock 299. The
+and Toxicology, 1997, 58(5), 838-844. http://dx.doi. Journal of Protozoology, 1969, 16(3), 500-506. http://
+org/10.1007/s001289900410. PMid:9115151. dx.doi.org/10.1111/j.1550-7408.1969.tb02307.x.
+PMid:5343464.
+SCHLENK, D. and MOORE, C.T. Effect of pH and
+time on the acute toxicity of copper sulfate to the SONNEBOBN, T.M. Methods in Paramecium research.
+ciliate protozoan Tetrahymena thermophila. Bulletin In: D.M. PRESCOTT, Methods in cell physiology.
+of Environmental Contamination and Toxicology, New York: Academic Press, 1970, pp. 241-339.
+1994, 53(6), 800-804. http://dx.doi.org/10.1007/ SWART, E., BRACHT, J.R., MAGRINI, V.,
+BF00196207. PMid:7881206. MINX, P., CHEN, X., ZHOU, Y., KHURANA,
+Acta Limnologica Brasiliensia, 2020, vol. 32, e202
+
+Ciliates in ecotoxicological studies… 13
+J.S., GOLDMAN, A.D., NOWACKI, M., VINOGRADOV, D.V., TSOI, O.V., ZAIKA, A.V.,
+SCHOTANUS, K., JUNG, S., FULTON, LOBANOV, A.V., TURANOV, A.A., GLADISHEV,
+R.S., LY, A., MCGRATH, S., HAUB, K., V.N. and GEL’FAND, M.S. Draft macronucleus
+WIGGINS, J.L., STORTON, D., MATESE, genome of Euplotes crassus ciliate. Molecular Biology,
+J.C., PARSONS, L., CHANG, W.J., BOWEN, 2012, 46(2), 328-333. http://dx.doi.org/10.1134/
+M.S., STOVER, N.A., JONES, T.A., EDDY, S0026893312020197.
+S.R., HERRICK, G.A., DOAK, T.G., WILSON,
+WALKER, C.H., HOPKIN, S.P., SIBLY, R.M. and
+R.K., MARDIS, E.R. and LANDWEBER, L.F.
+PEAKALL, D.B. Principles of ecotoxicology. London:
+The Oxytricha trifallax macronuclear genome:
+Taylor and Francis, 1996.
+a complex eukaryotic genome with 16,000 tiny
+chromosomes. PLoS Biology, 2013, 11(1), 1-29. WANICK, R.C., PAIVA, T.S., CARVALHO, C.N. and
+http://dx.doi.org/10.1371/journal.pbio.1001473. SILVA-NETO, I.D. Acute toxicity of cadmium to
+PMid:23382650. freshwater ciliate Paramecium bursaria. Biociencias,
+2008, 16(2), 104-109.
+TWAGILIMANA, L., BOHATIER, J., GROLIÈRE,
+C.A., BONNEMOY, F. and SARGOS, D. New low- WEISSE, T. Functional diversity of aquatic ciliates.
+cost microbiotest with the Protozoan Spirostomum European Journal of Protistology, 2017, 61(Pt B), 331-
+teres: culture conditions and assessment of sensitivity 358. http://dx.doi.org/10.1016/j.ejop.2017.04.001.
+of the ciliate to 14 Pure Chemicals. Ecotoxicology PMid:28623024.
+and Environmental Safety, 1998, 41(3), 231-
+WU, D., YAN, T., PEI, S., ZHANG, M., WANG, Q.,
+244. http://dx.doi.org/10.1006/eesa.1998.1698.
+GONG, Z. and CHEN, Y. Inhibitory effect of three
+PMid:9799574.
+heavy mental pollutants on antioxidant enzymes of
+UNITED STATES ENVIRONMENTAL Paramecium caudatum. Advanced Materials Research,
+PROTECTION AGENCY – US EPA. Methods for 2015, 1065, 3071-3076.
+Chemical Analysis of Water and Wastes: EPA-600/4-
+YOO, J.Y. and HUR, S.B. Evaluation of six species ciliates
+79- 020. Cincinnati: Environmental Monitoring and
+as a live food and culture enviroment for Euplotes sp.
+Support Laboratory, 1992
+Journal of the Korea Fish Society, 2002, 35, 342-347.
+USEPA. ECOTOX user guide: ECOTOXicology database
+ZHANG, P., XU, J., LU, J., LIANG, A. and WANG,
+system. Version 4.0, 2019 [viewed 28 May 2019].
+W. Different response of Two metallothionein
+Available from http:/www.epa.gov/ecotox/.
+subfamilies exposed To chromium (vi) in Tetrahymena
+VELHO, L.F.M., LANSAC-TÔHA, F.M., BUOSI,
+thermophila. Fresenius Environmental Bulletin, 2013,
+P.R.B., MEIRA, B.R., CABRAL, A.F. and LANSAC-
+22(7), 1924-1928.
+TÖHA, F.A. Structure of planktonic ciliates
+community (Protist, Ciliophora) from an urban ZHANG, X., XIA, P., WANG, P., YANG, J. and BAIRD,
+lake of southern Brazil. Acta Scientiarum Biological D.J. Omics advances in ecotoxicology. Environmental
+Sciences, 2013, 35(4), 531-539. http://dx.doi. Science & Technology, 2018, 527(7), 3842-3851.
+org/10.4025/actascibiolsci.v35i4.18579. http://dx.doi.org/10.1021/acs.est.7b06494.
+PMid:29481739.
+VELHO, L.F.M., PEREIRA, D.G., PAGIORO, T.A.,
+SANTOS, V.D., PERENHA, M.C.Z. and LANSAC-
+TÖHA, F.A. Abundance, biomass and size structure
+of planktonic ciliates in reservoirs with distinct Received: 23 July 2019
+trophic states. Acta Limnologica Brasiliensia, 2005, Accepted: 18 March 2020
+17(4), 361-371.
+VINDIMIAN, E. The role of ecotoxicology for Associate Editors: André Megali Amado, Joyce Andreia
+monitoring ecosystem health. Freshwater Forum, dos Santos, Rafael Marques Almeida, Simone Jaqueline
+2001, 16(1), 91-97. Cardoso.
+Acta Limnologica Brasiliensia, 2020, vol. 32, e202
+
+14 Vilas-Boas, J.A., Senra, M.V.X. and Dias, R.J.P.
+Supplementary Material
+Supplementary material accompanies this paper.
+Table S1 available at https://cfpub.epa.gov/ecotox/search.cfm.
+This material is available as part of the online article from http://www.scielo.br/acta
+Acta Limnologica Brasiliensia, 2020, vol. 32, e202
+

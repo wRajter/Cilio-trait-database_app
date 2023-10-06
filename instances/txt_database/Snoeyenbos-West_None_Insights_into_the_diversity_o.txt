@@ -1,0 +1,653 @@
+InternationalJournalofSystematicandEvolutionaryMicrobiology(2002),52,1901–1913 DOI:10.1099/ijs.0.02114-0
+Insights into the diversity of choreotrich and
+oligotrich ciliates (Class: Spirotrichea) based on
+genealogical analyses of multiple loci
+1DepartmentofBiological Oona L.O.Snoeyenbos-West,1 TovahSalcedo,1 George B.McManus2
+Sciences,SmithCollege,
+and Laura A.Katz1,3
+Northampton,MA01063,
+USA
+2DepartmentofMarine Authorforcorrespondence:LauraA.Katz.Tel:›14135853825.Fax:›14135853768.
+Sciences,Universityof e-mail:lkatz!smith.edu
+Connecticut,Groton,
+CT06340,USA
+3PrograminOrganismic Toexaminerelationshipsamongspirotrichciliatesusingmulti-locussequence
+andEvolutionary analysesandtoprovidepreliminaryinsightsintomoleculardiversitywithin
+Biology,Universityof species,wesequencedthesmallsubunitrDNA(SSUrDNA),5.8SrDNA,a-tubulin
+Massachusetts-Amherst,
+Amherst,MA01003,USA andtheinternallytranscribedspacerregions(ITS1andITS2)oftherDNAgenes
+fromsevenchoreotrich(Class:Spirotrichea)andthreeoligotrich(Class:
+Spirotrichea)taxa.GenealogiesconstructedfromSSUrDNAandITSsequences
+areconcordantandbroadlysupportcurrentclassificationsbasedon
+morphology.TheoneexceptionisthefreshwateroligotrichHalteria
+grandinella,which,ashasbeenpreviouslynoted,fallsoutsideoftheclade
+containingtheotheroligotrichs.Incontrast,analysesofa-tubulinsequences
+arediscordantwithtraditionaltaxonomyandrDNAgenealogies.These
+analysesalsoindicatethatconsiderablymoregeneticvariationexistsamong
+choreotrichandoligotrichgenerathanamongstichotrichgenera.Toexplore
+thelevelofgeneticvariationamongindividualsintemporallyisolated
+populations,wecollectedadditionalsamplesofasubsetofplanktonic
+choreotrichsandoligotrichsandcharacterizedpolymorphismsinITS1,ITS2and
+5.8SrDNA.Analysesofthesedataindicatethat,atleastforsomeciliate
+lineages,DNApolymorphismsvarytemporally,andthatgeneticheterogeneity
+underliessomeverysimilarmorphologicaltypes.
+Keywords: ciliophora,spirotrichs,multi-genegenealogies,intraspecificvariation
+INTRODUCTION Puytorac et al., 1994; Lynn & Corliss, 1991; Small &
+Lynn,1985).InCorliss’revisionoftheclassbasedon
+Recentclassificationbasedonanalysesofbothciliary infraciliature (Corliss, 1974), the oligotrichs and
+patterns and ultrastructural data consistently place choreotrichsareunitedasasingleorderOligotrichida,
+threegroups,theoligotrichs,stichotrichsandchoreo- andplacedwithinthespirotrichsalongwiththeorder
+trichs, within the class Spirotrichea, but relationships Hypotrichida,whichcontainboththehypotrichs(e.g.
+among the three lineages vary (Corliss, 1974; de Euplotes) and stichotrichs (e.g. Oxytricha). Similarly,
+more recent analyses based on morphology unite
+choreotrichs, oligotrichs and stichotrichs within a
+.................................................................................................................................................
+single class, although these schemes vary in their
+ThispaperisanelaborationofapresentationtotheSocietyforGeneral
+Microbiology Special Symposium ‘Genomics: beyond the sequence’, treatment of the hypotrichs (de Puytorac et al., 1994;
+Heriot–WattUniversity,Edinburgh,UK,26–27March2001. Lynn & Corliss, 1991; Small & Lynn, 1985). Par-
+Published online ahead of print on 14 June 2002 as DOI 10.1099/ ticularly relevant to our analyses, the genus Halteria
+ijs.0.02114-0. has alternately been considered an oligotrich (e.g.
+Additionalimagesshowingthemorphologyoftheciliatesareavailableas Lynn & Corliss, 1991; Small & Lynn, 1985) or as an
+supplementarydatainIJSEMOnline(http://ijs.sgmjournals.org). independent lineage from the oligotrichs and sticho-
+The GenBank/EMBL/DDBJ accession numbers for the SSU rDNA and trichs (Petz & Foissner, 1992).
+a-tubulingenesequencesdeterminedinthispaperaregiveninTable3.
+Previous analyses of molecular data are consistent
+Abbreviations: ITS1 and ITS2, internally transcribed spacer regions of
+rRNAgenes;SSU,smallsubunit. with morphological analyses in that they support the
+02114#2002IUMS PrintedinGreatBritain 1901
+
+O.L.O.Snoeyenbos-Westandothers
+Table1.Ciliatessampledforthisstudy
+Genus/species Date Population Classification History No.ofcells
+Eutintinnuspectinis 23}6}99 Epec99 C:Tintinnina:Tintinnidae GrownincultureforC5days 84
+Favellaehrenbergii 23}6}99 Fehr99 C:Tintinnina:Ptychocylididae Fieldsample 85
+Favellaehrenbergii 21}7}00 Fehr00 C:Tintinnina:Ptychocylididae GrownincultureforC1month 50
+Laboeastrobila 27}6}00 Lstr00 O:Strombidiidae Fieldsample 61
+Metacylisangulata 6}7}00 Meta00 C:Tintinnina:Metacylididae GrownincultureforC7days 75
+Strobilidiumsp. 3}7}00 Strob00 C:Strobilidiina:Strobilidiidae GrownincultureforC7days 40–50
+Strombidinopsissp. 6}99 Sopsis99 C:Strombidinopsina:Strombidinopsidae GrownincultureforC1year 200
+Strombidinopsissp. 7}7}00 Sopsis00A C:Strombidinopsina:Strombidinopsidae Fieldsample 40–50
+Strombidinopsissp. 24}7}00 Sopsis00B C:Strombidinopsina:Strombidinopsidae Fieldsample 40–50
+Strombidiumsp. 19}6}00 Strom00 O:Strombidiidae Fieldsample 41
+Tintinnopsissp. 14}6}00 Tintsp00C C:Tintinnina:Codonellidae GrownincultureforC7days 40
+Tintinnopsissp. 7}3}00 Tintsp00A C:Tintinnina:Codonellidae GrownincultureforC7days 75
+Tintinnopsissp. 25}9}00 Tintsp00B C:Tintinnina:Codonellidae Growninculture 50–60
+Tintinnopsistubulosoides 6}99 Ttub99 C:Tintinnina:Codonellidae GrownincultureforC7days 39
+#
+inclusion of hypotrichs, oligotrichs and stichotrichs sentinglessthan50cm totalofsedimentfromasmall
+within the Spirotrichea. Analyses of small-subunit lakeandashallowmarinebay.Incontrast,following
+(SSU) rDNA unite the multiple samples from sticho- astudyoftherateofdescriptionofnewspeciesandthe
+trichs,hypotrichsandoligotrichs,andplacethegenus diversity of species in tropical, temperate and polar
+Halteria within, or at least sister to, the stichotrichs soils, Foissner (1997, 1998, 1999) posits that fewer
+(e.g. Shin et al., 2000; Tourancheau et al., 1998). than half of the existing species of ciliates have been
+Similarly,datafromlarge-subunitrDNAindicatethat described and that considerable endemism exists in
+oligotrichs and stichotrichs fall within the spirotrich ciliate populations.
+class (Tourancheau et al., 1992).
+Our data represent an initial step in determining the
+degreeofmoleculardiversitywithinciliatespeciesand
+Althoughcurrentschemesunitestichotrichsandoligo-
+only a few such studies have been done on natural
+trichs in the class Spirotrichea, relationships between
+populations. For example, analysis of intraspecific
+thesetwogroupsandthechoreotrichsareambiguous.
+variation in the parasitic ciliate Cryptocaryon irritans
+In order to explore these relationships further and to using the ITS1 region revealed high divergence (2–9–
+evaluate the correspondence between morphology- 3–5%) in morphologically similar isolates from mul-
+based taxonomy and gene genealogies, we have
+tiple locations in Australia and Europe (Diggles &
+analysed sequences for the SSU rDNA, 5.8S rDNA
+Adlard,1997).Similarly,astudyofgeneticdiversityin
+and a-tubulin genes as well as two internally tran-
+freshwater populations of Euplotes aediculatus of
+scribed spacer regions (ITS1 and ITS2) from three
+different geographical origins, using RAPD finger-
+taxa in the Oligotrichida (Laboea strobila, Halteria
+printing, indicates the existence of a large amount of
+grandinella and Strombidium sp.) and seven taxa in
+genetic variation (Kusch et al., 2000). Considerable
+the Choreotrichida (Strombidinopsis sp., Eutintinnus
+genetic diversity and cryptic species have also been
+pectinis, Tintinnopsis tubulosoides, Tintinnopsis sp.,
+foundwithin the foraminifera (deVargas et al., 1999,
+Favella ehrenbergii, Metacylis angulata and Strobi-
+2001;Holzmannetal.,1996),anothercladeofprotists.
+lidium sp.; Table 1). In this paper, we examine the
+Theextenttowhichnaturalciliatepopulationsvaryat
+branchingpatternsbothwithinoligotrichsandchoreo-
+the genetic level has yet to be fully explored and
+trichsandamongoligotrichs,choreotrichsandsticho-
+warrants more extensive study.
+trichs, based on genealogical analyses of DNA poly-
+morphisms at multiple loci.
+METHODS
+In a pilot study to explore the phylogeography of
+Sample collection. Two different sampling strategies were
+spirotrichs, we have also characterized the degree of used for the genealogical and phylogeographic portions
+genetic diversity in the 5.8S rDNA gene and in the of this study. We first surveyed multiple clones of all mol-
+ITS1 and ITS2 regions within and between popu- ecular markers from single populations of the oligotrichs
+lations collected at different time intervals from the L. strobila, H. grandinella and Strombidium sp. and the
+samesite.Currently,therearetwoopposingviewson choreotrichs F. ehrenbergii, E. pectinis, M. angulata,
+ciliate biogeography, but few molecular data exist to Strobilidium sp., Strombidinopsis sp., Tintinnopsis tubulo-
+soides and Tintinnopsis sp. (Table 1). Second, to describe
+testthesehypotheses.Thefirstmaintainsthat‘‘inthe
+variation in populations over time, additional samples
+caseofmicroorganisms‘everythingiseverywhere’and
+of the ITS1, ITS2 and 5.8S sequences were obtained from
+thattheirglobalspeciesdiversityisrelativelylimited’’
+populations of Strombidinopsis sp., F. ehrenbergii and Tin-
+(Fenchel et al., 1997). For example, Fenchel et al. tinnopsis sp. All ciliates, except for the freshwater ciliate
+(1997)foundthatapproximately8%ofalldescribed, H. grandinella, were isolated from Long Island Sound
+free-living ciliates were present in core samples repre- (University of Connecticut dock, Groton, CT, USA) at
+1902 InternationalJournalofSystematicandEvolutionaryMicrobiology52
+
+DiversitywithintheciliateClassSpirotrichea
+Table2.PrimersusedtogenerateoverlappingSSUandITSsequences
+.....................................................................................................................................................................................................................................
+Allprimersareshowninthe5«!3«orientation.
+Gene Primersequence
+SSUrDNA SSUint›1:YGGAGARDSRGCYTGAKARAYGGC
+SSUint-1:GACCTGKTATTGCCTYAMRCTTCC
+SSUint-2:TTYYCCGTGTTGARTCARATTRAG
+ITS1–5.8SrDNA–ITS2 SSUend›:AAGGTWTCCGTAGGTGAACCTG
+LSUstartfi:TAKTRAYATGCTTAAGTYCAGCG
+dates indicated in Table 1. Whenever a given species was around the posterior of the cell and the habit of retaining
+abundant,cellswerepickeddirectlyfromeitherwholewater chloroplasts from ingested algae (McManus & Fuhrman,
+or 64lm mesh plankton net concentrates. In other cases 1986). We observed these characters with the light micro-
+ciliates were cultured in filtered, autoclaved seawater scope to identify this species. Strombidium sp., Strombi-
+supplementedwithculturedmicroalgae,Prorocentrummini- dinopsis sp. and Strobilidium sp. were identified to genus
+mum,Rhodomonassp.andIsochrysisgalbana,asfood.One based on the presence and length of body cilia, whether
+isolate of Strombidinopsis sp. (Sopsis99) was in culture for ornottheoralmembranellesformedaclosedcircle,general
+approximatelyoneyearpriortoDNAanalysis.Toprovide bodyshapeandswimmingbehaviour.Samplesofallofthe
+acomparisonforlevelsofvariationinclonallinesofciliates, isolates were preserved in Bouin’s fixative, the preferred
+samplesofH.grandinellawerecollectedfromthepondatthe fixative for protargol staining (Montagnes & Lynn, 1987),
+Lyman Plant House (Smith College) and used to generate so future precise comparisons with published descriptions
+clonallinesbypassingindividualcellsthroughaminimum willbepossible.
+ofthreewashesincleanculturemedium.
+DNA extraction, amplification, cloning and sequencing.
+Speciesidentification.Alltintinnidswereidentifiedtolowest Individual cells were transferred to lysis buffer solution
+possibletaxonusinglightmicroscopicexaminationoflorica accordingtostandardprotocols(Ausubeletal.,1993),and
+morphology,asistraditionalinthisgroup(e.g.Laval-Peuto PCR(Saikietal.,1988)wasperformedasdescribedinRiley
+& Brownlee, 1986). Characters used included shape and & Katz (2001). Primers for SSU rDNA genes are from
+measurementsoftheoraldiameterandmaximalwidthand Medlin et al. (1998) with three additional primers used to
+lengthofloricas.Wecomparedoursampleswithpublished generate overlapping sequences from each clone (Table 2).
+descriptionsfromanumberofsources,includingBakker& Primers and strategies for amplifying and cloning the a-
+Phaff,(1976),Gold&Morales(1975),Hedin(1974),Leeet tubulingenearedescribedinRiley&Katz(2001).Wealso
+al. (1985) and Marshall (1969). For hyaline taxa we are designedprimersthattarget477bpofrDNAencompassing
+confident that our diagnoses are in keeping with current ITS1,ITS2and5.8SrDNA(Table2).
+literature,butforagglutinatedgenera(i.e.thosethatadhere
+scavengedmineralororganicparticlestotheirloricas)such PCRproductswerecleanedusingtheQiagenQiaquickPCR
+as Tintinnopsis, lorica shape is less constant, and identi- PurificationSystem,andclonedusingeithertheGibco-BRL
+ficationtospecieslevelismoredifficult.Forhyalinespecies, pAMP1 System or the Invitrogen TOPO TA Cloning Kit.
+F. ehrenbergii, M. angulata and E. pectinis, lorica mor- PlasmidDNAwaspurifiedusingtheQiagenMiniPrepKit.
+phology is considered to be a reliable character, although Direct sequencing of PCR products, or cloned plasmid
+divergentloricashapeshavebeenobservedwithinspeciesin DNA, was accomplished in both directions using gene-
+culture(e.g.Laval-Peuto,1977,1981).Fortheagglutinated specific primers and the BigDye terminator kit (Perkin
+T. tubulosoides, we felt that identification to species was Elmer). Sequences were run on an ABI 377 or ABI 310
+possible based on published descriptions and also on automatedsequencer.
+personalcommunicationswithcolleagueswhohadobserved
+Genealogical analysis. We generated contigs by assembling
+thisspeciesfromothercoastalsitesinthenorth-easternUS.
+and editing sequences using SeqMan (DNAStar). Align-
+Forotherisolatesinthisgenus,wewerenotconfidentthat
+ments combined our data with sequences available on
+designation of a species name was appropriate, given the GenBank (see Figs 1–3) using the clustal w algorithm
+variationinloricacharacterswithinthesampleswecollected. (Thompson et al., 1994) as implemented in megalign
+WethusdesignatetheseisolatesasTintinnopsisspp.
+(DNAStar) for a-tubulin and the ITS regions, and the
+Except for much older literature (e.g. Kahl, 1930–1935), dedicated comparative sequence editor (De Rijk & De
+descriptions of oligotrichs and non-tintinnid choreotrichs Wachter, 1993) for SSU rDNA. The a-tubulin alignment
+havebeenbasedon observations ofinfraciliature obtained wasunambiguousandtherDNAalignmentswereadjusted
+fromelectronmicroscopyorlightmicroscopyofprotargol- by eye. For SSU rDNA and the ITS datasets, these
+stainedspecimens(e.g.Montagnes&Lynn,1991).Insome alignments yield 1782 and 305 characters (331 and 209 of
+cases,however,goodidentificationstospeciescanbemade which are parsimony-informative), respectively, after ex-
+basedonuniquemorphologicalcharacters,behaviours,etc., cluding ambiguously aligned regions. For a-tubulin, the
+without resort to these techniques (e.g. Carey & Maeda, nucleotide alignment included 1095 sites (368 parsimony-
+1985; Maeda, 1986). For example, the oligotrich Laboea informative sites) and the amino acid alignment included
+strobila is the only described species in its genus (Corliss, 365sites(36parsimony-informativesites;allalignmentsare
+1979) and has both a unique spiral winding of the girdle availablebyrequestfromtheauthors).
+http://ijs.sgmjournals.org 1903
+
+O.L.O.Snoeyenbos-Westandothers
+Genealogical analyses of SSU rDNA, ITS and a-tubulin lata, F. ehrenbergii and E. pectinis) are monophyletic,
+nucleotide data were performed using the maximum- although with weaker bootstrapsupport.In contrast,
+likelihood (ML), maximum-parsimony (MP) and LogDet theoligotrichsarepolyphyletic,withtheH.grandinella
+(LD) heuristic searches implemented in paup* version sequence falling within the stichotrichs. The mono-
+4.0b (Swofford, 1999). modeltest version 3.04 (Posada &
+phylyofH.grandinellaplusthestichotrichsisstrongly
+Crandall,1998)wasusedtodetermineanappropriatemodel
+supportedwithbootstrapvaluesof100,100and96%
+andtoestimateparametersformaximum-likelihoodanaly-
+forLD,MPandML,respectively.Withtheexception
+ses. For MP, a strict consensus tree was generated from a
+of H. grandinella sequences, the oligotrich sequences
+heuristic search with 10 random addition sequences. Heu-
+(L. strobila, Strombidium sp. and the previously pub-
+risticsearcheswerealsodoneexcludinginvariantsitesusing
+LDdistancestoaccountforcompositionalbiases(Lockhart lishedStrombidiumpurpureumsequence,GenBankno.
+etal.,1996;Swoffordetal.,1996).Forthea-tubulindata,we U97112)aremonophyletic,withbootstrapsupportof
+alsoanalysedtheaminoacidalignmentwiththeneighbour- 93, 71 and 72% for LD, MP and ML.
+joining (NJ) algorithm with mean character distances and
+ITS.AnalysesofthealignedITS1,5.8SrDNAandITS2
+MPwith10randomadditionsequencesinheuristicsearches
+with paup* 4.0b (Swofford, 1999). Bootstrap values were data are concordant with the SSU rDNA genealogies
+calculatedusing100replicatesunderallmodels. (Fig. 2). For analyses of these data, we included a
+single sequence, either the most common haplotype
+or a randomly chosen clone, from each of 13 clades
+RESULTS as determined from our phylogeographic study. In
+these analyses, the choreotrich sequences are mono-
+Genealogies
+phyletic(bootstrapsupportof97,82and90%forLD,
+SSUrDNA.BetweenthreeandsixSSUrDNAclonesper MP and ML, respectively) as are the Tintinnina
+taxon were sequenced and the mean percentage di- (bootstrap support of 100, 97 and 92% for LD, MP
+vergence within taxa ranged from 0–069 to 0–410% and ML, respectively). The oligotrichs are again split
+(Table3).ForStrobilidiumsp.andStrombidiumsp.,a intotwogroups.AsintheSSUrDNAgenealogy,the
+consensussequencewasmadefromoverlappingclones H. grandinella sequence falls sister to a subset of
+in order to obtain a full-length sequence, because Oxytricha sp. sequences, albeit with low bootstrap
+characterizationoftheentire1–6kbregioncouldonly values of 51, 77 and 52% for LD, MP and ML,
+be accomplished by amplifying two overlapping respectively. The remaining oligotrichs are mono-
+products of C1–2kb each. phyletic,withstrongbootstrapsupportof98,100and
+100% for LD, MP and ML, respectively.
+Genealogical analyses of the SSU rDNA sequences
+used multiple algorithms and evolutionary models to a -Tubulin. We sequenced four clones each from M.
+assessthestabilityofourtopologies.Intheseanalyses, angulata, F. ehrenbergii, L. strobila and Strombidium
+the sequences from the choreotrichs (T. tubulosoides, sp.,threeclonesfromTintinnopsissp.,fivecloneseach
+M. angulata, Strobilidium sp., Strombidinopsis sp., from E. pectinis and Strobilidium sp., and seven from
+F. ehrenbergii and E. pectinis) form a monophyletic Strombidinopsis sp. In contrast to the ITS and SSU
+group with bootstrap support of 96, 72 and 83% for data, there was considerably more intraspecific vari-
+LD, MP and ML models, respectively (Fig. 1). ation in some lineages (Table 3) with the number of
+Moreover, the Tintinnina (T. tubulosoides, M. angu- variable sites among the 1095 characterized for each
+Table3.Within-speciesvariationforSSUanda-tubulin
+.................................................................................................................................................................................................................................................................................................................
+Divergencevaluesfortaxathathavea-tubulinparaloguesareindicatedinbold;Div,divergence.
+Taxon SSUrDNA a-Tubulin
+No.of Div GenBankno. No.of Div GenBankno.
+clones (%) clones (%)
+Strombidinopsissp. 4 0–165 AF399132–AF399135 7 3–86 AF399136–AF399142
+Favellaehrenbergii 6 0–166 AF399159–AF399164 4 0–414 AF399165–AF399168
+Eutintinnuspectinis 3 0–410 AF399169–AF399171 5 0–474 AF399172–AF399175
+Tintinnopsistubulosoides 5 0–123 AF399108–AF399111 3 0–363 AF399112–AF399114
+Metacylisangulata 4 0–200 AF399143–AF399146 4 0–122 AF399147–AF399150
+Strobilidiumsp. 1* N}A AF399122–AF399127 5 9–21 AF399128–AF399131
+Strombidiumsp. 1* N}A AF399115–AF399117 4 3–77 AF399118–AF399121
+Laboeastrobila 4 0–069 AF399151–AF399154 4 2–62 AF399155–AF399158
+*Consensussequencesbasedonoverlappingregions(seeResults:Genealogies).
+1904 InternationalJournalofSystematicandEvolutionaryMicrobiology52
+
+DiversitywithintheciliateClassSpirotrichea
+.................................................................................................................................................................................................................................................................................................................
+Fig. 1. Genealogy of spirotrich SSU rDNA based on maximum-likelihood analysis. For ML analyses, the hierarchical
+likelihood ratio test implemented in MODELTEST (Posada & Crandall, 1998) selected the Tamura & Nei (1993) model with
+amongsitevariationof0–5878andagammadistributionof0–6239.Numbersonbranchesrepresentbootstrapvaluesfor
+LogDet (LD), maximum-parsimony (MP), and maximum-likelihood (ML), respectively; bootstrap values less than 50 not
+shown. GenBank accession numbers follow taxonomic names; our taxa are shown in bold; asterisk indicates consensus
+sequenceusedinanalyses(seeMethods).FurtherdetailscanbefoundinMethods.
+clonerangingfromasfewastwointheM.angulatato sentedbytwoofourclones,GenBanknosAF299128
+as many as 149 in the Strobilidium sp. We define and AF399130) has a single base-pair deletion that
+paralogues as sequences that show greater than 2% couldeither indicateapseudogeneor amacronuclear
+sequencedivergence,basedonpreviousstudiesinour variant;forourgenealogicalanalyses,wetreatedthis
+laboratory that indicate that allelic variation, macro- character as a gap.
+nuclearvariationandexperimentalerrorarelessthan
+C1%(Riley&Katz,2001;Israeletal.,2002).Oneof In genealogies generated for both nucleotide and
+the apparent paralogues in Strobilidium sp. (repre- amino acid alignments of the a-tubulin data,
+http://ijs.sgmjournals.org 1905
+
+O.L.O.Snoeyenbos-Westandothers
+.................................................................................................................................................................................................................................................................................................................
+Fig. 2. Genealogy of spirotrich ITS1–5.8S rDNA–ITS2 based on maximum-likelihood analysis. For the ML analysis,
+hierarchical ratio tests indicated the Tamura & Nei (1993) model with among-site variation of 0–3009 and a gamma
+distributionof0–5904.OthernotesasinFig.1.
+topologies are discordant with those generated from dinella sequences fall as sister to the Tintinnina
+the SSU rDNA and ITS datasets, and in all cases, sequences,withbootstrapsupportof79,97and95%
+apparent paralogous copies of a-tubulin are sister to for LD, MP and ML, respectively. Finally, the
+one another or cluster within a genus (Fig. 3). In oligotrich sequences are also polyphyletic, with the
+analysesof nucleotidedata, thechoreotricha-tubulin L. strobila and Strombidium sp. paralogues clustering
+sequences are polyphyletic and form four groups: (1) separately. Analyses of amino acid sequences using
+F.ehrenbergii,T.tubulosoidesandM.angulata;(2)E. MP are unresolved and with the NJ algorithm, three
+pectinis; (3) Strombidinopsis sp. and (4) Strobilidium monophyletic groups emerge–(1) stichotrichs plus
+sp. (Fig. 3). Moreover,in these analyses,the H. gran- H. grandinella, (2) oligotrichs and (3) Tintinnina–
+1906 InternationalJournalofSystematicandEvolutionaryMicrobiology52
+
+DiversitywithintheciliateClassSpirotrichea
+.................................................................................................................................................................................................................................................................................................................
+Fig. 3. Genealogy of spirotrich a-tubulin nucleotide sequences based on maximum-likelihood analysis. For the ML
+analysis,hierarchicalratiotestsindicatedtheTrNmodel(Tamura&Nei,1993)withamongsitevariationof0–4151anda
+gammadistributionparameterof1–0353.P1andP2designateparalogouscopieswithintaxa.OthernotesasinFig.1.
+although bootstrap support in these analyses is low representing nine genera (see Table 1; GenBank nos
+(!50–68%–data not shown). AF399013–AF399107). For some samples (Epec99,
+Fehr99, Fehr00, Lstr00, Meta00 and Ttub), species
+designations based on morphologic identification are
+Temporalpatternsofintraspecificvariation
+clear, but for others (Strob00, Sopsis99, Sopsis00A,
+Toassessthegeneticheterogeneitywithinandbetween Sopsis00B, Strom00, TintspA00, TintspB00 and
+populations, we characterized DNA polymorphisms TintspC00), identifications are only to genus level
+at the ITS locus in 95 clones from 14 populations (Table1).Toexplorethelevelsofvariationwithinand
+http://ijs.sgmjournals.org 1907
+
+O.L.O.Snoeyenbos-Westandothers
+.................................................................................................................................................................................................................................................................................................................
+Fig.4.IntraspecificanalysisofspirotrichITSdata.Topologyisoneof"3000mostparsimonioustreesgeneratedbyPAUP*
+withgapstreatedasafifthcharacterstate,andisshowntoemphasizebranchlengths.Numbersonbranchesrepresent
+bootstrapvaluesfrom100replicates.
+between populations, we constructed a single gen- lationsofninegenerareveal13well-supportedmono-
+ealogyusingMPwithgapstreatedasafifthstate(for phyletic groups, although relationships among these
+a full genealogical exploration of these data, see 13 clades, particularly within the Tintinnina, are not
+above).OurgenealogicalanalysesofITS1,5.8SrDNA well supported (Fig. 4). As expected, intrapopulation
+and ITS2 regions from multiple clones from popu- divergence values are lower than interpopulation
+1908 InternationalJournalofSystematicandEvolutionaryMicrobiology52
+
+DiversitywithintheciliateClassSpirotrichea
+Table4.Uncorrectedmeanpercentagenucleotide representing clones sampled from M. angulata,
+sequencedivergenceamongsequenceswithingroups Strobilidiumsp.,Strombidiumsp.andE.pectinis,show
+verylittlevariation–0–3–0–9%(Fig.4,Table5).These
+Marker Taxon Mean levelsarecomparabletothelevelofvariationwithina
+divergence(%) clonal line of H. grandinella (0–3%).
+SSUrDNA Choreotrichida 7–48 Variation between populations. Analyses of the ITS
+dataset show contrasting patterns of variation in
+Oligotrichida 8–17
+differenttaxa(Fig.4,Table5).Forexample,F.ehren-
+Stichotrichida 2–97
+bergii (Fehr99}Fehr00; Clade I) and Strombidin-
+ITS1–5.8S Choreotrichida 7–37 opsis sp. (Sopsis99}Sopsis00A; Clade IX) sampled in
+rDNA–ITS2 Oligotrichida 9–26 two different summers contain identical ITS haplo-
+Stichotrichida 6–74 types. In contrast, there was considerable ("2%)
+a-Tubulin Choreotrichida 13–03 variation between samples of Strombidinopsis sp.
+Oligotrichida 9–04 collectedjust17daysapart:Sopsis00A(CladeIX)and
+Stichotrichida 7–83 Sopsis00B (Clade X), and Tintinnopsis sp. sampled in
+June,JulyandSeptemberofthesameyear(Tintsp00C,
+Tintsp00A and Tintsp00B, respectively; see Table 6).
+Moreover, the clades from the genus Tintinnopsis
+Table5.Intracladedistancescalculatedusing
+(Clades III, IV, V and VI) are not monophyletic with
+uncorrectedestimates
+respecttoM.angulata(CladeII)andE.pectinis(Clade
+VII; Fig. 4).
+Clade Population Divergence
+Variationwithinandbetweenmorphologicalentities.Two
+I Fehr99andFehr00 0–003 striking patterns emerge from comparisons of genetic
+II Meta00 0–005 variation within morphologically defined taxa. We
+III TintspA00 0–003 find identical sequences in samples of two morpho-
+IV Ttub99andTntspB00 0–003 logically distinct Tintinnopsis populations, TintspB00
+V TintspB00 0–003 and Ttub99 and the mean divergence between these
+VI TintspC00 0–002 populations is 0–3% (Clade IV, Fig. 4; Table 6). In
+VII Epec99 0–009 contrast,wefoundoneclone,TintspB00-8(CladeV),
+VIII Strob00 0–005 which is 4–5% divergent from other clones charac-
+IX Sopsis99andSopsis00A 0–000 terizedfromwithinthesameTintspB00sample(Clade
+X Sopsis00B 0–002 IV; Table 6).
+XI Strom00 0–006
+XII Lstr00 0–001
+XIII Hgrand* 0–003 DISCUSSION
+Concordanceanddiscordancebetweengenealogies
+*Clonalline.
+Not surprisingly, the genealogies generated from the
+linked SSU rDNA and ITS regions yield similar
+comparisons (Tables 5and 6), with the one exception topologies(Figs1and2).Forinstance,theTintinnina
+oftheTintspB00samplewhichcontainedsequencesin clusteredtogetherwithbootstrapvaluesof99,81and
+clades IV and V. Clades II, VIII, XI and VII, lessthan 50%inthe SSU rDNAgenealogy, and 100,
+Table6.Intra-andintersampledistancesforTintinnopsissp.andStrombidinopsissp.
+.....................................................................................................................................................................................................................................
+Calculatedusinguncorrecteddistances.Valueswithinacladeareshowninbold.
+Clade… III IV V VI IX X
+Tintinnopsisclades
+III 0–003 0–077 0–080 0–085 fi fi
+IV fi 0–003 0–045 0–074 fi fi
+V fi fi fi 0–069 fi fi
+VI fi fi fi 0–002 fi fi
+Strombidinopsisclades
+IX fi fi fi fi 0–00 0–026
+X fi fi fi fi fi 0–002
+http://ijs.sgmjournals.org 1909
+
+O.L.O.Snoeyenbos-Westandothers
+97and92%intheITSgenealogyforLD,MPandML, to the Tintinnina sequences, although this topology
+respectively. An exception to this concordance is the disagrees with traditional taxonomy in many other
+paraphyly of the Tintinnopsis sp. samples in the ITS respects.
+analyses (Fig. 2), although bootstrap values for the
+splitbetweenT.tubulosoidesandthethreeTintinnopsis
+sp. samplesare low in all analyses.In contrast,the a- a-Tubulinparalogues
+tubulin genealogy (Fig. 3) is not concordant with the The presence of duplicated copies of a-tubulin para-
+SSU rDNA and ITS genealogies, as the choreotrichs,
+logues may explain the discordance between the
+stichotrichs and oligotrichs are polyphyletic.
+genealogicalanalysesofthislocusandbothrDNAloci
+and morphology. Using a cut-off value of "2%
+Our data do not support merging the oligotrichs and
+divergence, we found paralogues in L. strobila,
+choreotrichs into a single unit at the same taxonomic
+Strombidiumsp.,Strombidinopsissp.andStrobilidium
+levelasthestichotrichs.Infact,comparisonsofmean
+sp. The low levels of ITS (Table 5) and SSU rDNA
+pairwise differences among sequences reveals that
+(Table 3) variation within these populations provides
+there is more variation among the choreotrichs and
+furtherevidencethatdivergenta-tubulinsequencesare
+oligotrichs sampled than within the stichotrichs
+paralogues, not alleles. Each pair of paralogues
+(Table4).FortheSSUrDNAdata,wherethepattern
+clusteredeitherwithinspeciesorwithinagenus,andat
+is clearest, variation among stichotrichs is on average
+2–97%, while the variation among choreotrichs and least one representative of each of the four spirotrich
+groupshadparalogues.Amodelofa-tubulinevolution
+oligotrichs is 8–17 and 7–48%, respectively (Table 4).
+that combines duplication and gene conversion is
+The variation within oligotrichs, which have the
+consistent with the discordant topology; however,
+highest levels at all markers, is confounded by the
+analyses of additional loci are required to distinguish
+taxonomicdesignationofH.grandinella,assequences
+among alternative hypotheses.
+from this taxon do not cluster with the other oligo-
+trichs(Figs1–3).ThesametrendholdsfortheITSand
+a-tubulin data, although there are smaller differences
+Phylogeographyofoligotrichsandchoreotrichs
+in divergence between clades (Table 4).
+In our preliminary analyses of ITS1 and ITS2, we
+observedcontrastingpatternsofintraspecificvariation
+Concordancebetweengenealogiesandtaxonomy in different populations of taxa isolated from the
+plankton. For example, populations of the tintinnid
+Our analyses provide the first hypothesis on relation-
+F. ehrenbergii sampled in 1999 (Fehr99) and 2000
+shipsamongstichotrichs,oligotrichsandchoreotrichs
+(Fehr00) were identical with respect to ITS sequence
+based on molecular genealogies. We find general
+(Fig.4andTable5),eventhoughregularsampling(at
+concordance between our SSU rDNA and ITS
+least weekly) indicated that this species was absent or
+genealogies and morphological taxonomy, but only
+at extremely low abundance during the intervening
+someconcordancewiththea-tubulindata.Ouranaly-
+months. Strombidinopsis spp. and Tintinnopsis spp.
+ses of rDNA regions unite the oligotrichs and
+samples do not show this stable pattern, but rather
+choreotrichs, excluding the H. grandinella sequences
+show considerable variation between populations
+(Figs 1 and 2). These analyses also provide insights
+sampled at different times (Fig. 4 and Table 6). In
+into relationships within choreotrichs, and indicate
+futurework,wehopetoidentifyenvironmentalfactors
+thatsomeofthehyalinetintinnids(e.g.F.ehrenbergii,
+(e.g. dissolved oxygen concentrations, phytoplankton
+M. angulata) are more closely related to agglutinated
+biomass and diversity, and temperature) that may
+Tintinnopsis species than they are to other hyaline
+correlate to the population-level differences we see at
+species(e.g.E.pectinis;Figs1and2).Inlightofthis,
+the genetic level. In addition, the use of morphology
+further study of the suitability of lorica-type as a
+alone in defining taxonomic groups may obscure
+taxonomic marker is warranted.
+genetic variation among cryptic species and explain
+thehighlevelsofvariationwefoundinsomesamples
+Similarly,ouranalysesindicatetheneedforadditional
+(e.g.TintspB00inTable6;cladesIVandVinFig.4).
+loci and samplesto determinethe phylogeneticplace-
+ment of H. grandinella. In all three genealogies, the
+H.grandinellasequencesareinadistinctcladefromthe
+Relatingmorphologytogeneticsinciliates
+other oligotrichs, although the sister taxon to this
+lineage varies depending on the locus analysed (Figs Theresearchpresentedhereisoneofthefirststudiesto
+1–3). In the SSU rDNA and ITS genealogies, the analyse molecular data to describe the diversity of
+H. grandinella sequence falls within the stichotrichs, oligotrich and choreotrich ciliates. Previous attempts
+consistent with previous analyses of SSU rDNA to survey the diversity and biogeography of marine
+(Hoffmann & Prescott, 1997; Shin et al., 2000). tintinnidshavereliedontraditionalapproachesbased
+However, previous support for this hypothesis was on morphology alone (e.g. Dolan, 2000; Dolan &
+weak, since earlier molecular studies did not include Gallegos, 2001; Perez et al., 2000; Pierce & Turner,
+choreotrichs and other oligotrich sequences. In the 1993; Thompson et al., 1999). One of the surprising
+a-tubulin nucleotide analyses, H. grandinella is sister resultsofourstudyisthediscoverythatT.tubulosoides
+1910 InternationalJournalofSystematicandEvolutionaryMicrobiology52
+
+DiversitywithintheciliateClassSpirotrichea
+(a) (b)
+(c)
+(d)
+.................................................................................................................................................................................................................................................................................................................
+Fig.5.Lightmicrographsofrepresentativesofthefourpopulationsoftintinnids,illustratingtherangeofmorphological
+variation:(a)Ttub99,(b)Tintsp00A,(c)Tintsp00Band(d)Tintsp00C.Scalebars,30lm.Basedonloricamorphologyand
+dimensions, these four isolates would likely be designated as separate species, or perhaps as only three species, with
+Ttub99andTintsp00Abeinglumpedtogether[(a)and(b),respectively].OursequencedatashowTtub99andTintsp00B
+tobeidentical[(a)and(c),respectively]anddistinctfromtheothertwo.Additionalimagesshowingthemorphologyof
+theciliatesisavailableassupplementarydatainIJSEMOnline(http://ijs.sgmjournals.org).
+and members of the Tintsp00B population, an ap- norecoursetomoleculardatatotestsuchdesignations.
+parently distinctmorphological entity, are genetically Moreover,theseresultsunderscoretheneedforstudies
+identical at the ITS locus [Fig. 5(a, c) & Table 5]. ongeneticvariabilityinnaturalciliatepopulations,as
+Thisconfirmsconcernsthatloricamorphologyisunre- our initial molecular surveys suggest that ITS regions
+liableforphylogeneticreconstruction(Laval-Peuto& willprovideadequatepolymorphismdatatoallowus
+Brownlee,1986),andthatwithinthetintinnids,lorica to assess biogeographic variation in ciliates.
+morphology may result from ecotypic variation (e.g.
+Laval-Peuto, 1977, 1981). Similar concerns on the
+ACKNOWLEDGEMENTS
+suitability of hard-part morphology for the classi-
+fication of other testate protists, such as the O.L.O.S.-W.andT.S.sharefirstauthorship,havingmade
+foraminifera, have recently been confirmed by use of equal contributions to this paper. Many thanks to Carol
+molecular approaches to look at genetic variation Rosetta and Erica Lasek-Nesselquist for their help in
+within species (e.g. Darling et al., 2000; de Vargas et collectingciliatesandsequencesandtothecommentsoftwo
+anonymous reviewers. This work is supported by an NSF
+al.,2001;Holzmannetal.,1996;Norris&deVargas,
+Small Grant in Exploratory Research to LAK (NSF
+2000). Our confirmation that lorica morphology g0079325),A.F.BlakesleeFundsatSmithCollegeadmin-
+appearstobeapoortraitforclassifyingtintinnidshas
+istered through the National Academy of Sciences, a
+implications not only for extant taxa, but also for
+HowardHughesMedicalInstitutegrantforundergraduate
+classification schemes based on tintinnid microfossils researchatSmithCollegeandbyConnecticutSeaGrantto
+thatrelyonhard-partmorphologyalone,sincethereis G.B.M.
+http://ijs.sgmjournals.org 1911
+
+O.L.O.Snoeyenbos-Westandothers
+REFERENCES Kahl, A. (1930–1935). Urtiere oder Protozoa. I. Wimpertiere oder
+Ciliata (Infusoria) In Die Tierwelt Deutschlands. Edited by F. Dahl.
+Ausubel,F.M.,Brent,R.,Kingston,R.E.,Moore,D.D.,Seidman, Jena:GustavFischer.
+J.G.,Smith,J.A.&Struhl,K.(1993). CurrentProtocolsinMolecular
+Kusch,J.,Welter,H.,Stremmel,M.&Schmidt,H.J.(2000).Genetic
+Biology.NewYork:Wiley-Liss.
+diversity in populations of a freshwater ciliate. Hydrobiologia 431,
+Bakker,C.&Phaff,W.J.(1976).Tintinnidafromcoastalwatersofthe 185–192.
+S.W.-NetherlandsI.ThegenusTintinnopsisStein.Hydrobiologia50,
+Laval-Peuto, M. (1977). Reconstruction d’une lorica de forme
+101–111.
+CoxliellaparletrophontenudeFavellaehrenbergii(Ciliata.Tintinnina).
+Carey,P.G.&Maeda,M.(1985).Horizontaldistributionofpsammo- CRAcadSciParis284,547–550.
+philicciliatesinfinesedimentsoftheChichesterHarborarea.JNatHist
+Laval-Peuto, M. (1981). Construction of the lorica in Ciliata
+19,555–574.
+Tintinnina. In vivo study of Favella ehrenbergii: variability of the
+Corliss, J.O. (1974). The changing world of ciliate systematics: phenotypesduringthecycle,biology,statistics,biometry.Protistologica
+historicalanalysisof pastefforts and anewly proposed phylogenetic 17,242–279.
+schemeofclassificationfortheprotistanphylumCiliophora.SystZool
+Laval-Peuto, M. & Brownlee, D.C. (1986). Identification and
+23,91–138.
+systematicsoftheTintinnina(Ciliophora)–evaluationandsuggestions
+Corliss,J.O.(1979).TheCiliatedProtozoa:Characterization,Classi- forimprovement.AnnInstOceanogr62,69–84.
+ficationandGuidetotheLiterature.Oxford:PergamonPress.
+Lee,J.J.,Hutner,S.H.&Bovee,E.C.(1985). AnIllustratedGuideto
+Darling,K.F.,Wade,C.M.,Stewart,I.A.,Kroon,D.,Dingle,R.& theProtozoa.Lawrence,KS:SocietyofProtozoologists.
+Brown,A.J.L.(2000).MolecularevidenceforgeneticmixingofArctic
+Lockhart, P.J., Larkum, A.W. D., Steel, M.A., Waddell, P.J. &
+andAntarcticsubpolarpopulationsofplanktonicforaminifers.Nature
+Penny,D.(1996).Evolutionofchlorophyllandbacteriochlorophyll:
+405,43–47.
+theproblemofinvariantsitesinsequenceanalysis.ProcNatlAcadSci
+de Puytorac, P., Grain, J. & Legendre, P. (1994). An attempt at USA93,1930–1934.
+reconstructingaphylogenetictreeoftheCiliophorausingparsimony
+Lynn, D.H. & Corliss, J.O. (1991). Ciliophora. In Microscopic
+methods.EurJProtistol30,1–17.
+AnatomyofInvertebrates,pp.333–467.EditedbyF.W.Harrison.New
+DeRijk,P.&DeWachter,R.(1993).DCSEv2.54,aninteractivetool York:Wiley.
+for sequence alignment and secondary structure research. Comput
+Maeda,M.(1986).Anillustratedguidetothespeciesofthefamilies
+ApplicBiosci9,735–740.
+Halteriidae and Strobilidiidae (Oligotrichida, Ciliophora) free swim-
+deVargas,C.,Norris,R.,Zaninetti,L.,Gibb,S.W.&Pawlowski,J. mingprotozoacommon in the aquaticenvironment. BullOcean Res
+(1999). Molecular evidence of cryptic speciation in planktonic fora- Inst21,1–67.
+minifers and their relation to oceanic provinces. Proc Natl Acad Sci
+Marshall,S.M.(1969).Protozoa–OrderTintinnida.ConsIntExplor
+USA96,2864–2868.
+MerZooplanktonSheet117–127,1–81.
+de Vargas, C.,Renaud, S., Hilbrecht,H. & Pawlowski, J. (2001).
+McManus,G.B.&Fuhrman,J.A.(1986).Photosyntheticpigmentsin
+PleistoceneadaptiveradiationinGloborotaliatruncatulinoides:genetic,
+theciliateLaboeastrobilafromLongIslandSound,USA.JPlankton
+morphologic,andenvironmentalevidence.Paleobiology27,104–125.
+Res8,317–327.
+Diggles, B.K. & Adlard, R.D. (1997). Intraspecific variation in
+Medlin, L., Elwood, H.J., Stickel, S. & Sogin, M.L. (1988). The
+Cryptocaryonirritans.JEukaryotMicrobiol44,25–32.
+characterization of enzymatically amplified eukaryotes 16S-like ribo-
+Dolan, J.R. (2000). Tintinnid ciliate diversity in the Mediterranean somalRNAcodingregions.Gene71,491–500.
+Sea: longitudinal patterns related to water column structure in late
+Montagnes,D.J.S.&Lynn,D.H.(1987).Aquantitativeprotargol
+spring-earlysummer.AquatMicrobEcol22,69–78.
+stain(QPS)forciliates:methoddescriptionandtestofitsquantitative
+Dolan,J.R.&Gallegos,C.L.(2001).Estuarinediversityoftintinnids nature.MarMicrobFoodWebs2,83–93.
+(planktonicciliates).JPlanktonRes23,1009–1027.
+Montagnes,D.J.S.&Lynn,D.H.(1991).Taxonomyofchoreotrichs,
+Fenchel,T.,Esteban,G.F.&Finlay,B.J.(1997).Localversusglobal themajormarineciliates,withemphasisonthealoricateforms.Mar
+diversity of microorganisms: cryptic diversity of ciliated protozoa. MicrobFoodWebs5,59–74.
+Oikos80,220–225.
+Norris,R.D.&deVargas,C.(2000).Evolutionallatsea.Nature405,
+Foissner, W. (1997). Global soil ciliate (Protozoa, ciliophora) di- 23–24.
+versity: a probability-based approach using large sample collections
+Perez,M.T.,Dolan,J.R.,Vidussi,F.&Fukai,E.(2000).Dielvertical
+fromAfrica,AustraliaandAntarctica.BiodiversConserv6,1627–1638.
+distributionofplanktonicciliateswithinthesurfacelayeroftheNW
+Foissner, W. (1998). An updated compilation of world soil ciliates Mediterranean(May1995).Deep-SeaResPartIOceanogrResPap47,
+(Protozoa, Ciliophora), with ecological notes, new records, and 479–503.
+descriptionsofnewspecies.EurJProtistol34,195–235.
+Petz,W.&Foissner,W.(1992).Morphologyandmorphogenesisof
+Foissner, W. (1999). Protist diversity: estimates of the near- Strobilidium caudatum (Fromentel), Meseres corlissi N.Sp, Halteria
+imponderable.Protist150,363–368. grandinella(Muller),andStrombidiumrehwaldiN-Sp,andaproposed
+Gold,K.&Morales,E.A.(1975).Seasonalchangesinloricasizesand phylogenetic system for oligotrich ciliates (Protozoa, Ciliophora).
+the species of Tintinnida in the New York Bight. J Protozool 22, JProtozool39,159–176.
+520–528. Pierce,R.W.&Turner,J.T.(1993).Globalbiogeographyofmarine
+Hedin, H. (1974). Tintinnids on the Swedish west coast. Zoon 2, tintinnids.MarEcolProgSer94,11–26.
+127–137. Posada,D.& Crandall,K. (1998). modeltest:testing the model of
+Hoffmann,D.C.&Prescott,D.M.(1997).Phylogeneticrelationships DNAsubstitution.Bioinformatics14,817–818.
+among hypotrichous ciliates determined with the macronuclear gene Riley,J.L.&Katz,L.A.(2001).Widespreaddistributionofextensive
+encodingthelarge,catalyticsubunitofDNApolymerasealpha.JMol genomefragmentationinciliates.MolBiolEvol18,1372–1377.
+Evol45,301–310.
+Saiki, R.K., Gelfand, D.H., Stoffel, S., Scharf, S.J., Higuchi, R.,
+Holzmann,M.,Piller,W.&Pawlowski,J.(1996).Sequencevariations Horn, G.T., Mullis, K.B. & Erlich, H.A. (1988). Primer-directed
+inthelarge-subunitribosomalRNAgeneofAmmonia(Foraminifera, enzymatic amplification of DNA with a thermostable DNA-
+Protozoa)andtheirevolutionaryimplications.JMolEvol43,145–151. polymerase.Science239,487–491.
+Israel, R.L., Kosakovsky Pond, S.L., Muse, S.V. & Katz, L.A. Shin,M.K.,Hwang,U.W.,Kim,W.,Wright,A.D.G.,Krawczyk,C.
+(2002).Evolutionofduplicatedalpha-tubulingenesinciliates.Evol- &Lynn,D.H.(2000).PhylogeneticpositionoftheciliatesPhacodinium
+ution56,1110–1122. (Order Phacodiniida) and Protocruzia (Subclass Protocruziidia) and
+1912 InternationalJournalofSystematicandEvolutionaryMicrobiology52
+
+DiversitywithintheciliateClassSpirotrichea
+systematics of the spirotrich ciliates examined by small subunit Abundanceandbiogeographyoftintinnids(Ciliophora)andassociated
+ribosomalRNAgenesequences.EurJProtistol36,293–302. microzooplanktonintheSouthwesternAtlanticOcean.JPlanktonRes
+Small,E.B.&Lynn,D.H.(1985).PhylumCiliophora,Doflein1901.In 21,1265–1298.
+AnIllustratedGuidetotheProtozoa,pp.393–575.EditedbyJ.J.Lee, Thompson,J.D.,Higgins,D.G.&Gibson,T.J.(1994).ClustalW:
+S.H.Hutner&E.C.Bovee.Lawrence,KS:SocietyofProtozoologists. improving the sensitivity of progressive multiple sequence alignment
+Swofford,D.(1999).PAUP*.PhylogeneticAnalysisUsingParsimony throughsequenceweighting,position-specificgappenaltiesandweight
+(*andOtherMethods).Sunderland,MA:Sinauer. matrixchoice.NucleicAcidsRes22,4673–4680.
+Swofford,D.L.,Olsen,G.J.,Waddell,P.J.&Hillis,D.M.(1996). Tourancheau,A.B.,Delgado,P.,Perasso,R.&Adoutte,A.(1992).
+Phylogeneticinference.InMolecularSystematics,pp.407–514.Edited A broad molecular phylogeny of ciliates: identification of major
+byD.M.Hillis,C.Moritz&B.K.Mable.Sunderland,MA:Sinauer. evolutionarytrendsandradiationswithinthephylum.ProcNatlAcad
+Tamura,K.&Nei,M.(1993).Estimationofthenumberofnucleotide SciUSA89,9764–9768.
+substitutionsinthecontrolregionofmitochondrialDNAinhumans Tourancheau,A.B.,Villalobo,E.,Tsao,N.,Torres,A.&Pearlman,
+andchimpanzees.MolBiolEvol10,512–526. R.E. (1998). Protein coding gene trees in ciliates: comparisons with
+Thompson,G.A.,Alder,V.A.,Boltovskoy,D.&Brandini,F.(1999). rRNA-basedphylogenies.MolPhylEvol10,299–309.
+http://ijs.sgmjournals.org 1913
+

@@ -1,0 +1,795 @@
+crossmark
+Disentangling the Taxonomy of Rickettsiales and Description of Two
+Novel Symbionts (“Candidatus Bealeia paramacronuclearis” and
+“Candidatus Fokinia cryptica”) Sharing the Cytoplasm of the Ciliate
+Protist Paramecium biaurelia
+FranziskaSzokoli,a,bMicheleCastelli,b*ElenaSabaneyeva,cMartinaSchrallhammer,dSaschaKrenek,aThomasG.Doak,e,f
+ThomasU.Berendonk,aGiulioPetronib
+InstitutfürHydrobiologie,TechnischeUniversitätDresden,Dresden,Germanya;DipartimentodiBiologia,UniversitàdiPisa,Pisa,Italyb;DepartmentofCytologyand
+Histology,St.PetersburgStateUniversity,St.Petersburg,Russiac;Mikrobiologie,InstitutfürBiologieII,Albert-Ludwigs-UniversitätFreiburg,Freiburg,Germanyd;Indiana
+University,Bloomington,Indiana,USAe;NationalCenterforGenomeAnalysisSupport,Bloomington,Indiana,USAf
+ABSTRACT
+Inthepast10years,thenumberofendosymbiontsdescribedwithinthebacterialorderRickettsialeshasconstantlygrown.Since
+2006,18novelRickettsialesgenerainhabitingprotists,suchasciliatesandamoebae,havebeendescribed.Inthiswork,wecharacter-
+izetwonovelbacterialendosymbiontsfromParameciumcollectednearBloomington,IN.Bothendosymbioticspeciesinhabitthe
+cytoplasmofthesamehost.TheGram-negativebacterium“CandidatusBealeiaparamacronuclearis”occursinclumpsandisfre-
+quentlyassociatedwiththehostmacronucleus.Withitselectron-densecytoplasmandadistincthalosurroundingthecell,itiseasily
+distinguishablefromthesecondsmallersymbiont,“CandidatusFokiniacryptica,”whosecytoplasmiselectronlucid,lacksahalo,and
+isalwayssurroundedbyasymbiontophorousvacuole.Formolecularcharacterization,thesmall-subunitrRNAgenesweresequenced
+andusedfortaxonomicassignmentaswellasthedesignofspecies-specificoligonucleotideprobes.Phylogeneticanalysesrevealedthat
+“CandidatusBealeiaparamacronuclearis”clusterswiththeso-called“basal”Rickettsiales,and“CandidatusFokiniacryptica”be-
+longsto“CandidatusMidichloriaceae.”WeobtainedtreetopologiesshowingaseparationofRickettsialesintoatleasttwo
+groups:onerepresentedbythefamiliesRickettsiaceae,Anaplasmataceae,and“CandidatusMidichloriaceae”(RAMclade),and
+theotherrepresentedby“basalRickettsiales,”including“CandidatusBealeiaparamacronuclearis.”Therefore,andinaccor-
+dancewithrecentpublications,weproposetolimittheorderRickettsialestotheRAMcladeandtoraise“basalRickettsiales”to
+anindependentorder,Holosporalesord.nov.,insideAlphaproteobacteria,whichpresentlyincludesfourfamily-levelclades.Addi-
+tionally,wedefinethefamily“CandidatusHepatincolaceae”andredefinethefamilyHolosporaceae.
+IMPORTANCE
+Inthispaper,weprovidethecharacterizationoftwonovelbacterialsymbiontsinhabitingthesameParameciumhost(Ciliophora,
+Alveolata).Bothsymbiontsbelongto“traditional”Rickettsiales,onerepresentinganewspeciesofthegenus“CandidatusFo-
+.452.01.4.19
+kinia”(“CandidatusMidichloriaceae”),andtheotherrepresentinganewgenusofa“basal”Rickettsiales.Accordingtonewlycharac-
+terizedsequencesandtoacriticalrevisionofrecentliterature,weproposeataxonomicreorganizationof“traditional”Rickettsiales
+thatwesplitintotwoorders:RickettsialessensustrictoandHolosporalesord.nov.Thisworkrepresentsacriticalrevision,including
+newrecordsofagroupofsymbiontsfrequentlyoccurringinprotistsandwhosebiodiversityisstilllargelyunderestimated. yb
+3202
+Symbiosisisawidespreadphenomenoninciliates,andvarious
+rebmetpeS
+membersofbothprokaryoticdomains,BacteriaandArchaea,
+arefoundtopopulateciliatedprotists(1–5).
+Themajorityofsymbioticassociationsareobligatefortheen- Received5August2016 Accepted6October2016
+dosymbiont,butnotforthehost.Morethan60bacterialendo- Acceptedmanuscriptpostedonline14October2016 12
+symbiontshavebeendetectedinvariousspeciesoftheciliatege- CitationSzokoliF,CastelliM,SabaneyevaE,SchrallhammerM,KrenekS,DoakTG, no
+BerendonkTU,PetroniG.2016.DisentanglingthetaxonomyofRickettsialesand mea/lanruoj/gro.msa.slanruoj//:sptth
+nus Paramecium (6, 7). Although this number refers mainly to
+descriptionoftwonovelsymbionts(“CandidatusBealeiaparamacronuclearis”and
+microscopic observations, more and more species characteriza- “CandidatusFokiniacryptica”)sharingthecytoplasmoftheciliateprotist
+tionsincludeadditionalmoleculardescriptionsasabasicfeature Parameciumbiaurelia.ApplEnvironMicrobiol82:7236–7247.
+(6,7).Themajorityofthesebacterialendosymbiontsofciliates doi:10.1128/AEM.02284-16.
+belongtotheorderRickettsiales,amongAlphaproteobacteria(6). Editor:H.L.Drake,UniversityofBayreuth
+Atpresent,thetaxonomyoftheorderRickettsiales(8,9)includes AddresscorrespondencetoGiulioPetroni,giulio.petroni@unipi.it.
+three strongly supported monophyletic families (Rickettsiaceae, *Presentaddress:MicheleCastelli,DipartimentodiMedicinaVeterinaria,
+UniversitàdiMilano,Milan,Italy.
+Anaplasmataceae,and“CandidatusMidichloriaceae”)andseveral
+Supplementalmaterialforthisarticlemaybefoundathttp://dx.doi.org/10.1128
+cladesformerlyrepresentedbythefamilyHolosporaceae(“basal
+/AEM.02284-16.
+Rickettsiales”).Inthepastyears,themolecularcharacterizationof
+Copyright©2016Szokolietal.Thisisanopen-accessarticledistributedunderthe
+novelendosymbioticspeciesandtheincreasinggenomicandmet- termsoftheCreativeCommonsAttribution4.0Internationallicense. morf
+agenomicdatahavechangedourviewofthisorder.Morecomplex
+dedaolnwoD
+7236 aem.asm.org AppliedandEnvironmentalMicrobiology December2016 Volume82 Number24
+
+DisentanglingtheTaxonomyofRickettsiales
+analysesbasedondifferentgeneticmarkers(10–12)indicatethat PCRproductswerepurifiedwiththeNucleoSpingelandPCRcleanupkit
+thepositionofthe“basalRickettsiales”shouldbecarefullyrevised. (Macherey-NagelGmbH&Co.KG,Düren,NRW,Germany)anddirectly
+Two contrary models for the phylogeny of this group have re- sequencedatGATCBiotechAG(Constance,Germany).Forsequencing,
+centlyarisen.Onefollowsthehistoricalpath,inwhichRickettsia- internalprimerswereusedfortheeukaryoticSSUrRNAgene(30)and
+lesincludesthefamiliesRickettsiaceae,Anaplasmataceae,thenovel ITSregions(29).TheCOIgenewassequenceddirectlyinbothdirections,
+described“CandidatusMidichloriaceae,”andHolosporaceae,to- withthesameprimersusedforamplification(28).
+Molecularcharacterizationoftheendosymbionts.ProkaryoticSSU
+getherwithrelatedsequences(“basalRickettsiales”).Thismodelis
+rRNA gene sequences of the endosymbiotic species inhabiting isolates
+usuallysupportedbyphylogeneticanalysesbasedonprokaryotic
+US_Bl11III1andUS_Bl15I1wereobtainedbydirectsequencing.Touch-
+small-subunit(SSU)rRNAgenesequences(12–19).Theoppos-
+downPCR(31)wascarriedoutwiththeAlphaproteobacteria-specificfor-
+ingmodeldoesnotrecoverthemonophylyofallRickettsialesand ward primer 16S(cid:3)_F19b and the Bacteria-specific reverse primer
+separates“basalRickettsiales”toformaneworder.Ferlaandcol-
+16S_R1522a(32),asdescribedbySzokoliandcolleagues(33).PCRprod-
+leagues (11) named this group Holosporales, based on analyses
+uctswerepurifiedwiththeEuroGoldCyclePurekit(EuroCloneS.p.A.
+with prokaryotic SSU and large-subunit (LSU) rRNA gene se- Headquarters and Marketing, Pero, Milan, Italy) and sequenced using
+quences,andotherstudiessupportthisnotion(10,12).Wead- internalprimers(32).
+dressthisissueintheDiscussion. Twodifferentapproaches,cloninganddirectsequencing,wereusedto
+Inmanydescribedunicellularsymbioticsystems,ahosthar- obtaintheprokaryoticSSUrRNAgenesequenceofthesecondendosym-
+bors only a single endosymbiont. Nevertheless, ciliates provide biontinisolateUS_Bl11III1.Forcloning,PCRamplificationwascarried
+severalecologicalnicheswithintheirunicellularbodyashabitats outwithPhusionhigh-fidelityDNApolymerase(NewEnglandBioLabs
+forendosymbionts.Examplesarethecytoplasm,themacro-and Inc., Ipswich, MA, USA). The universal primers Bac16SFor and
+micronuclei,theperinuclearspace,andinrarecasesevenmito- Bac16SRev(34)wereusedinatouchdownPCRprotocol(annealingat
+chondria (2, 7, 20), all representing closed and stable environ- 58°C for 10 cycles followed by annealing at 54°C for 25 cycles). PCR
+products were then purified, and 3= A overhangs were added through
+mentsforcolonization.Thus,multipleinfectionsoftwoormore
+incubationinareactionmixcontaining1.67(cid:4)ColorlessGoTaqreaction
+endosymbiontshavebeendetectedindifferentoreventhesamecell
+buffer (Promega, Fitchberg, WI, USA) with 66.67 (cid:5)M dATPs, 5 mM
+compartments(16,20–24).Inthiswork,weprovidedataonaso-far-
+MgCl ,and1UGoTaqpolymerase(Promega)inatotalvolumeof15(cid:5)l
+stable double infection of Paramecium biaurelia collected near 2
+for20minat72°C.ThisDNAwasclonedintothepGEM-Tvectorsystem
+Bloomington,IN(USA).Wecharacterizedthesetwonovelbacterial
+(Promega)andtransformedintocompetentTOP10Escherichiacolicells
+endosymbiontsbyusingmolecularandultrastructuralmethods.In
+following the manufacturer’s instructions. Three clones derived from
+accordancewiththeguidelinesofprokaryoticnomenclature,wepro- DNAofUS_Bl11III1,showingidenticalrestrictionpatternsafterdiges-
+pose the names “Candidatus Bealeia paramacronuclearis” and tionwithMboI(NewEnglandBioLabsInc.,Ipswich,MA,USA)butdif-
+“CandidatusFokiniacryptica.”AsecondParameciumisolatehar- ferentfromrestrictionpatternsoffoodbacteriaandtheendosymbiontof
+boringonly“CandidatusBealeiaparamacronuclearis”wassam- thesingle-infectedhost(strainUS_Bl15I1),weresequencedfromboth
+plednearbyandwasusedforcomparativeanalyses.Accordingto directionsusingM13primers.Theresultingthreesequenceswereusedto
+our phylogenetic analyses of “basal Rickettsiales,” we propose a produce a consensus sequence for the second endosymbiont isolate,
+taxonomicreorganizationoftheorderRickettsialesbyexcluding US_Bl11III1.
+all“basalRickettsiales”andgroupingtheminthenovelorderHo- In order to confirm the obtained SSU rRNA gene sequence, direct
+losporalesord.nov.,assuggestedbyFerlaandcolleagues(11).We sequencingwasperformedonthesamePCRproductemployedforclon-
+ing,usingspecificinternalprimersFokinia_F434(5=-CTCTTTTGGTAG consequentlyproposearedefinitionofthefamilyHolosporaceae .452.01.4.19
+GGATGATAAT-3=), Fokinia_R434 (5=-ATTATCATCCCTACCAAAA
+and the establishment of a new family, “Candidatus Hepatin-
+GAG-3=),Fokinia_F1250(5=-AGAAGGCTGCAACAGGGT-3=),andFo-
+colaceae.”
+kinia_R1250(5=-ACCCTGTTGCAGCCTTCT-3=).
+MATERIALSANDMETHODS Fluorescenceinsituhybridization.Inordertoverifythattheob- yb
+tainedSSUrRNAgeneswerederivedfromtheendosymbionts,specific 3202
+Hostisolation,cultivation,andidentification.Thedouble-infectedPar-
+molecularprobesweredesigned.Fortheendosymbiontpresentinboth
+ameciumisolateUS_Bl11III1wasderivedfromafreshwatersampleofa
+isolates,thespecies-specificprobeBealeia_1245(5=-CCTATTGCTTCCT rebmetpeS
+smallpondintheMillerShowersParkinBloomington,IN(39°10=46.1(cid:2)N,
+86°32=03.6(cid:2)W)in2011.Thesingle-infectedisolateUS_Bl15I1wassam- TTTGTCAC-3=; Cy3 labeled at the 5= end; melting temperature [T m],
+55.9°C)wasdesigned.Thespecies-specificprobeFokCry_198(5=-CTCG
+pledfromapproximately17kmaway,inthe0.54-km2YellowwoodLake,
+IN (39°11=30.2(cid:2)N, 86°20=30.9(cid:2)W) in 2011. Monoclonal mass cultures CAGTAACATTGCTGC-3=;Cy3labeledatthe5=end;T mof56.7°C)was 12
+designed for the second endosymbiont present only in isolate US_Bl
+wereestablishedandmaintainedin0.25%Cerophylmediuminoculated no
+11III1. Both probes were obtained from Eurofins Genomics GmbH
+withRaoultellaplanticola(modifiedaccordingtomethodsdescribedby mea/lanruoj/gro.msa.slanruoj//:sptth
+(Ebersberg,Germany).Fluorescenceinsituhybridization(FISH)wasper-
+Kreneketal.[25]).TotalDNAwasextractedformolecularcharacteriza-
+formedwitheachnewlydesignedprobe,incombinationwithEUB338
+tionofhostandendosymbionts;approximately50Parameciumcellswere
+(fluoresceinisothiocyanate[FITC]labeledatthe5=end)(35),according
+washedseveraltimesinsterilespringwater,incubatedatroomtempera-
+tureovernight,andwashedagaintominimizebacterialcontaminants.Cells tomethodsdescribedbySzokoliandcoworkers(33).Bothprobeswere
+werefixedin70%ethanol,andDNAwasextractedusingtheNucleoSpin testedwithformamideconcentrationsrangingfrom0to50%.Theirspec-
+plant DNA extraction kit (Macherey-Nagel GmbH & Co. KG, Düren, ificitywasdeterminedinsilicobyusingtheTestProbeTool3.0(SILVA
+NRW, Germany), following the cetyltrimethylammonium bromide- rRNAdatabaseproject)(36)andtheprobematchtooloftheRibosomal
+basedprotocolforfungi. DatabaseProject(RDP)(37),allowing0,1,or2mismatches(Table1).
+Hostspecieswereidentifiedusingmorphologicalfeatures(26)and Additionally,todiscriminatethesymbiontobservedinisolateUS_Bl
+confirmedbysequencingtheeukaryoticSSUrRNAgene(followingthe 11III1fromthealready-described“CandidatusFokiniasolitaria,”thepre-
+approachdescribedbyPetronietal.[27]),themitochondrialcytochrome viouslypublishedprobesFokinia_198,Fokinia_434,andFokinia_1250
+coxidasesubunit1(COI)gene(28),andtheinternaltranscribedspacer (33)weretestedinsilicoandinFISHexperimentsfortheirbindingtothe morf
+(ITS;modifiedaccordingtomethodsdescribedbyBoscaroetal.[29]). SSUrRNAofthesecondendosymbiontfromisolateUS_Bl11III1.
+dedaolnwoD
+December2016 Volume82 Number24 AppliedandEnvironmentalMicrobiology aem.asm.org 7237
+
+Szokolietal.
+TABLE1Insilicomatchingofthespecies-specificprobesBealeia_1245 mittedtoNCBIGenBankandassignedaccessionnumbersKU736844,
+andFokCry_198againstbacterialSSUrRNAgenesequencesa KU736845,andKU736846.
+No.ofhitsindatabasewithindicatedno.ofmismatches
+RESULTS
+RDP SILVA
+Species-specific Characterizationofthehost.Generalmorphologicalfeaturesof
+probe 0mism 1mism 2mism 0mism 1mism 2mism theisolates,includingbodysizeandshape,numberandshapeof
+Bealeia_1245 0 179 321 0 38 62 micronuclei,andlocationofthecytoproct,weretypicalforrepre-
+FokCry_198 0 0 16 0 0 2 sentativesoftheParameciumaureliacomplex.Nearlyfull-length
+aBasedoninformationavailablefromtheRDP(release11,update4)andSILVA eukaryoticSSUrRNAgenesequencesofbothisolateswereiden-
+(release123)databases.Thenumbersofsequencesineachcorrespondingdatabaseare tical(both1,711bp),whereasITSregions,including5.8Sanda
+3,333,501(RDP,March2016)and1,756,783(SILVA,March2016).mism, part of the LSU rRNA gene, showed one nucleotide difference,
+mismatch(es).Reportedarethenumbersofsequences(hits)whichtheoretically
+located in the partial 28S rRNA gene sequence. The joined se-
+hybridizewiththeprobe,allowingforthegivennumberofmismatches.
+quencesoftheeukaryoticSSU,ITS,andpartialLSUforeachofthe
+two isolates were submitted to NCBI GenBank (2,800 bp). Eu-
+karyoticSSUrRNAgeneandITSsequencessupportedbothiso-
+Phylogenetic analyses. Phylogenetic analyses were performed with
+latesbelongingtotheParameciumaureliagroup.Sequenceiden-
+theARBsoftwarepackageversion5.2(38).TheprokaryoticSSUrRNA
+titywithrespecttootherpublishedITSsequencesoftheP.aurelia
+genesequencesoftheendosymbiontpresentinbothisolateswerealigned
+with18sequencesoftheRAMclade(sixsequencesofeachfamily:Rick- complexrangedbetween98and100%anddroppedto94to95%
+ettsiaceae,Anaplasmataceae,and“CandidatusMidichloriaceae”),68se- for Paramecium caudatum and Paramecium multimicronuclea-
+quencesof“basalRickettsiales”(20sequencesbelongingtoHolosporaand tum.Generally,COIgenesequencesshowedahigherresolution
+relatedorganisms,15sequencesofCaedibacter-likeorganisms,25repre- power than eukaryotic SSU rRNA gene and ITS regions. Thus,
+sentativesequencesof“CandidatusParacaedibacteraceae,”andeightse- partialCOIgenesofisolatesUS_Bl11III1andUS_Bl15I1were
+quences associated with “Candidatus Hepatincola”). Seven representa- sequenced (760 bp). No differences between the two sequences
+tives of other Alphaproteobacteria orders were chosen as the outgroup
+wereobserved.TheirsequenceidentitiestoParameciumbiaurelia
+(dataset1).Asecondsetofsequences(dataset2)waschosentoanalyze
+sequencesrangedfrom99to100%,whereasidentitieswithother
+theprokaryoticSSUrRNAgenesequenceofthesecondendosymbiontof
+membersoftheP.aureliacomplexdroppedto80to85%.There-
+isolateUS_Bl11III1.Thesequencewasalignedwith23othersequencesof
+fore,basedonCOIgenesequencesandinaccordancewithmor-
+“CandidatusMidichloriaceae.”NinesequencesofAnaplasmataceaewere
+chosen as an outgroup. For phylogenetic inference, alignment of both phologicalfeatures,weidentifiedourisolatesasP.biaurelia.
+datasetswasperformedwiththeautomaticaligneroftheARBsoftware Molecularcharacterizationof“CandidatusBealeiaparama-
+andfurtherrefinedmanually,tooptimizestemsandloopsaccordingto cronuclearis.”TheendosymbiontinhabitingisolatesUS_Bl11III1
+thepredictedsecondarystructureoftheprokaryoticSSUrRNAofE.coli. andUS_Bl15I1representsanewbacterialspeciesandgenusandwas
+The alignments were trimmed at both ends to the shortest shared se- designated “Candidatus Bealeia paramacronuclearis.” Bacterial
+quence,andgapsweretreatedasmissingdata.Additionally,fordataset1, SSUrRNAgenesequencesoftheendosymbiontsfromP.biaurelia
+hypervariablenucleotidepositions(i.e.,positionsinwhichthemostrep-
+US_Bl11III1andUS_Bl15I1wereidenticalthroughtheirentire
+resentednucleotidewaspresentinlessthan20%oftheorganisms)were
+length (1,445 bp). The species-specific probe Bealeia_1245 hy-
+leftout.
+bridized with its target organism in formamide from 0 to 25%
+Theoptimalsubstitutionmodelforeachalignmentwasselectedwith
+(vol/vol)(Fig.1),withthesignalintensitybeinghigherbetween .452.01.4.19
+jModelTest2.1(39),usingtheAkaikeInformationCriterion(AIC).Max-
+imumlikelihood(ML)treeswerecalculatedwith1,000bootstrappseu- 0 and 10% (vol/vol) formamide. In the in silico tests, probe
+doreplicates within the PhyML software, version 2.4.5, from the ARB specificitywashigherforzeromismatches,but179nontarget
+package(40).Bayesianinference(BI)wasperformedwithMrBayes3.2 sequenceswererecognizedwhenonemismatchwasallowed(Ta-
+yb
+(41),usingthreerunseach,withonecoldandthreeheatedMarkovchain ble 1). Comparing the obtained sequences with those available
+3202
+MonteCarloruns,iteratedfor1,500,000generations.Samplingwasper- fromNCBIGenBank,thehighestsequenceidentity(97.1%)was
+formedevery500generationswithaburn-inof25%.Therecommenda- observedwithunculturedenvironmentalbacteriaretrievedfrom rebmetpeS
+tionsoftheMrBayesmanualwerefollowedtodeterminethatconver-
+marineorextremehabitats(e.g.,anacidminedrainagesite)and
+gencewasreached.
+fromawastewatertreatmentplant(accessionnumbersHQ420145,
+Transmissionelectronmicroscopy(TEM).Parameciumcellsofboth
+KJ782860,JN671986,andDQ988310).Thedescribedbacterialendo-
+isolateswerefixedasdescribedbySzokoliandcolleagues(33)andembed- 12
+symbiontsshowingahighersequenceidentity(range,88to89%)
+dedinepoxyembeddingmedium(FlukaChemieAG,BioChemika,St. no
+Gallen, Switzerland) according to the manufacturer’s protocol. The were Caedibacter caryophilus (accession number NR_044847) mea/lanruoj/gro.msa.slanruoj//:sptth
+blocksweresectionedwithaLeicaEMUC6Ultracutmicroscope.Sections fromthemacronucleusofParameciumcaudatum(42)and“Can-
+werestainedwithaqueous1%uranylacetatefollowedby1%leadcitrate. didatusNucleicultrixamoebiphila”(accessionnumberKF697195)
+AllsampleswereexaminedwithaJEM-1400electronmicroscope(JEOL, infectingthenucleusofanamoeba(43).
+Ltd.,Tokyo,Japan)at90kV.Theimageswereobtainedwithabuilt-in Inourphylogeneticanalyses(Fig.2and3),“CandidatusBea-
+digitalcamera. leia paramacronuclearis” was always associated with the previ-
+Accessionnumber(s).ThejoinedsequencesoftheeukaryoticSSU,
+ouslymentionedunculturedbacteriasequences,formingagenus-
+ITS, and partial LSU for each of the two isolates of P. biaurelia were
+level“CandidatusBealeia”clade(99.8%bootstrapsupportforML
+submittedtoNCBIGenBankandassignedaccessionnumbersKU729876
+andposteriorprobabilityof1.00forBI).Alltreetopologiesob-
+andKU729877.Moreover,bothCOIgenesequencesweresubmittedand
+tainedsupportedanassociationof“CandidatusBealeia”withthe
+assignedtheaccessionnumbersKX008305andKX008306.Furthermore,
+nearlyfull-lengthprokaryoticSSUrRNAgenesequencesof“Candidatus genera Holospora, “Candidatus Gortzia,” “Candidatus Parahol-
+Bealeiaparamacronuclearis”inhabitingthetwoisolatesandofthesecond ospora,” and “Candidatus Hepatobacter” and with several se- morf
+symbiontofisolateUS_Bl11II1,“CandidatusFokiniacryptica,”weresub- quences from uncultured organisms in a rather well-supported
+dedaolnwoD
+7238 aem.asm.org AppliedandEnvironmentalMicrobiology December2016 Volume82 Number24
+
+DisentanglingtheTaxonomyofRickettsiales
+ceae,and“CandidatusMidichloriaceae”(RAMclade)(reportedin
+Fig.2and3asRickettsiales)andHolosporaceae,Caedibacter-Nu-
+cleicultrixclade,“CandidatusParacaedibacteraceae,”and“Candi-
+datusHepaticolaceae”(reportedinFig.2and3asHolosporales).
+TheprokaryoticSSUrRNAgenesequenceidentitieswithinthe
+RAMcladeononeside,andwithinthecladeincludingHolospo-
+raceae, the Caedibacter-Nucleicultrix clade, “Candidatus Para-
+caedibacteraceae,”and“CandidatusHepaticolaceae”ontheother
+side,werecomparedwiththeordervaluesretrievedbyYarzaand
+coauthors (46). The identities were on average higher than the
+threshold (86.3% and 85.7%, respectively), although in both
+groupssomevalues,alwaysassociatedwithfast-evolvingorgan-
+isms, were found below the threshold. Conversely, the average
+identitybetweenthegroupswascomparativelylower(82.8%)(see
+TableS1inthesupplementalmaterial).
+Molecularcharacterizationof“CandidatusFokiniacryp-
+tica.” The second bacterial SSU rRNA gene sequence, derived
+onlyfromisolateUS_Bl11III1(1,454bp),wasfoundtobeclosely
+relatedto“CandidatusFokiniasolitaria”(33),asitshared97.7%
+sequenceidentity.Thus,weproposethename“CandidatusFo-
+kiniacryptica,”duetothedifficultieswehadinmolecularlychar-
+acterizingthisendosymbiont.BothSSUrRNAgenesshareshort
+insertionsatpositions76,94,200,and216(accordingtoE.coli
+FIG1Species-specificinsitudetectionof“CandidatusBealeiaparamacronu- SSUrRNAgenereferencenumbering)whosesequencesslightly
+clearis.”(AandB)GreenfluorescentsignalfromprobeBealeia_1245(A)and differ.
+“CandidatusFokiniacryptica”redfluorescentsignalfromprobeFokCry_198
+Given the “Candidatus Fokinia cryptica” sequence, the two
+(B)inParameciumbiaureliaisolateUS_Bl11III1,bothwith0%formamide.(C
+andD)4=,6-Diaminidino-2-phenylindole(DAPI)signal(C),alsoillustratedin previouslypublishedprobesFokinia_434andFokinia_1250(33)
+amergedimageoftheBealeia_1245,FokCry_198,andDAPIsignals(D).Rel- turnedouttobespecificforthe“CandidatusFokinia”genus.In
+ativepositioningofbothendosymbiontswithrespecttoeachotherandwithin FISHexperiments,usingoneoftheseprobesincombinationwith
+thehostcellisshown.Scalebar,10(cid:5)m.
+EUB338,apositiveandoverlappingsignalwasobtainedforasub-
+set of the endosymbiotic bacteria in P. biaurelia isolate US_Bl
+11III1,whereasothers(endosymbiontsandfoodbacteriainside
+clade(62.3%bootstrapforMLandposteriorprobabilityof1.00 food vacuoles) were targeted only by EUB338. Similar experi-
+forBI),forwhichweproposeafamily-levelstatusandthename ments,inwhichgenus-specific“CandidatusFokinia”probeswere
+Holosporaceae.Anotherfamily-levelclade(herecalledtheCaedi- used in combination with the Bealeia_1245 probe, showed that
+bacter-Nucleicultrixclade),containingendosymbiontspeciessuch the “Candidatus Fokinia” and “Candidatus Bealeia” probes tar-
+as Caedibacter caryophilus and “Candidatus Nucleicultrix,” has geteddifferentsymbiontswithinthesamehostcellwithoutany .452.01.4.19
+sufficientsupport(79.8%forMLand0.81forBI)andbranchedas overlap (Fig. 1). The previously published probe Fokinia_198
+a sister group to Holosporaceae. The recently introduced family turnedouttobespecificforthepreviouslypublished“Candidatus
+“Candidatus Paracaedibacteraceae” of Hess and colleagues (44) Fokinia solitaria” species and has been consequently renamed
+yb
+wasconfirmedbyouranalyses.Asmallgroupofsequencesfrom FokSol_198;thisexpectationwasconfirmedbynegativeFISHre-
+3202
+uncultured organisms (EF520427, FJ466401, JN609326, and sultswithprobeFokSol_198againstisolateUS_Bl11III1bearing
+AY328720)wasunstablyassociatedwith“CandidatusParacaedi- “CandidatusFokiniacryptica”(datanotshown).Thespecies-spe- rebmetpeS
+bacteraceae” (Fig. 2 and 3), but their positioning could not be cificprobeFokCry_198,targetingthesameregion,wasdesigned
+unambiguouslyresolved(i.e.,associationhadlowsupportandin for“CandidatusFokiniacryptica”andwasvalidatedtohaveahigh
+BIanalysis[Fig.2])(sequenceAY328720branchesindependently specificity(Table1).Itsoptimalperformanceisat0to30%(vol/
+12
+from “Candidatus Paracaedibacteraceae”). A well-supported vol)formamide,butitgivesasignalwithupto50%formamide.It
+no
+clade(99.6forMLand1.00forBI)ofputativefast-evolvingbac- doesnothybridizeto“CandidatusFokiniasolitaria”atanystrin-
+mea/lanruoj/gro.msa.slanruoj//:sptth
+terial sequences associated with different metazoan organisms, gency(datanotshown).
+including “Candidatus Hepatincola porcellionum,” could addi- Thephylogeneticpositionof“CandidatusFokiniacryptica”is
+tionally be retrieved. Phylogenetic positioning of this clade was clearly inside the family “Candidatus Midichloriaceae” (Rickett-
+unstable, being sister to all other previously mentioned clades siales,Alphaproteobacteria)andassociatedwithhighsupportval-
+(Holosporaceae,Caedibacter-Nucleicultrixclade,“CandidatusPa- uesbybothinferencemethods(100%forMLand1.00forBI)to
+racaedibacteraceae”)inML(Fig.3),orsistertoonlytheHolospo- “CandidatusFokiniasolitaria”(Fig.4).Bothsequencesclustered
+raceaeandCaedibacter-NucleicultrixcladesinBItrees(Fig.2).We with“CandidatusDefluviellaprocrastinata,”colonizingParame-
+also propose a family-level status for this clade, with the name ciumnephridiatum(accessionnumberHE978247),andanenvi-
+“CandidatusHepatincolaceae,”referringtothefirst-describeden- ronmental sequence isolated from Green Lake, NY (accession
+dosymbiont of this clade, “Candidatus Hepatincola porcellio- numberFJ437943).
+num”(45).Ourtreetopologiesshowaseparationof“traditional” Ultrastructural observations. In electron micrographs of P. morf
+Rickettsialesintotwomajorgroups:Rickettsiaceae,Anaplasmata- biaureliaisolateUS_Bl15I1,onlyonekindofendosymbiontwas
+dedaolnwoD
+December2016 Volume82 Number24 AppliedandEnvironmentalMicrobiology aem.asm.org 7239
+
+.452.01.4.19
+yb
+3202
+rebmetpeS
+12
+no
+mea/lanruoj/gro.msa.slanruoj//:sptth
+FIG 2Bayesian inference phylogenetic tree of “Candidatus Bealeia paramacronuclearis,” based on prokaryotic SSU rRNA gene sequences, including 18
+Rickettsiales,70Holosporales,and7membersofotherordersofAlphaproteobacteriaasanoutgroup.TheGTR(cid:6)I(cid:6)Gmodelwasemployed.Atotalof1,251
+nucleotidecolumnswereusedtocalculatethetree.Numbersindicatemaximumlikelihoodbootstrapvaluesafter1,000pseudoreplicatesandBayesianposterior
+probabilitiesafter1,500,000iterations.Valuesbelow50%and0.5arenotshown.Scalebar,8nucleotidesubstitutionsper100positions.Ca.,Candidatus.*,a
+sequencewhichclusterswithin“CandidatusParacaedibacteraceae,”includingassociatedsequencesintheMLtree(seeFig.3).
+morf
+dedaolnwoD
+7240 aem.asm.org AppliedandEnvironmentalMicrobiology December2016 Volume82 Number24
+
+DisentanglingtheTaxonomyofRickettsiales
+FIG3PhylogenetictreetopologyofthemaximumlikelihoodanalysisemployingtheGTR(cid:6)I(cid:6)Gmodel,showingadifferentrelationshipbetweenthefamilies
+oftheorderHolosporaleswithrespecttotheBayesianinferencetree(Fig.2).Speciesselectionandnucleotidecolumnsusedtocalculatethetreearethesameas
+thoseforthetreeinFig.2.Numbersindicatemaximumlikelihoodbootstrapvaluesafter1,000pseudoreplicatesandBayesianposteriorprobabilitiesafter
+1,500,000iterations(valuesbelow50%and0.5arenotshown).Scalebar,10nucleotidesubstitutionsper100positions.Ca.,Candidatus.
+observedinthecytoplasm.Symbiontshadthetwotypicalmem- paramacronuclearis.” These evaginations were seen to bud off,
+branesofGram-negativebacteria,reached1.8to2.4by0.4to0.5 producingvesiclesenclosingthebacteria.Nothingofthekindis
+(cid:5)minsize,andweredevoidofflagella.Theendosymbiontshadan normallyobservedinTEMsectionsofendosymbiont-freepara-
+electron-densecytoplasm(Fig.5A)withconspicuousribosomes meciafedRaoultella,orintheotherisolate.Interestingly,“Candi- .452.01.4.19
+and nucleoid. No host membrane enclosing these bacteria was datusBealeiaparamacronuclearis”encircledbyahostmembrane
+observed,buttheywerealwayssurroundedbyanelectron-lucid couldbefoundonlyinthevicinityoffoodvacuoles,suggesting
+halolackinghostribosomes.Theseendosymbiontsoftenformed thatthehostmembranewaslaterbroken(Fig.6CandD).
+yb
+clustersofupto7or8cells,withparallelorientation(Fig.5Aand
+3202
+B).ThebacteriatendedtolocateclosetotheParameciummacro- DISCUSSION
+nucleusandcouldsometimesbefoundindeepfoldsofthenuclear DisentanglingtheinnerphylogeneticrelationshipsofRickett- rebmetpeS
+envelope,whichneverthelessremainedintact(Fig.1and5Cand siales.ThephylogeneticrelationshipsinsidetheorderRickettsiales
+D),hencetheproposedspeciesname,“CandidatusBealeiapara- areatpresentmuchdebated(10–12,44,47,48).ThefamiliesRick-
+macronuclearis.” ettsiaceae, Anaplasmataceae, and “Candidatus Midichloriaceae”
+12
+InelectronmicrographsofisolateUS_Bl11III1,somebacteria (RAMclade)representhighlysupportedmonophyleticclades(12–
+no
+showed an identical morphology and cytoplasmic distribution 19).Thefourthfamily,Holosporaceae(49),formerlyjoinedallre-
+mea/lanruoj/gro.msa.slanruoj//:sptth
+andwereattributedtothespecies“CandidatusBealeiaparama- mainingspeciesofRickettsiales,suchasHolospora(50),Caedibac-
+cronuclearis.” In this host, a second type of bacterium, with an tercaryophilus(42),“CandidatusParacaedibactersymbiosus”(51),
+electron-lucidcytoplasm,wasevident.Thesecells(size,1.1by0.35 “CandidatusOdyssellathessalonicensis”(52),“CandidatusCapti-
+to0.40(cid:5)m)wereneverfoundinclusters,wereenclosedinasym- vusacidiprotistae”(53),“CandidatusHepatincolaporcellionum”
+biontophorousvacuole(Fig.6A),andresembled“CandidatusFo- (45),“CandidatusParaholosporanucleivisitans”(54),“Candidatus
+kiniasolitaria”(33).Theytendedtolocateinthetrichocystlayer Gortzia infectiva” (47), and “Candidatus Hepatobacter penaei”
+(Fig.6A),whichwasalsoseenviaFISHobservations,butcould (55) and sequences of uncultured bacteria closely related to these
+occasionallybeobservedinotherregionsofthecytoplasm. species.Recentanalysesmainlybasedonalternativegeneticmarkers
+Hostlysosomeswereoftenseennear“CandidatusBealeiapara- (10–12,48)providedadifferentandmorecomplexperspectivein
+macronuclearis,”locatedintheendoplasm(Fig.6B).Intheisolate whichHolosporaceaeisnotasistergroupofotherRickettsiales.
+US_Bl11III1,digestivevacuoleslookedhighlyunusual,forming Boscaroandcolleagues(47)suggestedthatthetruefamilyHo- morf
+evaginationscontainingbacteria,supposedly“CandidatusBealeia losporaceae(sensustricto)consistedsolelyofHolosporaspp.and
+dedaolnwoD
+December2016 Volume82 Number24 AppliedandEnvironmentalMicrobiology aem.asm.org 7241
+
+Szokolietal.
+FIG4Bayesianinferencephylogenetictree(GTR(cid:6)I(cid:6)Gmodel)of“CandidatusFokiniacryptica,”basedonprokaryoticSSUrRNAgenesequences,including
+23other“CandidatusMidichloriaceae”and9Anaplasmataceaeasanoutgroup.Nucleotidecolumnsusedtocalculatethetree:1,311.Maximumlikelihood
+bootstrapvaluesafter1,000pseudoreplicatesandBayesianposteriorprobabilitiesafter1,500,000iterationsareshowndownto50%and0.5.Scalebar:7
+nucleotidesubstitutionsper100positions.Ca.,Candidatus.
+Holospora-likebacteria(HLB),suchas“CandidatusGortziainfec- tus Paracaedibacter symbiosus,” “Candidatus Odyssella thessa- .452.01.4.19
+tiva,”whileotherspeciesshouldbeplacedinsideRickettsialesas lonicensis,”“CandidatusCaptivusacidiprotistae,”thenovelgenus
+incertaesedis.Withtheongoingaccumulationofdata,webelieve “CandidatusFinniella,”andotherenvironmentalsequences(44).
+that this Holosporaceae family definition is too strict. Indeed, it Basedonouranalyses,weconfirmedthefamilyleveloftheclade,
+yb
+wouldexcludeallphylogeneticallyrelatedspecieslackingthetyp- whose borders in the future could possibly be broadened with
+3202
+icalHolosporalifecycle.Althoughsubfamilyrankisseldomused respecttotheavailablespeciescomposition.
+nowadaysinbacterialtaxonomy,wesuggestestablishmentofthe Depending on the phylogenetic method employed, the well- rebmetpeS
+subfamily Holosporoidea, to include Holospora spp. and Ho- supported clade “Candidatus Hepatincolaceae,” represented by
+lospora-like bacteria with the typical features mentioned above; bacteria associated with Ecdysozoa hosts, falls at different posi-
+HolosporoideasensuSzokoli(thisstudy)wouldcorrespondtoHo- tions in our analyses: either as sister to the Holosporaceae and
+12
+losporaceaesensuBoscaroandcolleagues(47).Consequently,ap- Caedibacter-Nucleicultrixclade(Fig.2;basedonBI)orassisterto
+no
+plyingaphylogeneticapproach,weproposetoincludeinthefam- the Holosporaceae-Caedibacter-Nucleicultrix-Paracedibacteraceae
+mea/lanruoj/gro.msa.slanruoj//:sptth
+ily Holosporaceae the following: “Candidatus Paraholospora clade(Fig.3;basedonML).TheirrRNAgenesequencesseemto
+nucleivisitans,”“CandidatusHepatobacterpenaei,”“Candidatus befastevolving,andthusapreciseplacementwithinthegroups
+Bealeiaparamacronuclearis,”andrelatedsequencesofuncultured willrequirefurtheranalyses.
+organisms. OurphylogeniesshowaseparationofthetraditionalRickett-
+AsistercladetoHolosporaceae,comprisingCaedibactercaryo- sialesintotwomajorgroups,whichwoulddeservetheorderlevel:
+philus,“CandidatusNucleicultrix,”andfurtherenvironmentalse- onecontainingRickettsiaceae,Anaplasmataceae,and“Candidatus
+quences, emerged in our analyses. This clade has been already Midichloriaceae”(RAMclade),andoneconsistingof“basalRick-
+retrievedinpreviousstudies(12,44),anditsformaldescription, ettsiales.”Amongthesequencesincludedinouranalysis,several
+whichisrathercomplexduetotaxonomicissues,isongoingbut displayhighevolutionaryrates,especiallythosederivedfromen-
+notyetpublished(M.Schrallhammeretal.,unpublisheddata). vironmentalorigin.Theywereincludedinordertogetacompre-
+The family “Candidatus Paracaedibacteraceae” has recently hensiveandrepresentativeselectionof“basalRickettsiales”andits morf
+beenproposed,joiningendosymbioticbacteriasuchas“Candida- subclades.Asaprobableandunfortunateconsequence,thepresence
+dedaolnwoD
+7242 aem.asm.org AppliedandEnvironmentalMicrobiology December2016 Volume82 Number24
+
+DisentanglingtheTaxonomyofRickettsiales
+FIG 5Transmission electron microscopic images of “Candidatus Bealeia FIG6 TransmissionelectronmicroscopicimagesofParameciumbiaurelia
+paramacronuclearis,” as observed for Paramecium biaurelia isolates US_Bl isolateUS_Bl11III1.(A)Forthisisolate,thesecondarysymbiont“Candidatus
+11III1 and US_Bl 15I1. The symbiotic bacteria are oriented in parallel, in Fokiniacryptica,”indicatedbyblackarrows,wasobservedincooccurrence
+groups(A,B,andC),andwereoftenfoundassociatedwiththemacronucleus with“CandidatusBealeiaparamacronuclearis.”(B)“CandidatusBealeiapara-
+(CandD),sometimesevenlyinginitsfolds(D).Whitearrowheadsindicate macronuclearis”wasfrequentlysurroundedbyhostlysosomes(whiteaster-
+thenuclearenvelope.Scalebars,0.5(cid:5)m(A,B,andC)or1.0(cid:5)m(D). isks). (C and D) Parts of the host’s digestive vacuole (food vacuole [FV])
+containingbacteriamorphologicallysimilarto“CandidatusBealeiaparama-
+cronuclearis”wereseentobudoff,producingvesiclesenclosingthem.Scale
+bars,0.5(cid:5)m(A,B,andD)or1.0(cid:5)m(C).
+ofsuchfast-evolvingsequencescanalsoproduceinstabilitiesinphy-
+logeneticreconstructionsandislikelycausingrelativelylowersup-
+portvaluesofsomebranchesintheMLtree(Fig.2)comparedto
+otherpreviouslypublishedstudies(11,17,44,47,48). encesarealreadyevident.Fromanecologicalpointofview,the
+Themembersofeachmajorgroupdisplayawiderangeofidentity hostrangeofdescribedorganismsappearstoinclude,withamuch
+valuesintheirprokaryoticSSUrRNAgenes(seeTableS1inthesup- higherprevalence,aquaticorganisms(55)andinparticularpro-
+plementalmaterial).Withineachgroup,theaverageidentitiesare tists(e.g.,12,43,44,49,52,53).Also,atagenomiclevel,thenine .452.01.4.19
+abovethethresholdretrievedbyYarzaandcolleagues(46),limiting genomesequencescurrentlyavailableforHolosporalesviaNCBI
+orders,althoughsomevalueswerefoundbelowthisthreshold.These areoverallsignificantlylarger(1.1to2.85Mb)thantypicalRickett-
+unusualvaluescontributetothehighvariabilitypresentwithineach sialessensustrictosequences(mostlyintherange1to1.5Mb)(9).
+yb
+groupandcanbeattributedaswelltothenumerousSSUrRNAse- Rickettsialessensuscrictohavebeenstudiedquiteextensivelyfor
+3202
+quenceswithhighevolutionaryrates. the mechanisms of interaction with the host, such as secretion
+Takingintoaccountwhatwehavereportedhere,weproposeto systems and effectors (56–59). On the contrary, even in model rebmetpeS
+establishtheorderHolosporalesord.nov.(accordingtoFerlaetal. organismssuchasHolosporaandCaedibacter(60,61),Holospora-
+[11]), including the four family-level clades Holosporaceae, the lesarestillpoorlyinvestigatedinthisrespect.Hopefully,futurestud-
+Caedibacter-Nucleicultrix clade, “Candidatus Paracaedibacter- iesprovidingadditionaldatawilloffernewinsightsonthefeaturesof
+12
+aceae”includingassociatedsequences,and“CandidatusHepatin- HolosporalesandthedifferenceswithRickettsialessensustricto.
+no
+colaceae.”Aspreviouslyanticipated,furtheranalysesareneeded Lifeinatriangularrelationship.Onlyafewreportsofmulti-
+mea/lanruoj/gro.msa.slanruoj//:sptth
+toclarifyboththeinternalrelationshipswithintheorderHolospo- ple infections of ciliates are available in the literature. Spirosto-
+rales (in particular for what concerns “Candidatus Hepatin- mumminus(Heterotrichea)wasfoundwithbacteriacolonizing
+colaceae”)andtherelationshipofHolosporaleswithrespecttothe boththecytoplasmandthemacronucleus(20,22).Euplotesspp.
+RickettsialessensustrictohereindefinedandtoallotherAlphapro- (Spirotrichea)infectedbyPolynucleobacternecessariusandother
+teobacteriaingeneral.Nevertheless,weemphasizethattoourbest bacteriahavebeenreportedaswell(16,24,62);theEuplotesae-
+knowledgethevastmajorityofpublishedanalyses(allexceptthe diculatusisolateInfromNewDelhi(India)borethreedifferent
+studybyHessandcolleagues[44])agreeamongthemselvesand cytoplasmic endosymbionts (18, 29, 63) beyond P. necessarius
+withusonthedelineationofHolosporalesasamonophyleticclade, (64).InParamecium,multipleinfectionsoftenoccurincombina-
+thereforeofferingadequatesupportforitselevationtotheorder tion with infectious Holospora species inhabiting the macro- or
+rank. Additionally, although the available data on Holosporales micronucleusofP.caudatum,orevenincombinationwithother
+(otherthan16SrRNAgenesequences)areoverallmuchscarcerthan cytoplasmicbacteria.SomeauthorshavesuggestedthatHolospora morf
+thoseforRickettsialessensustricto,somequitewell-defineddiffer- can act as a vector for other bacteria, including food bacteria,
+dedaolnwoD
+December2016 Volume82 Number24 AppliedandEnvironmentalMicrobiology aem.asm.org 7243
+
+Szokolietal.
+facilitatingtheirentranceintothehost(20,65).Onthecontrary, mightbehorizontallytransferred,asforHolosporaand“Candida-
+the presence of symbiotic chlorellae in P. bursaria is generally tusGortziainfectiva”(47,61).
+consideredprotectiveagainstinfectionsbyothercytoplasmicen- “Candidatus Fokinia cryptica” showed several similarities to
+dosymbionts;nevertheless,severalreportsareavailableofbacte- the formerly described species “Candidatus Fokinia solitaria”
+rialendosymbiontscoexistingwiththosesymbioticalgaeinthe (33),notonlyonamolecularlevelbutalsomorphologically:both
+sameP.bursariahost,suchas“Holosporaacuminata”(reviewedin speciesappearedasverysmall,electron-lucidbacteriainelectron
+reference21),Pseudocaedibacterchlorellopellens(7,60),and“Can- micrographs. However, whereas “Candidatus Fokinia solitaria”
+didatusSonneborniayantaiensis”(66). wasrestrictedtoanarrowlayeratthehostcortex,probablyavoid-
+Ithasbeensuggestedthatifendosymbiontscolonizedifferent inghostdefensemechanisms(33),“CandidatusFokiniacryptica”
+compartments, they probably depend on different metabolites wasnotobservedstrictlyinthecortexbutoccasionallyalsointhe
+and,therefore,donotcompetedirectlywitheachother(21).The host endoplasm. Moreover, in contrast to “Candidatus Fokinia
+interactions among the host and its symbionts perhaps become solitaria,”“CandidatusFokiniacryptica”showedahost-derived
+morecomplicatedifthesamecellcompartmentiscolonized.An- symbiontophorousvacuole,whichisprobablyprotectiveagainst
+other S. minus isolate bore five different symbiotic bacteria, of xenophagy,thusallowingthebroaderdistributioninthehosten-
+whichthreewerefoundinthecytoplasm(20,22).Thesymbionts doplasm.Interestingly,thefinestructureof“CandidatusFokinia
+werelostduringthemaintenanceoftheisolateunderlaboratory cryptica”andthepresenceofthesymbiontophorousvacuolere-
+conditions, indicating the instability of these symbiotic associa- sembledthedescriptionsofGammaparticles,laterdenominated
+tions. Multiple infections are probably more frequent than we PseudocaedibacterminutusfromParameciumoctaurelia,firstde-
+know,butduetocompetitionandotherfactors(e.g.,stressreac- scribedbyPreerandcoauthors(69).However,inthelattercase,
+tionand/orhostdefensemechanisms),onlyafewhavebeenob- themembranesurroundingtheendosymbiontwasdenselycov-
+servedandevenfewerarestableunderlaboratoryconditionsover ered with ribosomes and the host demonstrated a strong killer
+time.Inthecasesofstableinfections,thedifferentendosymbionts effect.AnyreferencecelllinesbearingPseudocaedibacterminutus
+may be in a balanced competition with each other, resulting in arenolongeravailablefromculturecollections,andsothisissue
+their persistent cooccurrence. A different explanation was pro- willremainopen.
+posedbyGörtz(21),whosuggestedthatthebacteriacouldhave Conclusions.Observationsofdoubleormultipleinfectionsof
+favorableeffectsoneachother.Itisnotclearwhether“Candidatus ciliatesbyendosymbiontsarerelativelyrare.Onlyafewreports
+Bealeia paramacronuclearis” and “Candidatus Fokinia cryptica” areavailable(16,20–24).InP.biaureliaisolateUS_Bl11III1,we
+interactinabeneficialwaywitheachotherorwiththeirhost,orif havefoundastabledoubleinfectionofnovelendosymbioticbac-
+they live in balanced competition. However, they appear to be teria.Fromourobservations,both“CandidatusBealeiaparama-
+adaptedtotheirthree-partnersymbioticsystemanddonotnec- cronuclearis”and“CandidatusFokiniacryptica”occurtogether
+essarilycompeteforresources.Thiscouldbeareasonableexpla- inthehost’scytoplasm—nowfor4yearsunderlaboratorycondi-
+nationforthelong-termstabilityoftheirdoubleinfection.Future tions—andhenceliveinstableassociationwithinthesamehost
+analyses, possibly performed on (meta-)genomic sequences, compartment.Thus,thebacteriamaybedifferentintheirmeta-
+couldhelpinclarifyingtheroleofeachsymbiontandtheinterac- bolicrequirements,andtheircooccurrencemustnotharmPara-
+tionsamongthemandwiththehost. meciumtotheextentthatextinctionofeitherthehostoroneofits
+“CandidatusBealeiaparamacronuclearis”wasoftenfoundin symbiontsoccurs.
+associationwiththehostmacronucleus.Itisintriguingtoobserve Ourphylogeneticresultssupporttheappropriatenessofsepa- .452.01.4.19
+thatmostbacteriadescribedwithinHolosporaceae(sensuinthis rating all “basal Rickettsiales” from the order Rickettsiales sensu
+report)shownuclearformsoratleastnucleus-associatedforms. strictotoformtheneworderHolosporalesord.nov.(accordingto
+Referringtothecloseassociationof“CandidatusBealeiaparama- Ferlaetal.[11]).Consequently,theorderRickettsialesnowcon-
+yb
+cronuclearis”withthehost’smacronucleus,weproposethename sistssolelyoftheRAMcladefamiliesRickettsiaceae,Anaplasmata-
+3202
+“CandidatusBealeiaparamacronuclearis,”inaccordancewiththe ceae,and“CandidatusMidichloriaceae.”Furthermore,wesuggest
+guidelinesoftheInternationalCommitteeonSystematicBacteri- broadeningthebordersofthefamilyHolosporaceae,asdefinedby rebmetpeS
+ology (67). Furthermore, we honor Geoffrey Herbert Beale (11 Boscaroandcoworkers(47),byincludingthegenera“Candidatus
+June1913to16October2009),aprominentBritishgeneticistwho Paraholospora,” “Candidatus Hepatobacter,” and “Candidatus
+didseminalworkonParameciumanditssymbionts. Bealeia,”aswellasallassociatedenvironmentalsequences.More-
+12
+Electron micrographs of “Candidatus Bealeia paramacronu- over,weidentifiedanewfamily-levelcladethatincludesthe“Can-
+no
+clearis”suggestthepossibilitythatthebacteriumisabletoescape didatus Hepatincola porcellionum” sequence, which we have
+mea/lanruoj/gro.msa.slanruoj//:sptth
+foodvacuolesbydeformingthemembraneanddisassociatinga named “Candidatus Hepatincolaceae.” Members of this clade
+portionfromthemainfoodvacuole(Fig.6CandD).Later,the showelevatedevolutionaryratesintheirrRNAgenesequences,
+bacteriumseemstoescapefromthehostvacuole,sincewenever resultinginanunstablepositioningwithinHolosporales.Genome
+finditenclosedbyamembranewheninthecytoplasm.Unfortu- analysesofournovelendosymbiontspeciesandothermembersof
+nately,nomorphologicallydistinguishableinfectiousformswere theordersRickettsialesandHolosporaleswillbenecessarytoun-
+observed, and preliminary infection experiments using cell ly- ambiguouslyresolvethephylogeneticpositionofthesetwoorders
+sates, similar to those used for Holospora (modified from the andtorevealthesecretsofmultipleendosymbiont-hostinterac-
+methodsdescribedbyMagalonetal.[68])havesofarfailed(data tions.
+not shown). Despite the absence of experimental evidence, the Emendeddescriptionof“CandidatusFokinia”Szokolietal.
+occurrenceoffoursequencescloselyrelatedto“CandidatusBea- (2016).“CandidatusFokinia”(Fo.ki’ni.aso.li.ta’ri.a;N.L.fem.n.
+leia paramacronuclearis” in different types of habitats (marine, Fokinia,inhonorofSergeiI.Fokin).Thedescriptionof“Candi- morf
+wastewater, and extreme habitats) suggests that this bacterium datusFokinia”(33)isemendedasfollows:FISHexperimentscon-
+dedaolnwoD
+7244 aem.asm.org AppliedandEnvironmentalMicrobiology December2016 Volume82 Number24
+
+DisentanglingtheTaxonomyofRickettsiales
+firmed the genus specificity of the oligonucleotide probes Fo- “Ca.Hepatincola”typegenusofthefamily;suff.-aceaeendingto
+kinia_434andFokinia_1250(33),withbothknownspeciesofthe denoteafamily;N.L.fem.pl.n.“CandidatusHepatincolaceae”the
+genus,“CandidatusFokiniasolitaria”(typespecies)and“Candi- familyofgenus“CandidatusHepatincola”).
+datusFokiniacryptica.” Thefamily“CandidatusHepatincolaceae”isdefinedbasedon
+Descriptionof“CandidatusFokiniacryptica”sp.nov.“Can- phylogenetic analysis of SSU rRNA gene sequences of the type
+didatusFokiniacryptica”(cryp’ti.ca.N.L.fem.n.kryptikóshid- genus and uncultured representatives from various environ-
+den).Shortrod-likebacterium(1.1by0.35to0.40(cid:5)minsize). ments;mostofthesequencesareapparentlyassociatedwithEcdy-
+Cytoplasmic endosymbiont of the ciliate Paramecium biaurelia sozoa. The family currently contains one genus, “Candidatus
+(Oligohymenophorea, Ciliophora), residing in symbiontopho- Hepatincola”(45).
+rousvacuoles.Basisofassignment:SSUrRNAgenesequence(ac- Description of Holosporales ord. nov. Holosporales (Ho.lo
+cessionnumberKU736846)andapositivematchwiththespecific .spo.ra’les.N.L.fem.n.Holosporatypegenusoftheorder;suff.
+FISHoligonucleotideprobeFokCry_198(5=-CTCGCAGTAACA -ales ending to denote order; N.L. fem. pl. n. Holosporales the
+TTGCTGC-3=).Belongsto“CandidatusMidichloriaceae”family, orderofgenusHolospora).
+order Rickettsiales, class Alphaproteobacteria. Identified in Para- Defined by phylogenetic analyses based on SSU rRNA gene
+meciumbiaureliaisolateUS_Bl11III1fromasmallpondinthe sequences. The order contains three families (Holosporaceae,
+MillerShowersParkinBloomington,IN.Unculturedthusfar. “Candidatus Paracaedibacteraceae,” and “Candidatus Hepatin-
+Descriptionof“CandidatusBealeia”gen.nov.“Candidatus colaceae”), and the Caedibacter-Nucleicultrix clade, including
+Bealeia”(Bea’lei.a.N.L.fem.n.BealeianamedinhonorofGeof- Caedibacter caryophilus, Caedibacter varicaedens, “Caedibacter
+freyHerbertBeale(11June1913to16October2009). macronucleorum” (all endosymbionts of Paramecium species),
+The new genus encompasses endosymbiotic bacteria associ- “CandidatusNucleicultrixamoebiphila”(endosymbiontofHart-
+atedwiththeciliateParameciumbiaurelia.Belongstothefamily mannellasp.),andseveralunculturedsequences.TheorderHo-
+Holosporaceae within the order Holosporales, class Alphaproteo- losporalesisamemberoftheclassAlphaproteobacteria.Thetype
+bacteria.Thetypespeciesofthegenusis“CandidatusBealeiapara- genusisHolospora.
+macronuclearis.”
+Descriptionof“CandidatusBealeiaparamacronuclearis”sp. ACKNOWLEDGMENTS
+nov. “Candidatus Bealeia paramacronuclearis” (pa.ra.ma.cro.nu
+StudieswerepartlyperformedusingtheequipmentoftheCoreFacility
+.cle.a’ris.Gr.prep.para,beside;L.masc.n.macronucleusvegetative
+CentersforMicroscopyandMicroanalysisandforMolecularandCell
+nucleusofciliates;N.L.fem.n.paramacronuclearisoccurringbe-
+TechnologiesofSt.PetersburgStateUniversity(Russia).WethankKon-
+sidethemacronucleus). stantin Benken for his help with confocal laser scanning microscropy,
+CytoplasmicendosymbiontoftheciliateParameciumbiaurelia YanaEglitforhersupportinfieldworkandsampletaking,andMarcel
+(Oligohymenophorea, Ciliophora). Rod-like bacterium (1.8 to OliverKrollforperforminginfectionexperiments.CompetentTOP10E.
+2.4(cid:5)mby0.4to0.5(cid:5)minsize)withanelectron-densecytoplasm colicellsforcloningwerekindlyprovidedbytheworkgroupofM.Bach-
+andconspicuousribosomesandnucleoid.Devoidofflagella.Of- mann(InstituteofImmunology,TechnischeUniversitätDresden).Spe-
+tenformsclustersofupto7or8cells,generallyincloseproximity cialthanksareduetoRosselló-Móraforhisadviceontaxonomicdescrip-
+tions and to the anonymous reviewers who helped to improve the
+tothehostmacronucleus.Basisofassignment:SSUrRNAgene
+manuscriptsignificantly.
+sequence(accessionnumber:KU736844)andpositivematchwith
+thespecies-specificFISHoligonucleotideprobeBealeia_1245(5=- .452.01.4.19
+FUNDINGINFORMATION
+CCTATTGCTTCCTTTTGTCAC-3=). Identified in Paramecium
+Thiswork,includingtheeffortsofFranziskaSzokoli,ElenaSabaneyeva,
+biaurelia isolate US_Bl 11III1 from a small pond in the Miller
+MartinaSchrallhammer,SaschaKrenek,andGiulioPetroni,wasfunded
+ShowersParkinBloomington,IN,andisolateUS_Bl15I1from
+by European Commission (EC) (FP7-PEOPLE-2009-IRSES project yb
+YellowwoodLake(JohnFloydHollow,IN).TypestrainisUS_Bl
+CINARPATHOBACTER(projectnumber247658)).Thiswork,includ- 3202
+11III1.Thusfar,uncultured. ingtheeffortsofElenaSabaneyeva,wasfundedbyEuropeanCommission
+EmendeddescriptionofthefamilyHolosporaceaeGörtzand (EC) (FP7-PEOPLE-2011-IRSES project CARBALA (project number rebmetpeS
+Schmidt(2005).Holosporaceae(Ho.lo.spo.ra’ce.ae.N.L.fem.n. 295176)). This work, including the efforts of Franziska Szokoli, was
+Holosporatypegenusofthefamily;suff.-aceaeendingtodenotea funded by European Cooperation in Science and Technology (COST)
+family; N.L. fem. pl. n. Holosporaceae the family of genus Ho- (BM1102).Thiswork,includingtheeffortsofMartinaSchrallhammer,
+12
+lospora). was funded by Volkswagen Foundation (project number 84816). This
+no
+work,includingtheeffortsofFranziskaSzokoli,wasfundedbyTechnis-
+Accordingtophylogeneticanalysis,thedescriptionofthefam-
+mea/lanruoj/gro.msa.slanruoj//:sptth
+che Universität Dresden (TU Dresden) (F-003661-553-62A-2330000).
+ilyHolosporaceaeisemended.Basisofassignmenttothisfamilyis
+Thiswork,includingtheeffortsofFranziskaSzokoli,wasfundedbyUni-
+astableclusteringinphylogenetictreeswiththetypegenusHo-
+versitàdiPisa(UniPi)(COFIN2014_1).Thiswork,includingtheefforts
+losporaandnotwiththeCaedibacter-Nucleicultrixclade;showing
+of Elena Sabaneyeva, was funded by Saint Petersburg State University
+aprokaryoticSSUrRNAidentitywithHolosporahigherthan81%. (SPbU) (1.42.1454.2015). This work, including the efforts of Giulio
+Alldescribedmembersofthisfamilyareobligateintracellularbac- Petroni,wasfundedbyUniversitàdiPisa(UniPi)(PRA_2016_58).
+teria.Severalpossesstwomorphologicallydistinctformsand/or
+This work was supported by the following: University of Pisa, project
+lifecycles.ThefamilycurrentlycomprisesthegeneraHolospora,
+PRA_2016_58, to G.P.; University of Pisa, project COFIN2014_1, re-
+“CandidatusGortzia,”“CandidatusParaholospora,”“Candidatus
+search fellowship to F.S.; Technische Universität Dresden, Graduate
+Hepatobacter,”“CandidatusBealeia,”andseveralsequencesfrom
+Academy, financial support by the Exzellenzinitiative of the Deutsche
+unculturedorganisms.TypegenusisHolospora(49). ForschungsgemeinschafttoF.S.;EuropeanCommissionFP7-PEOPLE-
+Description of “Candidatus Hepatincolaceae” fam. nov. 2009-IRSESprojectCINARPATHOBACTER(247658)mobilitysupport morf
+“CandidatusHepatincolaceae”(He.pat.in.co.la’ce.ae,N.L.fem.n. toG.P.,E.S.,F.S.,M.S.,andS.K.;EuropeanCommissionFP7-PEOPLE-
+dedaolnwoD
+December2016 Volume82 Number24 AppliedandEnvironmentalMicrobiology aem.asm.org 7245
+
+Szokolietal.
+2011-IRSESprojectCARBALA(295176)mobilitysupporttoE.S.;COST novelciliateendosymbiontsbelongingtothe“Midichloriaclade.”Microb
+actionBM1102mobilitysupporttoF.S.;Volkswagenfoundation(project Ecol65:302–310.
+number84816)fundingtoM.S.;RFFIgrantnumber15-04-06410general 19. BoscaroV,SchrallhammerM,BenkenKA,KrenekS,SzokoliF,Beren-
+donk TU, Schweikert M, Verni F, Sabaneyeva E, Petroni G. 2013.
+researchcoststoE.S.;andSPbUgrant1.42.1454.2015mobilitysupportto
+RediscoveringthegenusLyticum,multiflagellatedsymbiontsoftheorder
+E.S.Thefundershadnoroleinstudydesign,datacollectionandanalysis,
+Rickettsiales.SciRep3:3305.
+decisiontopublish,orpreparationofthemanuscript.
+20. Fokin SI, Schweikert M, Görtz H-D, Fujishima M. 2003. Bacterial
+endocytobiontsofCiliophora.Diversityandsomeinteractionswiththe
+REFERENCES host.EurJProtistol39:475–480.
+1. PreerLB,JurandA,PreerJR,RudmanBM.1972.Theclassesofkappa 21. Görtz H-D. 1987. Different endocytobionts simultaneously colonizing
+inParameciumaurelia.JCellSci11:581–600. ciliatecells.AnnNYAcadSci503:261–268.http://dx.doi.org/10.1111/j
+2. FokinSI.2004.BacterialendocytobiontsofCiliophoraandtheirinterac- .1749-6632.1987.tb40613.x.
+tionswiththehostcell.IntRevCytol236:181–249.http://dx.doi.org/10 22. Fokin SI, Schweikert M, Brümmer F, Görtz H-D. 2005. Spirostomum
+.1016/S0074-7696(04)36005-5. spp.(Ciliophora,Protista),asuitablesystemforendocytobiosisresearch.
+3. FujishimaM(ed).2009.EndosymbiontsinParamecium.Microbiology Protoplasma225:93–102.http://dx.doi.org/10.1007/s00709-004-0078-y.
+monographs12.Springer,Berlin,Germany. 23. Schrallhammer M, Ferrantini F, Vannini C, Galati S, Schweikert M,
+4. GörtzH-D.2010.Microbialinfectionsinfree-livingprotozoa.CritRevIm- Görtz HD, Verni F, Petroni G. 2013. ‘Candidatus Megaira polyxeno-
+munol30:95–106.http://dx.doi.org/10.1615/CritRevImmunol.v30.i1.70. phila’gen.nov.,sp.nov.:considerationsonevolutionaryhistory,host
+5. FokinSI.2012.Frequencyandbiodiversityofsymbiontsinrepresenta- rangeandshiftofearlydivergentrickettsiae.PLoSOne8:e72581.http://dx
+tivesofthemainclassesofCiliophora.EurJProtistol48:138–148.http: .doi.org/10.1371/journal.pone.0072581.
+//dx.doi.org/10.1016/j.ejop.2011.12.001. 24. SenraMVX,DiasRJP,CastelliM,Silva-NetoID,VerniF,SoaresCAG,
+6. FokinSI,GörtzH-D.2009.DiversityofHolosporabacteriainParame- PetroniG.2016.Ahousefortwo:doublebacterialinfectioninEuplotes
+ciumandtheircharacterization,p161–199.InFujishimaM(ed),Endo- woodruffiSq1(Ciliophora,Euplotia)sampledinsoutheasternBrazil.Mi-
+symbiontsinParamecium.Microbiologymonographs12.Springer,Ber- crobEcol71:505–517.http://dx.doi.org/10.1007/s00248-015-0668-6.
+lin,Germany. 25. KrenekS,BerendonkTU,PetzoldtT.2011.Thermalperformancecurves
+7. GörtzH-D,FokinSI.2009.DiversityofendosymbioticbacteriainPar- of Paramecium caudatum: a model selection approach. Eur J Protistol
+amecium,p131–160.InFujishimaM(ed),EndosymbiontsinParame- 47:124–137.http://dx.doi.org/10.1016/j.ejop.2010.12.001.
+cium.Microbiologymonographs12.Springer,Berlin,Germany. 26. Fokin SI. 2010. Paramecium genus: biodiversity, some morphological
+8. Garrity GM, Bell JA, Lilburn T. 2005. Class I. Alphaproteobacteria, p featuresandthekeytothemainmorphospeciesdiscrimination.Protistol-
+96–160.InBrennerDJ,KriegNR,StaleyJT,GarrityGM(ed),Bergey’s ogy6:227–235.
+manualofsystematicbacteriology,2nded,vol2.Springer,NewYork,NY. 27. PetroniG,DiniF,VerniF,RosatiG.2002.Amolecularapproachtothe
+9. GillespieJJ,NordbergEK,AzadAF,SobralBWS.2012.Phylogenyand tangledintragenericrelationshipsunderlyingphylogenyinEuplotes(Cil-
+comparativegenomics:theshiftinglandscapeinthegenomicsera,p84– iophora,Spirotrichea).MolPhylogenetEvol22:118–130.http://dx.doi
+141.InPalmerGH,AzadAF(ed),PathogensII.Rickettsiales.ASMPress, .org/10.1006/mpev.2001.1030.
+Washington,DC. 28. BarthD,KrenekS,FokinSI,BerendonkTU.2006.Intraspecificgenetic
+10. GeorgiadesK,MadouiM-A,LeP,RobertC,RaoultD.2011.Phylogenomic variationinParameciumrevealedbymitochondrialcytochromecoxidase
+analysisofOdyssellathessalonicensisfortifiesthecommonoriginofRickett- Isequences.JEukaryotMicrobiol53:20–25.http://dx.doi.org/10.1111/j
+siales, Pelagibacter ubique and Reclimonas americana mitochondrion. .1550-7408.2005.00068.x.
+PLoSOne5:e24857.http://dx.doi.org/10.1371/journal.pone.0024857. 29. BoscaroV,FokinSI,VerniF,PetroniG.2012.SurveyofParamecium
+11. Ferla MP, Thrash JC, Giovannoni SJ, Patrick WM. 2013. New rRNA duboscquiusingthreemarkersandassessmentofthemolecularvariability
+gene-basedphylogeniesoftheAlphaproteobacteriaprovideperspectiveon inthegenusParamecium.MolPhylogenetEvol65:1004–1013.http://dx
+majorgroups,mitochondrialancestryandphylogeneticinstability.PLoS .doi.org/10.1016/j.ympev.2012.09.001.
+One8:e83383.http://dx.doi.org/10.1371/journal.pone.0083383. 30. RosatiG,ModeoL,MelaiM,PetroniG,VerniF.2004.Amultidisci-
+12. SchulzF,MartijnJ,WascherF,LagkouvardosI,KostanjšekR,Ettema plinaryapproachtodescribeprotists:amorphological,ultrastructural,
+.452.01.4.19
+TJG,HornM.2016.ARickettsialessymbiontofamoebaewithancient andmolecularstudyonPeritromuskahliVilleneuve-Brachon,1940(Cil-
+features. Environ Microbiol 18:2326–2342. http://dx.doi.org/10.1111 iophora, Heterotrichea). J Eukaryot Microbiol 51:49–59. http://dx.doi
+/1462-2920.12881. .org/10.1111/j.1550-7408.2004.tb00160.x.
+13. LoN,BeninatiT,SasseraD,BoumanEAP,SantagatiS,GernL,Sambri 31. DonRH,CoxPT,WainwrightBJ,BakerK,MattickJS.1991.‘Touch-
+V,MasuzawaT,GrayJS,JaensonTGT,BouattourA,KennyMJ,Guner down’PCRtocircumventspuriousprimingduringgeneamplification. yb
+ES,KharitonenkovIG,BitamI,BandiC.2006.Widespreaddistribution NucleicAcidsRes19:4008.http://dx.doi.org/10.1093/nar/19.14.4008. 3202
+andhighprevalenceofanalpha-proteobacterialsymbiontinthetickIx- 32. VanniniC,RosatiG,VerniF,PetroniG.2004.Identificationofthe
+odesricinus.EnvironMicrobiol8:1280–1287.http://dx.doi.org/10.1111/j bacterial endosymbionts of the marine ciliate Euplotes magnicirratus rebmetpeS
+.1462-2920.2006.01024.x. (Ciliophora,Hypotrichia)andproposalof‘CandidatusDevosiaeuplo-
+14. SasseraD,BeninatiT,BandiC,BoumanEAP,SacchiL,FabbiM,LoN. tis.’IntJSystEvolMicrobiol54:1151–1156.http://dx.doi.org/10.1099/ijs
+2006.‘CandidatusMidichloriamitochondrii’,anendosymbiontofthetick .0.02759-0.
+Ixodesricinuswithauniqueintramitochondriallifestyle.IntJSystEvol 33. Szokoli F, Sabaneyeva E, Castelli M, Krenek S, Schrallhammer M,
+12
+Microbiol58:2535–2540.http://dx.doi.org/10.1099/ijs.0.64386-0. SoaresCAG,daSilva-NetoID,BerendonkTU,PetroniG.2016.“Can-
+no
+15. EpisS,SasseraD,BeninatiT,LoN,BeatiL,PiesmanJ,RinaldiL,McCoy didatus Fokinia solitaria,” a novel “stand-alone” symbiotic lineage of
+mea/lanruoj/gro.msa.slanruoj//:sptth
+KD,TorinaA,SacchiL,ClementiE,GenchiM,MagninoS,BandiC.2008. Midichloriaceae(Rickettsiales).PLoSOne11:e0145743.http://dx.doi.org
+Midichloriamitochondriiiswidespreadinhardticks(Ixodidae)andresides /10.1371/journal.pone.0145743.
+inthemitochondriaofphylogeneticallydiversespecies.Parasitology135:485– 34. Neilan BA, Jacobs D, del Dot T, Blackall LL, Hawkins PR, Cox PT,
+494.http://dx.doi.org/10.1017/S0031182007004052. GoodmanAE.1997.rRNAsequencesandevolutionaryrelationshipsamong
+16. VanniniC,FerrantiniF,SchleiferK-H,LudwigW,VerniF,PetroniG. toxicandnontoxiccyanobacteriaofthegenusMicrocystis.IntJSystBacteriol
+2010. “Candidatus Anadelfobacter veles” and “Candidatus Cyrtobacter 47:693–697.http://dx.doi.org/10.1099/00207713-47-3-693.
+comes,”twonewRickettsialesspecieshostedbytheprotistciliateEuplotes 35. AmannRI,BinderBJ,OlsonRJ,ChisholmSW,DevereuxR,StahlDA.
+harpa(Ciliophora,Spirotrichea).ApplEnvironMicrobiol76:4047–4054. 1990. Combination of 16S ribosomal-RNA-targeted oligonucleotide
+http://dx.doi.org/10.1128/AEM.03105-09. probeswithflowcytometryforanalyzingmixedmicrobialpopulations.
+17. Driscoll T, Gillespie JJ, Nordberg EK, Azad AF, Sobral BW. 2013. ApplEnvironMicrobiol56:1919–1925.
+BacterialDNAsiftedfromtheTrichoplaxadhaerens(Animalia:Placozoa) 36. QuastC,PruesseE,YilmazP,GerkenJ,SchweerT,YarzaP,PepliesJ,
+genomeprojectrevealsaputativerickettsialendosymbiont.GenomeBiol GlöcknerFO.2013.TheSILVAribosomalRNAgenedatabaseproject:
+Evol5:621–645.http://dx.doi.org/10.1093/gbe/evt036. improved data processing and web-based tools. Nucleic Acids Res 41:
+18. BoscaroV,PetroniG,RistoriA,VerniF,VanniniC.2013.“Candidatus D590–D596.http://dx.doi.org/10.1093/nar/gks1219. morf
+Defluviella procrastinata” and “Candidatus Cyrtobacter zanobii,” two 37. ColeJR,WangQ,CardenasE,FishJ,ChaiB,FarrisRJ,Kulam-Syed-
+dedaolnwoD
+7246 aem.asm.org AppliedandEnvironmentalMicrobiology December2016 Volume82 Number24
+
+DisentanglingtheTaxonomyofRickettsiales
+MohideenAS,McGarrellDM,MarshT,GarrityGM,TiedjeJM.2009. Appl Environ Microbiol 69:5512–5518. http://dx.doi.org/10.1128/AEM
+TheRibosomalDatabaseProject:improvedalignmentsandnewtoolsfor .69.9.5512-5518.2003.
+rRNA analysis. Nucleic Acids Res 37:D141–D145. http://dx.doi.org/10 54. EschbachE,PfannkuchenM,SchweikertM,DrutschmannD,Brüm-
+.1093/nar/gkn879. mer F, Fokin SI, Ludwig W, Görtz H-D. 2009. “Candidatus Parahol-
+38. Ludwig W, Strunk O, Westram R, Richter L, Meier H, Yadhukumar osporanucleivisitans,”anintracellularbacteriuminParameciumsexaure-
+BuchnerA,LaiT,SteppiS,JobbG,FörsterW,BrettskeI,GerberS, liashuttlesbetweenthecytoplasmandthenucleusofitshost.SystAppl
+GinhartAW,GrossO,GrumannS,HermannS,JostR,KönigA,Liss Microbiol32:490–500.http://dx.doi.org/10.1016/j.syapm.2009.07.004.
+T,LüßmannR,MayM,NonhoffB,ReichelB,StrehlowR,Stamatakis 55. NunanLM,PantojaCR,Gomez-JimenezS,LightneraDV.2013.“Can-
+A,StuckmannN,VilbigA,LenkeM,LudwigT,BodeA,SchleiferK-H. didatusHepatobacterpenaei,”anintracellularpathogenicentericbacte-
+2004.ARB:asoftwareenvironmentforsequencedata.NucleicAcidsRes rium in the hepatopancreas of the marine shrimp Penaeus vannamei
+32:1363–1371.http://dx.doi.org/10.1093/nar/gkh293. (Crustacea:Decapoda).ApplEnvironMicrobiol79:1407–1409.http://dx
+39. DarribaD,TaboadaGL,DoalloR,PosadaD.2012.jModelTest2:more .doi.org/10.1128/AEM.02425-12.
+models,newheuristicsandparallelcomputing.NatMethods9:772.http: 56. GillespieJJ,BraytonKA,WilliamsKP,QuevedoDiazMA,BrownWC,
+//dx.doi.org/10.1038/nmeth.2109. AzadAF,SobralBW.2010.PhylogenomicsrevealsadiverseRickettsiales
+40. GuindonS,GascuelO.2003.Asimple,fast,andaccuratealgorithmto typeIVsecretionsystem.InfectImmun78:1809–1823.http://dx.doi.org
+estimatelargephylogeniesbymaximumlikelihood.SystBiol52:696–704. /10.1128/IAI.01384-09.
+http://dx.doi.org/10.1080/10635150390235520. 57. GillespieJJ,PhanIQH,DriscollTP,GuillotteML,LehmanSS,Rennoll-
+41. RonquistF,TeslenkoM,vanderMarkP,AyresDL,DarlingA,Höhna Bankert KE, Subramanian S, Beier-Sexton M, Myler PJ, Sayeedur
+D,LargetB,LiuL,SuchardMA,HuelsenbeckJP.2012.MrBayes3.2: Rahman M, Azad AF. 2016. The Rickettsia type IV secretion system:
+efficientBayesianphylogeneticinferenceandmodelchoiceacrossalarge unrealizedcomplexitymiredbygenefamilyexpansion.PathogDis74:
+model space. Syst Biol 61:539–542. http://dx.doi.org/10.1093/sysbio ftw058.http://dx.doi.org/10.1093/femspd/ftw058.
+/sys029. 58. Rikihisa Y, Lin M. 2010. Anaplasma phagocytophilum and Ehrlichia
+42. Springer N, Ludwig W, Amann R, Schmidt HJ, Görtz H-D, Schleifer chaffeensistypeIVsecretionandAnkproteins.CurrOpinMicrobiol13:
+59–66.http://dx.doi.org/10.1016/j.mib.2009.12.008.
+K-H.1993.Occurrenceoffragmented16SrRNAinanobligatebacterial
+59. Sassera D, Lo N, Epis S, D’Auria G, Montagna M, Comandatore F,
+endosymbiontofParameciumcaudatum.ProcNatlAcadSciUSA90:
+Horner D, Pereto J, Luciano AM, Franciosi F, Ferri E, Crotti E,
+9892–9895.http://dx.doi.org/10.1073/pnas.90.21.9892.
+Bazzocchi C, Daffonchio D, Sacchi L, Moya A, Latorre A, Bandi C.
+43. SchulzF,LagkouvardosI,WascherF,AistleitnerK,KostanjšekR,Horn
+2011.Phylogenomicevidenceforthepresenceofaflagellumandcbb(3)
+M.2014.Lifeinanunusualintracellularniche:abacterialsymbiontin-
+oxidaseinthefree-livingmitochondrialancestor.MolBiolEvol28:3285–
+fectingthenucleusofamoebae.ISMEJ8:1634–1644.http://dx.doi.org/10
+3296.http://dx.doi.org/10.1093/molbev/msr159.
+.1038/ismej.2014.5.
+60. SchrallhammerM,SchweikertM.2009.ThekillereffectofParamecium
+44. HessS,SuthausA,MelkonianM.2016.Characterisationof“Candidatus
+anditscausativeagents,p227–246.InFujishimaM(ed),Endosymbionts
+Finniella” (Rickettsiales, Alphaproteobacteria), novel endosymbionts of
+in Paramecium. Microbiology monographs 12. Springer, Berlin, Ger-
+viridiraptoridamoeboflagellates(Cercozoa,Rhizaria).ApplEnvironMi-
+many.
+crobiol82:659–670.http://dx.doi.org/10.1128/AEM.02680-15.
+61. FujishimaM.2009.InfectionandmaintenanceofHolosporaspeciesin
+45. Wang Y, Stingl U, Anton-Erxleben F, Zimmer M, Brune A. 2004.
+Parameciumcaudatum,p201–225.InFujishimaM(ed),Endosymbionts
+‘CandidatusHepatincolaporcellionum’gen.nov.,sp.nov.,anew,stalk-
+in Paramecium. Microbiology monographs 12. Springer, Berlin, Ger-
+forminglineageofRickettsialescolonizingthemidgutglandsofaterres-
+many.
+trial isopod. Arch Microbiol 181:299–304. http://dx.doi.org/10.1007
+62. HeckmannK,TenHagenR,GörtzHD.1983.FreshwaterEuplotesspecies
+/s00203-004-0655-7.
+witha9type1cirruspatterndependuponendosymbionts.JProtozool30:
+46. YarzaP,YilmazP,PruesseE,GlöcknerFO,LudwigW,SchleiferKH,
+284–289.http://dx.doi.org/10.1111/j.1550-7408.1983.tb02917.x.
+WhitmanWB,EuzébyJ,AmannR,Rosselló-MóraR.2014.Unitingthe
+63. VanniniC,BoscaroV,FerrantiniF,BenkenKA,MironovTI,Schweik-
+classificationofculturedandunculturedbacteriaandarchaeausing16S
+ertM,GörtzH-D,FokinSI,SabaneyevaEV,PetroniG.2014.Flagellar
+rRNAgenesequences.NatRevMicrobiol12:635–645.http://dx.doi.org
+movementintwobacteriaofthefamilyRickettsiaceae:are-evaluationof
+/10.1038/nrmicro3330. motilityinanevolutionaryperspective.PLoSOne9:e87718.http://dx.doi .452.01.4.19
+47. BoscaroV,FokinSI,SchrallhammerM,SchweikertM,PetroniG.2013.
+.org/10.1371/journal.pone.0087718.
+Revised systematics of Holospora-like bacteria and characterization of
+64. VanniniC,FerrantiniF,RistoriA,VerniF,PetroniG.2012.Betapro-
+“CandidatusGortziainfectiva,”anovelmacronuclearsymbiontofPara- teobacterialsymbiontsoftheciliateEuplotes:originandtangledevolu-
+mecium jenningsi. Microb Ecol 65:255–267. http://dx.doi.org/10.1007 tionarypathofanobligatemicrobialassociation.EnvironMicrobiol14:
+/s00248-012-0110-2. 2553–2563.http://dx.doi.org/10.1111/j.1462-2920.2012.02760.x. yb
+48. Wang Z, Wu M. 2015. An integrated phylogenomic approach toward 65. Fokin SI, Skovorodkin IN, Schweikert M, Görtz H-D. 2004. Co- 3202
+pinpointingtheoriginofmitochondria.SciRep5:7949.http://dx.doi.org infection of the macronucleus of Paramecium caudatum by free-living
+/10.1038/srep07949. bacteriatogetherwiththeinfectiousHolosporaobtusa.JEukaryotMicro- rebmetpeS
+49. Görtz H-D, Schmidt HJ. 2005. Family III. Holosporaceae fam. nov., p biol51:417–424.http://dx.doi.org/10.1111/j.1550-7408.2004.tb00388.x.
+146–149.InBrennerDJ,KriegNR,StaleyJT,GarrityGM(ed),Bergey’s 66. Gong J, Qing Y, Guo X, Warren A. 2014. “Candidatus Sonnebornia
+manualofsystematicbacteriology,2nded,vol2.Springer,NewYork,NY. yantaiensis,”amemberofcandidatedivisionOD1,asintracellularbacte-
+50. Amann RI, Springer N, Ludwig W, Görtz H-D, Schleifer K-H. 1991. ria of the ciliated protest Paramecium bursaria (Ciliophora, Oligohy- 12
+Identificationinsituandphylogenyofunculturedbacterialendosymbi- menophorea).SystApplMicrobiol37:35–41.http://dx.doi.org/10.1016/j no
+onts.Nature351:161–164.http://dx.doi.org/10.1038/351161a0. .syapm.2013.08.007. mea/lanruoj/gro.msa.slanruoj//:sptth
+51. Horn M, Fritsche TR, Gautom RK, Schleifer K-H, Wagner M. 1999. 67. StackebrandtE,FrederiksenW,GarrityGM,GrimontPAD,Kämpfer
+NovelbacterialendosymbiontsofAcanthamoebaspp.relatedtothePar- P, Maiden MCJ, Nesme X, Rosselló-Mora R, Swings J, Trüper HG,
+ameciumcaudatumsymbiontCaedibactercaryophilus.EnvironMicrobiol VauterinL,WardAC,WhitmanWB.2002.Reportoftheadhoccom-
+1:357–367.http://dx.doi.org/10.1046/j.1462-2920.1999.00045.x. mitteeforthere-evaluationofthespeciesdefinitioninbacteriology.IntJ
+52. BirtlesRJ,RowbothamTJ,MichelR,PitcherDG,LascolaB,Alexiou- Syst Evol Microbiol 52:1043–1047. http://dx.doi.org/10.1099/00207713
+DanielS,RaoultD.2000.‘CandidatusOdyssellathessalonicensis’gen. -52-3-1043.
+nov.,sp.nov.,anobligateintracellularparasiteofAcanthamoebaspecies. 68. MagalonH,NideletT,MartinG,KaltzO.2010.Hostgrowthconditions
+IntJSystEvolMicrobiol50:63–72.http://dx.doi.org/10.1099/00207713 influenceexperimentalevolutionoflifehistoryandvirulenceofaparasite
+-50-1-63. withverticalandhorizontaltransmission.Evolution64:2126–2138.http:
+53. Baker BJ, Hugenholtz P, Dawson SC, Banfield JF. 2003. Extremely //dx.doi.org/10.1111/j.1558-5646.2010.00974.x.
+acidophilicprotistsfromacidminedrainagehostRickettsiales-lineageen- 69. PreerJR,PreerLB,JurandA.1974.Kappaandotherendosymbiontsin
+dosymbiontsthathaveinterveningsequencesintheir16SrRNAgenes. Parameciumaurelia.BacteriolRev38:113–163.
+morf
+dedaolnwoD
+December2016 Volume82 Number24 AppliedandEnvironmentalMicrobiology aem.asm.org 7247
+

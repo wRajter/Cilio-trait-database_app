@@ -1,0 +1,759 @@
+RESEARCHARTICLE
+Phylogenetic and Taxonomic Revision of
+an Enigmatic Group of Haptorian Ciliates,
+with Establishment of the Kentrophyllidae
+fam. n. (Protozoa, Ciliophora, Litostomatea,
+Pleurostomatida)
+LeiWu1,JohnC.Clamp2,ZhenzhenYi1,JiqiuLi1,XiaofengLin1*
+1 LaboratoryofProtozoology,KeyLaboratoryofEcologyandEnvironmentScienceinGuangdongHigher
+Education,SouthChinaNormalUniversity,Guangzhou,510631,China,2 DepartmentofBiology,North
+CarolinaCentralUniversity,Durham,NC,27707,UnitedStatesofAmerica
+* xlin@scnu.edu.cn
+Abstract
+OPENACCESS
+Citation:WuL,ClampJC,YiZ,LiJ,LinX(2015) HaptorianciliatesinthecloselysimilargeneraKentrophyllumandEpiphyllumpossessa
+PhylogeneticandTaxonomicRevisionof
+uniquepatternofciliatureandaredistinguishedfromoneanotheronlybythepresenceor
+anEnigmaticGroupofHaptorianCiliates,with
+EstablishmentoftheKentrophyllidaefam. absenceofcytoplasmicspinesprojectingfromthemarginofthecell.Phylogeneticanalyses
+n.(Protozoa,Ciliophora,Litostomatea, basedonSSUrDNAsequencesofthreenewsamplesfromcoastalhabitatsinChinare-
+Pleurostomatida).PLoSONE10(5):e0123720.
+vealedthatspeciesinthetwogeneraclusteredtogetherindiscriminately(i.e.formsofnei-
+doi:10.1371/journal.pone.0123720
+thergenusclusteredintoanindependentclade)asamaximallysupported,monophyletic
+AcademicEditor:SenjieLin,Universityof
+cladethatbranchesbasallytoallothercladesintheorderPleurostomatidaandisstrongly
+Connecticut,UNITEDSTATES
+divergentfromothermembersofthefamilyinwhichthegenerahavebeenplaced.Asare-
+Received:November6,2014
+sult,weproposethatEpiphyllumbesynonymizedwithKentrophyllumandthatanewfamily
+Accepted:March5,2015 Kentrophyllidaefam.n.beestablishedforthegenus.Wehypothesizethatthetwo-sutures
+Published:May6,2015 ofKentrophyllumisaplesiomorphywithinthePleurostomatidaandtheuniqueperipheral
+kinetymightrepresentanautapomorphyofKentrophyllum.Inaddition,weprovideataxo-
+Copyright:Thisisanopenaccessarticle,freeofall
+copyright,andmaybefreelyreproduced,distributed, nomicrevisionofKentrophyllumincludingdescriptionofthreenewspecies(K.bispinum
+transmitted,modified,builtupon,orotherwiseused sp.n.,K.strumosumsp.n.,andK.qingdaoensesp.n.),redescriptionofK.verrucosum
+byanyoneforanylawfulpurpose.Theworkismade
+(Stokes,1893)Petzetal.,1995,andthreenewcombinations(K.soliforme(Fauré-Fremiet,
+availableundertheCreativeCommonsCC0public
+1908)comb.n.,K.hohuensis(WangandNie,1933)comb.n.andK.shenzhenense(Pan
+domaindedication.
+etal.,2010)comb.n.).ThesurfaceultrastructureofthegenusKentrophyllumisrecorded
+DataAvailabilityStatement:Somerelevantdata
+forthefirsttime.AndakeytoallknownspeciesofKentrophyllumwasalsosuggested.
+arewithinthepaperanditsSupportingInformation
+files,andtheSSUrDNAsequencesfilesare
+availablefromtheGenBankdatabase(accession
+number(s)KM025125,KM025126,KM025127).
+Funding:Financialsupportwasprovidedbythe
+NationalNaturalScienceFoundationofChina Introduction
+(projectsnumbers:31222050,31172060,31430077)
+Haptoriansareadiversegroupofpredatoryciliatescomprisingmorethan1000morphospecies
+(http://isisn.nsfc.gov.cn/egrantindex/funcindex/
+prjsearch-list).Thefundershadnoroleinstudy [1,2].Inrecentphylogeneticstudiesofhaptorians,asteadyincreaseintaxonsamplingandthe
+PLOSONE|DOI:10.1371/journal.pone.0123720 May6,2015 1/17
+
+Wuetal.—KentrophyllidCiliates
+design,datacollectionandanalysis,decisionto numberofgenesequencesandmorphologicalcharactersinanalyseshasledtoanewevaluation
+publish,orpreparationofthemanuscript. oftheirevolutionaryrelationships[1,3–9].MembersoftheorderPleurostomatidaarehaptor-
+CompetingInterests:Theauthorshavedeclared ianswithadistinctive,laterrallycompressed,flattenedbodythatarecommoninavarietyof
+thatnocompetinginterestsexist. habitatsallovertheworld[2].Theirbiodiversityiswell-documented,withover200morphospe-
+ciesassignedto12generawithintwofamiliesreportedfromavarietyofaquaticenvironments
+inEurope[2,10–18],Asia[19–31],NorthAmerica[32],andevenAntarctica[33,34].
+InthepleurostomatidfamilyAmphileptidae,therelativelysmallgeneraKentrophyllumand
+Epiphyllumcomprisefewerthan10morphospecies[10–14,19,22,32,35–38],differingfrom
+otheramphileptidsbyhavingalargenumberofsomatickinetiesformingsuturesonbothright
+andleftsidesandanextremelyelongateperioralkinetyattheperipheryofthebody[22,27,
+33].Asinglemorphologicalcharacter(absenceofspinessurroundingthemarginofthecell)
+distinguishesEpiphyllumfromKentrophyllum[22].
+Untilnow,noSSUrDNAsequencesofspeciesofKentrophyllumandonlyonespeciesof
+Epiphyllumhavebeenincludedinphylogeneticanalysesofpleurostomatidhaptorians[27].
+WewereabletoaddsequencesofanotherspeciesofEpiphyllumandtwospeciesofKentrophyl-
+lum,allowingustotestthehypothesisthatEpiphyllumandKentrophyllumconstituteseparate
+genera.Inaddition,wewereabletodeterminethephylogeneticpositionoftheKentrophyllum-
+EpiphyllumassemblageofspeciesrelativetoothermembersofthefamilyAmphileptidae.
+MaterialsandMethods
+Collectionandpreparationsofsamples
+Samplesofhabitatwaterwerecollectedfromanintertidalzoneandtwodifferentmangrove
+wetlandsin250-ml,wide-mouthbottles.Thesamplinglocationsarepublicareas,thusnospe-
+cificpermissionswererequiredtocollectthematerialsnecessaryforthepresentstudy.No
+knownendangeredorprotectedspecieswereinvolvedinthepresentstudy.
+SpecimenswereisolatedfromsubsamplesofthiswaterandcultivatedinPetridishesat
+roomtemperature(~25°C)usingricegrainstoproducegrowthofbacteriaforfood.After3–5
+days,livingcellswerepickedfromculturesandobservedatmagnificationsof100–1000×with
+brightfieldanddifferentialinterferencecontrastmicroscopy.Fixedspecimenswerestained
+withprotargolbytheWilbert[39]methodtorevealtheinfraciliature.Measurementsofstained
+specimensweremadeatamagnificationof1000×.Drawingsofstainedspecimensweremade
+withthehelpofacameralucida.Kentrophyllumqingdaoenseforscanningelectronmicroscopy
+(SEM)ispreparedaccordingtothemethoddescribedbyFoissner[40]todisclosetheultra-
+structural,inparticular,theporesofcontractilevacuolesandthespines.Terminologyandclas-
+sificationfollowLinetal.[22]andLynn[41].
+Extraction,amplification,andsequencingofDNA
+Oneorseveralcellsofeachspecieswereisolated,identifiedbymorphologicalexamination,
+washedseveraltimesinsterilizedhabitatwatertoremovecontaminants,andtransferredinto
+45μlATLbufferforextractionofgenomicDNA.ExtractionofgenomicDNA,amplificationof
+thegenecodingforSSUrDNAbyPCR,andsequencingofthisgeneineachspeciesweredone
+accordingtothemethodsofWuetal.[29].
+Phylogeneticanalyses
+SequencesofSSUrDNAusedinphylogeneticanalyseswereobtainedfromtheGenBankdata-
+base.MetopuscontortusandNyctotheroidesparvus(classArmophorea)wereselectedasout-
+grouptaxa.SequenceswerealignedwithCLUSTALWimplementedinBioeditv.7.0[42],
+PLOSONE|DOI:10.1371/journal.pone.0123720 May6,2015 2/17
+
+Wuetal.—KentrophyllidCiliates
+whichwasusedtoremoveregionsofambiguouslyalignedcharacters.Thefinalalignmentof
+1,590charactersrepresenting39taxawasusedtoconstructphylogenetictrees.
+ABayesianinference(BI)analysiswasdonewithMrBayes3.1.2[43]usingtheGTR+G+I
+evolutionarymodelindicatedbyMrModeltestv.2[44].Theprogramwasrunfor1,500,000
+generations,withtreessampledevery100generations,andthefirst3,750trees(25%)discarded
+asburn-in.Amaximumlikelihood(ML)analysiswasdonewithRAxML8.0[45],usingthe
+GTR+I+GmodelselectedbyMrModeltestv.2,obtainedthroughtheCIPRESPortalV1.15
+(http://www.phylo.org/index.php/portal/)usingdefaultparametersandbootstrappingwith
+1000replicates.AMaximum-parsimony(MP)treewasconstructedwithPAUP4.0b10[46],
+usingthedefaultparametersandthereliabilityoftheinternalbrancheswasestimatedbythe
+bootstrapmethodwith1000replicates[47].ThefollowingspecializedtermsareusedintheRe-
+sultsandDiscussion:
+Spine—threetypesofelongatecytoplasmicstructuresfoundinspeciesofKentrophyllum(Lin
+etal.[22]).
+Single-spine—slenderandstifflikeasetainlivingcells;evenlydistributedaroundthemargin
+ofthecellexceptfortheoralarea.
+Double-spine—pairofcloselyspacedsinglespinesprojectingfromthesamepointonthemar-
+ginofthecell.
+Softspine—distinctlysoftandflexibleratherthanstiff,relativelythickatthebase,andtapering
+toasharppoint;projectingsinglyorinasmallgroupof2–3fromamarginalwartrather
+thandirectlyfromthemarginofthecell.
+NomenclaturalActs
+TheelectroniceditionofthisarticleconformstotherequirementsoftheamendedInternation-
+alCodeofZoologicalNomenclature,andhencethenewnamescontainedhereinareavailable
+underthatCodefromtheelectroniceditionofthisarticle.Thispublishedworkandtheno-
+menclaturalactsitcontainshavebeenregisteredinZooBank,theonlineregistrationsystemfor
+theICZN.TheZooBankLSIDs(LifeScienceIdentifiers)canberesolvedandassociatedinfor-
+mationviewedthroughanystandardwebbrowserbyappendingtheLSIDtotheprefix“http://
+zoobank.org/”.TheLSIDforthispublicationis:urn:lsid:zoobank.org:pub:17E4EE36-70B7-
+40A2-A676-7D40913F6728.Theelectroniceditionofthisworkwaspublishedinajournal
+withanISSN,andhasbeenarchivedandisavailablefromthefollowingdigitalrepositories:
+PubMedCentral,LOCKSS.
+ResultsandDiscussion
+SSUrDNAsequences
+ThreeSSUrDNAsequencesweredepositedinGenBankwiththefollowingaccessionnumbers,
+length,GCcontentandnamesthatreflecttaxonomicconclusionsderivedfromourphyloge-
+neticanalyses:KM025125,1531bp,42.19%(Kentrophyllumbispinumsp.n.),KM025126,1539
+bp,41.85%(Kentrophyllumstrumosumsp.n.),andKM025127,1531bp,42.19%(Kentrophyl-
+lumverrucosum).
+Phylogeneticanalyses
+Treesconstructedusingdifferentalgorithmswereessentiallyidentical;thereforetheywere
+combinedtomakeasingleconsensustree(Fig1).ThemonophyleticorderPleurostomatida
+PLOSONE|DOI:10.1371/journal.pone.0123720 May6,2015 3/17
+
+Wuetal.—KentrophyllidCiliates
+Fig1.Phylogenetictreeconstructedfrom39SSUrDNAsequencesoflitostomateanciliates.Numbers
+atnodesindicatebootstrapvaluesformaximumlikelihood(ML),posteriorprobabilitiesfromBayesian
+analysis(BI)andbootstrapvaluesfrommaximumparsimony(MP),respectively.GenBankaccession
+numbersaregivenafternamesofspecies.Newlysequencedspeciesaremarkedwithared.Scalebar
+correspondstofivesubstitutionsper100nucleotidepositions.*DesignatedasKentrophyllumstrumosum
+sp.n.inpresentwork.**DesignatedasKentrophyllumshenzhenense(Panetal.,2010)comb.n.in
+presentwork.
+doi:10.1371/journal.pone.0123720.g001
+(ML/BI/MP,100/1.00/100)comprisesthreemajorclades,oneofwhichisamaximallysup-
+portedclade(ML/BI/MP,99/1.00/98)thatcontainsspeciesofLoxophyllum,Litonotus,andSir-
+oloxophyllumandcorrespondstothefamilyLitonotidaeshowninphylogeneticanalysesof
+previousstudies[1,3–9].TwospeciesofAmphileptusclusterwithaspeciesofPseudoamphilep-
+tuswithmoderatesupport(ML/BI/MP,80/0.86/64)formasecondclade.
+SpeciesofKentrophyllumandEpiphyllumformathird,maximallysupportedcladeofpleur-
+ostomatidsthatisstronglydivergentfromotheramphileptids,andseparationofEpiphyllum
+fromKentrophyllumwasnotindicatedbyourmolecularanalyses(Fig1).Epiphyllumshenzhe-
+nensewasbasaltoamaximallysupportedsubcladeofcloselysimilarsequencescontainingtwo
+speciesofKentrophyllumandonespeciesofEpiphyllum.Inthissubclade,Kentrophyllumbispi-
+numwasbasal,andanassociationofEpiphyllumsp.withK.verrucosumwasstronglysup-
+ported(ML/BI/MP,94/1.00/89).Therefore,thepresenceorabsenceofmarginalspinesisnota
+validgenericcharacter.Insummary,ourphylogeneticanalysesofthefamilyAmphileptidaein-
+dicatethatthefollowingtaxonomicchangesarenecessary:
+(cid:129) EpiphyllumismadeajuniorsubjectivesynonymofKentrophyllum.
+(cid:129) ThefamilyKentrophyllidaefam.n.isproposedforKentrophyllum-likespeciesof
+pleurostomatidciliates.
+PLOSONE|DOI:10.1371/journal.pone.0123720 May6,2015 4/17
+
+Wuetal.—KentrophyllidCiliates
+Systematictreatment
+OrderPleurostomatidaSchewiakoff,1896. FamilyKentrophyllidaefam.n.urn:lsid:
+zoobank.org:act:67599E08-B4F5-4271-9E9C-251E550C1FB6
+Typegenus.KentrophyllumPetzetal.,1995
+Diagnosis.Pleurostomatidawithmedial,right-handsomatickinetiesgraduallyshortened
+andformingsuturesbothattheanteriorandposterior.Oneperipheraldikinetyonrightside
+thatcompletelyencirclesmarginofcell.
+Etymology.ThenewfamilynameisderivedfromthenameofitstypegenusKentrophyllum.
+Comments.Pleurostomatidsarecurrentlygroupedintotwofamilies,theLitonotidaeand
+Amphileptidae,whichareseparatedmainlybydifferencesintheciliarypatternontheright
+sideofthebody(sutureabsentinLitonotidaevs.suturepresentinAmphileptidae)[2].The
+genusKentrophyllum,currentlyplacedintheAmphileptidae,ischaracterizedbyhavingthe
+rightmedialsomatickinetiesgraduallyshortenedandtoformtwosutures,oneanteriorand
+oneposterior.Inthephylogenetictree,theKentrophyllumcladebranchesbasallyatthedeepest
+leveloftheorderPleurostomatida.Thisleadsustohypothesizethatthetwo-suturesofKentro-
+phyllumisaplesiomorphywithinthePleurostomatida.Furthermore,speciesofKentrophyllum
+haveoneperipheralkinety(perioralkinety2)ontherightsidethatconsistsmostlyofdikine-
+tidsandformsacompletecirclearoundthemarginofthecell.Thisfeaturehasneverbeenseen
+inanyothergenusoftheorderPleurostomatida[2]andmightrepresentsanautapomorphyof
+Kentrophyllum.
+GenusKentrophyllumPetzetal.,1995. Emendeddiagnosis.Kentrophyllidaewithaflat-
+tenedlaterallycompressedbody,withorwithoutspinesonitsmargin.Extrusomesevenlydis-
+tributedorclusteredintomarginalwarts.
+RevisionofthegenusKentrophyllumemend
+ThegenusKentrophyllumwasestablishedforamphileptidswithaflatbody,spinesalongthe
+ventralanddorsalmargins,andarightperioralkinetythatmakesanalmostcompletecircuit
+aroundtheedgeofthebody[33].Linetal.[22]emendedtheoriginaldiagnosistoaddforma-
+tionofsuturesbythesomaticciliatureontherightsideasadiagnosticcharacter.Todate,the
+followingsevenspeciesofKentrophyllumhavebeenreported[22,24,27,33]:K.setigerum
+(Quennerstedt,1867)Petzetal.,1995;K.verrucosum(Stokes,1893)Petzetal.,1995;K.fibrilla-
+tum(Dragesco,1954)Petzetal.,1995;K.pseudosetigerum(Dragesco,1954)Petzetal.,1995;
+K.raikovi(Dragesco,1965)Petzetal.,1995;K.antarcticumPetzetal.,1995;K.ozakii(Shige-
+matsu,1953)Linetal.,2007.Tothisnumbercanbeaddedtwospeciesformerlyassignedto
+Epiphyllum,K.shenzhenense(Panetal.,2010)comb.n.andK.soliforme(Fauré-Frémiet,1908)
+comb.n.Inaddition,weareabletodescribetwonewspeciesofKentrophylluminthepresent
+paper,K.bispinumsp.n.andK.strumosumsp.n.(designatedasEpiphyllumsp.inFig1).
+SpeciesofKentrophyllumhavebeenreportedfrommarineandbrackish-waterhabitats
+worldwide,someofthemrepeatedly,andthishasledtosomemisidentificationsandacertain
+amountofconfusion(Table1).KentrophyllumverrucosumandK.setigerumaretwocommon
+speciesthatcanbedistinguishedfromoneanotherbythepresence(K.verrucosum)orabsence
+(K.setigerum)ofwarts(clusteredextrusomes)onthemarginofthebody[14,16,19,22,32,
+35–37,48].Otherwise,theirgeneralmorphology(e.g.bodysizeandshape,numberofmacro-
+nuclearnodules,numberandpositionofcontractilevacuolesandthepresenceofspines)is
+closelysimilar.
+KentrophyllumsetigerumwasoriginallydescribedbyQuennerstedt[36]whocharacterized
+itmainlybythefollowingcharacters:bodymeasuring80–350μminlength,with3–4contrac-
+tilevacuoleslyingindorsalhalf,4macronuclearnodules,andspinesalongthemarginofthe
+PLOSONE|DOI:10.1371/journal.pone.0123720 May6,2015 5/17
+
+Wuetal.—KentrophyllidCiliates
+Table1. MorphologicalcomparisonofallknownspeciesofKentrophyllum.
+Species LB(μm)a Mac RSK/LSKe n-CVf P-CVg Warts PbPl Spines Biotope Source
+K.antarcticum 200–310 2 29–40/24–27 3–5 Dh Abj Ab Pr marine [33]
+K.verrucosum 125–250 3–7 38–45/28–33 4–7 D Prk Pr Pr estuarine Presentwork
+200 4 — 4 D Pr Ab Pr estuarine [32]
+150 1d — 5 D Pr Ab Pr marine [36]
+200–250 3–6 — 7d D Pr Pr Pr marine [10]
+200–250 7d — 7d D Pr Abc Pr marine [11]
+K.setigerum 80–350 4 — 3–4 D Ab — Pr marine [35]
+100–140 5–14 — 5–6 D Ab Ab Pr marine [19]
+130–300 4–9 36–40/30 5d D Ab Pr Pr marine [14]
+—b 6–8 35–40/— 1or2 D Ab Pr Pr estuarine [48]
+200–250 4–9 — 5d D Ab Pr Pr marine [16]
+105 4 — >1 D Ab — Pr marine [49]
+100–350 4d — 4–5d D Ab Pr Pr marine [11]
+100–140 5–14 — 5–6 D Ab — Pr marine [19]
+90–200 4 — several D Ab — Pr — [53]
+85–240 4 — 4 D Ab — Pr marine [37]
+80–350 4 — many D Ab Pr Pr marine [16]
+127–170 4 — 2or3 D Ab Ab Pr estuarine [32]
+K.pseudosetigerum 170 ca.12 — 1 Vi Ab Pr Pr marine [12]
+175–200 many — 1 — Ab Pr Pr marine [38]
+K.raikovi 360–500 11–14 — many V Ab Pr Pr marine [14]
+K.ozakii 170–230 17–20 — 1–3 V Ab — Pr estuarine [50]
+K.fibrillatum 90 2 24/20–22 1 D Ab Pr Pr marine [12]
+K.soliforme(Fauré-Fremiet,1908)comb.n. 90 4 — 1 D Ab Pr Ab estuarine [51]
+K.hohuensis(Wang&Nie,1933)comb.n. 200–280 4 — 4–10 D Ab — Ab freshwater [52]
+K.shenzhenense(Panetal.,2010)comb.n. 120–180 4 20-29/10-26 4 D Ab — Ab estuarine [27]
+K.bispinumsp.n. 120–290 2–6 35–45/26–35 9–14 V,D Ab Ab Pr estuarine Presentpaper
+K.strumosumsp.n. 125–240 4–9 41-55/35-44 4–7 D Pr Ab Ab estuarine Presentpaper
+K.qingdaoensesp.n. 90–250 2–9 30–48/35–53 6–10 V,D Ab Ab Pr estuarine [22]
+aLengthofbodyinlivingcells;
+bDatanotgiven;
+cNumberofmacronuclei;
+dDatabasedonillustration;
+eNumberofrightsomatickineties/numberofleftsomatickineties;
+fNumberofcontractilevacuoles;
+gPositionofcontractilevacuoles;
+hventral;
+idorsal;
+jabsent;
+kpresent;
+lPeribuccalpapillae;
+—,N/A
+doi:10.1371/journal.pone.0123720.t001
+cell.Therewerenowartsonthemarginofthecell[35].Kahl[10]consideredLitosolenusarma-
+tusStokes,1893tobeasynonymL.setigerum,andweagreewithhimalthoughthespineswere
+shownbyStokes[32]asoccurringalongtheoralslit,whichisnotthecaseinanyoftheknown
+speciesofKentrophyllum.However,thisisprobablyanerrorofdescriptiononthepartof
+Stokes.Ozaki&Yagiu[19]describedLoxophyllummultinucleatumfromJapan,andtheir
+PLOSONE|DOI:10.1371/journal.pone.0123720 May6,2015 6/17
+
+Wuetal.—KentrophyllidCiliates
+specieswasidentifiedasKentrophyllumverrucosumbyLinetal.[22].However,theextrusomes
+ofthisspeciesareevenlydistributedalongthebodymarginandnotclusteredtoformwarts;
+therefore,wehaveidentifieditasK.setigerumbecauseitalsocorrespondstothediagnosisof
+thespeciesinregardtotherestofitsmorphology.
+KentrophyllumverrucosumwasoriginallydescribedasLitosolenusverrucosusbyStokes[32]
+fromspecimenscollectedinamarsh.Keydiagnosticfeaturesofthisspecieswereoverlooked
+bysomesubsequentinvestigators,whichresultedinseveralmisidentifications.Wehavecon-
+cludedthatrecordsofK.verrucosumreportedbyDragesco[14],Czapik&Jordan[48],and
+Carey[16]actuallyshouldbeattributedtoK.setigerumbecausetheydonotmentionorillus-
+tratethewarts(papilliformelevationsclearlydescribedbyStokes[32])associatedwithspines
+thatarediagnosticforK.verrucosum[10,11].TherecordofK.setigeruminSauerbrey[36],in
+whichextrusomesaredescribedasclusteredingroups(warts)alsocanbeidentifiedasK.ver-
+rucosum.TheciliateidentifiedasK.verrucosumbyLinetal.[22]fitsthedescriptionofthespe-
+ciesbyhavingnowartsandhavingsinglespinesdistributedevenlyaroundthemarginofthe
+cell;however,someofitsothercharacteristicsdifferfromthoseofK.verrucosumandallother
+knownspeciesofKentrophyllum.Therefore,weredescribeitinthepresentpaperasKentro-
+phyllumqingdaoensesp.n.
+LoxophyllumhohuensisWang&Nie,1933appearstorepresentanothermemberofKentro-
+phyllum,judgingbythemorphologyofthelivingcell(e.g.,laterallycompressedbody,four
+macronuclearnodules,manyCVsinthedorsalhalfofthecell,extrusomesevenlydistributed
+alongtheentiremarginofthebodyexceptfortheoralslit,absenceofspines.AlthoughWang
+&Nie[49]didnotpresentadetaileddescriptionofitsinfraciliaturetheirillustrationshowsa
+generalpatternofciliaturethatistypicalforspeciesofKentrophyllum.Therefore,weproposea
+newcombination,Kentrophyllumhohuensis(Wang&Nie,1933)comb.n.[basionymLoxo-
+phyllumhohuensisWang&Nie,1933].
+Kentrophyllumbispinumsp.n.urn:lsid:zoobank.org:act:9DA4C4DE-0E71-47DB-
+8E2D-BC4097F205A7(Fig2;Table2)
+Diagnosis.Leaf-shapedbodymeasuring120–350μm×60–180μminvivo;with28–35
+double-spinesalongcellmarginexcludingthebuccalarea,2–6macronuclearnodules,9–15
+contractilevacuolesalongbothventralanddorsalmargins,35–45rightkineties,and26–35left
+kineties.Extrusomesevenlydistributedalongbodymarginsexcludingbuccalarea.
+Typelocalityandfeaturesofthehabitat.Collected24October2012fromtheintertidal
+zonenearHaibinPark,Zhanjiang,GuangdongProvince,China(21°11’N;110°18’E).Water
+temperature26.0°C,salinity25‰,pH7.8.
+Depositionoftypeslides.Aholotypeslide(protargolpreparationwiththeholotypespeci-
+menmarkedincircle)wasdepositedinthecollectionoftheLaboratoryofProtozoology,Ocean
+UniversityofChina(OUC),Qingdao,China,withregistrynumberWL20121024-01.Onepara-
+typeslide(protargolpreparationwithparatypespecimensmarked)wasdepositedinthecollec-
+tionoftheNaturalHistoryMuseum,London,UK,withregistrynumberNHM2014.10.7.1.
+Etymology.ThespecificepithetisformedfromtheLatinprefixbi(two,double)andthe
+nounspin([n];thorn,sting)andreferstothepaireddouble-spinesonthemarginofthecell.
+Description.Sizeofcellshighlyvariable,rangingfrom120–350μm×60–180μminvivo.
+Bodyshapevaryingfromslenderandleaf-shapedtonearlyglobularwhenindifferentmodes
+ofmovement,withoutanteriorendnarrowedtoforma“neck”regiontypicalofmanyhaptor-
+ians(Fig2Eand2F).Marginofcellconsistsofwell-definedhyalinefringe,approximately
+15μminwidth.Lengthtowidthratioofbody4–5:1whenfullyextended;centralregionof
+bodyhunchesonleftsidewhencellcontracts(Fig2A).Twoto6ellipsoidalmacronuclearnod-
+ules,eachmeasuring12–35μm×12–27μminvivo,locatednearventralregionofcell,usually
+detectableinlivingcells(Fig2I).Micronucleusnotobserved.Contractilevacuolesnumbering
+PLOSONE|DOI:10.1371/journal.pone.0123720 May6,2015 7/17
+
+Wuetal.—KentrophyllidCiliates
+Fig2.Kentrophyllumbispinumsp.n.;livingindividual(A-D,E,F,I)andcellsstainedwithprotargol(G,
+H,J,K).A.Rightlateralviewofrepresentativespecimen.B.Distributionofextrusomesanddeveloped
+nematodesmata(arrowhead).C,D.Ciliarypatternsofright(C)andleft(D)side;arrowheads,perioralkinety
+2.E,I.Rightlateralview.Arrows,contractilevacuoles;arrowheads,double-spines.F.Rightlateralview,
+showingtheextrusomes(arrowheads).G.Anteriorpartofrightside,showingtheanteriorsuture
+(arrowheads).H.Anteriorpartofrightside;arrowsindicatetheperioralkinety1.J.Posteriorpartofleftside
+showingtheposteriorsuture(arrowheads).K.Distributionofextrusomes;arrowheads,oralslit.Ma,
+macronuclearnodules;DB,dorsalbrush;PK1,perioralkinety1;PK2,perioralkinety2.Scalebars,100μm.
+doi:10.1371/journal.pone.0123720.g002
+9–15andmeasuring3–10μmindiameter,with3–5locatedinventralhalfofcelland6–10in
+dorsalhalf(Fig2A,2Eand2I).Extrusomesslenderandbar-shaped,straighttoslightlycurved,
+approximately15μmlong,denselyarrangedandevenlydistributedalongentiremarginof
+bodyexcludingoralarea,somescatteredincytoplasm(Fig2Band2F).Pelliclethin,without
+corticalgranules.Rightsideflatanddenselyciliated;cilia4–6μmlong.Leftsidealsodensely
+ciliated,withmanyconspicuous,shallow,longitudinalgrooves,andslightlyarchedowingto
+presenceoffoodvacuoles.Twenty-eightto35double-spinesdistributedevenlyaroundentire
+marginofcellexceptforregionofcytostome;slender,stiff,andimmobileinvivo,withslightly
+overlappedtips,interdigitatedordispersedwhenindifferentfocalplanes(Fig2A,2E,2Fand
+2I).Movementbyleftsideofbodyslowglidingonsubstrate,rarelyswimminginwatercolumn,
+oftenstationary.
+CiliarypatternasshowninFig2C,2D,2Hand2J.Twoperioralkineties(PK1,2)around
+cytostome;PK1onleftsideoforalslit,formedofcloselyspaceddikinetidsinanterior2/3,con-
+tinuingasarowofcloselyspacedmonokinetids;PK2onrightoforalslit,composedofmore
+closelyspaceddikinetids,makingacompletecircuitaroundmarginofcell.Rightsideofbody
+PLOSONE|DOI:10.1371/journal.pone.0123720 May6,2015 8/17
+
+Wuetal.—KentrophyllidCiliates
+Table2. MorphometricdataaofKentrophyllumverrucosum(1stline),K.bispinumn.sp.(2ndline)andK.strumosumn.sp.(3rdline).
+Characters Range Mean SD CV n
+lengthofbody 100–210 156.0 ±30.58 19.6 27
+120–290 199.1 ±40.50 20.3 21
+125–240 178.9 ±31.34 17.5 19
+widthofbody 83–125 101.8 ±11.88 11.7 27
+60–130 91.1 ±16.74 18.4 21
+55–120 83.7 ±18.32 21.9 19
+numberofRSKb 38–45 40.8 ±1.71 4.2 24
+35–45 38.5 ±2.56 6.7 20
+41–55 46.5 ±4.03 8.7 19
+numberofLSKc 28–33 30.5 ±1.30 4.3 22
+26–35 30.4 ±2.39 7.9 16
+35–44 38.2 ±2.46 6.4 17
+numberofMad 3–7 4.2 ±0.86 20.5 27
+2–6 3.9 ±1.06 27.2 21
+4–9 6.2 ±1.32 21.3 19
+lengthofMa 13–30 19.3 ±4.85 25.1 24
+12–35 20.2 ±5.51 27.3 20
+10–30 16.9 ±5.13 30.4 19
+widthofMa 12–25 16.0 ±2.75 17.1 24
+12–27 15.7 ±3.91 25.0 20
+10–20 12.3 ±3.51 28.5 19
+lengthofextrusomes 14–18 16.0 ±0.73 4.6 25
+15–15 0 0 0 20
+6–20 12.1 ±3.87 32.1 10
+numberofwarts 6–19 10.2 ±2.99 29.4 23
+—e — — — —
+7–15 11.6 ±2.3 19.8 18
+aAllmeasurementsinμm.Databasedonspecimensstainedwithprotargol;CV,coefficientofvariationexpressedasapercentage;SD,standard
+deviation;n,samplesize.
+bNumberofrightsomatickineties;perioralkinety2included.
+cNumberofrightsomatickineties;perioralkinety1anddorsalbrushkinetyincluded.
+dMacronuclearnodules.
+eN/A.
+doi:10.1371/journal.pone.0123720.t002
+with35–45closelyspacedkineties,withanteriorpartsofmedialkinetiesshortenedtoforma
+distinctanteriorsuture(Fig2C).Leftsideofbodywith26–35kineties,whichtogetherwith
+PK1anddorsalbrushkinetyformconspicuousanteriorandposteriormedialsutures(Fig2D).
+Dorsalbrushkinety(DB)extendingtonearlyhalflengthofcellandcomposedofregularly
+spaceddikinetids(Fig2D).Nematodesmatawell-developed,alloriginatingfromkinetosomes
+ofperioralkinetyandextendingintothecytoplasm(Fig2Band2G).
+ComparisonofKentrophyllumbispinumsp.n.withcongeners.Kentrophyllumbispinum
+sp.n.istheonlyspeciesinitsgenuswithpairedspinesonthemarginofthecell[12,14,22,33,
+50](Table1).
+Kentrophyllumstrumosumsp.n.urn:lsid:zoobank.org:act:234BC0E6-DC24-46D1-BE7A-
+53FE547FD79D(Fig3;Table2)
+PLOSONE|DOI:10.1371/journal.pone.0123720 May6,2015 9/17
+
+Wuetal.—KentrophyllidCiliates
+Fig3.Kentrophyllumstrumosumsp.n.;livingindividual(A-D,E-G,I,J)andcellsstainedwith
+protargol(H,K,L).A.Rightlateralviewofrepresentativespecimen.B.Leftlateralview,showingdistribution
+ofextrusomesandwarts(arrowheads).C,D.Ciliarypatternsofright(C)andleft(D)side;arrows,perioral
+kinety2.E.Rightlateralview,showingeroseposterior(doublearrowheads)andwarts(arrowheads).F,I.
+Anteriorpartofleftsideshowingextrusomesinthewartsandsuture(arrowhead).G.Posteriorpartofleftside
+showinggrooves(arrowheads)anderoseposterior(doublearrowheads).H.Anteriorpartofrightside
+indicatingsuture(arrows).J.Lateralsideview,showingthearchedleftside(arrowhead).K.Posteriorpartof
+leftside,showingsuture(arrowheads).L.Rightlateralview,showingperioralkinety2(arrowheads).Ma,
+macronuclearnodules.DB,dorsalbrush;PK1,perioralkinety1;PK2,perioralkinety2.Scalebars,100μm.
+doi:10.1371/journal.pone.0123720.g003
+Diagnosis.Leaf-shapedbodymeasuring120–235μm×60–130μminvivo;with4–9mac-
+ronuclearnodules,4–7contractilevacuolesalongdorsalmargin,41–55rightkineties,and
+35–44leftkineties.Extrusomesgroupedintowartsaroundthemarginofthebodyexceptfor
+buccalarea.
+Typelocalityandfeaturesofthehabitat.Collected(28November2011)fromamangrove
+wetland,inHuizhou,GuangdongProvince,China(22°44’N;114°31’E).Watertemperature
+23.5°C,salinity11‰,pH7.4.
+Depositionoftypeslides.Aholotypeslide(protargolpreparationwiththeholotypespeci-
+menmarkedincircle)wasdepositedinthecollectionoftheLaboratoryofProtozoology,Ocean
+UniversityofChina(OUC),Qingdao,China,withregistrynumberWL20111128-02.Onepara-
+typeslide(protargolpreparationwithparatypespecimensmarked)wasdepositedinthecollec-
+tionoftheNaturalHistoryMuseum,London,UK,withregistrynumberNHM2014.10.7.2.
+Etymology.ThespecificepithetisformedfromtheLatinadjectivestrumosus,-a,-um
+([m,f,n];warts)andreferstothewartsonthemarginofthecell.
+Description.Sizeofcellshighlyvariable,rangingfrom120–235μm×60–130μmin
+vivo.Bodyshapevaryingfrombroadlyleaf-shapedwhenswimmingtonearlyroundwhen
+PLOSONE|DOI:10.1371/journal.pone.0123720 May6,2015 10/17
+
+Wuetal.—KentrophyllidCiliates
+stationary,slightlycontractile,withoutanteriorendnarrowedtoforma“neck”regiontypical
+ofmanyhaptorians,posteriorportionofcellonleftsideoftensunkenin(Fig3Eand3G).
+Lengthtowidthratioofbody3–4:1(Fig3E).Marginofcellconsistsofflat,thin,hyalinefringe
+approximately10μminwidth.Fourto9ellipsoidmacronuclearnodules,eachmeasuringap-
+proximately12μm×10μminvivo,locatedincentralpartofbody.Micronucleusnotobserved.
+Contractilevacuolesnumbering4–7andmeasuring5–12μmindiameter,locatedneardorsal
+marginofcell.Extrusomesbar-shaped,approximately15μmlong,clusteredtoform7–15
+wartsdistributedatwideintervalsinhyalinefringeexcludingbuccalarea(Fig3E,3Fand3I).
+Pelliclethin,withoutcorticalgranules.Cytoplasmgrayishtodarkincentralregionofcell
+owingtopresenceoffoodvacuoles.Rightsideflatanddenselyciliated;cilia~8μmlong.Left
+sidedistinctlyarchedwhencellisswimming(Fig3E),withmanyconspicuous,shallow,longi-
+tudinalgrooves,andformingconspicuoussuturesonbothanteriorandposteriorpart(Fig3F
+and3G).Movementbyleftsideofbodyslowglidingonsubstrateoroccasionallyswimmingin
+water,oftenstationary.
+CiliarypatternasshowninFig3C,3D,3Hand3K.Twoperioralkineties(PK1,2)around
+cytostome:PK1,leftoforalslit,formedofcloselyspaceddikinetidsinitsanterior2/3,continu-
+ingasarowofmonokinetids(Fig3D);PK2,onrightoforalslit,formingaclosedloop,com-
+posedofcloselyspaceddikinetidsmakingacompletecircuitaroundmarginofcell(Fig3C).
+Rightsideofbodywith41–55kineties,includingPK2,formingaconsipicuousanteriorsuture
+thatextendsabout1/3lengthofbodyandaninconspicuous,subterminalposteriorsuture(Fig
+3Cand3K).Leftsidewith35–44kinetiesthatformdistinctsuturesinbothanteriorandposte-
+riorregions(Fig3D).Dorsalbrush(DB)extendingtohalflengthofcellasrowofdensely
+spaceddikinetids(Fig3D).
+ComparisonofKentrophyllumstrumosumsp.n.withcongeners.Thisspeciesistheonly
+memberofitsgenuswithextrusomesclusteredintowartsthathavenospinesassociatedwith
+them[22,27,32,49,51,52].
+Kentrophyllumsetigerum(Quennerstedt,1867)Petzetal.,1995. Synonymy.Loxophyl-
+lumsetigeruminQuennerstedt,1867,p.6(originaldescription);LitosolenusarmatusinStokes,
+1893,p.301(descriptionofAmericanpopulation);LoxophyllummultinucleatuminOzaki&
+Yagiu,1943,p.41(descriptionofJapanesepopulation);LoxophyllumverrucosuminDragesco,
+1965,p.373(descriptionofAfricanpopulation);LoxophyllumverrucosuminCzapik&Jordan,
+1976,p.435(descriptionofBalticpopulation);LoxophyllumverrucosuminCarey,1992,p.74
+(taxonomickey);KentrophyllumsetigeruminPetzetal.,1995,p.55(newcombination).
+Emendeddiagnosis(basedonallknowndescriptions).Bodymeasuring80–350μmlong
+invivo,with4–14macronuclearnodules,severalcontractilevacuolesalongdorsalmargin,35–
+40rightand~30leftsomatickineties;extrusomesevenlydistributedalongmarginofbodyex-
+cludingoralregion;spinespresent;peribuccalpapillaeabsentorpresent;Brackishor
+marinehabitat.
+Kentrophyllumverrucosum(Stokes,1893)Petzetal.,1995(Fig4;Table2). Synonymy.
+LitosolenusverrucosusinStokes,1893,p.302(originaldescription),Loxophyllumsetigerumin
+Sauerbrey,1928,p.369(misidentification),LoxophyllumverrucosuminKahl,1931,p.201
+(newcombination),LoxophyllumverrucosuminKahl,1933,p.63(descriptionofGermanpop-
+ulation),KentrophyllumverrucosuminPetzetal.,1995,p.55(newcombination).
+Emendeddiagnosis(basedonallknowndescriptionsandnewdatafromthepresent
+study).Bodymeasuring125–250μm×65–185μminvivo,with3–7macronuclearnodules,
+4–7contractilevacuolesalongthedorsalmargin,38–45rightand28–33leftkineties.Extru-
+somesclusteredintowartsdistributedalongmarginofbodyexcludingtheoralarea;eachwart
+withoneormoresoftspines.Peribuccalpapillaepresentorabsent.Brackishormarinehabitat.
+PLOSONE|DOI:10.1371/journal.pone.0123720 May6,2015 11/17
+
+Wuetal.—KentrophyllidCiliates
+Fig4.Kentrophyllumverrucosum;livingindividuals(A–H,L–N)andcellsstainedwithprotargol(I-K).
+A.Rightlateralviewofrepresentativespecimen.B.Leftlateralviewofrepresentativespecimen.C,D.Right
+lateralviewsofcontractedspecimens;arrowheads,contractilevacuoles;arrows,extrusomes.E,K.Marginof
+cellunderhighermagnification;arrowheads,spines.F.Posteriorpartofleftside,showinggrooves
+(arrowheads).G.Rightlateralviewshowingwarts(arrowheads).H.Anteriorpartofleftsideshowing
+peribuccalpapillae(arrowheads).I.Middlepartofrightsideshowingsomatickineties(arrowheads).J.Right
+lateralview.Arrows,perioralkinety2;arrowheads,warts.L.Distribution(arrowhead)anddevelopment
+(arrow)ofnematodesmata.M,N.Ciliarypatternsofright(M)andleft(N)sides;arrows,perioralkinety1.Ma,
+macronuclearnodules.DB,dorsalbrush;PK1,perioralkinety1;PK2,perioralkinety2.Scalebars,100μm.
+doi:10.1371/journal.pone.0123720.g004
+Depositionofvouchermaterial.Onevoucherslide(protargolpreparation)wasdeposited
+inthecollectionoftheLaboratoryofProtozoology,OceanUniversityofChina(OUC),Qing-
+dao,China,withregistrynumberWL20121112-03.
+Featuresofthehabitat.Samplecollectedon12November,2012fromamangrovewetland
+onTechengIsland,Zhanjiang,GuangdongProv.,China(21°14’N;110°23’E).Watertemper-
+ature22.4°C,salinity25‰,pH7.8.
+DescriptionofpopulationfromZhanjiang.Cellshighlyvariableinsize,measuring125–
+250μm×65–185μminvivo,usually170–200μm×90–150μm.Bodyranginginshapefrom
+slenderwhenswimmingtonearlyovalwhenstationary(Fig4B–4Dand4G).Lengthtowidth
+ratio3–4:1.Marginofcellflat,thin,hyaline,~10μmwide(Fig4B).Threeto7(usually4)mac-
+ronuclearnoduleslocatednearcenterofcell;nodulessphericaltoellipsoid,measuring10–
+15μm×10–12μminvivo(Fig4C,4Dand4G).Micronucleusnotobserved.Fourto7contrac-
+tilevacuoles,withdiameterof5–12μm,locatedindorsalhalfofcell(Fig4C,4Dand4G).
+Extrusomesbar-shaped,~15μmlong,alwaysclusteredtoform6–19wartsalongmarginof
+bodyexcludingoralarea;intervalbetweenwartsusuallyconcave.Eachwartwith1–4(usually
+3)softspines,eachspinethickatbaseandtaperingtosharppoint;onespineineachcluster
+PLOSONE|DOI:10.1371/journal.pone.0123720 May6,2015 12/17
+
+Wuetal.—KentrophyllidCiliates
+alwaysmuchlonger(6–7.5μm)thanothers(3–4.5μm)(Fig4A,4C,4E,4Gand4K).Pellicle
+thin;cytoplasmgraytodarkincenterofcell,dependingonnumberoffoodvacuoulespresent,
+andoftencontainingnumerous,refringentglobulesmeasuring2–5μmindiameter.Rightside
+flatwithmanyinconspicuous,longitudinal,shallowgrooves(Fig4G);leftsideslightlytodis-
+tinctlyarched,withmanyconspicuous,longitudinal,shallowgrooves(Fig4F).Thirtyto50
+peribuccalpapillaedenselyarrangedalongleftedgeoforalslit(Fig4H).Movementbyleftside
+ofbodyslowglidingonsubstrate,usuallystationary,rarelyswimminginwatercolumn.
+CiliarypatternasshowninFig4M,4Nand4J.Twoperioralkineties(PK ):PK ,lying
+1,2 1
+alongleftsideoforalslit,formedofregularlyspaceddikinetidsinanterior1/2ofbodyandcon-
+tinuingtowardposteriorasrowofmonokinetids;PK (peripheralkinety)consistsofclosely
+2
+spaceddikinetidsandsurroundsentirerightmarginofbody.Right-handsomatickineties
+denselyciliated,numbering38–45in(includingPK )andformingadistinctanteriorsuture
+2
+andaninconspicuousposteriorsuture.Leftsideofbodyalsodenselyciliated,with28–33so-
+matickineties(includingPK1anddorsalbrushkinety)formingadistinctsutureatbothanteri-
+orandposteriorendsofthebody.Dorsalbrushkinetyextendinghalfofbodylength,formed
+ofdenselyspaceddikinetids.Nematodesmatawell-developed,upto150μmlong.
+Remarks.Theperibuccalpapillaepresentontheciliatesinoursamplefromsouthern
+Chinawerenotmentionedintheoriginaldescription[32]andinSauerbrey[36];however,this
+characteristicwasobservedbyKahl[10,11].Therefore,theperibuccalpapillaewereprobably
+overlookedbyStokes[32]andSauerbrey[36]ortheymaybepresentonsomepopulationsbut
+notothers.
+Kentrophyllumqingdaoensesp.n.urn:lsid:zoobank.org:act:AC99A4BF-56D1-4B68-
+AFED-3956112D2C0B(Fig5;Table1)
+Synonymy.KentrophyllumverrucosumsensuLinetal.,2005,p.130(descriptionofChinese
+population,misidentification).
+Diagnosis.Leaf-shapedbody,measuring90–250μm×60–160μminvivo;with30–48right
+and35–53leftsomatickineties,6–8contractilevacuolesalongbothventralanddorsalmargins,
+and2–9macronuclearnodules.Twotypesofextrusomes;type1mostlydistributedregularly
+alongciliaryrows,withsomescatteredincytoplasm,andtype2evenlydistributedalongmar-
+ginsofbodyexcludingoralarea.Peribuccalpapillaeabsent.
+Etymology.Thespeciesisnamedafterthesamplingsitewhereitwasdiscovered.
+Typelocality,featuresofthehabitat,depositionoftypeslidesanddescription.SeeLin
+etal.[22].
+DescriptionbasedonSEMobservation.Bodyshapevaryingfromslenderandleaf-shaped
+tooval-shaped(Fig5A–5C),notypical“neck”regionlikethatofmanypleurostomatids.Single
+spineprojectingfrommarginofcellexcludingoralslit(Fig5B,5Eand5G).Ellipsoidalmacro-
+nuclearnoduleslocatedcentralregionofcell(Fig5Cand5E).Poresofcontractilevacuolesdis-
+tributedinrowsmostlyneardorsalmarginandseldomnearventralmargin(Fig5A,5Dand
+5F).Rightsideflatanddenselyciliated,withmanyconspicuous,shallow,longitudinalgrooves
+(Fig5A,5B,5Dand5F)whileleftsidesparelyciliated(Fig5C,5Eand5H).
+ComparisonofKentrophyllumqingdaoensesp.n.withcongeners.Sevenoftheknown
+speciesofKentrophyllumresembleK.qingdaoenseinhavingsinglespines;however,K.qing-
+daoensediffersfromthemasfollows[12,14,22,33,50]:
+(cid:129) K.antarcticumbyhasfewer(24–27vs.35–53)somatickinetiesontheleftsideandfewer(3–5
+vs.6–10)contractilevacuoles
+(cid:129) K.setigerumhasfewer(~30vs.35–53)somatickinetiesontheleftsideandcontractilevacu-
+olesinadifferentposition(dorsalvs.dorsalandventral)
+PLOSONE|DOI:10.1371/journal.pone.0123720 May6,2015 13/17
+
+Wuetal.—KentrophyllidCiliates
+Fig5.Kentrophyllumqingdaoensesp.n.;photomicrographsofSEM(A–H).A,B.Rightlateralviews.
+Arrowheads,suture;arrows,singlespine;double-headedarrows,poresofcontractilevacuoles.C,E.Left
+lateralviews.Arrowheads,macronuclearnodules.D,F.Rightlateralviews,indicatingtheporesofcontractile
+vacuoles(arrows).G.Posteriorpartofrightside,showingsinglespines(arrows).H.Bodymargin
+(arrowheads).Scalebars,50μm.
+doi:10.1371/journal.pone.0123720.g005
+(cid:129) K.pseudosetigerumhasmore(~12vs.2–9)macronuclearnodulesandfarfewer(1vs.6–10)
+contractilevacuoles
+(cid:129) K.fibrillatumhasfewersomatickineties(24vs.30–48onrightsideand20–22vs.35–53on
+leftside)
+(cid:129) K.raikovihasasignificantlylargerbody(360–500vs.90–250μmlong)andmore(11–14vs.
+2–9)macronuclearnodules
+(cid:129) K.armatumhasfewer(3–4vs.6–10)contractilevacuolesinadifferentposition(dorsalvs.
+dorsalandventral)
+(cid:129) K.ozakiihasmanymoremacronuclearnodules(170–230vs.2–9).
+KeytoallknownspeciesofKentrophyllum
+1.Withspinesalongbodymargin . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .2
+Withoutspinesalongbodymargin. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 10
+2.Withsingle-spinealongbodymargin . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4
+Withdouble-spinesorsoftspinealongbodymargin . . . . . . . . . . . . . . . . . . . . . . 3
+3.Withwartsalongbodymargin. . . . . . . . . . . . . . . . . . . . . . . . . . . . K.verrucosum
+Nowartalongbodymargin. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . K.bispinum
+PLOSONE|DOI:10.1371/journal.pone.0123720 May6,2015 14/17
+
+Wuetal.—KentrophyllidCiliates
+4.Thecontractilevacuolesalongbothdorsalandventralmargins . . . . . . . . K.qingdaoense
+Thecontractilevacuolesalongdorsalorventralmargin . . . . . . . . . . . . . . . . . . . . . . 5
+5.Thecontractilevacuolesalongdorsalmargin . . . . . . . . . . . . . . . . . . . . . . . . . . . 6
+Thecontractilevacuolesalongventralmargin . . . . . . . . . . . . . . . . . . . . . . . . . . . . 7
+6.Withtwomacronucleus . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8
+Withmorethantwomacronuclei . . . . . . . . . . . . . . . . . . . . . . . . . . . . K.setigerum
+7.Withonecontractilevacuole . . . . . . . . . . . . . . . . . . . . . . . . . K.pseudosetigerum
+Withmanycontractilevacuoles . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 9
+8.Withonecontractilevacuole. . . . . . . . . . . . . . . . . . . . . . . . . . . . . K.fribrillatum
+Withseveralcontractilevacuoles . . . . . . . . . . . . . . . . . . . . . . . . . . . K.antarcticum
+9.Withless15macronuclei. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . K.raikovi
+Morethan15macronuclei . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .K.ozakii
+10.Withwartsalongbodymargin . . . . . . . . . . . . . . . . . . . . . . . . . . . .K.strumosum
+Nowartalongbodymargin. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 11
+11.Withonecontractilevacuole . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . K.soliforme
+Withseveralcontractilevacuoles. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 12
+12.Thebodylengthmorethan200μm . . . . . . . . . . . . . . . . . . . . . . . K.shenzhenense
+Thebodylengthless200μm . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . K.hohuensis
+Acknowledgments
+WewouldliketothankDrsQianQianZhangandFengGao(OUC)fortheirhelpfulsugges-
+tionsinphylogeneticanalysis.
+AuthorContributions
+Conceivedanddesignedtheexperiments:LWXFL.Performedtheexperiments:LWXFL.Ana-
+lyzedthedata:LWJCXFLZZYJQL.Contributedreagents/materials/analysistools:XFLJQL
+ZZY.Wrotethepaper:LWJCXFL.Samplescollection:LWJQLXFL.
+References
+1. Strüder-KypkeMC,WrightAD,FoissnerW,ChatzinotasA,LynnDH.Molecularphylogenyoflitostome
+ciliates(Ciliophora,Litostomatea)withemphasisonfree-livinghaptoriangenera.Protist.2006;157:
+261–278.doi:10.1016/j.protis.2006.03.003PMID:16843062
+2. LynnDH.TheCiliatedProtozoa,Characterization,Classification,andGuidetotheLiterature. Dor-
+drecht: Sprignger;2008.
+3. GaoS,SongW,MaH,ClampJC,YiZ,Al-RasheidKA,etal.Phylogenyofsixgeneraofthesubclass
+Haptoria(Ciliophora,Litostomatea)inferredfromsequencesofthegenecodingforsmallsubunitribo-
+somalRNA.JEukaryotMicrobiol.2008;55:562–566.doi:10.1111/j.1550-7408.2008.00360.xPMID:
+19120803
+4. VďačnýP,BourlandWA,OrsiW,EpsteinSS,FoissnerW.PhylogenyandclassificationoftheLitosto-
+matea(Protista,Ciliophora),withemphasisonfree-livingtaxaandthe18SrRNAgene.MolPhylogenet
+Evol.2011;59:510–522.doi:10.1016/j.ympev.2011.02.016PMID:21333743
+5. VďačnýP,OrsiW,BourlandWA,ShimanoS,EpsteinSS,FoissnerW.Morphologicalandmolecular
+phylogenyofdileptidandtracheliidciliates:ResolutionatthebaseoftheclassLitostomatea(Cilio-
+phora,Rhynchostomatia).EurJProtistol.2011;47:295–313.doi:10.1016/j.ejop.2011.04.006PMID:
+21641780
+6. ZhangQ,SimpsonA,SongW.Insightsintothephylogenyofsystematicallycontroversialhaptoriancili-
+ates(Ciliophora,Litostomatea)basedonmultigeneanalyses.ProcBiolSci.2012;279:2625–2635.
+doi:10.1098/rspb.2011.2688PMID:22378805
+7. VďačnýP,FoissnerW.Synergisticeffectsofcombiningmorphologicalandmoleculardatainresolving
+thephylogeneticpositionofSemispathidium(Ciliophora,Haptoria)withdescriptionofSemispathidium
+breviarmatumsp.n.fromtropicalAfrica.ZooScri.2013;42:529–549.
+PLOSONE|DOI:10.1371/journal.pone.0123720 May6,2015 15/17
+
+Wuetal.—KentrophyllidCiliates
+8. KwonCB,VďačnýP,ShazibSU,ShinMK.Morphologyandmolecularphylogenyofanewhaptoriancili-
+ate,Chaeneamirabilissp.n.,withimplicationsfortheevolutionofthedorsalbrushinhaptorians(Cilio-
+phora,Litostomatea).JEukaryotMicrobiol.2014;61:278–292.doi:10.1111/jeu.12105PMID:
+24571374
+9. VďačnýP,BreinerHW,YashchenkoV,DunthornM,StoeckT,FoissnerW.Thechaosprevails:molecu-
+larphylogenyoftheHaptoria(Ciliophora,Litostomatea).Protist.2014;165:93–111.doi:10.1016/j.
+protis.2013.11.001PMID:24524973
+10. KahlA.UrtiereoderProtozoaI:WimpertiereoderCiliata(Infusoria)2.Holotrichaaußerdenim1.Teil
+behandeltenProstomata.TierweltDtl 21;1931.
+11. KahlA.Ciliataliberaetectocommensalia.In:GrimpeG.&WaglerE.(eds.).DieTierweltderNord-und
+OstseeLief23(TeilP,c3). Leipzig:29–146;1933.
+12. DragescoJ.Diagnosespréliminariesdequelquesciliésnouveauxdessables.BullSocZoolFr.1954;79.
+13. DragescoJ.Ciliésmésopsammiqueslittoraux,systématique,morphologie,écologie.TravStatBiol
+Roscoff.1960;12.
+14. DragescoJ.Ciliésmésopsammiquesd'Afriquenoire.CahBiolMar.1965;6:357–399.PMID:5833908
+15. SongW,WilbertN.TaxonomischeUntersuchungenanAufwuchsciliaten(Protozoa,Ciliophora)im
+PoppelsdorferWeiher,Bonn.LauterborniaHeft 3:2–221;1989.
+16. CareyPG.Marineinterstitialciliates:anillustratedkey. London: ChapmanandHall;1992.
+17. FoissnerW,BergerH,BlattererH,KohmannF.TaxonomischeundökologischeRevisionderCiliaten
+desSaprobiensystems.BandIV:Gymnostomatea,Loxodes,Suctoria.InformationsberichtedesBayer.
+LandesamtesfürWasserwirtschaft.1995;1/95:1–540.doi:10.1016/j.ttbdis.2015.02.008PMID:
+25766392
+18. FoissnerW,LeipeD.MorphologyandecologyofSiroloxophyllumutriculariae(Penard,1922)n.g.,n.
+comb.(Ciliphora,Pleurostomatida)andanimprovedclassificationofPleurostomatidciliates.JEukaryot
+Microbiol.1995;42:476–490.
+19. OzakiY,YagiuR.StudiesonthemarineciliatesofJapan.JournalofScienceoftheHiroshimaUniversi-
+tySeriesB.1943;10:21–52.
+20. LinX,SongW.Establishmentofanewamphileptidgenus,Apoamphileptusnov.gen.(Ciliophora,
+Litostomatea,Pleurostomatida),withdescriptionofanewmarinespecies,Apoamphileptusrobertsi
+nov.spec.fromQingdao,China.JEukaryotMicrobiol.2004;51:618–625.PMID:15666718
+21. LinX,SongW,WarrenA.TwonewmarinepleurostomatidciliatesfromChina,Amphileptusguinov
+spec.andAmphileptusyuianusnovspec.(Ciliophora,Pleurostomatida).EurJProtistol.2005;41:
+163–173.doi:10.1016/j.ejop.2005.01.002
+22. LinX,SongW,WarrenA.Taxonomicstudiesonthreemarinepleurostomatidciliates:Kentrophyllum
+verrucosum(Stokes,1893)Petz,SongetWilbert,1995,Epiphyllumsoliforme(Fauré-Frémiet,1908)
+gen.n.,comb.n.andAmphileptussikoraispn.,withtheestablishmentofanewgenusEpiphyllum
+(Ciliophora:Pleurostomatida).ActaProtozool.2005;44:129–145.
+23. LinX,SongW,WilbertN,WarrenA.TwonewmarinepleurostomatidciliatesfromChina,Loxophyllum
+jinisp.n.andL.qiuianumsp.n.(Ciliophora:Pleurostomatida).ActaProtozool.2005;44:147–157.
+24. LinX,SongW,LiJ.Amphileptusaeschtaenov.spec.andAmphileptuseignerinov.spec.(Ciliophora,
+Pleurostomatida),twonewmarinepleurostomatidciliatesfromChina.EurJProtistol.2007;43:77–86.
+doi:10.1016/j.ejop.2006.10.002PMID:17202030
+25. LinX,SongW,LiJ.Descriptionoftwonewmarinepleurostomatidciliates,Loxophyllumchoiinov.
+spec.andL.shininov.spec.(Ciliophora,Pleurostomatida)fromChina.EurJProtistol.2007;43:
+131–139.doi:10.1016/j.ejop.2006.12.004PMID:17513095
+26. LinX,Al-RasheidKA,Al-QuraishySA,Al-FarrajSA,SongW.Identificationofthreehighlyconfused
+marineLoxophyllum(Ciliophora:Pleurostomatida)withakeytosevencongenersfromtheChinaSea.
+JEukaryotMicrobiol.2008;55:331–342.doi:10.1111/j.1550-7408.2008.00332.xPMID:18681847
+27. PanH,GaoF,LiJ,LinX,Al-FarrajSA,Al-RasheidKA.Morphologyandphylogenyoftwonewpleuros-
+tomatidciliates,Epiphyllumshenzhenensen.sp.andLoxophyllumspirellumn.sp.(Protozoa,Cilio-
+phora)fromamangrovewetland,SouthChina.JEukaryotMicrobiol.2010;57:421–428.doi:10.1111/
+j.1550-7408.2010.00492.xPMID:20735517
+28. PanH,GaoF,LinX,WarrenA,SongW.ThreenewLoxophyllumspecies(Ciliophora:Pleurostoma-
+tida)fromChinawithabriefreviewofthemarineandbrackishLoxophyllumspecies.JEukaryotMicro-
+biol.2013;60:44–56.doi:10.1111/jeu.12005PMID:23194299
+29. WuL,ChenR,YiZ,LiJ,WarrenA,LinX.MorphologyandphylogenyofthreenewLoxophyllumspe-
+cies(ciliophora,pleurostomatida)frommangrovewetlandsofsouthernChina.JEukaryotMicrobiol.
+2013;60:267–281.doi:10.1111/jeu.12032PMID:23528111
+PLOSONE|DOI:10.1371/journal.pone.0123720 May6,2015 16/17
+
+Wuetal.—KentrophyllidCiliates
+30. PanH,LiL,LinX,LiJ,Al-FarrajSA,Al-RasheidKA.MorphologyofthreespeciesofAmphileptus(Pro-
+tozoa,Ciliophora,Pleurostomatida)fromtheSouthChinaSea,withnoteonphylogenyofA.dragescoi
+sp.n.JEukaryotMicrobiol.2014;61:644–654.doi:10.1111/jeu.12146PMID:25041259
+31. WuL,ChenR,YiZ,LiJ,WarrenA,LinX.ThemorphologyofthreeLoxophyllumspecies(Ciliophora,
+Pleurostomatida)fromsouthernChina,L.lembumsp.n.,L.vesiculosumsp.n.andL.perihoplophorum
+Buddenbrock,1920,withnotesonthemolecularphylogenyofLoxophyllum.JEukaryotMicrobiol.
+2014;61:115–125.doi:10.1111/jeu.12089PMID:24313293
+32. StokesA.NoticesofsomeundescribedinfusoriafromthebrackishwatershedoftheEasternUnited
+States.JRMicrSoc.1893;1:298–302.
+33. PetzW,SongW,WilbertN.Taxonomyandecologyoftheciliatefauna(Protozoa,Ciliophora)inthe
+endopagialandpelagialoftheWeddellSea,Antarctica.Stapfia.1995;40:1–223.
+34. WilbertN,SongW.NewcontributiontothemarinebenthicciliatesfromtheAntarcticarea,includingde-
+scriptionofsevennewspecies(Protozoa,Ciliophora).JNatHist.2005;39:935–973.
+35. QuennerstedtA.BidragtillSverigesInfusorie-fauna.II.ActaUniversitatisLundensis.1867;4:1–48
+36. SauerbreyE.BeobachtungenübereinigeneueoderwenigbekanntemarineCiliaten.ArchFürProtis-
+tenk.1928;62:355–407.PMID:4740118
+37. JonesE.TheProtozoaofMobileBay,Alabama.UniversityofSouthAlabamaMonographs.1974;1:
+1–113.
+38. Al-RasheidKAS.Recordsoffree-livingciliatesinSaudiArabia.III.MarineinterstitialciliatesoftheAra-
+bianGulfIslandofTarut.ArabGulfJournalofScientificResearch.1997;15:733–766.
+39. WilbertN.EineverbesserteTechnikderProtargolimprägnationfürCiliaten.Mikrokosmos.1975;64:
+171–179.
+40. FoissnerW.Preparationofsamplesforscanningelectronmicroscopy.In:LeeJ.J.andSoldoA.,edi-
+tors.ProtocolsinProtozoology. Lawrence: AllenPress.pp.C-20.1–C-20.5;1992.
+41. CorlissJ.Characterization,ClassificationandGuidetotheLiterature. 2nded. NewYork: Pergamon
+Press;1979.
+42. HallT.BioEdit:auser-friendlybiologicalsequencealignmenteditorandanalysisprogramforWindows
+95/98/NT.NucleicAcidsSymposiumSeries.1999;41:95–98.
+43. RonquistF,HuelsenbeckJP.MrBayes3:Bayesianphylogeneticinferenceundermixedmodels.Bioin-
+formatics.2003;19:1572–1574.doi:10.1093/bioinformatics/btg180PMID:12912839
+44. NylanderJ.MrModeltestv2.Distributedbytheauthor.EvolutionaryBiologyCentre, UppsalaUniversi-
+ty, Uppsala,Sweden;2004.
+45. StamatakisA,HooverP,RougemontJ.AfastboostrapalgorithmfortheRAxMLweb-servers.Syst
+Biol.2008;57:758–771.doi:10.1080/10635150802429642PMID:18853362
+46. SwoffordDL.PAUP*.Phylogeneticanalysisusingparsimony(*andothermethods).Version4., Sun-
+derland,MA;2002.
+47. FelsensteinJ.Confifendcelimitsonphylogenetics:anapproachusingthebootstrap.Evolution.1985;
+39:783–791.
+48. CzapikA,JordanA.LesciliéspsammophilesdelamerBaltiqueauxenvironsdeGdańsk.ActaProto-
+zool.1976;15:423–445.
+49. WangC,NieD.AsurveyofthemarineprotozoaofAmoy.ContrBiolLabSciSocChinaZoolSer.1932;
+8:285–385.
+50. ShigematsuA.Twonewmarineciliates.JournalofScienceoftheHiroshimaUniversitySeriesB.1953;
+14:47–50.
+51. Fauré-FrémietE.SurdeuxInfusoiresNouveauxdelaFamiliedesTrachelidae.BulletindelaSociete
+ZoologiquedeFrance.1908;33:13–16.
+52. WangC,NieD.Reportontherareandnewspeciesoffresh-waterinfusoria,partI.ZoologSci.1933;
+10:1–99.
+53. PetranA.Lacunoastereamicrofauneideciliatepsamofiledinmareaneagra-Litoralulrominesc.Studii
+CercBiol.1963;15:187–197.
+PLOSONE|DOI:10.1371/journal.pone.0123720 May6,2015 17/17
+

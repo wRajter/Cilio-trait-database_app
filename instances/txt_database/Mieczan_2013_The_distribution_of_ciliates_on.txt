@@ -1,0 +1,526 @@
+PolarBiol(2013)36:249–258
+DOI10.1007/s00300-012-1256-6
+ORIGINAL PAPER
+The distribution of ciliates on Ecology Glacier (King George
+Island, Antarctica): relationships between species assemblages
+and environmental parameters
+Tomasz Mieczan • Dorota Go´rniak •
+Aleksander S´wia˛tecki • Marek Zdanowski •
+Monika Tarkowska-Kukuryk
+Received:16May2012/Revised:11October2012/Accepted:17October2012/Publishedonline:17November2012
+(cid:2)TheAuthor(s)2012.ThisarticleispublishedwithopenaccessatSpringerlink.com
+Abstract Ciliates are important consumers of pico- and significantly explained the variance in ciliate communities
+nano-sized producers, are nutrient regenerators, and are an in cryoconite holes, snow, and surface streams were tem-
+important food source for metazoans. To date, ecological perature, conductivity, and total nitrogen. Further research
+research on ciliates has focused on marine ecosystems is required to explain the impact of biotic factors influ-
+ratherthanonglacierhabitats.Thispaperpresentsthefirst encingthepresenceofciliates,includingtheabundanceof
+major study on ciliates from the Ecology Glacier (South bacteria, microalgae, and small Metazoa.
+Shetland Islands, Antarctica). The objective of the study
+was to investigate the structure and spatial distribution of Keywords Ciliates (cid:2) Glaciers (cid:2) Cryoconite holes (cid:2)
+ciliate communities and to identify the environmental Antarctica
+factors determining the structure of the assemblages.
+Microbialcommunitieswerecollectedfromthreehabitats:
+surface snow, cryoconite holes, and glacier streams. Sam- Introduction
+pling was carried out every 3–4 days from January 17 to
+February 24, 2012. A total of 18 ciliate taxa were identi- Glaciersandicesheetsareamongtheleastexploredsectors
+fied. The species richness, abundance, and biomass of of the Earth’s biosphere. The existence of glaciers and ice
+protozoadifferedsignificantlybetweenthestationsstudied sheetsisdeterminedbyparticularpatternsofprecipitation,
+with the lowest numbers in streams on the glacier surface temperature,andtopographicconditions.Glaciersarechar-
+and the highest numbers in cryoconite holes. The RDA acterizedbylowtemperaturesassociatedwiththeaccumu-
+performed to specify the direct relationships between the lationofsnowand/orwaterasiceintheaccumulationzonein
+abundance of ciliate taxa and environmental variables winter, and the removal of ice in summerby melting, sub-
+showed obvious differences between studied habitats. The limation, and calving in the ablation zone (Anesio and
+analysis showed that all variables together explained Laybourn-Parry2012).Glacialsurfacesareexposedtolarge
+62.4 % of total variance. However, variables that amountsoffinewind-blownparticlesthatarecementedinto
+aggregatesbymicrobialexudates.Theresultingdarkparti-
+clesmeltintotheiceandformcryoconiteholes,water-filled
+T.Mieczan(&)(cid:2)M.Tarkowska-Kukuryk
+depressions(typically5 cm–\1 mindiameterand\0.5 m
+DepartmentofHydrobiology,UniversityofLifeSciences,
+Dobrzan´skiego37,20-262Lublin,Poland deep)thatdeveloponglacierswhensolar-heatedinorganic
+e-mail:tomasz.mieczan@up.lublin.pl andorganicdebrismeltintothesurface.Thereisincreasing
+evidencefromclonelibrariesandmicroscopystudiesthata
+D.Go´rniak(cid:2)A.S´wia˛tecki
+highly abundant microbial community can be found in
+DepartmentofMicrobiology,UniversityofWarmiaandMazury,
+Oczapowskiego1A,10-719Olsztyn,Poland cryoconite holes, including viruses, bacteria, and algae
+(Mueller et al. 2001; Porazinska et al. 2004; Anesio et al.
+M.Zdanowski
+2007), and other organisms such as tardigrades, rotifers,
+DepartmentofAntarcticBiology,InstituteofBiochemistry
+nematodes, protozoa, and insect larvae (Koshima 1984;
+andBiophysics,PolishAcademyofSciences,
+Ustrzycka10/12,02-141Warsaw,Poland Grongaard et al. 1999). Recent investigations suggest
+123
+
+250 PolarBiol(2013)36:249–258
+that glaciers are neither sterile nor abiotic repositories of Shetland Islands, Antarctic Peninsula, 62(cid:3)100S, 58(cid:3)280W)
+dormantcells.Infact,theysupportalargenumberofactive (Fig. 1).Approximately94 %oftheislandiscoveredwith
+microbial communities (Anesio et al. 2007, 2009) and are ice and the highest point of the ice cap extends to about
+distinguished by rich biodiversity. Glaciers are therefore 650 m above sea level. The island’s climate is character-
+important for preserving the stability of ecological rela- ized by a rapid succession of eastward moving low-pres-
+tionshipsinpolarareabutareamongthefastestdisappearing sure systems that transport relatively warm, humid air
+and most endangered ecosystems in the world (Oerlemans toward the coast of Antarctica (Bintanja 1995). These
+1986). This is of particular concern in combination with systems explain the relatively high annual mean tempera-
+progressive climate warming (Sa¨wstro¨m et al. 2002). Pre- ture (2.0 (cid:3)C) and humidity level (82 %) at Arctowski
+viousstudiesonthestructureandfunctionofglacierecology Station, situated on the south–eastern side of the island
+havefocusedonbacterialcommunities(Anesioetal.2009), (Martinov and Rakusa-Suszczewski 1989). During sum-
+andverylittleisknownaboutciliatesandtheirroleinthese mer, the mean temperature is well above zero and precip-
+ecosystems.Inthetaxonomicalapproachtotheecologyof itation varies from 500 mm year-1 at sea level to
+algae, rotifers and tardigrades are usually studied indepen- approximately 2,000 mm year-1 at the summit of the
+dently,andthefocushasbeenonthetaxonomyofthespecies island (Martinov and Rakusa-Suszczewski 1989). During
+restrictedtoglaciers(Anesioetal.2009).Incontrast,littleor the past decade, a rapid retreat of valley-type tidewater
+no attention has been given to the abundance and trophic glaciers has been observed. Birkenmajer (2002) described
+structure of ciliates. These microorganisms are important the Ecology Glacier retreat in detail. It has been under
+consumers of pico- and nano-sized producers, are nutrient continuous recession since at least 1956, but the rate of
+regenerators,andareanimportantfoodsourceformetazoans recession decreased to 4–4.5 m year-1 in 1988–1989.
+(Pierce and Turner 1992). Sa¨wstro¨m et al. (2002) studied However,itrapidlyacceleratedinthedecadefrom1989to
+ciliatesincryoconiteholesinAntarctica,andtheubiquitous 1999,reachingarateofupto30 m year-1(Gryziak2009).
+Monodinium, Halteria, and Strombidium dominated the
+generaidentified.Otherresearchersidentifiedsphagnophilus Sampling and laboratory analyses
+andsoilprotozoa(Foissner1996;Petz1997;Bamforthetal.
+2005).However,themajorityofecologicalresearchoncil- Atransectwas establishedrunningup the ablation zone of
+iateshasfocusedonlakeandmarineecosystemsratherthan the Ecology Glacier, and two additional samples were
+onglacierhabitats(Laybourn-Parryetal.1991;Robertsetal. taken from the medial edges of the glacier, approximately
+2004). These studies showed that water temperature and half way along the transect. Microbial communities
+nutrients were positively correlated with the density and were sampled from three habitat types: surface snow
+biomassofciliates.However,nosimilarinvestigationshave (62(cid:3)10.3700S,58(cid:3)28.5670W,80 m a.s.l.),cryoconiteholes
+beencarriedoutonglaciers.Oneoftheprimarygoalsofthe (62(cid:3)10.4040S,58(cid:3)28.5460W,85–145 m a.s.l.),andglacier
+presentstudywastoidentifythetaxonomiccompositionand streams(62(cid:3)10.2260S,58(cid:3)28.2680W,40 m a.s.l.).Surface
+trophic structure of ciliates occurring in cryoconite holes, snow, cryoconite, and stream water and sediment were
+streams, and surface snow on glaciers. As reported by sampled from a zone in the mid-parts of the ablation area
+Whartonetal.(1981),glacierecosystemsaredistinguished at around 80–145 m altitude. Additionally, two surface
+byaparticularmicrotopographythatresultsinalengthwise snow samples were taken from an accumulation zone
+gradationofbacterialdistribution.Similarfindingscouldbe (62(cid:3)10.4740S, 58(cid:3)29.2880W, [230 m a. s. l.). Sampling
+expected for the distribution of ciliates. In summary, the was carried out every three to 4 days from January 17 to
+researchwasundertakentoverifythefollowinghypotheses: February 24, 2012. During each sampling session, three
+(1) that the physio-chemical characteristics of water influ- samples were collected from each site (surface snow—8
+encethespeciesstructureofciliatesonglaciersand(2)that sites, cryoconite holes—8 sites, glacier streams—8 sites).
+speciesrichnessandabundanceshowdistinctdifferentiation Samples from the upper 1–5 cm of snow were collected
+at various sites (cryoconite holes, ephemeral streams, and using a plastic tube (diameter = 50 mm, *30 ml water
+snow). volume). Cryoconite and stream sediment and water were
+sampled using a plastic pipette (diameter = 50 mm). The
+volume of sediment and water extracted from each habitat
+Materials and methods ranged from 10 to 15 ml. Three subsamples, about 10 ml
+each, were pooled into a calibrated vessel to form a com-
+Study site positesample(30 ml).Quantitativesamplingandcounting
+were performed with classical limnological methods
+Samples were collected from Ecology Glacier, part of the using the Utermo¨hl technique (Utermo¨lh 1958). The first
+Warszawa Icefield, located on King George Island (South subsample was retained for live analysis; then, 20 ml of
+123
+
+PolarBiol(2013)36:249–258 251
+Fig.1 LocationofKing
+GeorgeIsland(a)andEcology
+Glacier(b)withthesampling
+sites
+water was immediately preserved with Lugol’s solution randomly selected microscope fields. Cell sizes were
+(0.2 % final concentration), settled in a glass column for measured on 10 specimens of each species using a camera
+24 h in the laboratory, and then concentrated to 10 ml. (5 Megapixel)attachedtothemicroscope.Theabundance
+Finally, organisms in 0.1 ml of the concentrated sample of microorganisms was calculated per 1 ml of water.
+werecountedusingaNikonEclipsemicroscopewithphase Ciliates are highly perishable, and their motility is a spe-
+contrastat400–1,0009magnification.Estimatesofciliates cies-specific feature; therefore, species identification and
+abundancewereobtainedbyenumeratingspecimensin300 measurements were made on live material immediately
+123
+
+252 PolarBiol(2013)36:249–258
+after returning to the laboratory and after silver impregna- determined using a spectrophotometric method with
+tion (Augustin et al. 1984). Live ciliate samples were ana- ammonium heptamolybdate, and concentrations of ammo-
+lyzed in a 1 ml Sedgwick–Rafter counting cell under a nium nitrogen and total nitrogen were determined using
+binocular microscope, and subsamples of dense samples Kjeldahl’smethod (Golterman 1969).
+were taken with a Hensen–Stempel pipette. The species
+were identified using the following methods: intravital— Statistical analyses
+coloring vacuoles with indifferent red (can color the mac-
+ronucleus)andthemicro-andmacronucleuswithmalachite Diversityanalysis(Shannon–Wienerdiversityindex,log -
+10
+green (Lee et al. 1985), and the Fernandez-Galiano based) was performed using the Multivariate Statistical
+method—coloring the cell structures in ammoniacal Package MVSP (2002, Kovach Computing Services). All
+solution (kinetosomes, the micro- and macronucleus) statistical analyses were made using SAS (2001). All abi-
+(Fernandez-Galiano 1994). Trophic identification was per- oticandbioticdatawerelog-transformedtoapproximatea
+formedfollowingthemethodofFoissnerandBerger(1996). normal distributionand tolinearizebivariate relationships.
+Ciliate biomass was estimated by multiplying the Full-factorial ANOVA was used to test for significant
+numerical abundance by the mean cell volume (1 lm3 = effectsofthethreeindependentfactors(typeofmicro-site,
+1 pg) calculated from direct volume measurements using vertical micro-distribution, and time) on ciliate species
+appropriategeometricformulas(Finlay1982).Biovolumes richness and abundance. Ordination techniques were used
+of ciliates were estimated by assuming geometric shapes to describe the relationships between the abundance of
+and converting to carbon using the following conversion ciliates in different habitats (cryoconite holes, snow, and
+factor:1 lm3 = 1.1 9 10-7 lg C(Gilbertetal.1998).An surface streams) and environmental variables. An indirect
+obvious shrinkage of stained ciliates was noticed with the multivariate method, DCA, was used to measure and
+silverpreparation.Therefore,calculatedcellvolumeswere illustrate gradients indicated by ciliate communities.
+multiplied by a correction factor of 0.4 (Jerome et al. Because the length of the gradient was\3 standard devi-
+1993).TheGinievennessindexwascalculatedbecauseits ations,redundancyanalysis(RDA)wasusedtoexplorethe
+independence of the number of taxa per sample allowed a relationship between the abundance of ciliate taxa and
+better comparison between samples (Nijssen et al. 1998). physical and chemical variables (Ter Braak 1988–1992).
+The frequency of occurrence of single species was cal- Principal Component Analysis (PCA) was performed to
+culated as a percentage of all collected samples in which confirm the separation of ciliate communities among
+thespecieswasnoted.Allspecieswereclassifiedintofour cryoconite holes, snow, and surface stream habitats. The
+groups as follows: very constant species (occurring in analysis was performed based on the abundance of ciliate
+61–100 % of samples), constant species (occurring in species. Automatic forward selection of environmental
+41–60 % of samples), accidental species (occurring variables (Monte Carlo permutation test) was used to
+in 21–40 % of samples), and accessory species (occurring determinethemostimportantvariables(LepsˇandSˇmilauer
+in\20 % of samples). 2003).Variablesforwhichthelevelofsignificancedidnot
+The similarity of ciliates between the zones was evalu- exceed 0.05 were marked actively on the diagrams. The
+ated using Jaccard’s method: ordination analyses were performed using CANOCO 4.5
+for Windows.
+c
+S ¼ (cid:4)100%
+xy aþb(cid:3)c
+whereS isthefaunisticsimilaritybetweendatasetsxand Results
+xy
+y,cisthenumberoftaxacommonforsetsxandy,aisthe
+numberoftaxainsetx,andbisthenumberoftaxainsety. Environmental variables
+Surface snow and water samples for chemical analysis
+were taken simultaneously with microbial samples. Tem- The water temperature varied among sites and samples,
+perature, oxygen, pH, and conductivity were determined ranging from -0.05 (cid:3)C in cryoconite holes and surface
+in situ using a multifunction device equipped with an streams to-0.72 (cid:3)C insurface snow (ANOVA, F = 16.5,
+integrated head (CX-461, Elmetron, Poland). The remain- p = 0.001). Statistically significant differences among the
+ing factors (total nitrogen N , total phosphorus P , studiedhabitatswerefoundforpH,conductivity,P ,N ,
+tot tot tot tot
+ammoniumnitrogenN-NH ,anddissolvedorthophosphates N-NH and P-PO (ANOVA, F = 14.21–16.22, p =
+4 4, 4
+P-PO ) were analyzed in the laboratory using a spectro- 0.001).Amongthestudiedhabitats,thehighestaveragepH
+4
+photometer VEGA 400 equipped with a thermoreactor value (pH 8.45) was noted in the cryoconite holes and the
+(SpectroquantTR320,Merck,Germany).Concentrationsof lowest in the surface snow (pH 6.55). Concentrations of
+total phosphorous and dissolved orthophosphates were P and P-PO were highest in the surface streams;
+tot 4
+123
+
+PolarBiol(2013)36:249–258 253
+however,theremainingparameters(conductivity,N ,and cryoconite holes (73 ± 11 lg C ml-1) than in streams
+tot
+N-NH ) showed highest values in the cryoconite holes (34 ± 7 lg C ml-1)(ANOVA,F = 21.2,p = 0.001).The
+4
+(Table 1). community composition of ciliates varied greatly between
+micro-habitats.Holophryasp.andProrodonsp.dominated
+Ciliate species richness and abundance in the surface snow, while Oxytricha sp., Prorodon sp.,
+C. cucullus, and Cyrtophorida were prevalent in the
+A total of 18 ciliate taxa were identified (Table 2). The cryoconite holes. In ephemeral streams, the community
+highest number of ciliate taxa (18) occurred in the cryoc- was predominantly composed of Caenomorpha spp.,
+onite holes. Lower numbers of taxa (8) were observed in S. mytilus-Komplex, and Halteria gradinella (Fig. 2).
+thesurfacestreams.Thediversityanalysisrevealedamean
+Shannon–Wienerdiversityindexof0.92 ± 0.05andaGini
+Size classes and feeding groups
+evenness measure of 0.39 ± 0.01. The highest diversity
+wasmeasuredinthecryoconiteholes(H0 = 1.23), andthe
+Overall,medium-sizedciliates(50–200 lm)dominated all
+lowest diversity was observed in the streams (H0 = 0.03).
+sampling dates and sites combined, accounting for up to
+The mean number of taxa per sample was 6 ± 1, with a
+50–65 % of the total. Small species (\50 lm) represented
+maximum of 15 taxa per sample in cryoconite holes and a
+10–40 %, and large ciliates ([200 lm) made up 10–23 %
+minimumof2taxainstreams.Jaccard’sindexofsimilarity
+of the samples (Fig. 3). However, the class size of ciliates
+ranged from 50 to 65 %. The group of characteristic
+differed clearly between micro-habitats. Medium-sized
+(exclusive) taxa that occurred only in one habitat was
+formsdominatedcryoconiteholesandsurfacesnow,while
+comparatively small. The exclusive species in cryoconite
+the remaining micro-habitats were dominated by small
+holes were Codonella cratera, Drepamonas revoluta,
+ciliates. Ciliate feeding groups consisted of bacterivores,
+Urotrichasp.,andZosterodasyssp.Themostfrequenttaxa
+algivores, algae–diatom feeders, mixotrophic predators,
+wereProrodonsp.,Oxytrichasp.,andHolophryasp.,and6
+and omnivores (Table 2). Bacterivore taxa clearly domi-
+ciliate taxa had frequencies\5 %. In surface snow, only
+natedincryoconiteholes([40 %),whilesurfacesnowand
+Holophrya sp. was a very constant species, and two spe-
+streams were dominated by omnivorous ciliates (50–58 %
+cies, Colpoda cucullus and Paramecium putrinum, were
+of the total number) (Fig. 4).
+accidentalspecies.Theremaining6specieswereaccessory
+species. In cryoconite holes Cyrtophorida, Cinetochilum
+margaritaceum, C. cucullus, Euplotes sp., Prorodon sp., Relationships between ciliate communities
+Oxytricha sp., and Caenomorpha spp. occurred as very and environmental variables
+constant species. One taxon, Holosticha pullaster, was a
+constant species. There were also 5 accessory and 5 acci- InthePCAdiagram(Fig. 5a,b),thefirsttwoaxesseparate
+dental species.Threespecies,Caenomorphaspp.,Halteria ciliate communities among studied habitats. Axis 1
+sp.,andStylonychiamytilus-Komplexwereveryconstantin (k = 0.510) and axis 2 (k = 0.221) explained 73.1 % of
+the streams. The further 2 taxa found, Amphileptus pleu- the total variance in the ciliate data. The abundance of
+rosigma and P. putrinum, were constant species, 1 species ciliates was most strongly correlated with the main direc-
+was an accidental species, and 2 were accessory species tion of variation (axis 1), with samples collected in
+(Table 2). The ciliate abundances were also significantly cryoconite holes (Fig. 5a). The densities of most ciliate
+related to the type of micro-habitat, with the lowest num- taxaincreasedtowardcryoconitehabitats(Fig. 5b).Axis2
+bers in the surface streams (6 ± 2 ind. ml-1) and the appeared to separate ciliate communities collected in
+highest in the cryoconite holes (21 ± 6 ind. ml-1) cryoconite holes from snow and surface stream habitats.
+(ANOVA, F = 18.5, p = 0.001). Ciliate biomass, corre- The RDA performed to specify the direct relationships
+sponding with abundances, was significantly higher in the between the abundance of ciliate taxa and environmental
+Table1 Physicalandchemicalcharacteristicsofthewaterofinvestigatedglacier(averagevaluesJanuary–February2012)
+Habitats Temp. Cond. pH Dissolv.oxygen N N-NH P P-PO *
+tot 4 tot 4
+(oC) (lscm-1) (mgl-1) (mgNl-1) (mgNl-1) (mgPl-1) (mgPO 3-l-1)
+4
+Surfacesnow -0.72 0.51 6.55 8.80 0.625 0.024 0.03 0.170
+Cryoconiteholes -0.05 2.49 8.45 11.45 1.451 0.085 0.13 0.232
+Surfacestreams -0.05 1.95 8.27 11.17 0.810 0.077 0.22 0.325
+*Temp.Temperature, Cond.conductivity, Dissolv.oxygendissolved oxygen,N totalnitrogen,N-NH ammoniumnitrogen, P totalphos-
+tot 4 tot
+phorus,P-PO dissolvedorthophosphates
+4
+123
+
+254 PolarBiol(2013)36:249–258
+Table2 Thecompositionand
+Taxon Size(lm) Mainfood* Habitattype
+frequence(%ofsamples)of
+ciliatestaxafoundonEcology Snow Cryoconite Streams
+Glacier holes
+A.pleurosigma(Stokes1884) [200 P 0 10 50
+Cyrtophorida [50 B 10 100 0
+C.margaritaceum(Ehrenberg1831) \50 B,A 0 61 0
+C.cratera(Leidy1877) [50 A 10 10 0
+C.cucullus(Muller1773) [50 O 30 100 0
+Caenomorphaspp. [50 B 0 100 100
+Drepanomonasrezoluta(Pennard1922) \50 B 0 30 0
+Euplotessp. [50 O 10 61 30
+Halteriasp. \50 B,A 0 10 80
+Holophryasp. [50 O 100 50 0
+H.pullaster(Mueller1773) [50 B,Al 10 10 0
+Oxytrichasp. [50 O 10 100 10
+P.putrinum(Claparade,Lachmann1859) [50 O 10 30 50
+Prorodonsp. [200 P 30 90 0
+S.mytilus-Komplex [200 O 0 30 80
+*Mainfoodexplanation:
+Vorticellacompanula(Ehrenberg1831) [50 B,A 0 10 10
+Aalgivores,Alalgae–diatom
+feeders,Bbacterivores, Urotrichasp. \50 B,A 0 40 0
+Mmixotrophic,Oomnivores, Zosterodasyssp. [200 Al 0 40 0
+Ppredators(Foissnerand
+Totalspeciesnumber:18 9 18 8
+Berger1996)
+Fig.2 Dominationstructureof
+ciliatesininvestigatedhabitats
+onEcologyGlacier(%oftotal
+numbers)
+variables showed obvious differences between studied ciliate taxa collected in cryoconite holes from those found
+habitats. All variables together explained 62.4 % of total in snow and surface streams.
+variance. However, variables that significantly (p\0.05,
+Monte Carlo permutation test) explained the variance in
+ciliate communities in cryoconite holes, snow, and surface Discussion
+streams were temperature (k = 10.11, F = 4.11, p =
+0.008), N (k = 60.13, F = 4.19, p = 0.002), and con- A total of 18 ciliate taxa were recorded on the Ecology
+tot
+ductivity (k = 20.30, F = 8.10, p = 0.002). The RDA Glacier. The highest number of taxa (18) was recorded in
+biplot showed a direct influence of habitat on ciliate cryoconite holes and the least (8) in surface ephemeral
+communities (Fig. 6a, b). Axis 1 appeared to separate streams. In contrast, on a glacier in the Arctic archipelago
+123
+
+PolarBiol(2013)36:249–258 255
+Fig.3 Percentages of the dominant size classes for ciliates in
+investigatedhabitatsonEcologyGlacier
+Fig.5 Principalcomponentsanalysis(PCA)biplotsforAxes1and2
+Fig.4 Percentages of dominant feeding groups for ciliates in showing:astudysites,bciliatescommunity.Axesarederivedfrom
+investigatedhabitatsonEcologyGlacier the variation in the taxonomic data—matrix. Samples collected in
+studied sites are marked with an Arabic numeral: 1–7 cryoconite
+holes; 8–14 snow; 15–21 surface streams (Amp—A. pleurosigma,
+of Svalbard, in micro-sites dominated by cryoconite holes,
+Cyr—Cyrtophorida, Cin—C. margaritaceum, Cod—C. cratera,
+onlyfourspeciesofciliateswereobserved(Sa¨wstro¨metal. Col—C. cucullus, Cae—Caenomorpha spp., Dre—Drepanomonas
+2002).Todate,nodataare available onthecomparison of revolute,Eup—Euplotessp.,Hal—Halteriasp.,Hol—Holophryasp.,
+ciliates in other micro-habitats on glacier surfaces. The Holos—H. pullaster, Oxy—Oxytricha sp., Par—P. putrinum, Pro—
+Prorodonsp.,Sty—S.mytilus-Komplex,Vor—V.companula,Uro—
+number of species of ciliates increased with an augmen-
+Urotrichasp.,Zos—Zosterodasyssp.)
+tationintheconcentrationofnutrients.Similarresultswere
+obtained in Antarctic lakes (Roberts et al. 2004). The Significantly higher numbers of species were observed
+present study revealed a significant relationship between in cryoconite holes than in surface snow and streams.
+ciliatespeciesrichnessandthetypeofmicro-environment. Cameron et al. (2011) observed a clear increase in the
+123
+
+256 PolarBiol(2013)36:249–258
+the micro-habitat. Ciliate species identified in this study
+havealsobeenobservedinotherpolarregions.Halteriasp.
+andOxytrichasp.were recorded incryoconite holesinthe
+Arctic(Sa¨wstro¨metal.2002),andColpodeaandOxytricha
+sp. also occurred in mosses and soil environments in
+Antarctica (Foissner 1996; Petz 1997; Bamforth et al.
+2005). Groups of characteristic (exclusive) ciliates occur-
+ringinonlyonemicro-habitatformedacomparativelylow
+number of taxa and also had low frequency and numbers.
+Fourcharacteristictaxawereidentifiedincryoconiteholes:
+C. margaritaceum, D. revoluta, Urotricha sp., and Zost-
+erodasys sp. These species have also been observed in
+ciliatecommunitiesinmezo-andeutrophiclakesandhave
+also been encountered in mosses in the upper soil layer
+(Foissner and Berger 1996; Bamforth 2001; Mieczan
+2005). According to some authors (Foissner and Berger
+1996), these species occur most commonly in oligo- and
+beta-mesosaprobic environments. Grolie`re (1977) studied
+the occurrence of these species in peat lands in eastern
+France. Similar to species richness, the number of ciliates
+wasalsosignificantlyhigher incryoconiteholescompared
+with surface snow and streams. The abundance of ciliates
+observed on the Ecology Glacier was higher than that
+recorded on the Canada Glacier located in the McMurdo
+Dry Valleys of Antarctica (Mueller and Pollard 2004).
+Certain physical and chemical properties of water in the
+glacier had a clear effect on the structure of microorgan-
+isms.Inthepresentstudy,boththenumbersandbiomassof
+ciliates decreased in habitats with low concentrations of
+nutrients(particularlyconcentrations oftotal nitrogen) and
+low conductivity. It seems that an increase in the abun-
+dance of microorganisms in the cryoconite holes may be
+related to more favorable nutritional conditions at these
+sites.Thisissupportedbyasignificantcorrelationbetween
+total nitrogen content and ciliate abundance. In addition,
+nutrients may have an indirect effect on the occurrence of
+Fig.6 BiplotsofRedundancyAnalysis(RDA)ofciliatesaspecies,
+ciliates by controlling the abundance of potential food
+bsamples.Arrowsmarkedasboldedindicatesignificantparameters
+in Monte Carlo permutation test at p\0.05. Samples collected in (particularly bacteria and algae). The significant effect of
+studied sites are marked with an Arabic numeral: 1–7 cryoconite nutritional conditions is also supported by Zdanowski
+holes; 8–14 snow; 15–21 surface streams (Amp—A. pleurosigma,
+(personalinformation),whofoundthatbacterialabundance
+Cyr—Cyrtophorida, Cin—C. margaritaceum, Cod—C. cratera,
+wasapproximately2–3timeshigherinthecryoconiteholes
+Col—C. cucullus, Cae—Caenomorpha spp., Dre—Drepanomonas
+revolute,Eup—Euplotessp.,Hal—Halteriasp.,Hol—Holophryasp., than in the surface streams. Temperature is another factor
+Holos—H. pullaster, Oxy—Oxytricha sp., Par—P. putrinum, Pro— likely to substantially influence ciliate succession.
+Prorodonsp.,Sty—S.mytilus-Komplex,Vor—V.companula,Uro—
+AccordingtoFinlay(1980),thegrowthandreproductionof
+Urotrichasp.,Zos—Zosterodasyssp.)
+freshwater ciliates were strongly correlated with tempera-
+ture.OntheEcologyGlacier,temperaturehadasignificant
+varietyofspeciesinglacialcryoconite holesinthecaseof influence on the number of ciliates; numbers were signifi-
+bacterial, eukaryotic, and archaeal communities. In the cantlyhigherinthecryoconiteholesthaninotherhabitats.
+ciliate assemblage, only two ciliate species constituted Many ciliates occur in waters with a broad temperature
+common taxa, that is, they occurred in all three micro- range, or are eurythermic, and higher temperature usually
+environments analyzed. This suggests that the taxonomic causes anabundantgrowth ofciliates. Inthisstudy,ciliate
+composition of ciliates is closely related to specific sites communities were mainly composed of Holophrya sp.,
+and depends on the physical and chemical parameters of Oxytricha sp., Prorodon sp., S. mytilus-Komplex, and
+123
+
+PolarBiol(2013)36:249–258 257
+Caenomorpha spp. Most of these species have been found Our study revealed the diverse character of the ciliate
+in lakes of various trophic types, and in ice environments community of the Ecology Glacier. A total of 18 taxa
+(Foissner 1996; Petz 1997; Bamforth et al. 2005). Species belonging to 9 genera were identified. Ciliate species
+belonging to Prostomatida and Cyrtophorida have also richness and abundance decreased in surface snow and
+beenobservedinthepelagiczoneofsmallandlargewater streams,andcryoconiteholesweregenerallycharacterized
+bodies, occasionally in running waters, and were also by higher richness and density of these microorganisms.
+commonly found in strongly contaminated waters Our study suggests that ciliates play an important role in
+(Mieczan 2005). Dominance of Colpodea was observed in the microbial food web in glacier ecosystems. The most
+moss in the Gough and Marion Islands (Foissner 1996). common ciliate feeding groups were bacterivores and
+The domination of this order could have resulted from its omnivores. Temperature, conductivity, and total nitrogen
+wide ecological tolerance. In habitats with very low con- concentrations appeared to play a key role in determining
+centrations of nutrients (surface streams), Caenomorpha the distribution pattern of ciliate communities. Further
+spp., S. mytilus-Komplex, and C. cratera were the most research is required to explain the impact of biotic factors
+numerous species and were identified as permanent com- influencing the presence of ciliates, including the abun-
+ponents throughout the study period. Cyrtophorida also dance of bacteria, microalgae, and small Metazoa.
+contributed to the species found. However, the contribu-
+tion of Oxytricha sp., Prorodon sp., and Holophrya sp. Acknowledgments We thank our colleagues Marta Nieckarz and
+Adam Latusek for their invaluable help and technical assistance
+increased with an increase in the concentration of total
+duringcollectionofthesamples.
+nitrogen (cryoconite holes and surface snow). Species of
+the genera Oxytricha and Holophrya occurred in lakes Open Access This article is distributed under the terms of the
+differing in trophic status. Prorodon generally occurred Creative Commons Attribution License which permits any use, dis-
+tribution, and reproduction in any medium, provided the original
+abundantly in eutrophic waters and were also observed in
+author(s)andthesourcearecredited.
+humiclakesandpeatbogecosystems(Ja¨rvinen1993).The
+ciliate communities of the habitats studied contained the
+greatest number of bacterivorous species and the smallest
+References
+number of algivore ciliates. This suggests that ciliates in
+glacier ecosystems constitute a significant link in the flow
+Allende L, Pizarro H (2006)Top-down control on planktoncompo-
+of matter and energy between bacteria and higher inver-
+nentsinanAntarctic pond:experimentalapproach tothestudy
+tebrates. Bacterivorous ciliates reached the highest pro- oflow-complexityfoodweb.PolarBiol29:893–901
+portion in cryoconite holes, slightly smaller in surface Anesio AM, Laybourn-Parry J (2012) Glaciers and ice sheets as a
+biome.TrendsEcolEvol4:219–225
+streams, andthesmallestinsurfacesnow.Inthesnowand
+AnesioAM,MindlB,Laybourn-ParryJ,HadsonAJ,SattlerB(2007)
+streams, the proportion of omnivorous species increased.
+Viral dynamics in cryoconite holes on a high Arctic glacier
+The small proportion of algivorous and algae–diatom (Svalbard).JGeogrRes.doi:10.1029/2006JG000350
+feeder ciliates in the habitats studied could have been Anesio AM, Hodson AJ, Fritz A, Psenner R, Sattler B (2009) High
+microbial activity on glaciers: importance to the global carbon
+caused by problems with access to food availability. The
+cycle.GlobChangeBiol.doi:10.1111/j1365-2486.2008.01758
+dominating algae were filamentous and colonial diatoms,
+Augustin H, Foissner W, Adam H (1984) An improved pyridinated
+inaccessible or barely accessible for ciliates. The size silver carbonate method which need few specimens and yields
+classes of protozoa clearly differed between individual permanentslidesofimpregnationciliates(Protozoa,Ciliophora).
+Mikroskopie41:134–137
+sites. Medium forms (50–200 lm) dominated snow and
+Bamforth SS (2001) Proportions of active ciliate taxa in soils. Biol
+cryoconite holes, whereas small forms (\50 lm) domi-
+FertilSoils33:197–203
+nated streams. Fenchel (1987) proposed that the size of Bamforth SS, Wall DH, Virginia RA (2005) Distribution and
+protozoa was correlated with the size of the food particle diversity of soil protozoa in the McMurdo Dry Valleys of
+Antarctica.PolarBiol28:756–762
+preferred. Nanociliates (\50 lm) mainly feed on pico-
+Bintanja R (1995) The local surface energy balance of the Ecology
+algae and bacteria. Medium-sized ciliates feed on bacteria
+Glacier, King George Island, Antarctica: measurements and
+and small zoo- and phytoflagellates (\5 lm), while larger modeling.AntarcticSci3:315–325
+ciliates prefer nanoflagellates from the size fraction Birkenmajer K (2002) Retreat of Ecology Glacier, Admirality Bay,
+King George Island (South Shetland Islands, West Antarctica),
+4–10 lm. Paffenho¨fer (1998) provided further evidence
+1956–2001.BullPolishAcadSciEarthSci50:15–29
+that ciliates ingest particles ranging from 1/3 to 1/30 of
+CameronKA,HodsonAJ,OsbornAM(2011)Structureanddiversity
+theiractualdiameter.TheEcologyGlacierisdominatedby of bacterial, eukaryotic and archaeal communities in glacial
+nano- and medium-sized ciliates that would prey on pico- cryoconite holes from the Arctic and the Antarctic. FEMS
+MicrobiolEcol.doi:10.1111/j.1574-6941.2011.01277
+algae and bacteria. Similar patterns also occurred in
+Fenchel T (1987) Ecology of protozoa. In: Brock TD (ed) Ecology
+the Pingu¨i Pond located in Hope Bay in the Maritime
+of protozoa: the biology of free-living phagotrophic protist.
+Antarctic region (Allende and Pizarro 2006). Springer,Berlin,pp197–198
+123
+
+258 PolarBiol(2013)36:249–258
+Fernandez-Galiano D (1994) The ammoniacal silver carbonate Lepsˇ J, Sˇmilauer P (2003) Multivariate analysis of ecological data
+method as a general procedure in the study of protozoa from usingCANOCO.UniversityPress,Cambridge
+sewage(andother)waters.WaterRes28:495–496 Martinov V, Rakusa-Suszczewski S (1989) Ten years of climate
+Finlay BJ (1980) Temporal and vertical distribution of ciliophoran observationsattheArctowskiandBellingshausenStation(King
+communities in the benthos of a small eutrophic loch with George Islands, South Shetlands, Antarctis). In: Breymeyer A
+particularreferencetotheredoxprofile.FreshwBiol10:15–34 (ed) Global Change Regional Research Centres: Scientific
+Finlay BJ (1982) Procedures for the isolation, cultivation and problemsandconceptdevelopments,Warsaw,pp80–90
+identificationofprotozoa.ExpMicrobEcol1:44–65 MieczanT(2005)Periphyticciliatesinlittoralzoneofthreelakesof
+FoissnerW(1996)Terrestialciliates(Protozoa,Ciliophora)fromtwo differenttrophicstatus.PolJEcol53:489–502
+islands(Gough,Marion)inthesouthernoceans,withdescription Mueller DR, Pollard WH (2004) Gradient analysis of cryoconite
+of two new species, Arcuospathidium cooperi and Oxytricha ecosystemsfromtwopolarglaciers.PolarBiol27:66–74
+ottowi.Archivfu¨rProtistenkol23:282–291 Mueller DR, Vincent WF, Pollard WH, Fristen CH (2001) Glacial
+Foissner W, Berger H (1996) A user-friendly guide to the ciliates cryoconite ecosystems: a bipolar comparison of algal commu-
+(Protozoa, Ciliophora) commonly used by hydrobiologists as nitiesandhabitats.NovHedvigBeih123:173–197
+bioindicators in rivers, lakes and waste waters, with notes on Nijssen D, Rousseau R, Van Hecke P (1998) The Lorenz curve: a
+theirecology.FreshwBiol35:375–470 graphicalrepresentationofevenness.Coenoses13:33–38
+GilbertD,AmblardC,BourdierG,FrancezAJ(1998)Themicrobial OerlemansJ(1986)Glaciersasindicatorsofcarbondioxidewarming.
+loop at the surface of a peatland: structure, functioning and Nature320:607–609
+impactofnutrientsinputs.MicrobEcol35:89–93 Paffenho¨fer GA (1998) Heterotrophic protozoa and small metazoa:
+GoltermanHL(1969)Methodsforchemicalanalysisoffreshwaters. feeding rates and prey-consumer interactions. J Plankton Res
+BlackwellScientificPublications,Oxford 20:121–133
+Grolie`re CA (1977) Contribution a` l’e`tude de quelques cilie`s Petz W (1997) Ecology of the active soil microfauna (Protozoa,
+des sphaignes: II—Dynamique des populations. Protistol 13: Metazoa)ofWilkesLand,EastAntarctica.PolarBiol18:33–44
+335–352 PierceRW,TurnerJT(1992)Ecologyofplanktonciliatesinmarine
+Grongaard A, Pugh PJA, McInnes SJ (1999) Tardigrades and other foodwebs.RevAquatSci6:139–181
+cryoconite biota on the Greenland Ice Sheet. Zool Anz Porazinska DL, Fountain AG, Nylen TH, Tranter M, Virginia RA,
+228:211–214 Wall DH (2004) The biodiversity and biogeochemistry of
+GryziakG(2009)Colonizationbymitesofglacier-freeareasinKing cryoconiteholesfromMcMurdoDryValleyglaciers,Antarctica.
+George Island, Antarctica. Pesqui Agropecu Bras Brasilia ArctAntarctAlpRes36:84–91
+8:891–895 Roberts EC, Priscu JC, Wolf C, Lyons B, Laybourn-Parry J (2004)
+Ja¨rvinen M (1993) Pelagic ciliates in acidified mesohumic forest The distribution of microplankton in the McMurdo Dry Valley
+lake before and after lime addition. Ver Intern Ver Limnol 25: Lakes,Antarctica:responsetoecosystemlegacyorpresent-day
+534–538 climaticcontrol?PolarBiol27:238–249
+Jerome CA, Montagnes DJS, Taylor FJR (1993) The effect of the SAS Institute Inc (2001) SAS users guide. Version 8.2 Edition, SA
+quantitative protargol stain and Lugols and Buinos fixatives on Cary
+cellsize:amoreaccurateestimateciliatespeciesbiomass.JEuk Sa¨wstro¨mC,MumfordP,MarshallW,HadsonA,Laybourn-ParryJ
+Microbiol40:254–259 (2002)Themicrobial communitiesandprimary productivityof
+KoshimaS(1984)Anovelcold-tolerantinsectfoundinaHimalayan cryoconite holes in Arctic glacier (Svalbard 79oN). Polar Biol
+glacier.Nature310:225–227 25:591–596
+Kovach W (2002) MVSP-Multivariate statistical package. Kovach Ter Braak CJF (1988–1992) CANOCO–FORTRAN program for
+ComputingServices,Anglesey CanonicalCommunityOrdination(version2.1).Microcomputer
+Laybourn-Parry J, Marchant HJ, Brown P (1991) The plankton of a Power96.Ithaca,NewYork
+large oligotrophic freshwater Antarctic lake. J Plankton Res Utermo¨lh H (1958) Zur vervollkommnung der quantative phyto-
+13:1137–1149 plankton-methodik.MittIntVerLimnol9:1–38
+LeeJJ,SmallEB,LynnDH,BoveeEC(1985)Sometechniquesfor Wharton RA, Vinyard WC, Parker BC, Simmons GM, Seaburg KG
+collecting,cultivatingandobservingprotozoa.In:LeeJJ,Hutner (1981) Algae in cryoconite holes on the Canada Glacier in
+SH,BoveeEC(eds)Anillustratedguidetotheprotozoa.Society southernVictoriaLand,Antarctica.Phycologia20:208–211
+ofprotozoologists.AllenPress,Lawrence,pp1–7
+123
+

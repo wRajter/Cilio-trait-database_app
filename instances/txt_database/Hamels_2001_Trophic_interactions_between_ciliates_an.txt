@@ -1,0 +1,706 @@
+AQUATIC MICROBIAL ECOLOGY
+Vol. 26: 61–72, 2001 Published October 26
+Aquat Microb Ecol
+Trophic interactions between ciliates and
+nematodes from an intertidal flat
+Ilse Hamels1,*, Tom Moens2, Koenraad Muylaert1, Wim Vyverman1
+1Section of Protistology and Aquatic Ecology, and 2Marine Biology Laboratory, Department of Biology, University of Gent,
+K.L. Ledeganckstraat 35, 9000 Gent, Belgium
+ABSTRACT: The present study investigated the possibility of a trophic link between ciliates and
+nematodes in fine sandy sediments of the Molenplaat intertidal flat (Schelde estuary, SW Nether-
+lands). Grazing experiments were conducted under controlled laboratory conditions, with ciliate spe-
+cies isolated from enrichment cultures and nematodes collected directly from the field. Significant
+reductions in ciliate numbers were found in the presence of the predatory nematode Enoploides
+longispiculosus, a prominent species (and genus) in fine to medium sandy sediments of the North Sea
+and adjacent estuaries. No such effects were found when ciliates were inoculated with a mix of
+mainly deposit-feeding nematodes from the same sampling site. On the basis of these results, ciliate
+predation by E. longispiculosus was tested for several benthic ciliate species and abundances, at a
+range of predator abundances and temperatures, and in the presence of alternative prey (in casu
+nematodes). E. longispiculosussignificantly reduced the densities of 5 out of 6 ciliate species offered
+as prey. Depending on the experimental conditions and the prey species, predation rates ranged from
+0.19 to 10.8 ciliates predator–1 h–1, corresponding to a biomass consumption of 0.001 to 0.33 µg C
+predator–1d–1. An overall positive relation between available ciliate biomass and predation rate was
+found. Comparison of experimental data with field conditions suggests that a considerable part of the
+ciliate production in fine sandy sediments of the Molenplaat is likely to be consumed by E.
+longispiculosus, which largely dominates meiofaunal biomass there. Estimated carbon requirements
+for the predator and production estimates of ciliate and nematode prey at the study site strongly sug-
+gest that ciliates are probably a far more important carbon source for E. longispiculosusthan nema-
+tode prey, at least between late spring and autumn. This implies that carbon transfer from primary
+producers and bacteria to predatory nematodes may to a large extent be mediated through the micro-
+bial food web. In view of the generally high densities and biomasses of ciliates as well as predacious
+nematodes in fine sandy sediments, similar patterns are to be expected in many other estuarine and
+marine sediments.
+KEY WORDS: Predation · Ciliates · Nematodes · Intertidal flat · Microbial food web · Grazing experiments
+Resale or republication not permitted without written consent of the publisher
+INTRODUCTION plankton by mesozooplankton (e.g., copepods and
+cladocerans) forms a link to the traditional food chain
+In pelagic ecosystems, the microbial food web has (e.g., Sanders & Porter 1990, Stoecker & Capuzzo 1990,
+been found to form a loop to the classical algae-zoo- Arndt 1993, Levinsen et al. 2000). In contrast to pelagic
+plankton-fish food chain (Azam et al. 1983, Sherr & systems, this microbial food web concept has been
+Sherr 1994). Bacteria growing on algal exudates are much less studied in aquatic sediments. Benthic proto-
+consumed by flagellates, which in turn are food for the zoa, especially flagellates and ciliates, are often highly
+microzooplankton, mainly ciliates and rotifers. Con- abundant (e.g., Gasol 1993, Hamels et al. 1998, Diet-
+sumption of flagellates, ciliates and other microzoo- rich & Arndt 2000), and have been shown to consume
+various food sources, including bacteria, algae and dis-
+*E-mail: ilse.hamels@rug.ac.be solved organic matter (Fenchel 1968, Sanders 1991).
+© Inter-Research 2001
+
+62 Aquat Microb Ecol 26: 61–72, 2001
+Remarkably little is known, however, about links 1997, E. Olafsson pers. comm.), quantitative data con-
+between benthic protozoa and higher trophic levels. cerning nematode predation on ciliates are lacking.
+Yet this sort of information is related to arguments The present study addressed the following question:
+about whether protozoa are sinks or links for carbon in Can nematode predation on ciliates constitute a signif-
+benthic environments, and to the discussion about the icant trophic link in fine sandy estuarine tidal flat sed-
+relative strengths of top-down and bottom-up controls iments? That is, are nematodes capable of regulating
+on heterotrophic protozoan biomass. One obvious rea- ciliate biomass in intertidal sediments or may ciliates
+son why predation of flagellates and ciliates by meta- contribute significantly to the nematode diet? Feeding
+zoa has hitherto been largely ignored is that their soft experiments were performed under controlled labora-
+bodies are seldom recognizable in the gut contents of tory conditions, with ciliate cultures and nematodes
+potential consumers, while direct observations of originating from the Molenplaat, an intertidal flat in
+trophic interactions in sediments are problematic. the Schelde estuary.
+Most previous experimental studies addressing
+interactions between benthic proto- and metazoa have
+used designs in which the effect of an increase or MATERIALS AND METHODS
+reduction in meio- or macrobenthic abundances on
+protozoan density or community composition was stud- Prey and predatory organisms. The organisms used
+ied (Epstein & Gallagher 1992, Walters & Moriarty in our experiments originated from the Molenplaat, an
+1993, Bott & Borchardt 1999, Wickham et al. 2000). The intertidal flat in the polyhaline reaches of the Schelde
+observed effects reflected positive as well as negative estuary (SW Netherlands). This tidal flat has been
+interactions, but the experimental designs did not intensively studied in terms of ecological, biogeochem-
+allow confirmation of which (trophic) interactions ical and physical processes in the framework of the
+caused the changes in protist density or community ECOFLAT (Eco-metabolism of an estuarine tidal flat)
+composition. Although one should be careful in extrap- project. Major emphasis was on 2 study sites with con-
+olating results from controlled laboratory experiments trasting sediment characteristics (see Middelburg et al.
+to the field situation, this type of study allows the eval- 2000 and Herman et al. 2000 for a description of these
+uation of the role of single trophic interactions. Preda- sites, S2 and S4). For our experiments, sediment was
+tion of ciliates by marine (epi)benthic harpacticoid collected at a fine sandy site (S4 in the aforementioned
+copepods has been shown in laboratory experiments studies), where ciliates are very abundant (Hamels et
+(Rieper & Flotow 1981, Rieper 1985), with predation al. 1998). Ciliate species were cultured in the labora-
+rates on ciliates of the genus Uronemaamounting to a tory, whereas nematodes were collected from the field
+maximum of 192 ciliates copepod–1 h–1. These experi- before each experiment.
+ments were, however, performed in water, and it is Six ciliate species were used in our experiments
+unclear to what extent the observed rates can be trans- (Table 1): the hypotrichs Aspidiscasp., Euplotesbisul-
+lated to a benthic environment. catus Kahl and Euplotes mutabilis Tuffrau, 2 scutico-
+In marine sediments, ciliates typically have a maxi-
+mum occurrence in fine sands (Fenchel 1969), and
+high ciliate abundances and biomasses have been Table 1. Ciliate species used for the experiments: mean
+found in several marine and estuarine fine sandy sedi- dimensions and biovolume. Mean dimensions and biomass of
+the predator Enoploides longispiculosusand the prey nema-
+ments with low silt content (Fenchel 1967, Al-Rasheid
+tode species Monhysterasp.
+& Sleigh 1995, Epstein 1997, Wickham et al. 2000). In
+the Schelde estuary (SW Netherlands), ciliate abun-
+dances ranging from 1.6 ×103to 5.6 ×103cm–2, corre- Length Width Biovolume/
+(µm) (µm) biomass
+sponding to a biomass of 2.4 to 12.6 µg C cm–2, were
+found in fine sandy sediments of an intertidal flat Ciliates (µm3)
+(Hamels et al. 1998, Hamels pers. obs.). In nearly all Aspidiscasp. 28 24 4000
+estuarine and marine sediments, nematodes are Euplotesbisulcatusa 40 23 7500
+Euplotes mutabilisa 98 64 85000
+numerically the dominant metazoans. This also holds
+Cyclidiumsp. 1 32 13 2700
+true for intertidal sediments of the Schelde estuary, Cyclidiumsp. 2 19 12 1500
+where they costitute on average over 90% of total Chlamydodon triquetrusa 108 47 80000
+meiofaunal densities (Soetaert et al. 1994). Although Nematodes (µg C ind.–1)
+both ciliates and nematodes are numerous in marine Monhystera sp. 1030 34.5 0.047
+Enoploides longispiculosus 2300 90 1.2
+fine sandy sediments, and although some nematode
+species were shown to be capable of ingesting ciliates aIdentified after protargol-staining
+(von Thun 1968, Bouwman et al. 1984, Moens & Vincx
+
+Hamels et al.: Ciliate-nematode interactions 63
+ciliates from the genus Cyclidium (sp. 1 and 2) and of sediment. Sediment was stored at 4°C until the
+Chlamydodon triquetrus (Müller) Dragesco from the experiments, which took place within 3 d of sampling.
+order Cyrtophorida. Ciliates were isolated from Experiments were carried out at the end of May, Sep-
+Molenplaat sediments (after enrichment by the addi- tember and October 1999, and at the end of August
+tion of rice grains or diatoms to sediment suspensions; and the beginning of September 2000. Enoploides
+Caron 1993) and grown monospecifically (unless longispiculosus was always by far the most abundant
+stated otherwise) in Petri dishes containing filtered nematode species at our sampling site. The genus
+(Whatman GF/C) habitat water, adjusted to a salinity Enoploides is—after some training—readily recog-
+of 18 with Milli-Q water. Not all these ciliate species nizable using a dissecting microscope at low magnifi-
+are very common on the Molenplaat; rather, they are cation. It is characterized, among others, by its promi-
+the most easily cultivated species. C. triquetrus is a nent mouth morphology, including 2 onchial plates
+strictly herbivorous species (Fenchel 1968), which can and 3 bifurcate mandibles, and a strongly muscular
+be temporarily very abundant on the Molenplaat (up to pharynx, features illustrative of its predatory feeding
+~500cells ml–1). The other species were cultured with mode. The species identification was based on the
+bacteria as a food source, even though the Euplotes work of Platt & Warwick (1983). Several tens of indi-
+spp. are also capable of feeding on small diatom spe- viduals were observed at high magnification on the
+cies (authors’ pers. obs.). In contrast to Euplotes, the occasion of the first sampling; a few more were care-
+genera CyclidiumandAspidiscaare very common on fully checked at each subsequent sampling. All but
+the Molenplaat (up to ~1100 and 700cells ml–1, respec- one belonged to the species E. longispiculosus, in line
+tively). Cyclidiumspecies swim freely in the interstitial with its known distribution and abundance in the
+water, while the other species are dorsoventrally flat- Schelde estuary and at the present sampling site
+tened and usually creep along the surface of sediment (Soetaert et al. 1994, Steyaert et al. in press). For all
+particles. Stock cultures were stored at 10°C under a our experiments, we selected ‘large’ individuals, i.e.,
+12 h light:12 h dark cycle. Raw rice grains were added fourth-stage juveniles and adults. Average measures
+as a carbon source for bacteria in cultures of bacterivo- are given in Table 1; they were not determined sepa-
+rous ciliates. Bacterial inocula were transferred with rately for each experiment. For extraction of nema-
+the ciliates. C. triquetrus was fed diatoms harvested todes from the sediment, sediment was resuspended
+from an Amphora cymbamphoraculture (also originat- in habitat water and vigorously mixed, and the super-
+ing from the Molenplaat) maintained in f/2-medium natant was decanted over a 63 µm mesh sieve. Nema-
+(Guillard, Sigma, Aldrich Corp., St. Louis, MO) pre- todes were handpicked on the tip of a needle, trans-
+pared with sterile, filtered habitat water. Cultures ferred to filtered habitat water and stored overnight at
+were renewed weekly by transferring a few ciliates to 4°C before the experiments. This procedure strongly
+fresh medium. To obtain enough cells for experiments, reduced the risk of cotransferring ciliates with the
+ciliates were grown in 250 ml Erlenmeyer flasks at 10 nematodes and allowed the transfer of all predators to
+to 22°C (depending on the species) with soy sauce as a a single experimental unit within 10 min. At the same
+carbon source (1 ml l–1; Tso & Taghon 1999) instead of time starvation was minimal.
+rice grains. Cultures used for the experiments were 3 Prey and predator abundances used in our experi-
+to 5d old and at the end of logarithmic growth phase. ments are within the range of abundances of ciliates
+Ciliate densities were determined from counts in and nematodes in the field.
+Sedgwick-Rafter cells of glutaraldehyde-preserved General experimental conditions and statistical
+(2% final concentration) subsamples. Ciliate densities evaluation.Sediment (median grain size 168 µm) from
+were adjusted to the density desired for the experi- the sampling site was used as a substratum in our
+ment by appropriate dilution with filtered habitat experiments. It was washed with running tap water
+water of the same salinity or by concentration by over a 53 µm sieve and oven sterilized at 170°C for 4 h.
+means of gentle centrifugation (1500 ×g, 5 min). Bac- One gram aliquots of dry sediment were transferred to
+terial or diatom food was not removed. Ciliate cell vol- 2 ml screw-capped test tubes and rehydrated by the
+umes were estimated from measurements of living addition of 600 µl of ciliate suspension. This resulted in
+cells (n = 25) (Table 1). A prolate spheroid shape was approximately 1 ml of wet sediment. The tubes were
+assumed for Cyclidiumspecies, whereas the volume of then acclimated in an incubator to the experimental
+the other species was assumed to correspond to half temperature (16°C unless stated otherwise) for at least
+the volume of an ellipsoid. Biovolumes were converted 2 h. Predatory nematodes (30 per experimental unit,
+to organic carbon content using a conversion factor of unless stated otherwise) were manually transferred to
+100 fg C µm–3(Børsheim & Bratbak 1987). the tubes at Time 0. Control tubes received no nema-
+Samples for the extraction of predatory nematodes todes. Grazing and control tubes were incubated hori-
+were collected by scraping off roughly the upper 2 cm zontally for 24 h in the dark. Incubations were stopped
+
+64 Aquat Microb Ecol 26: 61–72, 2001
+by the addition of 1 ml of ice cold glutaraldehyde to a where I is predation rate (ciliates predator–1 h–1), g is
+final concentration of 2%. For each prey species or grazing coefficient (h–1), tis incubation period (=24 h),
+abundance (see Table 2), 3 or 4 extra replicate tubes C is mean ciliate abundance during the incubation
+were preserved at Time 0 to determine exact initial cil- (assuming exponential increase or decrease of abun-
+iate densities. Just before cell counts, Rose Bengal was dances during the incubation period), P is predator
+added to stain the ciliates. The samples were homoge- abundance (ind. ml–1), C1 is initial ciliate abundance,
+nized and a 1 ml subsample was withdrawn just after and C2 and C2* are ciliate abundance in control and
+settling of the sand particles. Ciliates were counted grazing tubes, respectively, at the end of the incuba-
+under a light microscope at 100× magnification in at tion period. All ciliate abundances are expressed as
+least 350 µl of this supernatant using a Sedgwick- number of cells ml–1. Replicate initial and control
+Rafter cell. In each experiment, we used 3 or 4 repli- abundance values were averaged for the calculations
+cate grazing tubes for each treatment (see below and and predator mortality was assumed to be insignifi-
+in Table 2) and 3 or 4 control incubations. All samples cant. Predation rates were calculated only when the
+were analyzed within 1 wk after termination of the difference in ciliate abundance between grazing and
+experiment. control tubes proved significant (t-test). Between-
+Predation rates were calculated according to Frost treatment differences in predation rates were tested
+(1972), using the following equations: using 1-way ANOVA. The Student-Newman-Keuls
+multiple comparisons test was used for post hoc pair-
+g×C
+I = (1) wise comparisons. Statistical analyses were performed
+P with STATISTICA 5.1 for Windows (StatSoft Inc.,
+Tulsa, OK, USA). Data were log(x + 1) transformed
+g = ln  C2 ×t–1 (2) where necessary to meet the assumptions of normality
+C2* and homogeneity of variances.
+Feeding experiments. Our first experiment tested
+C2*−−C1
+C == (3) whether nematodes from the sampling site were capa-
+lnC2*–lnC1
+ble of reducing ciliate numbers at all. To this end, a
+mixture of 2 ciliate species, Euplotes
+bisulcatus and Cyclidium sp. 1, was
+Table 2. Summary of the experiments and the experimental conditions. Predator incubated with Enoploides longispicu-
+abundance (number of ind. ml–1) is given in brackets. Prey species with the same losus or with a mix of other nema-
+superscripted letter were simultaneously offered to the predators. Enoploides: todes, most of which were deposit
+Enoploides longispiculosus
+feeders (Moens & Vincx 1997), as can-
+didate predators. Predator density was
+Predator species Prey species Mean initial prey Temp. 35 or 45 nematodes per grazing tube,
+(ind. ml–1) abundance(s) (°C)
+respectively (Table 2). Prey prefer-
+(ind. ml–1)
+ence was analyzed using Chesson’s α
+Expt 1 selectivity index (Chesson 1983). The
+Enoploides(35) Euplotesbisulcatusa 589 16 null hypothesis for no preference (i.e.,
+Cyclidiumsp. 1a 301 16 α = α = 0.5) was tested by calculating
+Nematode mixture (45) Euplotesbisulcatusb 589 16 1 2
+Cyclidiumsp. 1b 301 16 a t-statistic (Chesson 1983).
+In the first experiment we found no
+Expt 2
+Enoploides(30) Cyclidiumsp. 1 168–962 16 grazing of the mix of (mainly deposit-
+Cyclidiumsp. 2 462–2024 16 feeding) nematodes on ciliates. There-
+Euplotes mutabilis 428–1745 16 fore, all subsequent experiments used
+Aspidiscasp.c 251 16
+Enoploides longispiculosus as the
+Chlamydodon triquetrusc 184 16
+predator. In a second experiment, the
+Expt 3
+susceptibility of 5 ciliate species (Cy-
+Enoploides(30) Cyclidiumsp. 1 387–908–2426–5739 16
+clidiumsp. 1, Cyclidiumsp. 2, Euplotes
+Expt 4
+Enoploides(30) Euplotes mutabilisd 2330 16 mutabilis, Chlamydodon triquetrus
+Monhysterasp.d 0–10–30–60–100 16 and Aspidisca sp.) to predation by E.
+Expt 5 longispiculosus was tested (Table 2).
+Enoploides(10–30–45–60) Cyclidiumsp. 1 5435 16 Two different densities of Cyclidium
+Enoploides(30) Cyclidiumsp. 1 5435 10–22
+sp. 1, Cyclidiumsp. 2 and E. mutabilis
+Enoploides(10–30–45–60) Euplotes mutabilis 2758 16
+Enoploides(30) Euplotes mutabilis 2758 10–22 were used. The remaining 2 species
+were reared in a mixed culture yield-
+
+Hamels et al.: Ciliate-nematode interactions 65
+ing only low abundances. Hence, they were offered to served predation rates on ciliates to field conditions,
+E. longispiculosusas a 2-species mix at a single density. where, among other factors, predator abundance and
+The results of the second experiment suggested that temperature are not constant. The separate effects of
+predation rates depend on prey density. This effect predator density and temperature on predation rates of
+was examined in more detail in a third experiment Enoploides longispiculosus on Cyclidium sp. 1 and
+with Cyclidium sp. 1 as the prey species (Table 2). Euplotes mutabiliswere tested (Table 2). Four predator
+Initial ciliate abundances were 387 ± 125, 908 ± 168, densities were used: 10, 30, 45 or 60 per grazing tube.
+2426 ± 355 and 5739 ± 232 cells ml–1. Ingestion rates Grazing and control tubes were incubated at 16°C.
+were related to mean ciliate abundances within the Additional replicate grazing tubes with 30 predator
+incubation period, as estimated according to Eq. (3). nematodes and associated control tubes were incu-
+The main question in the fourth experiment was bated at 10 and 22°C. Predation rates at 10 and 22°C
+whether and how predation rates of Enoploides were then compared with rates obtained at 16°C with a
+longispiculosus on ciliates would be affected by the predator density of 30 ind. ml–1.
+presence of alternative prey, in casunematodes. This is
+of particular relevance to the field situation, where
+alternative prey is always available. Monhysterasp., a RESULTS
+bacterivorous nematode species heavily preyed upon
+by E. longispiculosus(Moens et al. 2000), was used as In the first experiment, the mix of (mainly deposit-
+nematode prey. These were handpicked from mono- feeding) nematodes did not significantly reduce Eu-
+specific cultures, originating from a saltmarsh in the plotes bisulcatus nor Cyclidium sp. 1 densities during
+polyhaline reach of the Schelde estuary close to the the 24 h incubation period (data not shown). Predation
+Molenplaat (see Moens & Vincx 1998 for details on cul- of Enoploides longispiculosus on E. bisulcatus and
+ture conditions). Euplotes mutabilis was used as the Cyclidium sp. 1, on the other hand, was significant.
+prey ciliate. Initial ciliate abundance was constant Predation rates were 0.15 ±0.07 and 0.21 ±0.07ciliates
+(2330 ± 132 ml–1), whereas 5 different prey nematode predator–1h–1for E. bisulcatusand Cyclidiumsp. 1, re-
+densities were used: 0, 10, 30, 60 and 100 nematodes spectively. Since E. bisulcatus and Cyclidium sp. 1
+per grazing tube (Table 2). Controls contained ciliate were offered as a mixture to E. longispiculosus, a
+and nematode prey at the same densities as in the predator preference could be analyzed. E. longispicu-
+grazing tubes but did not contain the predator, E. losuspreferred Cyclidiumto Euplotes, as more Cyclid-
+longispiculosus. At the end of the incubation, ciliate iumwas captured than expected based on the relative
+numbers in control tubes without and withMonhystera prey proportions offered. This is also reflected by the
+sp. at different densities did not differ significantly value of Chesson’s selectivity index α for Cyclidium
+(ANOVA, p = 0.16), suggesting no interaction between (0.74 ± 0.11), which significantly exceeded 0.5 (t-tests
+the prey organisms. Predation rates of E. longispiculo- of Chesson’s index versus 0.5, df = 3, p < 0.05).
+sus on Monhystera sp. were also determined in this Susceptibility of different ciliate species to predation
+experiment. Part of the prey nematodes was counted by Enoploides longispiculosus was evaluated in the
+from the subsamples withdrawn for ciliate counts. The second experiment (Table 3). For Cyclidium sp. 1, a
+remainder was extracted by decanta-
+tion after sample homogenization in
+Table 3. Predation of Enoploides longispiculosus on 5 ciliate species: mean
+1ml of filtered habitat water. This pro-
+(±1SD, n = 3) initial ciliate abundance and predation rate for each prey species
+cedure was repeated 6 times and
+and abundance. ns: Ciliate numbers in control and grazing tubes were not sig-
+nematodes were counted in the pooled nificantly different. Ciliate species with the same superscripted letter were
+supernatant using a dissecting micro- simultaneously offered to the predators
+scope. Carbon ingestion was esti-
+mated using an individual carbon con- Ciliate species Initial abund. Predation rate
+tent of 0.047 µg C for Monhystera sp. (cells ml–1) Cells predator–1h–1 µg C predator–1h–1
+(Moens et al. 2000, our Table 1). Prey
+Cyclidiumsp. 1 168 ±290 0.19 ±0.01 00.001 ±0.0001
+preference was analyzed as described
+962 ±213 ns
+above. Chesson’s αselectivity index is
+Cyclidiumsp. 2 462 ±360 ns
+unaffected by the relative abundance
+2024 ±8300 ns
+of food types, thus allowing meaning-
+Euplotes mutabilis 428 ±650 0.22 ±0.03 0.046 ±0.007
+ful comparisons between treatments 1745 ±1880 1.08 ±0.11 0.221 ±0.022
+(Lechowicz 1982). Aspidiscasp.a 251 ±180 0.18 ±0.02 00.002 ±0.0002
+A final set of experiments aimed at Chlamydodon triquetrusa184 ±115 0.20 ±0.02 0.038 ±0.004
+extending the relevance of the ob-
+
+66 Aquat Microb Ecol 26: 61–72, 2001
+significant predator effect was only found for the lower
+density tested (predation rate: 0.19 ± 0.01 ciliates
+predator–1 h–1). At the higher Cyclidium sp. 1 density,
+the average ciliate abundance in grazing tubes was
+considerably lower than in control tubes (1137 vs
+1723ml–1), but variability between replicates was high,
+giving rise to a non-significant difference between the
+means. Cyclidium sp. 2, the smallest of the ciliate
+species tested, was not grazed upon by E. longispiculo-
+sus at either of the densities used. Euplotes mutabilis
+numbers were significantly reduced by E. longispicu-
+losus at high as well as low densities. The predation
+rate increased from 0.22 ± 0.03 to 1.08 ± 0.11 ciliates
+predator–1 h–1, for a 4-fold increase in initial ciliate
+abundance (on average 428 and 1745 ciliates ml–1,
+respectively). Densities of Aspidisca sp. and Chlamy-
+dodon triquetrus, offered as a mixture, were signifi-
+cantly reduced by E. longispiculosus during the incu-
+bation period. Predation rates were 0.18 ±0.02 ciliates
+ml–1for Aspidiscasp. and 0.20 ±0.02 ciliates ml–1for C.
+triquetrus. No preference for either of the ciliates was
+observed in this case. Carbon ingestion ranged from
+0.001 to 0.221 µg C predator–1 d–1 and was lowest for
+Cyclidium sp. 1 and highest for E. mutabilis as prey
+species.
+In the third experiment, a positive relation between Fig. 2. (A) Predation rates of Enoploides longispiculosus on
+predation rates of Enoploides longispiculosus and the ciliate (Euplotes mutabilis) and nematode (Monhystera sp.)
+prey (mean ± 1 SD, n = 3), and (B) total daily biomass con-
+density of its prey (Cyclidiumsp. 1) was found (Fig. 1),
+sumption (ciliate + nematode prey) for different prey nema-
+but there was no saturation of the predation rate over tode abundances. Initial ciliate abundances were constant
+the range of prey densities tested. Predation rates (2330 ±132 ml–1). pred: predator
+increased from 0.41 ± 0.14 to 4.1 ± 1.5 ciliates preda-
+tor–1h–1over a range of 759 ±79 to 5138 ±677 ciliates
+ml–1. Corresponding carbon uptake rates were 0.003 to teriasp.) on predation rates of Enoploides longispiculo-
+0.027 µg C predator–1d–1. sus on ciliate prey (Euplotes mutabilis) was consid-
+In a fourth experiment, the effect of the presence of ered. E. mutabilisnumbers were significantly reduced
+alternative food (the bacterivorous nematode Monhys- by E. longispiculosus in the absence as well as in the
+presence of nematode prey (all p < 0.01). In the
+absence of nematode prey, the predation rate was 1.6 ±
+0.2 (Fig. 2A). The same predation rate was found with
+10 prey nematodes ml–1. In the presence of 30, 60 or
+100 Monhystera sp. ml–1, predation rates were lower
+(1to 1.3 ciliates predator–1h–1) than in the absence of
+prey nematodes, although this difference was not
+always significant (p < 0.05 for 30 or 100 prey nema-
+todes ml–1, p > 0.05 for 60 prey nematodes ml–1). The
+predation rate of E. longispiculosus on the nematode
+Monhystera sp. increased significantly from 0.28 ±
+0.02 nematodes predator–1 24 h–1 at an initial prey
+nematode density of 10 ind. ml–1, to 2.26 ±0.54 nema-
+todes predator–124 h–1at an initial prey nematode den-
+sity of 100ind. ml–1(all p < 0.05; Fig. 2A). Total biomass
+consumption (ciliate plus nematode prey) ranged from
+0.25 ±0.03 to 0.34 ±0.05 µg C predator–1d–1and was
+Fig. 1. Predation rates of Enoploides longispiculosus as a
+function of mean abundance of Cyclidium sp. 1 over the not significantly affected by nematode prey density
+experimental period. Mean ±1 SD (n = 3) (p= 0.21; Fig. 2B). The predator showed a preference
+
+Hamels et al.: Ciliate-nematode interactions 67
+Fig. 3. Chesson’s coefficient of selectivity of Enoploides
+longispiculosus for a ciliate (Euplotes mutabilis) and a nema-
+tode (Monhysterasp.) prey species (±1 SD, n = 3) for different
+Monhystera sp. abundances. E. mutabilis abundance was
+constant. The dashed line represents neutral selection
+for nematode over ciliate prey: α for Monhystera sp.
+always significantly exceeded 0.5 (t-tests of Chesson’s
+index versus 0.5, df = 2, all p < 0.02; Fig. 3). This selec-
+tivity was independent of the relative proportion of
+prey types in the predator’s ration.
+In a last set of experiments the separate effects of
+predator density and temperature on predation rates of Fig. 4. (A) Predation rates of Enoploides longispiculosus on
+Cyclidiumsp. 1 and Euplotes mutabilis (mean ±1 SD, n = 3),
+Enoploides longispiculosus were tested with Cyclid-
+and (B) total consumption of all predators for both prey
+ium sp. 1 and Euplotes mutabilis as prey. Cyclidium
+species at different E. longispiculosusabundances
+sp. 1 was significantly reduced at all predator densi-
+ties. Individual predation rates decreased significantly
+from 10.8 ±0.8 to 2.7 ±0.4 ciliates predator–1h–1with was not significant (p = 0.26; Fig. 5). Euplotes mutabilis
+an increase in predator abundance from 10 to 60 ind. numbers were significantly reduced at all tempera-
+ml–1(all p < 0.05; Fig. 4A). Total consumption of ciliate tures tested, but temperature differences did not result
+prey was highest at 45 predators ml–1, but pairwise dif- in significantly different predation rates (p = 0.35;
+ferences for 30, 45 or 60 predators ml–1were not signif- Fig. 5). On average, predation rates on E. mutabilis
+icant (p > 0.05; Fig. 4B). Ciliate consumption by 10 were slightly higher at 16°C than at 10 and 22°C.
+predators ml–1 was significantly lower than that by
+higher predator densities. Ten predators ml–1 did not
+significantly reduce numbers of E. mutabilis, but all
+higher predator densities did. Predation rates on E.
+mutabilis were not significantly affected by an in-
+crease in predator density from 30 ml–1 to 45 and
+60ml–1(p = 0.18; Fig. 4A), although the predation rate
+for 30 predators ml–1was higher (1.1 ciliates predator–1
+h–1) than for higher predator densities (0.7 ciliates
+predator–1 h–1). No significant differences (p > 0.1)
+were detectable between the total ciliate consumption
+by 30, 45 or 60 predators (Fig. 4B).
+The effect of temperature on predation rates was
+most pronounced with Cyclidium sp. 1 as a prey spe-
+cies. Densities of this species were not significantly
+reduced by Enoploides longispiculosus at 10°C, but
+Fig. 5. Predation rates of Enoploides longispiculosus on
+they were at 16 and 22°C. At 22°C, the mean predation
+Cyclidiumsp. 1 and Euplotes mutabilis (mean ±1 SD, n = 3)
+rate was 25% higher than at 16°C, but this difference at different temperatures
+
+68 Aquat Microb Ecol 26: 61–72, 2001
+DISCUSSION erally 16°C or more between May and October. During
+this part of the year, E. longispiculosus was found in
+Our results show that the predatory nematode Eno- densities of about 15 to 30 ind. ml–1in the upper 1.5 to
+ploides longispiculosussignificantly reduced densities 2 cm of the sediment at this site (Steyaert et al. in press)
+of 5 out of 6 ciliate species offered as prey. These cili- and dominates the nematode community; this domi-
+ates belonged to different taxonomic groups, were of nance was confirmed at each of our sampling dates.
+different sizes, and included swimming as well as Our experiments give only a limited insight into the
+creeping, and bacterivorous as well as a strictly herbiv- role of temperature and predator abundance. For both
+orous species. Since E. longispiculosus, a voracious Cyclidium sp. 1 and Euplotes mutabilis, predation
+predator of several small metazoans (Moens & Vincx rates of E. longispiculosusat 22°C did not differ signif-
+1997, Moens et al. 1999, 2000), probably does not feed icantly from those at 16°C. Whereas total ciliate con-
+on bacteria nor diatoms (Moens et al. 1999), resource sumption at low predator abundance (10 ml–1) was
+competition between nematodes and ciliates is a lower than with 30 predators ml–1, no significant differ-
+highly improbable explanation for the observed de- ences between total consumption by 30, 45 or 60
+cline in ciliate numbers. Furthermore, we regularly predators ml–1 were detectable. Temperature in the
+observed fragments of Euplotes cells in grazing tubes field rises above 16°C in late spring to autumn; preda-
+(never found in controls without predators), indicating tor densities are probably quite variable due to patchi-
+capture and incomplete uptake of these large ciliates ness (Arlt 1973). Even so, our experiments suggest a
+by E. longispiculosus. In combination with the design limited influence of such temperature and predator
+of our experiments, this leaves little doubt that the density fluctuations. Hence, predation rates from our
+observed reductions in ciliate densities resulted from experiments under standard conditions may well be
+direct predation by E. longispiculosus on ciliates. The used to estimate the potential impact of nematode pre-
+mix of (mainly deposit-feeding) nematodes used in our dation on ciliates at the study site.
+first experiment and the bacterivorous nematode Mon- In our functional response experiment, predation
+hysterasp. offered as alternative prey to E. longispicu- rates of Enoploides longispiculosus increased with
+losus did not prey on the ciliate species used in our increasing ciliate (Cyclidium sp. 1) density and hence
+experiments. In contrast to E. longispiculosus, which biomass, but there was no saturation within the range
+has a buccal cavity armed with teeth and mandibles of prey abundances used. Although the highest
+used to tear apart variably sized prey items, these Cyclidium sp. 1 density used in this experiment was
+nematodes have an unarmed mouth and are probably higher than field densities of ciliates, ciliate biomasses,
+incapable of ingesting food particles exceeding the viz. 0.1 to 1.6 µg C ml–1, were lower than biomasses
+size of their widened buccal cavity (Moens & Vincx found at our sampling site (2 to 3.5 µg C ml–1 in the
+1997). upper 2 cm in late spring to autumn) due to the rela-
+To our knowledge, our experiments provide the first tively small size of Cyclidiumsp. 1. The range of ciliate
+quantitative data on predation of benthic ciliates by biomasses used in all our experiments conducted
+nematodes. Anecdotal observations of a few nematode under standard conditions, including those with the
+species ingesting ciliates in cultures have been large Euplotes mutabilis as prey, encompassed a
+reported (von Thun 1968, Bouwman et al. 1984, Moens broader range of ciliate biomasses, up to biomasses
+& Vincx 1997, E. Olafsson pers. comm.), but predation exceeding those encountered at the Molenplaat. These
+rates were not determined. Walters & Moriarty (1993) data show an increase in predation rates up to a bio-
+found indirect evidence for consumption of marine mass of 20 µg C ml–1(Fig. 6), without a clear sign of sat-
+benthic ciliates and flagellates by a meiofaunal com- uration up to a ciliate biomass of at least 4 µg C ml–1.
+munity dominated by nematodes and copepods. On the basis of these results and field biomasses for cil-
+Epstein & Gallager (1992) showed variable effects of iates (see above), a predation rate of about 0.04 µg C
+an increase in nematode numbers on different ciliate predator–1 d–1 can be expected in the field (Fig. 6).
+species from a sandflat, with densities of only 2 out of 7 Twenty predators ml–1 would then consume about
+ciliate species examined being negatively affected. 0.8 µg ciliate C ml–1 d–1. The impact of this predation
+However, there was no unequivocal evidence that on the ciliate community can only be assessed after
+direct predation by nematodes was involved in these comparison with ciliate production rates. Maximum
+cases. growth rates (µ ) for ciliates can be estimated using a
+max
+The ‘standard’ conditions used in our experiments multiple regression equation based on extensive labo-
+(i.e., 30 Enoploides longispiculosus ind. ml–1, 16°C) ratory data (Müller & Geller 1993), which relates tem-
+reflect late spring to early autumn field conditions at perature and species size to growth rate. Maximum
+our sampling station on the Molenplaat. The tempera- production of a mixed assemblage of ciliates can then
+ture of the Schelde water near the Molenplaat is gen- be estimated by addition of the products of growth rate
+
+Hamels et al.: Ciliate-nematode interactions 69
+& Gallagher (1992), who found changes in relative spe-
+cies abundances in response to an increase in nema-
+tode density.
+In the field, ciliates are not the only prey available to
+predacious nematodes. Higher predation rates on
+other prey types, when both are available, could have
+a profound effect on the impact of nematode predation
+on ciliates. Nematodes of the genus Enoploides have
+been shown to forage on other nematodes as well as on
+oligochaetes and probably other small metazoans as
+well (Moens & Vincx 1997, Moens et al. 1999). At the
+Molenplaat, as in most estuarine intertidal sediments,
+nematodes are the dominant meiofauna (99% in terms
+of abundance at the study site, M. Steyaert unpubl.
+data). In our experiments with both nematode (Mon-
+Fig. 6. Predation rate as a function of ciliate biomass for
+hystera sp.) and ciliate (Euplotes mutablis) prey, pre-
+all experiments conducted under standard experimental
+dation rates on ciliates decreased only in the presence
+conditions
+of at least 30 nematode prey ml–1, and even then, the
+difference was small. Even so, a preference for nema-
+with biomass for each species. For the ciliate commu- tode over ciliate prey was found. However, further
+nity of the upper 2 cm at our Molenplaat station, in late research will have to elucidate whether this preference
+spring to early autumn, a maximum production of is of general relevance or merely holds for the specific
+about 2 to 4.5 µg C ml–1 d–1 is obtained in this way. prey species combination used here. Moreover, pro-
+Given the above-mentioned estimated consumption of duction rather than extant biomass probably deter-
+ciliate carbon in the field, nematode grazing would mines the relative contribution of different prey types
+amount to about 18 to 40% of daily ciliate production. to the predator’s ration, and hence the impact on their
+This is a conservative estimate, since growth rates in respective populations. In the depth stratum where
+the field are probably lower than the estimated rates Enoploides longispiculosus occurs (upper 2 cm), the
+(e.g., because of food limitation). In pelagic communi- biomass of potential prey nematodes is about 5.2 µg C
+ties, for instance, in situciliate growth rates were found ml–1 (compared with about 19 µg C ml–1 for E.
+to be 2 to 5 times lower than the estimated maxima longispiculosus) at the study site (M. Steyaert unpubl.
+(Taylor & Johannsson 1991, Leakey et al. 1994, Macek data). Assuming an annual production/biomass ratio of
+et al. 1996). Nematode grazing may thus be an impor- 9 (Gerlach 1971), prey nematode production in this
+tant, if not the major, fate of ciliate production in inter- stratum can be expected to be in the order of 45 µg C
+tidal sediments at our sampling site on the Molenplaat. ml–1 yr–1 or about 0.13 µg C ml–1 d–1. This is several
+Apart from regulating ciliate biomass, nematode times lower than estimates of ciliate production at this
+predation may also affect ciliate community composi- site. This difference is expected given the small differ-
+tion. Only 1 out of 6 ciliate species used in our experi- ence in standing stock between nematodes and ciliates
+ments was not consumed by Enoploides longispiculo- and the generally much higher metabolic rate of proto-
+sus, namely Cyclidium sp. 2, the smallest ciliate zoa. If we assume for E. longispiculosus(1) 1 to 3 gen-
+species in our experiments. When a mix of Euplotes erations annually (e.g., Wieser & Kanwisher 1960,
+bisulcatus and Cyclidium sp. 1 was offered as prey in Schütz 1966, Skoolmun & Gerlach 1971, Lorenzen
+our experiments, however, E. longispiculosus signifi- 1974, Smol et al. 1980); (2) a life cycle turnover of 3, as
+cantly selected for the smaller Cyclidiumsp. 1. Particle for other nematodes (Gerlach 1971); (3) a production
+size is often an important factor determining food efficiency (P[roduction]/A[ssimilation], with A = P +
+selection, and observations indicate that next to an R[espiration]) of 75% (mean value based on Heip et al.
+upper size limit, there may also be a lower size limit for 1985 and references therein); and (4) an assimilation
+particle selection in nematodes (Cheng et al. 1979). In efficiency (A/C[onsumption]) ranging from 12 (Dun-
+addition to size, the swimming behavior of ciliate prey can et al. 1974) to 60% (Marchant & Nicholas 1974),
+may also influence its susceptibility to predation by then a predatory nematode with a mean individual
+metazoans (Jack & Gilbert 1993, Rabette et al. 1998). In biomass of 1.2 µg C (Table 1) has carbon requirements
+the field, many more species co-occur and shifts in spe- of at least 8 (for1 generation annually and A/C= 60%)
+cies composition due to differences in predation rates and at most 120 µg C yr–1 (for 3 generations annually
+are likely to occur due to selective predation on certain and A/C= 12%). This corresponds to a mean daily car-
+species. This is in agreement with the results of Epstein bon uptake of 0.022 to 0.33 µg C predator–1d–1, which
+
+70 Aquat Microb Ecol 26: 61–72, 2001
+is comparable with the carbon ingestion estimates 1997, Wickham et al. 2000). Enoploides longispiculo-
+derived from our experiments (0.001 to 0.33 µg C susand other members of this genus occur in high den-
+predator–1 d–1). This comes down to a carbon flux of sities (comparable with those found on the Molenplaat)
+0.33 to 9.9 µg C ml–1d–1for the E. longispiculosuspop- in this type of sediments in the North Sea (Skoolmun &
+ulation at our sampling site at the extant summer den- Gerlach 1971, Vincx et al. 1990), the Schelde estuary
+sity. Both upper and lower values are extremes (as are and some other European estuaries (Platt & Warwick
+the experimentally determined ingestion rates), with a 1983, Li & Vincx 1993, Soetaert et al. 1994, 1995). Since
+value of about 1.5 µg C ml–1d–1probably being a plau- we know of no other reports of a relative dominance
+sible average (assuming 2 generations annually and similar to that found in the upper 2 cm of the fine sandy
+A/C = 40%). Even if we consider the prey nematode sediment on the Molenplaat, the (nematode) prey lim-
+production/biomass ratio of 9 as a conservative esti- itation of E. longispiculosusat this site may be unusual.
+mate (Vranken et al. 1986), this strongly suggests that However, Warwick (1971) found that nematodes in
+prey nematode populations at the study site on the muddy sediments in the Exe estuary tended to be small
+Molenplaat provide insufficient carbon to sustain the and mainly deposit feeders, while species from sandy
+extant predator population. Hence, at least in summer, sediments tended to be predators or epigrowth feeders
+ciliates are probably a far more important carbon with long bodies. Hence, density and relative abun-
+source for E. longispiculosus than nematodes. This dance of supposedly predatory nematodes are proba-
+implies that carbon transfer from primary producers bly typically much higher in sandy than in silty sedi-
+and bacteria to predatory nematodes may be mediated ments. Hence, in view of the generally high densities
+largely by the microbial food web. Comparison of and biomasses of ciliates as well as of predatory nema-
+these values with ciliate production also suggests that, todes in sandy sediments, nematode predation on cili-
+even in the presence of alternative prey, a consider- ates probably constitutes a significant trophic link in
+able part of ciliate production is probably consumed by many estuarine and marine sediments.
+E. longispiculosus in the field. The fate of predatory
+nematode carbon in Schelde sediments is at present
+Acknowledgements. We thank the Netherlands Institute of
+not very clear. Li et al. (1996) modeled temporal fluctu-
+Ecology-Centre for Estuarine and Coastal Ecology (NIOO-
+ations in nematode (whole community) densities at dif- CEMO) and the crew for the use of the RV ‘Luctor’. Christine
+ferent sites in the estuary and concluded that they are Van der heyden and Ilse De Mesel are thanked for their assis-
+regulated primarily by macrobenthic infauna. So far, tance in some of the laboratory experiments. Dr Karline
+Soetaert and Maaike Steyaert kindly provided data on nema-
+there are no experimental studies supporting this
+tode abundances and biomasses. I.H. acknowledges a grant
+claim. On the other hand, surface-dwelling meiofauna from the Fund for Scientific Research-Flanders (FWO); T.M.
+has long been shown to be important prey to epi- and and K.M. are postdoctoral fellows of the Fund. This research
+hyperbenthic fish and crustaceans (see, among others, was performed in the framework of the EU Environment &
+Climate program ECOFLAT (ENV4-CT96-0216), which is
+Gee 1989, Coull 1990). Harpacticoid copepods are
+part of the ELOISE program (publication no. 255), FWO
+generally considered to be more susceptible to preda-
+research project no. G.0104.99 and GOA research project no.
+tion by sediment-dwelling fauna, but this view may be 1205398.
+partly biased because nematode remains are not easily
+recognizable in gut content analyses. The large (3.3 to
+LITERATURE CITED
+4.2mm long, 76 to 145 µm wide) predacious Mesacan-
+thion diplechma, a nematode showing clear prefer-
+Al-Rasheid KAS, Sleigh MA (1995) Distribution and abun-
+ence for superficial sediment layers, was dispro- dance of interstitial ciliates in Southampton water in rela-
+portionately abundant in sand goby guts in sediments tion to physicochemical conditions, metal pollution and
+of the Southern Bight of the North Sea and of the near- the availability of food organisms. Estuar Coast Shelf Sci
+41:61–80
+by Oosterschelde Estuary (Hamerlynck & Vanreusel
+Arlt G (1973) Vertical and horizontal microdistribution of the
+1993). Whether such trophic relations also exist in the
+meiofauna in the Greifswalder Bodden. Oikos 15(Suppl):
+Schelde estuary and, if so, how important they are in 105–111
+terms of carbon fluxes from the microbial food web to Arndt H (1993) Rotifers as predators on components of the
+microbial web (bacteria, heterotrophic flagellates, cili-
+higher trophic levels remains to be established.
+ates): a review. Hydrobiologia 255:231–246
+Our experiments, as well as the situation at the sam-
+Azam F, Fenchel T, Field JG, Gray JS, Meyer-Reil LA,
+pling site on the Molenplaat, are, of course, a case Thingstad F (1983) The ecological role of water-column
+study, the general importance of which remains to be microbes in the sea. Mar Ecol Prog Ser 10:257–263
+established. However, densities of ciliates at our study Børsheim KY, Bratbak G (1987) Cell volume to cell carbon
+conversion factors for a bacterivorous Monassp. enriched
+site are generally comparable with those found in
+from seawater. Mar Ecol Prog Ser 36:171–175
+other marine and estuarine fine sandy sediments
+Bott TL, Borchardt MA (1999) Grazing of protozoa, bacteria,
+(Fenchel 1967, Al-Rasheid & Sleigh 1995, Epstein and diatoms by meiofauna in lotic epibenthic communi-
+
+Hamels et al.: Ciliate-nematode interactions 71
+ties. J N Am Benthol Soc 18:499–513 field sampling and manipulative labelling of food
+Bouwman LA, Romeyn K, Kremer DR, Van Es FB (1984) resources for macrobenthos. Mar Ecol Prog Ser 204:79–92
+Occurrence and feeding biology of some nematode spe- Jack JD, Gilbert JJ (1993) Susceptibility of different-sized cil-
+cies in estuarine aufwuchscommunities. Cah Biol Mar 25: iates to direct suppression by small and large cladocerans.
+287–303 Freshw Biol 29:19–29
+Caron DA (1993) Enrichment, isolation, and culture of free- Leakey RJG, Burkill PH, Sleigh MA (1994) Ciliate growth
+living heterotrophic flagellates. In: Kemp PF, Sherr BF, rates from Plymouth Sound: comparison of direct and indi-
+Sherr EB, Cole JJ (eds) Handbook of methods in aquatic rect estimates. J Mar Biol Assoc UK 74:849–861
+microbial ecology. Lewis Publishers, Boca Raton, p 77–89 Lechowicz MJ (1982) The sampling characteristics of electiv-
+Cheng AC, Lu NC, Briggs GM, Stokstad ELR (1979) Effect of ity indices. Oecologia 52:22–30
+particulate materials on population growth of the free-liv- Levinsen H, Turner JT, Nielsen TG, Hansen BW (2000) On the
+ing nematode Caenorhabditis briggsae. Proc Soc Exp Biol trophic coupling between protists and copepods in arctic
+Med 160:203–207 marine systems. Mar Ecol Prog Ser 204:65–77
+Chesson J (1983) The estimation and analysis of preference Li J, Vincx M (1993) The temporal variation of intertidal
+and its relationship to foraging models. Ecology 64: nematodes in the Westerschelde. I. The importance of an
+1297–1304 estuarine gradient. Neth J Aquat Ecol 27:319–326
+Coull BC (1990) Are members of the meiofauna food for Li J, Vincx M, Herman PMJ (1996) A model of nematode
+higher trophic levels? Trans Am Microsc Soc 109:233–246 dynamics in the Westerschelde estuary. Ecol Model 90:
+Dietrich D, Arndt H (2000) Biomass partitioning of benthic 271–284
+microbes in a Baltic inlet: relationships between bacteria, Lorenzen S (1974) Die Nematodenfauna der sublittoralen
+algae, heterotrophic flagellates and ciliates. Mar Biol 136: Region der Deutschen Bucht, insbesondere im Titan-
+309–322 Abwassergebied bei Helgoland. Veröff Inst Meeresforsch
+Duncan A, Schiemer F, Klekowski RZ (1974) A preliminary Bremerh 14:305–327
+study of feeding rates on bacterial food by adult females of Macek M, Simek K, Pernthaler J, Vyhnalek V, Psenner R
+a benthic nematode, Plectus palustris De Man 1880. Pol (1996) Growth rates of dominant planktonic ciliates in two
+Arch Hydrobiol 21:237–255 freshwater bodies of different trophic degree. J Plankton
+Epstein SS (1997) Microbial food webs in marine sediments. Res 18:463–481
+II. Seasonal changes in trophic interactions in a sandy tidal Marchant R, Nicholas WL (1974) An energy budget for the
+flat community. Microb Ecol 34:199–209 free-living nematode Pelodera (Rhabditidae). Oecologia
+Epstein SS, Gallagher ED (1992) Evidence for facilitation and 16:237–252
+inhibition of ciliate population growth by meiofauna and Middelburg JJ, Barranguet C, Boschker HTS, Herman PMJ,
+macrofauna on a temperate zone sandflat. J Exp Mar Biol Moens T, Heip CHR (2000) The fate of intertidal micro-
+Ecol 155:27–39 phytobenthos carbon: an in situ 13C-labeling study. Limnol
+Fenchel T (1967) The ecology of marine microbenthos. I. The Oceanogr 45:1224–1234
+quantitative importance of ciliates as compared with Moens T, Vincx M (1997) Observations on the feeding ecol-
+metazoans in various types of sediments. Ophelia 4: ogy of estuarine nematodes. J Mar Biol Assoc UK 77:
+121–137 211–227
+Fenchel T (1968) The ecology of marine microbenthos. II. The Moens T, Vincx M (1998) On the cultivation of free-living
+food of marine benthic ciliates. Ophelia 5:73–121 marine and estuarine nematodes. Helgol Meeresunters
+Fenchel T (1969) The ecology of marine microbenthos. IV. 52:115–139
+Structure and function of the benthic ecosystem, its chem- Moens T, Verbeeck L, Vincx M (1999) Feeding biology of a
+ical and physical factors and the microfauna communities predatory and a facultatively predatory nematode (Eno-
+with special reference to the ciliated protozoa. Ophelia 6: ploides longispiculosus and Adoncholaimus fuscus). Mar
+1–182 Biol 134:585–593
+Frost BW (1972) Effects of size and concentration of food par- Moens T, Herman P, Verbeeck L, Steyaert M, Vincx M (2000)
+ticles on the feeding behavior of the marine planktonic Predation rates and prey selectivity in two predacious
+copepod Calanus pacificus. Limnol Oceanogr 17:805–815 estuarine nematode species. Mar Ecol Prog Ser 205:
+Gasol JM (1993) Benthic flagellates and ciliates in fine fresh- 185–193
+water sediments: calibration of a live counting procedure Müller H, Geller W (1993) Maximum growth rates of aquatic
+and estimation of their abundances. Microb Ecol 25: ciliated protozoa: the dependence on body size and tem-
+247–262 perature reconsidered. Arch Hydrobiol 126:315–327
+Gee JM (1989) An ecological and economic review of meio- Platt HM, Warwick RM (1983) Free-living marine nematodes.
+fauna as food for fish. Zool J Linnean Soc 96:243–261 Part I. British enoplids. In: Kermack DM, Barnes RSK (eds)
+Gerlach SA (1971) On the importance of marine meiofauna Synopses of the British fauna, Vol 28. Cambridge Univer-
+for benthos communities. Oecologia 6:176–190 sity Press, Cambridge
+Hamels I, Sabbe K, Muylaert K, Barranguet C, Lucas C, Her- Rabette C, Thouvenot A, Lair N (1998) Laboratory experi-
+man P, Vyverman W (1998) Organisation of microbenthic ments on trophic relationships and remote detection
+communities in intertidal estuarine flats, a case study from between two ciliates and Cyclops vicinus vicinus. Hydro-
+the Molenplaat (Westerschelde Estuary, The Nether- biologia 373/374:157–167
+lands). Eur J Protistol 34:308–320 Rieper M (1985) Some lower food web organisms in the nutri-
+Hamerlynck O, Vanreusel A (1993) Mesacanthion diplechma tion of marine harpacticoid copepods: an experimental
+(Nematoda: Thoracostomopsidae), a link to higher trophic study. Helgol Meeresunters 39:357–366
+levels? J Mar Biol Assoc UK 73:453–456 Rieper M, Flotow C (1981) Feeding experiments with bacte-
+Heip C, Vincx M, Vranken G (1985) The ecology of marine ria, ciliates and harpacticoid copepods. Kiel Meeresforsch
+nematodes. Oceanogr Mar Biol Annu Rev 23:399–489 Sonderh 5:370–375
+Herman PMJ, Middelburg JJ, Widdows J, Lucas CH, Heip Sanders RW (1991) Trophic strategies among heterotrophic
+CHR (2000) Stable isotopes as trophic tracers: combining flagellates. In: Patterson DJ, Larsen J (eds) The biology of
+
+72 Aquat Microb Ecol 26: 61–72, 2001
+free-living heterotrophic flagellates. The Systematics Asso- Stoecker DK, Capuzzo JM (1990) Predation on protozoa: its
+ciation Spec Vol No 45. Clarendon Press, Oxford, p21–38 importance to zooplankton. J Plankton Res 12:891–908
+Sanders RW, Porter KG (1990) Bacterivorous flagellates as Taylor WD, Johannsson OE (1991) A comparison of estimates
+food resources for the freshwater crustacean zooplankter of productivity and consumption by zooplankton for
+Daphnia ambigua. Limnol Oceanogr 35:188–191 planktonic ciliates in Lake Ontario. J Plankton Res 13:
+Schütz L (1966) Ökologische Untersuchungen über die Ben- 363–372
+thosfauna im Nordostseekanal. II. Autökologie der vagilen Tso SF, Taghon GL (1999) Factors affecting predation by
+und hemisessilen Arten im Bewuchs der Pfähle: Mikro- Cyclidium sp. and Euplotes sp. on PAH-degrading and
+und Mesofauna. Int Rev Ges Hydrobiol 51:633–685 nondegrading bacteria. Microb Ecol 37:3–12
+Sherr EB, Sherr BF (1994) Bacterivory and herbivory: key Vincx M, Meire P, Heip C (1990) The distribution of nematode
+roles of phagotrophic protists in pelagic food webs. communities in the Southern Bight of the North Sea. Cah
+Microb Ecol 28:223–235 Biol Mar 31:107–129
+Skoolmun P, Gerlach SA (1971) Jahreszeitliche Fluktuationen von Thun W (1968) Autökologische Untersuchungen an
+der Nematodenfauna im Gezeitenbereich des Weser- freilebenden Nematoden des Brackwassers. PhD thesis,
+Ästuars (Deutsche Bucht). Veröff Inst Meeresforsch Bre- Kieler Universität, Kiel
+merh 13:119–138 Vranken G, Herman PMJ, Vincx M, Heip C (1986) A re-
+Smol N, Heip C, Govaert M (1980) The life cycle of evaluation of marine nematode productivity. Hydrobiolo-
+Oncholaimus oxyuris(nematoda) in its habitat. Ann Soc R gia 135:193–196
+Zool Belg 110:87–103 Walters K, Moriarty DJW (1993) The effects of complex
+Soetaert K, Vincx M, Wittoeck J, Tulkens M, Van Gansbeke D trophic interactions on a marine microbenthic community.
+(1994) Spatial patterns of Westerschelde meiobenthos. Ecology 74:1475–1489
+Estuar Coast Shelf Sci 39:367–388 Warwick RM (1971) Nematode associations in the Exe Estu-
+Soetaert K, Vincx M, Wittoeck J, Tulkens M (1995) Meioben- ary. J Mar Biol Assoc UK 51:439–454
+thic distribution and nematode community structure in Wickham S, Gieseke A, Berninger UG (2000) Benthic ciliate
+five European estuaries. Hydrobiologia 311:185–206 identification and enumeration: an improved methodology
+Steyaert M, Herman PMJ, Moens T, Widdows J, Vincx M (in and its application. Aquat Microb Ecol 22:79–91
+press) Tidal migrations of nematodes on an estuarine tidal Wieser W, Kanwisher J (1960) Growth and metabolism in a
+flat (The Molenplaat, Schelde Estuary, SW Netherlands). marine nematode Enoplus communis Bastian. Z Vergl
+Mar Ecol Prog Ser Physiol 43:29–36
+Editorial responsibility: John Dolan, Submitted: June 13, 2001; Accepted: August 29, 2001
+Villefranche-sur-Mer, France Proofs received from author(s): October 16, 2001
+

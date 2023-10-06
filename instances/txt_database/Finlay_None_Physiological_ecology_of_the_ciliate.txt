@@ -1,0 +1,638 @@
+FINLAY & FENCHEL - ECOLOGY OF LOXODES 73
+REVIEW ARTICLES
+PHYSIOLOGICAL ECOLOGY OF THE CILIATED PROTOZOON
+LOXODES
+B. J. FlNLAY & T. FENCHEL*
+* Department of Ecology and Genetics, University of Aarhus,
+DK-8000 Aarhus C, Denmark.
+Introduction
+Protozoa tend to thrive in the same places as other microorganisms.
+Whether in sewage plants, the stomachs of ruminants, Sphagnum bogs
+or the faecal pellets of zooplankton, large numbers of bacteria and
+other microorganisms invariably provide favourable conditions for the
+grazing activities and growth of Protozoa. Microorganisms also flourish
+in the soft sediments of productive lakes and Protozoa too find a variety
+of niches there. Some live in and graze on the superficial algal mat,
+some occupy the interstices and some seek out the region of low oxygen
+tension and reducing conditions that invariably exists a few millimetres
+below the sediment surface. Many Protozoa, especially the smallest
+forms, are quite difficult to identify and this has often been a hindrance
+in ecological investigations, but the larger Protozoa, in particular those
+with prominent features like the ciliate Loxodes (Fig. 1), are easily
+identified. Loxodes was first recorded in the late 18th century when it
+was assigned to the genus 'Kolpoda' by Muller. Its current name was
+provided by Ehrenberg who erected a special genus for his 'Lippenthier-
+chen' (small-lipped animals). The two common species are the relatively
+large L magnus (0.3-0.6 mm) and the much smaller L. striatus (0.1-
+0.25 mm) (Figs. 2 and 3) but there are probably several others. They feed
+principally on algae, but they will also ingest rotifers, testate amoebae,
+colonial photosynthetic bacteria and most other particles larger than
+about 5 um with some organic content (Figs. 4 and 5).
+
+74 FIFTY-FOURTH ANNUAL REPORT FINLAY & FENCHEL - ECOLOGY OF LOXODES 75
+role in such processes as the release and cycling of nutrients and
+the flow of energy through ecosystems. In some lakes Loxodes may
+dominate not only the protozoan community (Finlay 1982) but the whole
+community of microfauna (Finlay 1985). It is also a large Protozoon so
+its population biomass can be considerable, and when we consider that
+Loxodes may double its number every few days (Bark & Watts 1984;
+Finlay & Berninger 1984), its potential importance in the economy of
+lakes becomes clearer. This point can be illustrated with a specific
+example. On 7 July 1982 Priest Pot contained 2X1012 Loxodes. Each cell
+has a wet weight of about 0.2 ug so the total weight would be about
+400 kg. This is about four times the biomass of fish in the pond.
+The other reason is that its biology is particularly interesting and at
+times unique. It is the only freshwater member of the family Loxodidae
+but in common with its marine relatives and unlike other freshwater
+Protozoa it has no contractile vacuole nor any other obvious method of
+osmoregulation. Its Golgi apparatus is unusually well developed for a
+ciliate but its nuclear apparatus is primitive and the macronuclei never
+divide. Its cell surface is covered with membrane-bound granules con-
+taining a yellow-brown pigment and much of the cell interior is compo-
+sed of vacuoles of various types and sizes. Some vacuoles contain small
+mineral inclusions and are located in specific positions along the dorsal
+rim of the cell. These were discovered by Johannes Muller in 1865 and
+they subsequently became known as 'Muller bodies'. They have been
+claimed to perform various functions but we now believe they enable
+Loxodes to perform the only known taxis in a ciliated Protozoon (Fen-
+chel & Finlay 1984; 1986a).
+Our investigation of Loxodes began with observations of where it
+lived and how it was distributed in lakes. We estimated its abundance
+and we resolved the factors that most probably controlled its spatial
+distribution. We then extended our investigation into some relevant
+aspects of its biology, especially its physiology. We have consistently
+tried to relate our understanding of the physiology of the organism to
+our observations and understanding of its ecology. The review that
+follows is an account of our progress so far.
+Spatial distribution
+Loxodes was discovered to be an important member of the ciliate
+There are two principal reasons for our pre-occupation with Loxodes: community living in the sediment of a small lake in Scotland (Airthrey
+the first is based on its extreme abundance in some lakes. Protozoa are Loch, Stirlingshire; Finlay, Bannister & Stewart 1979). The lake was
+biologically productive and quite shallow (mean depth ~1.5 m) and
+voracious consumers of microorganisms and they probably have an
+frequent wind-induced mixing of the water column ensured a per-
+important, even controlling influence on the size and activity of micro-
+manent supply of oxygen at the sediment surface. This meant that the
+bial populations. As a consequence they must also play an important
+
+76 FIFTY-FOURTH ANNUAL REPORT FINLAY & FENCHEL - ECOLOGY OF LOXODES 77
+FIG. 2. Loxodes magnus Stokes. Scale bar 100 um.
+FIG. 3. Loxodes striatus Penard. Scale bar 100 um.
+FIG. 4. Typical contortion of L. magnus in sediment. Scale bar 100 um.
+FIG. 5. A section of L. magnus showing ingested diatoms and dinoflagellates. Scale bar
+100 um. Figs. 2-5 by H. Canter-Lund.
+benthic organisms that might otherwise be forced out of the sediment
+by anaerobic conditions could remain in the sediment during the sum-
+mer months. There they could feed on sedimenting algae and, at
+shallower sites, on the algal mat flora developing at the sediment
+surface. Benthic oxygen consumption was also stimulated during the
+summer and this was recorded as a gradual displacement towards the
+sediment surface of the *oxic-anoxic boundary and the redox potential
+discontinuity. Many ciliates, including Laxodes, followed this upwards
+migration until they met oxygen close to the sediment surface. Numbers
+of Loxodes were recorded for two years and a quite simple cyclical
+pattern emerged; their number increased to a maximum (2500 per
+ml of sediment) during the summer and decreased to a minimum
+(<100 ml"1) during the winter (Finlay, 1978, 1980).
+Airthrey Loch is not typical of productive lakes, especially the deeper
+ones where summer stratification becomes established for long periods
+and the hypolimnion becomes progressively deoxygenated. How would
+Loxodes fare if it became isolated from a supply of oxygen? Would the
+population die, would the cells encyst and await better conditions, or
+would they migrate?
+The answer was found during a study of Esthwaite Water in the English
+Lake District. Goulder (1974) had shown that numbers of Loxodes in the
+sediments of Esthwaite decreased almost to zero during the summer
+months. He had also recorded planktonic Loxodes in Priest Pot, a small
+pond lying adjacent to Esthwaite (Goulder 1972) so it seemed likely
+that the planktonic population might simply be the displaced benthic
+population, forced into the water column by the arrival of anoxia at the
+sediment-water interface. This was later confirmed (Finlay 1981, 1982);
+Loxodes escaped into the water column when the water overlying the
+sediment became anoxic. The profile of population abundance was
+especially interesting: it showed a peak in the metalimnion which
+appeared to move in phase with the drift of the oxycline, eventually
+returning to the sediment in the autumn when the collapse of stratifi-
+cation made oxygen available again at the sediment surface (Fig. 6).
+Loxodes living close to the oxic-anoxic boundary presumably had access
+to sufficient oxygen so their migrations were considered to be the
+necessary behaviour of an obligate aerobe that required oxygen for
+* The term 'oxic' is used throughout, to mean water in which oxygen can be detected, i.e.
+>1 umol l-1.
+
+FINLAY & FENCHEL - ECOLOGY OF LOXODES 79
+78 FIFTY-FOURTH ANNUAL REPORT
+odes in the field and we transferred our attention to the neighbouring
+Priest Pot. This small (1 hectare) pond was once part of Esthwaite but it
+is now physically separated save for a narrow connecting ditch. It
+receives substantial levels of plant nutrients from the surrounding
+agricultural land and it supports dense crops of small algae and photo-
+synthetic bacteria (Finlay & Berninger 1984; Davison & Finlay 1986). The
+high algal productivity supports a complex microbial community which
+includes at least 20 ciliate species, some of which are extremely abun-
+dant. During the summer, Loxodes is present in the water column at
+numbers up to about 0.8X106 per litre which is 100 times their maximum
+abundance in Esthwaite.
+Working on Priest Pot had several advantages. The pond is sheltered,
+thermal stratification of the water column is quite stable and sampling
+at precise depths was relatively easy. More importantly, large numbers
+of Loxodes could be obtained in small samples of water. Water was
+collected from discrete depths using a pump sampler fitted with a
+sediment detector. Oxygen was recorded polarographically in the field
+and immediately after returning water samples to the laboratory (Finlay
+1985; Davison & Finlay 1986).
+The vertical distribution of Loxodes in Priest Pot was quite similar to
+that in Esthwaite; peak abundance was close to the oxic-anoxic bound-
+ary, they avoided the epilimnion and numbers decreased exponentially
+with depth in the anoxic hypolimnion. Examining the position of the
+Loxodes peak more closely we could see that it was always positioned
+in water containing little or no detectable (1 umol I-1) oxygen. More
+surprising still was the observation that peak abundance also occurred
+in water with an elevated nitrite (NO -2) concentration. Localized accumu-
+lations of nitrite are not uncommon in either lakes or the open ocean.
+In the latter, where they are well-documented, they are invariably
+associated with mid-water oxygen minima and they are ascribed to the
+activities of bacteria. In the absence of oxygen, these bacteria use nitrate
+(NO-3) as a substrate, reducing it to NO-2 by respiration, a respiratory
+process similar to that by which they would reduce oxygen (0 ) to water
+2
+(H 0). The nitrite so produced then accumulates in anoxic water, often
+2
+as a distinct peak. If Loxodes was aerobic, why did the peak abundance
+occur in anaerobic water which also supported a nitrite peak? If as we
+respiration. It became obvious however that this simple explanation suspected, the nitrite was produced by dissimilatory reduction of nitrate,
+how did Loxodes manage to respire 0 in water where the accompanying
+was incomplete. If Loxodes migrated into the water column to find 2
+bacteria were forced to respire nitrate? These questions seemed intract-
+oxygen, why did it avoid the epilimnion, where there was plenty of
+able until we considered the possibility that Loxodes itself might be
+oxygen, and why were these 'aerobic' cells also distributed throughout
+capable of reducing nitrate.
+the anaerobic, sulphide-rich hypolimnion?
+Loxodes would require a key enzyme, nitrate reductase, so the activity
+of this enzyme was determined at different depths while simultaneously
+Nitrate respiration
+We required more precise information about the behaviour of Lox-
+
+80 FIFTY-FOURTH ANNUAL REPORT
+FINLAY & FENCHEL - ECOLOGY OF LOXODES 81
+recording the abundance of Loxodes. Water was passed through a 30 um
+water would account for less than 1% of the measured activity (Finlay
+sieve which retained almost all Loxodes but allowed most unattached
+Span & Harman 1983; Finlay 1985) and microscopic examination of the
+bacteria to pass. The sieve retentate was then assayed for nitrate reduc-
+surface of Loxodes revealed that it was largely free of attached bacteria
+tase. A clear correlation existed between Loxodes abundance and the
+Transmission electron micrographs were also scanned for signs of proka-
+ryote endosymbionts but none were found. Neither was there any
+evidence that ingested material was responsible for the activity
+If the enzyme was indeed located in Loxodes then we should detect
+it in isolated cells and the activity should be proportional to the amount
+of material in the assay. Both species of Loxodes were isolated from
+Priest Pot and cultured in the laboratory: each was then assayed for the
+enzyme. The results provided strong evidence for the presence of nitrate
+reductase in Loxodes. There was a linear relationship between nitrate
+reduction and the number of Loxodes cells in the assay and the relation-
+ship could be extrapolated to the origin (Finlay, Span & Harman 1983)
+The activity per cell was also roughly proportional to cell size in the
+two species.
+Where might this enzyme activity be located in Loxodes? The dissimila-
+tory nitrate reductase in bacteria is membrane-bound so the most pro-
+bable site in Loxodes would be the membrane surfaces responsible for
+energy production - the inner mitochondrial membrane. We have no
+conclusive evidence that the enzyme is located there, merely circum-
+stantial evidence based on quantitative analysis of Loxodes mitochon-
+dria. When L magnus had access to low levels of oxygen, each cell had
+on average 46,000 mitochondria with typical tubular cristae. However
+when cells were collected from anaerobic water they were found to
+contain on average 78,000 mitochondria. The latter were apparently
+normal, with typical infolding of the inner membrane, so the increase
+in the number of mitochondria in anaerobic cells was accompanied by
+an increase in the surface area of the inner, energy-yielding membrane
+This makes some sense, for nitrate respiration employs a shorter elec-
+tron transport chain and it is less efficient than aerobic respiration in
+the amount of energy it provides. The evidence available for bacteria
+indicates that a reduction in molar growth yield of about 50% is associ-
+ated with the switch from oxygen respiration to nitrate respiration
+so the increased energy-yielding surface area could be viewed as a
+compensation for the reduced energy yield accompanying the switch
+Supporting evidence for this was obtained by directly measuring the
+enzyme activity (Fig. 7): furthermore they both coincided with the nitrite
+activity of the electron transport system (ETS). This can be done by
+peak in water containing little or no oxygen (Finlay, Span & Harman
+exposing the ETS to a formazan dye whose subsequent rate of reduction
+1983).
+depends on the rate of flow of reducing equivalents down the ETS
+The most likely explanation for these enzyme activities is that they
+(Finlay, Span & Ochsenbein-Gattlen 1982). A doubling of the specific-
+were located in contaminating bacteria but there is no evidence to
+ETS activity accompanied the transition from oxic to anoxic water This
+support this. The number of nitrate-reducing bacteria counted in the
+is quite consistent with our contention that the same transition is associ-
+
+82 FIFTY-FOURTH ANNUAL REPORT
+FINLAY & FENCHEL - ECOLOGY OF LOXODES 83
+ated with a switch from oxygen to nitrate respiration and that the
+down, Loxodes was apparently 'fooled' into swimming in the wrong
+principal energy yielding processes remain within the mitochondria.
+direction. Cells swimming 'up' before inversion of the tube maintained
+Our theory required the demonstration that Loxodes had access to the same orientation with respect to gravity after inversion with the
+nitrate and that the nitrite peak could be ascribed to dissimilatory nitrate result that they swam towards the closed end of the test tube which
+reduction. The sources and sinks of metalimnetic nitrate have recently now lay above them, and so into water that was devoid of oxygen.
+been described and some conclusions have been drawn (Finlay 1985). Conversely, cells that were located in a high 0 tension before inversion
+2
+The nitrite peak coinciding with Loxodes was usually confined to anoxic and which were poised for 'downwards' swimming, did indeed swim
+water and as such it probably had its origin in dissimilatory reduction downwards after inversion, to collect on the dialysis membrane and
+of nitrate. It was derived from nitrate which had two principal sources- end up in water with an even higher 0 tension. However in its natural
+2
+runoff from the surrounding agricultural land and diffusion across the habitat, movement by Loxodes against the pull of gravity will always be
+oxycline after production by aerobic, nitrifying bacteria. The nitrifiers associated with a gradual or eventual increase in the ambient 0 tension.
+2
+depended on entrainment and upwards diffusion of nitrite and ammonia Since it is apparently of some value to Loxodes to seek out a specific 0
+2
+from the underlying anoxic hypolimnion. tension, it uses its ability to perceive the permanent and unambiguous
+cue of gravity to swim vertically and so quickly reach its preferred
+environment.
+Geotaxis
+A prime requirement for gravity perception is the possession of a
+The profile of Loxodes abundance in the water column was remarkably mechanoreceptor. In many other animals the various structures which
+consistent: cells avoided water containing more than a few per cent fulfil this purpose are known as statocysts and they tend to share certain
+dissolved oxygen, a sharp peak in abundance lay close to the oxic- similarities. Each one consists of a mineral concretion with a relatively
+anoxic boundary and numbers decreased exponentially through the high specific gravity which is capable of limited movement in a vacuole
+anoxic hypolimnion. Loxodes was apparently capable of perceiving the or chamber containing sensory cells: these cells are stimulated by
+0 2 tension and of modifying its swimming behaviour accordingly, but gravity-induced displacement of the mineral body. Any such structure
+how did it do this and how did it maintain its distinctive vertical profile? in a Protozoon must of course be quite simple and enclosed within the
+We could verify that the vertical profile was a product of Loxodes' single cell of the organism. Penard (1917) was the first to suggest that
+own behaviour by reproducing it as a scaled down version in test tube the so-called Muller vesicles, a series of mineral bodies enclosed in
+cultures that were free of other Protozoa and other potential competitors vacuoles and located along the dorsal rim of Loxodes, might function
+or predators. Using the same cultures we also observed patterns of as statocysts. Since we now knew that Loxodes could perceive gravity
+behaviour that began to explain the vertical profile, for cells behaved and that it must therefore have a mechanoreceptor, we pursued Penard's
+in specific ways which depended on the level of 0 2 in the tubes. In the suggestion and examined the structure of the Muller vesicles.
+absence of oxygen they tended to swim vertically upwards and in the
+By simply considering the physical properties of these organelles it
+presence of high levels of 0 they swam vertically downwards. When
+2 was clear that they could function as statocysts. They were large enough
+cells entered a zone of low 0 tension (e.g. less than about 5% of the
+2 and, with barium sulphate as the principal component of the mineral
+saturation value, equivalent to about 0.05 mg I-1), vertical swimming
+body, they were sufficiently dense to quickly respond to the influence
+virtually disappeared and kinetic responses took over (i.e. swimming
+of gravity. Furthermore, gravity alone would pull the mineral body to
+velocity decreased and the frequency of random re-orientation in-
+one side of the vacuole in about one fifth of a second, thus nullifying
+creased; Fenchel & Finlay 1984). As a consequence, cells tended to
+the background 'noise' produced by Brownian motion.
+aggregate at a low 0 tension. Kinetic responses to environmental
+2 The mineral body is roughly spherical and about 3 um in diameter. It
+stimuli are known for many microorganisms including Protozoa but
+is located in a larger (7 um) vacuole and apparently connected to the
+orientation and swimming with respect to the force of gravity is unusual,
+wall of the latter by a stalk. This much can easily be seen with the light
+if not unique in Protozoa. This was obviously a fundamental characteris-
+microscope (Figs. 9, 10) but it was clear that a fuller understanding of
+tic of the behaviour of Loxodes so we decided to investigate it further.
+the functional morphology of the organelle would depend on an analy-
+Unequivocal evidence for gravity perception could be obtained quite
+sis using the electron microscope.
+easily: when test tube cultures like those in Fig. 8 were completely
+Serial sections were obtained of both fully-developed and immature
+filled, then sealed with a gas-permeable membrane and turned upside
+Muller vesicles. The images on individual micrographs were then
+
+84 FIFTY-FOURTH ANNUAL REPORT FINLAY & FENCHEL - ECOLOGY OF LOXODES 85
+transferred to perspex plates piled on top of each other to produce a 3-
+dimensional scale model of the vesicle and its associated structures.
+This model revealed an intimate association between the Muller vesicle
+and the cilia of the kinety (row of cilia) on the left side of the cell (Fig.
+'up' and what is 'down' and it is most likely to do this if the receptor
+11). The 'stalk' supporting the mineral body consisted of a fairly rigid
+has only two possible orientations. But the receptor must continue to
+sheet of cytoplasm containing nine microtubules. These microtubules
+were anchored in a non-ciliated kinetosome (ciliary basal body) lying function when Loxodes glides horizontally across the sediment surface
+adjacent to another, ciliated kinetosome. How might this structure or on the underside of surfaces suspended in the water so there are
+provide Loxodes with information about the force of gravity? four principal ways in which Loxodes can orient itself with respect to
+An efficient gravity receptor will provide information about what is gravity. The relationship between the orientations of both Loxodes and
+
+86 FIFTY-FOURTH ANNUAL REPORT
+FINLAY & FENCHEL - ECOLOGY OF LOXODES 87
+its Muller bodies was resolved after some patient observation of living
+cells (Fig. 11).
+Only one side of the cell is fully ciliated (Fig. 1) and if Loxodes
+maintains contact with a solid surface it glides over the surface on its
+ciliated side. Thus it adopts a specific orientation even when moving
+horizontally. Furthermore, we could see that although the cells had
+four principal orientations, the Muller body took only one of two
+positions. When cells swam vertically downwards or if they glided with
+the ciliated side downwards (e.g. over the sediment surface), the Muller
+body fell to the anterior right side of the vesicle. Conversely, when the
+ciliate swam vertically upwards or if it glided across the underside of a
+horizontal surface the body fell to the posterior left side of the vesicle.
+The total movement of the Muller body between these two positions
+was 3-4 um and, because of the rigidity of the supporting stalk the latter
+also moved, changing the angle between the stalk and the ciliary tube
+by about 90°.
+Most if not all gravity receptors in other animals also involve some
+attachment or association with cilia and ciliary basal bodies and there
+is now general acceptance that the transduction of the mechanical
+sensory input occurs at or close to the basal bodies. In Loxodes too we
+can see how this might come about. Movement of the Muller body from
+one side of the vesicle to the other will cause some stretching of the
+membranes between the two basal bodies. This mechanical stress will
+change the ion permeability and hence change the membrane poten-
+tial - change that will be propagated across the cell surface to modify
+the behaviour and beating frequency of the cilia. Any electrical signal
+travelling over the cell membrane will eventually be dampened so large
+cells will require more Muller vesicles. Our subsequent analysis of the
+occurrence of Muller vesicles in cells of different sizes did indeed show
+that the number was proportional to cell surface area (Fenchel & Finlay
+1986a).
+A remarkable consequence of Loxodes' accumulation of barium is
+that it accounts for most of the particulate fraction of this element in
+the lake. The first indication of this was the close coincidence in the
+vertical profiles of Loxodes abundance and particulate barium in Priest
+Pot (Fig. 12) and it was substantiated by our calculation that the contribu- equivalent to about 70% of its maximum swimming velocity but it
+tion from Loxodes would be at least 60%. Furthermore, measurements can also orientate itself without exploiting this ability. This is best
+of particulate barium in Esthwaite and Priest Pot could be shown to be demonstrated by manipulating cultures in such a way that gravity ceases
+proportional to Loxodes abundance over three orders of magnitude to have any value for orientation, by establishing 0 gradients in a
+2
+(Finlay, Hetherington & Davison, 1983). Loxodes presumably plays a horizontal plane. Figure 13 shows such a system, created in a Sedgewick-
+significant but as yet poorly understood role in the biogeochemical
+Rafter cell. Oxygen diffuses from the atmosphere and is consumed by
+cycle of barium in productive lakes.
+bacteria and protozoa in the medium enclosed by the chamber. By
+taking long exposure photographs of the behaviour of a population of
+Kinetic responses
+Loxodes in such a gradient it is possible to record their kinetic responses
+Geotaxis allows Loxodes to reach its optimum environment at a rate to oxygen tension (Fig. 14). Cells close to the oxic-anoxic boundary live
+
+88 FIFTY-FOURTH ANNUAL REPORT FINLAY & FENCHEL - ECOLOGY OF LOXODES 89
+suspected, have the basis of a biochemical explanation underlying
+the behavioural avoidance of oxygen. The intracellular production of
+oxygen radicals would presumably be much greater at high partial
+pressures of oxygen.
+We assayed Loxodes striatus for two enzymes, superoxide dismutase
+and catalase; the latter catalyses the removal of hydrogen peroxide
+(H 0 ). For comparison and as a control of the methods, we used the
+2 2
+aerobic ciliate Tetrahymena which was known to contain both enzymes.
+The results obtained were of little help in explaining the absence of
+Loxodes from oxygenated waters for both enzymes were found to be
+present, albeit at much lower levels (25% and 5% for SOD and catalase
+respectively) than in Tetrahymena. These activities are low but they
+are probably consistent with the microaerophilic habit of Loxodes.
+Unfortunately, little more can be inferred. If Loxodes is capable of
+synthesising the enzymes it might simply manufacture greater quantities
+to deal with the higher substrate levels as the need arose. We apparently
+cannot claim the absence of protective enzymes as a reason for Loxodes'
+avoidance of oxygenated waters. We also considered the possibility that
+oxygen avoidance might not result from a direct interaction with the
+dissolved oxygen tension but that some oxygen-related factor (e.g.
+sulphide, Fe2+/Fe3+, C0 and pH) had a controlling influence. Two types
+in their optimum environment and they respond with a significant 2
+of evidence indicated that these other factors were of little importance.
+reduction of their random motility; many cells appear almost motionless Firstly, the vertical profiles of C0 , pH, sulphide and ferrous (Fe2+) iron
+in a photograph with an exposure of several seconds (Fig. 14). But the 2
+in Priest Pot were not closely related to Loxodes abundance. Secondly,
+other cells in the population live in a suboptimal environment and their
+by manipulating the gas phase surrounding cultures in Sedgewick-Rafter
+random motility increases: swimming velocity and pathlength are both
+cells we could show that Loxodes followed a retreating source of 0
+2
+much higher. The resulting population profile is quite similar to that in and was repelled by a high oxygen tension. This behaviour was sustained
+the lake and in test tube cultures although it is produced without the when cells simultaneously swam up or down gradients of both C0 and
+2
+benefit of gravity: it therefore takes much longer to reach equilibrium. pH.
+It is very likely that the kinetic responses observed in Fig. 14 are
+There was also no evidence that Loxodes was repelled by high levels
+the same behavioural responses which trap Loxodes in their optimum
+of potentially toxic radicals produced in the surrounding water. It is
+environment in the vertical 0 gradient of a lake.
+2 known that superoxide and hydrogen peroxide (H 0 ) for example can
+2 2
+be produced in some natural waters, especially if they are illuminated
+Oxygen toxicity and photosensitivity and they contain elevated levels of humic substances. We could detect
+Why should the optimum environment for Loxodes be depleted in both superoxide and hydrogen peroxide in the surface water of Priest
+oxygen and why do cells avoid water containing 0 levels higher than Pot but there was virtually no correlation between concentration and
+2
+about 5% of saturation? Our first attempt to answer this question was Loxodes abundance (Finlay, Fenchel & Gardener 1986). Neither was
+based on anticipated similarities between Loxodes and other microaer- there any obvious way by which these or any other potentially toxic
+ophilic and anaerobic organisms, especially bacteria. Oxygen is toxic to radicals (e.g. OH, 0 ) could be generated in the dark, even allowing
+2
+many anaerobic bacteria, probably because they lack one or more for probable interactions with transition metal ions.
+of the enzymes that confer some protection against oxygen radicals, Thus we returned to our original assumption that the dissolved oxygen
+especially the superoxide radical anion (O-2). The enzyme superoxide tension and probably that alone repelled Loxodes from well-oxygenated
+dismutase (SOD) catalyses the removal of superoxide so if Loxodes waters. But how did oxygen repel Loxodes? Two quite separate observa-
+should fail to synthesise this or other protective enzymes we would, we tions helped to provide the answer. We had noticed that under certain
+
+90 FIFTY-FOURTH ANNUAL REPORT FINLAY & FENCHEL - ECOLOGY OF LOXODES 91
+conditions Loxodes appeared to respond to light: cells surrounded by
+anoxic water remained insensitive but cells in contact with oxygen were
+sensitive to light. By shining a beam of light from a fibre-optic probe onto
+cells gathered close to the oxic-anoxic boundary in a spectrophotometer
+cell we could see that they responded in three specific ways. The initial
+response was transient and involved an increase in tumbling frequency.
+Thereafter, tumbling subsided but swimming velocity and pathlength
+increased (kinetic response) and thirdly, positive geotaxis was initiated
+(Figs. 16, 17). Thus, illumination stimulated cells to quickly move away
+from any contact they had with oxygen. They remained in anoxic water
+until the light was switched off, whereupon they returned to their
+optimum low 0 tension. If cells were exposed to light and oxygen but
+2
+prevented from swimming into anoxic water they soon began to look
+abnormal: numerous vacuoles developed beneath the cell membrane
+and the cells exploded. Similar effects eventually developed in cells
+kept in the dark if they were continuously exposed to a high 0 tension.
+2
+Insofar as light apparently exacerbated the deleterious effects of high
+oxygen levels the phenomenon was similar to the initiation of positive
+geotaxis in cells exposed to trace levels of 0 , for in the latter case also,
+2
+cells reacted to light as if the oxygen tension had been further increased.
+This indicated that light and oxygen interacted in the physiological
+effects they produced. The interaction could be important, for Loxodes
+living in the wild will occasionally be exposed to various combinations
+of light and oxygen. It became apparent that a complete understanding
+of the relevance of 0 responses would have to take account of probable
+2
+interactions with the light level.
+We have previously shown (Fenchel & Finlay 1986b) that the *motility
+of a population of Loxodes is proportional to swimming velocity so we
+can use the easily measured swimming speed as an index of motility.
+Motility was minimal when cells were in the dark at an 0 tension of
+2
+about 5%, it increased in anoxic water and it was highest when the 0
+2
+tension was greater than 50% (about 5 mg I-1). When cells were also
+exposed to a sufficiently high light level, swimming speed increased
+at all oxygen tensions except for anoxia, where swimming remained
+unaffected. These results, obtained using populations of Loxodes
+oriented horizontally in flattened capillary slides, are summarised in minimum in anoxic water. Since cells will tend to aggregate wherever
+Fig. 18. We can see that the minimum swimming velocity (proportional their motility is lowest, cells exposed to more than 5 Wm2 will aggre-
+to motility) occurs at a progressively lower 0 2 tension as the light level gate in anoxic water.
+is increased, and at all irradiances above about 5 Wm~2 it takes a
+A similar 'critical' light level was determined using different methods
+and populations of cells stratified vertically in spectrophotometer cells,
+* The motility of Loxodes and other protozoa can be described as a random walk consisting a system that mimics the distribution of Loxodes in an 0 gradient in
+2
+of more-or-less straight runs and random changes in direction (tumbling). The motility
+the wild. Loxodes accumulated at a low 0 tension in the dark. When
+of a population can therefore be quantified by a diffusion coefficient; increasing the 2
+the light was switched on, the cells swam down and so out of contact
+swimming speed and decreasing the frequency of tumbling, increases the motility (see
+Fenchel & Finlay 1986b). with oxygen. The rate of escape was dependent on the intensity of the
+
+92 FIFTY-FOURTH ANNUAL REPORT FINLAY & FENCHEL - ECOLOGY OF LOXODES 93
+usually within a few centimetres of the upper limit to the Loxodes
+distribution so it is probable that on some occasions light and oxygen
+interact to exclude Loxodes from oxygenated water.
+Pigments
+The pigment mediating the photosensitivity of Loxodes is probably
+located in the vast number of granules embedded in the cell membrane
+(Fig. 15). These granules are usually referred to as pigment granules and
+they are morphologically similar to the pigment-bearing granules in
+other, brightly coloured ciliates such as Blepharisma. The principal
+pigment in Blepharisma is known to be the potent photodynamic agent
+hypericin but we know that the pigment in Loxodes is something quite
+different. Absorption spectra of solvent extracts indicate that it absorbs
+principally at the blue end of the visible spectrum (Finlay & Fenchel
+1986). The action spectrum for escape from oxygenated water also
+indicates a blue light receptor. Interestingly the action spectrum shows
+at least two peaks, at about 360 and 435 nm; this is consistent with the
+pigment being a flavin. Many of the blue light responses in a wide
+variety of organisms involve photoreception by flavins but it is usually
+unclear how they work. We cannot claim to have a clear impression
+of the function of the pigment in Loxodes but we have made some
+observations which we think point us in the right direction.
+The most significant clue was obtained when Steve Gardener noticed
+that the yellow-brown pigment remaining on top of polyacrylamide gels
+after electrophoresis of Loxodes homogenates would, in the presence
+of light and a tetrazolium dye, turn dark blue. This indicated that the
+pigment had produced something which had reduced the dye. We
+suspected that the active agent was superoxide and this was confirmed
+in a subsequent experiment. The capacity to generate superoxide in the
+presence of light is also a characteristic of flavins so the experiment
+provided further evidence for the existence of such a compound in the
+pigment granules of Loxodes.
+The other relevant observations were made while searching for inhibi-
+tors of the oxygen response. The most obvious and consistent effect was
+step-up in light level and results obtained from a large number of obtained with micromolar concentrations of cyanide which apparently
+cultures showed that escape could be detected at irradiances slightly blocked Loxodes' ability to perceive the oxygen tension. Random motil-
+less than 10 Wm-2, broadly in agreement with the response of cells in ity also increased and cells generally behaved as they would do in
+horizontal capillary tubes. anoxic water (Fenchel & Finlay 1986b). Of particular interest was the
+In an effort to relate these findings to the ecology of Loxodes in the observation that the response was independent of the light level: in the
+field, we have examined the vertical profiles of Loxodes abundance, 0 presence of cyanide, swimming behaviour remained the same in the
+2
+and the light regime in Priest Pot. During the summer, light intensities dark, in bright light and at all 0 2 tensions. The demonstration that
+in excess of the critical irradiance of 5-10 Wm-2 often penetrate to Loxodes becomes insensitive to light when it also becomes insensitive
+depths where the 0 2 tension is about 5 per cent. These depths are to 0 2 is important, for it provides strong evidence that the 'receptors'
+
+94 FIFTY-FOURTH ANNUAL REPORT FINLAY & FENCHEL - ECOLOGY OF LOXODES 95
+for light and for oxygen are probably identical. This would also be tension or it may continue swimming down into the anoxic zone. In the
+consistent with our earlier observation that behavioural responses to latter case the flow of reducing equivalents down the ETS will cease,
+an increase in light level are identical to responses to increased 0 the redox state of the cytochrome oxidase will change and the cell will
+2
+tension in the dark - in other words the 'active agent' produced in the tumble until it is heading vertically up. The Muller body will then be
+presence of light may be identical to that produced in the dark at high oriented posterior left creating a new electrical stimulus which interacts
+oxygen tensions. with the cell membrane potential and keeps the cell swimming vertic-
+When we come to consider the nature of this 'active agent' and its ally. When the cell reaches its optimum environment the redox state of
+probable receptor we must admit we have little firm evidence. Our the cytochrome oxidase is presumably 'ideal' and a new membrane
+experiments with the Loxodes pigment would indicate that superoxide potential is established, the oxygen tension is sufficient for respiration,
+may well be the agent and the observation that cyanide is effective at the flux of superoxide can be disposed of by SOD, the Muller body fails
+micromolar concentrations indicates that a cytochrome oxidase is the to interact significantly with the new membrane potential, and the
+receptor but how might these function in the perception of light and probability of geotaxis becomes minimal.
+oxygen by Loxodes and how might they interact with gravity perception? Many organisms aggregate at some 0 tension less than atmospheric
+2
+Let us assume that the common currency for the interaction of light saturation but the function of this behaviour is not usually understood.
+and oxygen is a source of reducing power, for example superoxide In Loxodes it probably represents a compromise between avoidance of
+which is produced in excess in the dark at a high 0 tension and in high 0 tensions and a periodic requirement for aerobic metabolism
+2 2
+similar quantities in the light at a low 0 tension. It is known that but the behaviour has another obvious benefit, for it will bring cells
+2
+superoxide will reduce some components of the electron transport into a zone where competition and predation by other animals are
+system, especially cytochrome c and this reducing power will presum- probably unimportant. Most of the zooplankton for example avoid the
+ably be transferred to the cytochrome oxidase. Work on various bacteria anoxic zone and the zone of low oxygen tension inhabited by Loxodes.
+indicates that the activity of the ETS and the redox state of the cytoch rome
+oxidase can influence the cell membrane potential on which we know Conclusions
+the frequency and rhythm of ciliary activity in protozoa is based. Thus
+Loxodes faces special problems in living close to the oxic-anoxic
+the intracellular production of oxygen radicals like superoxide could,
+boundary. In tightly-stratified ponds like Priest Pot its optimum environ-
+we suspect, modulate swimming behaviour.
+ment may be quite narrow and it can be displaced by the slightest
+We must of course also incorporate the role of gravity perception in
+turbulence. Loxodes cannot sense an 0 gradient directly but its ability
+this scheme. It is likely that the movement of the Muller body creates 2
+to perceive gravity allows it to make relatively long vertical migrations.
+an electrical stimulus close to the basal bodies in the wall of the vesicle.
+It is also sensitive to light and oxygen and it uses these environmental
+This stimulus will be propagated over the cell membrane and it will
+cues to modulate the parameters of its random motility: in the dark, it
+doubtless influence the ciliary beat and hence the swimming behaviour.
+aggregates at a low 0 tension and in bright light it aggregates in anoxic
+2
+We can imagine then, two quite separate but interacting processes water. The oxic-anoxic boundary is also a zone where 0 may be a scarce
+2
+which modify the membrane potential - an input dependent on the and transient resource, but Loxodes can switch to nitrate respiration
+redox state of the cytochrome oxidase and another from the orientation and exploit the pool of nitrate that often exists close to the base of the
+of the Muller body. oxycline.
+When Loxodes enters a sub-optimal 0 tension it displays such transi-
+2
+ent responses as repeated tumbling and changes in swimming direction.
+Acknowledgement
+This behaviour will be accompanied by displacements of the Muller
+body. When entering a high 0 tension the oxygen 'receptor' will This work received financial support from the Natural Environment
+2
+undergo an excessive reduction and the cell will tumble until the Muller Research Council,
+body is oriented anterior right within the vesicle. This orientation will
+create an electrical stimulus which interacts with the membrane poten- REFERENCES
+tial: the most important result will be that the cell continues to swim Bark, A. W. & Watts, J. M. (1984). A comparison of the growth characteristics
+vertically downwards (positive geotaxis). The cell may successfully de- and spatial distribution of hypolimnetic ciliates in a small lake and an artificial
+ploy kinetic responses to trap itself in the zone of optimum low 0 2 lake ecosystem. J. gen. Microbiol. 130, 3113-22.
+
+96 FIFTY-FOURTH ANNUAL REPORT
+Davison, W. & Finlay, B.J. (1986). Ferrous iron and phototrophy as alternative
+sinks for sulphide in the anoxic hypolimnia of two adjacent lakes, J. Ecol. (in
+press).
+Fenchel, T. & Finlay, B. J. (1984). Ceotaxis in the ciliated Protozoon Loxodes. J.
+exp. Biol. 110, 17-33.
+Fenchel, T. & Finlay, B. J. (1986a). The structure and function of Muller vesicles
+in loxodid ciliates. J. Protozool., 33, 69-76.
+Fenchel, T. & Finlay, B. J. (1986b). Photobehaviour of the ciliated Protozoon
+Loxodes: taxic, transient and kinetic responses in the presence and absence
+of oxygen. J. Protozool. (in press).
+Finlay, B. J. (1978). Community production and respiration by ciliated Protozoa
+in the benthos of a small eutrophic loch. Freshwat. Biol. 8, 327-41.
+Finlay, B. J. (1980). Temporal and vertical distribution of ciliophoran communities
+in the benthos of a small eutrophic loch with particular reference to the redox
+profile. Freshwat. Biol. 10, 15-34.
+Finlay, B. J. (1981). Oxygen availability and seasonal migrations of ciliated
+Protozoa in a freshwater lake. J. gen. Microbiol. 123, 173-8.
+Finlay, B. J. (1982). Effects of seasonal anoxia on the community of benthic
+ciliated Protozoa in a productive lake. Arch. Protistenk. 125, 215-22.
+Finlay, B. J. (1985). Nitrate respiration by Protozoa (Loxodes spp.) in the hypolim-
+netic nitrite maximum of a productive freshwater pond. Freshwat. Biol. 15,
+333-46.
+Finlay, B., Bannister, P. & Stewart, J. (1979). Temporal variation in benthic ciliates
+and the application of association analysis. Freshwat. Biol. 9, 45-53.
+Finlay, B. J. & Berninger, U.-G. (1984). Coexistence of congeneric ciliates (Karyor-
+elictida: Loxodes) in relation to food resources in two freshwater lakes. J.
+Anim. Ecol. 53, 929-43.
+Finlay, B. J. & Fenchel, T. (1986). Photosensitivity in the ciliated Protozoon
+Loxodes: pigment granules, absorbance and action spectra, evidence for a
+flavin photoreceptor and ecological significance. J. Protozool. (in press).
+Finlay, B. J., Fenchel, T. & Gardener, S. (1986). Oxygen perception and oxygen
+toxicity in the freshwater ciliated Protozoon Loxodes. J. Protozool. (in press).
+Finlay, B. J., Hetherington, N. B. & Davison, W. (1983). Active biological participa-
+tion in lacustrine barium chemistry. Ceochim. Cosmochim. Acta. 47,1325-9.
+Finlay, B. J., Span, A. S. W. & Harman, J. M. P. (1983). Nitrate respiration in
+primitive eukaryotes. Nature, 303, 333-6.
+Finlay, B. J., Span, A. & Ochsenbein-Gattlen, C. (1983). Influence of physiological
+state on indices of respiration rate in Protozoa. Comp. Biochem. Physiol. 74A,
+211-19.
+Goulder, R. (1972). The vertical distribution of some ciliated Protozoa in the
+plankton of a eutrophic pond during summer stratification. Freshwat. Biol. 2,
+162-76.
+Goulder, R. (1974). The seasonal and spatial distribution of some benthic ciliated
+Protozoa in Esthwaite Water. Freshwat. Biol. 4, 127-47.
+Penard, E. (1917). Le genre Loxodes. Revue Suisse Zool. 25, 453-89.
+

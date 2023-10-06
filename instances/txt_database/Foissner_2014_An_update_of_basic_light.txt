@@ -1,0 +1,1455 @@
+InternationalJournalofSystematicandEvolutionaryMicrobiology(2014),64,271–292 DOI10.1099/ijs.0.057893-0
+An update of ‘basic light and scanning electron
+microscopic methods for taxonomic studies of
+ciliated protozoa’
+Wilhelm Foissner
+Correspondence Universita¨tSalzburg,FBOrganismischeBiologie,Hellbrunnerstrasse34,A-5020Salzburg,Austria
+WilhelmFoissner
+wilhelm.foissner@sbg.ac.at
+Thisis anupdateof thereviewby Foissner (1991).Since then, Ihaveimproved some methods
+considerably. The following methods are describedindetail: liveobservation, supravitalstaining
+withmethyl green-pyronin, dry silvernitrate impregnation, wet silvernitrate impregnation, silver
+carbonate impregnation, protargol impregnation (threeprocedures), scanning electron
+microscopy,anddeciliation.Familiaritywiththesemethods(ormodifications)isaprerequisitefor
+successful taxonomic work. Nostaining method is equallyappropriate toall kindsofciliates. A
+tableisprovidedwhichindicatesthoseprocedureswhichworkbestforcertaingroupsofciliates.
+A second tablerelates tothe structures revealed by theprocedures. Gooddescriptions usually
+demandatleast liveobservation, silvernitrate andprotargol or silvercarbonate impregnation.
+Some instructions areprovided fordistinguishing mono-anddikinetids aswellas ciliatedand
+non-ciliated basal bodiesinsilveredciliates. Furthermore, Iadded a section on ‘Depositionand
+Labeling ofPreparations’. All methodswork not only withciliates butalso withmanyother
+heterotrophic andautotrophic flagellated andamoeboid protists. The brilliancy ofsilver
+preparationshastemptedsometaxonomiststoneglectliveobservation.However,manyimportant
+speciescharacteristicscannotbeseenorarechangedinsilveredspecimens.Ithusconsiderall
+species descriptions based exclusively on silverslidesas incomplete andofdoubtful valuefor
+both a-taxonomists andecologists.
+INTRODUCTION basedonhardexperimentalworkor,rarely,ongoodluck.As
+an example for both, I mention the use of albumized slides
+The micrographs of various freshwater, marine and soil
+(luck) and of a chemical developer (many experiments) for
+ciliates published by my colleagues and myself during the
+the dry silver nitrate method of Klein (1926, 1943). The
+past 25 years, most based on the few methods described
+resultsofthesemodificationsweresoconvincingthatIcould
+here and by Foissner (1991), have been widely accepted as
+publish them in Mikrokosmos, a journal for amateur
+beingofahighstandard.Allmethodsaremodifications of
+microscopists, when I was just fifteen. Since then, I tried to
+techniques which initially did not work well in our
+improve the methods almost continuously, the most recent
+laboratory,eitherbecausetheywereincompletelydescribed
+success being a simple technique for deciliation so that the
+or too complicated. This paper provides detailed step-by-
+oftencomplexcorticalandciliarystructurescanbeobserved
+stepprotocolsforthemethodsusedinourlaboratory.For
+withoutstandingclarity(Fig.6).
+other techniques the reader is referred to the literature
+cited and to the methodological guides by Kirby (1950), In addition, photographic documentation has profited
+Leeetal.(1985)andDragesco&Dragesco-Kerne´is(1986). greatly from the digital revolution. The images can be
+nicelyimprovedandtheproblemoflowfocaldepthcanbe
+The basis of most methods and the hunger for beautiful
+overcome by stacking (Fig. 3).
+protistpreparations,Ilearnedfromtheliteraturecited,from
+laboratorymanualsforthemicroscopicanatomyofplantand
+animaltissues(e.g.Adam&Czihak,1964;Romeis,1968),and Structures revealed by the methods described
+in the laboratories of Dr N. Wilbert (Bonn University, and interpretation of silver stains
+Germany;protargol-andwetsilvernitrateimpregnation)and
+There is no single method which can reveal all details
+Professor Dr I. Dragesco (Clermont-Ferrand University,
+necessary for a good description of a ciliate. Likewise, no
+France; protargol impregnation). Most improvements were
+stainingmethodisequallyappropriatetoallkindsofciliates.
+Gooddescriptionsusuallydemand,asisevidentfromTables
+Abbreviation:SEM,scanningelectronmicroscopy. 1and2,atleastliveobservation,silvernitrateandprotargol
+Downloaded from www.sgmjournals.org by
+057893G2014IUMS PrintedinGreatBritain 271
+IP: 83.215.4.72
+On: Wed, 08 Jul 2015 14:50:20
+
+W.Foissner
+ni)evisurtxe-nonnetfodna(tnatropmidnatnenimorptsomerayehT.serutcurtsevisurtxe-nondna)semosurtxeekil-tsycocumrostycocumyllaicepse(evisurtxesuoiravedulcni’selunarglacitroC‘* repapsihtni)h,a(2.giF;snobbirralubutorcimyrailictsopdnaesrevsnart,serbiflamsedotenik.g.e(seidoblasabehthtiwdetaicossaesoht:dehsiugnitsidebnacserbiflacitrocfosepytniamowTD .)1991,renssioFni11erugif;sdiyrhpolohdnasenilucineplarevesniecittalyrailicarfnieht.g.e(yradnuobcimsalpotyc-lacitrocehtnidetacolesohtdna)1991,renssioFni72dna52,6,5serugifdna
+MES ++ –/+ –/+ ++
+– – + – – + – – – –
+logratorP
+–/++ –/++
+++ –/+ –/+ –/+ –/+ ++ –/+
++ – – – –
+etanobracrevliS
+–/++ –/++ –/++
+++ –/+ –/+ ++ ++
+– – – – – –
+revlisteW
+etartin –/++
+++ ++ –/+ –/+
+– – – – + – – – –
+revlisyrD
+etartin
+–/+ –/+ –/+ –/+ ++
+– – – – + – – – –
+yb
+gro.slanruojmgs.www
+ninoryp-neerg
+.devreserpylrooprodelaeverton,–;seicepsnosdneped.e.isemitemos,–/++&–/+,tnellecxe,++;dooG,+ 02:05:41
+lyhteM –/++ –/++ –/++
+++
+– – – – – – – – – –
+27.4.512.38
+)1991( 5102
+noitavresboeviL luJ
+renssioFmorf morf 80
+–/++ :PI
+++ ++ –/+ ++ ++ –/+ –/+ –/+ ++ ,deW
++ + – –
+dedaolnwoD
+:nO
+detpada
+,12,61,31,01,2serugifdnarepapsihtnid–a6dna5,cdnaa4,j2sgiF(epahS dna12,5serugifdnarepapsihtnie,a3dnaa2sgiF(egypotyc,eropyrotercxE )1991,renssioFni63–82dna52–12,81,61,51,21,01,6–1serugifdnarepap ,02,91,51,7serugifdnarepapsihtnie–b3dnag,f,c2sgiF(nrettapenilrevliS dnab,a2sgiF;serbifdnasdorlaegnyrahp,semenoym.g.e(serbifcimsalpotyC 43dna9serugifdnarepapsihtni6dna5,e,a4sgiF(noitatnemanroecafruS
+sihtni6dna4,3,j,h–f,d,b,a2sgiF;ailicdnaseidoblasab(erutailicarfnI ni72dna21–11,6–5serugifdnarepapsihtnih,b,a2sgiF(serbiflacitroC
+ni23–13dna21,5serugifdnarepapsihtnia2.giF(sutarapparaelcuN ni71dna41,8serugifdnarepapsihtnig6dnae3,i2sgiF(stsycocuM
+elbaT
+.debircsed
+)1991,renssioFni52dna21,6serugifdnarepapsihtnif
+.)1991,renssioFni83erugifees(setailichcirtopyhlareves
+)1991,renssioFni73erugif(stsycixot,stsycohcirT
+sdohtemeht
+*)1991,renssioFni83erugif(selunarglacitroC
+)1991,renssioFni43dna23–82,42 )1991,renssioFni63–53dna62,32
+yb
+delaever
+)1991,renssioFni22
+serutcurtS.1elbaT delaeverserutcurtS eloucavelitcartnoC )1991,renssioFni
+D)1991,renssioF
+)1991,renssioF )1991,renssioF eaglacitoibmyS
+ruoloC
+272 InternationalJournalofSystematicandEvolutionaryMicrobiology64
+
+Observationandpreparationofciliates
+Table 2. Methods for studying the infraciliature and the silverline pattern of certain groups of ciliates (systematics after Corliss,
+1979). Table adaptedfromFoissner (1991)
++,Recommended;++,highlyrecommended;+/–,sometimesuseful,dependsonspecies;–,notrecommended.
+Taxa Drysilver Wetsilver Silver Protargol
+nitrate nitrate carbonate
+Karyorelictida(e.g.Trachelocerca,Loxodes;usuallydifficulttoimpregnate) – +/– + +
+Archistomatina(e.g.Alloiozona,Didesmis) ? + + +
+Prostomatina(e.g.Holophrya,Metacystis,Urotricha,Coleps;Fig.3(d)inthispaper + ++ ++ +
+andfigure11inFoissner1991)
+Haptorida(e.g.Enchelys,Spathidium,Didinium,Dileptus;figures2,3and9in +/– + + ++
+Foissner1991)
+Pleurostomatida(e.g.Amphileptus,Loxophyllum) +/– – + ++
+Trichostomata(e.g.Plagiopyla,Spirozona,Balantidium,Paraisotricha;special + + + +
+methodavailable(Wolska,1966)
+Entodiniomorphida(e.g.Ophryoscolex,Cycloposthium) ? + + +
+Colpodeans(e.g.Colpoda,Woodruffia,Bursaria,Bryometopus;Fig.3(b,c)inthis + ++ ++ +
+paperandfigures13–18inFoissner,1991)
+Synhymeniidae(e.g.Nassulopsis,Chilodontopsis) + ++/– ++ +/–
+Nassulina(e.g.Nassula,Furgasonia;Fig.2(a-c)inthispaperandfigures5–8in +/– + ++ –
+Foissner,1991)
+Microthoracina(e.g.Microthorax,Leptopharynx) ++ + +/– ++
+Cyrtophorida(e.g.Chilodonella,Trochilia) ++ + + ++
+Chonotrichida(e.g.Spirochona;fewdataavailable) – + ? ++
+Rhynchodida(e.g.Ancistrocoma,Sphenophrya) ++ + ? +
+Apostomatida(e.g.Hyalophysa,Ascophrys) ? + ? +
+Suctoria(adults;figure37inFoissner,1991) + – – +
+Suctoria(swarmers) + + ++ ++
+Tetrahymenina(e.g.Tetrahymena,Colpidium,Glaucoma;Fig.2(d–e)inthispaper ++ ++ ++ ++
+andfigures21–23inFoissner,1991)
+Ophryoglenina(e.g.Ophryoglena,Ichthyophthirius;figure24inFoissner,1991) + + ++/– +
+Peniculina(e.g.Paramecium,Urocentrum,Lembadion;Figs2(g,h)and3(a)inthis ++ ++ ++ +/–
+paperandfigures10and26–28inFoissner,1991)
+Scuticociliatida(e.g.Uronema,Loxocephalus,Biggaria,Pleuronema,Figs2(j)and + ++ + ++
+3(e)inthispaperandfigures25and29inFoissner,1991)
+Astomatida(e.g.Anoplophrya,Hoplitophrya) ++ +/– + +
+Peritrichida(e.g.Vorticella,Opercularia,Trichodina;figures19and20inFoissner, ++ +/– + ++
+1991)
+Heterotrichida(e.g.Blepharisma,Metopus,Stentor,Folliculina) – + ++ ++
+Odontostomatidae.g.Epalxella,Saprodinium) + ? ? +
+Oligotrichida(e.g.Halteria,Strombidium,Tintinnidium) – +/– ++/– ++
+Hypotrichida(EuplotidaeandAspidiscidaeexcluded;figures30–33and38in – +/– +/– ++
+Foissner,1991)
+Hypotrichida(EuplotidaeandAspidiscidaeincluded;figures34–36inFoissner, ++ ++ +/– ++
+1991)
+or silver carbonate impregnation. The brilliancy of silver Several species (e.g. in the genera Pseudoprorodon and
+preparationshasunfortunatelytemptedsometaxonomiststo Cyrtolophosis) persistently withstand our methods, their
+neglect live observation. However, many important species infraciliature and/or silverline pattern impregnates poorly
+characteristics cannot be seen or are changed in silvered ornotatall.Furtherimprovementsofexistingmethodsor
+specimens such that descriptions based exclusively on silver newtechniquesshouldthereforebedeveloped.Stimulating
+slidesareincompleteandofdoubtfulvaluefora-taxonomists
+ideascanbefoundinthepapersofJ.Gelei(1934,1935),G.
+andecologists,especiallyasthelatterareusuallynottrainedto
+Gelei (1939) and Horva´th (1938).
+correlatethesilveredstructureswiththeliveappearanceofthe
+cell.Wheneveritispossible,importantand/orunusualdetails Themethodsdescribedhereworknotonlywithciliatesbut
+(e.g. species characters) should be documented not only by also with many heterotrophic and autotrophic flagellated
+accuratedrawingsbutalsobyphotographs. and amoeboid protists.
+Downloaded from www.sgmjournals.org by
+http://ijs.sgmjournals.org 273
+IP: 83.215.4.72
+On: Wed, 08 Jul 2015 14:50:20
+
+W.Foissner
+(a) (b) (e)
+(c) (d) (f)
+(g) (h)
+(i) (j) (k) (l)
+Fig.1.(a–d)Preparationofslidesforobservinglivingciliates(fromDragesco&Dragesco-Kerne´is1986).(e)Stainingjarfor8
+and16(backtoback)slides, respectively.(f) Watch-glassforthe protargolprocedure accordingtoWilbert(1975) andthe
+cleaningofciliatesforscanningelectronmicroscopy.(g–l)Makingmicropipettes(fromDragesco&Dragesco-Kerne´is,1986).
+Usually, silver impregnation is undertaken to reveal the because this is of basic importance for successful
+infraciliature (5ciliary pattern) and the silverline pattern taxonomic work.
+(5lines revealed by silver nitrate, connecting basal bodies
+Cilia and their basal bodies may be arranged singly
+and other cortical organelles such as extrusomes and the
+(monokinetids) or in pairs (dikinetids); the basal bodies
+cytopyge). Extrusomes, various structures associated with
+may be ciliated or non-ciliated (e.g. Foissner & Foissner,
+the basal bodies of the cilia (e.g. parasomal sacs,
+1988). All silver methods described here reveal at least the
+microtubular ribbons) and several cortical fibrillar net-
+basal bodies (cilia are usually not impregnated with silver
+works (e.g. the infraciliary lattice) are sometimes also
+nitrate methods), but not each black or brown granule is a
+impregnated. This may render interpretation of silver
+basal body of a cilium! Depending on the procedure used,
+stains difficult. It is beyond the scope of this paper to
+discuss this problem in detail; in fact, interpretation is otherstructureswhichhaveasimilarsizeasthebasalbodies
+differentforeachmethod(andevenforslightvariationsof are also impregnated (e.g. parasomal sacs, extrusomes).
+each method) and almost for each higher systematic Thus, the arrangement and the state of the basal bodies
+category. Thus, I must refer the reader to some key cannot be unequivocally ascertained with silver methods,
+andtransmissionelectronmicroscopyisnecessary[scanning
+references (Foissner, 1977, 1981; G. Gelei, 1939; J. Gelei,
+1934; Hiller, 1991; Hiller & Bardele, 1988; Klein, 1943; electron microscopy (SEM) is insufficient as it often does
+notrevealnon-ciliatedbasalbodies].Thefollowingprocedure
+Peck, 1974; Tellez et al., 1982; Zagon, 1970). However, the
+differentiationofmono-anddikinetidsmustbementioned provides a rather reliable differentiation of mono- and
+Downloaded from www.sgmjournals.org by
+274 InternationalJournalofSystematicandEvolutionaryMicrobiology64
+IP: 83.215.4.72
+On: Wed, 08 Jul 2015 14:50:20
+
+Observationandpreparationofciliates
+dikinetids and of ciliated and non-ciliated basal bodies.(i) methods described below is an absolute prerequisite for studying
+Study cells carefully in vivo, preferably with interference ciliates.Thesearethusdescribedingreatdetailinordertogiveeven
+contrast. With some experience it is easy to see whether beginnersafairchancetoobtainusableslides.
+or not cilia are paired. (ii) Over-stain cells with protargol Apartfromsilverimpregnation,variousotherstainingtechniquesare
+and/or silver carbonate. In over-impregnated cells cilia are usefulfortaxonomicworkwithciliates,especiallytheFeulgennuclear
+usually clearly recognizable. (iii) Non-ciliated basal bodies reaction andsupravital stainingwith methyl green-pyronin inorder
+and/or parasomal sacs are often slightly smaller than torevealthenuclearapparatusandthemucocysts,respectively.
+ciliated basal bodies. (iv) Study the electron microscopic
+Simple, viz., molecular formulae are given for the chemicals used,
+literature related to the species or group of species under since usually only these are found in the catalogues of the suppliers
+investigation and try to correlate the stained structures (e.g.Merck).Inalaboratorymanualitisthusconvincingtousethis
+with ultrastructural features. style too, instead of the more correct constitutional or structural
+formulae.
+Fiveplatesofselectedmicrographsshouldshowexamplesofexcellent
+METHODS preparations.Therearetwowaystodothis:eithertouseafewspecies
+andshowthemtreatedwithallmethodsdescribedortoselectmany
+Observinglivingciliates
+species to give the reader an impression of the diversity. I selected
+Many physical and chemical methods have been described for the second way as it is possibly more convincing for beginners.
+retarding the movement of ciliates in order to observe structural However, two species (Colpidium colpoda, Figs 2d, e, 6b, f and
+details (for literature, see Foissner, 1991). Chemical immobilization Parameciumcaudatum,Figs2g,h,3a)areshownpreparedwiththree
+(e.g. nickel sulfate) or physical slowing down by increasing the methodsandseveralotherswithtwodifferentmethods.
+viscosityofthemedium(e.g.methylcellulose)are,inourexperience,
+usually unsuitable. These procedures often change the shape of the I. Feulgen nuclear reaction. Descriptions of this method can be
+cell or cause premortal alterations of various cell structures. The foundinLeeetal.(1985)andDragesco&Dragesco-Kerne´is(1986).
+followingsimplemethodisthereforepreferable:placeapproximately TheFeulgenreactionrevealsthenuclearapparatusveryselectively.I
+0.5mloftherawsampleonaslideandpickout/collect thedesired useitonlyoccasionallyfora-taxonomicpurposesbecausethenuclear
+specimens with a micropipette (Fig. 1, g–l) under a compound apparatus usually stains well with protargol. However, as protargol
+microscope equipped with a low magnification (e.g. objective 4:1, oftenstainsvarioussmallcytoplasmicinclusionstoo,somecautionis
+eyepiece106).Ifspecimensare largeenough, theycanbecollected necessary,especiallywithmultimicronucleatespecies.Ifindoubt,use
+from a Petri dish under a dissecting microscope. Working with theFeulgenreactionoranothernuclearstainingmethod,suchasthat
+micropipettes,thediameterofwhichmustbeadjustedtothesizeof describedbyLarsen(1975).
+the specimens, requires some training. The collected specimens are
+nowinaverysmalldropoffluid.Applysmalldabsofpetroleumjelly II. Supravital staining with methyl green-pyronin. This simple
+toeachofthefourcornersofacoverslipordirectlyontheslide;itis methodisanexcellenttechniqueforrevealingthemucocystsofmany
+useful to apply the jelly by an ordinary syringe with a thick needle. ciliates(however,thoseoftetrahymenidsandrathermanyhaptorids
+Placethecoversliponthedropletcontainingtheciliates.Pressonthe usually do not stain). Mucocysts are stained deeply and very
+petroleum jelly corners with a mounted needle until the ciliates selectively blue or red, and can be observed in various stages of
+become slightly squeezed between the slide and the coverslip (Fig. swelling because the cells are not killed instantly. The nuclear
+1,a–d).Asthepressureisincreased,theciliatesgraduallybecomeless apparatusisalsostained.ForexamplesseeFig.2(i)inthispaperand
+mobile and more transparent. Hence, first the location of the main figures8,17and38inFoissner(1991).
+cell organelles (e.g. nuclear and oral apparatus, contractile vacuole)
+and then the details (e.g. extrusomes, micronucleus) can easily be Procedure(afterFoissner,1979)
+observed under low (6100–400) and high (61000, oil immersion 1. Pickoutthe desiredciliates withamicropipette andplace
+objective)magnifications.
+theverysmalldropoffluidinthecentreofaslide.
+Theshapeofthecellsisofcoursealteredbythisprocedure.Therefore, 2. Addanequallysizeddropofmethylgreen-pyroninandmix
+specimens taken directly from the sample with a large-bore pipette thetwodropsgentlybyswivellingtheslideorwithaneedle.
+(opening~1mm)mustfirstbeinvestigatedunderlowmagnification Remarks: If ciliates were already mounted under the
+(6100–400). Some species are too fragile to withstand handling coverslip, add a small drop of dye at one edge of the
+with the micropipette and coverslip trapping without deterioration. coverslipandpassitthroughthepreparationwithapiece
+Investigationwithlowmagnificationalsorequiressomeexperiencebut offilterpaperplacedattheoppositeendofthecoverslip.
+itguaranteesthatundamagedcellsarerecorded.Video-microscopyis 3. Place a coverslip with petroleum jelly corners on the
+veryusefulatthispointofinvestigation,especiallyforregisteringbody preparationandsqueezespecimensslightly.
+shapeandswimmingbehaviour.
+Remarks: Observe immediately. Cells die in the stain
+A compound microscope equipped with differential interference withinsecondsorminutes.Mucocystsstainveryquickly
+contrastisbestforobservinglivingciliates.Ifnotavailable,usebright- andmanycanbeobservedatvariousstagesofswelling.
+fieldorphase-contrast;thelatterisonlyusefulforveryflatspecies. To reveal the nuclear apparatus, cells should be fairly
+strongly squashed (5flattened). The preparation is
+StainingProcedures
+temporary.After5–10minthecytoplasmoftenbecomes
+Although there are numerous methods for staining ciliates, most of heavilystainedandobscuresotherdetails.
+the older procedures (e.g. haematoxylin; see Kirby, 1950 for an
+Reagents
+excellent compilation of protocols) have been outdated by silver
+impregnation techniques and electron microscopy. Various silver 1gmethylgreen-pyronin(CHROMA,Germany)
+stains are available, but all need some experience and are usually distilledwaterto100mlandfilter
+individually modified. However, familiarity with the four silver Remarks:Thissolutionisverystableandcanbeusedforyears
+Downloaded from www.sgmjournals.org by
+http://ijs.sgmjournals.org 275
+IP: 83.215.4.72
+On: Wed, 08 Jul 2015 14:50:20
+
+W.Foissner
+(a) (b) (d)
+(c)
+(e)
+(f)
+(g) (h) (i) (j)
+Fig.2.Silver-impregnatedciliates(fromFoissner,1991).(a-c)Furgasoniablochmanni,infraciliature(a,b)andsilverlinepattern
+(c) of ventral side after silver carbonate (a, b) and wet silver nitrate impregnation (c), respectively. The oral basket (BA), the
+paroral membrane (pM), the adoral membranelles (aO), the macronucleus (Ma), the cytopyge (large arrow), and the
+kinetodesmalfibres(smallarrows)arerevealedwithhighclarity.(d,e)Colpidiumcolpoda,ciliaryandsilverlinepatternofventral
+sideafterprotargol(d,Wilbert’smethod)anddrysilvernitrate(e)impregnation.Arrowmarksashortenedciliaryrowanteriorof
+the cytopyge. (f, j) Pleuronema coronatum, ventral views after protargol (f, Wilbert’s method) and wet silver nitrate (j)
+impregnation. (f) shows the proximal portion of the oral apparatus where even single basal bodies within the adoral
+membranelles (AM) and the paroral membrane (pM) are recognizable; R, oral ribs. (g, h) Paramecium caudatum, silverline
+pattern after dry silver nitrate impregnation (g) and kinetodesmal fibres (arrows) after silver carbonate impregnation (h). (i)
+Obertrumiagracilis,adistinctmucocystenvelopebecomesrecognizableafteradditionofmethylgreen-pyronin.
+Downloaded from www.sgmjournals.org by
+276 InternationalJournalofSystematicandEvolutionaryMicrobiology64
+IP: 83.215.4.72
+On: Wed, 08 Jul 2015 14:50:20
+
+Observationandpreparationofciliates
+(a) (b) (c)
+(d) (e)
+Fig. 3. Various ciliates impregnated with the ‘new’ wet silver nitrate method. (a) Paramecium caudatum, ventral view. Arrow
+markscytopygesilverline.(b,c)Platyophryideslatus,infraciliatureandsilverlinepattern;pM,paroralmembrane.(d)Pelagothrix
+sp.(anteriorendisleft),showingtheciliarypattern,theadoralorganelles(aO)andthesilverlinepattern(SP).(e)Protocyclidium
+terricola, ventral view, showing the huge oral apparatus, the excretory pore of the contractile vacuole (arrow) and docked
+extrusomes(arrowheads).
+III. The ‘dry’ silver nitrate methods. Because of the numerous well-documented since the cells are flattened during dehydration.
+problems with the basic dry Klein (1926, 1958) technique, Foissner Only cortical structures are revealed. For examples see Fig. 2(g) in
+(1976)andothers(e.g.J.Gelei,1934;Ruzicka,1966)introducedsome thispaperandfigures15,19,20,23,26,35and36inFoissner(1991).
+improvements.Thedrymethods(‘dry’becausecellsareair-driedand
+Procedure(afterFoissner,1976andrecentexperience)
+notchemicallyfixedbeforebeingtreatedwithsilvernitrate)provide
+preliminary information on the somatic and oral infraciliature 1. Take 5–10 clean slides and spread a very thin layer of
+(5ciliary pattern) and are often best for revealing the silverline albuminoverthemiddlethirdofeachwithafingertip.Dry
+pattern(5linesrevealedbysilvernitrateandconnectingbasalbodies foratleast1min.
+and other cortical organelles such as extrusomes and the cytopyge). Remarks: The egg-albumin (remove germinal disc! do
+Although the results vary highly, the method is worthwhile because notadd glycerol) must havebeen keptopen inawide-
+it is quick and often produces excellent preparations, which can be neckedflaskforatleast20h;freshalbuminisoftenless
+Downloaded from www.sgmjournals.org by
+http://ijs.sgmjournals.org 277
+IP: 83.215.4.72
+On: Wed, 08 Jul 2015 14:50:20
+
+W.Foissner
+(a) (b)
+(c) (d) (e)
+Fig.4.Variousciliatesinthescanningelectronmicroscope(a,fromFoissneretal.,2011;b,fromFoissner&Al-Rasheid,2006;
+c-d,fromFoissner,1991).(a)Leptopharynxcostatus,ciliarypatternofrightandventralside.Thedistalendoftheoralbasket
+(BA)andtheciliarybundleoftheadoralorganelles(aO)arerecognizable.(b)Cyrtohymenacandens,oralapparatus,showing
+thehugeparoralmembrane(pM),theadoralmembranelles(AM)andthebuccalseal(asterisk)whichisamembranethatcloses
+the deep buccal cavity. (c) Spathidium spathula, left side view showing the minute cilia associated with row 3 of the dorsal
+brush(arrow).(d,e)Rimaleptusmucronatus(d)andLitonotuslamella(e),leftsideviewsofdistalbodyportion.Thespecialized
+ciliaofthebrush(arrows),theperioralkinety(pK)andotherdetailscanberevealedwithsuchclarityonlybyscanningelectron
+microscopy.Theimagesarefromenvironmentalmaterialcleanedwiththemethoddescribed.
+Downloaded from www.sgmjournals.org by
+278 InternationalJournalofSystematicandEvolutionaryMicrobiology64
+IP: 83.215.4.72
+On: Wed, 08 Jul 2015 14:50:20
+
+Observationandpreparationofciliates
+(a) (b)
+Fig.5.Sleighophryspustulata(a,b)andLuporinophrysmicelae(b)inthescanningelectronmicroscope(fromFoissner,2005).
+Thesespecieshavehighlyfragileepicorticalscales(lepidosomes)wellpreservedbythemethoddescribed.Sleighophryshas
+hat-shapedlepidosomeswhilethoseofLuporinophrysareupto10mmhighcones;andbothhaveellipsoidal,widelymeshed
+baseplates.
+satisfactory. It can be used for 2–3days if the flask is Remarks: Even single specimens can be placed on the
+subsequentlysealed;however,donotstirbeforeuse,but albumizedslidewithamicropipette.Ifnecessaryenrich
+skim the albumin from the surface with a fingertip. To ciliatesbygentlecentrifugationorbyleavingthesample
+facilitatespreading,breatheontheslidesothatafilmof to settle for a few hours, after which time oxygen
+condensation is produced on which the albumin can depletion induces many ciliates to move to the water
+glide.Thealbuminlayermustbeverythinanduniform surface. The amount and chemical composition of the
+butshouldnotcoverthecells. fluid with which the ciliates are air-dried, as well as
+2. Placeadropoffluidcontainingtheciliatesonthealbumized temperature and air humidity, greatly influence the
+slide, spread with a needle (do not touch albumin layer!), results.Therefore,5–10slidesshouldusuallybeprepared
+anddrythepreparationatroomtemperature. simultaneouslytovarytheseparameters,e.g.bywashing
+Downloaded from www.sgmjournals.org by
+http://ijs.sgmjournals.org 279
+IP: 83.215.4.72
+On: Wed, 08 Jul 2015 14:50:20
+
+W.Foissner
+(a) (b) (c)
+(d)
+(f)
+(e) (g)
+Fig.6.Ciliatesdeciliatedwithliquidsoap(Teepol).(a,g)Sathrophilussp.hasacomplexcortexandoralapparatusbothclearly
+recognizableindeciliatedspecimens.aO,adoralorganelles;CY,cytopyge;pM,paroralmembrane.(b,f)(seealsoFig.2,d–e)
+Colpidiumcolpoda,ventralandanteriorpolarview,showingthearrangementoftheciliaryrows,especiallythecomplexpole
+pattern;theoralapparatus(OA);andthecytopyge(CY)whichjustreleasesfaecalmass.(c,d)Colpodamaupasi,ventraland
+dorsolateralview,showingtheoralapparatus(OA)anddistinctridgesbetweentheciliaryrows.(g)Glaucomidesbromelicola
+(from Foissner, 2013), showing two ciliary rows, their basal bodies (B) and minute openings in the cortex (arrows) where
+extrusomeswillbereleased.
+Downloaded from www.sgmjournals.org by
+280 InternationalJournalofSystematicandEvolutionaryMicrobiology64
+IP: 83.215.4.72
+On: Wed, 08 Jul 2015 14:50:20
+
+Observationandpreparationofciliates
+cells with different amounts of distilled water or fresh 100ganhydroussodiumsulfite(Na SO )
+2 3
+culture medium. Washing cells with distilled water or 2.5gmetol5methylamino-phenol-sulfate5(CHNHCHOH) .
+3 6 4 2
+spreading the drop to a very thin film is especially HSO
+2 4
+recommended with saline fluids, e.g. seawater, sewage Solution B (this is a concentrated photographic paper
+andsoil.Temperatureandhumidityarevariedusingan developer;dissolveingredientsinthesequenceindicated;stable
+ordinaryhairdryer. forabout6monthswhenstoredinfullyfilledcups)
+3. Applysomedropsofsilvernitratetothedriedmaterialfor 100mldistilledwater
+about1min. 0.4gmetol5methylamino-phenol-sulfate5(CHNHCHOH) .
+3 6 4 2
+Remarks: Do not touch albumin layer with the pipette. HSO
+2 4
+Thereactiontimedoesnotinfluencetheresults;aminute 5.2ganhydroussodiumsulfite(Na SO )
+2 3
+isadequatetoimpregnateandfixthecellsontheslide. 1.2ghydroquinone(C H O )
+6 6 2
+4. Washtheslideforabout3swithdistilledwaterandredry. 10.4gsodiumcarbonate(Na CO )
+2 3
+Remarks:Washgently!Applywatercurrentfromthetop 10.4gpotassiumcarbonate(K CO )
+2 3
+thirdofthetiltedslidesothatwaterrunsgentlyoverthe 0.4gpotassiumbromide(KBr)
+driedmaterial.Leaveslidetiltedduringdrying. SolutionC(stableforseveralyears)
+5. Pre-develop the dried slide by exposing it for 5–60s to a 10gsodiumhydroxide(NaOH)
+40–60Welectricbulbatadistanceof3–10cm.
+distilledwaterto100ml
+Remarks: Time and distance influence intensity of
+impregnation(seealsonextstep). c) Fixativeforimpregnation(stableforyears)
+6. Applyafewdropsofdevelopertothedriedpreparationfor
+50gsodiumthiosulfate(Na S O .5H O)
+about60s. 2 2 3 2
+distilledwater1000ml
+Remarks: The pre-development (step 5), the composi-
+tion of the developer, and the material itself influence
+IV.The‘wet’silvernitratemethods.Thefirstwet(‘wet’becausecells
+impregnation intensity and quality. The best ratio of
+arechemicallyfixedbeforebeingtreatedwithsilvernitrate)method
+theseparametersmustbeevaluatedinpilotexperiments.
+was described by Chatton & Lwoff (1930, 1936). The technique
+Ifthedeveloperiswell-adjusted,thealbuminaroundthe
+becamewell-knownafterCorliss(1953)publishedtheversioninuse
+dried fluid turns brown-black; if the developer is too
+in the Paris laboratory of Faure´-Fremiet. It works well with many
+strong,thealbuminappearsblack(addsomecomponent
+kinds oflimnetic and marine ciliates, especially withhymenostomes
+A [see Reagents] and/or reduce pre-developing time); if
+(e.g. Tetrahymena, Paramecium, Cyclidium), holophryids (e.g. Holo-
+thedeveloperistooweak,thealbuminappearsbrownish
+phrya), most colpodids (e.g. Colpoda, Bresslauides) and some hypo-
+oryellowish(addsomecomponentsBand/orCand/or
+trichs(e.g.Euplotes).Lessconvincingresultsareusuallyobtainedwith
+increasepre-developmenttime).
+peritrichs (e.g. Vorticella), heterotrichs (e.g. Spirostomum, Metopus),
+7. Pour developer off slide, rinse gently in tap water for 5–
+oligotrichs (e.g. Halteria) and most hypotrichs (e.g. Oxytricha,
+10s,andimmerseitinthefixative(sodiumthiosulfate)for
+Urostyla). The wet methods provide valuable information on the
+5min.
+somatic and oral infraciliature as well as the silverlines, which are,
+8. Removeslidefromfixativeandrinsegentlyintapwaterfor
+however,oftenratherfaintlystained.Theshapeofthecellsisusually
+10minchangingthewaterthreetimes.
+well-preserved,whichisofadvantagetotheinvestigationbutmakes
+Remarks: The fixative must be thoroughly removed to
+photographic documentation difficult. As with the dry methods,
+avoidbleachingoftheimpregnation.Preparationsusually
+onlycorticalstructuresarerevealed.ForexamplesseeFigs2(j)and3
+fadewithinafewweekswhenthesilvernitrateisreduced
+in this paper and figures 7, 10, 16, 28 and 29 in Foissner (1991).
+onlybysunlightoranUV-lamp.Donotusedistilledwater,
+Modifications have been described by for example Chatton (1940),
+otherwisecellsswellandeventuallydetachfromtheslide!
+Frankel & Heckmann (1968), Lynn et al. (1981) and Roberts &
+9. Air-dry the slide again and mount in synthetic neutral
+Causton(1988),whoinvestigatedsomevariablesindetail.
+medium(e.g.Eukitt,Euparal).
+The method described in 1991 and likely all modifications have
+Remarks: Slides should be tilted during drying.
+several problems: (i) the gelatin, in which the specimens are
+Mountingmediumshouldbeofmediumviscosity.The
+embedded, is too weak, i.e. does not become sufficiently solid, and
+preparationisstable,providinggoodfixationandcareful
+the preparations are lost or full of clouds; (ii) the gelatin becomes
+eliminationofthefixative.
+cloudy and/or gets sharp fissures above the individual cells, even if
+Reagents
+‘good’gelatinisused;(iii)theimpregnationistoofaint,especiallyon
+a) Silvernitratesolution(long-termstabilityinbrownflask) the‘backside’,thatisthesideorientedtothemicroscopeslide;and
+(iv)theimpregnationbleachesmoreorlessstronglywithinafewdays
+1gsilvernitrate(AgN0 )
+3
+ormonths.
+distilledwaterto100ml
+b) Developer (stable for about 1–3days; must be renewed as Problem (i) can be solved by using ‘Gelatin, from Bovine Bone’
+soon as it turns dark brown or shows crystals; mix (Wako, Japan). Problem (ii) occurs when the preparation becomes
+componentsinthesequenceindicated) too warm,i.e. whenthegelatin commences melting. Thus,keep the
+20mlsolutionA preparation ,10uC throughout the procedure. Problem (iii) is
+1mlsolutionB partially caused by the inability ofUV-light topenetrate sufficiently
+1mlsolutionC the gelatin and the cells. Thus, silver reduction must be done from
+SolutionA(thisisanordinarydeveloperfornegatives;dissolve above and below (see step 12) and chemical development should
+ingredientsinthesequenceindicated;stableforayearinbrown followUV-reduction.Thefourthproblem,Isolvedonlyrecently(see
+bottle) steps13–15).Itmakestheprotocolrathercomplexbutisworthdoing
+1000mlhottapwater(about40uC) becausestablepreparationscanbeobtained.Severalslidesshouldbe
+10gboricacid(H 3B0 3) prepared simultaneously from the same material. If only a few
+10gborax(Na B 0–) specimens are available, these must be handled with micropipettes
+2 4
+5ghydroquinone(C H O ) duringsteps1–7(difficulttask!);foramplematerialacentrifugemay
+6 6 2
+Downloaded from www.sgmjournals.org by
+http://ijs.sgmjournals.org 281
+IP: 83.215.4.72
+On: Wed, 08 Jul 2015 14:50:20
+
+W.Foissner
+beused.Untildehydration(step19),keepallsolutionscold(,10uC) 9. Flushslideincolddistilledwaterfor3–10s.
+aswarmingcausescloudsorevendetachesthegelatinfromtheslide. Remarks:Thisstepisessentialanddeterminesthequality
+TheDaFano solution isofparamountsignificance because it deter- and intensity of the impregnation. If the preparation is
+minesthestrengthoftheimpregnation.Iftoomuchisused,precipita- washed for too long, the impregnation may become too
+tionsmaydevelop;iftoolittleisused,theimpregnationmaybecome faint;ifitisinsufficientlywashed,coarsesilverprecipitations
+too faint. The method is not simple and requires experience. Since maycoverthegelatin.Itisrecommendedthatatleastfour
+somestepsmustbedonequickly,itisnecessarytobewell-organized. slides,washedfor3,5,7and10s,respectively,areprepared.
+10. Immediatelytransferslidetocoldsilvernitratesolutionfor
+Procedure
+30–60min.
+1. Ifpossible,concentrateciliatesbygentlecentrifugation(the Remarks: Keep silver nitrate solution cold, as warming
+fixative is expensive) or collect individual specimens and melts and detaches the gelatin from the slides. 30min
+dropthemintothefixative. impregnation suffices for large ciliates (e.g. Parame-
+2. PutciliatesintoChampy’sfluidandfixfor1–30min. cium). Immersion of more than 60min intensifies
+Remarks: The ratio of material to fixative should be at impregnation only slightly and may cause darkening
+least1:1,better1:2.Thefixationtimeapparentlydoes of cytoplasmic inclusions. The gelatin layer becomes
+notinfluencetheresultsgreatly.Weusuallyfixforabout slightly milky in the silver nitrate solution. A distinct
+10min. Fixation shouldbecarried outinafumehood milkycoat indicates that too much DaFano’sfluidhas
+sinceosmicvapoursarehighlytoxic. beenusedand/orremained(step7).
+11. Flushslideswithcolddistilledwaterfor1min.
+3. Remove fixative by centrifugation or micropipette and
+12. Immediately submerge slides into ~2cm depth cold
+post-fixinDaFano’sfluidforatleast5min.Continuethis
+distilledwater.Irradiateslidesfor30mineachfromabove
+replacement until the solution is the colour of Da Fano’s
+and below to obtain fully impregnated cells, using UV
+fluid(2–3timesareusuallyenough).
+sources (,254nm) placed 5–15cm above and below the
+Remarks: Material can be stored in Da Fano’s fluid for
+slidesuntilthegelatinturnsgoldenbrown.
+years.
+Remarks:Tiltdishgentlybackandforthandchangewater
+4. Place a very clean, grease-free slide on a hotplate (35–
+after2–3minofirradiationtoavoidsilverprecipitations.
+60uC).
+Takecarethatwaterremainscold(,10uC).
+Remarks: The slides must be grease-free (clean with
+13. AfterUV-irradiation,placeslidesincoldordinaryprotargol
+alcoholandflame);evencommerciallypre-cleanedslides
+developerdiluted1:1withdistilledwaterfor15min.
+shouldbecleanedwithanalcohol-moistcloth.
+14. Washslidesincolddistilledwaterfor3min.
+5. Placeasmallpiece(about2–4mmdiameter)ofgelatinin
+15. Immerse slides for 5min in the cold silver fixer (sodium
+thecentreofthewarmedslideandallowtomelt.
+thiosulfate)usedforprotargolimpregnation.
+Remarks: Gelatin should have been stored in the
+16. Washslidesfivetimesincolddistilledwaterforabout10h;
+refrigerator for at least one week before use. Fresh
+keepthepreparationcoolintherefrigerator.
+gelatinmaycausecloudysilverdeposits.
+Remarks: Washing out all chemicals is of paramount
+6. Quicklyaddanequal-sizedorsmallerdropofconcentrated
+significanceforstabilizingthepreparation.
+specimens to the molten gelatin and remove slide from
+17. Transfer slides to chilled 30% and then 70% alcohol
+hotplate.
+(ethanol)for10mineach.
+Remarks: Use the least amount of Da Fano’s fluid as
+18. Completedehydrationbytwotransfersatleast10minlong
+possible. Mix organisms thoroughly into the gelatin
+through100%alcohol(ethanol)atroomtemperature.
+usingamountedneedle.
+Remarks: As the gelatin hardens, the alcohol does not
+7. Quicklyspreadthedropontheslideorremoveexcessfluid
+needtobechilled.Dehydratethoroughlytoavoidmilky
+underthedissectingmicroscopewithawarmedmicropip-
+‘waterspots’inthemountedslides.
+ette until ciliates remain just nicely embedded in a thin
+19. Clearbytwotransfersofatleast10minthroughxylene.
+gelatinlayer.
+Remarks: A prolonged stay in xylene (e.g. 2days)
+Remarks:Steps 6and7mustbe done quicklytoavoid
+sometimesproducesextremelyclearpreparations.
+hardening and/or desiccation of the gelatin; if gelatin
+20. Mountinsyntheticneutralmedium.
+solidifies during the procedure return the slide to the
+Remarks:Donotdryslidesbetweensteps19and20!The
+hotplate for a few seconds. Excess fluid can be re-
+mountingmediumshouldberatherviscoustoavoidair-
+moved only if ciliates are large or very numerous. For
+bubblesbeingformedwhenthesolventevaporatesduring
+small (,100mm) species, and in general, it is more
+drying. If air-bubbles develop in the mounted and
+convenient to spread the drop over the slide until the
+hardenedslide,reimmerseinxyleneforsomedaysuntil
+gelatin layer has the appropriate thickness. If the drop
+the coverslip drops off. Remount using a more viscous
+does not spread well, the slide is not grease-free. The
+medium and remove materials protruding from the
+gelatinlayermustbethintoallowthesilvernitrateand
+gelatin.Usually,someairbubblesarefoundimmediately
+UV-light to pass through. Material should be very
+after mounting; these can be pushed to the edge of the
+concentrated; if too much Da Fano’s fluid has been
+coverslipwithafingerormountedneedle.Theprepara-
+used or remains, precipitations develop or the gelatin
+tionisstable.However,thedropmarginmaybleachmore
+detaches.
+orless.Theinfraciliatureshouldstandoutdarkbrownor
+8. Immediatelytransfertheslidetoacold,moistchamber(e.g.
+black against the light brown gelatin and the unstained
+a covered Petri dish with damp filter paper covering the
+cytoplasm.Silverdepositsonthegelatinsurfaceindicate
+bottom).Leaveforabout5minintherefrigeratororonice
+thattoomuchDaFano’sfluidremained(steps7–9).
+untilthegelatinhashardened.
+Reagents
+Remarks:Thegelatinmustbehardened(checkwithtip
+of a mounted needle under dissecting microscope if in a) Champy’s fixative (prepare shortly before use; 9ml of the
+doubt)butmustnotdesiccateand/orfreeze.Desiccated fluidwillusuallysufficeforoneortwofixations;usefume
+orfrozenslidesareofpoorquality. hood)
+Downloaded from www.sgmjournals.org by
+282 InternationalJournalofSystematicandEvolutionaryMicrobiology64
+IP: 83.215.4.72
+On: Wed, 08 Jul 2015 14:50:20
+
+Observationandpreparationofciliates
+7parts(3.5ml)1%aqueouschromicacid(CrO ) Remarks:Slideneednotbegrease-free.Themiddle-third
+3
+7 parts (3.5ml) 3% aqueous potassium dichromate should be delimited by lines drawn with a greasy
+(K Cr O ) fingertip or a wax crayon to prevent solutions from
+2 2 7
+4parts(2.0ml)2%aqueousosmiumtetroxide(OsO ) spreadingoverthewholeslide.
+4
+2. Add1–2dropsofformalin(about4%)andfixfor1–3min.
+b) DaFano’sfluid(stableforyears;largeamountscanthusbe
+Mixorganismswithformalinbyswivellingtheslide.
+prepared)
+Remarks:Thedurationofthisstepmaygreatlyinfluence
+900ml distilled water (or seawater, without additional
+the results. Species with a firm cortex (or resting cysts)
+NaCl,formarineciliates)
+usually need to be fixed longer (¢3min) than those
+10gcobaltnitrate(Co(NO ) .6H O)
+3 2 2 with a more fragile cortex (¡1min). Some species
+100ml formalin (HCHO; commercial concentration,
+cannot be fixed well with formalin and cells may even
+about37%)
+burst.Forthesespecies,fixationwithosmiumtetroxide
+10gsodiumchloride(NaCl)
+vapours is sometimes useful (place inverted slide with
+c) Gelatin(maybeusedaslongasnotcolonizedbybacteriaor ciliatesovera4%osmiumtetroxidesolutioninafume
+fungi; the molten gelatin must be clear and slightly hoodforabout1min).Fixasusualwithformalinafter
+yellowish;useahigh-qualityproduct!) osmiumtreatment.
+10gpowderedgelatin 3. Add 1–3 drops of Ferna´ndez-Galiano’s fluid to the fixed
+0.1gsodiumchloride(NaCl) ciliates, without washing out the formalin, and mix by
+100mldistilledwater swivellingtheslidefor10–60s.
+Remarks: Mix these components and melt gelatin in a Remarks: The amount of Ferna´ndez-Galiano’s fluid
+waterbath, stirring frequently. Pour mixture into small, needed depends on many unpredictable factors (e.g.
+sterilecupsandstoreintherefrigerator.Filledcupscan amountandconcentrationoffixative,sizeofdrops,kind
+beusedforyears. of species and composition of sample fluid). 1–3 drops
+usuallyworkwell.Thesameholdsforthereactiontime
+d) Silver nitrate solution (may be used for several prepara-
+(10–60s).Thetrialanderrormethodmustfrequentlybe
+tions,i.e.forabout40slidesifthesearemadeonthesame
+usedtoobtainbestresults!
+day;usedsolutionsolderthan1daymaycauseproblems)
+4. Place slide on a preheated (60–70uC) hotplate and leave
+3gsilvernitrate(AgNO 3) until the drop, which is now rather large, turns golden
+distilledwaterto100ml brown (like cognac). This usually takes 2–4min and the
+The following materials must be prepared on the day slidemustbekeptinconstantcircularmotionduring this
+precedingthepreparation: time.Assoon asthe dropappears cognac-coloured, check
+impregnationwiththecompoundmicroscope.Replacethe
+a) Salinatedgelatin
+slideonthehotplateiftheimpregnationisstilltoofaint;if
+b) Osmiumtetroxide(takesabout10htodissolve)
+it is already too dark repeat the procedure, starting with
+c) Chillamoistchamberi.e.alargePetridish(step8);
+step 1, but vary amount of Ferna´ndez-Galiano’s solution
+thereductiondish(step12);thesilvernitratesolution;
+and/or impregnation time etc. If the preparation is too
+distilledwater;thechemicaldeveloperandfixer;and
+faint, specimens can be put on a new slide and the
+alcohol(30%and70%)inappropriateamounts
+procedurerepeatedbeginningwithstep2.
+V. The silver carbonate methods. Because of the large quantity of Remarks:Thecorrectimpregnationtimedependsonmany
+cells needed for the basic Ferna´ndez-Galiano (1976) technique, factors which are difficult to control (size of drops,
+Augustin et al. (1984) proposed a modification which requires only temperature, kind of species, etc). The ratio of the
+few specimens and may also yield permanent slides. Although the components in the Ferna´ndez-Galiano fluid is especially
+results are highly variable with all modifications, the method is important.Add,e.g.somedropsofpyridineand/orsilver
+worthwhile because it works very fast and often produces excellent carbonate solution to the Ferna´ndez-Galiano fluid if the
+impregnations, especially with hymenostomes (e.g. Tetrahymena, impregnation is repeatedly too faint, i.e. cannot be
+Paramecium),holophryids(e.g.Holophrya),colpodids(e.g.Colpoda, intensifiedbyprolongedheating.Fixciliatesin2–3drops
+Bryometopus,Platyophrya)andheterotrichs(e.g.Stentor).Fixationis offormalininsteadof1–2dropsifimpregnationistoofaint.
+by formalin, which means that the shape of the cells is poorly Ciliatesfromoldcultures,ion-richfluids(e.g.sewage,soil)
+preservedandevendestroyed(cellsburst)insomespecies(e.g.most or anaerobic biotopes frequently impregnate poorly. For
+hypotrichs). The cells swell strongly during the preparation process these,impregnationsometimesimprovesiftheyarewashed
+and become very soft being easily flattened between slide and priortofixation(fluidfromsampleanddistilledwater1:1).
+coverslip. This makes photographic documentation easy but may 5. Interrupt impregnation by removing the slide from the
+result in interpretation errors. The silver carbonate methods reveal hotplateandaddingadropoffixative(sodiumthiosulfate).
+the infraciliature and certain cortical and cytoplasmic structures, Remarks:Thepreparation isnowready.Augustin etal.
+especially the kinetodesmal fibres and the nuclear apparatus. The (1984) describe a method for obtaining permanent
+silverlines in most cases do not stain. Several modifications have slides. Their quality is, however, often not as good as
+been suggested (Wilbert, 1983; Wolska, 1966). Ma et al. (2003) with wet (fresh) preparations, which are thus usually
+provide a protocol for marine ciliates. Independently, I developed preferred for investigation and photography. Pick out
+the same protocol and can state that it works well. However, some well impregnated specimens with a micropipette,
+permanentpreparationsloosequality,aswiththeAugustinmethod place them on a clean slide and cover with a coverslip.
+(see step 5). For examples see Fig. 2(a, b, h) in this paper and Forgoodpictures,thedropwiththeselectedspecimens
+figures 5–6, 11, 18 and 27 in Foissner (1991). should be very small so that cells are compressed
+between the slide and the coverslip. Excess fluid may
+Procedure(afterAugustin,FoissnerandAdam,1984)
+beremovedfromtheedgeofthecoverslipusingapiece
+1. Place a droplet (about 0.05ml or less) of a rich ciliate offilterpaper.Theimpregnationneednotbefixedwith
+cultureorevensinglespecimensonaslide. sodium thiosulfate if the investigation is undertaken
+Downloaded from www.sgmjournals.org by
+http://ijs.sgmjournals.org 283
+IP: 83.215.4.72
+On: Wed, 08 Jul 2015 14:50:20
+
+W.Foissner
+immediately.Theimpregnationisstableforsomehours Themorerecentpreparationsaredonewiththemethoddescribed
+whenstoredinamoistchamber.Irecommendthatthe now.Itdiffersfrommy1991protocolinsomesmallbutimportant
+cells be compressed between the slide and coverslip details: instead of using distilled water, tap water is used in most
+immediately after the impregnation since silver pre- steps. This avoids swelling and detachment of the albumin,
+cipitatesmayoccurwithtimeinthereactionfluid. the main problem in the 1991 protocol. In addition, ‘new’ fixa-
+Reagents tives and a second developer, which produces more contrast, are
+introduced.
+a) Fixativefororganisms(stableforalongtime)
+0.2ml formalin (HCHO; commercial concentration, Thequalityoftheslidesisusuallyadequatebutfrequentlynotasgood
+about37%) aswiththeWilbertmodification.Thelatterdemandsmorematerial
+distilledwaterto10ml and experience; inexperienced workers may easily lose the material.
+Asinallprotargolmethods,theprocedureisrathertime-consuming
+b) Ferna´ndez-Galiano’sfluid(prepareimmediatelybeforeuse;
+and complicated. Experiments with students showed that beginners
+components can be stored and must be mixed in the
+haveafairchanceofobtaininggoodslides(forexample,figure31in
+sequence indicated. Themixture must beslightlymilky. If
+Foissner1991).Acentrifugemaybeusedforstep2;stainingjars(Fig.
+storedinabrownflask,itcanbeusedforsomehours.Keep
+1e) are necessary for steps 6–16. The procedure is complex and
+away from sunlight. Make up fresh fluid when no more
+subject to many factors. Thus, be well-organized and study
+impregnationcanbeachieved)
+‘Remarks’carefully.ForexamplesseeprocedureB.
+0.3mlpyridine(C H N;commercialconcentration)
+5 5
+2–4mlRio-Hortegaammoniacalsilvercarbonatesolution ProcedureA
+0.8mlproteose-peptonesolution
+1. FixorganismsinBouin’sorStieve’sfluidorinalcohol(50–
+16mldistilledwater
+100%dependingonspeciesandmaterial),alcohol/formalin
+c) Fixativeforimpregnation(stableforyears) solution(seebelow),formalin(~4%),orinotherfixatives
+5gsodiumthiosulfate(Na S O ) for10–30min.
+2 2 3
+distilledwaterto100ml Remarks:Touseanappropriatefixativeisofparamount
+significance. Surprisingly, simple alcohol frequently
+d) Rio-Hortega ammoniacal silver carbonate solution.
+provides excellent impregnations, although shrinkage
+Preparation (the ratios are important!): place 50ml of a
+may be rather pronounced. Alcohol/formalin and
+10%aqueoussilvernitratesolutioninaflask;add150ml
+Champy’s or Da Fano’s fixatives are sometimes also
+of a 5% aqueous sodium carbonate (Na CO ) solution
+2 3 useful. The fixation time has little influence on the
+littlebylittleunderconstantstirring;add25%ammonia
+quality of the preparation within the limits given. The
+(NH ),dropbydrop,untiltheprecipitatedissolves,being
+3 ratio of fixative to sample fluid should be at least 1:1.
+carefulnottoaddanexcess;finallyadddistilledwaterup
+Pourciliates intothefixative,usingawide-necked dish
+to a total volume of 750ml. The solution is stable for
+tobringtheorganismsincontactwiththefixativeasfast
+years
+as possible. Most fixatives may be supplemented with
+e) Proteose-peptone solution (long-term stability if not
+somedropsof2%osmiumtetroxideforbetterfixation
+colonizedbybacteriaand/orfungi;discarddullsolutions)
+of fragile ciliates, e.g. the hypotrich Urosoma, which,
+96mldistilledwater however, fixes perfectly with alcohol. This increases the
+4g proteose-peptone (bacteriological; sprinkle powder stability of the cells but usually reduces their impreg-
+onthesurfaceofthewaterandallowtodissolvewithout nability.
+stirring) 2. Concentrate specimens by centrifugation and wash 3–4
+0.5ml formalin (HCHO in commercial concentration; timesintapwater.
+forpreservation) Remarks: There are now two choices: either continue
+withstep3ortransferthematerialthrough30–50–70%
+VI. Protargol methods. Protargol methods are indispensable for alcohol (ethanol) where it remains stable for years.
+descriptiveresearchonciliates.Thefirstprotocolswereprovidedby Transfer preserved material back through the graded
+Kirby(1945),Moskowitz(1950),Dragesco(1962)andTuffrau(1964, alcoholseriesintotapwaterpriortocontinuingwiththe
+1967), and many more modifications were subsequently proposed nextstep.Theimpregnabilityofpreservedmaterialmay
+(Aufderheide,1982;Dieckmann,1995;Dragesco&Dragesco-Kerne´is, beslightlydifferent.
+1986;McCoy,1974;Ng&Nelsen,1977;Wilbert,1975,1976;Zagon, 3. Clean eight slides (or less if material is very scarce) per
+1970). Protocols for quantitative protargol stains (QPS) have been sample. The slides must be grease-free (clean with alcohol
+published by, for example, Montagnes & Lynn (1987) and Skibbe andflameorusepre-cleanedslides).
+(1994).Here,threequalitativevariationswhichproducegoodresults Remarks: Insufficiently cleaned slides may cause the
+inourlaboratoryaredescribed.Theseprotocolsworkwellwithmost albumintodetach.Markslidesonbackwithadiamond
+ciliate species (some, however, only rarely impregnate well, e.g. scribe if several samples are prepared together. We use
+Loxodes,Paramecium)butrequireatleast20specimens.Contraryto stainingjarswitheightsectionssothatwecanworkwith
+the silver carbonate method, single specimens cannot usually be 16 slides simultaneously by putting them back to back
+handledsuccessfully.Dependingontheprocedureused,protargolcan (Fig.1e).
+reveal many cortical and internal structures, such as basal bodies, 4. Place a small drop each of albumin-glycerol and concen-
+cilia, various fibrillar systems, and the nuclear apparatus. The tratedorganismsinthecentreofaslide.Mixdropswitha
+silverlines, however, never impregnate. The shape of the cells is mountedneedleandspreadoverthemiddle-thirdofslide.
+usuallywell-preservedinpermanentslides,whichisanadvantagefor Remarks: Use approximately equal-sized drops of
+the investigation but makes photographic documentation more albumin-glycerol and suspended (in tap water) organ-
+difficult. However, pictures as clear as those taken from wet silver ismstofacilitatespreading.Thesizeofthedropsshould
+carbonate impregnations can be obtained with the Wilbert be adjusted so that the middle-third of the slide is
+modification if the cells are photographed prior to embedding in covered after spreading. Now remove sand grains, etc.
+thealbuminglycerol.Thisappliesalsotomyprotocol(seestep12). The thickness of the albumin layer should be equal to
+Downloaded from www.sgmjournals.org by
+284 InternationalJournalofSystematicandEvolutionaryMicrobiology64
+IP: 83.215.4.72
+On: Wed, 08 Jul 2015 14:50:20
+
+Observationandpreparationofciliates
+that of the organisms. Some thicker and thinner slides Remarks: We now use two different developers: the
+should,however,alsobepreparedbecausethethickness ordinary one and that proposed by Dieckmann (1995),
+of the albumin layer may influence the quality of the which ispreferable but,for unknownreasons, does not
+preparation.Cellsmaypartiallydryoutand/orshrinkif work for all materials and fixatives. For instance, it
+the albumin layer is too thin; if it is too thick, it may sometimes does not work with material that was not
+detach or the cells cannot be studied with the oil stored in 70% alcohol for a few days. In spite of this
+immersionobjective. problem,theDieckmanndevelopershouldbetriedfirst
+5. Allow slides to dry for at least 2h or overnight at room becauseitstainsthecytoplasmweakerthantheordinary
+temperature. developer, enhancing the contrast of the preparation.
+Remarks: Slides may be allowed to dry for up to 48h; The impregnation intensity is sufficient if the ciliary
+longertimesdecreasequality.Oven-dried(2hat60uC) patternisjustrecognizable.Thepermanentslidewillbe
+slidesareusuallyalsoofpoorerquality. too dark if the ciliary pattern is distinct at this stage of
+6. Place slides in a staining jar (Fig. 1e) filled with 95% theprocedure.Theintensityoftheimpregnationcanbe
+alcohol (ethanol) for 20–30min. Place a staining jar with controlledbytheconcentrationofthedeveloperandthe
+protargolsolutionintoanoven(60uC). time of development: 5–10s usually suffice for the
+Remarks: Slides should not be transferred through an dilutedordinarydeveloper,while20sto5min,usually
+alcohol series into concentrated alcohol as this causes about 1–2min, are needed for the acetone developer.
+thealbuminlayertodetach.Decreasehardeningtimeto Somespecies(e.g.mostmicrothoracids)mustbetreated
+15–20min if the albumin is rather old and/or not very with undiluted developer. Development time increases
+sticky. withbleachingtime.Thethinnerthealbuminlayer,the
+7. Rehydrate slides through 70% alcohol and two tap water fasterthedevelopment.
+stepsfor5mineach. To obtain excellent micrographs use the following
+8. Place slides in 0.2% potassium permanganate solution. method: Scrap off the albumin layer, put it in distilled
+Remove first slide (or pair of slides) after 30s and the water, and suck it through a pipette several times to
+othersat15sintervals.Collectslidesinastainingjarfilled isolate specimens from the albumin. Take out well-
+withtapwater. impregnatedcellsandputthemonaslidewithverylittle
+Remarks: Bleaching isby permanganateandoxalic acid water.Addacoverslipwhichwillflattenandenlargethe
+(step 9). The procedure described above is necessary cellssothatgoodmicrographscanbemade.
+because each species has its optimum bleaching time.
+13. Fix slides in sodium thiosulfate for at least 5min. Then
+The sequence in which slides are treated should be
+washintapwaterthreetimesforabout3mineach.
+recorded as the immersion time in oxalic acid must be
+Remarks: Both, sufficient fixation and thorough wash-
+proportional tothat inthe permanganatesolution. The
+outofthefixativeareofparamountimportanceforthe
+albumin layer containing the organisms should swell
+stabilityofthepreparation.
+slightly in the permanganate solution and the surface
+should become uneven. If it remains smooth, the 14. Transfer slides to 70% – 100% – 100% alcohol for
+albuministoostickyandthiscoulddecreasethequality 3–5mineach.
+oftheimpregnation.Ifthealbuminswellsstrongly,itis 15. Clearbytwo10mintransfersthroughxylene.
+possibly too weak (old) and liable to detach. Use fresh 16. Mountinsyntheticneutralmedium.
+potassiumpermanganatesolutionforeachseries. Remarks:Donotdryslidesbetweensteps15and16.The
+9. Transferslidesto2.5%oxalicacid.Removefirstslides(or preparationisstable,providedstep13isdonecorrectly.
+pairofslides)after60,90,120and160s,theothersat20s Themountingmediumshouldberatherviscoustoavoid
+intervals.Collectslidesinastainingjarfilledwithtapwater. air-bubbles being formed when the solvent evaporates
+Remarks:Sameasforstep8!Thealbuminlayerbecomes duringdrying.
+smoothinoxalicacid.Hardtapwatershouldbemixed Reagents
+withdistilledwater1:1.
+a) Bouin’sfluid(prepareimmediatelybeforeuse;components
+10. Wash slides twice in tap water and once in distilled water
+canbestored)
+for3mineach.
+15 parts saturated, aqueous picric acid [C H N O ;
+11. Place slides in the warm (~60uC) protargol solution and 6 3 3 7
+preparation: add an excess of picric crystals to appro-
+impregnatefor10–15min.
+priate volumeofdistilledwater(e.g. 1l);shakesolution
+Remarks:Theprotargolsolutioncanbeusedonlyonce.
+several times within a week; some undissolved crystals
+Organize seven staining jars for developing the slides:
+shouldremain;filterbeforeuse]
+distilledwater–tapwater–tapwater–fixative(sodium
+5 parts formalin (HCHO; commercial concentration,
+thiosulfate)–tapwater–70%alcohol–100%alcohol
+about37%)
+(ethanol).
+12. Remove the staining jar from the oven and take one slide 1 part glacial acetic acid (5concentrated acetic acid;
+fromthemidoftheseriesforadjustingthedeveloper.Dip C 2H 4O 2)
+the slide into distilled water for 1–2s and then transfer it b) Stieve’sfluid(slightlymodified;prepareimmediatelybefore
+into the acetone developer. As soon as the albumin turns use;componentscanbestored)
+yellowish, remove the slide, dip it into the first two tap
+38ml saturated, aqueous mercuric chloride (dissolve
+water steps for about 2s each, and control the impreg-
+60gHgCl in1lboilingdistilledwater)
+2
+nation with the compound microscope. Ifthe cells appear
+10ml formalin (HCHO; commercial concentration,
+impregnated, then submerge the slide into the fixative
+about37%)
+(sodium thiosulfate) for 5min. If the cells appear not or
+3ml glacial acetic acid (5concentrated acetic acid;
+toofaintlyimpregnated,thentakeasecondslideanddothe
+C H O )
+same procedure with the ordinary developer. If necessary, 2 4 2
+adjustthedeveloper(seereagents)andcontinuetodevelop c) Alcohol/formalinsolution(prepareimmediatelybeforeuse;
+therestoftheslides;collecttheslidesinthefixative. componentscanbestored)
+Downloaded from www.sgmjournals.org by
+http://ijs.sgmjournals.org 285
+IP: 83.215.4.72
+On: Wed, 08 Jul 2015 14:50:20
+
+W.Foissner
+50ml70%alcohol(ethanol) h) Ordinary developer (mix in sequence indicated; sodium
+5ml formalin (HCHO; commercial concentration, sulfitemustbedissolvedbeforehydroquinoneisadded)
+about37%) 95mldistilledwater
+Remarks: The two components can be used in a wide 5gsodiumsulfite(Na SO )
+2 3
+variety ofconcentrations, even vice versa. Furthermore, 1ghydroquinone(C H O )
+6 6 2
+theycanbeusedindividuallyinvariousconcentrations. Remarks: This recipe yields the stock solution which is
+The often excellent results obtained with pure alcohol stable for some weeks and should be used undiluted
+fixationarepartiallycausedbythepoorpreservationof for certain ciliates (step 12). Usually, however, it must
+the cytoplasm, which then impregnates only faintly, be dilutedwith tapwater in a ratio of 1:20 to 1:50 to
+enhancingthecontrastofthecorticalstructures. avoidtoorapiddevelopmentandone-sidedimpregnation
+of the organisms. Freshly prepared developer is usually
+d) Albumin-glycerol(2–6monthstableat3uC)
+inadequate (the albumin turns greenish instead of
+15mleggalbumin
+brownish).Thedevelopershouldthusbeagedartificially
+15mlconcentrated(98–100%)glycerol(C H O )
+3 8 3 byaddingsomesodiumcarbonate(NaCO)orbyadding
+2 3
+Remarks:Pre-treatmentoftheeggalbuminandprepara-
+about1mlold,slightlybrownishstocksolutionto100ml
+tionofthealbumin-glycerol:Separatethewhitecarefully
+fresh developer. Alternatively, air-aged solutions can be
+fromtheyolkandembryoofthreeeggs(freerangeeggs used,thatis,adeveloperthathasbeenkeptuncoveredfor
+arepreferabletothosefrombatterychickens,whoseegg onetotwodaysinawide-mouthedbottle.Itfirstturns
+whiteislesssticky).Shakethewhitebyhand(donotusea yellowish,thenlightbrown(mosteffective)andlaterdark
+mixer!)foraboutaminuteinanarrow-mouthed250ml brown and viscous (at this stage the developer has lost
+Erlenmeyerflaskuntilastiffwhitefoamisformed.Allow mostofitsactivitybutisstillsuitableforartificialageing
+theflasktostandfor30–60s.Thenpourtheviscousrest of fresh developer; see above). Take great care with the
+oftheeggwhiteinasecondErlenmeyerflaskandshake developerasitsqualitycontributeshighlytothatofthe
+againuntilastifffoamisformed.Repeatuntilmostofthe slides.Ifthedeveloperhaslostitsactivity(whichisnot
+egg white is either stiff or becomes watery; usually 4–6 alwaysindicatedbyabrowncolour!),thesilverisnotor
+Erlenmeyer flasks of foam are obtained. Leave all flasks only insufficiently reduced and the organisms stain too
+undisturbed for about 10min and discard the watery faintly.Freshdevelopershouldthereforebepreparedfor
+albuminfromthelastflask.Duringthistimeaglycerol- each‘impregnationweek’andsomeolddeveloperkept.
+likefluidpercolatesfromthefoam.Thisfluidiscollected
+andused.Addanequalvolumeofconcentratedglycerol i) Acetone developer (stable for about two weeks; add
+andasmallthymolcrystal(C H O)forpreservationof components in the series given and dissolve each before
+10 14
+themixture.Mixbyshakinggentlyandpourmixtureinto addingthenext)
+a small flask. Leave undisturbed for two weeks in the 80mldistilledwater
+refrigerator.Awhitishslimesettlesatthebottomofthe 1.4gboricacid(H 3BO 3)
+flask.Decanttheclearportion,discardslimeandthymol 0.3ghydroquinone(C 6H 6O 2)
+crystal. Store the clear portion at about 3uC. A ‘good’ 2gsodiumsulphite(Na 2SO 3)
+albumin-glyceroldragsashortthreadwhentouchedwith 15mlacetone
+aneedle.Thealbuministoothin(notstickyenough)or Remarks: This is the low-speed developer used by
+toooldifthisthreadisnotformed.Freshalbuminwhich Dieckmann(1995),whoobtainedtherecipefromFryd-
+istoothinmaybeconcentratedbyleavingtheflaskopen Versavel (personalcommunication). Pour thedeveloper
+forsomeweekssothatwatercanevaporate.Ifthealbumin into a staining jar and immerse slides, one by one,
+is too sticky, which may result in only one side of the controlling impregnation intensity when the albumin
+organisms impregnating well, it is diluted with distilled becomeslightbrownorlightgreen.Seestep12fordetails.
+waterorold,lessstickyalbumintotheappropriatecon-
+j) Fixativeforimpregnation(stableforyears)
+sistency.Thepreparationofthealbumin-glycerolmustbe
+undertakenwithgreatcarebecausemuchdependsonits Dissolve 50g sodium thiosulfate (Na S O ?5H O) in
+2 2 3 2
+quality.Unfortunately,allcommercialproductswhichwe 1000mldistilledwater
+havetrieddetachduringimpregnation.
+ProcedureB(afterWilbert,1975andpersonalexperience)
+e) 0.2% potassium permanganate solution (stable for about
+This modification produces excellent results but demands much
+1day)
+experience. I manipulate large cells with micropipettes in a watch-
+0.2g potassium permanganate (KMnO ) dissolved in
+4 glass(Fig.1f),whereasthecentrifugeisusedforsteps1–4and7–8if
+100mldistilledwater
+cellsaresmallerthanabout150mm.Thewatch-glassmethodisalso
+f) 2.5%oxalicacidsolution(stableforabout1day)
+used when there are only a few specimens of larger cells. The
+2.5g oxalic acid (C H O .2H O) dissolved in 100ml
+2 2 4 2 organismsareverysoftafterdevelopment andfixationandarethus
+distilledwater
+easilycompressedbetweenslideandcoverslip,whichgreatlyfacilitates
+g) 0.4–0.8%protargolsolution(stableforabout1weekwhen
+photographic documentation. For examples see Fig. 2(d, f) in this
+notheated)
+paperandfigures12,22,25and31–33inFoissner(1991).
+100mldistilledwater
+add0.4–0.8gprotargol 1. Fix organisms as described in protargol procedure A
+Remarks: Use light-brown ‘protargol for microscopy’ (Foissner’smodification).
+presentlynotavailablebutan‘in-house’protocolhasbeen 2. Washand,ifsodesired,preserveorganismsasdescribedin
+publishedbyPanetal.(2013).Somedark-brown,cheap procedureA(Foissner’smodification).
+productsdonotwork!Sprinklepowderonthesurfaceof Remarks: Wash cells either in the centrifuge (small
+thewaterofawide-mouthedbottleandallowtodissolve species) or in a watch-glass (Fig. 1f). To change fluids
+without stirring. The concentration of the protargol allowcellstosettleonbottomofwatch-glassandremove
+dependsonits‘strength’,thatis,onthesilvercontents. supernatant with a micropipette under the dissecting
+Downloaded from www.sgmjournals.org by
+286 InternationalJournalofSystematicandEvolutionaryMicrobiology64
+IP: 83.215.4.72
+On: Wed, 08 Jul 2015 14:50:20
+
+Observationandpreparationofciliates
+microscope;concentratecellsinthecentreofthewatch- compressed and photographed. Transfer some of the
+glassbygentleswirling. more darkly impregnated specimens with a very small
+3. Transfer organisms with a small amount of distilled water amountoffixativeontoacleanslide,usingamicropip-
+to an at least 10-fold quantity of sodium hypochlorite ette and cover with a coverslip. Organisms are usually
+(NaClO)andbleachforabout3min. flattenedbytheweightofthecoverslip;excessfluidmay
+Remarks:Thisisthecriticalstepinthismodification.If beremovedfromtheedgeofthecoverslipwithapieceof
+bleachingistoostrongortooweakallislost:cellseither filterpaper.
+dissolve or do not impregnate well. Systematic investi- 8. Washverythoroughlyindistilledwater(threetimeswiththe
+gations showed that not the bleaching time but the centrifuge;7–10timesinwatch-glasswithamicropipette)or
+amount of active chloride in the sodium hypochlorite intapwater(whencellsappearstronglyinflatedandtendto
+andthepre-treatmentofthecells(fixationfluid,freshor burstordissolveindistilledwater).Finallyremovemostwater.
+preserved material) are decisive for the quality of the Remarks:Eventheslightesttracesofthefixativedestroy
+preparation. Different species need different concentra- theimpregnationwithinafewdaysorweeks.
+tions.Unfortunately,theconcentrationofactivechloride 9. Smear a moderately thick layer of albumin-glycerol on a
+in the commercial products varies (10–13%) and is cleanslidewithafinger.Droptheimpregnated,washedcells
+dependentontheageofthefluid.Itisthusimpossibleto on the albumized slide with a large-bore pipette (opening
+providemorethanonlyafewguidelines:100mldistilled ~1mm)andair-drythepreparationforatleast2h.
+water+0.2–0.4ml NaClO (if product is fresh and cells Remarks: The cells are too fragile to be spread with a
+were not stored in alcohol) or 100ml distilled needle. With much care it is possible to orientate cells
+water+0.5–1.6ml NaClO (if product is older and cells usingamountedeyelash.Commercialalbumin-glycerol
+were stored in alcohol). The transparency of the cells canbeused.
+under the dissecting microscope may serve as a further 10. Hardenalbuminbytwo10mintransfersthroughconcen-
+indicator: fixed, unbleached cells appear dark and tratedalcohol(2-propanolorethanol).
+opaque, whereas accurately bleached cells are almost Remarks: Thisandthe nextstepare bestcarried outin
+colourless and rather transparent (depends, however, stainingjars.Thealbuminlayerturnsmilkyandopaque.
+alsoonsizeandthicknessofthecells).Thus,increasethe 11. Clearbytwo5mintransfersthroughxylene.
+concentration of sodium hypochlorite stepwise if cells Remarks:Thealbuminlayerturnstransparent.
+appeartoodarkwiththerecommendedconcentrations. 12. Mountinsyntheticneutralmedium.
+We routinely start with three different hypochlorite Remarks: Same as for step 20 of the wet silver nitrate
+concentrationsifsufficientmaterialisavailable. method.
+4. Wash organisms at least 3 times with distilled water and Reagents
+finallyonceintheprotargolsolution.
+Remarks: Wash thoroughly, especially when fluids are If not stated otherwise, the same reagents as in the first protargol
+changed with micropipettes, because even the slightest procedure(Foissner’smodification)aretobeused.
+tracesofsodiumhypochloritedisturbtheimpregnation.
+ProcedureC(forfewspecimens)
+5. Transferto1%protargolsolutionandimpregnatefor10–
+20minat60uC. I learned this simple modification in Dr P. Didier’s laboratory
+Remarks:Thisandthenextstepshouldbecarriedoutin (Clermont-Ferrand University, France). It sometimes produces
+a watch-glass even for material which is otherwise excellentimpregnations,especiallywithspecieshavingafirmpellicle
+manipulatedwiththecentrifuge.Theimpregnationtime (e.g. microthoracids). It also demands little material because the
+depends on the kind of material and the degree of specimensaremountedontheslidewithoutwashing.
+bleaching. Check the progress of impregnation every
+1. Collect specimens with a micropipette and place them in
+3–4min under the compound microscope by picking
+thecentreofagrease-freeslide.Removeexcessfluidasfar
+outafewcellswiththemicropipetteunderthedissecting
+aspossible.
+microscope; add these to a drop of developer. Dilute
+2. Fumigate cells with 4% aqueous osmium tetroxide for
+developerand/orinterruptdevelopmentbyaddingsome
+about2min.
+fixative (sodium thiosulfate) if impregnation is suffi-
+Remarks: Hold inverted slide close to the osmium
+cientlyintense.
+tetroxide. Carry out the procedure in a fume hood as
+6. Removemostoftheprotargolsolutionwithamicropipette
+osmicacidvapoursarehighlytoxic.
+and add 5–15 drops of developer to the remainder
+3. Add an equal-sized drop of albumin-glycerol, mix thor-
+containingtheorganisms.
+oughly but gently with a mounted needle and spread the
+Remarks:Fresh,undiluteddeveloperisusuallyused(but
+mixtureinamoderatelythinlayeroverthemiddlethirdof
+see step 5). Control development in a compound or
+theslide.
+dissecting microscope. As soon as the infraciliature
+Remarks: The albumin-glycerol must be prepared as
+becomesfaintlyvisible,developmentmustbestoppedby
+described in the first protargol procedure (Foissner’s
+adding some drops of sodium thiosulfate. Judging the
+modification).Cellsareveryfragileandfrequentlybreak
+rightmomentisaquestionofexperience;thepermanent
+ordissolve.
+slidewillbetoodarkiftheinfraciliatureisverydistinct
+4. Allowtodryforabout4h.
+atthisstageoftheprocedure.
+5. Proceed with steps 6 (coagulation of albumin in concen-
+7. Stabilize the impregnation by two approximately 5min
+trated alcohol) to 16 of the first protargol procedure
+transfersthroughsodiumthiosulfate.
+(Foissner’smodification).Bleachingtimesareusuallyabout
+Remarks: The developer needs not be removed before
+50%shorterthanwithmymodification.
+fixation.Forsmallspeciesthisandthenextstepcanbe
+carried out in a centrifuge. Larger species must be
+Preparationforscanningelectronmicroscopy(SEM)
+manipulated with micropipettes because cells are now
+very fragile and would be damaged in the centrifuge. Ciliate species cannot be identified solely by SEM because only
+Cells are very soft at this stage and can thus be easily a limited number of characteristics are revealed. However, SEM is
+Downloaded from www.sgmjournals.org by
+http://ijs.sgmjournals.org 287
+IP: 83.215.4.72
+On: Wed, 08 Jul 2015 14:50:20
+
+W.Foissner
+useful for the beginner by allowing a three-dimensional view of the can be prepared by this method only if abundant
+specimens and for the specialist in documenting details which are material is available. Some accumulation can often be
+difficult to reveal with other methods. Only the method used by achievedbythefollowingsimplemethod:leaveafreshly
+ourselvesisdescribedhere;ithaschangedconsiderablysinceFoissner collected sample containing ample mud to stand for
+(1991). See textbooks for general SEM techniques. For example some hours at room temperature. Due to oxygen
+imagesseeFigs4and5(a,b)inthispaperandfigures2–4,13,14,21, depletionthe ciliates usuallymovetothesurfacewhere
+24,30,34and37inFoissner(1991). theycanbeskimmedoffwithateaspoon.
+The cleaned material can be stored in ~1% osmium
+Procedure
+tetroxideforyears.However,whenthefixativecontained
+1. Pour ciliates into Parducz’ fixative and leave for about aldehydes (formalin, glutaraldehyde), the osmium
+30min. should be changed two or three times within the first
+Remarks:Concentrate andcleanmaterialasthoroughly month,otherwiseitbecomesblackfromremnantsofthe
+as possible (see step 2). The ratio of sample to fixative fixativeandcrystalsareformed.
+shouldbeatleast1:1,better1:2.Addsomedropsof5M
+3. Transferthecleanedciliateswithasmalldropoftapwater
+HCl if fixative becomes milky when the material is
+intothepreparationchamber(Fig.7).
+added.Fixationmustbedoneinawide-mouthedbottle
+Remarks: Place a small amount of commercial cotton
+sothat theorganisms come incontact withthefixative
+woolonthebottomplanktonnetofthechamber.Then
+immediately.Thenputthefixedsampleinanarrowglass
+put a drop of specimens on the cotton and load the
+tube(diameter~2cm),wheretheorganismscansettle.
+preparation with washer 1. The net must be dry to
+Parducz’fluidpreservesmostciliatesverywell.However,
+avoidspreadingofthedroptothechambermarginand
+the cirri of hypotrich ciliates usually disintegrate into
+thewasher.Placethetopplanktonnetcarefullyonthe
+theircomponentcilia.Thus,theyshouldbefixedeither
+drop, that is, on washer 1, using forceps. Weight top
+in concentrated mercury chloride (dissolve 60g HgCl
+2 net with washer 2, close chamber with lid and
+in 1l hot distilled water and allow to cool) or in a
+immediately transfer into 30% ethanol. The plankton
+mixture composed of 4 parts concentrated mercury
+net must have a mesh-size ,12mm and can be used
+chloride and 1 part 2% osmium tetroxide. A much
+many times. It should fit exactly into the chamber,
+better fixative for hypotrichs is that used by Barry
+which is best achieved using an appropriate punch.
+Wicklow(personalcommunication):mixequalamounts
+Alternatively, metalgrids with10–20mm mesh size, as
+of 2% aqueous osmium tetroxide and 3% glutaralde-
+used by soil scientists, can be applied. They are stable
+hyde and fix cells for 15–30min. Wash in distilled
+for years.
+water and proceed as described below (steps 2–7).
+4. Dehydrate chamber with ciliates in an ethanol series (30–
+Unfortunately, such material cannot be stored because
+50–70–90–100–100%)for5mineach.
+crystals are formed. Thus, critical-point drying must
+5. Drychamberwithciliatesinacritical-pointdryingapparatus.
+follow immediately. This fixative also preserves many
+Remarks:WeuseCO andchangethealcoholatleast10
+otherciliateswellalthoughthemetachronalciliarywaves 2
+times.Amylacetate, asusedpreviously(Foissner,1991),
+arefrequentlynotasdistinctaswithParducz’fluid.
+provedtobesuperfluous.
+2. Wash and clean the material (ciliates or other protists) in 6. Useamouthprotectionfabrictotheendoftheprotocoland
+tapwater. putaglassshieldbetweenthedissectingmicroscopeandthe
+Remarks: Washing must be done in a watch-glass (Fig. sampletoavoidanyrewettingofthedriedorganismsbyyour
+1f) and with a micropipette to remove bacteria and breath!OpenchamberandplaceciliatesonaSEM-stub.
+debris. This cleaning of the material is essential but Remarks:Thedriedciliatesusuallyformsmalllumpsin
+rather difficult and laborious, especially with small the cotton wool. The cotton and the net are carefully
+species (,100mm) and field material; thus cultures transferred with forceps to the SEM-stub, where the
+and/orpre-cleanedmaterial(seebelow)shouldbeused. organismsareseparatedfromthecottonandthenetby
+Thecleaningisperformedasfollows:ciliateshavesettled knocking on the forceps. If small lumps of organisms
+atthebottomofthetubeafter30min(step1).Remove remain, they can be dispersed with a mounted eyelash
+as much supernatant as possible with a pipette (use a under the dissecting microscope. The ciliates spread
+centrifugeonlyifthespecimensdidnotsettlewell).Then easilyifcleaninganddryingweresufficient.
+transferthematerialtoawatch-glassandallowtosettle Preparation of the SEM-stub: We use commercial
+forabout5min(usefumehood).Quicklyremovemost aluminium SEM-stubs, 25mm diameter. To fix the
+of the fixative with a micropipette under the dissecting organismsandtogetablack,homogeneousbackground,
+microscope. Now wash the ciliates with tap water by the stub is covered with a graphite tab available from
+several passages through a large-bore pipette (diameter severalproviders,e.g.ChristineGro¨pl,Austria(orderno.
+about1mm).Bacteriaanddebrisadheringtotheciliates G3347orG3348,fortabswith12or25mmdiameter,
+areherebymechanicallyremoved.Againallowtosettle, respectively).Notethatsmallspecies(,30mm)tendto
+but control sedimentation with the dissecting micro- sinkintothegraphite.Forthese,thegraphitetabispre-
+scope;removesupernatantcontainingbacteriaanddebris sputteredthreetimeswithgold.
+withamicropipetteassoonasciliateshavesettled.This
+procedure must be repeated until the material is clean. 7. Sputterwithgold.Thisisaverycriticalstep!Uselow(4mA)
+Use fractionated sedimentation if the sample contains sputter energy. Sputter about 10 times for 30s each, with
+severalspeciesdifferinginsizeand/ormass. breaksofabout5mintoavoidheating.Ciliabecomecurled
+Fieldmaterial:Largerspecies(.100mm)arepickedout and denatured if sputter energy is too high and/or the
+withamicropipetteandcollectedinasmallbottle.Then sampleisslightlyrewettedbyyourbreathorperspiration
+pour the fixative over the cells. Several hundred speci- whenyoutransferthestubintothemicroscope!
+mensmustbecollectedbecauselossofmaterialmaybe Remarks:Useamouthprotectionfabricwhentransfer-
+considerable during the following steps. Small species ringthesampleintotheSEM.
+Downloaded from www.sgmjournals.org by
+288 InternationalJournalofSystematicandEvolutionaryMicrobiology64
+IP: 83.215.4.72
+On: Wed, 08 Jul 2015 14:50:20
+
+Observationandpreparationofciliates
+16 mm Remarks:Togetsufficientmaterialandsomevariation,
+two or three samples should be made with either the
+sameordifferentsurfactantsandunitedtoacomposite
+sample. Excellent results are obtained with most
+Oligohymenophora (Fig. 6a, b, e–f) but Paramecium
+worksonlywithNonidet.Goodresultsareobtainedwith
+some colpodids and prostomatids, while heterotrichs,
+hypotrichs and haptorids do not work, at least with
+the few species tested: Blepharisma, Condylostomides,
+5
+Sterkiella, Kahliella, Epispathidium, and Dileptus. With
+somepatience,itmaybepossibletofindasurfactantor
+4
+acompoundsurfactantwhichalsodeciliatestheseciliates.
+1 Reagents
+a) Parducz’ fixative as described in ‘Preparation for
+SEM’
+b) Deciliation reagents. Dilute in 1l tap water either
+0.5mlTeepol,0.005–0.05mlMarlonAS3,or0.25ml
+NonidetP40
+5
+Remarks: Teepol , the liquid soap, can be obtained in
+1
+drugstores in Austria or from the distributer: Sara Lee
+6 HBC, Austria. Teepol consists of three surfactants:
+mm
+2 sodiumlaurylethersulfat (CAS-No.: 68891-38-3), alkyl-
+3 polyglycolether (CAS-No.: 68131-39-5) and alkylbenze- 6
+4 nesulfonic acid (CAS-No.: 85117-49-3). Experiments
+7 8 showed that the alkylbenzenesulfonic acid is the main
+deciliatingagent.Itisdistributedunderthecommercial
+name MARLON AS3 by Sasol Germany. Nonidet P40 ,
+Fig. 7. Brass chamber for critical-point drying of protists (from whichworksaswellasTeepol,isacompoundsurfactant
+Foissner,1991).1,threadedchamberlid;2,washer2;3,washer composed of 15 homologues and distributed by
+1; 4, threaded chamber jacket; 5, holes for forceps tips, used to AppliChem,Germany
+screwlidintojacket;6,topnet;7,sample;8,bottomnet.
+Labelling and deposition of preparations
+Labelling. Concise labelling of the slides is important.
+Reagents
+However,themostimportantinformationmustbeselected
+Parducz’fixative(prepareimmediatelybeforeuse) because of restricted space on the microscope slide. We
+4mlaqueous2%osmiumtetroxide(OsO 4) label our slides usually as shown in Fig. 8. If necessary,
+1ml saturated, aqueous mercuric chloride (HgCl 2; for additional information can be provided in the publication
+preparationseeprotargolprotocol)
+and/or on a stiff paper slide. Clean the slide carefully and
+thenmarkthespecimensonthecoverslipwithasharppen
+Deciliationofciliatesforscanningelectronmicroscopy(SEM)
+using Indian ink. Avoid artificial ink because it usually
+The methods available for deciliation of ciliates are either rather
+bleaches within a few years.
+complexorveryspecific,thatis,deciliateonlycertainspecies,usually
+TetrahymenaorParamecium(Nelson,1995,Thompsonetal.,1974).
+In searching for an easier and better method, I obtained excellent Deposition. Corliss (1963) was among the first who
+results for rather many taxa with ordinary liquid soap. Experiments emphasized the deposition of permanent preparations of
+with30surfactantsshowedthatmanyhavedeciliatingproperties,but neworreinvestigatedciliatesinacknowledgedrepositories.
+excellent results were obtained only with liquid soap (Teepol, see His appeal was successful, i.e. most scientific journals now
+below), Marlon AS3, and Nonidet P40. The method is quite simple
+require the deposition of type slides (Lynn & Simpson,
+and produces pictures of unseen clarity, although the adoral
+2009),andthediscussionofthescientificvalueoftypeshas
+membranelles are rarely completely deciliated, showing that their
+ciliahavedifferentproperties(Fig.6). been rejuvenated (Aescht, 2008).
+Procedure Basically, there are three kinds of types in ciliates
+(for details, see the International Code of Zoological
+1. Use dense cultures or concentrate ciliates by mild
+Nomenclature, 1999). Briefly, the holotype is the one
+centrifugation(~1500r.p.m.).
+2. Transferciliateswithabout1mlofmediumintoawatch- specimen or illustration designated by the author as the
+glass and add 1ml deciliation fluid. Mix by moving the nomenclaturaltype(typespecimen,name-bearingtype).All
+watch-glass. specimens other than the holotype are paratypes, i.e. the
+3. Control deciliation under the dissecting microscope. As holotypeandtheparatype(s)arefromthesamepopulation
+soonasmostspecimenshavebecome motionlessandsink
+and (type) locality. Vouchers, in contrast, are from other
+to the bottom of the watch-glass, usually within 30–90s,
+populations and localities. Typification guidelines and
+put the sample into 3–4ml of Parducz’ fixative for about
+30min. acknowledged repositories for preparations of unicellular
+4. Proceedwithstep2of‘PreparationforSEM’. organismshavebeencompiledbyAescht(2008).
+Downloaded from www.sgmjournals.org by
+http://ijs.sgmjournals.org 289
+IP: 83.215.4.72
+On: Wed, 08 Jul 2015 14:50:20
+
+W.Foissner
+microscope (glass) slide
+left label coverslip right label
+marker
+name of species Bromeliophrya JAMAICA country
+rings
+quadristicha Bromeliads from
+habitat and
+additional information (semipure culture) Blue Mountains NP
+region
+specimens
+Protargol preparation
+kind of material HOLOTYPE (Foiss. meth.) method
+further, unmarked
+name of preparator FOISSNER 2012 specimens 2012/127 registraton number
+in repository
+underlaid by a stiff paper slide explaining the ink rings
+Bomeliophrya
+quadristicha P
+HOLOTYPE P paratypes not drawn
+morphogenesis MGD
+in publication
+(ontogenetic stage drawn
+and shown in publication)
+paratype P H holotype
+paratype drawn and PD MG morphogenesis not
+shown in publication
+drawn in publication
+Fig.8.Labellingofpermanentpreparations.
+Any kind of type should be deposited in an appropriate Chatton, E. & Lwoff, A. (1930). Impre´gnation, par diffusion
+slide box and in an acknowledged repository, usually a argentique, de l’infraciliature des cilie´s marins et d’eau douce, apre`s
+fixationcytologiqueetsansdessiccation CRSe´ancSocdeBiol104,
+museum of natural history. Avoid deposition in the
+834–836(inFrench).
+laboratory because your follower may be ignorant of the
+Chatton, E. & Lwoff, A. (1936). Techniques pour 1’e´tude des
+importance of types and thus may dispose of the slides.
+protozoaires,spe´cialementdeleursstructuressuperficielles(cine´tome
+etargyrome).BullSocFrMicrosc5,25–39(inFrench).
+ACKNOWLEDGEMENTS Corliss,J.O.(1953).Silverimpregnationofciliatedprotozoabythe
+Chatton-Lwofftechnic.StainTechnol28,97–100.
+Thanks to Professor Micah Dunthorn for inviting this review. For Corliss, J. O. (1963). Establishment of an international type-slide
+technicalassistance,IamgratefultoMag.B.Komm,R.Scho¨rghofer
+collectionfortheciliateprotozoa.JProtozool10,247–249.
+andA.Zankl.FinancialsupportwasprovidedbytheAustrianScience
+Corliss, J. O. (1979). The Ciliated Protozoa. Characterization,
+Fund(P20360–B17andP22846–B17).
+ClassificationandGuidetotheLiterature,2ndedn.Oxford,Frankfurt:
+PergamonPress.
+REFERENCES Dieckmann, J. (1995). An improved protargol impregnation
+forciliatesyieldingreproducibleresults.EurJProtistol31,372–382.
+Adam,H.&Czihak,G.(1964).Arbeitsmethodendermakroskopischen Dragesco, J. (1962). L’orientation actuelle de la syste´matique des
+und mikroskopischen Anatomie. Ein Laboratoriumshandbuch fu¨r cilie´s et la technique d’impre´gnation au prote´inate d’argent. Bull
+Biologen,MedizinerundtechnischeHilfskra¨fte.Stuttgart:G.Fischer. MicroscAppl11,49–58(inFrench).
+Aescht,E.(2008).Annotatedcatalogueof‘‘typematerial’’-ofciliates Dragesco,J.&Dragesco-Kerne´is,A.(1986).Cilie´slibresdel’Afrique
+(Ciliophora) and some further protists at the Upper Austrian intertropicale. Introduction a` la Connaissance et a` l’E´tude des Cilie´s
+MuseuminLinz, includingaguideline for ‘‘typification’’ ofspecies. (CollectionFauneTropicaleno.26).Paris:ORSTOM(inFrench).
+Denisia23,125–234. Ferna´ndez-Galiano, D. (1976). Silver impregnation of ciliated
+Aufderheide, K. J. (1982). An improvement in the protargol protozoa:procedureyieldinggoodresultswiththepyridinatedsilver
+techniqueofNgandNelsen.TransAmMicroscSoc101,100–104. carbonatemethod.TransAmMicroscSoc95,557–560.
+Augustin, H., Foissner, W. & Adam, H. (1984). An improved Foissner, W. (1976). Erfahrungen mit einer trockenen Silberimpra¨-
+pyridinated silver carbonate method which needs few specimens gnationsmethode zur Darstellung argyrophiler Strukturen bei
+and yields permanent slides of impregnated ciliates (Protozoa, Protisten.VerhZoolBotGesWien115,68–79(inGerman).
+Ciliophora).Mikroskopie41,134–137. Foissner, W. (1977). Electronmicroscopical studies on the argyr-
+Chatton,E.(1940).Suruneme´thoderapided’impregnational’argent ophilicstructuresofColpidiumcampylum(Ciliata,Tetrahymenidae).
+re´duitpar1’hydroquinone.CRS´eancSocBiol134,229–232(inFrench). ActaBiolAcadSciHung28,59–72.
+Downloaded from www.sgmjournals.org by
+290 InternationalJournalofSystematicandEvolutionaryMicrobiology64
+IP: 83.215.4.72
+On: Wed, 08 Jul 2015 14:50:20
+
+Observationandpreparationofciliates
+Foissner, W. (1979). Methylgru¨n-Pyronin: Seine Eignung zur Larsen, H. F. (1975). Fa¨rbung von Protozoen mit Azur A.
+supravitalen Ubersichtsfa¨rbung von Protozoen, besonders ihrer Mikrokosmos,issue9,264–265(inGerman).
+Protrichocysten.Mikroskopie35,108–115(inGerman).
+Lee, J. J., Small, E. B., Lynn, D. H. & Bovee, E. C. (1985). Some
+Foissner,W.(1981). Das Silberliniensystem der Ciliaten: Tatsachen, techniques for collecting, cultivating and observing protozoa. In
+Hypothesen,Probleme.Mikroskopie38,16–26(inGerman). An Illustrated Guide to the Protozoa, pp. 1–7. Edited by J. J. Lee,
+Foissner, W. (1991). Basic light and scanning electron microscopic S.H.Hunter&E.C.Bovee.Lawrence,KS:AllenPress.
+methodsfortaxonomicstudiesofciliatedprotozoa.EurJProtistol27, Lynn, D. H. & Simpson, A. G. B. (2009). From the editors: descri-
+313–330. bing new taxa of unicellular protists. J Eukaryot Microbiol 56, 403–
+Foissner, W. (2005). Two new ‘‘flagship’’ ciliates (Protozoa, 405.
+Ciliophora) from Venezuela: Sleighophrys pustulata and Luporino- Lynn,D.H.,Suriano,D.M.&Beverley-Burton,M.(1981).Chatton-
+phrysmicelae.EurJProtistol41,99–117. Lwoff silver impregnation: an improved technique for the study
+Foissner,W.(2013).DescriptionofGlaucomidesbromelicolan.gen., of oncomiracidia (Platyhelminthes: Monogenea) chaetotaxy. Syst
+n. sp. (Ciliophora, Tetrahymenida), a macrostome forming inhab- Parasitol3,21–23.
+itant of bromeliads (Bromeliaceae), including redescriptions of
+Ma,H.,Choi,J.K.&Song,W.(2003).Animprovedsilvercarbonate
+Glaucoma scintillans and G. reniformis. J Eukaryot Microbiol 60,
+impregnation for marine ciliated protozoa. Acta Protozool 42, 161–
+137–157.
+164.
+Foissner,W.&Al-Rasheid,K.(2006).Aunifiedorganization ofthe
+McCoy,J.W.(1974).Newfeaturesofthetetrahymenidcortexrevealed
+stichotrichine oral apparatus, including a description of the buccal
+byprotargolstaining.ActaProtozool13,155–160.
+seal(Ciliophora:Spirotrichea).ActaProtozool45,1–16.
+Montagnes, D. J. S. & Lynn, D. H. (1987). A quantitative protargol
+Foissner, W. & Foissner, I. (1988). The Fine Structure of Fuscheria
+stain(QPS)forciliates:methoddescriptionandtestofitsquantitative
+terricola Berger et al.,1983 and aproposed new classification of the
+nature.MarMicrobFoodWebs2,83–93.
+subclass Haptoria Corliss, 1974 (Ciliophora, Litostomatea). Arch
+Protistenk135,213–235. Moskowitz,N.(1950).Theuseofproteinsilverforstainingprotozoa.
+StainTechnol25,17–20.
+Foissner, W., Wolf, K. W., Yashchenko, V. & Stoeck, T. (2011).
+Description of Leptopharynx bromelicola n. sp. and characterization Nelson,D.L.(1995).Preparationofciliaandsubciliaryfractionsfrom
+of the genus Leptopharynx Mermod, 1914 (Protista, Ciliophora). Paramecium.MethodsCellBiol47,17–24.
+JEukaryotMicrobiol58,134–151. Ng,S.F.&Nelsen,E.M.(1977).Theprotargolstainingtechnique:an
+Frankel,J.&Heckmann,K.(1968).AsimplifiedChatton-Lwoffsilver improvedversionforTetrahymenapyriformis.TransAmMicroscSoc
+impregnationprocedureforuseinexperimentalstudieswithciliates. 96,369–376.
+TransAmMicroscSoc87,317–321.
+Pan,X.,Bourland,W.A.&Song,W.(2013).Protargolsynthesis:anin-
+Gelei, J. v. (1934). Eine mikrotechnische Studie u¨ber die Fa¨rbung houseprotocol.JEukaryotMicrobiol60,609–614.
+dersubpellicula¨renElementederCiliaten.ZWissMikrosk51,103–178
+Peck, R. K. (1974). Morphology and morphogenesis of Pseudo-
+(inGerman).
+microthorax, Glaucoma and Dexiotricha, with emphasis on the types
+Gelei,J.v.(1935).EineneueAba¨nderungderKlein’schentrockenen ofstomatogenesisinholotrichousciliates.Protistologica(Paris)10,333–
+Silbermethode und das Silberliniensystem von Glaucoma scintillans. 369.
+ArchProtistenk84,446–455(inGerman).
+Roberts,D.McL.&Causton,H.(1988).Silvernitrateimpregnationof
+Gelei, G. v. (1939). Neue Silbermethoden im Dienste der ciliatedprotozoa.ArchProtistenk135,299–318.
+Protistenforschung (Komplexsilberverbindungen). Z Wiss Mikrosk
+Romeis, B. (1968). Mikroskopische Technik. Mu¨nchen, Wien: R.
+Leipzig56,148–180(inGerman).
+OldenbourgVerlag.
+Hiller, S. A. (1991). Bursellopsis spaniopogon n. spec. (Ciliophora:
+Prostomatida):I.Infraciliatureandultrastructureofthesomaticand Ruzicka, F. K. (1966). Eine neue Methode zur Darstellung des
+oralcortex.EurJProtistol27,1–16. SilberliniensystemsbeiWimpertieren.Mikrokosmos,issue6,180–183
+(inGerman).
+Hiller,S.A.&Bardele,C.F.(1988).Prorodonaklitolophonn.spec.and
+the‘‘dorsalbrush’’asacharactertoidentifycertainsubgroupsinthe Skibbe, O. (1994). An improved quantitative protargol stain
+genusProrodon.ArchProtistenk136,213–236. for ciliates and other planktonic protists. Arch Hydrobiol 130, 339–
+347.
+Horva´th,J.v.(1938).EineneueSilbermethodefu¨rdieDarstellungder
+erregungsleitendenElementederCiliaten.ZWissMikrosk55,113–122 Tellez, C., Small, E. B., Corliss, J. O. & Maugel, T. K. (1982). The
+(inGerman). ultrastructure of specimens of Paramecium multimicronucleatum
+impregnated with silver by the Ferna´ndez-Galiano method.
+International Commission on Zoological Nomenclature (1999).
+JProtozool29,627–634.
+InternationalCodeofZoologicalNomenclature,4thedn.London,UK:
+InternationalTrustforZoologicalNomenclature. Thompson,G.A.,Jr,Baugh,L.C.&Walker,L.F.(1974).Nonlethal
+Kirby, H. (1945). The structure of the common intestinal tricho- deciliationofTetrahymenabyalocalanestheticanditsutilityasatool
+monadofman.JParasitol31,163–174. forstudyingciliaregeneration.JCellBiol61,253–257.
+Kirby,H.(1950).MaterialsandMethodsintheStudyofProtozoa.Univ Tuffrau,M.(1964).Quelquesvariantestechniquesdel’impre´gnation
+CalifPress,Berkely. descilie´sparleprote´inated’argent.ArchsZoolexpge´n104,186–190
+Klein,B.M.(1926).U¨bereineneueEigentu¨mlichkeitderPelliculavon (inFrench).
+ChilodonuncinatusEhrbg.ZoolAnz67,1–2(inGerman). Tuffrau, M. (1967). Perfectionnements et pratique de la technique
+Klein,B.M.(1943).DasSilberlinien-oderneuroformativeSystemder d’impre´gnationauprotargoldesinfusoirescilie´s.Protistologica(Paris)
+Ciliaten.AnnNat-HistMusWien53,156–336(inGerman). 3,91–98(inFrench).
+Klein, B. M. (1958). The ‘‘dry’’ silver method and its proper use. Wilbert, N. (1975). Eine verbesserte Technik der Protargolimpra¨g-
+JProtozool5,99–103. nationfu¨rCiliaten.Mikrokosmos,issue6,171–179(inGerman).
+Downloaded from www.sgmjournals.org by
+http://ijs.sgmjournals.org 291
+IP: 83.215.4.72
+On: Wed, 08 Jul 2015 14:50:20
+
+W.Foissner
+Wilbert, N. (1976). A standardized method for identifying and Wolska, M. (1966). Application of the ammonium-silver impreg-
+countingthevagileandsessileperiphyton.Oecologia24,343–347. nation method to the investigation of ciliates from the rumen of
+Wilbert, N. (1983). Eine neue Impra¨gnation der Basalko¨rper bei herbivorousmammals.ActaProtozool4,105–108.
+Wimpertieren: Silberimpra¨gnation mit Pyridin-Silberkarbonat nach Zagon, I. S. (1970). Carchesium polypinum: cytostructure after
+Fernandez-Galiano.Mikrokosmos,issue7,193–197(inGerman). protargolsilverdeposition.TransAmMicroscSoc89,450–468.
+Downloaded from www.sgmjournals.org by
+292 InternationalJournalofSystematicandEvolutionaryMicrobiology64
+IP: 83.215.4.72
+On: Wed, 08 Jul 2015 14:50:20
+

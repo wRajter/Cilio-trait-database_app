@@ -1,0 +1,948 @@
+bioRxiv preprint doi: https://doi.org/10.1101/2022.01.05.474053; this version posted January 5, 2022. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder. All rights reserved. No reuse allowed without permission.
+1 Genomic insights into the phylogeny and biomass-degrading enzymes of rumen ciliates
+2 Zongjun Li1†, Xiangnan Wang1†, Yu Zhang1†, Zhongtang Yu2†, Tingting Zhang1†, Xuelei
+3 Dai1, Xiangyu Pan1, Ruoxi Jing1,3, Yueyang Yan1, Yangfan Liu1,3, Shan Gao1, Fei Li4, Youqin
+4 Huang1,4, Jian Tian5, Junhu Yao1, XvPeng Xing6, Tao Shi1, Jifeng Ning7, Bin Yao5, Huoqing
+5 Huang5*, Yu Jiang1*
+6
+7 1Center for Ruminant Genetics and Evolution, College of Animal Science and Technology,
+8 Northwest A&F University, Yangling 712100, China
+9 2Department of Animal Sciences, The Ohio State University, Columbus, OH 43210, USA
+10 3Key Laboratory of Agricultural Animal Genetics, Breeding, and Reproduction of Ministry of
+11 Education, College of Animal Science and Technology, Huazhong Agricultural University,
+12 Wuhan, 430070, China
+13 4State Key Laboratory of Grassland Agro-ecosystems, College of Pastoral Agriculture
+14 Science and Technology, Lanzhou University, Lanzhou, 730020, China
+15 5State Key Laboratory of Animal Nutrition, Institute of Animal Sciences, Chinese Academy
+16 of Agricultural Sciences, Beijing 100193, China
+17 6Key Laboratory of Animal Biotechnology of the Ministry of Agriculture, College of
+18 Veterinary Medicine, Northwest A&F University, Yangling, 712100, China
+19 7College of Information Engineering, Northwest A&F University, Yangling, 712100, China
+20
+21 † These authors contributed equally.
+22 *Corresponding author. E-mail: yu.jiang@nwafu.edu.cn, huanghuoqing@caas.cn
+23
+
+bioRxiv preprint doi: https://doi.org/10.1101/2022.01.05.474053; this version posted January 5, 2022. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder. All rights reserved. No reuse allowed without permission.
+Abstract
+24
+25 Understanding the biodiversity and genetics of the gut microbiome has important
+26 implications for host physiology. One underexplored and elusive group is ciliated protozoa,
+27 which play crucial roles in regulating gut microbial interactions. Integrating single-cell
+28 sequencing and an assembly-and-identification pipeline, we acquired 52 high-quality ciliate
+29 genomes of 22 rumen morphospecies for all major abundant clades. With these genomes, we
+30 firstly resolved the taxonomic and phylogenetic framework that reclassified them into 19
+31 species spanning 13 genera and reassigned the genus Dasytricha from Isotrichidae to a new
+32 family Dasytrichidae. Via extensive horizontal gene transfer and gene family expansion,
+33 rumen ciliates possess a broad array of enzymes to synergistically degrade plant and
+34 microbial carbohydrates. In particular, ~80% of the degrading enzymes in Diplodiniinae and
+35 Ophryoscolecinae act on plant cell wall, and the high activities of their cellulase,
+36 xylanase and lysozyme reflect the potential of ciliate enzymes for biomass-
+37 conversion. Additionally, the new ciliate dataset greatly facilitated the rumen metagenomic
+38 analyses by allowing ~12% of reads to be classified.
+39
+
+bioRxiv preprint doi: https://doi.org/10.1101/2022.01.05.474053; this version posted January 5, 2022. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder. All rights reserved. No reuse allowed without permission.
+Introduction
+40
+41 The genomes of hundreds of thousands of gut prokaryotes have been sequenced, which have
+42 greatly advanced our understanding of their taxonomic and functional diversity and important
+43 roles in host health and nutrition1–3. Trichostome ciliates (of the phylum Ciliophora, class
+44 Litostomatea) are ubiquitous in the gut microbiome of vertebrates4,5, and they serve crucial
+45 roles in modulating the gut microbiome through predation, competition, and symbiosis6.
+46 However, genomic research on gut ciliates has lagged1, and by far only Entodinium
+47 caudatum, one of the most common species in the rumen of ruminants, has been subjected to
+48 genomic study7. The lack of genomic information on the ciliate has become an obstacle for
+49 holistic studies of the gut microbiome, rumen microbiome in particular, as ciliates can
+50 account for up to 50% of the total rumen microbial biomass and approximately 200
+51 morphospecies have been described in the rumen6.
+52 Despite their prominence in the rumen ecosystem and extensive previous research over
+53 one century8, much remains to be learned about rumen ciliates9,10. Based on morphological
+54 features, rumen ciliates are primarily classified into two clades: family Isotrichidae in the
+55 order Vestibuliferida (with cilia covering the entire cell surface) and family Ophryoscolecidae
+56 in the order Entodiniomorphida (with localized zones of cilia including one or two adoral
+57 cilia zone)4,6. It has been recognized, however, taxonomic identification and classification of
+58 ciliates based on morphological features are challenging6,11, as the same species can exhibit a
+59 few different morphotypes12. The 18S rRNA gene of ciliates has been used to aid species
+60 identification13, but it has several limitations in proposing a new taxonomic framework,
+61 including topological discrepancies even at the subfamily level5,14 and too conserved to
+62 uncover cryptic species15.
+63 It has also been challenging to determine or investigate the actual metabolism of rumen
+64 ciliates because of the lack of and inability to establish axenic cultures. As a result, our
+
+bioRxiv preprint doi: https://doi.org/10.1101/2022.01.05.474053; this version posted January 5, 2022. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder. All rights reserved. No reuse allowed without permission.
+65 knowledge of rumen ciliate metabolism can only be inferred from studies using monocultures
+66 (that contain bacteria and other microbes) or defaunation (complete removal of rumen
+67 protozoa chemically or through physical isolation), both of which introduce confounding
+68 effects of other microbes and residual effects10,16. Recent genomic and transcriptomic studies
+69 provided new insights into the metabolism and physiology of several species of rumen
+70 ciliates7,17. However, the functional diversification and evolutionary mechanisms underlying
+71 most rumen ciliates linkages remain undetermined. Additionally, the unique genome
+72 structures (e.g., nuclear dimorphism, chromosomal fragmentation) make ciliates valuable
+73 model organisms to understand many important fundamental molecular and cellular
+74 processes and features, such as catalytic RNA, telomerase, and histone acetylation18,19.
+75 However, most knowledge comes from a few free-living aerobic ciliate species within the
+76 classes Oligohymenophorea and Spirotrichea20,21, while rumen ciliates, which are anaerobic
+77 and symbiotic, are exclusively found in the class Litostomatea.
+78 In this study we de novo assembled and analyzed 52 high-quality single-ciliate-cell
+79 amplified genomes (SAGs) from 22 rumen morphospecies, which were reclassified into 19
+80 species spanning 13 genera and three families in the newly genome-based taxonomy. One
+81 assembly-and-identification pipeline was developed to help improve the quality and accuracy
+82 of genome assembly of ciliates. This unparalleled genome catalog of rumen ciliates greatly
+83 facilitated and/or enabled better understanding and determination of their taxonomy,
+84 phylogeny, metabolism, and ecology.
+Results
+85
+86 Recovering single-ciliate-cell amplified genomes
+87 We sequenced the DNA amplified from 69 individual single ciliate cells isolated from fresh
+88 rumen fluid sampled from 15 cattle and goats (Supplementary Table 1). They represented
+89 22 ciliate morphospecies (Fig. 1 and Supplementary Fig. 1-3) belonging to 11 prevalent and
+
+bioRxiv preprint doi: https://doi.org/10.1101/2022.01.05.474053; this version posted January 5, 2022. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder. All rights reserved. No reuse allowed without permission.
+90 abundant morphogenera, which represent ~97% of the genus-level abundance across our
+91 collected samples and published studies (Supplementary Table 2). We also sequenced the
+92 amplified transcriptome22 of 24 of the isolated single-ciliate-cells and 14 rumen
+93 metatranscriptomes for de novo gene prediction (Supplementary Fig. 4).
+94 Because rumen ciliate cells carry other microbes as endosymbionts or engulfed microbes
+95 (primarily bacteria) and because the DNA of the latter can also be amplified and sequenced,
+96 we developed an assembly-and-identification pipeline to recover and identify ciliate
+97 macronuclear sequences (Fig. 1 and Supplementary Fig. 4). Briefly, using contigs
+98 assembled from the 2.5 Tb sequences from the single cells and the ~17 Tb publicly available
+99 rumen metagenome (Supplementary Table 3), we constructed an 18 Gb assembled dataset
+100 of contigs of rumen ciliate macronuclear, all of which were capped on both or one end with
+101 telomeric repeats ((CCCCAAT)n). This dataset was searched for the contigs that did not have
+102 any telomeres in the single-ciliate assembled contigs (see Methods). Additionally, we
+103 performed hybrid assembly and deep sequencing to improve the assembly quality
+104 (Supplementary Fig. 5). Of the 69 SAGs we assembled (Supplementary Table 4), 52 had
+105 ≥80% of the 171 Alveolata conserved marker genes23 and were considered “high-quality”,
+106 while 17 had <80% of the Alveolata conserved marker genes. The 52 high-quality SAGs
+107 were used for further analysis. Among the 52 SAGs, the telomere-capped contigs ranged
+108 from 14% to 92% (mean 61%) of the total contigs (Supplementary Table 4). One of the
+109 SAGs of Oph. caudatus (referred to as SAGT3) had the highest number (26,497 to be exact)
+110 of complete chromosomes (contigs capped with telomere at both ends), plus another 33,578
+111 contigs that were capped with telomere at only one end. The chromosome number of Oph.
+112 caudatus is at least 43,286, which is much more than the known large number of
+113 chromosomes in ciliates, Oxytricha trifallax (16,000) and Halteria grandinella (23,000)20,24.
+114 Deriving a robust genome-based taxonomy and phylogeny
+
+bioRxiv preprint doi: https://doi.org/10.1101/2022.01.05.474053; this version posted January 5, 2022. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder. All rights reserved. No reuse allowed without permission.
+115 A robust taxonomy is an organizing principle of biology to communicate scientific results
+116 and describe biodiversity25,26. Using the 52 SAGs, we established a robust genome-based
+117 taxonomic framework of rumen ciliates that overcomes the uncertainty inherent of the
+118 morphology-based taxonomy.
+119 Whole-genome average nucleotide identity (ANI) has emerged as a widely accepted
+120 method for circumscribing prokaryotic species, with 95% ANI as a species boundary26,27. We
+121 found a clear ANI discontinuity among the SAGs: >97% or <92% (Fig. 2a-b) and considered
+122 ANI >97% and <92% for intra-species and inter-species cutoffs, respectively. Based on the
+123 above ANI cutoff values, we found four pairs of synonymic species in Ophryoscolecidae
+124 (Fig. 2a and Supplementary Fig. 6). This is exemplified by Oph. caudatus, Oph. purkynjei
+125 and Oph. bicinctus (Fig. 1v-x and Supplementary Fig. 3) being classified as a single species,
+126 although Oph. caudatus was isolated from sheep and goats with a long main caudal spine and
+127 three circles of secondary caudal spines, whereas Oph. purkynjei and Oph. bicinctus were
+128 isolated from cattle with a short main caudal spine and two circles of secondary caudal
+129 spines, respectively6. Similarly, Dip. anisacanthum and Dip. dentaum, Dip. flabellum
+130 aspinatum and Dip. flabellum monospinatum, Ost.gracile and Ost. venustum were synonymy,
+131 respectively (Fig. 2a and Supplementary Fig. 1). These suggest that the shape of the main
+132 caudal spine, the number of secondary caudal spines, and habitat host are not reliably
+133 taxonomic worth for Ophryoscolecidae. On the other hand, despite having morphological
+134 similarity, two new cryptic species of Isotrichidae were identified (ANI < 92%, Fig. 2a):
+135 tentatively named as Iso. sp. YL-2021a and Iso. sp. YL-2021a. The former was a cryptic
+136 species (Fig. 1b) of Iso. prostoma and it had a longer body (278 µm) than Iso. prostoma,
+137 while the latter was a cryptic species (Fig. 1d) of Iso. intestinalis and it had a lower ratio of
+138 body length to width (1.3 on average) but longer chromosomes (22.5 kb on average) than Iso.
+139 intestinalis. Additionally, the 18S sequence identity between synonymic morphospecies was
+
+bioRxiv preprint doi: https://doi.org/10.1101/2022.01.05.474053; this version posted January 5, 2022. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder. All rights reserved. No reuse allowed without permission.
+140 all >99% while that among the four Isotrichidae species was all <98% (Supplementary Fig.
+141 6), which also supports the taxonomic revision at the species level. Accordingly, the 22
+142 collected morphospecies were reclassified to 19 species.
+143 The current taxonomic ranks for rumen ciliates at or above the genus level also lack
+144 molecular evidence. For example, the 18S rRNA gene phylogeny placed the subfamilies
+145 Entodiniinae and Ophryoscolecinae as two branching lineages within the subfamily
+146 Diplodiniinae5,14. To resolve the phylogenetic challenges, we firstly constructed a maximum
+147 likelihood (ML) tree using 113 concatenated single-copy proteins with Tetrahymena
+148 thermophila as an outgroup (Fig. 2d). We also constructed a species tree using OrthoFinder28
+149 under the coalescent model (Supplementary Fig. 7). The two trees were consistent in
+150 topology and had 100% bootstrap support for each node. The results support Entodiniinae
+151 representing the oldest branch in Ophryoscolecidae and Ophryoscolecinae as a sister to
+152 Diplodiniinae, which is consistent with their morphological inference29. The concatenated
+153 protein-based phylogeny served as the basis for the taxonomic rank normalization at and
+154 above genus using relative evolutionary divergence (RED)25. Comparing the RED value with
+155 the RED intervals of taxonomic ranks (median RED ± 0.1), the genus Dasytricha was
+156 reassigned from Isotrichidae to a new family Dasytrichidae, which was treated as a synonymy
+157 of Isotrichidae in the past4. Additionally, Ent. bursa and Ent. caudatum were reassigned to a
+158 new genus Entodinium_A, and Iso. prostoma and Iso. sp. YL-2021a were reassigned to a new
+159 genus Isotricha_A (Fig. 2c-d). For consistency with the family Ophryoscolecidae,
+160 subfamilies Isotrichinae and Dasytrichinae were created for the families Isotrichidae and
+161 Dasytrichidae, respectively. Ultimately, the 19 identified ciliate species were assigned to two
+162 orders, three families, five subfamilies, and 13 genera (Fig. 2d). The genome-based
+163 taxonomy supports the taxonomic worth of the size and number of skeletal plates, which is a
+164 newly evolved organelle for storing amylopectin in the clades of Ophryoscolecinae and
+
+bioRxiv preprint doi: https://doi.org/10.1101/2022.01.05.474053; this version posted January 5, 2022. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder. All rights reserved. No reuse allowed without permission.
+165 Diplodiniinae6 and useful in differentiating genera. However, the phylogenetic relationships
+166 among the genera within Diplodiniinae did not reflect the number of skeletal plates, as
+167 evidenced by Diplodinium without skeletal plate but being more closely related to
+168 Enoploplastron with three skeletal plates than Eremoplastron with only one skeletal plate.
+169 This suggests a single origin of the skeletal plates, which was probably lost in Diplodinium.
+170 Invasion into the rumen was one of the most important events in the evolutionary history
+171 of Trichostome ciliates5. As shown above, not only rumen Ophryoscolecidae, as previously
+172 suggested5, but also Isotrichidae have radiated in speciation. Molecular clock analyses
+173 showed that explosive radiation of both Ophryoscolecidae and Isotrichidae occurred about 5 -
+174 35 million years ago (Fig. 3e and Supplementary Fig. 8), which is consistent with the
+175 duration of the rapid radiation of ruminants30, suggesting concurrent co-evolution and co-
+176 speciation between ruminants and rumen ciliates.
+177 Genome architecture and gene family diversity
+178 Explosive speciation can result from a series of genomic changes and innovations, and the
+179 genome catalog of the rumen ciliates provides new insights into their early diversification.
+180 The genomic architecture features of Isotrichidae were obviously divergent from those of
+181 Dasytrichidae and Ophryoscolecidae (Supplementary Table 4), despite Dasytrichidae and
+182 Isotrichidae being in the same order. Notably, Isotrichidae had a lower GC content and longer
+183 gene-coding regions and gene introns than Dasytrichidae and Ophryoscolecidae
+184 (Supplementary Fig. 9-10). Most interestingly, the two classic chromosome architectures of
+185 ciliates macronuclear genomes31 existed in a single subclass (Fig. 3a): the genomes of
+186 Ophryoscolecidae and Dasytrichidae were extensively fragmented (EF) with gene-sized
+187 nanochromosomes having a mean length of 2.3 kb, while the genomes of Isotrichidae were
+188 non-extensively fragmented (NEF) minichromosomes with a mean length of 14.3 kb, mostly
+189 encoding several genes each. The genomes of its sister-subclasses Haptoria and sister-classes
+
+bioRxiv preprint doi: https://doi.org/10.1101/2022.01.05.474053; this version posted January 5, 2022. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder. All rights reserved. No reuse allowed without permission.
+190 Spirotrichea were both EF32, therefore, we inferred that the genome of the common ancestor
+191 of rumen ciliates was EF, and the NEF genomes of Isotrichidae was an independent origin
+192 according to the parsimony principle of evolution33. However, similar to EF genomes, the
+193 chromosome copy numbers in the NEF genomes of Isotrichidae were nonuniform
+194 (Supplementary Fig. 11), while those in the NEF genomes of the classes Heterotrichea and
+195 Oligohymenpphores were approximately equal32.
+196 Using OrthoFinder28, we annotated 64,189 gene families from the 52 SAGs (Fig. 3e and
+197 Supplementary Fig. 10), of which, 40,898 were shared by at least two species, and 23,291
+198 were identified as species-specific (ranging from 110 in Ost. mammosum to 3,818 in Oph.
+199 caudatus). Of the species-shared families, only 14,871 (36.4%) were found in both
+200 Vestibuliferida and Entodiniomorphida, while the remaining gene families were
+201 Vestibuliferida-specific (6,091) or Entodiniomorphida-specific (19,936). Of the
+202 Entodiniomorphida-specific families, 10,043 arose at the clades of Diplodiniinae and
+203 Ophryoscolecinae. This suggests that extensive lineage-specific gene families arose in the
+204 early and during the diversification of rumen ciliates into modern orders. Additionally,
+205 compared with the common ancestor of rumen ciliates, more subfamily-shared gene families
+206 expanded in Entodiniomorphida (2,784/7,031) than in Vestibuliferida (53/7,031) (Fig. 3e). As
+207 a result, species in Entodiniomorphida, in particular in the clade of Diplodiniinae and
+208 Ophryoscolecinae, had larger and more diverse gene families than the species in
+209 Vestibuliferida (Fig. 3d), which might have further induced the functional divergence across
+210 orders and subfamilies (Fig. 3c). Comparing the differential investment in KEGG pathways
+211 and Gene Ontology terms across those clades (Supplementary Fig. 12-13), we found that the
+212 members of the Isotrichidae possessed a higher proportion of genes related to organismal
+213 systems and environmental adaptation (e.g., endocrine, immune, detoxification, and
+214 antioxidant activity), while those of Ophryoscolecidae were primarily related to biomass
+
+bioRxiv preprint doi: https://doi.org/10.1101/2022.01.05.474053; this version posted January 5, 2022. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder. All rights reserved. No reuse allowed without permission.
+215 (e.g., carbohydrates, lipids, and xenobiotics) degradation and metabolism. Indeed, compared
+216 the domains of order-specific genes between Isotrichidae and Ophryoscolecidae, Isotrichidae
+217 had a relative higher predominance of HSP70 and WD40, which are related to stress
+218 resistance34 and biogenesis of motile cilia35, respectively, while Ophryoscolecidae had a
+219 higher relative predominance of CAZymes-related domains (GT, GH, CBM and cellulase)
+220 (Fig. 3e).
+221 Rumen ciliates possess a broad array of CAZymes
+222 The gut microbes are of huge industrial interest due to their ability to release fermentable
+223 sugars from lignocellulose36–38. Here, we found that the rumen ciliates were also a rich source
+224 of biomass-degrading enzymes. A total of 33,693 non-redundant (< 99% identity) CAZymes
+225 were predicted in the 52 SAGs (Fig. 4a), and only 357 had a highly similar match (≥95%
+226 identity) in any of the public protein databases (nr, env_nr, m5nr, UniProt TrEMBL) and the
+227 rumen bacterial and fungal protein datasets1,2,39,40, indicating that 99% of the CAZymes can
+228 be considered new. In particular, the species of Diplodiniinae and Ophryoscolecinae encoded
+229 as many CAZyme as gut fungi, the latter of which possesses the largest number of CAZyme
+230 genes yet known in nature37. And the species of Diplodiniinae and Ophryoscolecinae encoded
+231 more CAZyme genes than Entodiniinae (by two-fold) and Isotrichidae and Dasytrichidae (by
+232 five-fold) (Fig. 4b) with clear profile-divergences (Fig. 4c), largely attributed to the extensive
+233 gene family arising and expansion.
+234 Predicting the substrates of glycoside hydrolases (GH) and polysaccharide lyases (PL) by
+235 categorizing their corresponding EC number (EC 3.2.1.- or EC 4.2.2.-), we found that each
+236 species of the rumen ciliates possessed a broad array of enzymes to synergistically degrade
+237 plant cell wall (cellulose, hemicellulose and pectin), plant non-structural carbohydrates
+238 (fructan and starch) and microbial carbohydrates (chitin and peptidoglycan) (Fig. 4d).
+239 Moreover, SAGs encoded multiple enzymes to synergistically degrade a single kind of
+
+bioRxiv preprint doi: https://doi.org/10.1101/2022.01.05.474053; this version posted January 5, 2022. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder. All rights reserved. No reuse allowed without permission.
+240 polysaccharides and the resulting oligosaccharides. For example, the Ophryoscolecid SAGs
+241 possessed endo-β-1,4-glucanase (EC 3.2.1.4), β-glucosidase (EC 3.2.1.21), endo-1,6-β-
+242 glucosidase (EC 3.2.1.75), and β-1,4-cellobiosidase (EC 3.2.1.91), allowing them to degrade
+243 cellulose. Less than one-quarter of the degradative CAZymes (ranging from 6% in
+244 Ophryoscolecinae to 24% in Isotrichinae) of ciliates were invested in degrading microbial
+245 carbohydrates, suggesting that their energy acquisition through microbe predation is limited.
+246 Most of the degradative CAZymes of Diplodiniinae (72%) and Ophryoscolecinae (82%) were
+247 invested in degrading plant cell wall, while those of Isotrichinae (45%), Dasytrichinae (44%),
+248 and Entodiniinae (44%) were mainly invested in degrading plant non-structural carbohydrates
+249 (Fig. 4e). These observations revealed the molecular mechanisms underlying the variable
+250 substrate preferences across subfamilies6 and why ciliates could reach up to half of the rumen
+251 microbial biomass6. The variable investment tradeoffs in degradative CAZymes partly avoid
+252 an overlapping niche across subfamilies, and thus enabling a robust performance of the
+253 overall biomass degradation process41. Additionally, rumen ciliates ingest substrates into
+254 digestive vacuoles (Supplementary Fig. 14) to which they deliver their degradative
+255 enzymes, which can help increase the binding efficiency between degrading enzymes and
+256 substrates due to close proximity and improve the utilization efficiency of the degradation
+257 products. Taken together, the broad array of CAZymes, variable substrate preferences, and
+258 intra-vacuoles digestion in rumen ciliates may contribute to their energy acquisition and use
+259 from recalcitrant plant materials and allow for their ecological success in the rumen
+260 ecosystem.
+261 Compared with rumen ciliates, non-gut Alveolate species (n =13) possess a much smaller
+262 number and lower diversity of degradative CAZymes, and they are incapable of digesting
+263 xylan-related hemicellulose (xylan, xyloglucan, and arabinoxylan) or pectin (Fig. 4d),
+264 suggesting that most degradative CAZymes of rumen ciliates were not likely obtained by
+
+bioRxiv preprint doi: https://doi.org/10.1101/2022.01.05.474053; this version posted January 5, 2022. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder. All rights reserved. No reuse allowed without permission.
+265 vertical inheritance. To determine whether this innovation is the result of inter-kingdom
+266 horizontal gene transfer (HGT), we extracted and built phylogenetic trees of homologous
+267 sequences from the genomes of rumen bacteria, gut fungi, non-gut Alveolate, and rumen
+268 ciliates. The results showed that the CAZymes of rumen ciliates mainly originated via HGT
+269 from gut bacteria and fungi (as high amino acid sequence similarity and phylogenetic
+270 nesting), and most of them had more than one HGT event, which could occur in the early or
+271 during the diversification of rumen ciliates (Fig. 4f and Supplementary Fig. 15). For
+272 example, xylanase (EC 3.2.1.8) has recruited five gene families (GH5, GH10, GH11, GH30
+273 and GH43) from bacterial and fungal donors, involving at least 15 HGT events (9 from
+274 Firmicutes, 4 from Bacteroidota, 1 from Fibrobacteria, and 1 from fungi).
+275 Structural divergences of horizontally transferred CAZymes were always observed
+276 between ciliates and the corresponding donors, such as the loss of the CBM22 domain in EC
+277 3.2.1.8 in GH43, the acquisition one motif in EC 3.2.1.91 in GH5, the loss of motif in EC
+278 3.2.1.4 in GH5 and EC 3.2.1.8 in GH10, and truncation at terminal non-domain regions of the
+279 above four enzymes (Fig. 4g and Supplementary Fig. 16). To investigate the enzyme
+280 activities differences between horizontally transferred CAZymes, we cloned and
+281 overexpressed one cellulase (EC 3.2.1.4 in GH5) and one xylanase (EC 3.2.1.8 in GH10)
+282 from both bacteria and ciliates using Pichia pastoris. The results showed that the ciliate
+283 cellulase and xylanase had nine-fold and two-fold higher activity than those of bacterial
+284 donors, respectively (Fig. 4h).
+285 Additionally, 25.6% of the degradative CAZymes could not be annotated to any EC
+286 numbers. We evaluated the substrates and activity of one GH19 protein of Oph. caudatus also
+287 after cloning and overexpression in P. pastoris, and the results showed that it was a lysozyme
+288 (with a specific activity of 36,007 U/mg), and the purified GH19 protein inhibited
+289 Micrococcus luteus (Gram-positive), but not Escherichia coli (Gram-negative) (Fig. 4i). The
+
+bioRxiv preprint doi: https://doi.org/10.1101/2022.01.05.474053; this version posted January 5, 2022. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder. All rights reserved. No reuse allowed without permission.
+290 characteristic selective inhibition of the Gram-positive bacterium suggests that this ciliate
+291 lysozyme was a potential alternative to monensin, which is one of the most successful rumen
+292 modifiers in improving ruminant feed efficiency but has been banned in some countries
+293 because it is an ionophore and appears residues in milk and meat42.
+294 Enabling metagenomic analyses of rumen ciliates
+295 The sequenced genomes can greatly facilitate metagenomic analyses of microbiomes
+296 including communities of rumen ciliates. We re-analyzed 902 publicly available rumen
+297 metagenomes (Supplementary Table 3) against three datasets: 1) the RefSeq genomes and
+298 rumen microbial genomes2,43, 2) dataset 1) plus the SAGs of the rumen ciliates, and 3) dataset
+299 2) plus the metagenome-assembled ciliate sequences. The results showed that the read
+300 classification rates of metagenome as rumen ciliates could be affected by the host, diet, and
+301 management (Fig 5a, c). Of note, the classification rates as rumen ciliates decreased by 99%
+302 in the metagenomes of sheep that suffered from subacute ruminal acidosis due to feeding of a
+303 high concentrate diet44, which is consistent with previous experimental findings that ciliates
+304 are sensitive to pH45. Of the 902 metagenomes, 726 were from animals fed a diet with a
+305 concentrate content of <80%, which is considered a low risk for subacute ruminal acidosis
+306 according to the dramatic drop of ciliate abundance. And in the 726 rumen metagenomes, our
+307 ciliate dataset allowed for classification of 12% of the total reads on average, with a large
+308 range from 0.1% to 72% (Fig 5a). With the improvement of ciliate dataset, the total read
+309 classification rates across metagenomes increased and became more convergent than
+310 otherwise. For example, with the improvement of ciliate dataset, the total read classification
+311 rates in the 285 samples of Stewart et al.2,38 increased from 39-92% to 72-94%, and one-fold
+312 more of the samples (33% vs. 73%) achieved a classification rate of 80% or higher (Fig 5b).
+313 Of the identified ciliate reads in the metagenomes, more than 73% could be classified based
+314 on SAGs, suggesting that the collected ciliates comprised a considerable fraction of the
+
+bioRxiv preprint doi: https://doi.org/10.1101/2022.01.05.474053; this version posted January 5, 2022. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder. All rights reserved. No reuse allowed without permission.
+315 rumen ciliates community (Fig 5d). Interestingly, based on microscopic counting,
+316 Entodiniinae as the most dominant rumen ciliates can account for >90% of the total rumen
+317 ciliates in domesticated ruminants (Supplementary Table 2), but only ~25% of the identified
+318 ciliate sequence reads were assigned to Entodiniinae. This discrepancy might be attributable
+319 to (1) the lack of the genomes of some abundant Entodiniinae species, such as Ent. dilobum
+320 and Ent. rostratum, and (2) the ploidy of Entodiniinae was likely lower than that of other
+321 rumen ciliates.
+Discussion
+322
+323 Compared with gut bacteria and archaea1–3, eukaryotic microbes (protozoa and fungi) are
+324 understudies and represent an underexplored genetic resource46. Here, we used single-cell
+325 sequencing to circumvent the lack of the inability to establish axenic cultures of rumen
+326 ciliates and developed a ciliate-telomere-capped sequence dataset to aid the identification of
+327 ciliate sequences from mixed sequences. Compared with previous studies on fungi and
+328 flagellate47,48, the more successfully captured ciliate genomes from individual cells were
+329 largely attributed to their mini-/nano-chromosomes, which typically have a high ploidy20,24.
+330 Metagenomic binning is the other technique to recover uncultured microbial genomes36, but it
+331 is not applicable to recover ciliate genomes due to their large number and nonuniform copy
+332 numbers of chromosomes and the dependence of binning on sequencing depth. In this study,
+333 the unparalleled genome catalog of rumen ciliates shines new lights on their taxonomy,
+334 evolution, and metabolism, and also greatly facilitates the rumen metagenomic analyses by
+335 allowing ~12% of reads to be classified.
+336 How to define the boundaries for individual taxonomic rank for microorganisms
+337 including ciliates is challenging25,26 because the reproductive isolation principles were not or
+338 mostly not applicable and pure cultures are not available for most microorganisms.
+339 Combining two quantitative operational methods: ANI and RED, we revised the taxonomy
+
+bioRxiv preprint doi: https://doi.org/10.1101/2022.01.05.474053; this version posted January 5, 2022. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder. All rights reserved. No reuse allowed without permission.
+340 for rumen ciliates, which allowed 45% of the 22 collected morphospecies to be changed to
+341 their existing taxonomy. Using this revised taxonomy, nine synonymic Ophryoscolecidae
+342 morphospecies, two cryptic Isotrichidae species and two new genera were identified, and
+343 genus Dasytricha was reassigned from Isotrichidae to a new family Dasytrichidae. The
+344 genome-based taxonomy corroborated or rejected the taxonomic worth of some
+345 morphological features of rumen ciliates, which will help to revise the morphology-based
+346 taxonomy and to identify new species.
+347 Additionally, we provided a phylogenetic backbone to understand the evolutionary
+348 processes of specific traits and early diversification in rumen ciliates, such as the origin of the
+349 non-extensively fragmented minichromosomes in Isotrichidae, the origin and loss of skeletal
+350 plates in Ophryoscolecidae. The identified novel traits will facilitate future research on
+351 ciliates in general. For example, compared with the previous inter-class investigations49,50, the
+352 rumen ciliates will provide a more allied model for investigating the unsolved molecular
+353 mechanisms underlying chromosome fragmentation21.
+354 Importantly, we showed that rumen ciliates were another important weapon for
+355 ruminants to degrade nearly all kinds of plant-derived polysaccharides. In particular, the
+356 species of Diplodiniinae and Ophryoscolecinae encoded as many CAZyme genes as gut
+357 fungi, and ~80% of their degrading enzymes acted on plant cell wall. Most of the ciliate
+358 degradative CAZymes were obtained via HGT from bacteria and fungi7,17, but they
+359 underwent considerable sequence divergence from the donor. The experimentally identified
+360 promising activity of their cellulase, xylanase and lysozyme reflects the potential application
+361 of ciliate CAZymes in biomass conversion and microbiota modulation.
+Methods
+362
+363 Single-ciliate-cell isolation, identification and sequencing
+364 All the experimental procedures on animals were conducted per the guidelines of the
+
+bioRxiv preprint doi: https://doi.org/10.1101/2022.01.05.474053; this version posted January 5, 2022. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder. All rights reserved. No reuse allowed without permission.
+365 Regulations for the Administration of Affairs Concerning Experimental Animals (Ministry of
+366 Science and Technology, China, 2013) and were approved by the Northwest A&F University
+367 Animal Care and Use Committee.
+368 Individual ciliate cells were isolated from fresh rumen fluid samples collected from 15
+369 ruminally fistulated ruminants (6 Holstein cattle, 3 Qinchuan beef steers, and 6 Guanzhong
+370 dairy goats) all kept in Yangling, Shannxi Province, China using glass micropipettes under an
+371 inverted microscope (Nikon, TI-FL, Japan). We purposely selected ciliates with distinct
+372 morphologies. The single ciliate cells were repeatedly transferred and washed using MB9
+373 buffer51 until no other ciliate cells could be found microscopically. The washed single ciliate
+374 cells were then transferred to individual microtubes each containing 2 µl of cell lysis buffer. A
+375 total of 69 single ciliate cells representing 22 morphospecies (as identified morphologically,
+376 detailed below) were isolated, and 45 of them were subjected to whole-genome amplification
+377 (WGA) using multiple displacement amplification52 and the remaining 24 single ciliate cells
+378 were subjected to parallel WGA and whole-transcriptome amplification (WTA) using the
+379 G&T-seq22,53 (Supplementary Table 1). Illumina TruSeq libraries were prepared for each of
+380 the amplified genomes and transcriptomes and then sequenced (2 ×150 bp) on an Illumina
+381 NovaSeq platform.
+382 The morphological identification of rumen ciliates54 was conducted with light
+383 microscopy, scanning electron microscopy, and confocal laser scanning microscopy. The
+384 morphological description and micrographs of the isolated ciliate species are summarized in
+385 Supplementary Fig. 1-3. The taxonomic identification of the collected single ciliates was
+386 confirmed by sequencing analysis of their 18S rRNA genes after the genome assembly. The
+387 ciliates in the rumen samples were counted using a Sedgewick-Rafter chamber as described
+388 previously54.
+389 Genome assembly and ciliate sequence identification
+
+bioRxiv preprint doi: https://doi.org/10.1101/2022.01.05.474053; this version posted January 5, 2022. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder. All rights reserved. No reuse allowed without permission.
+390 The cleaned Illumina reads of each WGA sequencing were assembled using both MEGAHIT
+391 (v1.2.1)55 and SPAdes (v3.13.1)56. The contigs assembled by the two assemblers were merged
+392 into longer contigs using quickmerge (v1.2.1)57.
+393 The sequence characteristics of rumen ciliates were identified as follows. Firstly, the
+394 ends (30 bp) of WGA contigs were used to identify telomeric repeats using MEME
+395 (v4.12.0)58, and the telomeric repeats of the collected morphospecies were all identified as
+396 (5’-CCCCAAT)n. Secondly, complete chromosomes (contigs that were capped with at least
+397 1.5 telomeric repeats without mismatch at both ends) were extracted from the WGA contigs
+398 using a python script32. Contigs with potential contamination sequences (each with a >20%
+399 GC content for the subtelomeric region (100 bp immediately adjacent to the telomere) and a
+400 GC content >44% GC for the rest of the contig) were filtered out with an error rate of 1%
+401 allowed.
+402 The publicly available rumen metagenomes (n=902, Supplementary Table 3) were
+403 downloaded from the NCBI SRA, and were assembled using MEGAHIT. These contigs were
+404 also subjected to decontamination as mentioned above. The decontaminated contigs from the
+405 SAGs and the metagenome-assembled contigs were combined into an 18 Gb sequence dataset
+406 of rumen ciliate macronuclear sequences, which were capped with telomeric repeats at one or
+407 both ends (Supplementary Fig. 4). The 18 Gb of contigs of ciliates plus other rumen
+408 microbial genomes2,36,38–40,43,59,60 were used as a reference to pick the ciliate sequences that
+409 do not have any telomeres in the WGA assembled sequences using blastn (v2.6.0+). The
+410 sequences with the best match to ciliate sequences (>85% identity over >500 bp and >50%
+411 coverage of reference or query) were considered as ciliate sequences.
+412 The telomereless contigs picked above and the telomere-capped contigs with >3X of read
+413 depth were retained in SAGs. Genome completeness of each SAG was assessed using
+414 BUSCO v561 with OrthoDB v1023 using the predicted protein-coding genes as input. Of the
+
+bioRxiv preprint doi: https://doi.org/10.1101/2022.01.05.474053; this version posted January 5, 2022. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder. All rights reserved. No reuse allowed without permission.
+415 69 SAGs (Supplementary Table 4), 52 had ≥80% of the 171 Alveolata conserved marker
+416 genes and were considered “high-quality”, while 17 had <80% of the Alveolata conserved
+417 marker genes.
+418 Gene prediction
+419 The ciliates in rumen fluid samples (n=14) were enriched by filtering (150 µm) and
+420 centrifugation (500 ×g for 5 min). The eukaryotic mRNAs in the ciliate-enriched samples
+421 were extracted and purified as previously described61, and used for metatranscriptome
+422 sequencing. The single-cell transcriptomic and metatranscriptomic sequencing reads were
+423 mapped to SAGs using Hisat2, and assigned to each species.
+424 Protein-coding genes were de novo annotated using AUGUSTUS (v3.2.3)62. Firstly, the
+425 WTA sequence reads were assembled using Trinity (v2.8.4)63. The assembled transcripts were
+426 used to train the de novo gene prediction model62. The best model was that of Pol.
+427 multivesiculatum with 93.5% sensitivity and 85.7% specificity at the exon level. Gene
+428 predictions of SAGs were performed also using AUGUSTUS and the best model with
+429 mapped RNA-seq data as ‘‘hints’’. The tRNAs-coding and rRNA genes were identified using
+430 tRNAscan-SE (v2.0.5) and Barrnap (v0.9), respectively.
+431 Circumscribing species
+432 The ANI and alignment coverage between genomes were calculated using pyani (v0.2.10)64
+433 with the default parameters. A clear gap existed between 92% and 97% in ANI values, and
+434 thus ANI >97% was considered synonym, and ANI <92% was inter-species circumscription.
+435 Phylogenomic tree construction and higher taxonomic rank normalization
+436 A total of 113 single-copy homologous genes were identified among the 19 representative
+437 genomes and Tet. thermophila genomes (as outgroup) by OrthoFinder (v2.5.2)28. These
+438 single-copy genes were aligned and concatenated into supergenes for ML-based phylogenetic
+439 using RAxML (v.8.2.9)65. A species tree was also constructed using OrthoFinder based on the
+
+bioRxiv preprint doi: https://doi.org/10.1101/2022.01.05.474053; this version posted January 5, 2022. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder. All rights reserved. No reuse allowed without permission.
+440 52 SAGs.
+441 The concatenated protein-based phylogeny of the 19 rumen ciliates species served as the
+442 basis for high taxonomic rank (at and above genus) normalization using the RED values
+443 calculated with PhyloRank (v0.1.0)25. The RED intervals for normalizing taxonomic ranks
+444 were defined as the median RED value for taxa at each rank ±0.1. Comparing the RED values
+445 with the RED intervals of taxonomic ranks, the taxa that fell outside of their RED distribution
+446 was corrected.
+447 Divergence time estimation and gene family expansion
+448 Divergence times of these species were estimated based on the ML tree via Bayesian relaxed
+449 molecular clock approach using MCMCtree program in the PAML package (v.4.9)66. The
+450 calibrated points of the common ancestor of rumen ciliate species (<135 Mya) and
+451 ophryoscolecid species (<55 Mya) were obtained from Vďačný et al.5.
+452 Orthologs gene families among the 52 SAGs were identified using the OrthoFinder. To
+453 reduce the limitation of single-cell genomes, the maximum gene number in each gene family
+454 among different SAGs of each species was used in the CAFE (v5.0)67 to infer the expansion
+455 and contraction of gene families.
+456 Functional annotation
+457 Functional annotation (KEGG, GO and COG) of the predicted proteins was performed using
+458 eggNOG mapper (v2.0.1) with the DIAMOND mapping mode, based on the eggNOG 5.0
+459 orthology data68. The protein domain was annotated using pfam_scan.pl compared to
+460 Pfam_A. CAZymes annotation was executed using dbCAN269 against the CAZyme database
+461 V9. The CAZymes were categorized with their corresponding EC number by aligning against
+462 uniprot_sprot and CAZyme database V9 using Diamond (v0.9.21.122) with an E-value cutoff
+463 of e-3.
+464 Identification of CAZymes with HGT signature
+
+bioRxiv preprint doi: https://doi.org/10.1101/2022.01.05.474053; this version posted January 5, 2022. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder. All rights reserved. No reuse allowed without permission.
+465 To compare the CAZyme numbers and profiles of rumen ciliates with rumen bacteria (n =
+466 2,405), gut fungi (n=8), non-gut Alveolate (n =13) (Supplementary Table 5), the CAZymes
+467 of the latter microbes were also annotated as above. The 2,405 rumen bacterial genomes
+468 served as the representative genome at species-level (ANI>95%) for the 4,941 metagenome-
+469 assembled genomes from Stewart et al.2 and 410 genomes from the Hungate 1000 project1.
+470 For each CAZyme (the same family with the same EC number), a phylogenetic tree
+471 among rumen ciliates and other microbes was constructed using IQ-TREE (v2.1.4-beta)70
+472 with 100 bootstrap replicates. The potential HGT events were inferred using the pipeline and
+473 cut-offs of Haitjema et al.39.
+474 Catalytic activity assay of cellulase and xylanase
+475 In vitro enzymatic activity assays were used to test the the cellulase (EC 3.2.1.4 in GH5) from
+476 rumen ciliate (Oph. caudatus) and its HGT donor (Treponema bryantii NK4A124), and
+477 xylanase (EC 3.2.1.8 in GH10) from rumen ciliate (Ost. gracile) and its HGT donor
+478 (Ruminococcus flavefaciens YRD2003). Four genes were codon-optimized according to P.
+479 pastoris preference. Construction of recombinant plasmids and heterologous expression and
+480 purification followed the procedures previously described71. The cellulase and xylanase
+481 activities were measured as previously described72,73. Each experiment was performed with
+482 three reaction replicates to determine the mean ± s.d. of the catalytic activity value of the
+483 enzymes.
+484 Catalytic activity assay of lysozyme
+485 The substrates and activity of one GH19 (it includes lysozyme and chitinase) protein of Oph.
+486 caudatus were examined after cloning into P. pastoris. The enzymatic substrate assay showed
+487 that it was a lysozyme, which activity were measured as previously described74. The
+488 antibacterial ability of this lysozyme was tested by inhibition of Micrococcus luteus (ATCC
+489 4698) and Escherichia coli (CVCC 3367), as a representative of Gram-negative and -positive
+
+bioRxiv preprint doi: https://doi.org/10.1101/2022.01.05.474053; this version posted January 5, 2022. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder. All rights reserved. No reuse allowed without permission.
+490 bacteria, respectively, zone assay on agarose plates.
+491 Sequencing reads classification
+492 The sequencing reads of 902 publicly available rumen metagenomes were classified using
+493 Kraken (v2.0.7-beta)75 against three custom databases: 1) Public database, consisting of all
+494 microbial genomes from RefSeq (release 201) plus rumen microbial genomes; 2)
+495 Public+SAGs database, 3) Public+Ciliates database, consisting of public database, all 52
+496 SAGs, and the ciliate-telomere-capped sequences from the 902 metagenomes.
+497 Data availability
+498 All sequencing data and assembled genomes have been deposited in the NCBI database with
+499 accession ID PRJNA777442. All other relevant data are available in this article and its
+500 Supplementary Information files, or from the corresponding author upon request.
+501 Acknowledgements
+502 This study was financially supported by the National Natural Science Foundation of China
+503 (U21A20247, 31822052, to Y.J., and 31902126, to Z.L.) and the China Postdoctoral Science
+504 Foundation (2019M663841, to Z.L.). We thank the High-Performance Computing Platform
+505 of Northwest A&F University for providing computing resources.
+506 Author contributions
+507 Z.L. and Y.J. conceived and supervised the project. Z.L., X.W., T.Z., Y.L., T.S. and X.X
+508 collected the samples. X.W., Z.L., Y.L., F.L., Y.H., H.H., J.N., and J.T. carried out the
+509 experiments. Z.L., Y.Z., X.W., T.Z., X.D., X.P., R.J., Y.Y., and S.G. performed bioinformatic
+510 analyses. Z.L. wrote the manuscript. Z.Y., Y.J., H.H., J.Y. and B.Y. revised the manuscript. All
+511 authors have read and approved the final manuscript.
+512 Competing interests
+513 The authors declare no competing interests.
+514
+
+bioRxiv preprint doi: https://doi.org/10.1101/2022.01.05.474053; this version posted January 5, 2022. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder. All rights reserved. No reuse allowed without permission.
+Figure legend
+515
+516 Fig. 1. Light micrographs of 22 rumen ciliate morphospecies and two cryptic species
+517 examined in this study, and a brief pipeline for recovering single-ciliate genomes. a, Iso.
+518 prostoma. c, Iso. intestinalis. e, Das. ruminantium. f, Ent. longinucleatum. g, Ent. bursa. h,
+519 Ent. caudatum. i, Dip. anisacanthum. j, Dip. dentatum. k, Dip. flabellum monospinatum. l,
+520 Dip. flabellum aspinatum. m, Eno. triloricatum. n, Met. minomm. o, Ere. rostratum. p, Ost.
+521 gracile. q, Ost. venustum. r, Ost. mammosum. s, Pol. multivesiculatum. t, Epi. caudatum. u,
+522 Epi. cattanei. v, Oph. bicinctus. w, Oph. caudatus. x, Oph. purkynjei. Iso. sp. YL-2021a (b)
+523 and Iso. sp. YL-2021b (d) were two cryptic species of Isotrichidae. Micrographs n and p
+524 show stained skeletal plates. Scale bars, 50 µm (a-x). More details of the rumen ciliates are
+525 shown in Supplementary Fig. 1.
+526
+527 Fig. 2. Genome-based taxonomy and phylogeny of rumen ciliates. a, A heatmap showing
+528 the ANI among the 52 SAGs and the scanning electron microscopy images of 22
+529 corresponding morphospecies and two cryptic species. b, ANI distributions. c, Rank
+530 normalization through relative evolutionary divergence (RED) of taxa. The red dot represents
+531 rank reassignment. The RED interval for each rank is shown by two vertical black lines,
+532 median±0.1. d, The maximum likelihood phylogenetic tree of 19 rumen ciliate species and T.
+533 thermophila (as the outgroup) based on 113 concatenated single-copy proteins. All nodes
+534 have 100% bootstrap support. The black asterisks indicate the two cryptic species identified
+535 in this study.
+536 Fig. 3. Genome characteristics of rumen ciliates. a Chromosome length (the red triangles
+537 indicate N50) and b genome size distributions across five subfamilies. c Functional
+538 divergence based on the clans of Pfam (P-value of Adonis < 0.001). d Rank curves showing
+539 gene number divergence in the subfamilies-shared gene families. e Gene family divergence:
+
+bioRxiv preprint doi: https://doi.org/10.1101/2022.01.05.474053; this version posted January 5, 2022. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder. All rights reserved. No reuse allowed without permission.
+540 From left to right: a time phylogenetic tree of 19 rumen ciliate species with gene family
+541 expansions and contractions; comparison of the gene family repertoires among the 19 ciliate
+542 species; a heat map showing the top 10 categories of domains found in order-specific gene
+543 families of each species.
+544 Fig. 4. CAZyme profiles of rumen ciliates. a, Max similarities (amino acid sequences) of
+545 the CAZymes identified in the rumen ciliates compared to the public databases for seven
+546 classes of CAZymes. GH, glycoside hydrolase; GT, glycosyl transferase; PL, polysaccharide
+547 lyases; CE carbohydrate esterases; AA, auxiliary activities; CBM, carbohydrate-binding
+548 modules, and SLH, S-layer homology modules. The numeric values in parentheses refer to
+549 the numbers of genes of each class. b, Number of CAZyme-coding genes in the
+550 representative genomes of five rumen ciliate subfamilies and gut fungi. c, A PCoA plot
+551 showing the CAZyme profiles across the five subfamilies (the color schemes are the same as
+552 in Fig 4b), and the P-value of Adonis is < 0.001. d-e, The mean number and prevalence of
+553 degradative CAZymes encoded in the genomes of rumen bacteria (n = 2,045), gut fungi
+554 (n=8), non-gut Alveolate (n =13), and the five subfamilies of rumen ciliates (n =19). f, An
+555 example for the xylanase (EC 3.2.1.8_GH10) of rumen ciliates originated via horizontal gene
+556 transfer (HGT) from rumen bacteria. g-h, Structural and activity divergences between rumen
+557 ciliates and its bacterial donors for cellulase and xylanase. The symbols *** represent a
+558 statistical significance of P-values < 0.001. i, Inhibition zone assays of a ciliate lysozyme in
+559 GH19.
+560 Fig. 5. Metagenomic analyses. a, The read classification rates as ciliates across rumen
+561 metagenomes of different hosts fed a diet with <80% concentrate; b, Improvement of
+562 classification rates of total reads in two previous studies2,76 enabled by the ciliate dataset; c,
+563 The association of read classification rates as rumen ciliates with diet and management44,77.
+564 Statistical significance was determined by the two-side Wilcoxon rank-sum test. Sheep were
+
+bioRxiv preprint doi: https://doi.org/10.1101/2022.01.05.474053; this version posted January 5, 2022. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder. All rights reserved. No reuse allowed without permission.
+565 fed diets with low-level concentrate (CON, control, n=8) or high-level concentrate that
+566 induced subacute ruminal acidosis (SARA, n=8)44. Holstein dairy cows were house fed a corn
+567 silage and concentrate diet (n=23) or grazed on a natural prairie (n=20)77. d, Relative
+568 abundance of rumen ciliates.
+569
+Supplementary figure legend
+570
+571 Supplementary Fig. 1. Morphological description and micrographs of the 19 studied rumen
+572 ciliate species including the identified synonymic and cryptic species. The micrographs from
+573 scanning electron microscopy, light microscopy, and confocal laser scanning microscopy; and
+574 the cited schematic diagram78 and morphological description6 are presented. The skeletal
+575 plate was stained by Lugo's iodine. Scale bars, 50 μm (a-x).
+576 Supplementary Fig. 2. Summary of rumen ciliates isolated from host animals (a) and
+577 genome-based subfamilies and genera (b).
+578 Supplementary Fig. 3. The difference in secondary caudal spines between morphospecies
+579 Oph. caudatus (three circles) and Oph. bicinctus (two circles).
+580 Supplementary Fig. 4. A pipeline for recovering single-ciliate genomes and gene prediction.
+581 The original array consists of three parts: public metagenomic data, metatranscriptomic data,
+582 and single-ciliate genomic and transcriptomic data from whole-genome and whole-
+583 transcriptome amplification sequencing.
+584 Supplementary Fig. 5. Comparison of genomes characteristics by different sequencing depth
+585 and assembly strategies. a-d, Contig N50, genome size, the ratio of telomere-capped contigs
+586 using different sequencing data size when the genomes were assembled by Megahit. e-f.
+587 Contig N50 and genome size, the ratio of telomere-capped contigs when the genomes were
+588 assembled by different assembly strategies: single software (Megahit, Spades) or hybrid
+589 assembly (Cd-hit and Quickmerge). Average size ratio of telomere-capped contigs in
+
+bioRxiv preprint doi: https://doi.org/10.1101/2022.01.05.474053; this version posted January 5, 2022. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder. All rights reserved. No reuse allowed without permission.
+590 Isotrichidae (g) and Ophryoscolecidae genomes (h) with different assembly strategies.
+591 Supplementary Fig. 6. a Pairwise average nucleotide identity (ANI) and coverage
+592 comparison calculated for the 52 SAGs. b Histogram of pairwise ANI values of
+593 morphospecies. c Pairwise nucleotide identity of 18S rRNA gene across SAGs.
+594 Supplementary Fig. 7. Species tree of 52 rumen single-ciliate genomes inferred using
+595 OrthoFinder with the coalescent model.
+596 Supplementary Fig. 8. Divergence time estimates within rumen ciliates inferred by
+597 MCMCtree. The estimated divergence times with 95% credibility intervals are labeled on
+598 each node.
+599 Supplementary Fig. 9. Key features of protein-coding chromosomes of Isotrichidae and
+600 Ophryoscolecidae, using Isotricha sp. YL-2021b and Polyplastron multivesiculatum as
+601 examples, respectively. Representative chromosome features are shown on average length.
+602 UTR, untranslated region; UTS, untranscribed region.
+603 Supplementary Fig. 10. Genome characteristics of rumen ciliates. Gene intron length (a)
+604 and genomic GC content (b), gene family richness (c) and profiles (d) across five
+605 subfamilies. e Number of gene families along with an additional SAG. f Comparison of the
+606 gene repertoires of 19 ciliate species. g The shared and unique gene families in the five
+607 subfamilies of rumen ciliates.
+608 Supplementary Fig. 11. The relative chromosome copy number distribution in rumen ciliate
+609 genomes.
+610 Supplementary Fig. 12 Comparison of the KEGG pathway repertoires of rumen ciliates.
+611 Significant differences among subfamilies were assessed with Fisher's exact test. a-dMeans
+612 with different superscripts within a row differ (P< 0.05).
+
+bioRxiv preprint doi: https://doi.org/10.1101/2022.01.05.474053; this version posted January 5, 2022. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder. All rights reserved. No reuse allowed without permission.
+613 Supplementary Fig. 13 Comparison of the Gene Ontology repertoires of rumen ciliates.
+614 Significant differences among subfamilies were assessed with Fisher's exact test. a-dMeans
+615 with different superscripts within a row differ (P< 0.05).
+616 Supplementary Fig. 14 Photomicrograph of rumen ciliates were engulfing a plant fiber
+617 Supplementary Fig. 15 Examples for the CAZymes of rumen ciliates originated via
+618 horizontal gene transfer from gut bacteria and fungi or via vertical inheritance from non-gut
+619 Alveolate.
+620 Supplementary Fig. 16 Examples for structural divergences of horizontally transferred
+621 CAZymes between ciliates and the corresponding donors
+622
+623 Supplementary Table 1 Background information on the single-ciliate-cell samples.
+624 Supplementary Table 2 Relative abundances of rumen ciliates across our collected samples
+625 and published studies as evaluated by microscopic counting.
+626 Supplementary Table 3 Characteristics and sources of rumen metagenomic datasets used in
+627 this study.
+628 Supplementary Table 4 The statistic information of the single-ciliate-cell amplified
+629 genomes.
+630 Supplementary Table 4 The statistic information of the single-ciliate-cell amplified
+631 genomes.
+632 Supplementary Table 5 The genomes of gut fungi (n=8) and non-gut Alveolate (n=13) used
+633 in this study
+634
+Reference
+635
+636 1. Seshadri, R. et al. Cultivation and sequencing of rumen microbiome members from the
+637 Hungate1000 Collection. Nat. Biotechnol. 36, 359–367 (2018).
+
+bioRxiv preprint doi: https://doi.org/10.1101/2022.01.05.474053; this version posted January 5, 2022. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder. All rights reserved. No reuse allowed without permission.
+638 2. Stewart, R. D. et al. Compendium of 4,941 rumen metagenome-assembled genomes for
+639 rumen microbiome biology and enzyme discovery. Nat. Biotechnol. 37, 953–961 (2019).
+640 3. Almeida, A. et al. A unified catalog of 204,938 reference genomes from the human gut
+641 microbiome. Nat. Biotechnol. 1–10 (2020) doi:10.1038/s41587-020-0603-3.
+642 4. Lynn (eds.), D. H. The Ciliated Protozoa: Characterization, Classification, and Guide to
+643 the Literature. (Springer Netherlands, 2008).
+644 5. Vďačný, P. Evolutionary Associations of Endosymbiotic Ciliates Shed Light on the
+645 Timing of the Marsupial–Placental Split. Mol. Biol. Evol. 35, 1757–1769 (2018).
+646 6. Williams, A. G. & Coleman, G. S. The Rumen Protozoa. (Springer-Verlag New York,
+647 1992).
+648 7. Park, T., Wijeratne, S., Meulia, T., Firkins, J. L. & Yu, Z. The macronuclear genome of
+649 anaerobic ciliate Entodinium caudatum reveals its biological features adapted to the
+650 distinct rumen environment. Genomics 113, 1416–1427 (2021).
+651 8. Gruby, D. & Delafond, H. Recherchessur des animalcules se devéloppant en grand
+652 nombredansl‘ estomacetdan les intestins pendant la digestion des animaux herbivores et
+653 carnivores. C R Acad Sci Paris 17, 1304–1308 (1843).
+654 9. Russell, J. B. Factors That Alter Rumen Microbial Ecology. Science 292, 1119–1122
+655 (2001).
+656 10. Firkins, J. L. Extending Burk Dehority’s Perspectives on the Role of Ciliate Protozoa in
+657 the Rumen. Front. Microbiol. 11, 17 (2020).
+658 11. Hobson, P. N. & Stewart, C. S. The Rumen Microbial Ecosystem. (Springer Netherlands,
+659 1997).
+660 12. Dehority, B. A. Rumen Ciliate Protozoa of the Blue Duiker (Cephalophus monticola),
+661 with Observations on Morphological Variation Lines Within the Species Entodinium
+662 dubardi. J. Eukaryot. Microbiol. 41, 103–111 (1994).
+
+bioRxiv preprint doi: https://doi.org/10.1101/2022.01.05.474053; this version posted January 5, 2022. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder. All rights reserved. No reuse allowed without permission.
+663 13. Tymensen, L., Barkley, C. & McAllister, T. A. Relative diversity and community
+664 structure analysis of rumen protozoa according to T-RFLP and microscopic methods. J.
+665 Microbiol. Methods 88, 1–6 (2012).
+666 14. Moon-van der Staay, S. Y. et al. The symbiotic intestinal ciliates and the evolution of
+667 their hosts. Eur. J. Protistol. 50, 166–173 (2014).
+668 15. Zhao, Y. et al. Utility of combining morphological characters, nuclear and mitochondrial
+669 genes: An attempt to resolve the conflicts of species identification for ciliated protists.
+670 Mol. Phylogenet. Evol. 94, 718–729 (2016).
+671 16. Li, Z. et al. Dynamics of methanogenesis, ruminal fermentation and fiber digestibility in
+672 ruminants following elimination of protozoa: a meta-analysis. J. Anim. Sci. Biotechnol. 9,
+673 (2018).
+674 17. Feng, J.-M. et al. Single-cell transcriptome sequencing of rumen ciliates provides insight
+675 into their molecular adaptations to the anaerobic and carbohydrate-rich rumen
+676 microenvironment. Mol. Phylogenet. Evol. 143, 106687 (2020).
+677 18. Blackburn, E. H. & Gall, J. G. A tandemly repeated sequence at the termini of the
+678 extrachromosomal ribosomal RNA genes in Tetrahymena. J. Mol. Biol. 120, 33–53
+679 (1978).
+680 19. Greider, C. W. & Blackburn, E. H. A telomeric sequence in the RNA of Tetrahymena
+681 telomerase required for telomere repeat synthesis. Nature 337, 331–337 (1989).
+682 20. Swart, E. C. et al. The Oxytricha trifallax Macronuclear Genome: A Complex Eukaryotic
+683 Genome with 16,000 Tiny Chromosomes. PLoS Biol. 11, e1001473 (2013).
+684 21. Hamilton, E. P. et al. Structure of the germline genome of Tetrahymena thermophila and
+685 relationship to the massively rearranged somatic genome. eLife 5, (2016).
+686 22. Macaulay, I. C. et al. G&T-seq: parallel sequencing of single-cell genomes and
+687 transcriptomes. Nat. Methods 12, 519–522 (2015).
+
+bioRxiv preprint doi: https://doi.org/10.1101/2022.01.05.474053; this version posted January 5, 2022. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder. All rights reserved. No reuse allowed without permission.
+688 23. Kriventseva, E. V. et al. OrthoDB v10: sampling the diversity of animal, plant, fungal,
+689 protist, bacterial and viral genomes for evolutionary and functional annotations of
+690 orthologs. Nucleic Acids Res. 47, D807–D811 (2019).
+691 24. Zheng, W., Wang, C., Lynch, M. & Gao, S. The Compact Macronuclear Genome of the
+692 Ciliate Halteria grandinella: A Transcriptome-Like Genome with 23,000
+693 Nanochromosomes. mBio 12, (2021).
+694 25. Parks, D. H. et al. A standardized bacterial taxonomy based on genome phylogeny
+695 substantially revises the tree of life. Nat. Biotechnol. (2018) doi:10.1038/nbt.4229.
+696 26. Parks, D. H. et al. A complete domain-to-species taxonomy for Bacteria and Archaea.
+697 Nat. Biotechnol. 1–8 (2020) doi:10.1038/s41587-020-0501-8.
+698 27. Jain, C., Rodriguez-R, L. M., Phillippy, A. M., Konstantinidis, K. T. & Aluru, S. High
+699 throughput ANI analysis of 90K prokaryotic genomes reveals clear species boundaries.
+700 Nat. Commun. 9, (2018).
+701 28. Emms, D. M. & Kelly, S. OrthoFinder: solving fundamental biases in whole genome
+702 comparisons dramatically improves orthogroup inference accuracy. Genome Biol. 16, 157
+703 (2015).
+704 29. Rumen microbiology: from evolution to revolution. (Springer, 2015).
+705 30. Chen, L. et al. Large-scale ruminant genome sequencing provides insights into their
+706 evolution and distinct traits. Science 364, eaav6202 (2019).
+707 31. Prescott, D. M. The DNA of ciliated protozoa. Microbiol. Rev. 58, 233–267 (1994).
+708 32. Maurer-Alcala, X. X., Yan, Y., Pilling, O. A., Knight, R. & Katz, L. A. Twisted Tales:
+709 Insights into Genome Diversity of Ciliates Using Single-Cell ‘Omics. Genome Biol Evol
+710 13 (2018).
+711 33. Hillis, D. M. & Moritz, C. Molecular Systematics. (Molecular Systematics, 1990).
+712 doi:10.1007/bf00162977.
+
+bioRxiv preprint doi: https://doi.org/10.1101/2022.01.05.474053; this version posted January 5, 2022. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder. All rights reserved. No reuse allowed without permission.
+713 34. La Terza, A., Papa, G., Miceli, C. & Luporini, P. Divergence between two Antarctic
+714 species of the ciliate Euplotes, E-focardii and E-nobilii, in the expression of heat-shock
+715 protein 70 genes. Mol. Ecol. 10, 1061–1067 (2001).
+716 35. Sharma, N. et al. Katanin regulates dynamics of microtubules and biogenesis of motile
+717 cilia. J. Cell Biol. 178, 1065–1079 (2007).
+718 36. Hess, M. et al. Metagenomic Discovery of Biomass-Degrading Genes and Genomes from
+719 Cow Rumen. Science 331, 463–467 (2011).
+720 37. Solomon, K. V. et al. Early-branching gut fungi possess a large, comprehensive array of
+721 biomass-degrading enzymes. Science 351, 1192–1195 (2016).
+722 38. Stewart, R. D. et al. Assembly of 913 microbial genomes from metagenomic sequencing
+723 of the cow rumen. Nat. Commun. 9, 870 (2018).
+724 39. Haitjema, C. H. et al. A parts list for fungal cellulosomes revealed by comparative
+725 genomics. Nat. Microbiol. 2, 17087 (2017).
+726 40. Solden, L. M. et al. Interspecies cross-feeding orchestrates carbon degradation in the
+727 rumen ecosystem. Nat. Microbiol. 3, 1274 (2018).
+728 41. Rubino, F. et al. Divergent functional isoforms drive niche specialisation for nutrient
+729 acquisition and use in rumen microbiome. ISME J. 11, 932–944 (2017).
+730 42. Shen, J., Liu, Z., Yu, Z. & Zhu, W. Monensin and Nisin Affect Rumen Fermentation and
+731 Microbiota differently in vitro. Front. Microbiol. 8, (2017).
+732 43. Gharechahi, J. et al. Metagenomic analysis reveals a dynamic microbiome with
+733 diversified adaptive functions to utilize high lignocellulosic forages in the cattle rumen.
+734 ISME J. (2020) doi:10.1038/s41396-020-00837-2.
+735 44. Ellison, M. J. et al. Diet Alters Both the Structure and Taxonomy of the Ovine Gut
+736 Microbial Ecosystem. DNA Res. 21, 115–125 (2014).
+737 45. Hook, S. E., Steele, M. A., Northwood, K. S., Wright, A.-D. G. & McBride, B. W. Impact
+
+bioRxiv preprint doi: https://doi.org/10.1101/2022.01.05.474053; this version posted January 5, 2022. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder. All rights reserved. No reuse allowed without permission.
+738 of High-Concentrate Feeding and Low Ruminal pH on Methanogens and Protozoa in the
+739 Rumen of Dairy Cows. Microb. Ecol. 62, 94–105 (2011).
+740 46. Marmeisse, R., Kellner, H., Fraissinet-Tachet, L. & Luis, P. Discovering Protein-Coding
+741 Genes from the Environment: Time for the Eukaryotes? Trends Biotechnol. 35, 824–835
+742 (2017).
+743 47. Gawryluk, R. M. R. et al. Morphological Identification and Single-Cell Genomics of
+744 Marine Diplonemids. Curr. Biol. 26, 3053–3059 (2016).
+745 48. Ahrendt, S. R. et al. Leveraging single-cell genomics to expand the fungal tree of life.
+746 Nat. Microbiol. 3, 1417 (2018).
+747 49. Zufall, R. A., McGrath, C. L., Muse, S. V. & Katz, L. A. Genome Architecture Drives
+748 Protein Evolution in Ciliates. Mol. Biol. Evol. 23, 1681–1687 (2006).
+749 50. Yan, Y., Maurer-Alcalá, X. X., Knight, R., Kosakovsky Pond, S. L. & Katz, L. A. Single-
+750 Cell Transcriptomics Reveal a Correlation between Genome Architecture and Gene
+751 Family Evolution in Ciliates. mBio 10, e02524-19, /mbio/10/6/mBio.02524-19.atom
+752 (2019).
+753 51. Or-Rashid, M. M., Odongo, N. E. & McBride, B. W. Fatty acid composition of ruminal
+754 bacteria and protozoa, with emphasis on conjugated linoleic acid, vaccenic acid, and odd-
+755 chain and branched-chain fatty acids1. J. Anim. Sci. 85, 1228–1234 (2007).
+756 52. Dean, F. B. et al. Comprehensive human genome amplification using multiple
+757 displacement amplification. Proc. Natl. Acad. Sci. U. S. A. 99, 5261–5266 (2002).
+758 53. Macaulay, I. C. et al. Separation and parallel sequencing of the genomes and
+759 transcriptomes of single cells using G&amp;T-seq. Nat. Protoc. 11, 2081–2103 (2016).
+760 54. Dehority, B. A. Ciliate protozoa. in Methods in Gut Microbial Ecology for Ruminants
+761 (eds. Makkar, H. P. S. & McSweeney, C. S.) 67–78 (Springer-Verlag, 2005).
+762 doi:10.1007/1-4020-3791-0_6.
+
+bioRxiv preprint doi: https://doi.org/10.1101/2022.01.05.474053; this version posted January 5, 2022. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder. All rights reserved. No reuse allowed without permission.
+763 55. Li, D. et al. MEGAHIT v1.0: A fast and scalable metagenome assembler driven by
+764 advanced methodologies and community practices. Methods 102, 3–11 (2016).
+765 56. Bankevich, A. et al. SPAdes: a new genome assembly algorithm and its applications to
+766 single-cell sequencing. J. Comput. Biol. J. Comput. Mol. Cell Biol. 19, 455–477 (2012).
+767 57. Chakraborty, M., Baldwin-Brown, J. G., Long, A. D. & Emerson, J. J. Contiguous and
+768 accurate de novo assembly of metazoan genomes with modest long read coverage.
+769 Nucleic Acids Res. gkw654 (2016) doi:10.1093/nar/gkw654.
+770 58. Bailey, T. L. et al. MEME Suite: tools for motif discovery and searching. Nucleic Acids
+771 Res. 37, W202–W208 (2009).
+772 59. Parks, D. H. et al. Recovery of nearly 8,000 metagenome-assembled genomes
+773 substantially expands the tree of life. Nat. Microbiol. 2, 1533–1542 (2017).
+774 60. Gilbert, R. A. et al. Toward Understanding Phage:Host Interactions in the Rumen;
+775 Complete Genome Sequences of Lytic Phages Infecting Rumen Bacteria. Front.
+776 Microbiol. 8, (2017).
+777 61. Wang, L. et al. The transcriptome of the rumen ciliate Entodinium caudatum reveals
+778 some of its metabolic features. BMC Genomics 20, 1008 (2019).
+779 62. Stanke, M. & Morgenstern, B. AUGUSTUS: a web server for gene prediction in
+780 eukaryotes that allows user-defined constraints. Nucleic Acids Res. 33, W465–W467
+781 (2005).
+782 63. Haas, B. J. et al. De novo transcript sequence reconstruction from RNA-seq using the
+783 Trinity platform for reference generation and analysis. Nat. Protoc. 8, 1494–1512 (2013).
+784 64. Pritchard, L., Glover, R. H., Humphris, S., Elphinstone, J. G. & Toth, I. K. Genomics and
+785 taxonomy in diagnostics for food security: soft-rotting enterobacterial plant pathogens.
+786 Anal. Methods 8, 12–24 (2015).
+787 65. Stamatakis, A. RAxML version 8: a tool for phylogenetic analysis and post-analysis of
+
+bioRxiv preprint doi: https://doi.org/10.1101/2022.01.05.474053; this version posted January 5, 2022. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder. All rights reserved. No reuse allowed without permission.
+788 large phylogenies. Bioinformatics 30, 1312–1313 (2014).
+789 66. Yang, Z. PAML 4: phylogenetic analysis by maximum likelihood. Mol. Biol. Evol. 24,
+790 1586–1591 (2007).
+791 67. Mendes, F. K., Vanderpool, D., Fulton, B. & Hahn, M. W. CAFE 5 models variation in
+792 evolutionary rates among gene families. Bioinformatics 36, 5516–5518 (2020).
+793 68. Huerta-Cepas, J. et al. eggNOG 5.0: a hierarchical, functionally and phylogenetically
+794 annotated orthology resource based on 5090 organisms and 2502 viruses. Nucleic Acids
+795 Res. 47, D309–D314 (2019).
+796 69. Zhang, H. et al. dbCAN2: a meta server for automated carbohydrate-active enzyme
+797 annotation. Nucleic Acids Res. 46, W95–W101 (2018).
+798 70. Minh, B. Q. et al. IQ-TREE 2: New Models and Efficient Methods for Phylogenetic
+799 Inference in the Genomic Era. Mol. Biol. Evol. 37, 1530–1534 (2020).
+800 71. You, S. et al. Insight into the functional roles of Glu175 in the hyperthermostable
+801 xylanase XYL10C-ΔN through structural analysis and site-saturation mutagenesis.
+802 Biotechnol. Biofuels 11, 159 (2018).
+803 72. Bailey, M. J., Biely, P. & Poutanen, K. Interlaboratory testing of methods for assay of
+804 xylanase activity. J. Biotechnol. 23, 257–270 (1992).
+805 73. Yang, H. et al. Impact of disulfide bonds on the folding and refolding capability of a
+806 novel thermostable GH45 cellulase. Appl. Microbiol. Biotechnol. 102, 9183–9192 (2018).
+807 74. He, H. et al. A Combinational Strategy for Effective Heterologous Production of
+808 Functional Human Lysozyme in Pichia pastoris. Front. Bioeng. Biotechnol. 8, 118 (2020).
+809 75. Wood, D. E., Lu, J. & Langmead, B. Improved metagenomic analysis with Kraken 2.
+810 Genome Biol. 20, 257 (2019).
+811 76. Shen, J. et al. Metagenomic Analyses of Microbial and Carbohydrate-Active Enzymes in
+812 the Rumen of Dairy Goats Fed Different Rumen Degradable Starch. Front. Microbiol. 11,
+
+bioRxiv preprint doi: https://doi.org/10.1101/2022.01.05.474053; this version posted January 5, 2022. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder. All rights reserved. No reuse allowed without permission.
+813 1003 (2020).
+814 77. Li, J. et al. A catalog of microbial genes from the bovine rumen unveils a specialized and
+815 diverse biomass-degrading environment. GigaScience 9, (2020).
+816 78. Dehority, B. A. Laboratory manual for classification and morphology of rumen ciliate
+817 protozoa. (CRC Press, 1993).
+818
+
+bioRxiv preprint doi: https://doi.org/10.1101/2022.01.05.474053; this version posted January 5, 2022. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder. All rights reserved. No reuse allowed without permission.
+Fig. 1
+
+bioRxiv preprint doi: https://doi.org/10.1101/2022.01.05.474053; this version posted January 5, 2022. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder. All rights reserved. No reuse allowed without permission.
+Fig. 2
+
+bioRxiv preprint doi: https://doi.org/10.1101/2022.01.05.474053; this version posted January 5, 2022. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder. All rights reserved. No reuse allowed without permission.
+Fig. 3
+
+bioRxiv preprint doi: https://doi.org/10.1101/2022.01.05.474053; this version posted January 5, 2022. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder. All rights reserved. No reuse allowed without permission.
+Fig. 4
+
+bioRxiv preprint doi: https://doi.org/10.1101/2022.01.05.474053; this version posted January 5, 2022. The copyright holder for this preprint
+(which was not certified by peer review) is the author/funder. All rights reserved. No reuse allowed without permission.
+Fig. 5
+

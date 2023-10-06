@@ -1,0 +1,1029 @@
+l
+MARINE ECOLOGY PROGRESS SERIES
+Published March 31
+Mar. Ecol. Prog. Ser.
+Global biogeography of marine tintinnids
+Richard W. Pierce *, Jefferson T. Turner
+Biology Department, and Center for Marine Science and Technology, University of Massachusetts Dartmouth,
+North Dartmouth, Massachusetts 02747, USA
+ABSTRACT: Literature records of tintinnid distributions (272 references, 1899 to 1992) were plotted
+with a computer. Distributions at the genus level revealed several distinct biogeographic patterns:
+cosmopolitan, neritic, warm-water, boreal, and austral. Some of the factors that may account for these
+patterns are examined. At the species level, certain disjunct distributions are examined, including the
+bipolar distribution of Acanthostornella norvegica and the interoceanic distributions of tropical
+tintinnids. Endemicism of species within certain genera, such as Codonellopsis, was also found.
+INTRODUCTION taxonomy is based upon morphology of the lorica, or
+shell. Because tintinnid loricae are relatively sturdy,
+Tintinnids (Protozoa, Ciliata) have been known to preserve well and are captured in flne-meshed
+marine biologists since the beginnings of plankton plankton nets, there are many records of tintinnid
+study (Haeckel 1873, Daday 1887), and records for occurrences scattered throughout the literature. In
+tintinnid occurrences appear from all the oceans of the addition to studies on tintinnids or microzooplankton,
+world (Pierce & Turner 1992). Tintinnid biogeographic many such records come from collection in phyto-
+distributions in relation to hydrography are well- plankton samples. Tintinnid loricae have also left a
+known for certain areas including the North Atlantic fossil record dating back to the Ordovician (Tappan &
+(Campbell 1942, Gaarder 1946, Zeitzschel 1966, 1967, Loeblich 1973). Unfortunately, from a taxonomic point
+Lindley 1975), South Atlantic (Balech 1971, Souto of view, sizes and shapes of tintinnid loricae are highly
+1981), Pacific (Kofoid & Campbell 1939, Campbell variable within species. This variability has led to a
+1942, Balech 1962), Mediterraneran Sea (Jorgensen proliferation of described species, many of which are
+1924, Balech 1959, Travers & Travers 1971, Travers probably not valid. Recent re-examinations of several
+1973), western Arabian Sea (Zeitzschel 1969, 1982), tintinnid species and genera have resulted in sugges-
+the coast of lndia (Krishnamurthy et al. 1979, Naidu & tions to reduce many species to synonyms (Burkovskii
+Krishnamurthy 1985), the Adriatic Sea (Krsinic 1982, 1973, Bakker & Phaff 1976, Davis 1978, 1981, Laval-
+1987a, b, 1988), the front between the Oyashio and Peuto 1981, 1983, Laval-Peuto & Brownlee 1986, van
+Kuroshio Currents (Yamamoto et al. 1981, Taniguchi der Spoel 1986, Boltovskoy et al. 1990). The protargol
+1983) and the Southern Ocean (Laackmann 1907,1909, silver-staining technique, which allows comparisons of
+Balech 1958a, b, 1971, 1973, Boltovskoy et al. 1989, infraciliary patterns, is used with increasing frequency
+Alder & Boltovskoy 1991a, b). Tintinnids as indicators for tintinnid taxonomy (Brownlee 1977, Sniezek et al.
+of upwelling have also been investigated by Balech 1991, Snyder & Brownlee 1991, Choi et al. 1992).
+(1972).N onetheless, a global synthesis of tintinnid bio- Due to their hard loricae, tintinnids are the best
+geography has not emerged. known group of marine ciliates, but the durability of
+A major barrier to defining tlntinnid biogeography loricae can also cause problems. Collection with
+is poor understanding of tintinnid taxonomy. This plankton nets has been found to cause tintinnids
+to abandon loricae (Paranjape & Gold 1982), and
+preservation may also destroy the fragile ciliate cell,
+' Present address and address for reprint requests: Graduate
+School of Oceanography, University of Rhode Island, leaving the lorica unaffected. Empty loricae sink at
+Narragansett, Rhode Island 02882, USA rates of up to 1.5 m d-' (Smayda & Bienfang 1983),a nd
+O Inter-Research 1993
+
+Mar. Ecol. Prog. Ser. 94: 11-26, 1993
+loricae of estuarine tint~nnidsc an be carried hundreds mation in the form of water temperature, salinity, and
+of kilometers offshore before settling to the sediments depth of occurrence, it also allows for the inclusion of
+(Echols & Fowler 1973). Thus, it is difficult to tell d data that would otherwise be unusable. In addition to
+empty loricae in samples were occupied at the time surveys and seasonal studies on tintinnids, information
+of collection, or were abandoned and transported to was also obtained from phytoplankton surveys and
+different areas by currents. For biogeographic studies, from larval fish and zooplankton feeding studies. Thus,
+it is important to know where an organism lives. Once although over 1400 locations have been included,
+this has been established, the presence of empty many locations have only been sampled once, or did
+loricae of alien species can be used as indicators of not identify all tintinnids which occur at that location.
+unusual water mass movements. Genus was used for plotting distributions for 3
+reasons: it eliminates many taxonomic problems due to
+possible species misidentifications or synonomy; many
+METHODS of the approximately 900 described tintinnid species are
+represented by fewer than 15 recorded occurrences;
+Information on tintinnid distributions came from the and use of genus allows inclusion of data from phyto-
+272 references listed in the Appendix. A data base was plankton surveys and larval fish feeding studies where
+constructed using species name, and latitude and lon- only genus-level identification of tintinnids is common.
+gitude of collection. When coordinates were not given, The use of genus also has limitations. Although taxo-
+they were approximated based on either location nomic groups such as genus are ideally monophyletic,
+names or maps included in the work. The resulting limitations in our knowledge often result in genera that
+data base includes over 17000 records, from more than are artificial (Balech 1975, Laval-Peuto 1981, 1983).
+1400 locations (Fig. l). Additionally, all members of a genus do not necessarily
+This data base was then used to produce maps show- share the same biogeographic distribution. Thus, al-
+ing the reports of each tintinnid genus. Six distribution though a genus may have a cosmopolitan distribution
+patterns emerged from these maps: cosmopolitan, due to many scattered species, no single species within
+warm-water, neritic, boreal, austral, and tropical the genus necessarily has a cosmopolitan distribution.
+Pacific. The criteria used in selecting these distribu- Therefore, some species-level distributions have been
+tions are discussed under each distribution. Genera included where appropriate.
+were then fit by eye and assigned to these categories.
+A few minor genera did not have enough data for as-
+signment to any distributional category. RESULTS AND DISCUSSION
+In order to use as much of the data as possible, only
+the presence of a tintinnid at a particular location was Table l assigns most of the extant tintinnid genera
+used. While this approach ignores much useful infor- to a biogeographic distribution category. Specific
+examples from each type of distribution
+are given in Figs. 2 to 18. We also discuss
+90
+each type of distribution, and some of the
+80
+70 physical and biological factors which may
+60 contribute to these distributions.
+50
+40 Cosmopolitan distribution
+30
+20
+9-m 10 Both Kofoid (1915) and Campbell
+= o (1954) considered most species of tintin-
+10 nids to have cosmopolitan distributions,
+20
+believing that most exceptions were due
+3 0
+to incomplete sampling. Fig. 1 shows the
+40
+locations of all data points used in our
+50
+6 o survey. Although large areas of the world
+70 ocean have not yet been sampled for
+80 tintinnids, enough data exist to deter-
+90
+150 100 so o 50 100 150 mine that most genera are not cosmo-
+Longiruae politan. Here we define cosmopolitan as
+occurring in all oceans from the Arctic,
+Fig 1. Locations of all occurrences used in this survey (n > 1400) through the tropics, and into the Ant-
+
+Pierce & Turner: Biogeography of tintinnids 13
+Table 1 Biogeographic distr~butiono f tintinnid genera Endemicism
+Cosmopolitan Warm water Although a genus may show a cosmopolitan distrib-
+Acanthostomella Amplectella ution, this is not necessarily true for all the species
+Amphorellopsis Ascampbelliella within the genus. Fig. 4 shows the distributions of 3
+Amphorides Brandtiella
+species of Codonellopsis. C. lagenula is restricted to
+Codonella Canthariella
+Codonellopsls Climacocylis the North Atlantic and Mediterranean (Jorgensen
+Coxliella Codonaria 1924, Gaarder 1946, Lindley 1975), C. gaussi to
+Dictyocysta Cyttarocylis the Southern Ocean (Laackmann 1907, 1909, Balech
+Epiplocylis Dada yiella
+Eutintinnus Daturella 1958a, b, 197 l, 1973, Boltovskoy et al. 1989, Wasik &
+Ormosella Epicancella Mikolajczyk 1990, Alder & Boltovskoy 1991b), and
+Parundella Epicranella C. ecaudata is found only in the tropical Pacific and
+Protorha bdonella Epiplocylo~des
+Indian Oceans (Kofoid & Campbell 1939, Campbell
+Salpingacantha Epiorella
+Salpingella Epirha bdonella 1942, Balech 1962, Zeitzschel 1982). Note that these
+Steenstrupiella Pelalotricha distributions are tentative, as the cellular morphology
+Undella Poroecus
+of none of these species is known.
+Rhabdonella
+Neritic Rhabdonellopsis Because of taxonomic problems, it is uncertain how
+Favella Rha bdosella many tintinnids are endemic, but as an example,
+Helicostomella Stelidiella there are 103 species of genus Tintlnnopsis listed in
+Leprotintinn us Undellopsls
+our data base. Of these, 27 have only been reported
+Metacylis Xystonella
+Stenosemella Xystonellopsis once, and another 11 can also be considered en-
+Stylicauda demic~.W hile many of these species are no doubt
+Tropical Pacific
+Tint inno psis
+synonyms, and our data base does not contain every
+Amplectellopsis
+Boreal Codonopsis record ever reported, this endemicism of species
+Para fa vella Cncundella within widely distributed genera appears to be a com-
+Ptychocylis
+mon pattern for tintinnids.
+Austral
+Cymatocylis
+Laackn~anniella Neritic distribution
+Seven tintinnid genera have been found to be ner-
+arctic, with no restrictions as to distance from shore. itic, or restricted to relatively shallow waters. These
+Cosmopolitan species do not necessarily occur in high include the genera Tintinnopsis (Fig. 5), Stenosemella
+arctic or antarctic waters, but they must
+occur in cold waters near these areas. It
+Codonellopsis
+would not be unexpected to find species
+90
+from cosmopolitan genera in any sample
+80
+from marine waters. Codonellopsis 70
+(Fig. 2) and Salpingella (Fig. 3) are exam- 60
+ples of genera showing cosmopolitan dis- 50
+tributions. A total of 16 genera including 40
+30
+Coxliella share this type of distribution
+:2 0
+(Table 1). 10
+The inclusion of the genus Coxliella is . 0
+somewhat problematic, however, since it l0
+has been shown that C. annulata and C. 20
+decipiens are phenotypic variations of 3 0
+4 0
+Favella eherenbergii (Laval-Peuto 1981, 50
+1983). It is unknown if the remaining 60
+members of the genus are valid species or 70
+alternate phenotypes of existing species, 80
+but Corliss (1979) suggested replacing 90
+150 100 50 0 50 100 150
+the family name Coxliellidae with the
+Long~tude
+name Metacylididae as it is questionable
+if any valid Coxliella exist. Fig. 2. Global distribution of the genus Codonellopsis
+
+14 Mar Ecol. Prog. Ser. 94: 11-26, 1993
+Salpingella Neritic genera exhibit several character-
+istics that may limit their distributions. Tin-
+90 I -
+tinnopsis, Stenosemella, Stylicauda, and
+Leprotintinnus are noted for the incorpo-
+ration of mineral flakes into loricae. Al-
+though other genera contain species that
+incorporate particles into their loricae, all
+species within these four genera do so.
+When offshore species of other genera
+such as Codonella, Codonaria, Codonel-
+lopsis and Dictyocysta incorporate parti-
+cles into the lorica, coccoliths are typically
+used (Gold & Morales 1977, Takahashi &
+Ling 1984). In culture, when deprived of
+suitable particles, Tintinnopsisproduces a
+clear, but much weaker lorica (Gold &
+Morales 1976). If mineral flakes are re-
+quired to strengthen the loricae, tintinnids
+..
+such as Tintinnopsis and Stenosemella
+Longitude
+may be restricted to shallow waters where
+Fig. 3. Global distribution of the genus Salplngella these particles are readily available. Not
+all neritic tintinnids incorporate particles
+in loricae, however, as demonstrated by
+0 Codonellopsis ecaudata n = 4 o Fa vella and Helicostomella.
+0 Codonellopsis gaussi n=53 Another characteristic of neritic tintin-
+o Codonellopsis Iagenula n=53 nids is the production of resting cysts.
+Cysts have been found in Tintinnopsis,
+on 1
+Stenosemella, Leprotintinn us, FaveUa,
+and Helicostomella. Other genera known
+to produce resting cysts include: Acan-
+thostomella, Amphondes, Cyttarocylis,
+Eutintinnus, Parafavella, Parundella,
+Rhabdonella, and Salpingella (Reid &
+John 1978). Smayda (1958) noted that
+many neritic diatoms also produce resting
+cysts, although not all such species do so.
+In shallow waters tintinnid cysts typically
+sink and are found in the sediments
+(Krsinic 1987a. Kamiyana & Aizawa 1990).
+When appropriate conditions are provided,
+excystment and repopulation of the
+plankton occurs rapidly (Kamiyana &
+Aizawa 1990, 1992).D arkness inhibits ex-
+cystment, suggesting that most cysts must
+Longitude
+be mixed back into the water column be-
+Fig. 4. Global distribution of Codonellopsis ecaudata, Codonellopsis gaussi, fore excystment can occur (Kamiyama &
+and Codonellopas lagenula
+Aizawa 1992).C ysts may be of little value
+for oceanic species, because once cysts
+(Fig. 6),H elicostomella (Fig. 7) and Favella (not shown). sink below the mixed layer, it is doubtful that they would
+These are the most familiar genera upon which all but ever be recruited back into the epipelagic population.
+a few of the laboratory experiments on feeding or other
+aspects of tintinnid ecology have been done. Although
+Warm-water distribution
+neritic tlntinn~dsm ay be collected offshore, this usually
+occurs in a major ocean current that has previously The largest number of genera occur in tropical and
+traveled along the coast, or near islands. temperate waters of the world's oceans (Table 1).
+
+Pierce & Turner: Biogeography of tintinnids
+Tintinnopsis there is an enigma with the circum-
+an global warm-water distribution at the
+species level. The distributions of Peta-
+lotricha ampulla (Fig. 10) and Rhab-
+donellopsis apophysata (Fig. 11) are 2
+examples of species with circurnglobal
+warm-water distributions. Although it is
+unknown if the Atlantic and Pacific pop-
+ulation~o f these tintinnids are isolated,
+their distributions suggest that genetic
+interchange between these populations
+would be rare. It may be that these
+species attained circumglobal distribu-
+tions before the emergence of the
+Central American Isthmus, and that
+their present distribution is a relict of
+previous times. Alternatively, Atlantic
+and Pacific populations of these and
+Longitude . ~ similarly dist- r ib- u ted planktonic organ-
+isms may be analagous species (Shih
+Fig. 5. Global distribution of the genus Tintinnopsis 1986).
+Analagous species are species that
+were once considered to be widely dis-
+Stenosemella tributed, but show subtle differences
+90 which justify splitting a single taxon into
+80 multiple distinct species. Analagous
+70 species typically occupy similar latitudi-
+60
+nal ranges in different oceans. Shih
+50
+(1979, 1986) discussed how this applies
+40
+30 to several calanoid copepods, most
+20 notably Calanus finmarchicus. Prior to
+l0 1948, C. finmarchicus was considered to
+.IE
+0
+; 1 0 be widely distributed throughout the
+20 northern hemisphere and around the
+30 southern portions of South America,
+Africa, Australia and New Guinea.
+40
+50 Presently the C. finmarchicus species
+60 group has been split into 8 species, each
+70
+with more restricted but sometimes
+80
+90 overlapping distributions. Although
+150 100 50 o so 100 150 there is evidence that some copepod
+Longitude morphology is the result of phenotypic
+variation due to environmental factors,
+Fig. 6. Global distribution of the genus StenoserneUa Frost (1989) and Sevigny et al. (1989)
+showed that subtle morphological dif-
+Although records of occurrence rather than water ferences in the copepod genus Pseudocalanus are
+temperatures were criteria for assigning this distribu- supported by biochemical evidence for these
+tion, 2 examples, Petalotricha (Fig. 8) and Rhabdonel- differences.
+lopsis (Fig. g), suggest that distributions of these The determination of analagous species in tintin-
+genera in the North Atlantic are limited by the Gulf nids is complicated by the large amount of morpho-
+Stream. The poleward distribution of warm-water logical variation of the loricae within a species
+species is probably limited by seasons, and fluctuations (Burkovskii 1973, Bakker & Phaff 1976, Davis 1978,
+in mean axes or meanderings of warm currents. 1981, Laval-Peuto 1981, 1983, Laval-Peuto & Brown-
+Although the distributions of genera may easily be lee 1986, van der Spoel 1986, Boltovskoy et al. 1990).
+explained by past connections between the oceans, This requires the application of techniques to
+
+16 Mar. Ecol. Prog. Set. 94: 11-26, 1993
+Helicostomella problematic in that they are represented by
+,.-
+only a few species, often based on few indi-
+viduals, and records for these genera are
+rarely reported in the literature. These gen-
+era are closely ahed with larger, more
+widely distributed genera, such as Am-
+plectella (for Amplectellopsis), CodoneJla
+(for Codonopsis), and Undella (for Cncun-
+della). Thus, many of the species within
+these 3 genera may be aberrant individuals
+of these larger genera.
+Boreal distribution
+Two genera, Parafavella (Fig. 14) and
+Ptychocylis (Fig. 15), have long been
+150 100 50 b 50 100 150 known to be restricted to cold waters in the
+Longitude Northern Hemisphere These tintinnids are
+not truly arctic as they are often found in
+Fig. 7 Global distribution of the genus Helicostomella subarctic waters (Kofoid & Campbell
+1929).C ape Hatteras is a well-known bio-
+g~cgr2phicb oundry on the American east
+coast (Ekman 1953, Pielou 1979), and
+Petalotricha
+-- appears to be the southern limit of these
+tintinnids in the western Atlantic. Cape
+Hatteras is near the area where the Gulf
+Stream turns away from the the coast and
+is deflected eastward. Similarly, in the
+North Pacific, the Kuroshio Current acts as
+the southern boundary for these species.
+As with warm-water genera, records of
+occurrence rather than water tempera-
+tures were used in assigning boreal
+distributions. There is an area of overlap
+between the warm and cold-water dis-
+tributions, which probably represents
+changes in tintinnid fauna due to seasonal
+temperature changes, or meandering of
+western boundary currents such as the
+Gulf Stream or the Kuroshio.
+150 100 50 0 SO 100 150
+Species identifications within Para-
+Lonoirude
+favella and Ptychocylis are complicated
+Fig. 8. Global distribution of the genus Petalotricha by the fact that both of these genera have
+been found to show a large amount of
+examine the tintinnid cell. Unfortunately, neither lorica variation within a species (Burkovskii 1973,
+genetic nor cell morphological differences between Davis 1978, 1981). It is uncertain how many of the 23
+populations of any tintinnid species have been Parafavella species described by Kofoid & Campbell
+studied. Thus, the true nature of many tintinnid (1929) are valid species. Burkovskii (1973) stated that
+species distributions will likely remain enigmatic there was so much variation and overlap of Parafavella
+until such study is done. specimens in the White Sea that only one species,
+A special subset of the warm-water distribution is found Parafavella den ticulata, was valid. Davis (19 78)
+in three genera restricted to the tropical Pacific, namely cautioned that this decision was premature, and that
+Arnplectellopsis (Fig. 12) and Codonopsis (not shown) cell morphology must be studied before this determi-
+and Cricundella (Fig. 13). These genera are somewhat nation can be made with confidence.
+
+Pierce & Turner: Biogeography of tintinnids
+Rha bdonellopsis species which should be viewed with
+skepticism, because they may represent
+misidentifications.
+Northern Hemisphere records for
+Cymatocylis have only been reported by
+2 authors, Silva (1953) and Lindley
+(1975). Silva (1953) reported a single
+specimen of C. subconica from the Lagoa
+de Obidos on the coast of Portugal. A
+brief discussion of the taxonomic hlstory
+of Cyn~atocylisi s relevant to under-
+standing the confusion surrounding this
+genus.
+When Kofoid & Campbell (1929)
+revised the genus Cymatocylis, they
+had to rely mostly on drawings from
+Laackrnann (1909), based on specimens
+from the 'Deutschen Siidpolar-Expedition
+1901-1903'. Laackmann had adopted a
+Longitude
+trinomial system of nomenclature, how-
+Fig. 9. Global distnbut~ono f the genus Rhabdonellopsis ever, and for each taxon described a forma
+typica followed by numerous 'Formen-
+kreise'. It appears that Laackmann tried to
+show the typical form of a species, along
+Petalotricha ampulla
+with variations which occurred. Current
+90
+thinking regarding the amount of varia-
+80
+tion of lorica morphology within a species
+70
+60 (Burkovskii 1973, Bakker & Phaff 1976,
+50 Davis 1978, 1981, Laval-Peuto 1981, 1983,
+40 Laval-Peuto & Brownlee 1986, van der
+30 Spoel 1986, Boltovskoy et al. 1990), sug-
+20
+: gests that most of these 'Formenkreise'
+l0
+53 o were aberrant examples with no taxo-
+2 10 nomic standing of their own. Kofoid &
+20 Campbell, however, in trying to adapt
+30 Laackmann's trinomial system to a bino-
+4 0 mial system, chose to raise each 'Formen-
+50
+kreis' to the level of species, cautioning
+60
+7o that this was tentative pending re-exami-
+80 nation of antarctic material. Unfortunately,
+90 Kofoid & Campbell never returned to this
+genus, and their classification has stood
+Long~tude
+since 1929. Many other genera and
+Fig. 10. Global distribution of Petalotricha ampulla
+species also established by Kofoid &
+Campbell require substantial revision. Of
+Austral distribution the 45 Cymatocylis species Kofoid & Campbell (1929)
+described, only 19 have subsequently been reported in
+Two genera, Cymatocylis (Fig. 16) and Laackman- the literature examined for this study.
+niella (Fig. l?)a re restricted to antarctic and subantarctic One of the species raised from the 'Formenkreis'
+waters. Like its Northern Hemisphere counterparts level was Cymatocylis subconica (Kofoid & Campbell
+Parafavella and PtychocyLis, CymatocyLis has been found 1929). This was based on 2 specimens Laackmann
+to show considerable plasticity in lorica structure withln named as Cymatocylis cristalina forma conica and
+a 'species' (van der Spoel 1986, Boltovsky et al. 1990). Cymatocylis flava forma conica. Silva's (1953) single
+The distributional maps of Cymatocylis, Parafavella, specimen is the only subsequent report of this species
+and Ptychocylis all contain records for anomalous since 1929.
+
+18 Mar. Ecol. Prog. Ser. 94: 11-26, 1993
+Rhabdonellopsis apophysata coverslip will distort many tintinnid
+loricae such that measurements of the lor-
+ica oral diameter are useless for identifi-
+cation. With appropriate measures, such
+as the use of Sedgwick-Rafter chambers,
+this problem is avoided. Kofoid (1915) de-
+scribed how distortion of some Dictyo-
+cysta specimens may have been respon-
+sible for the description of a 'new species'.
+Thus, it is possible that distorted or aber-
+rant specimens of the genus Ptychocylis
+could easily be mistaken for Cymatocylis.
+Lindley's records are also puzzling since
+the North Atlantic is one of the areas
+which has been well-surveyed for tintin-
+nids, and no other Cymatocylis specimens
+have been reported. However, Lindley
+has confirmed that Cymatocylis has been
+Longitude found in subsequent continuous plankton
+recorder tows in the North Atlantic (pers.
+Fig. 11. Global distribution of Rhabdonellopsis apophysata comm.).
+Tumantseva (1989) reported 24 speci-
+mens of Parafavella brandti in the
+Amplectellopsis subantarctic Pacific, even though other
+species of this genus appear centered in
+boreal waters. P. brandti is a problematic
+species, first described by Hada (1932) for
+specimens which fit the description of
+Parafavella gigantea, but lacked the
+characteristic oral denticles. Davis (1978)
+noted that it was not unusual to find a
+certain number of loricae of Parafavella
+lacking the oral denticles in any given
+sample, and the presence, absence, or
+number of oral denticles was not a con-
+servative taxonomic characteristic. How-
+ever, none of Turnantseva's specimens
+had oral denticles, otherwise they would
+have been classified as P. gigantea.
+Species within the genera Xystonella and
+Cyttarocylis possess reticulated loricae
+150 100 50 0 50
+which could be confused with the typi-
+Longitude
+cally hexagonal infrastructure of Para-
+Fig. 12. Global distribution of the genus AmplecteUopsis favella loricae. Neither Cyttarocylis or
+Xystonella have the well-defined oral
+denticles typically present in Parafavella.
+Lindley (1975) also reported at least 13 specimens of Rampi (1948) reported Ptychocylis urnula from the
+an unidentified Cymatocylis species collected with the Ligurian Sea near San Remo, Italy, but gave no other
+continuous plankton recorder. This device is possibly details except to note that it was rare. P. urnula is wide-
+not as gentle a method of collection as whole water spread m both the North Atlantic and North Pacific,
+samples, and although tintinnids are more sturdy than but Rampi's is the only record for this genus in the
+aloricate ciliates, their loricae are much more fragile Mediterranean despite 2 extensive surveys of Medi-
+than thecate dinoflagellates and copepods which terranean tintinnids (Jorgensen 1924, Balech 1959)
+appear to be collected by the continuous plankton and several extensive annual studies (Margalef &
+recorder with less distortion. Even the weight of a Morales 1960, Posta 1963, Travers & Travers 1971,
+
+Pierce & Turner: Biogeography of tintinnids 19
+Cricundella few specimens. Two of these species are
+also questionable members of the genus.
+9 0
+Since no micrographs or drawings were
+80
+70 given, it is impossible to confirm or deny
+60 that these reports are other than what the
+50 authors believed them to be. Assuming
+4 0
+that it would be difficult for these cold
+30
+water species to survive transport through
+20
+% l0 the tropics, and these genera have been
+r3 0 otherwise unreported in often thoroughly
+;
+l0 surveyed areas, it would not seem unrea-
+20 sonable to reassign these reports to the
+30
+category of 'unidentified tintinnids', a
+4 0
+category which usually accompanies any
+50
+survey of these organisms.
+Knowing the normal biogeographic
+ranges of certain tintinnid genera, work-
+ers who find what appear to be 'out of
+place' tintinnids would be alerted to the
+novelty of their find, and could take extra
+Fig. 13. Global distribution of the genus Cricundella steps to document these range exten-
+sions. It would be important to note if
+loricae of such individuals were empty or
+damaged, thus suggesting long-distance
+Parafavella transport. Conversely, if the loricae were
+90 occupied by the ciliate at the time of
+80 collection, it seems likely that it was
+70 either living where it was caught, or was
+60 not transported from a great distance.
+50
+4 0
+30
+20 Bipolarity
+g
+l0
+-r3 0 Acanthostomella norvegica (Fig. 18) is
+;
+l0
+the only tintinnid we found to have a bi-
+20
+polar distribution. If real, this distribution
+30
+4 o is puzzling, since Smayda (1958) argued
+so that bipolarity cannot exist in either the
+60 phytoplankton or the zooplankton, sug-
+70 gesting that organisms which appear to
+80
+show bipolarity are actually cosmopolitan,
+90
+150 100 so o so 100 150 existing at depth within the tropics. We
+Long~tude discuss 4 possible explanations to explain
+the bipolar distribution of A. norvegica.
+Fig. 14. Global distribution of the genus ParafaveUa (1) The species may exist at depth in the
+tropics but has not yet been discovered.
+This seems unlikely since, in terms of
+Travers 1973, Rassoulzadegan 1979). Although it is tintinnids, the North Atlantic has been one of the most
+possible that Rampi's record could be an indication thoroughly surveyed locations of the ocean, yet this
+of an intrusion of North Atlantic water into the Medi- species has been found only in the colder parts of this
+terranean Sea, the distance to the next closest report of area. (2) Since the genus Acanthostornella is cosmo-
+Ptychocylis (Fig. 15) makes this seem unlikely. politan (Kofoid & Campbell 1939, Campbell 1942,
+It is interesting that these anomalous records are for Gaarder 1946, Balech 1971, Lindley 1975, Taniguch
+genera known to have highly variable lorica mor- 1977, Souto 1981),t he species A. norvegica may be poly-
+phology, and that these records were based upon very morphic and cosmopolitan, existing in the tropics as a
+
+Mar. Ecol. Prog. Ser. 94: 11-26, 1993
+Ptychocylis Oyashio, but that this species was not col-
+lected in the warm Kuroshio. No other
+90
+member of this genus was present in the
+80
+70 Kuroshio even though A. norvegica was
+60 very abundant in Oyashio waters. (3) The
+50 northern and southern populations of
+40 A. norvegica are possibly an example of
+30
+convergent evolution within the genus.
+20
+Unfortunately, we have no information to
+l0
+.3 I 0 either support or refute this hypothesis,
+y 10 although the application of genetic tech-
+20 niques and protargol silver staining may
+30
+give us some insight in the future. (4)
+4 0
+A. norvegica may have had a continuous
+50
+distribution in the past, perhaps during
+the ice ages, but when the tropics
+warmed the species' distribution con-
+tracted toward the poles.
+150 100 50 0 SO 100 150
+Hypothesis (4) is what Pielou (1979)
+Longilude
+classified as an evolutionary disjunction.
+Fig 15. Global distribut~ono f the genus Ptychocylis The most notable example of an evolu-
+tionary disjunction is demonstrated by
+the euphausid Thysanoessa qregada, in
+which the northern and southern popula-
+tions have not yet shown any apparent
+morphological or genetic divergences
+(Pielou 1979). Pielou also noted, how-
+ever, that for this mechanism to work, the
+species involved must be restricted to the
+upper 200 m of the water column. Below
+this depth, water is relatively unaffected
+by atmospheric conditions, and organ-
+isms living there can travel more freely
+from pole to pole.
+In one of the few studies on the vertical
+distribution of tintinnids, KrSiniC (1982)
+found that over 90 % of the tintinnid pop-
+ulation in the open waters of the Adriatic
+Sea lived in the top 100 m of the water
+column. Those species commonly found
+at depths of greater than 100 m were
+rarely found at shallower depths.
+Acanthostomella norvegica is typically
+Fig. 16. Global distribution of the genus Cymatocylis found in the surface waters in both parts
+of its range, and so this distribution may
+be the result of an evolutionary disjunc-
+form morphologically different enough from its polar tion. Unfortunately, the fossil record for tintinnids is in-
+conspecific to be currently considered a different complete, so we may never be able to further examine
+species. Temperature has been shown to cause differ- this hypothesis. It is also doubtful that the tropics
+ences in lorica formation in other species (Gold & would be cool enough for this species even during
+Morales 1974,1975),b ut most of this variation is in lorica periods of glaciation (CLIMAP Project Members 1976).
+length. Lorica length is recognized as a highly variable Smayda (1958) concluded that bipolar distributions
+character, and does not seem to be a major cause of tax- are probably not due to the transport of diapausing
+onomic confusion in this case. Also, Taniguchi (1983) cysts, and we agree in the case of Acanthostomella
+found that A. norvegica was a good indicator of the cold norvegica, even though this species is known to pro-
+
+Pierce & Turner: Biogeography of t~ntinnids 2 1
+Laackmanniella duce resting cysts. Tintinnid cysts proba-
+bly have high enough sinking rates to be
+90
+80 deposited in the benthos under the
+70 planktonic range of a species, rendering
+60 transoceanic deep transport through the
+50 tropics unlikely.
+40
+30
+20
+CONCLUSION
+10
+0
+10 Biogeography is the study of organisms
+20 and their distributions in space and time.
+30
+These distributions are the end sum of
+40
+all biotic and abiotic factors, and thus
+50
+60 a knowledge of biogeography is highly
+70 relevant to ecological questions. This
+80 investigation shows that tintinnids are
+90
+an appropriate topic for global biogeo-
+graphic studies. Although identification
+at the species level is often problematic,
+Fig. 17. Global distribution of the genus Laackmanniella genus may be useful. Laval-Peuto (1981,
+1983), however, demonstrated that even
+genus-level identifications may be com-
+plicated in some instances by life-cycle
+Acanthostomella norvegica
+events.
+Many of the possible environmental
+factors limiting tintinnid distributions are
+discussed in this paper, but the relative
+importance of these factors to tintinnid
+distributions remains unclear. There are
+also many other questions which remain
+unanswered. For example, how does the
+presence of empty loricae in plankton
+samples affect our notions of tintinnid
+distributions? We do not know much
+about transport of empty loricae and how
+long empty loricae remain intact in the
+water column since sinlung rates have
+only been calculated for a few species
+(Smayda & Bienfang 1983).T hus, before
+we can answer the problems regarding
+150 100 50 0 50 100 1'50
+tintinnid biogeography, especially their
+Longitude
+use as indicator organisms, many more
+Fig. 18. Global distribution of the genus Acanthostomella norvegica questions need to be answered.
+Appendix. Sources of biogeographic data
+Abboud-Abi Saab, M. (1989).J . Plankton Res. 11: 203-222 Bakker, C.P haff, W. J. (1976). Hydrob~ologla5 0 101-111
+Adm~raal,W , Venekamp, L. A. H (1986). Neth J. Sea Res. 20: Balech, E (1942) Physis, B. Aires 19: 242-252
+6 1-66 Balech, E. (1944) Physis, B. Aires 19: 423-446
+Alder, V. A., Boltovskoy, D. (1991a).P olar Biol 11 103-112 Balech, E. (1945). Physis, B. Aires 20: 1-15
+Alder. V. A., Boltovskoy, D. (1991b) Mar Chem 35. 337-346 Balech. E. (1947). Physis, B. Aires, 20: 75-91
+Andersen, P.. Ssrensen, H. M. (1986). Mar. Ecol. Prog. Ser. 33: Balech. E. (1948). Comun. Mus. argent. Clenc. nat. Bernardino
+99-109 Rivadavia Inst. nac. Invest. Cienc. Zool. 7: 1-23
+Ayukai. T. (1987).M ar. microb. Food Webs 2: 45-52 Balech. E. (1958a). Vie Milieu 8: 382-408
+Ayukai. T. (1991).J . Plankton Res. 13: 895-899 Balech. E. (1958b). Physis. B. Aires, 21: 75-108
+(Appendix continued on next page)
+
+22 Mar. Ecol. Prog. Set. 94: 11-26, 1993
+Appendix (continued)
+Balech. E (1959a).C alif. coop. ocean. Fish. Invest 1: 127-132 Dale, T., Dahl. E. (1987). J. Plankton Res. 9: 871-879
+Balech, E. (1959b). Trab. Inst. esp. Oceanogr. 28: 1-88 Dale. T. (1988).S arsia 73: 179-191
+Balech, E. (1962). Revta. Mus. argent. Cienc. nat. Bernardino Dale. T. (1989). Arch. Protistenk. 137: 45-55
+Rivadavia Inst. nac. Invest. Cienc. Zool. 7: 3-249 Davis. C. C. (1950).Q . J. Fla Acad. Sci. 12: 67-103
+Balech. E., El-Sayed, S. 2. (1965).I n: Arner. Geophys. Union. Biology Davis, C. C.. Williams, R. H (1950).E cology 31: 519-531
+of the Antarctic Seas. Antarctic Research Series 5: 107-124 Dav~sC, . C. (1978). Can J Zool. 56: 1822-1827
+Balech, E (1967).B ull. mar SCI.1 7. 280-298 Dav~sC, C. (1981).J . Plankton Res. 3: 433-443
+Balech. E (1968). Revta. Mus argent. Cienc. nat Bernard~no Davls. C C. (1982). lnt Revue ges Hydrobiol. 67 713-747
+Rivadavia Inst. nac. Hidroblologla 2: 165-197 Dav~sC, C. (1985). Int Revue ges. Hydrobiol. 70 21-26
+Balech. E. (1971). Revta. Mus. argent. Cienc. nat Bernardino Dav~sC, C. (1986). Int. Revue ges. Hydrobiol. 71. 1147
+Rivadavia Inst. nac. Hidrobiologia 3: 1-202 Dohi. K. (1982). Bull. Plankt. Soc. Japan 29: 77-87
+Balech. E. (1973). Contrnes Inst. antarct. argent. 107: 3-63 Dolan, J. R. (1991).E stuar. coast. Shelf Sci. 33: 137-152
+Balech, E. (1975). Physis. B. Aires. 34: 377-398 Dolan. J. R.. Coals, D. W (1991). Mar. microb. Food Webs 5: 81-93
+Balech. E.. Souto, S. (1980). Physis, B Aires, Secc. A 39: 1-8 Duran. M. (1957). lnvestigacion pesq.. Barcelona 8: 97-120
+Barna de Cao, M. S. (1986). Boln. Inst. esp. Oceanogr. 3 143-150 Duran, M. (1965).T rab. Inst esp. Oceanogr. 32: 1-29
+Beers, J. R., Stewart, G. L. (1967).J F~shR. es Bd Can. 24- 2053-2068 Faria, J G De, Cunha, A. M Da (1917).M ems. Inst. Oswaldo Cruz
+Beers, J R., Stewart, G. L. (1969).J . Cons. int. Explor Mer 33: 30-44 9. 68-93
+Beers, J. R., Stewart, G. L. (1970) Bull Scripps lnst Oceanogr (New Fornshell, J. A. (1979) J Protozool. 26: 270-272
+Ser.) 17 67-87 Gaarder, K. R. (1946). Rep. sclent. Res. 'Michael Sars' N. Atlant.
+Beers. J. R.. Stewart, G. L. (1971). Deep Sea Res. 18: 861-883 deep Sea Exped. 1910 2: 1-37
+Beers, J. R., Stevenson, M. R., Eppley, R. W., Brooks, E. R. (1971). Gast. V. (1985). Mar. Ecol. Prog. Ser. 22: 107-120
+Fish. Bull. 69: 859-879 Gilron. G. L.. Lynn, D. H. (1989a).M ar. Biol. 103: 413416
+Beers, J. R., Reid, F. M. H., Stewart, G. L. (1975). Int. Revue ges. Gilron. G. L.. Lynn, D H. (1989b). Estuar. coast. Shelf Sci. 29: 1-10
+Hydrob~ol6 0: 607-638 G~lron,G . L., Lynn, D. H., Sm~tn,I. P. (1990). Carib J. Sci. 26:
+Bigelow, H. B (1928). Bull. U S Bur. Flsh. 40: 1-509 152-162
+Blackbourn, D J. (1974).P h D. thes~sU, niversity of Bnt~shC olumbia, G~lronG, L., Lynn, D. H., Roff, J. C. (1991).M ar. m~crobF ood Webs
+Vancouver, B.C. 5- 95-1 13
+Boikova, E. (1984). Ophelia. Suppl. 3: 23-32 Gold, K (1974). Biol. Bull. mar. b~olL. ab., Woods Hole 147: 477
+l3s:tov;koy. D., Aldcr, V. A.. Spir?el!l. F (1984). Polar Biol. 9: 447456 Gold, K., Morales, E. (1974).J . Protozool. 21: 442
+Boltovskoy. D.. Dinofrio. E. 0.. Alder. V. A. (1990). J. Plankton Res. Gold. K., Morales. E. (1975a).J . Protozool. 22: S'LW528
+12: 4034 13 Gold. K.. Morales, E. (1975b). Trans. Am. microsc. Soc. 94: 142-145
+Brownlee, D. C. (1977). M.S. thesis, University of Maryland Gold. K.. Morales, E. (1975~)B iol. Bull. mar. biol. Lab.. Woods Hole
+Brownlee, D. C,J acobs, F. (1987) In Majumdar, S. K,H all, L. W. Jr, 149 427
+Austln, H M. (eds.)C ontaminant problems and management of Gold, K, Morales, E. (1976) Biol Bull. mar. biol Lab, Woods Hole
+living Chesapeake Bay resources Penn. Acad. SCI,p 217-269 150 377-392
+Burkovslui, I. V (1973). Zooloy~chesk~Zih . 52: 1277-1285 Gold, K., Mo.r ales. E. (1977) J Protozool. 24: 580-587
+Burkovsk~i,I V, Zamyshlyak. E. A.. Poskryakova, N P (1974). Govon~J, J Hoss. D. E.. Chester. A. J. (1983).M ar. Ecol. Prog. Ser.
+Zoologicheskii Zh. 53: 1757-1766 13: 189-199
+Burkovskii. 1. V. (1976). Zoologicheskii Zh. 55: 325-336 Govoni. J. J.. Chester. A. J. (1990).J . Plankton Res. 12: 819-830
+Burns. D. A. (1983). N.Z. J. mar. Freshwal. Res. 17: 387406 Graziano. C. (1989). Estuar. coast. Shelf Sci. 29: 233-245
+Bursa. A. (1961). J. Fish. Res. Bd Can 18: 51-83 Hada, Y. (1932a). J. Fac Sci Hokkaido Univ. Ser. V1 Zool. 2: 37-59
+Calderon-Aragon, L. D. C.. Lopez-Ochoterena, E (1973) Revta Hada, Y (1932b). Proc. imp. Acad. Japan 8: 209-212
+Soc. mex Hist. Nat. 34: 71-86 Hada, Y. (1932~)S.c ient Rep Tohoku imp. Unlv, 4th Ser Biol. 7:
+Campbell, A S. (1926a).U niv. Callf. Publs Zool. 29: 237-239 553-573
+Campbell, A S. (1926b).U niv Calif Publs Zool. 29: 179-236 Hada, Y. (1937).J . Fac. Scl. Hokka~doU niv., Ser. V1 2001. 5: 143-216
+Campbell. A. S. (1927). Univ. Calif. Publs Zool. 29: 429452 Hada, Y (1970). JARE SCI.R ep.. Ser. E 31: 1-51
+Campbell. A. S. (1942). Publs Carnegie lnstn 537: 1-163 Hada. Y (1972). In: Takenouti. A. Y. (ed.) Biological oceanography
+Capriulo. G. M. (1982). Mar. Biol. 71: 73-86 of the northern North Pacific Ocean. Idemitsu Shoten, Tokyo.
+Capriulo, G. M.. Ninivaggi, D. V. (1982). Annls Inst. oceanogr.. Paris p. 173-188
+58(S): 325-334. Hansen, P. J. (1989). Mar. Ecol. Prog. Ser. 53: 105-116
+Capriulo, G M Carpenter, E. J. (1983). Mar. Ecol Prog. Ser. Hara. S.. Tanoue, E. (1985) Trans Tokyo Univ. Fish 6 99-1 15
+10: 277-288 Hargraves, P. E. (1981).J . Plankton Res. 3: 81-91
+Capriulo, G. M.. Taveras, J., Gold, K. (1986).M ar. Ecol Prog. Ser. Hattor], H., Yuki, K., Zaitsev, Y P, Motoda, S. (1983).M er, Tokyo
+30: 145-158 21 11-20
+Cardinal, A., Lafleur, P. E., Bonneau, E. (1977). Acta Protozool., Hedin, H. (1974). Zoon 2: 123-133
+Warsz 16: 15-22 Hedin, H. (1975a). Zoon 3: 11-18
+Chang. F. H. (1983). N.Z. J. mar. Freshwat. Res. 17: 279-304 Hedin. H. (1975b). Zoon 3: 125-140
+Chang. F. H. (1990). N.Z. J. mar. Freshwat. Res. 24: 187-195 Hedin. H. (1976a). Zoon 4: 3-10
+Chester. A. J. (1978). NOAA Tech Rep. ERL 403-PMEL 30 Hedin. H. (1976b). Acta zool, Stockh. 57: 113-118
+Cleve, P. T. (1899). Ofvers. K. VetenskAkad. Forh. 56. 969-975 Helmdal, B R., Taasen, J. P , Elbrachter, M. (1977).S arsia 63. 75-83
+Cleve, P T. (1900a).G oteborys K. Vetensk.-o. VitterhSamh Handl. Hembokel, J F. (1977).P h.D. dissertation. Univ. Cal~f.S, an D~ego
+3: 3-369 He~nbokelJ,. F (1978a).M ar. B~ol4 7 177-189
+Cleve, P. T. (1900b) Ofvers. K. VetenskAkad. Forh. 57 919-938 Heinbokel, J. F (1978b). Mar B1o1. 47: 191-197
+Cleve, P T (1902). Goteborgs K. Vetensk.-o. VitterhSamh Handl. Heinbokel. J. F.. Beers, J. R. (1979). Mar. B~ol5. 2: 23-32
+4: 13-51 Heinbokel. J. F.. Coats, D. W. (1984). Antarct. J. 19: 111-113
+Coats, D. W.. Heinbokel, J. F. (1982). Mar. Biol. 67: 71-79 Heinbokel. J. F.. Coats, D. W. (1986). Mar. Ecol. Prog. Ser. 33: 71-80
+Coats, D. W. (1988). J. Protozool. 35: 607-617 Heinbokel. J. F. (1987). Mar. microb. Food Webs 2: 1-14
+Coats, D. W.. Heisler. J. J. (1989) Mar. B~ol 101: 401409 Heinbokel. J. F. (1988).M ar Ecol. Prog. Ser. 47: 239-248
+Cortois, R,D odson. J. J. (1986).C an J. F~sha. quat. Sci 43. 968-979 Hermosllla, J G. (1972).B oln Soc. B~olC oncepcion 44: 149-159
+Cosper, T C (1972) Bull. mar. Scr. 22 391-417 Hermosllla, J G (1973).B oln Soc B~olC. oncepcion 46: 11-36
+Dakin. W. J,C olefax, A. N. (1940).P ubl. Univ. Sydney. Zool Dept Hermos~llaJ, G. (1975).G ayana 34. 3-55
+Monograph No. 1 Hernroth, L. (1983).J . Plankt. Res. 5 835-846
+Dale, T. (1987) mar. rnicrob. Food Webs. 2: 15-28 Hopk~nsT. L. (1966). Publs. Inst. mar. Sci. Univ. Tex 11. 12-64
+
+Pierce & Turner: Biogeography of tintinnids 23
+Appendix (continued)
+Jahn, A E. Gadomski, D. M, Sowby, M L. (1988).F ish. BuU. U S Nakashima, J., Kimoto, K. (1989). Bull. Seikai reg. F~sh Res. Lab.
+86 251-262 67: 7-13
+James. M. R. (1989). N.Z. J. mar. Freshwat. Res. 23: 507-518 Okamura, K. (1907). Annotnes 2001. japon. 6: 125-151
+Jenkins. G. P. (1987).J . expl. mar. Blol. Ecol. 110: 147-170 Ogilvie. H. S. (1927). Rept Flsh. Bd Scotl. 1: 1-10
+Jenkins, G. P. (1988). Mar. Ecol. Prog. Ser. 43: 233-244 Ogilvie, H. S. (1938). Rapp. P.-v. Reun. Cons. perm. int. Explor. Mer
+Johansen. P. L. (1976). Ph.D. thesis. Dalhousie Univ., Halifax 107: 57-66
+Jorgensen. E. (1924). Rep. Dan. oceanogr. Exped. Mediterr. 2: 1-1 10 Osono-Tafall. B. F. (1941). Revta Soc. mex. Hlst. Nat. 2: 147-173
+Kamiyama. T.. Aizawa. Y (1987). Bull. Plankt. Soc. Japan 34: Ostenfeld, C. H. (1901). Vidensk. Medder. dansk naturh. Foren.
+185-191 1901: 128-133
+.
+Karniyama. T Aizawa, Y. (1990). Bull. Plankt Soc. Japan 36: 137-139 Ostenfeld, C. H., Schmidt, J. (1901). Vidensk Medder. dansk
+Kawakaml. R. Ayukai, T., Taniguchl, A (1985).B ull. Plankt. Soc. naturh. Foren. 1901 141-182
+Japan 32 171-172 Paranjape, M. A. (1980) J exp. mar. Biol. Ecol. 48. 23-33
+Kimor. B , Golandsky, B. (1977).M ar Biol 42: 55-67 Paranjape, M. A., Gold. K. (1982). Annls Inst. oceanogr.. Paris 58(S):
+Kimor. B.. Golandsky-Baras, B. (1981). J. Plankton Res. 3: 445459 143-150
+Kofoid. C. A. (1905). Univ. Calif. Publs Zool. 1: 287-306 Paranjape, M. A. (1987a). Can. J. Zool. 65: 41-48
+Kofoid, C. A.. Campbell. A. S. (1929).U niv. Calif. Publs Zool. 34: 1-403 Paranjape, M. A. (1987b). Mar. Ecol. Prog. Ser. 40: 239-246
+Kofoid. C. A.. Campbell. A. S. (1939). Bull. Mus. comp. Zool. Haw. Paranjape, M. A. (1990). Mar. Biol. 107: 321-328
+84: 1473 Paredes, J. F. (1970). Mems Inst. Invest. cient. Mocamb. 10(Series
+Komarovsky. B. (1959). Bull. Sea Fish. Res. Stn Israel 21: 1-40 A): 109-123
+Komarovsky. B. (1962). Bull. Sea Fish. Res. Stn Israel 30: 48-56 Pierce, R. W. (1992). M.S. thesis, University of Massachusetts, Dart-
+Konovalova. G. V., Rogachenko, L A. (1974). Oceanology (a trans- mouth
+Iatlon of Okeanologiia) 14: 561-566 Posta, A. (1963).C ah Blol. mar. 4: 201-210
+Krause, M,K attner, G. (1989).J . Plankton Res. 11: 85-103 Prasad, R. R. (1956). Indian J. Fish. 3: 1-42
+Krishnamurthy, K., Santhanani, R. (1978). Arch. Protistenk. 120(S). Rampi, L. (1948a). Boll. Pesca Piscic Idrobiol 3: 50-56
+138-141 Rampi, L. (1950). Bull. Inst. oceanogr., Monaco 965: 1-8
+Krishnamurthy. K., Naidu, W. D., Santhanam, R. (1979). Arch. Rassoulzadegan. F. (1979). Investigacion pesq. 43: 417-448
+Protistenk. 122: 171-180 Rassoulzadegan. F. (1980). Protistologica 26: 507-510
+KrSinik, F. (1982). Mar. Biol. 68: 83-90 Rassoulzadegan, F., Etienne. M. (1981).L imnol. Oceanogr. 26: 258-270
+KrSinic. F. (1987a). Estuar. coast. Shelf Sci. 24: 401-408 Rassoulzadegan, F.. Laval-Peuto, M.. Sheldon. R. W. (1988). Hydro-
+Kr3inic. F. (1987b). Estuar. coast. Shelf Sci. 24: 527-538 biologia 159: 75-88
+KrSiniC, F. (1988). J. Plankton Res. 10: 413429 Revelante, N., Gilmartin, M (1983). Oceanologica Acta 6: 407-415
+Kmger. 1. (1980). Fish. Bull.. S. Afr. 13: 31-53 Revelante, N., Gilmartin, M. (1987). Estuar, coast. Shelf Sci. 25:
+Kuwahara, A, Kashiwai, M., Sinoda, M (1975). J. oceanogr. Soc 581-598
+Japan 31: 109-1 14 Revelante, N.. Gilmartln. M (1990).J . Plankton Res. 12: 89-107
+Laackmann, H. (1907).2 001. Anz. 31: 235-239 Roberlson, J. R. (1983) Estuar. coast. Shelf Sci.16: 27-36
+Laackmann, H. (1909). Dt. Siidpol -Exped. l l: 340-496 Rogers. G. F.. Roff, J C., Lynn, D. H. (1981). Can. J. 2001 59:
+Lackey. J. B., Balech, E. (1966).T rans. Am. mlcrosc. Soc. 85: 575-578 2360-2364
+Laval. M. (1972). Protistologica 8: 36%386 Round, F. E. (1967).J . exp. mar. Biol. Ecol. 1: 7697
+Laval-Peuto. M. (1975). Protistologica 11: 83-98 Roxas, H. A. (1941). Philipp. J. Sci. 74: 91-139
+Laval-Peuto. M-.G old. K.. Storm. E. R. (1979). Trans. Am. microsc. Sanders, R. W. (1987).J . Plankton Res. 9: 65-77
+Soc. 98: 204-212 Sassi, R.. Melo. G. D. N. (1986).A nais Acad. bras. Cienc. %(S): 63-84
+Laval-Peuto. M. (1981). Protistologica 17: 249-272 Sassi, R., Melo, G. N. (1989). Bolm Inst. oceanogr., S. Paulo, 37: 59-74
+Laval-Peuto, M. (1983). Protistologica 29: 503-512 Schmidt, J. (1901). Vidensk. Medder. dansk naturh. Foren. 1901:
+Leegaard. C. (1920). Acta Soc. Sci. fenn.. Ser. B 48: 1-48 183-190
+Leppanen, J -M., Bruun, J.-E. (1988).F ~nnm. ar. Res, 225: 55-78 Silva, E. S. (1950). Bull. Inst Oceanogr.,M onaco 979: 1-28
+Lindley, J. A (1975). Bull. mar. Ecol. 8- 201-213 Silva, E. S. (1953).R ev. Fac Cienc. L~sboas,e rie 2 2. 97-1 16
+Ling, H (1965).J . Paleont. 39: 721-723 Smayda, T. J. (1958) Nytt Mag. Bot. 6: 75-96
+Littlepage, J L. (1968).A ntarct. J. 3: 162-163 Smetacek, V. (1981). Mar. Biol. 63: 1-1 1
+Lubel, M. A. A. (1974). Revta Soc. mex. Hist. Nat. 35: 45-76 Sniezek, J. H., Capriulo, G. M., Small, E. B., Russo, A. (1991). J.
+Mamaeva, N. V. (1982). Sov. J. mar. Biol. (a translation of Biol. Protozool. 38: 58%594
+mor., Akad. Nauk SSSR) 8: 254-258 Snyder, R. A.. Brownlee, D. C. (1991).J . Protozool. 38: 583-589
+Mamaeva. N. V. (1984). Sov. J. mar. Biol. (a translation of Biol. Sorokin, V. 1. (1977). Mar. Biol. 41: 107-1 17
+mor.. Akad. Nauk SSSR) 9: 180-185 Souto, S. (1970a). Physis, B. Aires 30: 187-208
+Margalef. R.. Morales, E. (1960). Investigacion Pesq., Barcelona 16: Souto, S. (1970b). Physis. B. hres 30: 209-224
+3-3 1 Souto, S. (1972). Physis. B. hres 31: 451-462
+Margalef. R.. Estrada, M. (1987). Investlgaci6n Pesq., Barcelona Souto, S. (1974). Physis, B Aires, Secc. B., Aquas Cont Org. 33:
+51 121-140 201-205
+Marron-Agullar, M. A., Lopez-Ochoterena. E. (1969). Revta Soc. Spittler, P. (1973). Oikos, suppl. 15: 128-132
+mex. Hist. nat. 30: 43-64 Srinivasan, A., Santhanam, R., Jegatheesan, G. (1988). Indian J.
+Marshall. S. M. (1934). Scient. Rep. Gt Barrier Reef Exped. 4: mar. Sci. 17: 131-133
+623464 Stoecker, D. K., Guillard, R. R. L., Kavee, R. M. (1981). Biol. Bull.
+Masuti Alzamora, M. (1929). Notas Resum. Inst. esp. Oceanogr.. mar. biol. Lab., Woods Hole 160: 136145
+sene I1 32: 1-1 l Stoecker, D. K., Davis, L. H., Provan, A. (1983). Mar. Biol. 75: 293-302
+Masuti Alzamora. M. (1930). Notas Resum. Inst. esp. Oceanogr.. Stoecker, D. K.. Sanders. N. K. (1985). J. Plankton Res. 7: 85-100
+serie 11 43: 1-18 Stoecker. D. K., Evans, G T. (1985).M ar. Ecol. Prog. Ser. 25: 159-167
+Masuti Alzamora, M. (1933). Notas Resum. Inst. esp. Oceanogr. 2: 1-14 Suarez-Caabro, J. A , Gomez-Aguirre, S. (1965) Bull. mar. Sci. 15:
+Middlebrook. K.. Emerson. C. W.. Roff. J. C.. Lynn, D. H. (1987). 1072-1120
+Can. J Zoo]. 65: 594-601 Taguchi, S. (1976).H ydrobiologia 50: 195-204
+Murdoch, R. C. (1990).N .Z. J. mar Freshwat Res. 24: 519-527 Takahashi, M., Hoskins, K D (1978).J . exp. mar. Blol Ecol 32: 27-37
+Naidu, W. D (1983). Mahasagar 16 403407 Takahashi. K., Ling, H. Y. (1984). Mar. Micropaleont. 9: 87-92
+Naidu, W. D., Krishnamurthy, K. (1985). Mahasagar 18: 417-423 Taniguchi. A. (1977a). Bull. Plankt. Soc. Japan 24: 1-10
+Nakashima, J., Kimoto, K. (1987). Bull. Seikai reg. Fish. Res. Lab. Taniguchi, A. (1977b).J . oceanogr. Soc. Japan 33: 82-89
+64: 77-82 Taniguchi. A., Hada. Y. (1981). Mer. Tokyo 19: 18-22
+(Appendix continued on next page)
+
+24 Mar. Ecol. Prog. Ser. 94: 11-26, 1993
+Appendix (continued)
+Taniguchl, A. (1983). Mer, Tokyo 21: 95-101 Verity. P. G. (1984). Ph.D. thes~sU. n~vers~otfy Rhode Island
+Tanlguchi, A (1984).M em. natn. Inst. polar Res., Special Issue 32- Verity. P. G. (1986a). Mar. Ecol. Prog. Ser. 29: 105-115
+63-76 Venty. P. G. (1986b). Mar. Ecol. Prog Ser. 29: 117-126
+Taniguchi, A.. Kawakami, R. (1983). Bull. Plankt. Soc. Japan 30: Verity, P. G. (1987).E stuar. coast. Shelf Sci. 24: 671-690
+3340 Vitello, P. (1964). Pelagos 2: 5-41
+Tan~guchA~.,. Takeda. Y. (1988). Mar. mlcrob. Food Webs 3: 21-34 Wailes, G.H. (1925). Br. Colunlbia Contr. Can. Biol n.s. 2: 533-539
+Tiselius, P. T., Peterson, W. T. (1986). J. Plankton Res. 8: 183-195 Wang. Ch. Ch.. Nie. D. (1932). Contr. biol. Lab. Sci. Soc. China Zool
+Townsend, D W. (1984). Mar. Ecol. Prog. Ser. 15: 79-90 Ser. 8: 285-385
+Travers, A.. Travers. M. (1971). Tethys 2: 639-646 Wang, Ch. Ch. (1936).S inensia, Shangha~8 : 353-370
+Travers. M. (1973). Tethys 5: 31-53 Wasik. A., Mikolajczyk. E. (1990). Acta Protozool.. Warsz. 29- 229-244
+Turnantseva, N. 1. (1983). Oceanology (a translation of Okeano- Watson, W.. Davis, R L. Jr (1989). Fish. Bull. U.S. 87 569-591
+loglia) 23: 244-248 Winter, A., Stockwell, D., Hargraves, P. E. (1986). Mar. Micro-
+Turnantseva. N. 1. (1989). Oceanology (a translation of Okeano- paleont. 10: 375-379
+logiia) 29 96-99 Yarnamoto, T., Taniguchi, A., Nishizawa, S (1981) Bull. Plankt. Soc.
+Turner. J. T.. Anderson, D. M. (1983). P.S.Z.N. l: Mar. Ecol. 4: Japan 28: 111-120
+359-374 Yoo. K-l.. Lee. J-B. (1987).B ull. Korean Fish. Soc. 20: 230-236
+Turner, J. T. (1984).M ar. Ecol. Prog Ser 15: 2746 Zeitzschel, B. (1966) Veroff Inst. Meeresforsch. Bremerh. 2: 293-300
+Umani. S. F., Honsell, G., Cabnn~M, ., Mllani, L. (1985). Oebalia Zeltzschel, B (1967).H elgol. wiss. Meeresunlers 15: 589-601
+l l(NS): 149-156 Zeitzschel, B. (1969). Forsch. Ergebn. 'Meteor' (Reihe D), 4. 47-101
+Uribe, E., Castillo, J (1982) Investnes mar., Valparaiso 10 15-34 Zeitzschel. B (1982) Annls Inst. oceanogr , Paris 58(S):9 1-1 16
+LITERATURE CITED Burkovskii. I. V. (1973). Variability of ParafaveUa denticulata
+in the White Sea. 2001. Zh. 52: 1277-1285
+Alder. V. A.. Boltovskoy. D. (1991a). Microplanktonic distrib- Campbell. A. S. (1942). The oceanic T~ntinnoinea of the
+utional patterns west of the Antarctic Peninsula, with plankton gathered during the last cruise of the Carnegie:
+special emphasis on the tintinnids. Polar B~ol.1 1: 103- i 12 scientific results of Cruise V11 of the Carneg~ed uring
+Alder, V A., Boltovskoy, D. (1991b). The ecology and bio- 1928-1929 under command of Captain J P. Ault. Biol. 11:
+geography of tintinnid ciliates in the Atlantic sector of the Carnegie Inst. Washington, Pub. 537, p. 1-163
+Southern Ocean. Mar. Chem. 35: 337-349 Campbell, A. S. (1954). Tintmnina. In: Moore, R. C. (ed.)
+Bakker, C., Phaff, W. J. (1976).T intinnida from coastal waters Treatise on invertebrate paleontology. D. Protista 3.
+of the S.W. Netherlands. I. The genus Tjntinnopsis Stein. Kansas Press, Lawrence, p. 166-180
+Hydrobiologia 50: 101-1 11 Choi, J. K., Coats, D. W., Brownlee, D. C., Small, E. B. (1992).
+Balech, E. (1958a). Dinoflagelles et tintinnides de la Terre Morphology and infraciliature of three species of Eutin-
+Adelie, Secteur Franqais Antarctique. Vie Milieu 8: tinnus (Ciliophora; Tintinnina) with guidelines for inter-
+382-408 preting protargol-stained tintinnine ciliates. J. Protozool.
+Balech. E. (195813).P lancton de la Campafia Antartica Argen- 39: 80-92
+tina 1954-1955. Physis B. Aires 21: 75-108 CLIMAP Project Members (1976). The surface of the ice-age
+Balech. E. (1959). Tlntinnoinea del Mediterraneo. Trab. Inst. Earth. Science 191: 1131-1137
+esp. Oceanogr. 28: 1-88 Corllss, J. 0. (1979).T he ciliated Protozoa. Characterization,
+Balech, E. (1962). Tintinnoinea y dinoflagellata del Pacifico classification, and guide to the literature. 2nd edn. Perga-
+segun material de las expediciones Norpac y Downwind mon Press, Oxford
+del Instituto Scripps de Oceanografia. Rev. Mus. Argent. Daday, E. von (1887). Monographie der Familie der Tintin-
+Cienc. nat Bernardino Rivadavia, Clenc. Zool. 7: 3-249 nodeen. Mitt. zoo1 Stn. Neapel 7: 473-591
+Balech. E. (1971). Microplancton de la campana oceano- Davis, C. C. (1978). Variations of the lorica in the Genus
+grafica Productividad 111. Rev. Mus. Argent Cienc. nat. Parafavella (Protozoa: Tintinnida) in northern Norway
+Bernardino Rivadavia, Hidrobiologia 3: 1-202 waters. Can. J. 2001. 56: 1822-1827
+Balech, E. (1972). Los tintinnidos indicadores de afloramien- Davis, C. C. (1981). Variations of lorica shape in the genus
+tos de aquas (C~liata)P.h ysis, Buenos Aires 31: 519-528 Ptychocylis in relation to species identification. J. Plankton
+Balech, E. (1973). Segunda contribution a1 conocimiento del Res. 3: 433-443
+plancton del Mar de Bellingshausen. Contrib. Inst. Antart. Echols, R. J., Fowler, G. A. (1973). Agglutinated tintinnid
+Argent 107: 3-63 loricae from some Recent and Late Pleistocene shelf sedi-
+Balech, E. (1975). La familia Undellidae (Protozoa. Ciliophora, ments. Micropaleontology 19: 431-443
+Tintinnina). Physis 34(89):3 77-398 Ekman, S. (1953). Zoogeography of the sea Sidgwick &
+Boltovskoy, D., Alder, V A., Spinelli, F. (1989). Summer Jackson, London
+Weddell Sea microplankton: assemblage structure, distri- Frost, B. W. (1989).A taxonomy of the marine calanoid cope-
+bution and abundance, w~ths pecial emphasis on the pod genus Pseudocalanus. Can. J. 2001.67: 525-551
+Tintinnina. Polar Biol. 9: 447-456 Gaarder, K. R. (1946). Tintinnoinea from the 'Michael Sars'
+Boltovskoy, D., Dinofrio, E. O., Alder, V A. (1990). Intra- North Atlantic deep sea expedition 1910. Rep. Scient.
+specific variability In Antarctic tlntinnids: the Cyrnatocylis Res. 'Michael Sars' N. Atlantic deep Sea Exped. 1910
+affinis / convallaria species group. J. Plankton Res. 12: 2: 1-37
+403-413 Gold, K., Morales, E. (1974). Effects of temperature on two
+Brownlee, D. C. (1977).T he sign~ficanceof cytological charac- strains of Tintmnopsis tubulosa. J. Protozool. 21: 442
+teristics as revealed by protargol silver-staining in evaluat- Gold, K ,M orales, E. (1975). Seasonal changes in lorica sizes
+ing the systematics of the suborder Tintinnina. M.S. thesis. and the species of Tintinnida in the New York Bight
+Dept Zool., University of Maryland, College Park J. Protozool. 22: 520-528
+
+Pierce & Turner: Biogeography of tintinnids
+Gold, K., Morales, E. (1976). Observations on the nature and Margalef, R., Morales, E. (1960).F itoplancton de las costas de
+significance of the particles used by Tintinnida during Blanes (Gerona) de Julio de 1956 a Junio de 1959.
+lorica-building. Trans. Am. Microsc. Soc. 95: 69-72 lnvestigacion Pesq., Barcelona 16: 3-31
+Gold, K., Morales, E. (1977). Studies on the Tintinnida of Naidu, W. D., Krishnamurthy, K. (1985). Biogeographical
+Enewetak Atoll. J. Protozool. 24: 580-587 distribution of tintinnids (Protozoa: Ciliata) from Porto
+Hada, Y (1932). The Tintinnoinea from the Sea of Okhotsk Novo waters. Mahasagar 18: 417-423
+and its neighborhood. J. Fac. Sci. Hokkaido Univ. Ser. V1 Paranjape, M. A, Gold, K. (1982). Cultivation of marine
+Zool. 2: 37-59 pelagic protozoa Annls Inst. oceanogr., Paris 58(S):
+Haeckel, E. (1873). Uber ein~gen eue pelagische Infusorien. 143-150
+Jenaisch. Zeltschr. f. Naturw. 7: 561-568 Pielou, E. C. (1979). Biogeography. John Wiley & Sons, New
+Jorgensen, E. (1924). Mediterranean Tintinnidae. Rep. Dan. York
+oceanogr. Exped. Mediterr. 2: 1-1 10 Pierce, R. W., Turner, J. T (1992). Ecology of planktonic
+Kamiyama. T., Aizawa. Y. (1990). Excystment of tintinnid ciliates in marine food webs. Rev. aquat. Sci. 6: 139-181
+ciliates from marine sediments. Bull. Plankton Soc. Japan Posta, A. (1963). Relatlon entre l'evolution de quelques t~ntin-
+36: 137-139 nides de la rade de Villefranche et la temperature de I'eau.
+Kamiyama, T., Aizawa, Y. (1992). Effects of temperature and Cah. Biol. mar. 4: 201-210
+light on t~ntinnid excystment from marine sediments. Rampi, L. (1948). 1 tintinnoidi delle acque di San Remo. Boll.
+Nippon Suisan Gakk. 58: 877-884 Pesca Piscic. Idrobiol. 3: 50-56
+Kofoid, C. A. (1915). Notes on the Tintinnoinea. Univ. Calif. Rassoulzadegan, F. (1979). volution annuelle des cilies
+Pubis ZOO^. 16: 63-69 pelagiques en Mediterranee nord-occidentale. 2. Cilies
+Kofoid, C. A.. Campbell. A. S. (1929). A conspectus of Oligotriches. Tintinnides (Tintinnina). Invest. Pesq. 43:
+the marine and freshwater Ciliata belonging to the sub- 417-448
+order Tintinnoinea, with descriptions of new species pri- Reid, P. C., John, A. W. G. (1978).T intinnid cysts. J. mar. biol.
+marily from the Agassiz Expedition to the Eastern Tropical ASS.U .K. 58: 551-557
+Pacific 1904-1905. Univ. Calif. Publs Zool. 34: 1-403 Sevigny, J.-M., McLaren, J. A., Frost, B. W. (1989). Discrimi-
+Kofoid, C. A., Campbell, A. S. (1939). Reports on the scientific nation among and variation within species of Pseudo-
+results of the expedition to the Eastern Tropical Pacific, in calanus based on the GP1 locus. Mar. Biol. 102: 321-327
+charge of Alexander Agassiz, by U.S. Fish Commission Shih, C.-T (1979). East-West diversity. In: van der Spoel, S.,
+Steamer 'Albatross', from October 1904 to March 1905, Pierrot-Bolts, A. C. (eds.) Zoogeography and diversity of
+Lieut. Commander L. M. Garrett, U.S.N. commanding. 37 plankton. John Wiley & Sons, New York, p. 87-102
+The Clliata: the Tintinnoinea. Bull. Mus. Comp. Zool. Shih, C.-T. (19 86). Longitudinal distribution of oceanlc cala-
+Harvard Coll. 84: 1-473 noids (Crustacea: Copepoda): an example of marine bio-
+Krishnamurthy, K., Naidu, W. D., Santhanam, R. (1979). geography. In: Schriever, G., Schrninke, H. K., Shih. C.-T
+Further studies on tintinnids (Protozoa: Ciliata). Arch. (eds.)P roceedings of the Second International Conference
+Protistenk. 122: 171-180 on Copepoda. Ottawa. Canada. 13-17 August 1984.
+KrSiniC, F. (1982). On vertical distribution of tintinnines Syllogeus No. 58. National Museun~s of Canada, p.
+(Ciliata, Oligotrichida, Tlntinnina) in the open waters of 105-1 14
+the South Adriatic. Mar. Biol. 68: 83-90 Silva, E. S. (1953).E studios de plancton na Lagoa de Obidos.
+KriiniC, F. (1987a).O n the ecology of tintinnines in the Bay of 11, Tintinnoinea. Rev. Fac. Cienc. Lisboa, serie 2, 2: 97-1 16
+Mali Ston (Eastern Adriatic). Estuar. coast. Shelf Sci. 24: Smayda, T J. (1958). Biogeographical studies of marine
+401-408 phytoplankton. Oikos 9: 158-191
+KriiniC, F. (1987b). Tintinnids (Ciliophora. Oligotrichida. Smayda, T. J., Bienfang, P. K. (1983).S uspension properties of
+Tintinnina) in eastern Adriatic bays. Estuar. coast. Shelf various phyletic groups of phytoplankton and tintinnids in
+Sci. 24: 527-538 an oligotrophlc, subtropical system. P.S.Z.N.I .: Mar Ecol.
+KrSiniC, F. (1988). The family Xystonellidae (Ciliophora, 4: 289-300
+Tintinnina) in the Adriatic Sea. J. Plankton Res. 10: Sniezek, J. H., Capriulo, G. M., Small, E. B., Russo, A. (1991).
+413-429 Nolaclusilis hudsonjcus N.Sp. (Nolaclusiliidae N. Fam.) a
+Laackrnann, H. (1907). Antarktische Tintinnen. Zool. Anz. 31: bilaterally symmetrical tintinnine ciliate from the Lower
+235-239 Hudson River Estuary. J. Protozool. 38: 589-594
+Laackmann, H. (1909). Die Tintinnideen der deutschen Siid- Snyder, R. A., Brownlee, D. C. (1991). Nolaclusilis b~cornis
+polar Expedition 1901- 1902. Dt. Siidpol.-Exped. 11. N.G.,N .Sp. (T~ntinninaT: intinn~d~idaea) t:i ntinnine ciliate
+340-496 with novel lorica and cell morphology from the Chesa-
+Laval-Peuto, M. (1981). Construction of the lor~caI n Ciliata peake Bay estuary. J. Protozool. 38: 583-589
+Tintinnina. In vivostudy of Favella ehrenbergii: variability Souto, S. (1981). Zooplancton del Atlantico Sudoccidental.
+of the phenotypes during the cycle, biology, statistics, Tintinnina. In: Boltovskoy, D. (ed.) Atlas del zooplancton
+biometry. Protistologica 17: 249-272 del Atlantico sudoccidental y metodos de trabajo con el
+Laval-Peuto, M. (1983).S exual reproduction in Favella ehren- zooplancton marino. Instituto Nacional del InvestigaciBn y
+bergii (Ciliophora, Tintinnina). Taxonomical implications. Desarrollo, Mar del Plata, Argentina, p. 353-381
+Protistologica 29: 503-512 Takahashi, K., Ling, H. Y. (1984).P article selectivity of pelagic
+Laval-Peuto, M., Brownlee, D C. (1986). identification and t~ntinnida gglutination. Mar. Micropaleont. 9: 87-92
+systematics of the Tintinnina (Ciliophora): evaluation and Taniguchi, A. (1977). Biomass and size composition of cope-
+suggestions for improvement. Annls Inst. oceanogr., Paris pod nauplii and tintinnids in the Philippine Sea and the
+62: 69-84 Celebes Sea, summer 1972. Bull. Plankton Soc. Japan 24:
+Lindley, J. A. (1975). Continuous plankton records: a plankton 1-10
+atlas of the North Atlantic and North Sea: Supplement 3 - Taniguchi, A. (1983). Microzooplankton distribution along a
+Tintinnida (Protozoa, Ciliophora) in 1965. Bull. mar. Ecol. transverse section crossing a marked ocean front. Mer,
+8: 201-213 Tokyo 21: 95-101
+
+Mar. Ecol. Prog. Ser. 94: 11-26, 1993
+Tappan, H., Loeblich, A. R. Jr (1973).E volution of the oceanic 229-244
+plankton. Earth-Sci. Rev. 9: 207-240 Yamamoto, T., Taniguchi, A., Nishizawa, S. (1981). Micro-
+Travers, A., Travers, M. (1971). Catalogue des tintinnides plankton distribution at an oceanic front formed in the
+(Cilies Oligotriches) recoltes dans le Golfe de Marseille de Sanriku waters off Northeast Japan. Bull. Plankt. Soc.
+1962 a 1964. Tethys 2: 639-646 Japan 28: 111-120
+Travers, M. (1973).L e rnicroplancton du Golfe de Marseille:
+Zeitzschel, B. (1966). Die Verbreitung der Tintinnen im
+variations de la composition systematique et de la densite
+Nordatlantik. Veroff. Inst. Meeresforsch. Bremerh. 2:
+des populations. Tethys 5: 31-53
+293-300
+Tumantseva. N. I. (1989). Role of mass species of infusoria In
+Zeitzschel, B. (1967). Die Bedeutung der Tintinnen als Glied
+the composition of phytoplankton in Antarctic and Sub-
+der Nahrungskette. Helgolander wiss. Meeresunters. 15:
+antarctic waters of the Pacific Ocean. Oceanology (a trans-
+589-601
+lation of Okeanologiia) 29: 96-99
+van der Spoel, S. (1986). Prepublication on variation in the Zeitzschel, B. (1969). Tintinnen des westlichen Arabischen
+lorica of Cymatocylis (Protozoa, Tintinnida. Ptychocylidae). Meeres, ihre Bedeutung als Indikatoren fiir Wasserkorper
+Plank. Newsl. 4: 4-10 und Glied der Nahrungskette. Forsch. Ergebn. 'Meteor'
+Wasik, A., Mikolajczyk, E. (1990). Tintinnids near pack-ice (Reihe D) 4: 47-101
+between South Shetland and the South Orkney Islands Zeitzschel. B. (1982). Zoogeography of pelagic marine proto-
+(26 Dec. 1988-18 Jan. 1989). Acta protozool., Warsz. 29: zoa. Annls Inst. oceanogr., Paris 58(S): 91-116
+This article was presented by R. Williarns, Plymouth, UK Manuscript first received: April 8, 1992
+Revised version accepted: January 6, 1993
+

@@ -1,0 +1,988 @@
+Vol. 59: 257–272, 2010 AQUATIC MICROBIAL ECOLOGY
+Published online April 21
+doi: 10.3354/ame01401 Aquat Microb Ecol
+Ecology of Gymnodinium aureolum.
+II. Predation by common heterotrophic
+dinoflagellates and a ciliate
+Yeong Du Yoo1, Hae Jin Jeong1,*, Nam Seon Kang1, Jae Seong Kim2,
+Tae Hoon Kim3, Eun Young Yoon1
+1School of Earth and Environmental Sciences, College of Natural Sciences, Seoul National University,
+Seoul 151-747, Republic of Korea
+2Red Tide Research Center, Kunsan National University, Kunsan 573-701, Republic of Korea
+3Department of Oceanography, Kunsan National University, Kunsan 573-701, Republic of Korea
+ABSTRACT: We investigated whether the common heterotrophic dinoflagellates Gyrodinium domi-
+nans, Oxyrrhis marina,Pfiesteria piscicida, Polykrikos kofoidii, Protoperidinium bipesand Stoecke-
+ria algicida, and the naked ciliate Strombidinopsissp., were able to feed on the mixotrophic red-tide
+dinoflagellate Gymnodinium aureolum (GenBank accession no. FN392226). We also measured the
+growth and ingestion rates of G. dominans, O. marina, P. kofoidii, and Strombidinopsis sp. on G.
+aureolumas a function of prey concentration. We calculated grazing coefficients by combining field
+data on abundance of small Gyrodinium spp. (25 to 35 µm in cell length) and Strombidinopsis spp.
+(>70µm) and co-occurring G. aureolumwith laboratory data on ingestion rates obtained in this study.
+G. dominans, O. marina, P. kofoidii, and Strombidinopsis sp. were able to feed on G. aureolum,
+whereas P. piscicida, P. bipes, and S. algicidawere not. The maximum growth rates of G. dominans,
+O. marina, Strombidinopsis sp. and P. kofoidii on G. aureolum were 0.92, 0.71, 0.44 and 0.11 d–1,
+respectively. However, the maximum ingestion rates of G. dominanson G. aureolum(2.0 ng C preda-
+tor–1d–1) were comparable with that of P. kofoidii(2.3 ng C predator–1d–1), but much lower than that
+of Strombidinopsissp. (69.7 ng C predator–1d–1). Calculated grazing coefficients for small heterotro-
+phic Gyrodinium spp. and large Strombidinopsis spp. on G. aureolum were up to 0.40 d–1 and
+0.25d–1, respectively (i.e. up to 33 and 22% of G. aureolumpopulations were removed by small Gyro-
+diniumand Strombidinopsispopulations in 1 d, respectively). The results of the present study suggest
+that small Gyrodiniumspp. and Strombidinopsissp. sometimes have considerable grazing effect on
+populations of G. aureolum.
+KEY WORDS: Graze · Growth · Harmful algal bloom · Ingestion · Protist · Red tide
+Resale or republication not permitted without written consent of the publisher
+INTRODUCTION olum by Hulburt (1957), was designated as Gymno-
+dinium aureolum, while the European isolates that
+The dinoflagellate Gyrodinium aureolum was first were formerly identified as Gyrodinium aureolum,
+described by Hulburt (1957) and had been considered Gymnodinium nagasakiense and Gymnodinium miki-
+a common bloom-forming species in temperate waters motoi were finally designated as Karenia mikimotoi
+(Tangen 1977, Potts & Edwards 1987, Nielsen & Tøn- (Daugbjerg et al. 2000, Hansen et al. 2000). Gymno-
+seth 1991, Blasco et al. 1996). However, considerable dinium aureolum has a horseshoe-shaped apical
+confusion arose regarding identity of this species. An groove, nuclear chambers and a nuclear fibrous con-
+isolate from the Pettaquamscutt River, USA, which was nective (NFC), while K. mikimotoi has a linear apical
+similar to the original description of Gyrodinium aure- groove and does not have a nuclear chamber or a NFC.
+*Email: hjjeong@snu.ac.kr © Inter-Research 2010 · www.int-res.com
+
+258 Aquat Microb Ecol 59: 257–272, 2010
+At present, it is difficult to determine whether Gyro- between K. mikimotoi and predators. To understand
+dinium aureolum isolates reported by researchers the population dynamics of G. aureolumand its poten-
+before Daugbjerg et al. (2000) and Hansen et al. (2000) tial predators in natural environments, it is necessary
+were Gymnodinium aureolum or K. mikimotoi. Thus, to explore the interactions between G. aureolum and
+there have been only a few studies on the ecophysiol- potential predators.
+ogy of the actual Gymnodinium aureolum species In general, the grazing effects of heterotrophic
+since settlement of the confusion over taxonomy (Tang dinoflagellates or ciliates on red tide dinoflagellates
+et al. 2008, Jeong et al. 2010, this issue). are much higher than that of copepods, as the abun-
+Jeong et al. (2010) revealed that Gymnodinium dances of heterotrophic dinoflagellates or ciliates are
+aureolum, originally thought to be an exclusively auto- much greater than that of copepods (i.e. usually 100 to
+trophic dinoflagellate, is a mixotrophic dinoflagellate. 10000 times greater) even though the ingestion rates
+The population dynamics of a mixotrophic dinoflagel- of heterotrophic dinoflagellates or ciliates are consid-
+late are affected mainly by growth and mortality. How- erably lower (i.e. usually 10 to 100 times lower) (Calbet
+ever, to date, no studies exist on mortality of G. aure- et al. 2003, Calbet & Landry 2004, Kim & Jeong 2004,
+olum caused by predation. Even for Karenia miki- Turner & Borkman 2005). Therefore, to investigate
+motoi, only a few studies have been done to determine grazing pressure by potential predators on Gymno-
+its mortality resulting from predation (Lee &Hirayama dinium aureolum, growth, ingestion and mortality of
+1992, Nakamura et al. 1995, Kamiyama &Arima 2001); G. aureolum due to predation by heterotrophic dino-
+Nakamura et al. (1995) reported that the heterotrophic flagellates and ciliates need to be measured.
+dinoflagellate Gyrodinium dominans had a growth Recently Gymnodinium aureolum has formed red
+rate of 0.4 to 0.7 d–1 when they fed on K. mikimotoi tides off the western coasts of Korea. We isolated and
+(previously Gymnodinium mikimotoi). Another hetero- established a clonal culture of the dinoflagellate during
+trophic dinoflagellate Noctiluca scintillans was able a red tide event dominated by G. aureolum in 2008.
+to feed on K. mikimotoi (previously G. nagasakiense) During this red tide, we found several ciliates and het-
+(Lee & Hirayama 1992). Also, a Japanese strain of erotrophic dinoflagellates; therefore, it is highly possi-
+Favella ehrenbergii was able to feed on a strain of K. bile that some of these ciliates and heterotrophic di-
+mikimotoialthough its ingestion rate (based on carbon noflagellates feed on G. aureolum. By using this
+biomass) was lower than that when it fed on other culture, we observed feeding behavior, examined the
+mixotrophic dinoflagellate prey, with the exception of kind of prey consumed and measured growth and graz-
+Prorocentrum triestinum (Kamiyama & Arima 2001). ing rates of this species (Jeong et al. 2010). The present
+The heterotrophic dinoflagellate Diplopsalis lenticula study also investigated feeding by 6 common hetero-
+was shown to feed on Gyrodinium aureolum, although trophic dinoflagellates and one ciliate on this dino-
+it remains unclear whether this prey was Gymno- flagellate. We (1) tested whether the heterotrophic
+dinium aureolumor K. mikimotoi(Naustvoll 1998). To dinoflagellates Gyrodinium dominans, Oxyrrhis ma-
+understand the ecology of Gymnodinium aureolum in rina, Pfiesteria piscicida, Polykrikos kofoidii, Protoperi-
+natural environments, it is necessary to explore mortal- dinium bipes and Stoeckeria algicida and the ciliate
+ity of G. aureolumdue to predation by using a clearly Strombidinopsissp. were able to feed on G. aureolum;
+identified culture of G. aureolum. (2) measured the growth and/or ingestion rates of G.
+Karenia mikimotoi is known to produce undefined dominans, O. marina, P. kofoidii and Strombidinopsis
+toxic compounds and is harmful to the ciliate Favella sp. on G. aureolumas a function of prey concentration;
+ehrenbergii, copepods, larvae of benthos and fish (Gill and (3) calculated grazing coefficients by combining
+& Harris 1987, Uye & Takamatsu 1990, Hansen 1995, field data on abundance of G. dominans (or Strom-
+Smolowitz & Shumway 1997, Yamasaki et al. 2004). bidinopsissp.) and co-occurring G. aureolumwith labo-
+However, the toxins or toxic compounds of Gymno- ratory data on ingestion rates obtained in this study.
+dinium aureolum have not been detected. Tang et al. The results of the present study provide a basis for
+(2008) reported that the juvenile fish Cyprinodon var- understanding the interactions between Gymno-
+iegate was not killed when exposed to 3 strains of G. dinium aureolum and heterotrophic protists and their
+aureolum at concentrations of 10900 to 14500 cells population dynamics in marine planktonic food webs.
+ml–1. Jeong et al. (2010) also reported that the Korean
+strain of G. aureolumused in the present study did not
+kill the brine shrimp Artemia salina at the concentra- MATERIALS AND METHODS
+tions of 4940 to 15180 cells ml–1. Therefore, unlike K.
+mikimotoi, G. aureolum is likely to be a non-toxic Preparation of experimental organisms. For isola-
+dinoflagellate, and the interactions between G. aure- tion and culture of Gymnodinium aureolum(GenBank
+olumand predators may be quite different from those accession no. FN392226), plankton samples were col-
+
+Yoo et al.: Feeding on Gymnodinium aureolum 259
+lected with water samplers from the waters off Sae- Steockeria algicida; Jeong et al. (2004) for Protoperi-
+mankeum, Korea, during March 2008 when the water dinium bipes; and Jeong et al. (2008a) for Strombod-
+temperature and salinity were 10.0°C and 30.5, respec- inopsissp.
+tively (Table 1). These samples were gently passed Feeding occurrence. Expt 1 was designed to test
+through a 154 µm Nitex mesh screen and placed in 6- whether each of Gyrodinium dominans, Oxyrrhis
+well tissue culture plates. A clonal culture of G. aure- marina, Pfiesteria piscicida, Polykrikos kofoidii, Pro-
+olumwas established by 2 serial single cell isolations. toperidinium bipes, Stoeckeria algicida and Strom-
+As the concentration of G. aureolum increased, G. bidinopsissp. was able to feed on Gymnodinium aure-
+aureolumwas subsequently transferred to 32, 120, 270 olum(Table 2).
+and 500 ml polycarbonate (PC) bottles (Nalge Nunc Approximately 8 ×105Gymnodinium aureolumcells
+International) containing fresh f/2 seawater media. were added to each of two 80 ml PC bottles containing
+The bottles were filled to capacity with freshly filtered Polykrikos kofoidii (100 cells ml–1), each of the other
+seawater, capped and placed on a shelf at 20°C under heterotrophic dinoflagellates (1000 to 5000 cells ml–1),
+an illumination of 20 µE m–2 s–1 of cool white fluores- or the ciliate (20 cells ml–1) (final prey concentration ca.
+cent light on a 14 h light: 10 h dark cycle. 10000 cells ml–1). One control bottle (without prey)
+For the isolation and culture of the heterotrophic was set up for each experiment. The bottles were
+dinoflagellate predators Gyrodinium dominans, Oxyr- placed on a plankton wheel rotating at 0.9 rpm and
+rhis marina, Polykrikos kofoidii, Pfiesteria piscicida, incubated at 20°C under an illumination of 20 µE m–2
+Steockeria algicidaand Protoperidinium bipes, plank- s–1on a 14 h light:10 h dark cycle.
+ton samples were collected with water samplers from Aliquots of 5 ml were removed from each bottle after
+the coastal waters off Masan, Incheon or Shiwha, 1, 2, 6 and 24 h incubation and then transferred into 6-
+Korea, from 2001 to 2008, and a clonal culture of each well plate chambers (or glass microscope slides).
+species was established by 2 serial single-cell isola- Approximately 200 cells of each predator in the plate
+tions (Table 1). chamber (or glass microscope slide) were observed
+For the isolation and culture of Strombidinopsis sp., under a dissecting microscope (or inverted micro-
+plankton samples were collected with water samplers scope) at a magnifications ranging from 20 to 90× (or
+from a pier in Masan Bay, Korea, during May 2009 100 to 630×) to determine whether the predator was
+when the water temperature and salinity were 20.2°C able to feed on the Gymnodinium aureolum. Cells of
+and 30.1, respectively (Table 1). A clonal culture of the predator containing ingested G. aureolum cells
+Strombidinopsis sp. (70 to 160 µm in cell length) was were photographed at a magnification of 400 to 630×
+established by 2 serial single cell isolations as with a digital camera (Zeiss AxioCam HRc5, Carl
+described by Jeong et al. (2008a). Zeiss) mounted on the microscope.
+The carbon contents for Gymnodinium aureolum Growth and ingestion rates. Expts 2 to 5 were
+(0.44 ng C per cell, n = 50), the heterotrophic dinofla- designed to measure the growth and ingestion rates
+gellates and the ciliate were estimated from cell vol- of Gyrodinium dominans, Oxyrrhis marina, Polykri-
+ume according to Menden-Deuer & Lessard (2000). kos kofoidii and Strombidinopsis sp. as a function of
+The cell volume of the predators was estimated by the prey concentration when they fed on Gymno-
+means of the following methods: Kim & Jeong (2004) dinium aureolum (Table 2). Only these 3 heterotro-
+for Gyrodinium dominans; Jeong et al. (2008b) for phic dinoflagellates and the ciliate were shown to
+Oxyrrhis marina; Jeong et al. (2003a) for Polykrikos feed on G. aureolumamong the heterotrophic protists
+kofoidii; Jeong et al. (2007) for Pfiesteria piscicidaand tested.
+Table 1. Isolation and maintenance conditions of the experimental organisms. Sampling location and time, water temperature (T,
+°C) and salinity for isolation, and prey species and concentrations (cells ml–1) for maintenance. MTD: mixotrophic dinoflagellate;
+HTD: heterotrophic dinoflagellate; CIL: ciliate
+Organism Location Date T Salinity Prey species Concentration
+Gyrodinium dominans(HTD) Masan Bay Apr 2007 15.1 33.4 Amphidinium carterea 30000–40000
+Oxyrrhis marina(HTD) Keum Estuary May 2001 16.0 27.7 Amphidinium carterea 8000
+Polykrikos kofoidii(HTD) Masan Bay Jun 2007 20.2 32.2 Lingulodinium polyedrum 4000
+Strombidinopsissp. (CIL) Masan Bay May 2009 20.2 30.1 Prorocentrum minimum 20000–30000
+Pfiesteria piscicida(HTD) Off Incheon Jul 2005 24.0 25.4 Amphidinium carterea 20000–30000
+Stoeckeria algicida(HTD) Masan Bay May 2007 20.9 30.1 Heterosigma akashiwo 30000
+Protoperidinium bipes(HTD) Shiwha Bay Nov 2008 13.0 28.5 Skeletonema costatum 50000
+Gymnodinium aureolum (MTD) Off Saemankeum Mar 2008 10.0 30.5
+
+260 Aquat Microb Ecol 59: 257–272, 2010
+Table 2. Experimental design to assess predation on Gymnodinium aureolumby various planktonic predator species. The num-
+bers in prey and predator columns are the actual initial concentrations (cells ml–1) of prey and predator. In each experiment, the
+lowest G. aureolumconcentration was tested against the lowest predator concentration, the next lowest against the next lowest,
+etc. Values within parentheses in the prey and predator columns are the corresponding prey and predator concentrations in the
+predator-only control bottles. Feeding occurrence of each predator fed Gymnodinium aureolum in Expt 1 is represented by
+Y (feeding observed) or N (no feeding observed)
+Expt G.aureolum Predator
+concentration Species concentration Feeding
+1 10000 Gyrodinium dominans 1000 Y
+Oxyrrhis marina 3000 Y
+Polykrikos kofoidii 100 Y
+Protoperidinium bipes 1000 N
+Pfiesteria piscicida 5000 N
+Stoeckeria algicida 5000 N
+Strombidinopsissp. 20 Y
+2 20, 50, 110, 210, 490, 1080, 2120, 5480, 11300 (0) Gyrodinium dominans 4, 8, 20, 24, 28, 38, 69, 159, 409 (90)
+3 20, 50, 90, 240, 520, 1160, 2370, 5590, 10800 (0) Oxyrrhis marina 5, 8, 13, 39, 85, 149, 394, 638, 966 (960)
+4 20, 50, 90, 180, 430, 950, 1980, 4640, 8360 (0) Polykrikos kofoidii 5, 10, 20, 77, 62, 94, 135, 136, 129 (60)
+5 40, 90, 220, 590, 1130, 2680, 6180, 8260 (0) Strombidinopsissp. 5, 5, 6, 8, 8, 12, 21, 21 (20)
+The day before these experiments were conducted, For each experiment, the initial concentrations of
+dense cultures of predator species growing on algal predator species and Gymnodinium aureolum were
+prey were transferred into 500 ml PC bottles contain- established by means of an autopipette that deliv-
+ing 2 different concentrations of the target prey as fol- ered predetermined volumes of known cell concen-
+lows: (1) ca. 100 Gymnodinium aureolumcells ml–1for trations to the bottles. In preliminary tests, ingestion
+5 lower prey concentrations and ca. 500 G. aureolum rates, and in turn growth rates, of a predator on prey
+cells ml–1for 4 upper prey concentrations for G. domi- at low prey concentrations were lower than those at
+nans; (2) ca. 200 G. aureolumcells ml–1for 4 lower prey higher prey concentrations. After incubation, ratios of
+concentrations and ca. 1000 G. aureolumcells ml–1for predator relative to prey at low prey concentrations
+5 upper prey concentrations for Oxyrrhis marina; (3) usually decreased (i.e. predator concentration slowly
+ca. 100 G. aureolumcells ml–1for 5 lower prey concen- increased, remained unchanged or decreased, where-
+trations and ca. 500 G. aureolumcells ml–1for 4 upper as prey concentration slowly decreased or remained
+prey concentrations for Polykrikos kofoidii; (4) ca. 300 unchanged), while those at high prey concentrations
+G. aureolumcells ml–1for 4 lower prey concentrations increased (i.e. predator concentration rapidly in-
+and ca. 1500 G. aureolum cells ml–1 for 4 upper prey creased, whereas prey concentration rapidly de-
+concentrations for Strombidinopsis sp. The use of two creased). Thus, we established higher initial ratios of
+different concentrations was meant to minimize possi- predator relative to prey at low prey concentrations
+ble residual growth resulting from the ingestion of than for those at high prey concentrations. Triplicate
+prey during batch culture. The bottles were filled to 42 ml PC experiment bottles (80 ml bottles for the
+capacity with freshly filtered seawater, capped and ciliate) containing mixtures of predator and prey and
+placed on plankton wheels rotating at 0.9 rpm and triplicate control bottles (prey only) were set up at
+incubated at 20°C under the illumination of 20 µE m–2 each predator–prey combination. Triplicate control
+s–1on a 14 h light: 10 h dark cycle. To monitor the con- bottles containing only predator species were also
+ditions and interaction between predator and prey spe- established at one predator concentration. To obtain
+cies, the cultures were periodically removed from the similar water conditions, the water of a predator cul-
+rotating wheels, examined by observation through the ture was filtered through a 0.7 µm GF/F filter and
+surface of the capped bottles by means of a dissecting then added to the prey control bottles in the same
+microscope (Olympus SZX12, Olympus) and returned volume that was added to the experiment bottles for
+to the rotating wheels. Once the target prey cells were each predator–prey combination. All bottles were
+no longer detectable, three 1 ml aliquots from each then filled to capacity with freshly filtered seawater
+bottle were viewed under a light microscope (Olympus and capped. To determine the actual predator and
+BX51, Olympus) and counted to determine cell con- prey concentrations at the beginning of the experi-
+centrations of predator species, and the cultures were ment, a 5 ml aliquot was removed from each bottle,
+then used to conduct these experiments. fixed with 5% Lugol’s solution and examined with a
+
+Yoo et al.: Feeding on Gymnodinium aureolum 261
+light microscope to determine predator and prey growth rate. The Michaelis-Menten equation for
+abundance by enumerating the cells in three 1 ml ingestion rate (IR, cells predator–1 d–1 or ng C preda-
+Sedgwick-Rafter chambers (SRCs). The bottles were tor–1d–1) data was:
+refilled to capacity with freshly filtered seawater,
+IR = I X/(K + X) (4)
+capped and placed on rotating wheels under the max IR
+conditions described above. Dilution of the cultures where I = maximum ingestion rate (cells predator–1
+max
+associated with refilling the bottles was considered d–1 or ng C predator–1 d–1), X = prey concentration
+when calculating growth and ingestion rates. A (cells ml–1 or ng C ml–1) and K = prey concentration
+IR
+10 ml aliquot was taken from each bottle after 48 h sustaining 1⁄ I . The Ivlev equation for ingestion rate
+2 max
+incubation (24 h incubation for the ciliate) and fixed data was:
+with 5% Lugol’s solution. The abundance of predator
+IR = I (1 – e–kX) (5)
+species and the prey were determined by counting max
+all or >300 cells in three 1 ml SRCs. Before taking where I = maximum ingestion rate (cells predator–1
+max
+the subsamples, the condition of predator species d–1 or ng C predator–1 d–1), X = prey concentration
+and the prey was assessed by means of a dissecting (cells ml–1 or ng C ml–1) and k = constant. Data were
+microscope as described above. iteratively fitted to the model using DeltaGraph®.
+The specific growth rate of predator species, μ(d–1), Growth rate data of Polykrikos kofoidiiwere not well
+was calculated as: fitted to any equation. The best curve fit for ingestion
+rate data of P. kofoidii was a logistic curve fit as
+μ= ln(P/P )/t (1)
+t 0 follows:
+where P and P are the concentrations of predator spe-
+0 t IR = I ln(X+ A) + B (6)
+cies at 0 and 48 h (or 24 h for the ciliate), respectively. max
+We tested >100 curve fittings for the data on the where I = maximum ingestion rate (cells pre-
+max
+growth rate of each predator on Gymnodinium aure- dator–1 d–1 or ng C predator–1 d–1), X = prey con-
+olum using TableCurve® 2D v.5.01 (SYSTAT Soft- centration (cells ml–1 or ng C ml–1) and A and B are
+ware) and found best curve fits for each predator. Best constants. Data were iteratively fitted to the model
+curve fits for the data on growth and ingestion rates of using DeltaGraph. However, the value extrapo-
+Gyrodinium dominans, Oxyrrhis marina and Strom- lated using this curve when prey concentration was
+bidinopsis sp. on G. aureolum were a Michaelis- zero (i.e. no prey) was positive (i.e. feeding oc-
+Menten equation or Ivlev equation. The coefficients of curred). Therefore, this curve is valid only when
+determination (r2) of the Michaelis-Menten equation the prey concentration is larger than a certain prey
+and Ivlev equation for growth and ingestion rates of concentration.
+each predator were very similar, and thus, we pro- Gross growth efficiency. Gross growth efficiency
+vided both curve fits. The Michaelis-Menten equation (GGE), defined as predator biomass produced (+) or
+for growth rate data was: lost (–) per prey biomass ingested, was calculated from
+estimates of carbon content per cell based on cell vol-
+μ= μ (X– X’)/[K + (X– X’)] (2)
+max GR ume for each mean prey concentration.
+where μ = maximum growth rate (d–1), X= prey con- Grazing impact. We estimated grazing coefficients
+max
+centration (cells ml–1or ng C ml–1), X’ = threshold prey attributable to small heterotrophic Gyrodinium spp.
+concentration (the prey concentration where μ= 0) and (25 to 35 µm in cell length) or large Strombidinopsis
+K = prey concentration sustaining 1⁄ μ . Data were spp., (>70 µm in cell length) on Gymnodinium aure-
+GR 2 max
+iteratively fitted to the model using DeltaGraph® olumby combining field data on abundances of small
+(Delta Point). The Ivlev equation for growth rate (μ, d–1) Gyrodinium spp. (or Strombidinopsis sp.) and prey
+data was: with ingestion rates of the predators on the prey
+obtained in the present study. We assumed that the
+μ= μ [1 – e–k(X– X’)] (3)
+max ingestion rates of the other small heterotrophic Gyro-
+where μ = the maximum growth rate (d–1), X= prey dinium spp. (or Strombidinopsis spp.) on G. aureolum
+max
+concentration (cells ml–1 or ng C ml–1), X’ = threshold are the same as that of Gyrodinum dominans (or
+prey concentration (the prey concentration where μ = Strombidinopsis sp.). The data on the abundances of
+0) and k= constant. Data were iteratively fitted to the G. aureolum and co-occurring small heterotrophic
+model using DeltaGraph. Gyrodiniumspp. (or Strombidinopsisspp.) used in this
+Ingestion and clearance rates were calculated using estimation were obtained from water samples col-
+the equations of Frost (1972) and Heinbokel (1978). lected from 2006 to 2008 from the coastal waters off
+The incubation times for calculating ingestion and Saemankeum, at fixed stations. The grazing coeffi-
+clearance rates were the same as those for estimating cients (g, d–1) were calculated as:
+
+262 Aquat Microb Ecol 59: 257–272, 2010
+g= CR ×P×24 (7) ted to Eq. (2), the μ of O. marinafeeding on G. aure-
+max
+olumwas 0.71 d–1. The feeding threshold prey concen-
+where CR is the clearance rate (ml predator–1h–1) of a tration for the growth of the predator (no growth) in
+predator on Gymnodinium aureolum at a given prey Eq.(2) was 8 ng C ml–1(18 cells ml–1). However, when
+concentration and P is the predator concentration the data were fitted to Eq. (3), the μ of O. marina
+max
+(cellsml–1). CRs were calculated as: feeding on G. aureolum was 0.65 d–1. The feeding
+threshold prey concentration in Eq. (3) was 9 ng C ml–1
+CR = IR(h)/X (8)
+(20 cells ml–1).
+where IR(h) is the ingestion rate (cells eaten predator–1 The specific growth rates of Polykrikos kofoidii
+h–1) of the predator on the prey and Xis the prey con- feeding on Gymnodinium aureolum increased with
+centration (cells ml–1). CRs were corrected using Q = increasing mean prey concentration (Fig. 2C). The
+10
+2.8 (Hansen et al. 1997) because in situwater tempera- growth rates were negative at mean prey concentra-
+tures and the temperature used in the laboratory for tions <830 ng C ml–1 (<1900 cells ml–1), but posi-
+this experiment (20°C) were sometimes different. tive at mean prey concentrations >2090 ng C ml–1
+(>4750 cells ml–1). At the given prey concentrations,
+RESULTS
+Feeding occurrence and growth rate
+Gyrodinium dominans, Oxyrrhis ma-
+rina, Polykrikos kofoidii and Strom-
+bidinopsis sp. were able to feed on
+Gymnodinium aureolum, while Pfieste-
+ria piscicida, Protoperidinium bipes
+and Stoeckeria algicida were not
+(Fig.1). P. piscicida, P. bipesand S. algi-
+cidawere observed not to deploy a tow
+filament to capture G. aureolumcells.
+The specific growth rates of Gyro-
+dinium dominans feeding on Gymno-
+dinium aureolum increased rapidly
+with increasing mean prey concentra-
+tion up to ca. 445ng C ml–1(1010 cells
+ml–1), but became saturated at higher
+concentrations (Fig. 2A). When the data
+were fitted to Eq. (2), the maximum
+specific growth rate (μ ) of G. domi-
+max
+nans feeding on G. aureolum was
+0.92 d–1. The feeding threshold prey
+concentration for the growth of the
+predator (no growth) in Eq. (2) was
+76ng C ml–1(173 cells ml–1). However,
+when the data were fitted to Eq. (3), the
+μ of G. dominans feeding on G.
+max
+aureolum was 0.79 d–1. The feeding
+threshold prey concentration in Eq. (3)
+was 86 ng C ml–1(195 cells ml–1).
+The specific growth rates of Oxyrrhis
+marinafeeding on Gymnodinium aure- Fig. 1. Feeding by (A–C) heterotrophic dinoflagellates and (D) a ciliate on the
+olumincreased rapidly with increasing mixotrophic dinoflagellate Gymnodinium aureolum. (A) Gyrodinium dominans
+mean prey concentration up to ca. with an ingested G. aureolumcell, (B) Oxyrrhis marinawith 2 ingested G. aure-
+olumcells, (C) Polykrikos kofoidiiwith 2 ingested G. aureolumcells, (D) Strom-
+80 ng C ml–1 (180 cells ml–1), but
+bidinopsissp. with several ingested G. aureolumcells. Arrows indicate ingested
+became saturated at higher concentra- prey cells. All photographs were taken by means of an inverted microscope.
+tions (Fig. 2B). When the data were fit- Scale bars = 10 µm
+
+Yoo et al.: Feeding on Gymnodinium aureolum 263
+1.0 A 1.0 B
+0.5
+)1–d(
+0.5
+etar
+0.0
+htworG
+0.0
+–0.5
+–1.0 –0.5
+0 1000 2000 3000 4000 0 1000 2000 3000 4000
+0 2000 4000 6000 8000 0 2000 4000 6000 8000
+0.2 0.5
+C D
+0.1 0.0
+)1–d(
+0.0 –0.5 etar
+htworG
+–0.1 –1.0
+–0.2 –1.5
+–0.3 –2.0
+0 1000 2000 3000 4000 4000 0 1000 2000 3000 4000
+Prey concentration (ng C ml–1) Prey concentration (ng C ml–1)
+0 2000 4000 6000 8000 10000 0 2000 4000 6000 8000
+Gymnodinium aureolum (cells ml–1) Gymnodinium aureolum (cells ml–1)
+Fig. 2. Specific growth rates (μ,d–1) of the heterotrophic dinoflagellates and a ciliate feeding on the mixotrophic dinoflagellate
+Gymnodinium aureolumas a function of mean prey concentration (X). (A) Gyrodinium dominanspredator, (B) Oxyrrhis marina,
+(C) Polykrikos kofoidii, (D) Strombidinopsissp. Symbols represent treatment means ±1 SE. A Michaelis-Menten equation (Eq. 2,
+solid line) and an Ivlev equation (Eq. 3, dashed line) were used to produce curves for (A), (B) and (D) for all treatments in the
+experiments.(A) μ= 0.92 · (X– 76.2)/[207 + (X–76.2)], r2= 0.905 for Eq. (2) and μ= 0.79 · [1 – e–0.00573 (X– 86.1)], r2=0.920 for Eq.(3);
+(B) μ= 0.71 · (X– 7.8)/[55.2 + (X– 7.8)], r2= 0.939 for Eq. (2) and μ= 0.65 · [1 – e–0.01612 (X– 8.9)], r2= 0.930 for Eq. (3); (D) μ= 0.44 ·
+(X – 370)/[570 + (X– 370)], r2= 0.601 for Eq. (2) and μ= 0.31 · [1 – e–0.00372 (X– 337)]], r2= 0.593 for Eq. (3)
+the highest growth rate of P. kofoidii feeding on G. sis sp. feeding on G. aureolum was 0.44 d–1. The
+aureolumwas 0.11 d–1. feeding threshold prey concentration for the growth
+The specific growth rates of Strombidinopsis sp. of the predator (no growth) in Eq. (2) was 370 ng C
+feeding on Gymnodinium aureolum increased contin- ml–1 (840 cells ml–1). However, when the data were
+uously with increasing mean prey concentration up fitted to Eq. (3), the μ of Strombidinopsis sp. feed-
+max
+to ca. 460 ng C ml–1 (1050 cells ml–1), but slowly in- ing on G. aureolum was 0.31 d–1. The feeding thresh-
+creased at higher concentrations (Fig. 2D). When the old prey concentration in Eq. (3) was 340 ng C ml–1
+data were fitted to Eq. (2), the μ of Strombidinop- (770 cells ml–1).
+max
+
+264 Aquat Microb Ecol 59: 257–272, 2010
+Ingestion and clearance rates d–1). However, when the data were fitted to Eq. (5), the
+I of Strombidinopsissp. feeding on G. aureolumwas
+max
+The ingestion rates of Gyrodinium dominansfeeding 51.0 ng C predator–1d–1(116 cells predator–1d–1). The
+on Gymnodinium aureolumincreased rapidly with in- maximum clearance rate of Strombidinopsis sp. feed-
+creasing mean prey concentration up to ca. 1980 ng C ing on G. aureolumwas 5.9 µl predator–1h–1. GGEs of
+ml–1 (4500 cells ml–1), but became saturated at higher O. marinafeeding on G. aureolumat the prey concen-
+concentrations (Fig. 3A). When the data were fitted to trations where the ingestion rates were saturated were
+Eq. (4), the maximum ingestion rate (I ) of G. domi- 9 to 18%.
+max
+nansfeeding on G. aureolumwas 2.0 ng C predator–1
+d–1 (4.5 cells predator–1 d–1). However, when the data
+were fitted to Eq. (5), the I of G. dominans feeding Relationships among maximum growth and inges-
+max
+on G. aureolum was 1.6 ng C predator–1 d–1 (3.6 cells tion rates of the predators
+predator–1 d–1). The maximum clearance rate of G.
+dominans feeding on G. aureolum was 0.1 µl preda- Both μ and I of Gyrodinium dominansfeeding
+max max
+tor–1h–1. Gross growth efficiencies (GGEs) of G. domi- on algal prey were not significantly correlated with
+nans feeding on G. aureolum at the prey concentra- prey size (linear regression ANOVA, p > 0.1;
+tions where the ingestion rates were saturated were 29 Fig.4A,B). The μ and I of G. dominansfeeding on
+max max
+to 43%. Gymnodinium aureolum obtained with Eqs. (2) & (4)
+The ingestion rates of Oxyrrhis marina feeding on were the second and third highest, respectively,
+Gymnodinium aureolum increased rapidly with in- among the algal prey (Fig. 4A,B). The ratio of μ rel-
+max
+creasing mean prey concentration up to ca. 80 ng C ative to I of G. dominans feeding on G. aureolum
+max
+ml–1 (180 cells ml–1), but became saturated at higher was higher than that of the mixotrophic dinoflagellate
+concentrations (Fig. 3B). When the data were fitted Heterocapsa triquetra and the raphidophyte Chat-
+to Eq. (4), the I of O. marina feeding on G. aure- tonella antiqua(Fig. 4C).
+max
+olum was 0.51 ng C predator–1 d–1 (1.2 cells pre- Both μ and I of Oxyrrhis marina feeding on
+max max
+dator–1 d–1). However, when the data were fitted to algal prey were not significantly correlated with prey
+Eq. (5), the I of O. marina feeding on G. aureolum size (linear regression ANOVA, p > 0.1; Fig. 5A,B). The
+max
+was 0.46 ng C predator–1 d–1 (1.0 cells predator–1 I of O. marina feeding on Gymnodinium aureolum
+max
+d–1). The maximum clearance rate of O. marina feed- was lower than that for any other algal prey (Fig. 5A).
+ing on G. aureolum was 0.2 µl predator–1 h–1. GGEs However, the μ of O. marina feeding on G. aure-
+max
+of O. marina feeding on G. aureolum at the prey olum was comparable with that for the haptophyte
+concentrations where the ingestion rates were satu- Isochrysis galbana, the diatom Dunaliella tertiolecta
+rated were 29 to 62%. and the raphidophyte Fibrocapsa japonica, while it
+The ingestion rates of Polykrikos kofoidiifeeding on was lower than that for other algal prey (Fig. 5B). Also,
+Gymnodinium aureolum continuously increased with the μ of O. marinafeeding on the algal prey was not
+max
+increasing mean prey concentration (Fig. 3C). At the significantly correlated with their I (p > 0.1; Fig. 5C).
+max
+given prey concentrations, the highest ingestion rate of Both μ and I of Polykrikos kofoidii feeding on
+max max
+P. kofoidiifeeding on G. aureolumwas 2.3 ng C preda- the mixotrophic dinoflagellates showed significant
+tor–1 d–1 (5.3 cells predator–1 d–1). However, when the positive correlations with prey size (linear regression
+data were fitted to both Eq. (5) and Eq. (6) at prey con- ANOVA, p < 0.05 for both rates; Fig. 6A,B). The I of
+max
+centrations of <3770 ng C predator–1 d–1 (<8560 cells P. kofoidiifeeding on Gymnodinium aureolumwas the
+predator–1 d–1), the I of P. kofoidii feeding on G. lowest amongst the prey species tested, while the μ
+max max
+aureolumwas 2.2 ng C predator–1d–1(5.0 cells preda- of P. kofoidii feeding on G. aureolum was also almost
+tor–1 d–1). The maximum clearance rate of P. kofoidii the lowest (Fig. 6A,B). The μ of P. kofoidii feeding
+max
+feeding on G. aureolum was 2.5 µl predator–1 h–1. on the mixotrophic dinoflagellates also showed signifi-
+GGEs of P. kofoidiifeeding on G. aureolumat the prey cant positive correlations with their I (p < 0.01;
+max
+concentrations where the 2 highest ingestion rates Fig.6C).
+were achieved were 29 to 40%. Both μ and I of Strombidinopsis sp. on algal
+max max
+The ingestion rates of Strombidinopsis sp. feeding prey did not correlate significantly with prey size
+onGymnodinium aureolumincreased rapidly with in- (linear regression ANOVA, p > 0.1; Fig. 7A,B). The
+creasing mean prey concentrations <2280 ng C ml–1 I of Strombidinopsis sp. feeding on Gymnodinium
+max
+(<5190 cells ml–1), but became saturated at higher con- aureolum (70 ng C ciliate–1d–1) are considerably
+centrations (Fig. 3D). When the data were fitted to lower than those of Strombidinopsis sp. on the mixo-
+Eq. (4), the I of Strombidinopsis sp. feeding on G. trophic dinoflagellates Lingulodinium polyedrum,
+max
+aureolumwas 69.7 ng C predator–1d–1(158 predator–1 Akashiwo sanguinea (previously Gymnodinium
+
+Yoo et al.: Feeding on Gymnodinium aureolum 265
+2.0 A 4.5 0.6 B 1.4 )1–d )1–d
+4.0
+1.2 0.5 1–rotaderp 1–rotaderp
+3.5
+1.5
+1.0
+3.0 0.4
+2.5 0.8
+C sllec(
+1.0 0.3
+gn(
+2.0 0.6
+1.5 0.2 etar etar
+0.4
+0.5 1.0 noitsegnI noitsegnI
+0.1
+0.2
+0.5
+0.0 0.0 0.0 0.0
+0 1000 2000 3000 4000 0 1000 2000 3000 4000
+0 2000 4000 6000 8000 0 2000 4000 6000 8000
+3.5 C 8.0 60 D )1–d )1–d
+3.0 7.0 120 1–rotaderp 1–rotaderp
+50
+6.0 100
+2.5
+40
+5.0
+2.0 80
+C sllec(
+4.0 30
+gn(
+1.5 60
+3.0 etar etar
+20
+1.0 40
+2.0 noitsegnI noitsegnI
+10
+0.5 1.0 20
+0.0 0.0 0 0
+0 1000 2000 3000 4000 0 1000 2000 3000 4000
+Prey concentration (ng C ml–1) Prey concentration (ng C ml–1)
+0 2000 4000 6000 8000 0 2000 4000 6000 8000
+Gymnodinium aureolum (cells ml–1) Gymnodinium aureolum (cells ml–1)
+Fig. 3. Ingestion rates (IR, ng C predator–1d–1) of heterotrophic dinoflagellates and a ciliate feeding on the mixotrophic dinoflagel-
+late Gymnodinium aureolum as a function of mean prey concentration (X). (A) Gyrodinium dominans predator, (B) Oxyrrhis
+marina, (C) Polykrikos kofoidii, (D) Strombidinopsissp. Symbols represent treatment means ±1 SE. A Michaelis-Menten equa-
+tion (Eq. 4, solid line) and an Ivlev equation (Eq. 5, dashed line) were used to produce the curves for (A), (B) and (D) for all
+treatments in the experiments. (A) IR = 2.0 · X/(727 + X), r2= 0.905 for Eq. (4), and IR = 1.6 · (1 – e–0.00144 X), r2= 0.908 for Eq. (5);
+(B)IR = 0.51 · X/(60.6 + X), r2= 0.844 for Eq. (4) and IR = 0.46 · (1 – e–0.0142 X), r2= 0.857 for Eq. (5); (D) IR = 69.7 · X/(1599 + X),
+r2= 0.925 for Eq. (4) and IR = 51.0 · (1 – e–0.00074 X), r2= 0.924 for Eq. (5). A logistic equation (Eq. 6, solid line) and an Ivlev equation
+(Eq. 5, dashed line) were used to produce the curves for (C) at prey concentrations of <3770 ng C predator–1d–1(<8560 cells
+predator–1d–1) forall treatments in the experiment. IR = 11 · ln(X+ 20610) – 109, r2= 0.770 for Eq. (6) and IR = 5.7 · (1 – e–0.00013 X),
+r2= 0.701 for Eq. (5)
+sanguineum), Scrippsiella trochoidea, Cochlodinium Grazing impact
+polykrikoides and Prorocentrum minimum (207 to
+353 ng C ciliate–1 d–1) (Fig. 7A). The μ of Strom- When the abundances of Gymnodinium aureolum
+max
+bidinopsis sp. feeding on G. aureolum (0.44 d–1) and small heterotrophic Gyrodiniumspp. (25 to 35 µm
+was lower than for any other mixotrophic dinoflagel- in cell length) in the coastal waters off Saemankeum,
+llate (0.54 to 1.77 d–1). The μ of Strombidinopsis Korea, in 2006 to 2007 (sample size n = 27) were 13 to
+max
+sp. on the mixotrophic dinoflagellate was signi- 4033 cells ml–1and 2 to 78 cells ml–1, respectively, graz-
+ficantly and positively correlated with their I (p < ing coefficients attributable to small heterotrophic
+max
+0.05; Fig. 7C). Gyrodinium spp. on co-occurring G. aureolum were
+
+266 Aquat Microb Ecol 59: 257–272, 2010
+3.0 10
+A A
+Ht )1–d )1–d
+8
+2.0 Ca Ig 1–rotaderp 1–rotaderp
+Ga 6
+4
+1.0 Pm Pt Ac C gn( C gn(
+2 Ha Fj xam xam
+Dt I I
+p > 0.1 Ga p > 0.1
+0.0 0
+0 10 20 30 40 0 10 20 30
+1.5 1.5
+B B Ha
+Pt Ac
+Pm
+1.0 1.0
+Ga )1–d(
+)1–d(
+Ga Fj xam
+Ig Dt xam
+Th
+µ
+0.5 Ht 0.5 µ
+Km Ca
+p > 0.1 p > 0.1
+0.0 0.0
+0 10 20 30 40 0 10 20 30
+Prey size (ESD, µm) Prey size (ESD, µm)
+1.5 1.5
+C C
+Ha Pt
+Ac
+1.0 Pm 1.0
+Ga )1–d( )1–d(
+Fj Ig
+Dt
+xam xam
+Ga
+Ht 0.5 0.5 µ µ
+Ca
+p > 0.1 p > 0.1
+0.0 0.0
+0 1 2 3 0 2 4 6 8 10
+I max (ng C predator–1 d–1) I max (ng C predator–1 d–1)
+Fig. 4. Gyrodinium dominans. (A) Maximum ingestion (I max) Fig. 5. Oxyrrhis marina. (A) Maximum ingestion (I max) and (B)
+and (B) growth rates (μ max) of G. dominans feeding on growth rates (μ max) of O. marina feeding on autotrophic/
+autotrophic/mixotrophic algal prey (d) as a function of prey mixotrophic algal prey (d) as a function of prey size (equiva-
+size (equivalent spherical diameter [ESD], µm) and (C) μ lent spherical diameter [ESD], µm) and (C) μ as a function
+max max
+as a function of the I max. The p-values in (A), (B) and (C) of I max. The p-values in (A), (B) and (C) were all p > 0.1 (linear
+wereall p > 0.1 (linear regression ANOVA). Ca: Chattonella regression ANOVA). Ac: Amphidinium carterae; Dt: Duna-
+antiqua; Ga: Gymnodinium aureolum; Ht: Heterocpasa tri- liella tertiolecta; Fj: Fibrocapsa japonica; Ga: Gymnodinium
+quetra; Km: Karenia mikimotoi; Pm: Prorocentrum minimum; aureolum; Ha: Heterosigma akashiwo; Ig: Isochrysis galbana;
+Th: Thalassiosira sp. I max and/or μ max on algal prey were Pt: Phaeodactylum tricornutum. I maxand/or μ maxon algal prey
+obtained from Nakamura et al. (1992, 1995) and Kim & Jeong were obtained from Goldman et al. (1989), Jeong et al. (2001a,
+(2004) 2003b), and Tillmann & Reckermann (2002)
+
+Yoo et al.: Feeding on Gymnodinium aureolum 267
+30 400
+A A
+Lp Cp As )1–d )1–d
+300
+1–rotaderp
+20 1–rotaderp
+Pm
+St
+Gc 200 St Lp
+C
+10 Cf gn( C
+gn(
+100 Gs
+xam
+Gi Pmc Ga xam
+I
+I
+Ga p < 0.05 p > 0.1
+0 0
+0 10 20 30 40 0 10 20 30 40
+1.5 2.0
+B B
+Ts
+1.5
+As
+Cp
+1.0 Gc
+St 1.0 Pm )1–d( )1–d(
+Ps
+Lp Gs Lp xam xam
+0.5 St
+µ µ
+0.5
+Ga
+Cf 0.0
+Gi Ga
+Ac Pm Pmc p < 0.05 p > 0.1
+0.0 –0.5
+0 10 20 30 40 0 10 20 30 40
+Prey size (ESD, µm) Prey size (ESD, µm)
+1.5 2.0
+C C
+1.5 Lp
+Gc
+Cp As
+1.0
+St 1.0 Gs St )1–d( )1–d(
+Lp xam xam
+0.5 Pm
+0.5 Ga µ µ
+Cf 0.0
+Ga
+Pmc
+Gi p < 0.01 p < 0.05
+0.0 –0.5
+0 10 20 30 0 100 200 300 400
+I max (ng C predator–1 d–1) I max (ng C predator–1 d–1)
+Fig. 6. Polykrikos kofoidii.Maximum (A) ingestion (I , ng C Fig. 7. Strombidinopsissp. Maximum (A) ingestion (I , ng C
+max max
+predator–1d–1) and (B) growth rates (μ , d–1) of P.kofoidiion predator–1 d–1) and (B) growth rates (μ , d–1) of Strombid-
+max max
+autotrophic/mixotrophic algal prey (d) as a function of prey inopsis sp. on autotrophic/mixotrophic algal prey (d) as a
+size (equivalent spherical diameter [ESD], µm) and (C) μ as function of prey size (equivalent spherical diameter [ESD], µm)
+max
+a function of I . The p-values in (A) and (B) were p < 0.05, and (C) μ as a function of the I . The p-values in (A) and
+max max max
+but the p-value in (C) was p < 0.01 (linear regression (B) were p> 0.1, but the p-value in (C) was p < 0.05 (linear re-
+ANOVA). The equations of the linear regression were: (A) gression ANOVA). The equations of the linear regression for
+I = 0.853 · ESD – 11.4, r2= 0.616; (B) μ = 0.0331 · ESD – autotrophic/mixotrophic algal prey only was (C) μ = 0.003 ·
+max max max
+0.375, r2= 0.494; (C) µ = 0.0497 · I – 0.0695, r2= 0.767. I + 0.391, r2= 712. As: Akashiwo sanguinea; Cp: Cochlo-
+max max max
+Ac: Amphidinium carterae; Cf: Ceratium furca; Ga: Gym- dinium polykrikoides; Ga: Gymnodinium aureolum; Gs: G.
+nodinium aureolum; Gc: Gymnodinium catenatum; Gi: simplex; Lp: Lingulodinium polyedrum; Pm: Prorocentrum
+Gymnodinium impudicum; Lp: Lingulodinium polyedrum; minimum; Ps: Pryenomonas salina; St: Scrippsiella trochoidea;
+Pmc: Prorocentrum micans; Pm: P. minimum; St: Scrippsiella Ts: Thalassiosira pseudonana. I and/or μ on algal prey
+max max
+trochoidea. I and/or μ on algal prey were obtained were obtained from Buskey & Hyatt (1995), Montagnes et al.
+max max
+from Jeong et al. (2001b) (1996), Jeong et al. (1999), and Montagnes & Lessard (1999)
+
+268 Aquat Microb Ecol 59: 257–272, 2010
+0.002 to 0.40 d–1(Fig. 8A). In addition, when the abun- Gyrodinium dominans, Oxyrrhis marina, Polykrikos
+dances of Gymnodinium aureolum and large Strom- kofoidiiand Strombidinopsisspp. are known to feed on
+bidinopsis spp. (>70 µm in cell length) in the coastal prey by engulfing them (Kim & Jeong 2004, Nakamura
+waters off Saemankeum in 2006 to 2008 (sample size et al. 1995, Jeong et al. 2001a, 2003a, 2008a), while Pfi-
+n = 20) were 10 to 4425 cells ml–1 and 0.1 to 3.8 cells esteria piscicida, Protoperidinium bipes and Stoecke-
+ml–1, respectively, grazing coefficients attributable to ria algicida feed by means of the peduncle or pallium
+large Strombidinopsis spp. on co-occurring Gymno- (Burkholder & Glasgow 2001, Jeong et al. 2004, 2005).
+dinium aureolumwere 0.007 to 0.25 d–1(Fig. 8B). Therefore, the heterotrophic protists that feed by
+engulfing their prey and were tested in the present
+study were able to feed on G. aureolum, whereas those
+DISCUSSION that feed using their peduncle or pallium did not feed
+on G. aureolum. P. piscicida, P. bipes, and S. algicida
+Feeding occurrence did not deploy a tow filament to capture G. aureolum
+cells. P. piscicida is known to to feed on the naked
+This study is the first report on feeding by heterotro- mixotrophic dinoflagellates Cochlodinium polykriko-
+phic dinoflagellates and ciliates on actual Gymno- ides, Akashiwo sanguinea and Gymnodinium catena-
+dinium aureolum since the confusion over taxonomy tum, which are larger than G. aureolum (Jeong et al.
+was settled (Daugbjerg et al. 2000, Hansen et al. 2000). 2006). Furthermore, the mean swimming speeds of C.
+polykrikoides and G. catenatum (450 to 1060 µm s–1)
+are greater than that of G. aureolum(390µm s–1), while
+100
+A the speed achieved by A. sanguinea (190 µm s–1) is
+)1–lm
+0 0.5 slower than that of G. aureolum (Jeong et al. 1999,
+80
+2010, authors’ unpubl. data). Therefore, size and/or
+sllec(
+swimming speed of G. aureolummay not be primarily
+60 responsible for nonfeeding of P. piscicida on G. aure-
+.pps
+olum. On the other hand, G. dominans, O. marina, P.
+40 kofoidii and Strombidinopsis spp. are comparable in muinidoryG
+size or larger than G. aureolum, while P. piscicida, P.
+bipesand S. algicidaare smaller. Therefore, the size of
+20
+the predators may affect their ability to feed on G.
+aureolum. On the basis of the results of the present
+0
+study, a high abundance of large heterotrophic dino-
+6 )1–lm
+B flagellates and/or ciliates that engulf their prey, but no
+or low abundance of heterotrophic dinoflagellates that
+5 sllec(
+feed using their small peduncle or pallium is expected
+4 to occur during red tides dominated by G. aureolum.
+.pps
+Oxyrrhis marina and Polykrikos kofoidii are known
+3 to be killed by the toxic mixotrophic dinoflagellate
+sisponidibmortS
+Alexandrium tamarense at concentrations of ca. 3000
+2 to 4000 cells ml–1 (Cho & Matsuoka 2000, Tillmann &
+John 2002). The present study showed that O. marina
+1
+and P. kofoidii grew well while feeding on Gymno-
+dinium aureolum. This suggests that G. aureolum is
+0
+not toxic or has much weaker toxins than A.
+0 10 100 1000 10000
+Gymnodinium aureolum (cell ml–1) tamarense. Furthermore, the large ciliate Strom-
+bidinopsissp. used in this study fed and grew well on
+Fig. 8. Gyrodiniumspp. and Strombidinopsisspp. Calculated G. aureolum, while K. mikimotoi (previously Gyro-
+grazing coefficients of (A) small heterotrophic Gyrodinium
+dinium aureolum) is known to be harmful to the large
+spp. (n = 27) and (B)Strombidinopsisspp. (n = 20) in relation
+ciliate Favella ehrenbergii (Hansen 1995). This evi-
+to the concentration of co-occurring Gymnodinium aure-
+olum see Eq. (7) for calculation). Clearance rates, measured dence confirmed that, unlike K. mikimotoi, Gymno-
+under the conditions provided in the present study, were dinium aureolum does not have toxic compounds
+corrected with a Q 10 = 2.8 (Hansen et al. 1997) because in strong enough to kill larval fish and/or brine shrimp as
+situ water temperatures and the temperature used in the
+reported by Tang et al. (2008) and Jeong et al. (2010).
+laboratory forthis experiment (20°C) were sometimes differ-
+ent. Inset shows the scale of the circles that represent grazing There have been some studies reporting harmful
+coefficients (g, d–1) effects by K. mikimotoion gut tissues as determined by
+
+Yoo et al.: Feeding on Gymnodinium aureolum 269
+histological examination of some juvenile bivalve mol- sp. Large ciliates such as Strombidinopsis spp. and
+lusks, such as the bay scallop Argopecten irradians Favella ehrenbergii have been reported to be nega-
+and the oyster Crassostrea virginica (Smolowitz & tively affected by the presence of toxic algal prey; the
+Shumway 1997). The copepods Pseudocalanus elon- growth rates of Strombidinopsis spp. and F. ehren-
+gatesand Temora longicornisare known to select the bergii decreased when the toxic dinoflagellates
+nontoxic dinoflagellate Gyrodinium instriatumin pref- Amphidinium carterae and Alexandrium tamarense,
+erence to K. mikimotoi (Schultz & Kioerboe 2009). respectively, were provided as prey (Hansen 1995,
+However, on the basis of the results of the present Jeong et al. 1999). Thus, G. aureolummay have weak
+study, there is a high probability that G. aureolumdoes toxins that negatively affect the growth and ingestion
+not have harmful effects on these larvae at the histo- of Strombidinopsisspp., but do not negatively affect its
+logical level and copepods may not select nontoxic survival. The size of G. aureolum was intermediate
+dinoflagellate prey in preference to G. aureolum. among the sizes of the edible prey species for Gyro-
+dinium dominans as well. However, unlike Strom-
+bidinopsissp., the μ and I of G. dominansfeeding
+max max
+Growth and ingestion rates on G. aureolum were comparable with or higher than
+those when feeding on the algal prey. Several hetero-
+The μ and I of Gyrodinium dominans, Oxyrrhis trophic dinoflagellates have been known to detoxify
+max max
+marina and Strombidinopsis sp. feeding on Gymno- phytotoxins (Jeong et al. 2001a, 2003a). G. dominans
+dinium aureolum obtained by means of Michaelis- grew well on the toxic dinoflagellate Karenia mikimo-
+Menten equations (Eqs. 2 & 4) were slightly higher toi (previously Gymnodinium mikimotoi) (0.48 d–1
+than those obtained by means of Ivlev equations when corrected to 20°C using a Q of 2.8, Hansen et
+10
+(Eqs. 3 & 5), even though r2-values of both equations al. 1997), even though the μ of G. dominans on K.
+max
+for each data set were similar. There were 2 character- mikimotoi was half the μ on G. aureolum (0.9 d–1).
+max
+istic differences between these 2 equations. The rate of Therefore, G. aureolum may affect the growth and
+increase in the growth or ingestion rates at low and ingestion of diverse predators in several different ways
+medium prey concentrations in the Ivlev equations (e.g. lower and upper prey size limits, presence and
+were higher than those determined from Michaelis- toxicity of toxins).
+Menten equations; however, μ and I obtained by The μ of Polykrikos kofoidii and Strombidinopsis
+max max max
+means of Michaelis-Menten equations were higher sp. on the mixotrophic dinoflagellates showed signifi-
+than those obtained by means of Ivlev equation be- cant positive correlations with I , while that of Gyro-
+max
+cause the rates obtained from the Michaelis-Menten dinium dominans and Oxyrrhis marina did not. The
+equations continuously and detectably increased, I of P. kofoidii and Strombidinopsis spp. on the
+max
+while those obtained from the Ivlev equations continu- mixotrophic dinoflagellates were 2.3 to 24.4 ng C
+ously, but undetectably, increased. Thus, an Ivlev predator–1 d–1 and 70 to 353 ng C predator–1 d–1,
+equation may produce the best fit curve for both respectively, while that of G. dominansand O. marina
+growth and ingestion rates of G. dominans, while a were 1.2 to 2.3 ng C predator–1d–1and 0.3 to 7.0 ng C
+Michaelis-Menten equation may produce the best fit predator–1 d–1, respectively. This evidence suggests
+curve for growth and ingestion rates of O. marinaand that P. kofoidii and Strombidinopsis sp. may not have
+Strombidinopsisspp. difficulty in capturing and ingesting these algal preys
+The μ and I of Polykrikos kofoidii, Oxyrrhis and are able to convert ingested carbon to body carbon
+max max
+marina, and Strombidinopsis sp. when feeding on at similar rates, regardless of the prey species (i.e. they
+Gymnodinium aureolum obtained using Eqs. (2) & (4) may effectively digest any prey). In contrast, G. domi-
+were lower than that when they fed on any other algal nans and O. marina may have difficulty in capturing
+prey (Figs. 4 to 7). The μ and I of P. kofoidiiwhen and ingesting these algal prey, in particular large prey
+max max
+feeding on the algal prey showed significant positive species (i.e. differential energy spent for feeding)
+correlations with prey size. Thus, the almost smallest and/or may convert ingested carbon to body carbon at
+size of G. aureolum may be mainly responsible for different rates for different prey species (i.e. small
+these lower μ and I of P. kofoidiicompared with predators may digest some prey easily and others with
+max max
+the other prey. Interestingly, G. aureolumis almost the more difficulty).
+largest of the prey species on which O. marinais able
+to feed. O. marinamay have difficulty in capturing and
+ingesting this large edible prey, and this may be Grazing impact
+mainly responsible for the lower μ and I of G.
+max max
+aureolum. The size of G. aureolumwas middle among Grazing coefficients attributable to small heterotro-
+the sizes of the edible prey species for Strombidinopsis phic Gyrodinium spp. (25 to 35 µm in cell length) on
+
+270 Aquat Microb Ecol 59: 257–272, 2010
+co-occurring Gymnodinium aureolum in the coastal Acknowledgements. We thank Dr. K. A. Seong for technical
+waters off Saemankeum in 2006 to 2007 ranged support and E. Potvin for improving the English of the manu-
+between 0.002 and 0.40 d–1(i.e. up to 33% of G. aure- script. This paper was funded by grants from the National
+Research Foundation (2009-0058298) and an award to H.J.J.
+olum populations could be removed by small Gyro-
+from the Ecological Disturbance Research Program, Korea
+diniumpopulations in 1 d). Grazing coefficients attrib- Institute of Marine Science and Technology Promotion, Min-
+utable to Gyrodinium dominans were high (2 to istry of Land, Transportation and Marine Affairs (KMLTM),
+78 cells ml–1) in a wide range of G. aureolum abun- and an award to J.S.K. from the Korean Research Foundation
+(KRF-2007-359-C00042).
+dances (13 to 4033 cells ml–1). We assumed that the
+ingestion rates of the other small heterotrophic Gyro-
+dinium spp. feeding on G. aureolum are the same as LITERATURE CITED
+that of G. dominans. Gyrodinium guttula co-occurs in
+Blasco D, Berard-Therriault L, Levasseur M, Vrieling EG
+the sampling waters, but it was not distinguishable
+(1996) Temporal and spatial distribution of the ichthy-
+from G. dominansin fixed samples under light micro-
+otoxic dinoflagellate Gyrodinium aureolumHulburt in the
+scope. We did not measure the growth and ingestion St Lawrence, Canada. J Plankton Res 18:1917–1930
+rates of G. guttulafeeding on G. aureolumbecause we Burkholder JAM, Glasgow HB Jr (2001) History of toxic Pfies-
+do not have a culture of this species. Thus, our estima- teriain North Carolina estuaries from 1991 to the present.
+BioScience 51:827–841
+tion may be under- or overestimated if the growth and
+Buskey EJ (2008) How does eutrophication affect the role of
+ingestion rates of G. guttula feeding on G. aureolum grazers in harmful algal bloom dynamics? Harmful Algae
+are significantly different from those of G. dominans 8:152–157
+and the abundance of G. guttulais not negligible. Buskey EJ, Hyatt CJ (1995) Effects of the Texas (USA) ‘brown
+tide’ alga on planktonic grazers. Mar Ecol Prog Ser 126:
+In addition, grazing coefficients attributable to
+285–292
+Strombidinopsis spp. (>70 µm in cell length) on co-
+Calbet A, Landry M (2004) Phytoplankton growth, microzoo-
+occurring Gymnodinium aureolum in the coastal plankton grazing, and carbon cycling in marine ecosys-
+waters off Saemankeum in 2006 to 2008 were 0.007 to tems. Limnol Oceanogr 49:51–57
+0.25 d–1 (i.e. up to 22% of G. aureolum populations Calbet A, Vaqué D, Felipe J, Vila M, Sala MM, Alcaraz M,
+Estrada M (2003) Relative grazing impact of microzoo-
+could be removed by large Strombidinopsis popula-
+plankton and mesozooplankton on a bloom of the toxic
+tions in 1 d). Grazing coefficients attributable to Strom- dinoflagellate Alexandrium minutum. Mar Ecol Prog Ser
+bidinopsis spp. were also high (0.1 to 3.8 cells ml–1) 259:303–309
+in a wide range of G. aureolum abundances (20 to Cho HJ, Matsuoka K (2000) Cell lysis of a phagotrophic
+4030 cells ml–1). Therefore, the populations of Strom- dinoflagellate, Polykrikos kofoidii, feeding on Alexan-
+drium tamarense.Plankton Biol Ecol 47:134–136
+bidinopsis spp. or Gyrodinium dominans may have a
+Daugbjerg N, Hansen G, Larsen J, Moestrup Ø (2000) Phy-
+considerable grazing impact on G. aureolum not only logeny of some major genera of dinoflagellates based on
+during the development or declining stages of red ultrastructure and partial LSU rDNA sequence data,
+tides dominated by G. aureolum, but also at the fully including the erection of 3 new genera of unarmoured
+dinoflagellates. Phycologia 39:302–317
+developed stage of these red tides.
+Frost BW (1972) Effects of size and concentration of food
+Studies on the formation, persistence and decline of particles on the feeding behavior of the marine plank-
+red tide suggest that grazing pressure may sometimes tonic copepod Calanus pacificus. Limnol Oceanogr 17:
+play an important role in bloom dynamics (Watras et al. 805–815
+Gill CW, Harris RP (1987) Behavioural responses of the cope-
+1985, Turner et al. 1998, Turner 2006). In particular,
+pods Calanus helgolandicus and Temora longicornis to
+grazing by heterotrophic protists is believed to con-
+dinoflagellate diets. J Mar Biol Assoc UK 67:785–801
+tribute to the decline of red tides or cause changes in Goldman JC, Dennett MR, Gordin H (1989) Dynamics of her-
+the abundance of the causative species (Jeong 1995, bivorous grazing by the heterotrophic dinoflagellate
+Kamiyama & Matsuyama 2005, Turner 2006, Buskey Oxyrrhis marina.J Plankton Res 11:391–407
+Hansen PJ (1995) Growth and grazing response of a ciliate
+2008, Stoecker et al. 2008). This study is an important
+feeding on the red tide dinoflagellate Gyrodinium aure-
+example showing that grazing by heterotrophic olumin monoculture and in mixture with a non-toxic alga.
+dinoflagellates and ciliates may contribute to the Mar Ecol Prog Ser 121:65–72
+decline of red tides. Hansen G, Daugbjerg N, Henriksen P (2000) Comparative
+study of Gymnodinium mikomotoi and Gymnodinium
+Some studies have suggested a biological method for
+aureolum, comb. nov. (=Gyrodinium aureolum) based on
+controlling red tides using mass cultured grazers
+morphology, pigment composition, and molecular data. J
+(Jeong et al. 2003b, 2008a). Strombidinopsis spp. or Phycol 36:394–410
+Gyrodinium dominansare strong candidates for devel- Hansen PJ, Bjornsen PK, Hansen BW (1997) Zooplankton
+oping a biological method for controlling Gymno- grazing and growth: scaling within the 2–2,000-µm body
+size range. Limnol Oceanogr 42:687–704
+dinium aureolum red tides by increasing the abun-
+Heinbokel JF (1978) Studies on the functional role of tintin-
+dance of these predators and introducing them to aqua nids in the Southern California Bight. I. Grazing and
+cages in natural environments or aqua tanks on land. growth rates in laboratory cultures. Mar Biol 47:177–189
+
+Yoo et al.: Feeding on Gymnodinium aureolum 271
+Hulburt EM (1957) The taxonomy of unarmored Dinophyceae isquamabloom. J Plankton Res 27:303–311
+of shallow embayments on Cape Cod, Massachusetts. Biol Kim JS, Jeong HJ (2004) Feeding by the heterotrophic
+Bull (Woods Hole) 112:196–219 dinoflagellates Gyrodinium dominans and G. spirale on
+Jeong HJ (1995) The interactions between microzooplank- the red-tide dinoflagellate Prorocentrum minimum. Mar
+tonic grazers and dinoflagellates causing red tides in the Ecol Prog Ser 280:85–94
+open coastal waters off southern California. PhD thesis. Lee JK, Hirayama K (1992) The food removal rate by Noc-
+University of California, San Diego, CA tiluca scintillans feeding on Tetraselmis tetrathelle and
+Jeong HJ, Shim JH, Lee CW, Kim JS, Koh SM (1999) Growth Gymnodinium nagasakiense.Bull Fac Fish Nagasaki Univ
+and grazing rates of the marine planktonic ciliate Strom- 71:169–175
+bidinopsis sp. on red-tide and toxic dinoflagellates. Menden-Deuer S, Lessard E (2000) Carbon to volume rela-
+JEukaryot Microbiol 46:69–76 tionships for dinoflagellates, diatoms, and other protist
+Jeong HJ, Kang HJ, Shim JS, Park JY, Kim JS, Song JY, Choi plankton. Limnol Oceanogr 45:569–579
+HJ (2001a) Interactions among the toxic dinoflagellate Montagnes DJS, Lessard EJ (1999) Population dynamics of
+Amphidinium carterae, the heterotrophic dinoflagellate the marine planktonic ciliate Strombidinopsis multiauris:
+Oxyrrhis marina, and the calanoid copepods Acartiaspp. its potential to control phytoplankton blooms. Aquat
+Mar Ecol Prog Ser 218:77–86 Microb Ecol 20:167–181
+Jeong HJ, Kim SK, Kim JS, Kim ST, Yoo YD, Yoon JY (2001b) Montagnes DJS, Berger JD, Taylor FJR (1996) Growth rate of
+Growth and grazing rates of the heterotrophic dinoflagel- the marine planktonic ciliate Strombidinopsis cheshiri
+late Polykrikos kofoidii on red-tide and toxic dinoflagel- Snyder and Ohman as a function of food concentration
+lates. J Eukaryot Microbiol 48:298–308 and interclonal variability. J Exp Mar Biol Ecol 206:
+Jeong HJ, Park KH, Kim JS, Kang HJ and others (2003a) 121–132
+Reduction in the toxicity of the dinoflagellate Gymno- Nakamura Y, Yamazaki Y, Hiromi J (1992) Growth and graz-
+dinium catenatum when fed on by the heterotrophic ing of a heterotrophic dinoflagellate, Gyrodinium domi-
+dinoflagellate Polykrikos kofoidii.Aquat Microb Ecol 31: nans, feeding on a red tide flagellate, Chattonella antiqua.
+307–312 Mar Ecol Prog Ser 82:275–279
+Jeong HJ, Kim JS, Yoo YD, Kim ST and others (2003b) Nakamura Y, Suzuki SY, Hiromi J (1995) Growth and grazing
+Feeding by the heterotrophic dinoflagellate Oxyrrhis of a naked heterotrophic dinoflagellate, Gyrodinium dom-
+marina on the red-tide raphidophyte Heterosigma aka- inans.Aquat Microb Ecol 9:157–164
+shiwo: a potential biological method to control red tides Naustvoll LJ (1998) Growth and grazing by the thecate het-
+using mass-cultured grazers. J Eukaryot Microbiol 50: erotrophic dinoflagellate Diplopsalis lenticula(Diplopsali-
+274–282 daceae, Dinophyceae). Phycologia 37:1–9
+Jeong HJ, Yoo YD, Kim ST, Kang NS (2004) Feeding by the Nielsen MV, Tønseth CP (1991) Temperature and salinity
+heterotrophic dinoflagellate Protoperidinium bipeson the effect on growth and chemical composition of Gyrodinium
+diatom Skeletonema costatum. Aquat Microb Ecol 36: aureolumHulburt in culture. J Plankton Res 13:389–398
+171–179 Potts GW, Edwards JM (1987) Impact of a Gyrodinium aure-
+Jeong HJ, Kim JS, Kim JH, Kim ST and others (2005) Feeding olumbloom on inshore young fish populations. J Mar Biol
+and grazing impact by the newly described heterotrophic Assoc UK 67:293–297
+dinoflagellate Stoeckeria algicida on the harmful alga Schultz M, Kioerboe T (2009) Active prey selection in two
+Heterosigma akashiwo.Mar Ecol Prog Ser 295:69–78 pelagic copepods feeding on potentially toxic and non-
+Jeong HJ, Ha JH, Park JY, Kim JH and others (2006) Distrib- toxic dinoflagellates. J Plankton Res 31:553–561
+ution of the heterotrophic dinoflagellate Pfiesteria pisci- Smolowitz R, Shumway SE (1997) Possible cytotoxic effects of
+cidain Korean waters and its consumption of mixotrophic the dinoflagellate, Gyrodinium aureolum, on juvenile
+dinoflagellates, raphidophytes, and fish blood cells. Aquat bivalve mollusks. Aquac Int 5:291–300
+Microb Ecol 44:263–278 Stoecker DK, Thessen AE, Gustafson DE (2008) ‘Windows of
+Jeong HJ, Kim JS, Song JY, Kim JH, Kim TH, Kim SK, Kang opportunity’ for dinoflagellate blooms: reduced microzoo-
+NS (2007) Feeding by heterotrophic protists and copepods plankton net growth coupled to eutrophication. Harmful
+on the heterotrophic dinoflagellates Pfiesteria pisicicida, Algae 8:158–166
+Stoeckeria algicida, and Luciella masanensis. Mar Ecol Tang YZ, Egerton TA, Kong L, Marshall HG (2008) Morpho-
+Prog Ser 349:199–211 logical variation and phylogenetic analysis of the dinofla-
+Jeong HJ, Kim JS, Yoo YD, Kim ST and others (2008a) Control gellate Gymnodinium aureolumfrom a tributary of Chesa-
+of the harmful alga Cochlodinium polykrikoides by the peake Bay. J Eukaryot Microbiol 55:91–99
+naked ciliate Strombidinopsis jeokjoin mesocosm enclo- Tangen K (1977) Blooms of Gyrodinium aureolum (Dino-
+sures. Harmful Algae 7:368–377 phyceae) in north European waters, accompanied by mor-
+Jeong HJ, Seong KA, Yoo YD, Kim TH and others (2008b) tality in marine organisms. Sarsia 63:123–133
+Feeding and grazing impact by the small marine hetero- Tillmann U, John U (2002) Toxic effects of Alexandriumspp.
+trophic dinoflagellates on heterotrophic bacteria. J Euk- on heterotrophic dinoflagellates: an allelochemical de-
+aryot Microbiol 55:271–288 fense mechanism independent of PSP-toxin content. Mar
+Jeong HJ, Yoo YD, Kang NS, Rho JR and others (2010) Ecol- Ecol Prog Ser 230:47–58
+ogy of Gymnodinium aureolum. I. Feeding in western Tillmann U, Reckermann M (2002) Dinoflagellate grazing on
+Korean waters. Aquat Microb Ecol 59:239–255 the raphidophyte Fibrocapsa japonica.Aquat Microb Ecol
+Kamiyama T, Arima S (2001) Feeding characteristics of two 26:247–257
+tintinnid ciliate species on phytoplankton including harm- Turner JT, Borkman DG (2005) Impact of zooplankton grazing
+ful species: effects of prey size on ingestion rates and on Alexandrium blooms in the offshore Gulf of Maine.
+selectivity. J Exp Mar Biol Ecol 257:281–296 Deep-Sea Res II 52:2801–2816
+Kamiyama T, Matsuyama Y (2005) Temporal changes in the Turner JT, Tester PA, Hansen PJ (1998) Interactions between
+ciliate assemblage and consecutive estimates of their toxic marine phytoplankton and metazoan and protistan
+grazing effect during the course of a Heterocapsa circular- grazers. In: Anderson DM, Cembella AD, Hallegraeff GM
+
+272 Aquat Microb Ecol 59: 257–272, 2010
+(eds) Phytoplankton ecology of harmful algal blooms. Watras CJ, Garcon VC, Olson RJ, Chishom SW, Anderson DM
+NATO ASI Ser 41. Springer, Berlin, p 453–473 (1985) The effect of zooplankton grazing on estuarine
+Turner JT (2006) Harmful algae interactions with marine blooms of the toxic dinoflagellate Gonyaulax tamarensis.
+planktonic grazers. In: Granéli E, Turner JT (eds) Ecology JPlankton Res 7:891–908
+of harmful algae. Springer-Verlag, Berlin, p 259–270 Yamasaki Y, Kim D, Matsuyama Y, Oda T, Honjo T (2004)
+Uye S, Takamatsu K (1990) Feeding interactions between Production of superoxide anion and hydrogen peroxide by
+planktonic copepods and red-tide flagellates from Japan- the red tide dinoflagellate Karenia mikimotoi. J Biosci
+ese coastal waters. Mar Ecol Prog Ser 59:97–107 Bioeng 97:212–215
+Editorial responsibility: Robert Sanders, Submitted: August 17, 2009; Accepted: January 13, 2010
+Philadelphia, Pennsylvania, USA Proofs received from author(s): April 12, 2010
+

@@ -1,0 +1,998 @@
+Article
+Symbioses of Ciliates (Ciliophora) and Diatoms
+(Bacillariophyceae): Taxonomy and
+Host–Symbiont Interactions
+FernandoGómez
+CarmenCamposPanisse3,E-11500PuertodeSantaMaría,Spain;fernando.gomez@fitoplancton.com
+(cid:1)(cid:2)(cid:3)(cid:1)(cid:4)(cid:5)(cid:6)(cid:7)(cid:8)(cid:1)
+(cid:1)(cid:2)(cid:3)(cid:4)(cid:5)(cid:6)(cid:7)
+Received: 20May2020;Accepted: 20July2020;Published: 24July2020
+Abstract: Thenatureoftheplanktonsymbiosesbetweenciliatesanddiatomshasbeeninvestigated
+from the tropical South Atlantic Ocean, and Mediterranean and Caribbean Seas. The obligate
+symbioses of the diatoms Chaetoceros dadayi or C. tetrastichon with the tintinnid Eutintinnus spp.,
+andChaetoceroscoarctatuswiththeperitrichciliateVorticellaoceanicaarethemostwidespread,andthe
+consortiumofChaetocerosdensusandVorticellasp. havebeenrediscovered. Facultativesymbioses
+between Eutintinnus lususundae and Chaetoceros peruvianus, Hemiaulus spp., and Thalassionema sp.
+are less frequent, often containing three or four partners because Hemiaulus can also harbor the
+diazotrophiccyanobacteriaRicheliaintracellularis. Anotherthree-partnerconsortiumistheperitrich
+ciliateZoothamniumpelagicum,ectobiontbacteria,andthediatomLicmophorasp. Thepredominantly
+oligotrophicconditionsoftropicalseasdonotfavorthesurvivaloflargediatoms,butlargespeciesof
+CoscinodiscusandPalmerinainfacultativesymbiosiswithPseudovorticellacoscinodiscihaveacompetitive
+advantage over other diatoms (i.e., reduction of sinking speed and diffusive boundary layer).
+Symbiosesallowsessileperitricciliatestoextendtheirdistributioninthepelagicenvironment,permit
+boreal-polar related diatoms such as C. coarctatus or Fragilariopsis doliolus to inhabit tropical seas,
+andhelplargediatomstoextendtheirsurvivalunderunfavorableconditions.
+Keywords: commensalism;epibioticconsortia;tintinnid;peritrichciliate;phoresy;epibiosis
+1. Introduction
+Ciliates are a highly diverse group of heterotrophic protists [1], and crucial members of the
+marine microbial loop that predominates in the oligotrophic ocean [2]. Standard protocols of
+preservation(Lugol’ssolution,formaldehyde)candistortnakedciliatecells,makingtheiridentification
+inenvironmentalsamplesdifficult. Tintinnidciliateshavevase-shapedhyalineproteinaceousshells
+calledloricathatsurvivepreservationandfacilitatespeciesidentification. Forthatreason,thereis
+moreinformationatthespeciesleveloftintinnids(loricateciliates)ascomparedwiththeoligotrichs
+(nakedciliates)[3–5],althoughtheidentificationexclusivelybasedontheloricafeaturesissometimes
+problematicduetothepolymorphiccharacterofsomespecies[6–8].
+Diatoms are an essential component of phytoplankton that contribute around 40% of marine
+netprimaryproductivity[9]. Diatomshaveacharacteristicsilicacellwallcomposedoftwovalves
+knownasthefrustule[10]. Theyreachhighabundancesineutrophicenvironmentssuchaswell-mixed
+coastalorupwellingregionsand,inoligotrophicwaters,diatomscanutilizeecologicaladaptations
+suchasthesymbioticinteractionswithdiazotrophiccyanobacteria[11,12]. Diatomsarepotentialprey
+forciliates[13],buttherearealsoexamplesofsymbioticrelationshipsbetweendiatomsandciliates.
+ThemostwidespreadconsortiaarethediatomsChaetocerosdadayiandC.tetrastichonattachedtothe
+loricaofspeciesofthetintinnidciliategenusEutintinnus[14–18],andtheconsortiumofChaetoceros
+coarctatusandtheperitrichciliateVorticellaoceanica[19–22]. Lesscommonexamplesaretheconsortia
+Oceans2020,1,133–155;doi:10.3390/oceans1030010 www.mdpi.com/journal/oceans
+
+Oceans2020,1 134
+of the diatom Fragilariopsis doliolus and several tintinnid species [23–25], and the consortium of
+the peritrich ciliate Pseudovorticella coscinodisci attached to several large pelagic diatoms [22,26,27].
+The research has mainly emphasized morphological and taxonomic aspects of the partners of the
+consortia, often from fixed material, and little is known about the epibiont/basibiont relationship
+andtheadvantagesofthesymbioticlife. Theseplanktonicsymbiosesoccurpreferentiallyintropical
+seas where access to laboratories is limited and, consequently, there are few studies based on live
+individuals. Inaddition,whiletherearenumerouspublicationsonthemotilityoffree-livingperitrich
+ciliatesattachedtoinanimatesubstratesinwastewatertreatmentplantsorshorelines[28–30],nothing
+isknownregardingthemotilebehaviorofsymbioticciliatessuchasV.oceanicathatappeartocontrol
+thedisplacementoftheirdiatomhost.
+Thisstudyprovidesnewdataonthedistributionoftheseconsortia,newexamplesthatinclude
+threeorfourpartners(bacteria,ciliate,anddiatom),andthefirstmicrographsandvideorecordingsof
+someconsortia. Themotilebehavioroftheciliate-diatomconsortiaisinvestigatedbyhigh-speedvideo
+recording. Culturesofthesymbioticpartnerswerealsoattemptedinordertotesttheircapabilityto
+liveasindependentorganisms,andtotrackthemorphologicalchangesbetweenthesymbioticand
+free-livingstages. Thisstudyprovidesnewinsightsonthesymbioticinteractionsbetweendiatoms
+andciliates.
+2. MaterialsandMethods
+PlanktonsampleswerecollectedwithplanktonnetsfromfourcoastalsitesintheMediterranean
+andCaribbeanSeasandtheSouthAtlanticOcean(Table1). Theliveplanktonconcentratewasscanned
+in settling chambers with inverted microscopes. Detailed methods of collection and observations
+are described in Gómez et al. [22,31]. References were used for the identification of diatoms [10],
+cyanobacteria[12],nakedciliates[21,22,32],andtintinnidciliatesbasedontheloricafeatures[3,4].
+In order to test the survival of the diatoms as free-living organisms, the consortia were picked
+individuallywithafinecapillaryintoacleanchamberandwashedseveraltimesintoaseriesofdrops
+of0.2µm-filteredseawatertoremoveotherorganisms. Thecellswereplacedin12-welltissueculture
+platewith0.2µmfilteredandsterilizedseawatersupplementedwithf/2mediumwithsilicatesand
+incubatedat23◦ C,with100µmolphotons·m−2s−1.
+Theculturesweremonitoredusinganinverted
+microscope. Turbulencewasaddedwithmicro-bubbleaerationincaseswhereculturegrowthwasnot
+immediatelyapparent.
+Table1. Place,date,andmethodofcollectionoftheciliateanddiatomconsortia.
+Place Coordinates Date Method
+Marseilles 43◦ 16(cid:48) 48(cid:48)(cid:48) N–5◦ 20(cid:48) 57(cid:48)(cid:48) E October2007–September2008 concentrator(20,40,or60µm)
+Banyuls-sur-Mer 42◦ 28(cid:48) 50(cid:48)(cid:48) N–3◦ 08(cid:48) 09(cid:48)(cid:48) E October2008–August2009 concentrator(20,40,or60µm)
+Villefranche-sur-Mer 43◦ 41(cid:48) 10(cid:48)(cid:48) N–7◦ 19(cid:48) 00(cid:48)(cid:48) E September2009–February2010 53µmplanktonnet
+Valencia 39◦ 27(cid:48) 38.1(cid:48)(cid:48) N–0◦ 19(cid:48) 21.3(cid:48)(cid:48) E May2011–February2013 20µmplanktonnet
+FosforoscenteBay 17◦ 58(cid:48) 30(cid:48)(cid:48) N–67◦ 01(cid:48) 10(cid:48)(cid:48) W February–March2012 20µmplanktonnet
+MagüeyesIsland 17◦ 58(cid:48) 7.8(cid:48)(cid:48) N–67◦ 3(cid:48) 41.3(cid:48)(cid:48) W February–March2012 20µmplanktonnet
+SãoSebastiãoChannel 23◦ 5(cid:48) 4.0(cid:48)(cid:48) S–45◦ 24(cid:48) 28.8(cid:48)(cid:48) W March–December2013 20µmplanktonnet
+Ubatuba 23◦ 32(cid:48) 20.1(cid:48)(cid:48) S–45◦ 5(cid:48) 58.9(cid:48)(cid:48) W January2014–January2016 20µmplanktonnet
+
+Oceans2020,1 135
+ThezooidstalkcontractionoftheperitrichciliateV.oceanicawastoorapidtobeobservedby
+thetimeresolutionofordinaryvideorecordings(30frames·s−1
+(fps),33milliseconds(ms)between
+subsequentframes),therefore,themotilitywasrecordedwithahigh-speedcamera(PhotonFASTCAM
+SA2model86K-C3,SanDiego,CA,USA).Thehigh-speedcamerawasconnectedtothelateralport
+ofaninvertedmicroscope(IX73,Olympus,Tokyo,Japan). Initialtestsshowedthatthecontraction
+of the stalk of V. oceanica lasted for 2 milliseconds. A recording rate of 5000 fps (0.2 ms between
+subsequentframes)providedabout10framesduringthecontractionthatwereenoughtocharacterize
+themovement. Tovisualizetheflowfield,aliquotsofthenon-motileunicellularmicroalga,Chlorella
+sp.,whichisapproximately~4µmindiameter,wereaddedtothemedia. Theflowfieldwasalso
+testedbyaddingdropsofared-coloredfooddye. TheV.oceanicaandC.coarctatusconsortiumwas
+continuouslymoving,therefore,observationsathighmagnificationandrecordingazooidtravelling
+paralleltothefocalplaneweredifficult. BecauseV.oceanicaisgregarious,formingapseudo-colonyof
+100–150individuals,itwasalsodifficulttodeterminethefeedingcurrentofasinglezooidwithout
+interference by its neighbors. The motility of the consortium of P. coscinodisci and Coscinodiscus
+cylindricus(=C.wailesii)wasmorelimited. Somevalvefacesonlyshowedoneortwozooids,andit
+waseasiertorecordthefeedingcurrentsofasinglezooid.
+3. Results
+3.1. DiatomsandTintinnidCiliates
+3.1.1. ConsortiaofChaetocerosandEutintinnus
+ThemostwidespreadconsortiawereofthediatomsChaetocerosdadayiandC.tetrastichonattached
+totheloricaofEutintinnusapertusandE.pinguis,respectively.Theseconsortiawerefoundinallthe
+samplingsitesinthewesternMediterraneanandCaribbeanSeas,andtheSouthAtlanticOcean(Table2).
+ThespeciesofthegenusEutintinnusarecharacterizedbyacylindro-conicallorica,openwidelyat
+both ends. One aperture was oral, with the mouth and cilia, and the other aperture was aboral,
+nearthepedicelofthecell. TheloricaofE.apertuswasaslightlytaperingshortcylinder(~90µm
+long,and~30µmoraldiameter,~15µmaboraldiameter)withadistinctiveabruptnarrowingnearthe
+aboralend(Figure1a,b). TheloricaofE.pinguiswaslarger(110–150µmlong,~40µmoraldiameter,
+and~25µmaboraldiameter)andwithalessmarkedaboralconstriction(Figure1e). Thediatomsofthe
+genusChaetocerosarecharacterizedbyhorn-likevalveextensionsknownassetae. ThespeciesC.dadayi
+andC.tetrastichonaremembersofthesubgenusPhaeoceroscomprisinggenerallyrobustspecieshaving
+thicksetae,andchloroplastsinboththecellandthesetae. ThechainofChaetoceroswasadherednear
+theoralaperturewheretheloricasurfacewasstraight,avoidingthemorecurvedsurfacenearthe
+aboralend(Figure1a,b,e). Twoormoreindependentchainsinthesameloricawereneverobserved
+(exceptrecentlyfragmentedchains). Duringtheciliatedivision,theanteriorhalfoftheciliateformed
+onedaughtercell(theproter),andtheposteriorhalfformedtheother(theopisthe). Theopisthekept
+theoldlorica,whiletheproterformedanewlorica. Afour-celleddiatomchaintendedtofragmentinto
+two,two-celledchains. Oneofthetwo-celledchainsremainedintheoldloricaandtheothertwo-celled
+chainwasattachedtotheproter,untilthecompletionofthenewlorica(Figure1c). Theoccasional
+findingsofdetachedindividualsofC.dadayiandC.tetrastichonareattributedthemechanicaldamage
+duringthenetsampling(Figure1d).
+
+Oceans2020,1 136
+Table 2. Records of the ciliate-diatom symbioses in this study. The geographical coordinates of
+theplacesofcollectionarereportedintheTable1. -,non-observed;+,occasionalrecords;and++,
+commonrecords.
+CiliateandDiatomConsortium NWMediterranean CaribbeanSea TropicalSouthAtlantic
+Eutintinnusapertus/Chaetocerosdadayi ++ ++ ++
+Eutintinnuspinguis/Chaetocerostetrastichon ++ ++ ++
+Eutintinnuslususundae/Chaetocerosperuvianus + + +
+Eutintinnuslususundae/Hemiaulusspp./Richeliaintracelularis + + +
+Eutintinnuslususundae/Thalassionemasp. - + +
+Salpingellaspp./Fragilariopsisdoliolus - + ++
+Zoothamniumpelagicum/Licmophorasp./ectobacteria - - +
+Zoothamniumpelagicum/ectobacteria ++ ++ +
+Vorticellaoceanica/Chaetoceroscoarctatus - ++ ++
+Vorticellasp./Chaetocerosdensus + + -
+Pseudovorticellacoscinodisci/Coscinodiscusspp. - + ++
+ThechainsofC.dadayiandC.tetrastichonwerestraight,withoutorwithverynarrowapertures
+(thespacesbetweenthecells)andrestrictedto2–4cells(Figure1a–e),althoughchainsofthreewere
+most commonly observed. C. dadayi and C. tetrastichon differed in the setae orientation. C. dadayi
+showed1–3setaedirectedtowardstheoralapertureofthehostlorica,hereafteroral-oriented(usually
+athree-celledchainwithtwooral-directedsetae)(Figure1a–d). Chaetocerostetrastichonshowedall
+thesetaedirectedtowardstheaboralapertureofthehostlorica,hereafteraboral-oriented(Figure1e).
+AllthesetaeofC.dadayiwereinthesameplane(Figure1a–d),whilethesetaeofC.tetrastichonwere
+arrangedindifferentplanes(Figure1e). InC.dadayi,onehalfofthesetaewereshorterandrudimentary,
+mainlyembracingthehostlorica,andtheotherhalfofthesetaewerelongandoraloraboral-directed
+(Figure1d). Fortypicalconsortiaofthreediatomcells,therearesixlongsetae. Twoandfourlongsetae
+areoralandaboraloriented,respectively. Thetwooral-orientedlongsetaeemergedwithanangleof
+about60degrees,andthenabruptlychangedtheorientationbeingparalleltothediatomaxis. Thefour
+aboral-orientedlongsetaewereprogressivelycurved. Thefrustuleclosertotheaboralapertureshowed
+longposteriorterminalsetaethatlaidnearlyinparalleltothechainaxis(Figure1d).
+ThesetaeconfigurationofC.tetrastichonwaslessdivergent. Thesetaewerealmostequalinsize
+(Figure1e),exceptinrecentlydividedcellswherethesetaeofthenewvalvewereshorterthaninthe
+oldone. Setaewerecurvedoutward,exceptthoseofthefrustuleclosertotheaboralaperturethatwere
+turnednearlyparalleltothechainaxisasforC.dadayi(Figure1e). Thesetaeneverprotrudedbeyond
+thelorica,avoidinginterferencewiththeciliaryactivity.
+TheobservationsoftheconsortialocomotionofC.tetrastichonweremoredifficultthantheconsortia
+withC.dadayi.ThelongsetaearrangedindifferentplanesofC.tetrastichonfrequentlyentangledwith
+otherparticlesintheplanktonconcentrate. Incontrast,themovementoftheconsortiaofC.dadayiwas
+moregracefulwithalternatingdisplacementsinbothdirections. Anobstacle(orpotentialpredator)in
+thetrajectoryoftheciliatefirstcontactedthethicksetaeofthediatom. TheconsortiaofC.tetrastichon
+swampreferentiallyinaforwarddirection(i.e.,theoralapertureinthefront)(VideoS1assupporting
+material at https://youtu.be/lgxbKjJyUu0, time 0:22–0:30). The attempts to culture C. dadayi and
+C. tetrastichon were unsuccessful. The ciliate abandoned the lorica, and the diatom chain settled
+onthebottomanddied. Microbubblesofatmosphericairwereaddedasthesourceofturbulence
+withoutsuccess.
+
+Oceans2020,1 137
+Oceans 2020, 1, FOR PEER REVIEW 4
+FFigiguurree1 1.. BBrriigghhtt fifieelldd ((aa––jj,,ll,, nn––vv)) aanndd eeppiifflluuoorreesscceennccee ((kk,,mm)) mmiiccrrooggrraapphhss ooff ccoonnssoorrtitaia bbeetwtweeeenn ddiaiatotomms s
+aanndd cciilliiaatteess.. ((aa––cc)) CChhaaeettoocceerrooss ddaaddayayi/iE/Euutitnintitninnnusu sapaepreturtsu; s(;c)( cT)hTe htienttiinnntiindn iisd diesvodiedv ooifd thoef ltohreicalo; r(dic)a ;
+(dD)etDacehtaecdh ecdhacinh aionf oCf. Cd.addaaydia. yTi.hTe hearraorwrosw sin inthteh einisneste tpopionitn tthteh eshshoortr tsseetatae;e ;(e(e) )CChhaaeteotcoecreorso s
+tetetrtraassttiicchhoonn/E/Euuttiinnttiinnnnuuss ppiinngguuiiss.. TThhee ininsseet tfofcoucusesse sono ntheth teertmerimnailn aseltasee taneeanr etahre tohreal oarpaelrtaupreer; tu(fr)e ;
+(fC)hCahetaoecteorcoesr opsepruervuiavniaunsu/Es/ uEtuintitnintinnunsu lsulsuussuusnudnadea. eT.hTeh ienisneste ftofcoucsuesse osno nthteh eddiaitaotmom vavlavlevse;s (;g(g) )HHememiaiuaululus s
+mmeemmbbrraannaacceeuuss/ /EEuuttiinnttiinnnnuuss lluussuussuunnddaaee; ;(h(h) )ChCaheatoecteorcoesr opserpuevriuavniuasn/uHse/ mHieamuliuaus lhuasuchkaiui/cEk.i il/ uEs.usluunsudsaue;n (dia)e ;
+(iH)eHmeimauialuusl umsemmebmrabnraanceaucse/uHs/ .H h.ahuacukicik‐iEi-. El.ulsuussuusnudnade;a e(;j–(jm–m) H)Hememiaiualuulsu shahuacukciki/iEi/ .E l.ulsuussuusnudnadea; e(;k(k,m,m) )TThhe e
+aarrrroowwss ppooiinntt tthhee cycaynaonboabcatcetreiurimum RicRhieclihae liinatriancterllauclealrluisl;a r(ins); T(nha)laTsshioanlaesmsiao nsepm./aE. slpus./ uEs.unlduaseu; su(on–dra)e ;
+(oF–rarg)iFlarraiogpilsairsi odpolsiiosludso/lSioallpuisn/Sgaelllpai nsgpepl;l a(rs) pTph.e; t(irn)tTinhneidt iinst dinenviodidi sofd tehveo liodriocaf; t(hse) Clourlitcuar;e (osf) FC. udlotluiorleuso; f
+F(.td–ovl)i olLuics;m(ot–pvho)rLai csmpo./pZhooortahsapm.n/Ziuomot hpaemlangiiucummp;e l(aug)i cTumhe; (iun)seTth eshinowsest sthhoew dsiathtoemd iaLtiocmmopLhicomrao pshpo.r; a(svp) .;
+(vE)ctEocbtoiobniot nbatcbtaecrtiae roian othnet hzoeoziodosi. dSsc.aSlec ablaer b=a 5r0= μ5m0.µ m.
+The chains of C. dadayi and C. tetrastichon were straight, without or with very narrow apertures
+(the spaces between the cells) and restricted to 2–4 cells (Figure 1a–e), although chains of three were
+most commonly observed. C. dadayi and C. tetrastichon differed in the setae orientation. C. dadayi
+showed 1–3 setae directed towards the oral aperture of the host lorica, hereafter oral‐oriented (usually
+a three‐celled chain with two oral‐directed setae) (Figure 1a–d). Chaetoceros tetrastichon showed all the
+setae directed towards the aboral aperture of the host lorica, hereafter aboral‐oriented (Figure 1e). All
+the setae of C. dadayi were in the same plane (Figure 1a–d), while the setae of C. tetrastichon were
+arranged in different planes (Figure 1e). In C. dadayi, one half of the setae were shorter and
+rudimentary, mainly embracing the host lorica, and the other half of the setae were long and oral or
+
+Oceans2020,1 138
+Consortia of the tintinnid Eutintinnus lususundae and the diatom Chaetoceros peruvianus were
+occasionallyfoundinthesamplesfromtheMediterraneanSea(Figure1f,h,j–m). Theloricawasalmost
+cylindrical(160–300µmlong),withoralandaboraldiametersof~50µmand~35µm,respectively.
+Theloricashowedaslightlyflaringoralaperturethatwasmissingintheaboralend(Figure1f–n).
+C. peruvianus is another member of the subgenus Phaeoceros. The diatom was solitary (two-celled
+colonieswereonlyobservedafterrecentdivision),andadheredtotheloricahalfneartheoralaperture.
+Theepivalvewasorientedtowardstheoralaperture,andneverprotrudedbeyondtheoralaperture
+(Figure1f). Theoutlineoftheepivalvesetaewasalmoststraightorconvex. Morethanoneindividualof
+C.peruvianuscouldattachinthedifferentsidesofaloricaatmoreorlessthesameheight(Figure1f,h).
+ConsortiaofE.lususundaeandthediatomsHemiaulusmembranaceus(Figure1g)andH.hauckii
+(Figure 1h,j–m) were found in the Mediterranean Sea and the South Atlantic Ocean, and more
+sporadicallyformedathree-partnerconsortiawiththeco-occurrenceofH.hauckiiandC.peruvianus
+(Figure1h), orH.hauckiiandH.membranaceus(Figure1i). ThechainsofHemiauluswerearranged
+alongthelongitudinalaxisofthelorica(Figure1g–m). Thediatomchaindidnotprotrudebeyond
+theoralaperture,butitcouldextendbeyondtheaboralaperture,insomecases,byalargemargin.
+Onlythediatomfrustuleclosertotheoralaperturewasattachedtothelorica. Duringswimming,
+thedistalendofalongdiatomchaincoulddivergefromthelongitudinalaxisofthelorica(Figure1h
+andVideoS1assupportingmaterialathttps://youtu.be/lgxbKjJyUu0,time0:54–1:51). Hemiaulushauckii
+arecharacterizedbylongandslenderhorn-likeelevationsbetweenthecellsthatwerelessprominent
+inH.membranaceus. ThechloroplastsandcellcontentsofH.hauckiiandH.membranaceuswerehiding
+thetrichomesofthediazotrophiccyanobacteriaRicheliaintracellularisasrevealedbyepifluorescence
+microscopy (Figure 1j–m). This constituted a three-partner consortia, or even four partners in the
+caseofC.peruvianusandonespeciesofHemiaulus(Figure1h),ortwospeciesofHemiaulus(Figure1i).
+ThediatomsC.peruvianus,H.hauckii,andH.membranaceuswerecommonlyfoundinthesurrounding
+planktonasfree-livingforms,andtherewerenoapparentdifferencesinthemorphologybetweenthe
+free-livingandsymbioticforms.
+ConsortiaofanelongatedsolitarydiatomattachedtoE.lususundaewereveryrarelyrecorded
+inthetropicalSouthAtlanticOcean(Figure1n). IncontrasttoChaetocerosorHemiaulus,thisdiatom
+lackedsetae,horns,orotherextensionofthevalve,althoughtheentirefrustulewasneedleshaped.
+It corresponded to a solitary form of Thalassionema, an araphid (without raphe) diatom found as
+afree-livingforminthesurroundingplankton. Asusual,thediatomdidnotprotrudebeyondtheoral
+apertureofthelorica(Figure1n).
+3.1.2. ConsortiaofFragilariopsisdoliolusandSalpingellaspp.
+The consortia of the diatom F. doliolus and the tintinnid Salpingella spp. were common in the
+tropicalwatersoffBrazil(Figure1o–r),whileitwasneverobservedfromtheMediterraneansamples
+(Table 2). The lorica of Salpingella showed a pointed and closed aboral end, and usually a more
+markedoralflare. ThegenusSalpingellacontainsnumerousspecieswithnearlyidenticalmorphologies
+whichmakesspeciesassignationdifficult. ThemostcommonobservationscorrespondtoS.acuminata.
+ThefrustulesofF.dolioluswereunitedintobandsbythevalvesurfaces. Thepervalvalaxis(raphe)
+ofthediatomencircledtheloricaasthesectionsofabarrel(Figure1o–q). Tintinnidcellsdevoidof
+the lorica also transported the diatom chains, although the typical alignment (encircled along the
+longitudinalaxisofthelorica)couldbelost(Figure1r). Asusual,thediatomdidnotprotrudebeyond
+theoralaperture. Undercultureconditions,thediatomchainswerealmostflatorveryslightlycurved,
+losingthebarrel-shapedconfigurationoftheepizoicstage(Figure1s).
+
+Oceans2020,1 139
+3.2. DiatomsandPeritrichCiliates
+3.2.1. ConsortiumofZoothamniumpelagicumandLicmophorasp.
+Inthepreviousconsortia,thediatomwasadheredtothelorica-arelativelyhardsubstrate. Inthis
+typeofconsortia,thediatomcanbeinterpretedastheepibiont,andtheciliateasthebasibiont. Inthe
+caseoftheoligotrichciliates(whicharemissingrigidsurfaces),itisgenerallyinterpretedasthediatom
+asthebasibiont,andtheciliateastheepibiont. Theperitrichciliateshaveazooidwithastalkattached
+tothehostorsubstrateusinganadhesivedisk. Nearlyalltheperitrichciliatesaresedentary,living
+preferentiallyinbenthichabitats. Theyoccurinthewatercolumnasepibiontsoncopepods,diatoms,
+andotherorganisms. AnexceptionistheconsortiaoftheperitrichciliateZoothamniumpelagicumthat
+istheonlyfree-floatingspeciesintheopenoceanamongtheperitrichciliates,andinthisconsortium
+the diatom is the epibiont. A mature assemblage of Z. pelagicum is a pseudo-colony composed of
+severalcoloniesjoinedatthebasesoftheirstalks(Figure1t–v). Thebranchesofthecoloniesarehighly
+contractilewithfastcontractions. Licmophoraisanaraphiddiatomgenus. Thespeciesaretypically
+wedgeshapedwithabasalpoleattachedtothesubstrate. Inthisconsortium,Licmophorasp. wasthe
+epibiont,adheredtothebranchesofZ.pelagicumthroughthebasalpole,avoidingtheproblemsof
+theelasticityofthesubstrate(Figure1t–u). CellsofLicmophorasp. werefoundinupto30%ofthe
+examined pseudo-colonies of Z. pelagicum in the South Atlantic Ocean, although the observations
+weredifficultduetothesmallsizeofthediatomandthecontractionsandjumpsoftheciliate. There
+werenoobservationsoftheconsortiawithLicmophorasp. inthesamplesfromtheMediterraneanSea.
+Thediatomwasisolatedandcultured. Itgrewslowly,andthefrustulelaidonthebottomoftheculture
+chamber. Therewerenoapparentmorphologicaldifferencesbetweenthefrustulesoftheepizoicand
+free-livingstages. IntheMediterraneanandCaribbeanSeas,andlesscommonlyintheSouthAtlantic
+Ocean,thezooidsofZ.pelagicumweresometimesheavilycoveredbyectobiontbacteria(Figure1v;
+Table2). Thisisanotherexampleofthreepartnerconsortiawithbacteria,diatom,andciliate.
+3.2.2. Chaetocerosdensus-Vorticellasp.
+CarefulobservationsrevealedthattherecordsfromtheNWMediterraneanSea(Figure2a–j),
+and partially the records from the Caribbean Sea (Figure 2k) did not correspond to the typical
+morphology of Vorticella oceanica/Chaetoceros coarctatus (Figure 2l). The diatom C. coarctatus is
+characterizedbydistincthorn-liketerminalsetae,especiallytheposteriorpair,withtheintercalarysetae
+emergingalmostperpendiculartothechainaxis,andthendirectedposteriorly(Figure2l). Incontrast,
+thissymbioticdiatomdidnotshowthedistinctterminalsetae,andtheintercalarysetaebentslightly
+towardsthechainending(Figure2a–c,k). ThisdiatomfitwiththecharacteristicsofChaetocerosdensus,
+althoughthisspecieshasalsobeenillustratedwiththesetaedirectedperpendicularly. Thevalvefaceof
+thefrustulewasatruncatepyramidthatsuggestedanaffinitywiththelittle-knownspeciesChaetoceros
+octagonus(Figure2a).
+ThezooidsofV.oceanicawereconical(30–35µmlongand25–30µmoraldiameter)withastalkof
+100–190µminlength(Figures2land3). Incontrast,theepibiontofC.densusshowedhemispherical
+zooids,20–25µmlong,andwithanoraldiameterof40–45µm. Thelengthofthestalkwashighly
+variable(50–200µmlong)(Figure2a–k). ThestalkoftheepibiontofC.densusdidnotfullycoil,andthe
+sectionadjacenttotheadhesivediskwasalwaysuncoiled(Figure2g–j). Thisalsocontrastedwiththe
+stalkofV.oceanicathatfullycontracted,formingfiveactivecoils(Figure3). Thisevidencesuggested
+thatthevorticellidepibiontofC.densusisnotV.oceanica.
+
+Oceans 2020, 1, FOR PEER REVIEW 7
+perpendicularly. The valve face of the frustule was a truncate pyramid that suggested an affinity with
+Oceans2020,1 140
+the little‐known species Chaetoceros octagonus (Figure 2a).
+Figure2. Micrographsofconsortiabetweenperitrichciliatesanddiatoms.(a–j)Vorticellasp./Chaetoceros
+Figure 2. Micrographs of consortia between peritrich ciliates and diatoms. (a–j) Vorticella
+densus from the NW Mediterranean Sea; (a) The insets show the zooid and the frustule contour;
+sp./Chaetoceros densus from the NW Mediterranean Sea; (a) The insets show the zooid and the frustule
+(g–j)Framesbeforeandafterthestalkcontraction;(k)Vorticellasp./ChaetocerosdensusfromtheCaribbean
+contour; (g–j) Frames before and after the stalk contraction; (k) Vorticella sp./Chaetoceros densus from
+Sea;(l)Vorticellaoceanica/ChaetoceroscoarctatusfromtheCaribbeanSea;(k–l)Theinsetsshowthezooids;
+the Caribbean Sea; (l) Vorticella oceanica/Chaetoceros coarctatus from the Caribbean Sea; (k–l) The insets
+(m–o)Pseudovorticellacoscinodisci/CoscinodiscusgigasfromtheCaribbeanSea. Scalebar=50µm.
+show the zooids; (m–o) Pseudovorticella coscinodisci/Coscinodiscus gigas from the Caribbean Sea. Scale
+bar = 50 μm.
+
+Oceans 2020, 1, FOR PEER REVIEW 8
+The zooids of V. oceanica were conical (30–35 μm long and 25–30 μm oral diameter) with a stalk
+of 100–190 μm in length (Figures 2l and 3). In contrast, the epibiont of C. densus showed hemispherical
+zooids, 20–25 μm long, and with an oral diameter of 40–45 μm. The length of the stalk was highly
+variable (50–200 μm long) (Figure 2a–k). The stalk of the epibiont of C. densus did not fully coil, and
+the section adjacent to the adhesive disk was always uncoiled (Figure 2g–j). This also contrasted with
+the stalk of V. oceanica that fully contracted, forming five active coils (Figure 3). This evidence
+Oceans2020,1 141
+suggested that the vorticellid epibiont of C. densus is not V. oceanica.
+FigFuirgeur3e. S3.t aSltkalcko cnotnratrcatciotinono foVf Vorotritcieclellalao oceceaannicicaa oonn CChhaaeettoocceerrooss ccooaarrccttaattuuss rreeccoorrddeedd aat t55000000 frfarmamese∙ss· −s1 −1
+(0.2(0m.2 imlliislleicseocnodnsds(m (ms)s)b beetwtweeeenn ssuubbsseeqquueenntt ffrraammees)s.) .ThTeh peopsiotisoitniso nofs roefferreefnecree npcoeinptso ianrets maarerkmeda rbkye d
+byaa rreedd ccirircclele. .FrFarmame neunmubmebr einr itnhet hueppueprp leerft lceoftrnceorr.n Tehr.e Tlahteeralal tsecraalle srceaplreesreenptrse s1e0n μtsm1 b0eµtwmeebne ttwweoe n
+twobabras.r s.
+3.2.3. Chaetoceroscoarctatus-Vorticellaoceanica
+3.2.3. Chaetoceros coarctatus‐Vorticella oceanica
+ThTehceo cnosnosrotiratiao foVf .Vo. coecaenainciacaa annddC C..c cooaarrccttaattuuss wweerree ccoommmmoonn iinn tthhee ssaammpplilning gsisteitse sini nthteh SeoSuothu th
+AtlAantltainctOicc Oeacnea,na,n adndal asolsofo fuonudndi nint htheeC Caarriibbbbeeaann SSeeaa,, wwhhiillee uunnrreeccoorrddeedd frforomm ththe eNNWW MMedeidteirterarnraenanea n
+SeaS(eTaa (bTlaeb2l)e. 2T)h. Tehme omrpohrpohloogloygoyf othf ethpea prtanrtenresrws awsads edsecsrcibriebdedin inG Gómómezeze teat la.l[.1 [91]9.].T Thhisiss tsutuddyyf ofoccuusseeddo n
+theolne stsheer lkenssoewr nknaospwenc tassopfetchtse ocfo nthseo rctoiunmso,rttihuemm, othtiel imtyoatnilditya danvdan atdagveasntoafgtehse osfy tmheb isoytmicbliifoet.icA lidfei.a Ato m
+cha inofC.coarctatususuallyreached1–1.2mminlengthandwascomposedof25–30cells. Eachdiatom
+cellusuallycontained3–4individualsofV.oceanica. Intheuprightpositionwithanexpandedstalk,
+thezooidprotrudedbeyondthesetae(Figure2l). Thezooidsrespondedwithafaststalkcontractionto
+externalstimulus(threat)orspontaneously,withoutanyapparentperturbation(Figure3andVideoS1
+assupportingmaterialathttps://youtu.be/lgxbKjJyUu0,time4:00–10:50).
+Whenthediatomchainwasdamagedanddecomposedintoshorterchains,theconsortiumwas
+unable to swim in a straight trajectory. These short chains seemed to induce irregular helicoidal
+trajectoriesbythezooids. Althoughasinglezooidwasabletomaintainadiatomcellinsuspension
+
+Oceans2020,1 142
+withitsfoursetae,theconsortiumtypicallypossessedaboutthreetofourzooidsperdiatomcelland,
+consequently,thebuoyancyofthediatomchainwasguaranteed. Morezooidsincreasedthefeeding
+currentsandtheforwardpropulsionnecessarytoexploitnewparcelsoffoodresources. Undamaged
+consortiamovedforward(withthedistinctposteriorterminalsetaeintherear)inastraightorslightly
+curvedtrajectory. Therewerethreetofourzooidswithstalksorientedforward,whereasmostofthe
+other zooids oriented the stalk perpendicular to the chain axis. When the frontal zooids detected
+anobstacle,theconsortiumchangedthedirection. Consortialackingthethreetofourfrontalzooids
+alsomovedstraightforward,butabackwardsmovementwasnotobserved. Althoughmostofthe
+stalks were perpendicular to the chain axis, each zooid was able to change its angle with respect
+to the stalk (nicking or polar feeding angle, and azimuthal angle) and, consequently, the angle of
+propulsionbytheciliarybeatingpropelledtheconsortiumforward(VideoS1assupportingmaterial
+athttps://youtu.be/lgxbKjJyUu0,time6:50–6:58).
+ThestalkcontractionofV.oceanicawasanalyzedbyhigh-speedvideosequences. Spontaneous
+contractionsweremonitoredataspeedof5000frames·s−1(0.2milliseconds(ms)betweensubsequent
+frames). Duringthecontraction,V.oceanicastoppedciliarybeatingandthezooidacquiredamore
+globular shape (Figure 3). The initially straight stalk coiled into a helix, starting from the region
+nearthezooidandmovingdowntowardsthebaseofthestalk(Figure3). Duringthecontraction,
+the zooid moved without any observable rotation until the end of the contraction. After the stalk
+becamefullycoiled,thezooidstartedrotatinginaclockwisedirection. Astalkof0.18mmrequired
+approximately1.8–2mstoreduceitslengthbyabout80%andtoformaspring(Figure3). Thenumber
+ofactivecoils(includingtheends)wasfive. Themedianvelocityofthezooidduringacontractionwas
+70mm·s−1. Thezooidreachedaspeedpeakof150mm·s−1,andinsomecaseswererecorded165mm·s−1.
+Subsequentlythestalkre-extendedinafewsecondsandreturnedtoitsoriginallengthaccompaniedby
+counterclockwiserotationofthezooid(VideoS1assupportingmaterialathttps://youtu.be/lgxbKjJyUu0,
+time9:00–9:42).
+The ciliary movement occurred in a wave-like pattern, a metachronal wave that moved at
+mm·s−1
+1.7–2.5 (Figure S1 in Supplementary Materials). In addition to the forward movement of
+theconsortium,theciliarybeatinggeneratedaflowfieldthatbroughtacontinuousstreamoffood
+particlestotheoralcavityofthezooids. Stalkcontractioncanalsocontributetowaterflow. Ultimately,
+feedingcurrentsarethesumofthecooperativeciliarybeatingofeachzooid. Thus, thelocalflow
+environment of an individual organism is influenced by active zooids nearby and, consequently,
+the feeding current created by a single zooid could not be easily determined. Overall, the ciliary
+beatmovedthesurroundingseawateruptoadistanceofatleastonemmfromthezooid. Usingthe
+microalgaChlorellasp. forthevisualizationoftheflowfieldandestimationofthespeed,themicroalga
+mm·s−1
+reached 0.66 when it approached the zooid (Figure 4). Water and rejected particles were
+expelled towards the rear of the diatom chain (Figure 5 and Video S1 as supporting material at
+https://youtu.be/lgxbKjJyUu0,time9:43–10:50).
+3.2.4. PseudovorticellacoscinodisciandDiatoms
+ConsortiaofP.coscinodisciwerenotobservedintheMediterraneanSea,butintheCaribbeanSea,
+P. coscinodisci was found as an epibiont on large drum-shaped diatoms such as Coscinodiscus gigas
+(Figure2m–oandTable2). InthetropicalSouthAtlanticOcean,theconsortiumofP.coscinodisciand
+largepelagicdiatomswereobserved(VideoS1assupportingmaterialathttps://youtu.be/lgxbKjJyUu0,
+time10:51–11:10). ThemostcommonhostfortheclustersoftheciliatewasCoscinodiscuscylindricus,
+andmoreoccasionallyC.gigasandPalmerinahardmaniana. Single,orafew,ciliatecellswereobservedon
+otherlargepelagicdiatoms(Chaetoceros,Eupyxidicula),butneverformedclusterscapableofrendering
+theconsortiamotile. Thesesymbioticrelationshipswerenotobligate,andthesehostdiatomswere
+morecommonlyfoundasfree-livingforms. Thepercentageofdiatomscolonizedbytheciliatewas
+higherinpost-bloomconditions. SymbioticcellsofC.cylindricusandP.hardmanianawereisolatedand
+theygrewincultureskeepingthetypicalmorphologyasfree-livingspecies.
+
+Oceans2020,1 143
+The clusters of P. coscinodisci rendered the diatom motile. Contrary to the case of V. oceanica,
+thezooiddidnotneedtoprotrudebeyondthehostvalveextensions(i.e.,setae). Coscinodiscuscylindricus
+providedahugesubstratearea,butlittleprotectionsuchasspinesorhorns. ThestalkofP.coscinodisci
+wasshortandafterthecontraction,thestalkbent,butitdidnotcoiltoformaspring. Thezooidsinthe
+centerofthevalveshowedaperpendicularstalkandtheoralcavityparalleltothevalveface. Inthe
+peripheryofthevalveface,thestalkorzooidleanedtowardtheperiphery(VideoS1assupporting
+materialathttps://youtu.be/lgxbKjJyUu0,time11:10–13:45).
+Thefieldflowgeneratedbytheciliarymovementwastrackedusingadropofreddyeplaced
+about1mminfrontofthevalveface. Theredcoloredwaterregisteredaflowfieldwithaconical
+◦
+shapeofanapertureof80 andthezooidinthevertex. Subsequently,atoroidalvortexappearednear
+theperipheryofthevalve(Figure6a). AdditionofChlorellasp. allowedestimationofthespeedof
+mm·s−1
+the flow field at a maximum velocity of 0.42 at 40–50 µm distance ahead of an individual
+◦ ◦
+zooid. Aparticlepresentbetween50 and130 withrespecttotheverticalwouldconducttotheoral
+cavityofthezooid. Iftheparticlewasrejected,itwouldenterinthefeedingcurrentoftheneighbor
+◦ ◦
+zooids. Iftheparticlewaslowerthan50 orhigherthan130 ,itwouldberepelledlaterallybefore
+reachingthezooid(Figure6b–candVideoS1inSupportingInformationhttps://youtu.be/lgxbKjJyUu0,
+time13:45–14:38). Thispatternwasalteredwhenthezooidchangedthenickingorpolarfeedingangle,
+Oancedantsh 2e02s0t, a1l, kFOinRc PliEnEaRt iRoEnV.IEW 10
+FFiigguurree 44.. FFeeedediningg cucrurrernetnst sofo VfoVrotircteilcleal loaceoacneaicnai coano CnhaCehtoaceetorocse rcoosarccotaartcutsa truescorerdcoerdd aetd 60a tfr6a0mfreasm∙s−e1.s T·sh−e1 .
+mThiceromailcgrao aClghlaorCelhlalo rsepll.a wspas. uwsaesd uasse da atrsaacetrr aocfe rthoef ftlhoewfl foiweldfi. eCldo.loCreodlo crierdclecisr ccloersrecsoprroensdpeodn dtoe dthteo
+pthoesiptioosni toiof na poafraticplaer etiacclhe 1e0a cfhra1m0efsr (a0m.1e6s s()0. T.1h6es c)o.lTorheedc eomlopretyd ceirmclpetsy recpirrcelseesnrte tphree psernevtitohuesp proesviitoiouns
+opfo sthiteio pnaorftitchlee pina rotircdleerin too rcdaelrcutolactael ctuhlea tteratjheecttorrayje catnodry sapnededs pfeluedidfl puaidthp laitnhesli.n Tesh.eT vheelovceiltoyc iftiyelfide lids
+disedpeicptiecdte bdyb ayrraorwrosw. Ts.hTe hlaetleartaelr saclaslcea rleeprerepsreensetsn 1ts0 1μ0mµ mbebtwetewenee tnwtow boabrsa.r s.
+
+Oceans 2020, 1, FOR PEER REVIEW 10
+Figure 4. Feeding currents of Vorticella oceanica on Chaetoceros coarctatus recorded at 60 frames∙s−1. The
+microalga Chlorella sp. was used as a tracer of the flow field. Colored circles corresponded to the
+position of a particle each 10 frames (0.16 s). The colored empty circles represent the previous position
+Oceanso2f 0t2h0e, 1particle in order to calculate the trajectory and speed fluid path lines. The velocity field is 144
+depicted by arrows. The lateral scale represents 10 μm between two bars.
+FeedingcurrentsofVorticellaoceanicaonChaetoceroscoarctatusrecordedat60frames·s−1.
+Figure5.
+ThemicroalgaChlorellasp. wasusedasatraceroftheflowfield. Coloredcirclescorrespondedto
+thepositionofaparticleeach10frames(0.16s). Thecoloredemptycirclesrepresenttheprevious
+positionoftheparticleinordertocalculatethetrajectoryandspeedfluidpathlines. Thevelocityfield
+Oceaisnsd 2e0p20ic, t1e, dFObRy PaErEroRw RsE.VTIEhWe lateralscalerepresents10µmbetweentwobars. 12
+FiFgiugruere6 .6. FFeeeeddiinngg ccuurrrreennttss ooff PPsesueuddovoovrotrictieclleal lacocscoisncoindiosdciis ocin oCnosCcionsocdinisocduiss ccuyslincdyrliicnudsr irceucsorrdeecdor adte 6d0 at
+60frfarammese∙ss·−s1.− (1a.) (Ma)icMroicgrroagprhasp aht sinatterinvtaelsr voaf l3s.3o fs.3 A.3 rse.dA dyreed wdays eadwdaesda tdod veisdutaolizveis tuhael ifzloewth feieflldo. wNofiteel d.
+Nothtee tahxeisa‐sxyism-smymetrmice tcroinciccoaln ifcloawlfl owwithw aitnh oapneonpinegn iannggalen golfe 8o0f°8 0a◦nda ntdhet hteortooirdoaild avlovrtoerxt;e x(b;)( bT)hTeh e
+mmicriocraolgalagCa hClhorloerlleallsap s.pi. sisu usseedda assa a ttrraacceerr ooff tthhee ffllooww ffiieelldd.. CCoololoreredd cicricrlcelse scocrorrersepsopnodnedde dtot tohteh peopsoitsioitnio n
+ofo af ma m icric or ao la gl aga ec le lll 010 rf ar mam ee ss b ee fofo rr ee (( 00 .1.1 66 ss )) .. T Th he v ve el lo oc ci it ty f fiie eld is d de ep pic it ce td b by yar ar ro rw ows; s( ;c ()c F )e Fe ed ei dng
+c 1 f b e y ld is ed in g
+currents of a single zooid. Micrograph at intervals of 33 milliseconds. Particles aspired with an angle
+currentsofasinglezooid. Micrographatintervalsof33milliseconds. Particlesaspiredwithanangleof
+mo of em to hr ae th 4a 0n◦ 4 w0° w hi rt eh pre es cp te tc ot t to eth ve v rte ir ct aic la dl id did on tot ere aa cc hh t hh ee cc ii ll ii aa .. T Th he l la at te er ra al ls sc ca ale ere rp epre rs ee sn et ns t1 s0 μ 0mµ
+r n it s h e n r t e l 1 m
+between two bars.
+betweentwobars.
+4. Discussion
+4.1. Taxonomy and Biogeography of the Peritrich Ciliate and Diatom Consortia
+The morphology of the diatom frustules is well preserved in fixed plankton samples, but the
+ciliate soft bodies are distorted or lost, and the identification of the diatom hosts is easier than the
+naked ciliates. Furthermore, in live samples, net sampling can split the partners giving an
+underestimation of the abundance of the symbiosis, and a biased view of obligate partners as free‐
+living species. In the case of Chaetoceros coarctatus and Vorticella oceanica, the diatom was described in
+1864 from Hong Kong harbor (subsequent records were also illustrated devoid of epibionts), and the
+ciliate was described in 1906 from the Sargasso Sea [33,34]. P. coscinodisci, known since Faria and
+Cunha in 1917 [26], was described in 2018 [22]. Net sampling can damage the chains resulting in loss
+of the distinctive terminal setae of C. coarctatus. Although the intercalary setae are also different,
+observations of C. densus/Vorticella sp. (Figure 2a–k) could be mistaken for C. coarctatus/V. oceanica
+(Figure 2l). The taxon Chaetoceros borealis var. densus was described from the North Atlantic Ocean,
+and later ranked at the species level from the tropical Indo‐Pacific Ocean [35,36]. C. densus has a
+cosmopolitan distribution, more commonly recorded in temperate waters [10]. The diatom is
+illustrated with the setae directed almost perpendicular to the diatom axis, and also with the setae
+bent towards the chain ending with a convex outside line, as observed in this study (Figure 2a–c, k
+[37]). Setae bent towards the chain ending are more favorable for zooids with stalks that can protrude
+beyond the setae (Figure 2a–k). It is possible that the symbiotic C. densus with setae bent towards the
+chain ending, could constitute an independent species. A closely related species is C. octagonus with
+valve face that is a truncate pyramid more pronounced than the symbiotic C. densus (Figure 2a). C.
+octagonus was described as a free‐living species and it is only known from the original description in
+tropical waters [38].
+The consortium of C. coarctatus/V. oceanica is well documented in the warmer Eastern
+Mediterranean Sea [39], and it has been categorized as a species introduced through the Canal of Suez
+
+Oceans2020,1 145
+4. Discussion
+4.1. TaxonomyandBiogeographyofthePeritrichCiliateandDiatomConsortia
+Themorphologyofthediatomfrustulesiswellpreservedinfixedplanktonsamples,buttheciliate
+softbodiesaredistortedorlost,andtheidentificationofthediatomhostsiseasierthanthenakedciliates.
+Furthermore,inlivesamples,netsamplingcansplitthepartnersgivinganunderestimationofthe
+abundanceofthesymbiosis,andabiasedviewofobligatepartnersasfree-livingspecies. Inthecaseof
+ChaetoceroscoarctatusandVorticellaoceanica,thediatomwasdescribedin1864fromHongKongharbor
+(subsequentrecordswerealsoillustrateddevoidofepibionts),andtheciliatewasdescribedin1906
+fromtheSargassoSea[33,34]. P.coscinodisci,knownsinceFariaandCunhain1917[26],wasdescribed
+in2018[22]. Netsamplingcandamagethechainsresultinginlossofthedistinctiveterminalsetae
+ofC.coarctatus. Althoughtheintercalarysetaearealsodifferent,observationsofC.densus/Vorticella
+sp. (Figure 2a–k) could be mistaken for C. coarctatus/V. oceanica (Figure 2l). The taxon Chaetoceros
+borealis var. densus was described from the North Atlantic Ocean, and later ranked at the species
+levelfromthetropicalIndo-PacificOcean[35,36]. C.densushasacosmopolitandistribution,more
+commonlyrecordedintemperatewaters[10]. Thediatomisillustratedwiththesetaedirectedalmost
+perpendiculartothediatomaxis,andalsowiththesetaebenttowardsthechainendingwithaconvex
+outsideline,asobservedinthisstudy(Figure2a–c,k[37]). Setaebenttowardsthechainendingare
+morefavorableforzooidswithstalksthatcanprotrudebeyondthesetae(Figure2a–k). Itispossible
+thatthesymbioticC.densuswithsetaebenttowardsthechainending,couldconstituteanindependent
+species. A closely related species is C. octagonus with valve face that is a truncate pyramid more
+pronouncedthanthesymbioticC.densus(Figure2a). C.octagonuswasdescribedasafree-livingspecies
+anditisonlyknownfromtheoriginaldescriptionintropicalwaters[38].
+TheconsortiumofC.coarctatus/V.oceanicaiswelldocumentedinthewarmerEasternMediterranean
+Sea [39], and it has been categorized as a species introduced through the Canal of Suez [40].
+MoredoubtfularetherecordsofC.coarctatusincoldareassuchastheNWMediterraneanSea[41],
+as this study did not record the organism during a four-year survey at four sites in the coastal
+NWMediterraneanSea. IntheNorthernAdriaticSea,Schröder[42]describedwithoutillustration
+aconsortiumidentifiedasC.densusandV.oceanica. Schröderdidnotprovidedetailsonthemorphology
+of the diatom, but described the zooid as flattened spherical, 26–30 µm wide, and 18–24 µm long,
+andthestalkwas10to12timeslongerthanthediameterofthezooid. Astalkofmorethan200µm
+long could be an exaggeration for V. oceanica. The shape of the zooid is closer to the epibiont of
+C.densusbecauseV.oceanicaistypicallyconical(Figures2land3),butthesizeofthezooidiscloserto
+V.oceanica. ThespeciesC.coarctatushasbeenonlyrecordedfromthesouthernbasinoftheAdriatic
+Sea,whileC.densusisknownfromalltheAdriaticbasins[43]. FromtheGulfofLions,Pavillard[17]
+reported,withoutillustration,theconsortiaofC.densusandavorticellidciliate,withnodetailsonthe
+morphologyoftheciliate. Pavillard[17]knewthemorphologyoftheconsortiaofC.coarctatusand
+V.oceanicaasillustratedbyOkamura[19],andheconsideredthatthesymbioticdiatomcorresponded
+toC.densus. Pavillard[17]reportedthatallthesetaewerestronglydeviatedinthesamedirection. This
+evidencesuggeststhatPavillardhadobservedtheconsortiumC.densusandVorticellasp. asillustrated
+hereinthesameregion(Figure2a–j).
+TheconsortiaofChaetocerosdensusandVorticellasp. andC.coarctatusandV.oceanicaco-occurred
+alongthecoastsofPuertoRico(Figure2k–l),closetotheSargassoSea,thetypelocalityofV.oceanica.
+ThisbegsthequestionofwhetherZacharias[34]describedV.oceanicaastheepibiontofC.coarctatusor
+C.densus. Schröder[44]attributedthehostidentityofV.oceanicainZachariastoC.densus. Zacharias
+describedV.oceanicaasabell-shapedzooid(28µmlongand22µmoraldiameter),whichagreedwith
+theshapeandsizeoftheepibiontofC.coarctatus. Zachariasalsoreportedastalklengthof80µm,
+whichwasshorterthanexpected,butcouldcorrespondtoapartiallycoiledstalkinthefixedsamples.
+Zacharias[34]describedthebasibiontasaspeciesofChaetoceros,withoutdetailsonthemorphology.
+From Sargasso Sea plankton samples, the only diatoms that Zacharias [34] listed were Chaetoceros
+
+Oceans2020,1 146
+borealisandtwospeciesofRhizosolenia. C.borealiswasfirstdescribedfromthecoldwatersoftheGulf
+ofMaine,andlaterCleve[35,36]proposedC.densusforC.borealisvar. densusobservationsinwarmer
+regions. Itwasunexpectedtofindchainsofalargeandheavilysilicifiedchain-formingspeciesof
+ChaetocerosinthesurfacewatersoftheSargassoSea. Thissuggestedthatthediatomwasprobably
+associatedwithepibionts,buttheciliatecellswerelostduetothesampletreatment(exceptforthetwo
+specimensusedforthedescriptionofV.oceanica). ItispossiblethatZacharias[34]describedV.oceanica
+astheepibiontofC.densus. However,moreevidenceisneeded,anditismoreplausibletomaintain
+thecurrentstatuswithV.oceanicaastheepibiontofC.coarctatus.
+IntheCaspianSea,Ostenfeld[45]describedwithoutillustrationtheconsortiumofthetintinnid
+Amphorella borealis var. caspica adhered to several species of Chaetoceros. From the Gulf of Siam,
+Ostenfeld[46]illustratedtheconsortiaofthelargediatomPalmerinahardmanianawithsemicircular
+slitsthatharboredepibiontsidentifiedasAmphorellaborealis. Amphorellaiscurrentlyacceptedasthe
+tintinnidAmphorides, andOstenfeld[47]transferredA.borealisintoCothurnia, agenusofloricated
+peritrichciliatesofthefamilyVaginicolidaewhosespecieshavesometimesbeenmistakenforthoseof
+thechrysophyteDinobryon. SeveralspeciesofthegenusVaginicolahavebeenreportedassymbionts
+on diatoms [20]. From Northern Australia, Hallegraeff and Jeffrey [27] reported micrographs of
+P.hardmanianawiththedistinctivesemicircularslitsandepibiontsidentifiedasAmphorellaborealis.
+Fromthesameregion,Stosch[48]proposedP.ostenfeldiiforcellspreviouslyidentifiedasP.hardmaniana
+withthesemicircularslitthatharboredtheciliate. IntheSouthAtlanticOcean,consortiabetween
+P.hardmanianaandtheperitrichciliateP.coscinodiscihavebeenobserved[22]. Thediatomdidnotshow
+semicircularslitsinthesymbioticorfree-livingstages. TheconsortiumofP.ostenfeldiiandCothurnia
+borealisoraspeciesofVaginicolaremainsendemicfortheIndonesianregion. Itisinterestingthatthe
+diatomvalveischaracterizedbyasemicircularslitharboringtheperitrichciliatethatcanbeinterpreted
+asanevolutionaryadaptationtothesymbioticlife.
+4.2. TaxonomyandBiogeographyoftheTintinnidandDiatomConsortia
+Observations on the tintinnid and diatom consortia have been known since Ehrenberg
+(1834,fide[3]). In1883,Fol[14]illustratedtheconsortiumofaspeciesofChaetoceros(laterdescribed
+asC.dadayi),andanunidentifiedtintinnidwhichshowedaloricawithapointedandclosedaboral
+end. KofoidandCampbell[4]attributedthistintinnidtoRhabdonellaelegans. Allfurtherauthorshave
+reportedthetintinnidhostwithanopenaboralapertureandthedistinctiveaboralnarrowing(FigureS2
+inSupplementaryMaterials). Daday[15]illustratedTintinnusinquilinusasafree-livingspeciesand
+attached to Chaetoceros. From theopen subtropical Atlantic, Cleve [35] described C. tetrastichon as
+a free-living diatom. Famintzin [16] illustrated the consortia of Tintinnus inquilinus and chains of
+Chaetoceroswithtwodifferentmorphologiesthatwereconsideredmorphotypesofasinglediatom
+species(FigureS2inSupplementaryMaterials). Schröder[49]identifiedthediatomattachedtoalorica
+ofanunidentifiedtintinnidasC.tetrastichon. Pavillard[50]notedthedifferencesbetweenthesymbiotic
+diatomsillustratedbyDaday[15](alsobyFol[14])andC.tetrastichon,andheproposedC.dadayifor
+adiatomwithoral-directedsetae. Schröder[44]consideredC.dadayiasasynonymofC.tetrastichon.
+DetailedstudiesofthevalvemorphologiessupporttheconsiderationofC.tetrastichonandC.dadayias
+independentspecies[51].
+ThesymbiotictintinnidremainedidentifiedasTintinnusinquilinusuntilKofoidandCampbell[3,4]
+proposedEutintinnusapertusasanindependentspecies. SomeauthorscontinuedusingthenameT.
+inquilinusfortheassociationwithChaetocerosspp.[39,52]. Tintinnusinquilinusisthefirstdescribed
+tintinnid,andtheoriginaldescriptionofthebasionymTrichodainquilinusO.F.Müller1776included
+the species Tintinnidium fluviatile Stein 1863. Trichoda inquilinus was later reported as Tintinnus
+inquilinusSchrank1803,VaginicolainquilinaLamark1816,TintinnidiuminquiliniumFauré-Fremiet1908,
+andFigotintinnusinquilinus(O.F.Müller)Hada1976. KofoidandCampbell[3]proposedTintinnus
+apertuscitingT.inquilinussensuClaparèdeandLachmannasanearlierrecord. KofoidandCampbell[3]
+establishedtheBergenfjord, Norway, asthetypelocalityofE.apertus. Tintinnidiuminquiliniumis
+
+Oceans2020,1 147
+knownfromthecoldwatersoftheNorthAtlanticasasessilespeciesthatattachestoinertsubstrates
+bytheaboralend[53,54]. ItisdifficulttoacceptthatthesymbioticspeciesE.apertus,whichlivesin
+warmseas,isthefree-livingspeciesthatClaparèdeandLachmanndescribedfromthecoldwatersof
+Norway. Thecoldandwarmwatertintinnidsarelikelyindependentspecies.
+ThespeciesE.apertusiscommonlyreportedasthehostofC.dadayiandC.tetrastichon. Pavillard[50]
+illustratedtheloricawithattachedC.tetrastichonaslargerandwithalessabruptaboralnarrowing
+thantheloricawithattachedC.dadayi. KofoidandCampbell[3]describedthefollowingtwospecies
+closelyrelatedtoE.apertus: Eutintinnuspacificuswassmallerinsize,andE.pinguiswaslargerandwith
+alessabruptaboralnarrowingthanE.apertus.Balech[55]commentedthatC.dadayiandC.tetrastichon
+wereattachedtoE.apertusandE.pinguis,respectively,andTaylor[20]alsoidentifiedthetintinnid
+withattachedC.tetrastichonasE.pinguis. Gómez[18]reportedthattheloricaofE.apertusinsymbiosis
+withC.dadayiwasshorterandwithamoreabruptaboralconstrictionthaninthesymbioticE.pinguis.
+However, an intraspecific variability of the lorica depending on the consortia with C. dadayi or
+C.tetrastichoncannotbeexcludedfromconsideration. TheloricaoftheoriginaldescriptionofE.pinguis
+showedalessmarkedaboralnarrowingascomparedwiththemorphologyofthehostofC.tetrastichon
+(Figure1e). TheshapeoftheloricaofthesymbiontofC.tetrastichonisclosertoE.pacificus,butthe
+loricaofthatspecieswasdescribedwithasmallerlength(~70µmlong). KofoidandCampbell[3,4]
+didnotcommentontheassociationofE.pinguisandE.pacificuswithdiatoms,whiletheyobserved
+Chaetocerosspp. attachedtoE.apertusandE.lususundae. Theintraspecificmorphologicalvariabilityof
+Eutintinnusremainsunexploredduetothedifficultiesinobtainingculturesoftheseoceanicspecies.
+MoleculardataofE.apertusattachedtoC.dadayiareavailable[56],butitisunresolvedifthehostof
+C.tetrastichonisamorphotypeofE.apertusoranindependentspecies. Inthemolecularphylogeny,
+E.apertusclusteredwithE.tenuisandanunidentifiedspecieswithagglutinatedlorica(FigureS3in
+SupplementaryMaterials).
+SeveralauthorshavereportedwithoutillustrationstheconsortiaofEutintinnuslususundaeand
+Chaetoceros [4,57,58], and Hemiaulus hauckii and H. membranaceus [58,59]. Kofoid and Campbell [4]
+commented for Eutintinnus tenuis “One lorica ... had a cuirass of four elongated frustules of
+an unidentified diatom of the genus Isthmia, resembling I. inervis”. The correct identification of
+the diatom is questionable as the frustule of Isthmia enervis is thick in girdle view, being difficult
+to harbor four frustules on a lorica. Isthmia is a predominately neritic genus, whereas Kofoid’s
+samples were oceanic. From the Mediterranean Sea, Pavillard [17] provided line drawings of the
+consortia of E. lususundae with C. peruvianus and H. hauckii. Rampi [60] also reported the diatom
+Planktoniella sol attached to E. lususundae. Marshall [58] reported the consortia of Chaetoceros and
+E. fraknoi and E. lususundae. The synonymy of E. fraknoi and E. lususundae has been a matter of
+debate[3,4]. TheloricaofE.fraknoiislargerthaninE.lususundae,anditshowedanaboralflarethat
+ismissinginE.lususundae. Accordingtotheavailablemoleculardata,E.fraknoiandE.lususundae
+areindependentspecies(FigureS3inSupplementaryMaterials). Bothspeciesweredescribedfrom
+the Mediterranean Sea, but molecular data of E. lususundae were only available from the Pacific
+Ocean [8,61,62]. Kazama et al. [61] reported DNA sequences of E. lususundae that clustered with
+twospecieswithagglutinatedloricae(LeprotintinnuspellucidusandTintinnopsisdadayi). Xuetal.[62]
+provided more sequences of E. lususundae from specimens with hyaline or agglutinated loricae.
+Strüder-KypkeandLynn[63]alsoprovidedthesequenceofaspeciesidentifiedasEutintinnussp. with
+agglutinatedloricathatclusteredwithE.apertus. ThediagnosisofthefamilyEutintinnidaehasbeen
+recentlyamendedandremainsrestrictedtospecieswithhyalineloricae[56,64]. Inaphylogenetic
+treeincludingallthecurrentlyavailablesequencesofEutintinnus,cellswithhyalineandagglutinated
+loricae cluster within the clade of E. lususundae/E. apertus (Figure S3 in Supplementary Materials).
+ThissuggeststhatthecladeofE.lususundae/E.tenuis/E.apertuscontainscellswithagglutinatedloricae
+thathavebeenmistakenforspeciesofthegenusLeprotintinnus,althoughtheplacementofT.dadayi
+withinthegroupofEutintinnusishighlyquestionable. Durán[65]andMarshall[58]reportedparticles
+adheredtotheloricaofE.lususundaeandE.fraknoi,respectively. Allthesefeaturessuggestasticky
+
+Oceans2020,1 148
+natureoftheloricaofE.lususundae,buttheconsortiaarenotaccidentalbecausethereisaclearselection
+forcertaindiatomtaxa,andtheadhesionoccursatdefinedpositions(Figure1f–n).
+Chaetoceros peruvianus and Hemiaulus spp., as well as solitary cells of Thalassionema sp. are
+preferentially adhered to the lorica of E. lususundae (Figure 1f–n [17,66]). Thalassionema sp. is also
+adheredtoSalpingella[25,52],althoughthetintinnidismorecommonlyfoundwithF.doliolus. Balech[23]
+reportedF.doliolusattachedtoEutintinnusintropicalwaters. FromtheMexicanPacific,Gárate-Lizárraga
+andMuñetón-Gómez[67]reportedtheconsortiumofF.dolioluswithaciliateidentifiedasVorticella,
+but their micrographs corresponded to a tintinnid with an incomplete lorica, probably Salpingella.
+InadditiontoEutintinnusandSalpingella,Vincentetal.[25]illustratedF.doliolussurroundingthelorica
+ofAmphorellopsis,Ascampbelliella,Dictyocysta,andProtorhabdonellaintropicalandtemperateoceans.
+Fronemanetal.[24]reportedtheconsortiumofF.doliolusandSalpingellainthesub-AntarcticOcean.
+InAntarcticwaters,livingcellsofFragilariopsiscurta,F.cylindrus,F.pseudonana,andF.rhombicawere
+attachedtoloricaeofthetintinnidsLaackmanniellanaviculaeferaandCodonellopsisgaussi[68].
+ThediatomsoftheorderFragilariales(=Thalassionematales),LicmophoralesandProtoraphiales
+(=Cyclophorales)arephylogeneticallycloselyrelatedandcontainmostoftheknowngeneraofaraphid
+epizoicdiatoms(Licmophora,Protoraphis,Pseudofalcula,Pseudohimantidium,andSynedra)andalsothe
+free-floatinggenusThalassionema[31]. TheetymologyofthenameFragilariopsissuggestsanaffinity
+with the araphid order Fragilariales. However, Fragilariopsis is a raphid diatom closely related to
+Pseudo-nitzschia. Therapheoftheraphiddiatomsisresponsiblefortheabilitytoadhereandglideover
+asubstratum. ThisfunctionisatrophiedinF.doliolus,andthereforeitdoesnotglideinthecultures
+(Figure1s),butitmaystillfacilitatetheorientationofthediatomchainsonthelorica(Figure1o–r).
+4.3. MorphologicalAdaptionsandEcologicalAdvantages
+ThetermsymbiosisderivesfromtheGreeksym,meaningtogetherandbios,meaninglifeand
+theetymologyreferstodescribedistinctorganismslivingtogether[69]. Themaintypesofsymbioses
+aremutualism, commensalism, andparasitism. Mutualisminvolvesinteractionsthatbenefitboth
+organismsandcommensalismisbeneficialtooneormoreorganismsbuthaslittleornoimpacton
+theotherpartner. However,mostofauthorsrestrictedtheuseofsymbiosisforthemutualism[70].
+Anotherinterpretationconsiderstheevolutionaryaspectofrelationshipsandreferstosymbiosesas
+long-terminteractionsthatleadtonovelcapabilitiesofthepartners[71]. Theciliate-diatomsymbioses
+canbeconsideredtobemutualism,assomeaspectsoftheassociationcanbebeneficialtothepartners,
+rangingfromobligatetofacultativedependingonthecase. Wahl[72],p. 101definedtheepibiosisas
+“thespatialassociationbetweenasubstratumorganism(basibiont)andasessileorganism(epibiont)
+attachedtothebasibiont’soutersurfacewithouttrophicallydependingonit”. Aproblematicissuein
+someciliate-diatomsymbiosescanbethedeterminationofwhoareconsideredthebasibiontandthe
+epibiont. Thetermsessilereferstoanorganismthatisanchoredtoasubstrateandcannotmoveabout
+freely. Thediatomsinconsortiumwithciliatesarearaphid(exceptFragilariopsis),withoutmotility
+inthevegetativestage. Thetintinnidciliatescannotbeconsideredtobesessileorganisms(epibiont)
+astheyarefreeswimmers. Inthecaseofthetintinnid-diatomsymbioses,thetinntinidsanddiatoms
+arethebasibiontandepibiont,respectively. Incontrast,Schröder[44]consideredthetintinnidasthe
+epibiont,andChaetocerosasthebasibiont(asplanktont). Thevorticellidciliatescanswiminsomeshort
+lifestages,buttheyaremainlysessileorganismslivingattachedtoasurface. Inthiscase,thenaked
+ciliatesanddiatomsaretheepibiontandbasibiont,respectively. Thiscanbeacceptedinthecaseofthe
+tinyvorticellidciliatesattachedtolargediatoms,butthisisnotevidentinthecaseofthetinycells
+ofthediatomLicmophorasp. attachedtothestalksofthevorticellidciliateZoothamniumpelagicum.
+Whenthereareimportantdifferencesinsizebetweenthepartners,theepibiontandthebasibiontcan
+beconsideredtobethesmallandlargepartners,respectively. Consequently,itisdifficulttoestablish
+ageneraldefinitionofthetermsepibiontandbasibiontfortheciliate-diatomsymbioses.
+
+Oceans2020,1 149
+4.3.1. SymbioticDiatoms
+Theinteractionsbetweentwoormoresymbioticorganismschangetheindividualcharacteristics
+ofeachpartner. Thechangesinbuoyancyandmotilityresultinaccesstoresources(light,nutrients,
+andfood),anincreaseinhydrodynamicdragorfilteringratesfortheciliate,andadecreaseinthe
+diffusive boundary layer for the photosynthetic diatom, and anti-grazing strategies (mechanical
+protectionorcamouflage). Thecombinationofthesefactorsdeterminesthesuccessofthesymbioses,
+anditisdifficulttoisolatetheadvantagesofonefactorwithouttheinteractionoftheothers. Laboratory
+experiments are difficult due to the lack of these symbiotic ciliates in culture [13] and even some
+ofthediatoms, therefore, hypothesesontheecologyoftheconsortiaarespeculative. Attemptsto
+culture Chaetoceros dadayi, C. tetrastichon, and C. coarctatus have been unsuccessful, whereas other
+epizoicdiatomshavebeenculturedwiththesamemethod[31]. ThechainsofF.doliolusmodifiedtheir
+curvaturebetweenthefree-livingandsymbioticforms(Figure1o–s). C.dadayi,C.tetrastichon,and
+C.coarctatusareonlyknownassymbioticforms,buttheirsetaeconfigurationhasdivergedfromother
+congeners,suggestinganadaptationtothesymbioticlife. Arelativelyheavilysilicifieddiatomchain
+couldnotsurviveinthesurfacewatersofthetropicalseaswherethelowturbulenceandpoornutrient
+conditionsareparticularlyharshforfree-livingspeciesofChaetoceros. Thelocomotionoftheciliate
+providesthebuoyancytothesymbioticdiatomsandallowsthehorizontaldisplacementwhichisnot
+possibleforthefree-livingcounterparts.
+ThesymbioticC.coarctatusisalsoexpectedtobenefittheflowfield(fornutrientsandgases)created
+bythefeedingcurrent,andtheexudatesoftheciliate. ThesetaeconfigurationofC.coarctatusisacage
+withbarsthatprotectthevulnerableciliatefrompredators,asnotedinearlierstudies[42]. Copepods
+arethemostcommonpredators,andtheygrabattherearoftheconsortiaandconsumetheciliate. This
+seemstobetheweakpointoftheconsortia,andthediatomhasdevelopedadistinct,horn-liketerminal
+posteriorasadefensivestrategy(VideoS1assupportingmaterialathttps://youtu.be/lgxbKjJyUu0,
+time6:08–9:00).
+Chaetoceros dadayi and C. tetrastichon have different construction of the setae. The setae of
+C.tetrastichonrepresentahigherprotectionbecausethelateralandposterior(aboral)flanksofthe
+ciliatearecovered. Thisconsortiumswimspreferentiallyforward. Incontrast,thesetaeofC.dadayi
+has a protection in the front and rear, and the consortia moves with alternating displacements in
+both directions (Video S1 as supporting material at https://youtu.be/lgxbKjJyUu0, time 0:22–0:54).
+Hernández-Becerril[51]reportedthatthevalvesofC.tetrastichonwerelessheavilysilicifiedthanthe
+othermemberofthesubgenusPhaeoceros. Areductionofthesilicificationhasbeenalsoobservedin
+otherepizoicspeciesascomparedwithbenthiccounterparts[31].
+The consortium C. dadayi and E. apertus is the most evolved consortia where the diatom has
+important morphological modifications of the setae and it is unable to have an independent life.
+Incontrast,C.peruvianusandE.lususundaeseemstobeanearlierevolutionarystageofthetintinnid
+anddiatomconsortiabecausethediatomisfoundwithsimilarmorphologyasanindependentspecies.
+SpeciesofthegenusFragilariopsisarepredominantlydistributedincoldwaters,especiallynearthe
+Antarctica[68]. TheconsortiaofF.doliolusandtintinnidsareanexceptionbecausetheyarefoundinthe
+tropicalocean,aswellasinthecoldwaterssuchasthesub-AntarcticOcean[24]. Thecloserrelativesof
+C.coarctatusarepolarorcoldwaters(C.convolutus,C.concavicornis,C.danicus,andC.borealis),aswell
+asC.densusandC.peruvianuswithamorewidespreaddistribution[10]. Itispossibletospeculate
+thatthesymbioseshavefacilitatedthespreadofnativecold-waterdiatomspeciessuchasF.doliolusor
+C.coarctatusintothetemperateandtropicalocean.
+4.3.2. SymbioticPeritrichCiliates
+Anobligatesymbiosisisnotevidentforthetintinnidspecies. Incontrast,peritrichciliatesneed
+a substrate to proliferate in the pelagic ecosystem. The stalk and the adhesive disk are adaptions
+forasessilelife, andnotforswimming. Severalstudieshaverevealedthattheciliatesattachedto
+substrateshavehigherfiltrationratesthantheirfree-swimmingcounterparts[54,73]. Consequently,
+
+Oceans2020,1 150
+peritrichciliatesthatareabletofindasubstrateinthewatercolumnhaveanadvantage. Peritrich
+ciliates(i.e.,Epistylis,Zoothamnium)arecommonlyreportedasepibiontsofcopepods[74]. Thisoccurs
+preferentiallyineutrophiccoastalwaters,beingararefeatureintheopenocean. Thelifeofacopepod
+isfinite,andtheepibiontsmustcolonizeotherfree-livingcopepods. Likeothercrustaceans,copepods
+periodicallyshedtheexoskeleton,andthisemptyexoskeletonorexuviaisnolongerasuitablemotile
+substrate. Incontrast,diatomsare”immortal”andthegrowthofthechainandfurtherfragmentation
+providnewsubstratesthatfacilitatestheexpansionoftheciliate.
+Thelengthofthestalkofthevorticellidciliatesseemstobeanadaptationtothetypeofhost.
+ThestalkofVorticellaoceanicahasthenecessarylengthtoprotrudebeyondthesetaeandtheciliary
+movement is able to create a feeding current without interference of obstacles ahead of the zooid
+(Figure 3–5). In addition to the alteration of the flow field, the stalk contraction can serve against
+predationormechanicalinjury,asnotedinearlierstudies(Figure3[42]). Whenthestalkcontracts,
+thezooidisprotectedbehindtheentanglementofthediatomsetae. InthecaseofP.coscinodisci,along
+stalkisnotnecessaryasthediatomhostlackedvalveextensionsthatcouldactasgrazingdeterrent
+andinterferewiththeciliatefeedingcurrents(Figure6). ThestudiesonthemotilityofVorticellahave
+beenbasedonindividualsattachedtoinanimatesubstrates. Theciliarymovementofthezooidsof
+V.oceanicaiscoordinatedtopropeltheconsortiumstraightforwardandthisfacilitatesexploringanew
+parcelofnutrientsandfoodresource(bacteria). Waterexpelledthroughtherearofthediatomavoids
+a rejected particle returning to the feeding currents of the pseudocolony (Video S1 as supporting
+materialathttps://youtu.be/lgxbKjJyUu0,time10:43–10:50).
+VorticellidciliatesareconsideredtobethefastestsolitaryorganismrelativetotheirsizeonEarth
+(see a review in [28]). V. oceanica seems to beat all the records. The peak speed of V. oceanica that
+attained165mm·s−1(Figure3)duplicatedthevalueof88mm·s−1ofthemostinvestigatedcongeneric
+species,thefreshwaterspeciesV.convallaria. Wecanfindahigherspeedofthestalkcontractionin
+otherperitrichgeneraofciliates,buttheyarecolonialspeciesand,consequently,thespeedisduetothe
+summationofnumerousindividualsjoinedbyacommonstalk. Duringthecontraction,thezooidof
+V.oceanicaattained5400bodylength·s−1(~30µminlength),beingthefastestsolitaryorganismrelative
+totheirbodylengthintheEarth. Thecheetah,thefastestterrestrialanimal,reaches120km·h-1and
+movesat~24bodylength·s−1[75]. Acar(~4mlong)movingatthisrateof5400lengths·s−1wouldbe
+travelingataspeedof70,000km·h−1. ThespeedofthezooidofV.oceanicaof165mm·s−1(=0.6km·h−1)
+isalowatthehumansizescale,butitshouldbetakenintoaccountthatthezooid(~30µminlength)
+moves in a viscous medium (seawater). Flow is laminar when the Reynolds number (Re) is low
+(i.e.,thefluidmovessmoothlyaroundthecellsandcanbeconsideredtobemovinginlayersbetween
+whichthereisnosignificantmixing)andflowisturbulentwhenReishigh[76]. Itcanbeexpressedas
+Re=(cid:37)uLµ−1where(cid:37)=densityofseawater(1023.5kg·m−3),u=velocity,L=characteristiclength,
+and µ = dynamic viscosity of seawater at 25 ◦ C (0.95 × 10−3 kg · m−1·s−1). The Reynold numbers
+arelow,i.e.,~7forazooidthatmovesat165mm·s−1 duringthestalkcontraction,and<0.1forthe
+microalgausedastracer(~4µmdiameter)thatwasaspiredat20mm·s−1.
+Thebasicfeedingmechanismofanindividualsessileperitrichciliateinaquiescentflowfield
+generatesanaxis-symmetricflowthroughciliabeat. Thiscanresultinfluidtrappedinatoroidalvortex
+andalowerrenewwithsurroundingwaters[29]andcouldconstituteaproblemforvorticellidsattached
+toimmobilesubstrates(i.e.,surfacesofwastewatertreatmentplants[30]). Theclosecoexistenceof
+sessileperitrichciliateswithdiatomsismutuallybeneficialfromthepointofviewoffluiddynamics
+andconvectivetransportofpotentialprey. VorticellaoceanicaandPseudovorticellacoscinodiscirendered
+theirhostsmotile,avoidingthefluidentrapmentissue. Thegregariousbehavioralsohastheadvantage
+thatthepresenceofotheractivezooidsbreak-uptheregularpattern. Themultiplefeedingcurrents
+duetodifferentorientationofthezooids(nickingangle)andtheinclinationofthestalk,aswellas
+thespontaneousstalkcontraction,introducevariabilitytotheflowfieldaroundtheconsortium[29].
+ThestalkisshortinP.coscinodisci,andthiscanconstituteanadvantagebecauseavortexoftrapped
+matterisnotformedbelowthezooid(Figure6). Inareview,Ryuetal.[28]reportedfeedingcurrents
+
+Oceans2020,1 151
+withintheorderof0.1–1mms−1forVorticellaspp.
+ThisstudyrecordedforP.coscinodisciamaximum
+speedof0.66mm·s−1oftheparticlesinthefeedingcurrent(Figure6).
+The consortium of V.oceanica and C. coarctatus is an extraordinary ecological and biophysical
+modelthatallowsthecolonizationofenvironmentswheretheycannotliveasindependentorganisms.
+The epibiosis of P. concinodisci on Coscinodiscus and Palmerina is another successful evolutionary
+experiment. The buoyancy and a flux of gases and nutrients induced by the epibiont can favor
+thesurvivalofthesymbioticdiatominpost-bloomconditionsofdecayinturbulenceandnutrient
+levels. Theepibiosisincreasesthesurvivalofdiatomcellsthatcanactasaseedingpopulationforthe
+free-livingformswhenfavorableenvironmentalconditionsreturn.
+4.3.3. SymbioticTintinnidCiliates
+The adhesion of the diatom modified the characteristics of the lorica. The adhered diatom is
+akindofposticheallowingalarger,coarser,orspine-protectedlorica. Thefirstissuetoconsideristhe
+functionofthelorica,andthentheadvantagesofamodifiedlorica. Themostintuitiveviewofthelorica
+isananti-grazingdefense. Agglutinatedloricawithparticlesattached(diatomsfrustules,spicules
+ofsponges,coccoliths,andmineralgrains)arefoundpreferentiallyincoastaltintinnids[5]. These
+particlesreinforcetheloricabutdecreasethebuoyancy[77],andhighersinkingratescanfacilitatethe
+escapefrompredatorsinthemixedcoastalwaters[78]. Mineralgrainsarescarceinthestratifiedopen
+ocean,andthereforeinsteadoftheinertparticlesfoundincoastalwaters[62],E.lususundaeattachesto
+selecteddiatomsintheopenocean(Figure1f–n). Themainpreferencesarediatomsofthesubgenus
+Phaeoceros, with coarse and spiny setae. Attachment of diatoms increases the effective size of the
+tintinnid,anditisexpectedtodecreaseitsvulnerabilitytosmallsizepredators,butperhapsincrease
+riskfromslightlylargerpredators. ThecoastalspeciesTintinnidiuminquilinumattachesitsloricato
+solidsurfaces,includingsuspendedparticles,anditislesssusceptibletopredationbycopepodsthanis
+amorphologicallysimilartintinnidthatisentirelyfreeswimming[54]. Changestotheloricacanhave
+otherimpactsfortheciliate. OnthebasisofpublishedillustrationsofEutintinnusapertuswithattached
+Chaetocerosdadayi,Jonssonetal.[54]calculatedthatthedragresultingfromtheexposedsurface,could
+increasetheflowthroughtheciliaryfilterbyafactorofthree. Theloricaofthisconsortiumalsoshowed
+adistinctiveaboralconstrictionwherethediatomdidnotattach(Figure1a,b). Itisuncertainifthe
+aboralnarrowingoftheloricacouldhaveanyadvantageascomparedwithotherspeciesofEutintinnus
+withastraightlorica. Furthermore,themorphologyoftheloricaofspeciesofSalpingellaiscloseto
+Eutintinnus,buttherearenoobservationsofChaetocerosadheredtoSalpingella. Theloricaofmostof
+theoceanictintinnidishyaline,andthetransparencecouldhelpavoidvisualpredators. Transparency
+isapparentlynotapriorityintheconsortiaofFragiolariosisdoliolusbecausethediatomchainencircles
+theloricaasagreenbracelet(Figure1o–r).
+Theinteractionbetweendiatomsandciliatesisprimarilyoneofpreyandpredator, butthese
+consortiaconstituteunexploredecologicalandbiophysicalmodels. Thereisstillmuchtobelearned
+regardingthebenefitsanddetrimentsoftheinteractions,thebalancebetweenobligateandopportunistic
+interactions,aswellastheflexibilityandspecificitybetweenpartners. Althoughagreatdealhasbeen
+learnedfromobservationsanddescriptions,culturesoftheseconsortiaarenecessarytomanipulate
+andunderstandtheinteractions.
+Supplementary Materials: The following are available online at http://www.mdpi.com/2673-1924/1/3/10/s1,
+Time-lapsesequenceoftheciliamovementofVorticellaoceanicarecordedat5000frames·s−1
+FigureS1: (fps),
+FigureS2: Earlierillustrationsofdiatomandtintinnidconsortia,FigureS3: PhylogenetictreebasedonSSUrDNA
+sequences,showingthepositionofthetintinnidsofthefamilyEutintinnidae.
+Funding: This research was funded by the Spanish Ministry of Science and Technology, grant number
+MEC2007#0213;FrenchCNRSANRBiodiversityprogram“Aquaparadox”,grantnumberANR-07-BDIV-004;
+the Spanish Ministry of Science and Technology, grant number JCI-2010-08492; and the Brazilian Conselho
+NacionaldeDesenvolvimentoCientíficoeTecnológico,grantnumberBJT370646/2013-14.
+ConflictsofInterest: Theauthordeclaresnoconflictofinterest.
+
+Oceans2020,1 152
+References
+1. Lynn,D.H.TheCiliatedProtozoa: Characterization,Classification,andGuidetotheLiterature;Springer: Dordrecht,
+TheNetherlands,2008.
+2. Azam,F.;Fenchel,T.;Field,J.G.;Gray,J.S.;Meyer-Reil,L.A.;Thingstad,F.Theecologicalroleofwater-column
+microbesinthesea. Mar. Ecol. Prog. Ser. 1983,10,257–263. [CrossRef]
+3. Kofoid,C.A.;Campbell,A.S.AconspectusofthemarineandfreshwaterCiliatabelongingtothesuborder
+Tintinnoinea,withdescriptionsofnewspeciesprincipallyfromtheAgassizExpeditiontotheEasternTropical
+Pacific1904–1905. Univ. Calif. Publ. Zool. 1929,34,1–403.
+4. Kofoid, C.A.; Campbell, A.S. Reports on the scientific results of the expedition to the Eastern Tropical
+Pacific,inchargeofAlexanderAgassiz,byU.S.FishCommissionSteamer‘Albatross’fromOctober1904
+toMarch1905. Lieut. CommanderL.M.Garrett,U.S.N.commanding. 37. TheCiliata: TheTintinnoinea.
+Bull.Mus.Comp. Zool.Harv. 1939,84,1–473.
+5. Dolan,J.R.;Montagnes,D.J.S.;Agatha,S.;Coats,W.D.;Stoecker,D.K.TheBiologyandEcologyofTintinnid
+Ciliates. ModelsforMarinePlankton;Wiley-Blackwell: Chichester,UK,2013.
+6. Dolan,J.R.;Pierce,R.W.;Bachy,C.Cyttarocylisampulla,apolymorphictintinnidciliateofthemarineplankton.
+Protist2013,165,66–80. [CrossRef][PubMed]
+7. Santoferra,L.F.;Tian,M.;Alder,V.A.;McManus,G.B.Discriminationofcloselyrelatedspeciesintintinnid
+ciliates: NewinsightsoncrypticityandpolymorphisminthegenusHelicostomella. Protist2015,166,78–92.
+[CrossRef]
+8. Bai,Y.;Wang,R.;Liu,W.;Warren,A.;Zhao,Y.;Hu,X.Redescriptionsofthreetintinnineciliates(Ciliophora:
+Tintinnina)fromcoastalwatersinChinabasedonloricafeatures,cellmorphology,andrDNAsequencedata.
+Eur. J.Protistol. 2020,72,125659. [CrossRef][PubMed]
+9. Nelson, D.M.; Tréguer, P.; Brzezinski, M.A.; Leynaert, A.; Quéguiner, B. Production and dissolution of
+biogenicsilicaintheocean: Revisedglobalestimates,comparisonwithregionaldataandrelationshipto
+biogenicsedimentation. Glob. Biogeochem. Cycles1995,9,359–372. [CrossRef]
+10. Hasle,G.R.;Syvertsen,E.E.Marinediatoms. InIdentifyingMarinePhytoplankton;Tomas,C.R.,Ed.;Academic
+Press: SanDiego,CA,USA,1997;pp.5–385.
+11. Carpenter,E.J.;Montoya,J.P.;Burns,J.;Mulholland,M.R.;Subramaniam,A.;Capone,D.G.Extensivebloom
+ofaN -fixingdiatom/cyanobacterialassociationinthetropicalAtlanticOcean. Mar. Ecol. Prog. Ser. 1999,
+2
+185,273–283. [CrossRef]
+12. Gómez,F.;Furuya,K.;Takeda,S.DistributionofthecyanobacteriumRicheliaintracellularisasanepiphyteof
+thediatomChaetoceroscompressusinthewesternPacificOcean. J.PlanktonRes. 2005,27,323–330. [CrossRef]
+13. Verity,P.G.;Villareal,T.A.Therelativefoodvalueofdiatoms,dinoflagellates,flagellatesandcyanobacteria
+fortintinnidcultures. Arch. Protistenk. 1986,131,71–84. [CrossRef]
+14. Fol,H.NouvellecontributionàlaconnaissancedelafamilledesTintinnodea. Arch. Sci. Phys. Natur. 1883,9,
+554–578.
+15. vonDaday,E.MonographiederFamiliederTintinnodeen. Mitt. Zool. Sta. Neapel1887,7,473–591.
+16. Famintzin,A.S.SymbiosevonAlgenundThieren. Mém. Acad. Imp. Sci. St. Pétersbourg1889,36,1–36.
+17. Pavillard,J.RecherchessurlesDiatoméesPélagiquesduGolfeduLion. Trav. Inst. Bot. Univ. MontpellierSta.
+Zool. CetteSer. MixteMém. 1916,5,1–62.
+18. Gómez,F.OntheconsortiumofthetintinnidEutintinnusandthediatomChaetocerosinthePacificOcean.
+Mar. Biol. 2007,151,1899–1906. [CrossRef]
+19. Okamura,K.SomeChaetocerasandPeragalliaofJapan. Bot. Mag. Tokyo1907,21,89–106. [CrossRef]
+20. Taylor,F.J.R.Symbiosesinmarinemicroplankton. Ann. Inst. Océanogr. Paris1982,58,61–90.
+21. Nagasawa,S.;Warren,A.RedescriptionofVorticellaoceanicaZacharias,1906(Ciliophora: Peritrichia)with
+notesonitshost,themarineplanktonicdiatomChaetoceroscoarctatumLauder,1864. Hydrobiologia1996,337,
+27–36. [CrossRef]
+22. Gómez,F.;Wang,L.;Lin,S.Morphologyandmolecularphylogenyofperitrichciliateepibiontsonpelagic
+diatoms: VorticellaoceanicaandPseudovorticellacoscinodiscisp. nov. (Ciliophora,Peritrichia). Protist2018,169,
+268–279. [CrossRef]
+23. Balech, E. Tintinnoinea y dinoflagellata del Pacífico. Rev. Mus. Arg. Cienc. Nat. Bernardino Rivadavia
+Cienc.Zool. 1962,8,1–249.
+
+Oceans2020,1 153
+24. Froneman,P.W.;Pakhomov,E.A.;Meaton,V.Observationsontheassociationbetweenthediatom,Fragilariopsis
+doliolusWallich,andthetintinnid,SalpingellasubconicaKafoid. S.Afr. J.Sci. 1998,94,202.
+25. Vincent,F.J.;Colin,S.;Romac,S.;Scalco,E.;Bittner,L.;Garcia,Y.;Lopes,R.M.;Dolan,J.R.;Zingone,A.;
+deVargas,C.;etal. TheepibioticlifeofthecosmopolitandiatomFragilariopsisdoliolusonheterotrophic
+ciliatesintheopenocean. ISMEJ.2018,12,1094–1108. [CrossRef][PubMed]
+26. deFaria,J.G.;daCunha,A.M.EstudossobreoMicroplanctondabaíadoRiodeJaneiroesuasimediações.
+Mem. Inst. OswaldoCruz1917,9,68–93. [CrossRef]
+27. Hallegraeff,C.M.;Jeffrey,S.W.Tropicalphytoplanktonspeciesandpigmentsofcontinentalshelfwatersof
+NorthandNorth-WestAustralia. Mar. Ecol. Prog. Ser. 1984,20,59–74. [CrossRef]
+28. Ryu, S.; Pepper, R.E.; Nagai, M.; France, D.C. Vorticella: A protozoan for bio-inspired engineering.
+Micromachines2017,8,4. [CrossRef]
+29. Hartmann,C.;Özlem,Ö.;Petermeier,H.;Fried,J.;Delgado,A.Analysisoftheflowfieldinducedbythe
+sessileperitrichousciliateOperculariaasymmetrica. J.Biomech. 2007,40,137–148. [CrossRef]
+30. Pepper, R.E.; Roper, M.; Ryu, S.; Matsumoto, N.; Nagai, M.; Stone, H.A. A new angle on microscopic
+suspensionfeedersnearboundaries. Biophys. J.2013,105,1796–1804. [CrossRef]
+31. Gómez,F.;Wang,L.;Lin,S.Morphologyandmolecularphylogenyofepizoicaraphiddiatomsonmarine
+zooplankton,includingPseudofalculahyalinagen.&comb.nov.(Fragilariophyceae,Bacillariophyta).J.Phycol.
+2018,54,557–570. [PubMed]
+32. Gómez,F.Motilebehaviourofthefree-livingplanktonicciliateZoothamniumpelagicum(Ciliophora,Peritrichia).
+Eur. J.Protistol. 2017,59,65–74. [CrossRef]
+33. Lauder,H.S.RemarksonthemarinediatomaceaefoundatHongKong,withdescriptionofnewspecies.
+Trans. Microsc. Soc. Lond. n.s. 1864,12,75–79.
+34. Zacharias,O.Überperiodizität,variationundverbreitungverschiedenerPlanctonorganismeninsüdlichen
+meeren. Arch. Hydrobiol. Planktonk. 1906,1,498–575.
+35. Cleve,P.T.ATreatiseonthePhytoplanktonoftheAtlanticandItsTributariesandonthePeriodicalChangeofthe
+PlanktonofSkagerak;UpsalaNyaTidningsAktiebolagsTryckeri: Upsala,Sweden,1897.
+36. Cleve,P.T.Plankton-Researchesin1897. Kung. Sven. Vet. Akad. Handl. 1899,32,1–33.
+37. Meunier,A.MicroplanctondelaMerFlamande. I.LegenreChaetocerosEhr. Mém. Mus. R.Hist. Natur. Belg.
+1913,26,1–58.
+38. Hernández-Becerril,D.U.TwonewspeciesofthediatomgenusChaetoceros(Bacillariophyta). PlantSyst. Evol.
+1992,181,217–226. [CrossRef]
+39. Koray,T.SymbioticassociationsinmicroplanktonofIzmirBay,AegeanSea,andtheirpollutiondependent
+distributions. Turk. J.Biol. 1988,12,46–52.
+40. Gómez, F. Phytoplankton invasions: Comments on the validity of categorizing the non-indigenous
+dinoflagellatesanddiatomsinEuropeanSeas. Mar. Poll. Bull. 2008,56,620–628. [CrossRef]
+41. Travers,M.InventairedesprotistesdeGolfedeMarseilleetdessesparages. Ann. Inst. Océanogr. Paris1975,
+51,51–75.
+42. Schröder,B.AdriatischesPhytoplankton. Kaiserl. Akad. Wiss. WienMath. Naturwiss. Kl. Denkschr. 1911,120,
+601–657.
+43. Vilicˇic´,D.;Marasovic´,I.;Miokovic´,D.ChecklistofphytoplanktonintheeasternAdriaticSea. ActaBot. Croat.
+2002,61,57–91.
+44. Schröder,B.UeberPlanktonepibionten. Biol. Zent. 1914,34,328–338.
+45. Ostenfeld,C.H.PhytoplanktonfradetKaspiskeHav. Vidensk. Meddel. DanskNaturhist. Foren. Kjøbenhavn
+1902,1901,129–139.
+46. Ostenfeld,C.H.MarinePlanktonDiatoms. FloraofKohChang. Contributionstotheknowledgeofthe
+vegetationintheGulfofSiambyJohs. Schmidt. PartVII.Bot. Tidsskr. 1902,25,1–27.
+47. Ostenfeld, C.H. De Danske Farvandes Plankton i Aarene 1898–1901. Phytoplankton og protozoer, 2.
+Protozoer;Organismermedusikkerstilling;parasiteriphytoplankter. K.Dansk. Vidensk. Selsk. Skr. Natur.
+Math. Afd. 1916,8,1–85.
+48. vonStosch,H.A.SomemarinediatomsfromtheAustralianregion,especiallyfromPortPhillipBayand
+tropicalNorth-easternAustralia.II.SurveyofthegenusPalmeriaandofthefamilyLithodesmiaceaeincluding
+thenewgenusLithodesmioides. Brunonia1987,9,29–87.
+
+Oceans2020,1 154
+49. Schröder, B. Das Phytoplankton des Golfes von Neapel nebst vergleichenden Ausblicken auf das des
+atlantischenOceans. Mitt. Zool. Sta. Neapel1900,14,1–38.
+50. Pavillard,J.ObservationssurlesDiatomées. Bull. Soc. Bot. Fr. 1913,60,126–133. [CrossRef]
+51. Hernández-Becerril,D.U.Observationsontwocloselyrelatedspecies,ChaetocerostetrastichonandC.dadayi
+(Bacillariophyceae). Nord. J.Bot. 1992,12,365–371. [CrossRef]
+52. Kimor,B.;Gordon,N.;Neori,A.Symbioticassociationsamongthemicroplanktoninoligotrophicmarine
+environments,withspecialreferencetotheGulfofAqaba,RedSea. J.PlanktonRes. 1992,14,1217–1231.
+[CrossRef]
+53. Fauré-Fremiet,E.LeTintinnidiuminquilinum. Arch. Protistenk. 1908,11,225–251.
+54. Jonsson,P.R.;Johansson,M.;Pierce,R.W.Attachmenttosuspendedparticlesmayimproveforagingand
+reducepredationriskfortintinnidciliates. Limnol. Oceanogr. 2004,49,1907–1914. [CrossRef]
+55. Balech,E.IntroducciónalFitoplanctonMarino;Eudeba: BuenosAires,Argentina,1977.
+56. Bachy,C.;Gómez,F.;López-García,P.;Dolan,J.R.;Moreira,D.Molecularphylogenyoftintinnidciliates
+(Tintinnida,Ciliophora). Protist2012,163,873–887. [CrossRef][PubMed]
+57. Cupp, E.E. Marine plankton diatoms of the west coast of North America. Bull. Scripps Inst. Oceanogr.
+Univ.Calif. 1943,5,1–238.
+58. Marshall, S.M. Protozoa, Order Tintinnia. Fiches d’Identification de Zooplancton, Fiches 117–127; Conseil
+Internationalpourl’ExplorationdelaMer: Charlottenlund,Denmark,1969.
+59. Balech,E.ElplanctondeMardelPlataduranteelperíodo1961–1962(BuenosAires,Argentina). Bol. Inst.
+Biol. Mar. 1964,4,1–59.
+60. Rampi,L.RicerchesulMicroplanctondisuperficiedelPacificotropicale. Bull. Inst. Océanogr. Monaco1952,
+1014,1–16.
+61. Kazama,T.;Ishida,S.;Shimano,S.;Urabe,J.Discrepancybetweenconventionalmorphologicalsystematics
+andnuclearphylogenyoftintinnids(Ciliophora: Choreotrichia). PlanktonBenthosRes. 2012,7,111–125.
+[CrossRef]
+62. Xu,D.;Sun,P.;Warren,A.;Noh,J.H.;Choi,D.L.;Shin,M.K.;Kim,Y.O.Phylogeneticinvestigationsonten
+generaoftintinnidciliates(Ciliophora: Spirotrichea: Tintinnida),basedonsmallsubunitribosomalRNA
+genesequences. J.Eukaryot. Microbiol. 2013,60,192–202. [CrossRef]
+63. Strüder-Kypke,M.C.;Lynn,D.H.Morphologicalversusmoleculardata—Phylogenyoftintinnidciliates
+(Ciliophora,Choreotrichia)inferredfromsmallsubunitrRNAgenesequences. Denisia2008,23,417–424.
+64. Smith,S.A.;Song,W.;Gavrilova,N.A.;Kurilov,A.V.;Liu,W.;McManus,G.B.;Santoferrara,L.F.Dartintinnus
+alderaen.g.,n.sp.,abrackishwatertintinnid(Ciliophora,Spirotrichea)withdual-endedloricacollapsibility.
+J.Eukaryot.Microbiol. 2018,65,400–411. [CrossRef]
+65. Durán,M.ContribuciónalestudiodelostintínidosdelplanctondeCastellón(MediterráneoOccidental).
+II.Publ. Inst. Biol. Aplic. 1953,12,79–97.
+66. Taniguchi,A.SuborderTintinnina.InAnIllustratedGuidetoMarinePlanktoninJapan;Chihara,M.,Murano,M.,
+Eds.;TokaiUniv. Press: Tokyo,Japan,1997;pp.421–483.
+67. Gárate-Lizárraga,I.;Muñetón-Gómez,M.S.PrimerregistrodeladiatomeaepibiontePseudohimantidium
+pacificumydeotrasasociacionessimbióticasenelGolfodeCalifornia. ActaBot. Mex. 2009, 88, 31–45.
+[CrossRef]
+68. Armbrecht, L.H.; Eriksen, R.; Leventer, A.; Armand, L.K. First observations of living sea-ice diatom
+agglomerationtotintinnidloricaeinEastAntarctica. J.PlanktonRes. 2017,39,795–802. [CrossRef]
+69. deBary,A.ThePhenomenonofSymbiosis;Karl,J.,Ed.;Trübner: Strasbourg,Germany,1879.
+70. vanBeneden,P.J.Unmotsurlaviesocialedesanimauxinférieurs. Bull. Acad. R.Belg. 1873,2,779–796.
+71. Douglas,A.E.SymbioticInteractions;OxfordUniv. Press: Oxford,UK,1994.
+72. Wahl, M. Epibiosis. In Biofouling; Dürr, S., Thomason, J.C., Eds.; Wiley Blackwell: Oxford, UK, 2010;
+pp.100–120.
+73. Christensen-Dalsgaard,K.K.;Fenchel,T.Increasedfiltrationefficiencyofattachedcomparedtofree-swimming
+flagellates. Aquat. Microb. Ecol. 2003,33,77–86. [CrossRef]
+74. Fernández-Leborans,G.;Tato-Porto,M.L.Areviewofthespeciesofprotozoanepibiontsoncrustaceans.
+I.Peritrichciliates. Crustaceana2000,73,643–683. [CrossRef]
+75. McMahon,T.A.;Bonner,J.T.OnSizeandLife;ScientificAmericanLibrary: NewYork,NY,USA,1983.
+76. Happel,J.;Brenner,H.LowReynoldsNumberHydrodynamics;Prentice-Hall: EnglewoodCliffs,NJ,USA,1965.
+
+Oceans2020,1 155
+77. Smayda,T.J.;Bienfang,P.K.Suspensionpropertiesofvariousphyleticgroupsofphytoplanktonandtintinnids
+inanoligotrophic,subtropicalsystem. Mar. Ecol. 1983,4,289–300. [CrossRef]
+78. Capriulo,G.M.Feedingoffieldcollectedtintinnidmicro-zooplanktononnaturalfood. Mar. Biol. 1982,71,
+73–86. [CrossRef]
+©2020bytheauthor. LicenseeMDPI,Basel,Switzerland. Thisarticleisanopenaccess
+articledistributedunderthetermsandconditionsoftheCreativeCommonsAttribution
+(CCBY)license(http://creativecommons.org/licenses/by/4.0/).
+

@@ -1,0 +1,578 @@
+AQUATIC MICROBIAL ECOLOGY
+Vol. 22: 69–78, 2000 Published July 21
+AquatMicrob Ecol
+Tintinnid ciliate diversity in the Mediterranean
+Sea: longitudinal patterns related to water column
+structure in late spring-early summer
+John R. Dolan*
+Smithsonian Environmental Research Center, PO Box 28, Edgewater, Maryland 21037, USA
+and
+Marine Microbial Ecology Group, CNRS ESA 7076, Station Zoologique, BP 28, 06230 Villefranche-sur-Mer, France
+ABSTRACT: Globally, north-south gradients in diversity are well known, and in the world ocean they
+have been related to north-south gradients in water column structure. Here diversity in planktonic
+ciliates, both taxonomic and morphological, is explored in the Mediterranean Sea, which displays
+west-east gradients in the water column characteristics of chlorophyll concentrations and distribu-
+tions. Tintinnids, which are loricate planktonic ciliates, were enumerated and identified in samples
+from 23 stations between 2 and 32°E, obtained from the Catalan Sea in June 1993 and from a cross-
+Mediterranean transect in May–June 1996. From west to east, concentrations of tintinnids showed little
+variability, while numbers of species and genera, as well as diversity indices (H’values), increased.
+These parameters were positively related to depths of the chlorophyll maximum layer and negatively
+correlated with chlorophyll concentrations. Corresponding to the west to east increases in diversity
+were increases in community averages of lorica oral diameter and overall length, again positively cor-
+related to deepening of chlorophyll maximum depths, and negatively related to average chlorophyll
+concentrations. Morphological diversity was related to species diversity, not as variability in lorica oral
+diameters, but as variability in average lorica length. In the Mediterranean Sea, a gradient of taxo-
+nomic and morphological diversity is relatable to a specific feature of the water column, the depth of
+the chlorophyll maximum layer. Trophic specialization as a dominant mechanism underlying diver-
+sity was not supported by data on lorica oral diameters.
+KEY WORDS: Biodiversity · Plankton · Latitudinal gradient
+Resale or republication not permitted without written consent of the publisher
+INTRODUCTION Investigations of feeding revealed that tintinnid cili-
+ates ingest a large variety of pico- and nano-sized prey,
+Tinitinnid ciliates are a common, and due to their lor- ranging in size from about 2 µm to particles about half
+icas, distinctive component of plankton communities, the diameter of their lorica oral openings (e.g., Spittler
+which explains why, among ciliates, they have long been 1973, Heinbokel 1978, Rassoulzadegan 1978, Rassoul-
+catalogued in plankton collections and the subject of tax- zadegan & Etienne 1981, Capriulo 1982). Complexities
+onomic monographs (e.g., Jörgensen 1924). In the 1970s, in feeding, such as selective ingestion, among different
+the development began of an extensive literature on dinoflagellates were shown (e.g., Stoecker et al. 1981).
+their ecology due to the ‘changing paradigm’ of plank- Field investigations suggested that tintinnids could
+tonic food webs (Pomeroy 1974). The paradigm focused remove large portions (10 to 27%) of daily primary
+atttention on pico- and nanoplankton; tintinnids, as con- production in some coastal waters (e.g., Heinbokel &
+sumers of pico- and nanoplankton, were recognized as Beers 1979, Capriulo & Carpenter 1983). Detailed stud-
+potentially important in marine food webs. ies were conducted on tintinnid energetics, revealing
+high potential growth rates even among large species,
+and high weight-specific excretion rates (e.g., Stoecker
+*E-mail: dolan@obs-vlfr.fr et al. 1983, Verity 1985, 1987). Data were gathered
+© Inter-Research 2000
+
+70 AquatMicrob Ecol 22: 69–78, 2000
+from both the field and lab showing the efficient east rather than north-south, in terms of both water
+explotation of tintinnids by higher trophic levels (Ro- mass formations and circulation patterns, as well as in
+bertson 1983, Turner & Anderson 1983, Stoecker & gradients of primary production and seasonality of pri-
+Sanders 1985). mary production (Bethoux et al. 1998). Therefore, west
+In recent years however, while ciliate microzooplank- to east patterns among Mediterranean taxa provide a
+ton have become acknowledged as playing a pivotal means to examine the generality of mechanisms pro-
+role in most planktonic food webs (e.g., Pierce & posed to account for north-south trends found among
+Turner 1992), interest in the ecology of tintinnid cili- taxa in the world ocean.
+ates apparently has waned. This is due most likely to For example, tintinnid diversity was described along
+findings that ‘naked’ oligotrich ciliate taxa are gener- a north-south transect in the southwestern Atlantic
+ally much more abundant than tintinnids. In a large between 34 and 58°S (Thompson et al. 1999). The
+variety of systems, tintinnid ciliates represent a small authors presented evidence of a general trend of de-
+fraction (≤10% of cell numbers or biomass) of the cili- creasing numbers of species and specific diversity, at-
+ate community (e.g., Dolan & Marrasé 1995, Gifford et tributed to differences in water column structure, as
+al. 1995, Caron & Dennett 1999). Thus, the activities of Antarctic waters were approached (Thompson et al.
+tintinnids such as grazing or excretion are probably 1999). In another recent report, Rutherford et al. (1999)
+much less important quantitatively than those of the found, for the Atlantic Ocean, a close curvi-linear asso-
+naked oligotrich taxa such as Strombidium, Strobilid- ciation between numbers of species of planktonic fora-
+ium, etc. minifera and sea surface water temperature, and
+While the tintinnid ciliate component of microzoo- explained the link as reflecting an association between
+plankton communities may play a relatively minor role water column structure and diversity. They found that
+in processes such as carbon flux or nutrient regenera- middle latitudes showed higher numbers of species
+tion, they are ideal organisms for the study of changes than both the tropics and high latitude waters and
+in the structure or composition of microzooplankton explained this as reflecting the fact that middle lati-
+communities (Thompson et al. 1999). This is because tude water columns are characterised by deep, perma-
+changes in the composition of tintinnid communities nent thermoclines compared to both tropical waters
+can easily be detected as species identifications can be with shallow permanent thermoclines and high lati-
+made using lorica morphology. Tinitinnids can be tude waters with seasonal thermoclines; thus, vertical
+identified by examining specimens in plankton settling niche seperation was invoked as the basic mechanism
+chambers; in contrast, identification of naked oligo- allowing diversity (Rutherford et al. 1999).
+trichs requires mounting on slides, cytological staining Here data are presented on tintinnid diversity in a
+and examination under high magnification (i.e., pro- system which displays a distinct gradient in water col-
+targol silver staining; Montagnes & Lynn 1987, 1991). umn structure in the form of the depth of the chloro-
+Previous studies of Mediterranean ciliate microzoo- phyll maximum layer as well as chlorophyll concentra-
+plankton, which focused on determination of the mag- tions. Diversity patterns are explored in terms of
+nitudes of ciliate standing stocks, revealed a surprising taxonomy (i.e., numbers of species, numbers of genera,
+variety of forms of tintinnid ciliates (Dolan & Marrasé the Shannon index H’) as well as in terms of morphol-
+1995, Dolan et al. 1999). A gradient from west to east of ogy (i.e., dimensions of tintinnid loricas).
+increasing tintinnid diversity was apparent based on
+the number of different species encountered as a func-
+tion of the number of individuals examined in different METHODS AND MATERIALS
+Mediterranean basins (Dolan et al. 1999). Here a de-
+tailed analysis of patterns in tintinnid diversity, based Data presented and analysed on tintinnid ciliates are
+on data gathered from 2 springtime oceanographic from samples obtained from 2 oceanographic cruises,
+campaigns, is attempted. Mesoscale 93 and Minos. For both cruises, results on
+The interest of establishing diversity patterns among overall ciliate community composition and distribution
+Mediterranean tintinnids is 2-fold. First, for tintinnids have appeared previously. For the Mesoscale 93 cruise,
+some general biogeographic patterns, i.e., cold versus details of water column characteristics, sampling pro-
+warm water taxa (Zietzschel 1982), or identification of tocols, and sample processing appear in a report which
+genera as cosmopolitan, neritic, etc. (Pierce & Turner focused on vertical distribution of ciliate biomass
+1993), have been established but quantitative data on (Dolan & Marrasé 1995). Here, data from 6 stations
+tintinnid diversity are very rare (Cariou et al. 1999, between the coast of Spain and the Balearic Islands
+Thompson et al. 1999). Second, the Mediterranean Sea (between approx. 2 and 3°E) sampled on 14 June 1993
+represents an especially interesting system as it can be are presented. For the Minos cruise, study details
+considered a model of the world ocean, oriented west- appear in Dolan et al. (1999), which focused on longi-
+
+Dolan: Tintinnid ciliate diversity in the Mediterranean Sea 71
+tudinal trends in ciliate biomass in the Mediterranean infraciliature, the basis of alpha-level ciliate taxonomy
+Sea. Here, data are presented from the analysis of (Corliss 1979), is known for very few species (e.g., Choi
+samples from 17 stations between the French coast et al. 1992, Petz & Foissner 1993), some tintinnid spe-
+(6°E) and the Levantin basin (32°E) obtained from 24 cies are apparently capable of expressing different lor-
+May to 25 June 1996. Station locations and characteris- ica morphologies (e.g., Gold & Morales 1976, Davis
+tics are given in Table 1. Below, water column sam- 1981, Laval-Peuto 1983, Wasik & Mikolajczyk 1994,
+pling and sample processing for ciliates, which were Wasik 1998). In the present study, this potential prob-
+identical for the 2 cruises, are briefly summarized. lem should be minor as studies of field populations
+Niskin bottle samples were obtained from 6 to 12 have rarely shown co-existence of different lorica mor-
+depths between the surface to below the chlorophyll photypes of the same species. Furthermore, no attempt
+maximum layer. Samples (500 ml) were preserved with is made here to provide absolute estimates of species
+acid Lugol’s solution (2% final conc.) and stored refrig- richness but rather a comparison of different sites
+erated and in darkness, except during transport, until using limited sample volumes.
+processed. Following the protocol outlined in Dolan & Chlorophyll concentrations were determined using
+Marrasé (1995), the 500 ml samples were concentrated a Turner Designs fluorometer to measure acetone-
+using sedimentation to 75–100 ml and aliquots of the extracted chlorophyll retained by GF/F filters for the
+concentrate, equivalent to 250–500 ml of whole water, Mesoscale 93 samples. For the Minos cruise samples,
+were settled in settling chambers and examined using pigments retained by GF/F filters and extracted using
+an inverted microscope. Tintinnids were identified methanol were measured using HPLC as detailed in
+based on lorica morphology using the species descrip- Vidussi et al. (1996).
+tions of Balech (1959), Campbell (1942), Jörgensen For each station, tintinnid data from all depths were
+(1924), and Kofoid & Campbell (1929, 1939). Lorica pooled. This was done because preliminary analysis of
+dimensions were measured with an ocular micrometer. all the stations showed no discernable trends with
+It should be noted that, while tintinnid species iden- depth of tintinnid concentrations, species diversity, or
+tifications are based on lorica morphology because the community averaged morphological characteristics,
+similar to our previous findings for
+the NW Mediterranean (Cariou et
+Table 1. Station locations and characteristics. No. of bottles: number of different al. 1999). Pooling data also pro-
+depths sampled between 5 m and the bottom; Chl max: maximum depth in m (Z), vided a larger number of individu-
+and maximum chlorophyll concentration in ng l–1 als from which to make population
+estimates. For each station the fol-
+Stn Location Date No. of bottles/ Chl max. lowing parameters were calculated
+(mo/d/yr) bottom depth (m) Z Conc.
+based on the pooled tintinnid data:
+numbers of species, numbers of ge-
+1 41°11’N, 2°19’E 6/14/93 9/200 50 1280
+nera, the Shannon diversity index
+2 41°07’N, 2°23’E 6/14/93 8/105 44 1210
+3 40°57’N, 2°30’E 6/14/93 9/200 40 980 (ln-based), overall community ave-
+4 40°48’N, 2°38’E 6/14/93 8/200 30 1280 rages and standard deviations of
+5 40°39’N, 2°45’E 6/14/93 9/200 50 900 lorica oral diameter and total lorica
+6 40°35’N, 2°49’E 6/14/93 8/200 40 1170 length. Additional parameters were
+7 41°00’N, 6°10’E 5/24/96 6/80 50 1038 depth-integrated chlorophyll and
+8 39°10’N, 6°10’E 5/25/96 6/90 80 302
+tintinnid concentrations calculated
+9 38°00’N, 6°10’E 5/28/96 6/90 50 1792
+using the trapezoidal method and
+10 37°00’N, 9°00’E 5/29/96 6/90 40 598
+the depth of the chlorophyll maxi-
+11 41°30’N, 10°40’E 6/2596 6/120 80 458
+mum simply taken as the depth
+12 38°00’N, 11°20’E 5/30/96 6/90 50 963
+13 36°30’N, 13°15’E 5/31/96 6/90 70 451 with the maximum concentration of
+14 36°00’N, 15°45’E 6/1/96 6/90 80 826 chlorophyll. The depth of the
+15 37°05’N, 16°52’E 6/2196 6/120 100 369 chlorophyll maximum corresponds
+16 34°00’N, 18°00’E 6/17/96 6/130 100 207 closely to the depth of the euphotic
+17 36°00’N, 18°45’E 6/2/96 6/120 110 324 zone in the Mediterranean Sea
+18 36°00’N, 20°20’E 6/3/96 6/90 80 198 (e.g., Dolan et al. 1999, Table 1).
+19 34°00’N, 22°00’E 6/15/96 6/100 90 414
+Regression and correlation analy-
+20 36°00’N, 22°15’E 6/4/96 6/90 70 350
+ses were run using Statview 6;
+21 34°00’N, 26°00’E 6/13/96 6/140 120 270
+probabilities for the correlation
+22 34°00’N, 30°00’E 6/11/96 6/130 90 279
+matrix were calculated using the
+23 34°00’N, 32°00’E 6/9/96 12/200 110 309
+Fisher r to z method.
+
+72 AquatMicrob Ecol 22: 69–78, 2000
+RESULTS species found per station increased from about 10 to
+25, and the value of diversity metric H’ increased from
+Tintinnid concentrations averaged about 25 cells l–1 2 to 3 (Fig. 1). Similar trends were evident for numbers
+and while some high concentrations were found in of genera and values of H’ calculated using using ge-
+western stations (Fig. 1), tintinnid concentrations did neric data (data not shown). There were also west to
+not show a clear west to east trend. In contrast, the data east trends in metrics of tintinnid morphology. Com-
+show a clear west to east decline in chlorophyll con- munity averages of lorica oral diameter increased from
+centration (from an avarage of about 450 to 100 ng l–1) about 28 to 38 µm and overall lorica length increased
+and increase in depth of the chlorophyll maximum from 70 to 140 µm (Fig. 2). Variability in morphology
+from about 40 to 100 m depth. West to east trends were within tintinnid communities also appeared to increase
+also evident in measures of tintinnid diversity. From from west to east as indicated by larger standard devi-
+the western-most stations of the Catalan Sea to the ations in average lorica length among eastern com-
+eastern stations in the Levatine Basin, the number of pared to western stations (Fig. 2).
+Statistical relationships revealed close co-
+variation of several measures of tintinnid tax-
+onomic diversity and morphology with chlo-
+rophyll concentration and distribution. The
+depth of the chlorophyll maximum was posi-
+tively related to numbers of species, genera,
+H’ values, average lorica diameter, average
+lorica length and standard deviations of lorica
+length. Average chlorophyll concentration was
+negatively related to the depth of the chloro-
+phyll maximum as well as measures of tin-
+tinnid taxonomic diversity and morphology
+(Table 2). Measures of diversity (numbers of
+species, genera, H’ values) were positively
+related to average community lorica diameter
+and length as well as community variability in
+lorica length but not variability in oral dia-
+meter.
+Larger scale shifts than station-to-station
+shifts in tintinnid community composition
+were examined using a species-area curve. A
+total of 90 species of tintinnids were found by
+pooling the data from all 23 stations (Table 3).
+Plotting the cumulative number of species as a
+function of individuals examined from the
+western to the eastern stations (Fig. 3) showed
+2 distinct discontinuities in the relation of
+‘species as a function of individuals’. The 2
+relatively abrupt increases in number of spe-
+cies encountered, presumably indicating fau-
+nal breaks, corresponded to the transition
+from the Catalan Sea to the central western
+basin and then again from the western basin
+to the central basin. The Catalan Sea commu-
+nity (Stns 1 to 6) can be described as an
+assemblage dominated by Stensomella spe-
+cies. In the western basin community (Stns 7
+to 14), dominance shifts to Acanthostomella
+Fig. 1. Longitudinal trends of average water column chlorophyll and species. With the transition from the western
+tintinnid concentrations, depth of the chlorophyll maximum, tintinnid
+basin to the central and eastern basins, spe-
+species abundances and diversity. Statistical relationships are given in
+cies of the genus Salpingacanthabecome rel-
+Table 2. Top panel shows approximate station locations, station data
+appear in Table 1 atively more important.
+
+Dolan: Tintinnid ciliate diversity in the Mediterranean Sea 73
+from west to east with declines in chlorophyll
+concentration and the depth of the chlorophyll
+maximum layer (Fig. 1, Table 2).
+Both the general trend and magnitude of the
+diversity gradient (an increase from 10 to 30 spe-
+cies with a chlorophyll decrease from about 400
+to 100 ng l–1) agree with the few comparative
+data which exist from the Atlantic. Specifically,
+along a south to north transect of 16 stations
+between 58 and 34°S at about 53°W in the aus-
+tral spring, numbers of tintinnid species per sta-
+tion increase from 9 to 34 and correspond with
+decreases in average chlorophyll concentrations
+from approximately 1000 to 200 ng l–1(appendix
+species list and Fig. 2 in Thompson et al. 1999).
+Similarly, recently constructed maps of the spe-
+cies abundance of planktonic foraminifera show,
+for the same area of the Atlantic Ocean, a south
+to north increase from about 10 to 20 species
+(Fig. 2a in Rutherford et al. 1999).
+For planktonic foraminifera, large-scale gradi-
+ents in oceanic diversity are relatable to annual
+Fig. 2. Longitudinal trends in tintinnid lorica dimensions. Community average sea surface temperature, which serves
+averages of (a) lorica oral diameter and (b) overall length. Error bars as a proxy measure of water column structure;
+show standard deviations. Statistical relationships are given in Table 2 the relationship is strong enough to permit pre-
+diction of numbers of foraminifera species from
+sea surface temperature alone (Rutherford et al.
+DISCUSSION 1999). Somewhat surprisingly, the relationship estab-
+lished for foraminifera between annual average sea
+The gradient of ‘trophic state’ found in the world surface temperature and species abundance (presum-
+ocean from high to low latitudes is found in the ably annual as well) provides relatively robust esti-
+Mediterranean Sea from west to east, albeit of smaller mates of tintinnid species abundance in the SW
+magnitude. Nutrient concentrations are lower in the Atlantic during the austral spring, using water temper-
+eastern compared to the western basins (Bethoux et al. ature at the time of sampling, in waters ranging from
+1992) and nutrient limitation increases from west to about 0 to 20°C (Fig. 4). However, not surprisingly, in
+east (Krom et al. 1991). Chlorophyll concentrations and the Mediterranean, as sea surface temperature in early
+primary production decline from west to east (e.g., summer varies within a very narrow range (17.5 to
+Antoine et al. 1996, Williams 1998). In the Mediter- 23°C; see Dolan et al. 1999) it is a poor predictor of spe-
+ranean Sea, diversity among tintinnids, measured as cies abundance. Nonetheless, tintinnid species diversity
+numbers of species, genera, or H’ values, increases in the Mediterranean is clearly relatable to water col-
+Table 2. Correlation matrix of biological variables: number of species (# sp.), number of genera (# gn), Shannon species diversity
+index (H’), community average lorica oral diameter (LOD), standard deviation of LOD (LOD SD), community average lorica
+length (LL), standard deviation of LL (LL SD), average chlorophyll concentration (Avg chl) and depth of the chlorophyll maximum
+(Chl max. Z). For all correlations, n = 23, values in boldare significant at probability levels of *0.05, **0.01, ***0.001 or ****0.0001
+# sp. # gn H’ LOD LOD SD LL LL SD Avg chl
+# gn 0.91**** .–
+H’ 0.89**** 0.89**** ––.–
+LOD 0.63*** 0.64*** 0.80**** –.–
+LOD SD 0.17 0.20 0.38 0.64*** –.–
+LL 0.44* 0.34 0.54** 0.51* 0.34 –.–
+LL sd 0.52* 0.49* 0.60** 0.47* 0.15 0.83**** .––
+Avg chl –0.55** –0.52* –0.70**** –0.60** –0.04 –0.46* –0.59** –.–
+Chl max. Z 0.68*** 0.66*** 0.76**** 0.61** 0.06 0.47* 0.64*** –0.85****
+
+74 AquatMicrob Ecol 22: 69–78, 2000
+Fig. 3. Species area curve showing cumu-
+lative species as a function of individual
+examined, station by station, arranged
+from west to east. Note the 2 large appar-
+ent faunal breaks indicated by breaks in
+the curve: (1) between stations in the Cata-
+lan Sea and those in the Western Basin and
+(2) between Western Basin stations and
+those of the Central and Eastern Basins.
+Both faunal breaks consisted of the ap-
+pearance of 4 species from one station to
+the next
+umn structure, measured directly as depth of the While the existence of diversity gradients in oceanic
+chlorophyll maximum. Given that tintinnids are typical plankton is well known (e.g., Rohde 1992), our under-
+of the plankton, west-east differences in water column standing of factors underlying pelagic biodiversity has
+structure in the Mediterranean appear to be accompa- been described rather accurately as ‘vague’ (Smetacek
+nied by differences in planktonic diversity, much like 1996). Thus, the paradox of planktonic diversity (Hut-
+the north-south gradients of oceanic systems. chinson 1961) remains to a large extent paradoxical.
+Table 3. Tintinnids species encountered. *Common species (>1% total cells)
+Acanthostomella Craterella Eutintinnus Protorhabdonella Stensomella
+A. conicoides* C. oxyura E. inquilinus P. curta* S. nivalis*
+A. gracilis C. tortulata* E. fraknoi P. simplex S. steini*
+A. lata C. urceolata E. lusus-undae*
+E. macilentus Rhabdonella Tintinnopsis
+A. minutissima Cyttarocylis E. pectina R. amor T. parva
+A. obtusa* C. encecryphalus E. tenuis R. apophysata
+E. tubulosis R. elegans Undella
+Amphorella Eutintinnus sp. a R. spiralis U. aculeata
+Dadayiella U. caudata
+A. gaarderae*
+D. ganymedes* U. claparedei
+A. lackmanni* D. pachytoecus* Favella Rhabdosella U. clevei*
+A. quadrilineata* F. azorica R. cuneolata U. hyalina
+F. serrata
+Daturella U. subacuta*
+Salpingacantha U. turida
+Ascampbellielia D. angusta Metacylis
+S. acuminata*
+A. acuta M. jörgensenii
+S. curta Undellopsis
+Dictyocysta Metacylissp. a
+S. decurtata* U. marsupila
+Canthariella D. elegans S. faurie*
+C. pyramidata* D. lepida Ormosella S. perca Xystonella
+C. septinaria D. magna O. trachelium S. unquiculata X. lanceolata
+D. minor X. longicaudata
+Climacocylis D D. . m mi ut lr la e* ri P P.a lr au an cd he mll aa nni S S.a glp ri an cg ile islla X X. . l po ah rm ada on xn ai
+C. scalaria X. treforti
+C. scalaroides Petalotricha S. minuta*
+Epiplocylis P. serrata S. laminata Xystonelopsis
+E. acuminata
+P. major X. brandti
+Codonella E. undella Steenstrupiella X. constricta
+C. amphorella Proplectella S. intumescens X. cymatica
+C. galea Epiorella P. perpusilla S. gracilis X. paradoxi
+C. nationalis E. healdi P. globulosa S. steenstrupi* X. pinnata
+
+Dolan: Tintinnid ciliate diversity in the Mediterranean Sea 75
+For example, increases in planktonic diversity
+with increasing water column structure have
+been explained as resulting from the potential
+existence of a larger number of distinct ecologi-
+cal niches along the vertical axis (Rutherford et
+al. 1999). However appealing an explanation
+this sounds, the underlying mechanism remains
+undefined and the obvious candidate of trophic
+specialisation may not be dominant. Analyses of
+copepod community structures suggest that
+trophic specialisation may be much less impor-
+tant than predation in maintaining diversity, and
+predation pressure simply may be stronger in a
+structured compared to a well-mixed water col-
+umn (e.g., McGowan & Walker 1979, 1985,
+Longhurst 1985).
+Fig. 4. Plots of tintinnid species abundance as a function of water
+It should be recalled that correlations of envi-
+temperature at 5 m for the SW Atlantic Ocean during the austral
+ronmental parameters with gradients of diver-
+spring (data from Thompson et al. 1999) and the Mediterranean Sea
+sity often have little explanatory power (Rohde during spring (this study), compared to predicted number of species
+1999). For example, the north-south gradient in from the ‘Species vs Sea Surface Temperature’ of Rutherford et al.
+(1999, their Fig. 2b) established for foraminifera based on satellite-
+foraminiferal diversity is best correlated with
+measured annual sea surface temperature. The Rutherford et al.
+annual average sea surface temperature as are
+(1999) relationship was based on annual averages for sea surface
+the diversity gradients of marine bivalves of temperature and, although unstated, presumably total foraminifera
+both the epifauna and infauna (Roy et al. 1999). species present over an annual cycle. Note that the Rutherford model
+Thus, while sea surface temperature may be provides reasonable estimates of tintinnid springtime species num-
+bers for the SW Atlantic but not for the Mediterranean, in which sur-
+related to water column structure and the latter
+face temperature variation is relatively small. Rutherford model esti-
+may influence planktonic diversity, it is not
+mates were obtained graphically as no equation was given
+obvious how water column structure could influ-
+ence diversity of both surface-dwelling and bur-
+rowing bivalves.
+Clearly, different mechanisms may act simultane- plankton prey of tintinnids. Thus, the seasonal appear-
+ously or perhaps sequentially, rendering a search for a ance of larger species occurs with increases in the
+dominant factor difficult or futile. Nonetheless, it is average sizes of prey available to tintinnids (Middle-
+worthwhile considering lines of evidence, such as shifts brook et al. 1987, Verity 1987). However, it is difficult
+in morphologies linked to shifts in diversity, which po- to ascribe west to east increases in oral diameter
+tentially can help identify important factors influencing among Mediterranean populations to changes in aver-
+diversity. age prey size as average prey size likely decreases.
+Overall, in the Mediterranean, diversity increased Based on phytoplankton pigment data from May–June
+with the community averages of lorica dimensions 1996, average phytoplankton cell size is probably
+(Table 2). From west to east, community averages of smaller in the east compared to the west because
+lorica oral diameters increased from about 28 to 38 µm marker pigments characteristic of nano- and picophy-
+and lorica length averages from roughly 70 to 140 µm toplankton are relatively invariant compared to the
+(Fig. 2). Thus, diverse communities were, on average, west to east declines in chlorophyll stocks (Dolan et al.
+composed of larger individuals. Interestingly, the dif- 1999). Variability in oral diameters was unrelated to
+ferences in morphological characteristics were not taxonomic diversity (Table 2), similar to previous find-
+large compared to seasonal changes known from sin- ings concerning a single site (Cariou et al. 1999). In
+gle localities. The west-east difference in oral diameter sum, while data on lorica diameters support the idea
+of 10 µm is modest compared to 20 µm, which is typical that trophic specialisation exists among tintinnids (e.g.,
+for seasonal changes in average lorica diameter in a seasonal changes in linked to changes in prey commu-
+variety of systems, i.e., the Bay of Fundy (Middlebrook nities in Narrangansett Bay, Verity 1987), they also
+et al. 1987), Narragansett Bay (Verity 1987), and suggest that it is not the dominant factor underlying
+Jamaican coastal waters (Gilron et al. 1991). Mediterranean tintinnid diversity.
+Seasonal shifts in tintinnid species compositions Among Mediterranean tintinnids, taxonomic diver-
+yield changes in average oral diameter and have been sity is related to morphological variability in the form
+linked to corresponding changes in size of the phyto- of lorica length across both large geographic scales
+
+76 AquatMicrob Ecol 22: 69–78, 2000
+(Table 2) and short temporal scales (Cariou et al. 1999). al. 1999). Diverse populations (different forms co-exist-
+Predation was hypothesized as possibly responsible for ing) occur in areas bracketing relatively low surface
+generating heterogeneity in lorica lengths; the sugges- chlorophyll concentrations of 100 ng l–1(De Vargas et
+tion was based on published data concerning feeding al. 1999).
+in copepods of the genus Arcartia showing that me- Can findings with regard to tintinnid ciliates in the
+dium-sized tintinnids may be subject to predation Mediterranean be generalized to other planktonic
+more than small or large tintinnids (Cariou et al. 1999). organisms? This remains to be established. Actual spe-
+Unfortunately, we cannot evaluate the possibility that cies abundance patterns of tintinnids and those pre-
+tintinnids are subjected to different degrees of preda- dicted for foraminifera appear to be similar in the south
+tion pressure in the western compared to the central or Atlantic (Fig. 4). However, in the Mediterranean Sea,
+eastern Mediterranean, due to a lack of data on cope- species abundances of foraminifera, in contrast with
+pod abundances. To our knowledge, a single large tintinnids, do not appear to increase from west to east
+spatial scale study has been conducted and concerned but rather are maximal in the central basin—both in
+only the central and eastern basins in autumn; there late summer with stratified water columns and in win-
+was little difference in the copepod abundances or ter when water columns are mixed (Pujol & Vergnaud
+community composition between central and eastern Grazzini 1995). Hence it appears that, even among
+stations (Sioukou-Frangou et al. 1997). However, in the planktonic protists, processes or factors influencing
+central and eastern Mediterranean copepod communi- diversity likely differ between groups.
+ties, the generally omnivorous or predacious cyclopoid
+Acknowledgements. Financial support for this study was pro-
+and poecilostomatid copepods, which are likely tintin-
+vided by the Centre Nationale de la Recherche Scientifique,
+nid predators, were relatively abundant, similar to
+Université Paris VI, and the Smithsonian Institution Office of
+tropical communities (Sioukou-Frangou et al. 1997). Fellowships and Grants. The efforts of 4 anonymous review-
+It should be noted that with regard to diversity it is ers, whose comments led to improvements in the manuscript,
+often difficult to distinguish between explanations and are gratefully acknowledged.
+byproducts (e.g., Kolasa et al. 1998). Clearly many dif-
+ferent mechanisms may underlie diversity in tintinnids
+LITERATURE CITED
+and they may be difficult to detect if they operate at
+small temporal and spacial scales, as is hypothesized to Antoine D, André JM, Morel A (1996) Oceanic primary pro-
+be the case for phytoplankton in the central North duction. 2. Estimation at global scale from satellite (coastal
+zone color scanner) chlorophyll. Glob Biogeochem Cycles
+Pacific (Venrick 1990). However, the general relation-
+10:57–69
+ship found in oceanic systems linking increased diver-
+Balech E (1959) Tintinoinea del Mediterraneo. Instituto
+sity to increases in water column structure holds true Espanol de Oceanografia, Madrid
+for the Mediterranean Sea and diversity appears relat- Bethoux JP, Morin P, Madec C, Gentili B (1992) Phosphorous
+able to a particular water column feature—depth of and nitrogen behaviour in the Mediterranean Sea. Deep-
+Sea Res 39:1641–1654
+the chlorophyll maximum.
+Bethoux JP, Gentili B, Taillez D (1998) Warming and freshwa-
+It is also worth recalling that relationships consid- ter budget change in the Mediterranean since the 1940s,
+ered here are of a specific time (seasonal), space (100s their possible relation to the greenhouse effect. Geophys
+of km) and taxonomic scale (species within a single Res Lett 25:1023–1026
+Campbell AS (1942) The oceanic Tintinnoinaof the plankton
+suborder) within a single system. Different relation-
+gathered during the last cruise of the Carnegie. Carnegie
+ships concerning diversity are apparent depending on
+Institution of Washington Publication 537, Washington,
+the scales considered. For example, relationships be- DC
+tween resource availability and diversity vary with Capriulo GM (1982) Feeding of field collected tintinnid micro-
+scale. On a geological time scale, plankton diversity zooplankton on natural food. Mar Biol 71:73–86
+Capriulo GM, Carpenter EJ (1983) Abundance, species com-
+has been positively associated with increases in
+position and feeding impact of tintinnid microzooplankton
+‘trophic state’ of seas from an oligotrophic Devonian to in central Long Island Sound. Mar Ecol Prog Ser 10:
+the eutrophic Paleozoic (Martin 1996). In comparing 277–288
+different systems, among present-day freshwater com- Cariou JB, Dolan JR, Dallot S (1999) A preliminary study of
+tintinnid diversity in the NW Mediterranean Sea. J Plank-
+munities, there is a strong negative relationship be-
+ton Res 21:1065–1075
+tween nutrient concentrations and diversity of both
+Caron DA, Dennett MR (1999) Phytoplankton growth and
+phytoplankton and zooplankton (e.g., Liebold 1999). mortality during the 1995 Northeast Monsoon and Spring
+Within a single species, ‘cryptic species’ (morphologi- Intermonsoon in the Arabian Sea. Deep-Sea Res II 46:
+cally similar but genetically distinct forms) of the 1665–1690
+Choi JK, Coats DW, Brownlee DC, Small EB (1992) Morphol-
+foraminfera Orbulina universe, 3 different forms ap-
+ogy and infraciliature of three species of Eutintinnus(Cil-
+pear in waters of different chlorophyll concentrations iophora: Tintinnia) with guidelines for interpreting protar-
+from north to south in the Atlantic Ocean (De Vargas et gol-stained tintinnine ciliates. J Protozool 39:80–92
+
+Dolan: Tintinnid ciliate diversity in the Mediterranean Sea 77
+Corliss JO (1979) The ciliated protozoa, characterisation, clas- maintenance in an oceanic ecosystem. Ecol Monogr 55:
+sification and guide to the literature, 2nd edn., Pergamon 103–118
+Press, Oxford Middlebrook K, Emerson CW, Roff JC, Lynn DH (1987) Distri-
+Davis CC (1981) Variations of lorica shape in the genus Pyto- bution and abundance of tintinnids in the Quoddy Region
+chocylis(Protozoa: Tintinnia) in relation to species identi- of the Bay of Fundy. Can J Zool 65:594–601
+fication. J Plankton Res 3:433–443 Montagnes DWS, Lynn DH (1987) A quantitative protargol
+De Vargas C, Norris R, Zaninette L, Gibb, SW, Pawlowski J stain (QPS) for ciliates: a description of the method and
+(1999) Molecular evidence of cryptic speciation in plank- tests of its quantitative nature. Mar Microb Food Webs 2:
+tonic foraminfers and their relation to oceanic provinces. 83–93
+Proc Natl Acad Sci USA 96:2864–2868 Montagnes DJS, Lynn DH (1991) Taxonomy of choreotrichs,
+Dolan JR, Marrasé C (1995) Planktonic ciliate distribution rel- the major marine planktonic ciliates, with emphasis on the
+ative to a deep chlorophyll maximum: Catalan Sea, N.W. aloricate forms. Mar Microb Food Webs 5:59–74
+Mediterranean, June 1993. Deep-Sea Res 42:1965–1987 Petz W, Foissner W (1993) Morphogenesis in some freshwater
+Dolan JR, Vidussi F, Claustre H (1999) Planktonic ciliates in tintinnids (Ciliophora, Oligotrichida). Eur J Protistol 29:
+the Mediterranean Sea: longitudinal trends. Deep-Sea Res 106–120
+46:2025–2039 Pierce RW, Turner JT (1992) Ecology of planktonic ciliates in
+Gilron GL, Lynn DH, Roff JC (1991) The annual cycle of bio- marine food webs. Rev Aquat Sci 6:139–181
+mass and production on a tropical neritic region near Pierce RW, Turner JT (1993) Global biogeography of marine
+Kingston, Jamaica. Mar Microb Food Webs 5:95–113 tintinnids. Mar Ecol Prog Ser 94:11–26
+Gifford DJ, Fessenden LM, Garrahan PR, Martin E (1995) Pomeroy LR (1974) The ocean’s food web, a changing para-
+Grazing by microzooplankton and mesozooplankton in digm. Bioscience 24:499–504
+the high-latitude North Atlantic Ocean: spring versus Pujol C, Vergnaud Grazzini C (1995) Distribution patterns of
+summer dynamics. J Geophys Res C4 100:6665–6675 live planktic foraminifers as related to regional hydrogra-
+Gold K, Morales E (1976) Studies on the sizes, shapes, and the phy and productive systems of the Mediterranean Sea.
+development of the lorica of agglutinated tintinnida. Biol Mar Micropaleontol 25:187–217
+Bull 150:377–392 Rassoulzadegan F (1978) Dimensions et taux d’ingestion des
+Heinbokel JF (1978) Studies on the functional role of tintin- particules consommés par un tintinnide: Favella ehren-
+nids in the southern California Bight. I. Grazing and bergii. Ann Inst Océanogr Paris 54:17–24
+growth rates in laboratory cultures. Mar Biol 47:177–189 Rassoulzadegan F, Etienne M (1981) Grazing rate of the
+Heinbokel JF, Beers JR (1979) Studies on the functional role of tintinnid Stensomella ventricosa(Clap. & Lachm.) Jörg. on
+tintinnids in the southern California Bight III. Grazing the spectrum of naturally occurring particulate matter
+impact of natural assemblages. Mar Biol 52:23–32 from a Mediterranean neritic area. Limnol Oceanogr 26:
+Hutchinson GE (1961) The paradox of the plankton. Am Nat 258–270
+95:137–144 Rohde K (1992) Latitudinal gradients in species diversity: the
+Jörgensen E (1924) Mediterranean tintinnidae. Report of the search for the primary cause. Oikos 65:514–527.
+Danish Oceanographic Expeditions 1908–1910 to the Rohde K (1999) Latitudinal gradients in species diversity and
+Mediterranean and adjacent seas. Vol II, Biology, No. 8, Rapoport’s rule revisited: a review of recent work and
+J3, Thor Expedition, Copenhagen what can parasites teach us about the causes of the gradi-
+Kofoid CA, Campbell AS (1929) A conspectus of the marine ents. Ecography 22:593–613
+and fresh-water ciliata belonging to the suborder tintin- Robertson JR (1983) Predation by estuarine zooplankton on
+noinea, with descriptions of new species principally from tintinnid ciliates. Estuar Coast Shelf Sci 16:27–36
+the Agassiz expedition to the eastern tropical Pacific Roy K, Jablonski D, Valentine JW (1999) Dissecting latitudi-
+1904–1905. Univ Calif Publ Zool 34:1–403 nal diversity gradients: functional groups and clades of
+Kofoid CA, Campbell AS (1939) The Tintinnoinea of the east- marine bivalves. Proc R Soc Lond B 267:293–299
+ern Tropical Pacific. Bull Mus Comp Zool Harv Coll 84: Rutherford S, D’Hondt S, Prell W (1999) Environmental con-
+1–473 trols on the geographic distribution of zooplankton diver-
+Kolasa J, Hewitt CL, Drake JA (1998) Rapoport’s rule: an sity. Nature 400:750–753
+explanation or a byproduct of the latitudinal gradient in Siokou-Frangou I, Christou ED, Fragopoulu N, Mazzocchi
+species richness? Biodivers Conserv 7:1447–1455 MG (1997) Mesozooplankton distribution from Sicily to
+Krom MD, Kress N, Brenner S, Gordon LI (1991) Phosphorous Cyprus (Eastern Mediterranean): II. Copepod assemblages.
+limitation of primary production in the eastern Mediter- Oceanol Acta 20:537–548
+ranean Sea. Limnol Oceanogr 36:424–432 Smetacek V (1996) Biodiversity and production in the water
+Laval-Peuto M (1983) Sexual reproduction in Favella ehren- mass. In: Hempel G (ed) The ocean and the poles. Gustav
+bergii (Ciliophora, Tintinnia) taxonomical implications. Verlag, Jena, p 207–216
+Protististologica 19:503–512 Spittler P (1973) Feeding experiments with tintinnids. Oikos
+Liebold MA (1999) Biodiversity and nutrient enrichment in 15:128–132
+pond plankton communities. Evol Ecol Res 1:73–95 Stoecker DK, Sanders NK (1985) Differential grazing by Acar-
+Longhurst A (1985) Relationship between diversity and the tia tonsaon a dinoflagellate and a tintinnid. J Plankton
+vertical structure of the upper ocean. Deep-Sea Res 32: Res 7:85–100
+1535–1570 Stoecker DK, Guillard RRI, Kavee RM (1981) Selective preda-
+Martin RE (1996) Secular increases in nutrient levels through tion by Favella ehrenbergii (Tintinnia) on and among
+the Phanerozoic: implications for productivity, biomass, dinoflagellates. Biol Bull 160:136–145
+and diversity of the marine biosphere. Palaios 11:209–219 Stoecker DK, Davis L, Provan L (1983) Growth of Favellasp.
+McGowan JA, Walker PW (1979) Structure in the copepod (Ciliata: Tintinnia) and other micro-zooplankters in cages
+community of the North Pacific central gyre. Ecol Monogr incubated in situ and comparison to growth in vitro. Mar
+49:195–226 Biol 75:293–302
+McGowan JA, Walker PW (1985) Dominance and diversity Thompson GA, Alder VA, Boltovskoy D, Brandini F (1999)
+
+78 AquatMicrob Ecol 22: 69–78, 2000
+Abundance and biogeography of tintinnids (Ciliophora) Vidussi F, Claustre H, Bustillo-Guzman J, Cailliau C, Marty
+and associated microzooplankton in the Southwestern JC (1996) Rapid HPLC method for determination of phyto-
+Atlantic Ocean. J Plankton Res 21:1265–1298 plankton chemotaxonomic pigments: seperation of chloro-
+Turner JT, Anderson DM (1983) Zooplankton grazing during phyll a from divinyl-chlorophyll a and zeaxanthin from
+dinoflagellate blooms in a cape cod embayment, with lutein. J Plankton Res 18:2377–2382
+observations of predation upon tintinnids by copepods. Wasik A (1998) Antarctic tintinnids: their ecology, morphol-
+Mar Ecol 4:359–374 ogy, uultrastructure and polymorphism. Acta Protozool 37:
+Venrick EL (1990) Phytoplankton in an oligotrophic ocean: 5–15
+species structure and interannual variability. Ecology 71: Wasik A, Mikolajczyk E (1994) Annual cycle of tintinnids in
+1547–1563 Admiralty Bay with an emphasis on seasonal variability in
+Verity PG (1985) Grazing, respiration, excretion and growth Cymatocylis affinis/convallarialorica morphology. J Plank-
+rates of tintinnids. Limnol Oceanogr 30:1268–1282 ton Res 16:1–8
+Verity PG (1987) Abundance, community composition, size Williams N (1998) The Mediterranean beckons to Europe’s
+distribution, and production rates of tintinnids in Narra- oceanographers. Nature 279:483–484
+gansett Bay, Rhode Island. Estuar Coast Shelf Sci 24: Zietzschel B (1982) Zoogeography of pelagic marine protozoa.
+671–690 Ann Inst Océanogr Paris 58(S):91–116
+Editorial responsibility: Jed Fuhrman, Submitted: February 24, 2000; Accepted: April 27, 2000
+Los Angeles, California, USA Proofs received from author(s):June 6, 2000
+

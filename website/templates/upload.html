@@ -2,6 +2,7 @@
 
 <div class="upload">
   <h1>Upload Article</h1>
+  {% if session['logged_in'] %}
   <p>Welcome to the article upload section. Here, you can upload articles in PDF format to our database.<br>
     Please ensure you have the necessary rights to share the article in this manner.</p>
   <form action="/upload" method="post" enctype="multipart/form-data">
@@ -74,6 +75,9 @@
 
 
     </form>
+    {% else %}
+    <p>Please <a href="{{ url_for('login') }}">log in</a> to access this section.</p>
+    {% endif %}
 </div>
 
 {% endblock %}

@@ -2,6 +2,7 @@ from flask import Flask
 from .views import init_app
 # from dotenv import load_dotenv
 
+
 # load_dotenv()
 import os
 

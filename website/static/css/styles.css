@@ -61,3 +61,27 @@ h1, h2, h3 {
   background-color: #f9f9f9;  /* A very light gray background */
   margin-bottom: 1rem;  /* A bit of margin to separate from the fields below */
 }
+
+
+/* Database section */
+.database {
+  margin-top: 3rem;
+  margin-bottom: 5rem;
+}
+
+/* About section */
+.gif-container {
+  text-align: center; /* Centers inline or inline-block elements horizontally */
+}
+
+.gif-container img {
+  display: inline-block; /* Allows the image to be treated as inline-level and centered using text-align */
+  max-width: 100%; /* Ensures the GIF doesn't exceed the container's width */
+}
+
+.content {
+  margin: 20px auto;
+  max-width: 800px;
+  line-height: 1.6;
+  font-size: 18px;
+}

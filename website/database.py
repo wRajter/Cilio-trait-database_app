@@ -48,13 +48,3 @@ class Database:
                 writer.writerow(data)
         except Exception as e:
             print(f"Error writing to TSV: {e}")
-
-
-
-# Example usage
-db = Database('../raw_data/test_pdf.pdf')
-# paragraphs = db.extract_paragraphs_from_pdf()
-# db.save_to_txt(paragraphs)
-# Add to database:
-data_row = [db.file_name, 'Sample Article', 'http://example.com', '2023', 'Author Name', 'Journal Name']
-db.add_to_tsv(data_row)

@@ -4,15 +4,60 @@ html {
 }
 
 body {
-  margin-bottom: 60px;  /* Margin bottom by footer height */
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+  margin: 0;
+  /* margin-bottom: 60px; */
+  font-family: 'Space Grotesk', Arial, Helvetica, sans-serif;
 }
 
+h1, h2, h3 {
+  padding-bottom: 2rem;
+}
+
+
 .footer {
-  position: absolute;
-  bottom: 0;
   width: 100%;
   height: 60px;
   line-height: 60px;  /* Vertically center the text there */
   background-color: #f1f1f1;
   text-align: center;
+  margin-top: 5rem;
+}
+
+/* Home section */
+
+.jumbotron {
+  margin-top: 5rem;
+}
+
+/* Upload section */
+
+.upload {
+  flex: 1;
+  margin-top: 3rem;
+}
+
+.input {
+  padding-top: 0.5rem;
+}
+
+.upload_btn {
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+}
+
+.choose_file {
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+}
+
+.optional-note {
+  font-style: italic;
+  color: #666; /* Slightly dimmed color for a soft touch */
+  padding: 0.5rem;
+  border-left: 3px solid #ffa500;  /* An orange left border for emphasis */
+  background-color: #f9f9f9;  /* A very light gray background */
+  margin-bottom: 1rem;  /* A bit of margin to separate from the fields below */
 }

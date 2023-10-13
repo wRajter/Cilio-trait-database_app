@@ -1,0 +1,79 @@
+{% extends 'base.html' %} {% block content %}
+
+<div class="upload">
+  <h1>Upload Article</h1>
+  <p>Welcome to the article upload section. Here, you can upload articles in PDF format to our database.<br>
+    Please ensure you have the necessary rights to share the article in this manner.</p>
+  <form action="/upload" method="post" enctype="multipart/form-data">
+      {{ form.hidden_tag() }}
+
+      <!-- Upload PDF Field -->
+      <div class="choose_file">
+        <label for="file">Choose file:</label>
+        {{ form.file }}
+        {% if form.file.errors %}
+            <ul class="errors">
+                {% for error in form.file.errors %}
+                    <li>{{ error }}</li>
+                {% endfor %}
+            </ul>
+        {% endif %}
+      </div>
+
+      <!-- Optional Fields Note -->
+      <div class="optional-note">
+        <p><i>Fields below are optional, but providing them helps improve the database's quality.</i></p>
+      </div>
+
+      <!-- Article name field -->
+      <div class="input">
+        <label for="article_name">Article Title:</label><br>
+        {{ form.article_name }}
+      </div>
+
+      <!-- Article link field -->
+      <div class="input">
+        <label for="article_link">Article Link:</label><br>
+        {{ form.article_link }}
+      </div>
+
+      <!-- Article year field -->
+      <div class="input">
+        <label for="year">Year:</label><br>
+        {{ form.year }}
+      </div>
+
+
+      <!-- Article author field -->
+      <div class="input">
+        <label for="authors">First Author:</label><br>
+        {{ form.authors }}
+      </div>
+
+      <!-- Article journal field -->
+      <div class="input">
+        <label for="journal">Journal:</label><br>
+        {{ form.journal }}
+      </div>
+
+      <!-- Upload button -->
+      <div class="upload_btn">
+        <input type="submit" name="submit" value="Upload">
+      </div>
+
+      <!-- Error messages -->
+      {% if form.errors %}
+      <ul class="errors">
+          {% for field, errors in form.errors.items() %}
+              {% for error in errors %}
+                  <li>{{ field }}: {{ error }}</li>
+              {% endfor %}
+          {% endfor %}
+      </ul>
+      {% endif %}
+
+
+    </form>
+</div>
+
+{% endblock %}

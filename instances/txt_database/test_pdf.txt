@@ -1,0 +1,665 @@
+Page 1:
+Metabarcoding and Metagenomics 5: 121–132
+DOI 10.3897/mbmg.5.69602
+Data Paper
+Ciliate SSU-rDNA reference alignments and trees for
+phylogenetic placements of metabarcoding data
+Ľubomír Rajter1, Micah Dunthorn1,2
+1 Eukaryotic Microbiology, Faculty of Biology, University of Duisburg-Essen, D-45141, Essen, Germany
+2 Natural History Museum, University of Oslo, N-0318, Oslo, Norway
+Corresponding author: Ľubomír Rajter (lubomir.rajter@uni-due.de)
+Academic editor: Jan Pawlowski | Received 1 June 2021 | Accepted 11 August 2021 | Published 30 August 2021
+Abstract
+Although ciliates are one of the most dominant microbial eukaryotic groups in many environments, there is a lack of updated global
+ciliate alignments and reference trees that can be used for phylogenetic placement methods to analyze environmental metabarcoding
+data. Here we fill this gap by providing reference alignments and trees for those ciliates taxa with available SSU-rDNA sequences de-
+rived from identified species. Each alignment contains 478 ciliate and six outgroup taxa, and they were made using different masking
+strategies for alignment positions (unmasked, masked and masked except the hypervariable V4 region). We constrained the mono-
+phyly of the major ciliate groups based on the recently updated classification of protists and based on phylogenomic data. Taxa of
+uncertain phylogenetic position were kept unconstrained, except for Mesodinium species that we constrained to form a clade with the
+Litostomatea. These ciliate reference alignments and trees can be used to perform taxonomic assignments of metabarcoding data, dis-
+cover novel ciliate clades, estimate species richness, and overlay measured ecological parameters onto the phylogenetic placements.
+Key Words
+Ciliophora, diversity, environmental sequencing, HTS, protists, 18S
+Introduction al. 2015; Fernandes and Schrago 2019). They are unit-
+ed by their unique cortex arrangement, nuclear dualism,
+Phylogenetic placement is increasingly used to analyze and conjugation as a sexual process (Dunthorn and Katz
+environmental metabarcoding data. For example, it al- 2008; Lynn 2008). As ciliates populate most of the aquatic
+lows us to retain data that is deeply divergent from tax- and terrestrial ecosystems on Earth, they are often used to
+onomic reference databases (Mahé et al. 2017), perform evaluate microbial biodiversity and biogeography (Finlay
+taxonomic assignments (Bass et al. 2018; Jamy et al. 2002; Foissner et al. 2009; Dunthorn et al. 2014a; Lenten-
+2020), and quantify the diversity distribution over a ref- du et al. 2018; Venter et al. 2018) and for biomonitoring
+erence phylogeny (Barbera et al. 2021). Available phylo- of stressed environments (Stoeck 2018; Dias et al. 2021;
+genetic placement programs include EPA-NG (Berger et Kulaš et al. 2021). The latest classification system of the
+al. 2011; Barbera et al. 2018), PPLACER (Matsen et al. ciliates recognized eleven main ciliate taxa (Armopho-
+2010) and APP-SPAM (Blanke and Morgenstern 2020). rea, Colpodea, Heterotrichea, Karyorelictea, Litostoma-
+These programs require a reference alignment and a ref- tea, Nassophorea, Oligohymenophorea, Phyllopharyn-
+erence tree. In ciliates, there is a recent reference align- gea, Plagiopylea, Prostomatea, and Spirotrichea), which
+ment and tree for just the colpodean ciliates (Rajter et al. are grouped into several higher taxa (Adl et al. 2019)
+2021) but recent global reference alignments and trees for (Fig. 1); additionally there are several incertae sedis taxa
+all ciliates are lacking. (Askenasia, Cyclotrichium, Discotrichidae, Mesodinii-
+Ciliates are an ancient clade of microbial eukaryotes dae, Paraspathidium, Phacodiniidia, Protocruziidae, and
+that originated sometime in the Proterozoic (Dunthorn et Pseudotrachelocerca).
+Copyright L’ubomír Rajtera, Micah Dunthorn. This is an open access article distributed under the terms of the Creative Commons At-
+tribution License (CC BY 4.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original
+author and source are credited.
+
+Page 2:
+122 L’ubomír Rajtera & Micah Dunthorn: Ciliate SSU-rRNA reference alignments and trees
+There are five global ciliate alignments and trees suit- algorithm that always re-aligns the alignment after adding
+able for phylogenetic placement methods. All are based a new sequence (Katoh et al. 2002). Sequences were man-
+on the SSU-rDNA, containing the hypervariable V4 and ually trimmed based on the universal eukaryotic SSU-rD-
+V9 regions that are usually amplified in metabarcoding NA primers (Medlin et al. 1988) in BioEdit v7.2.5 (Hall
+studies of ciliates. The first was published by Dunthorn 1999). Ambiguous alignment positions were masked us-
+et al. (2012b), which contained 175 ciliate sequences rep- ing GBLOCKS v0.91b (Talavera and Castresana 2007)
+resenting all 11 major ciliate clades, but outgroups were with the following block parameters: the minimum num-
+not included. The second was released a few years later ber of sequences for a flank position was set at 85%, the
+in Dunthorn et al. (2014b), where the number of ciliate maximum number of contiguous non-conserved positions
+sequences was increased to 308, and there were two out- was fixed on eight, minimal block length was set on 10,
+groups. The third and fourth are from Lynn (2008) and Gao and we allowed gap positions within the final blocks.
+et al. (2016), but the alignments and trees were not made We created three multiple sequence alignments to
+publicly available. The fifth is from the EukRef-Ciliopho- compare the effects of various masking strategies (Sup-
+ra sequence database by Boscaro et al. (2018), which con- pl. material 21: Table S2). The first alignment had no
+tained more than 1,200 ciliate sequences (including many masking of ambiguously aligned positions, containing
+unidentified environmental sequences). The identified extra phylogenetic information but possibly introducing
+sequences were not labelled based on the GenBank en- misleading phylogenetic signal. The second alignment
+tries, and sequences with more than 97% similarity were included masking for all ambiguously aligned positions,
+discarded from the dataset. Since the publication of these representing less informative but more biased-free align-
+reference alignments and trees, additional morphological- ment. And the third alignment also had masking for am-
+ly-identified sequences have been added to GenBank, and biguously aligned positions, except for the hyper-varia-
+the ciliate classification was updated by Adl et al. (2019). ble V4 region with a relatively high phylogenetic signal
+Here we provide updated ciliate reference alignments and (Dunthorn et al. 2012a), representing a trade-off between
+trees designed to be used in phylogenetic placement analy- losing phylogenetic informativeness and potentially bi-
+ses of environmental metabarcoding data. To do this, we: ased results; the V4 region is typically used in metabar-
+i) created SSU-rDNA dataset containing 478 ingroup and coding studies of ciliates. All our reference alignments
+six outgroup sequences, ii) made three multiple sequence with corresponding trees can be found in the supplement
+alignments with different masking of the ambiguously (Suppl. material 2–Suppl. material 10).
+aligned nucleotide positions, and iii) constructed the max-
+imum likelihood (ML) trees with constrained monophyly
+Phylogenetic tree construction and constraints
+of main ciliate taxa based on the Adl et al. (2019) system.
+Phylogenetic trees were inferred from all three alignments
+using RAXML v8.2.12 (Stamatakis 2014). The GTRGA-
+Methods
+MMA model was preferably used as it’s implemented
+in RAXML. To find a ML tree among all possible tree
+Dataset with raw sequences structures, we used the SPR tree-rearrangement. This re-
+arrangement algorithm cuts a subpart of the tree and plac-
+We enriched the ciliate nuclear SSU-rDNA alignment from es it in another tree position, creating a new tree structure.
+Dunthorn et al. (2014) with subsequently-published ciliate We also used the constraint (-g) option in RAXML to force
+sequences from GenBank (Clark et al. 2016), to create an monophyly of all major ciliate subtaxa based on Adl et al.
+updated dataset with 478 ciliate sequences and six out- (2019). To compare the constraint’s effect on the trees, we
+group sequences (Suppl. material 20: Table S1). This data- made an additional unconstrained tree from the first (un-
+set contained only sequences from morphologically iden- masked) alignment (Suppl. material 11: File S11, Suppl.
+tified species; environmental sequences were not included, material 12: File S12, Suppl. material 13: File S13). For
+except Cariacothrix that only has environmental data in this tree, we performed 1,000 bootstrap replicates to find
+GenBank. Redundant sequences representing the same out the reliability of individual clades. Values <70% were
+species were excluded, except two Phacodinium metch- considered low, 70–94% as moderate, and ≥95% as high
+nikoffi populations were retained because this species cre- (Hillis and Bull 1993). Trees were visualized and annotat-
+ates an independent clade with an unknown position in the ed in ITOL v5.5.1 (Letunic and Bork 2019).
+ciliate tree (Shin et al. 2000). We also included at least one
+sequence from each high-supported clade (bootstrap value
+Results and discussion
+≥95%) found in trees from the recent ciliate class-specific
+phylogenetic studies (Suppl. material 1: File S1).
+Phylogenetic description of the reference trees
+Alignments and masking
+We forced the monophyly of all ciliate taxa based on the
+Multiple sequence alignments were built with MAFFT Adl et al. (2019) classification system in our constrained
+v7.471 (Katoh et al. 2019) using an iterative FFT-NS-i trees. To compare the effect of the constrained option on
+https://mbmg.pensoft.net
+
+Page 3:
+Metabarcoding and Metagenomics 5: e69602 123
+the overall topology, we also created an unconstrained and V4 unmasked alignments. Finally, Nassophorea
+tree from the unmasked alignment. The relationships be- branched off first, then Colpodea and Phyllopharyngea
+tween main ciliate taxa and higher grouping in our trees in the unconstrained tree.
+are described and compared with the literature below; the
+phylogeny within main taxa is described and discussed in
+Constrained monophyly of ciliate lineages
+Suppl. material 1: File S1.
+All ciliate lineages clustered into two primary We constrained monophyly of the 11 main ciliate taxa
+groups in all our trees. The first group, containing the based on the Adl et al. (2019) system that corresponds
+Postciliodesmatophora clade, encompassed the Kar- with a broad consensus from the recent phylogenetic and
+yorelictea and Heterotrichea. This branching pattern is phylogenomic studies (Lynn 2008; Gentekaki et al. 2017;
+supported by previous morphological (Lynn 2008) and Lynn et al. 2018) as well as with the morphological view
+molecular (Gao and Katz 2014; Gentekaki et al. 2014) on ciliate phylogeny (Lynn 2003). The classification we
+studies. Postciliodesmatophora branched off first and used is summarized in Fig. 1, and all taxa with the cor-
+had moderate statistical support in our unconstrained responding classification are listed in Suppl. material 20:
+tree, while the Intramacronucleata branched off the Table S1. Below, we discussed some of the taxa that are
+second but received only low statistical support. The not strictly monophyletic in all SSU-rDNA phylogenies
+position of Mesodiniidae outside of both main clades or based on the phylogenomic data.
+in the unconstrained tree is discussed in the incertae
+sedis part below. Colpodea
+The second group, containing the Intramacronuclea-
+Oligohymenophorea
+ta clade, encompassed the rest of the major ciliate taxa.
+Intramacronucleata was further splitting into two clades Nassophorea
+CONthreeP incl. Microthoracida
+corresponding to SAL and CONthreeP groups. SAL con-
+Incertae sedis: Prostomatea
+tained the Spirotrichea, Armophorea (incl. Cariacotri- Discotrichidae incl. Askenasia
+Cyclotrichium Paraspathidium
+chea, Muranotrichea, and Parablepharismea), and Litos- Pseudotrachelocerca
+Plagiopylea
+tomatea. Although SAL had only low statistical support
+Intramacronucleata
+in our unconstrained tree, its monophyly is highly sup- Incertae sedis: Phyllopharyngea
+ported in phylogenomic studies (Gentekaki et al. 2014; Protocruziidae
+Spirotrichea
+Lynn et al. 2018). Relationships inside SAL varied based incl. Licnophoridae
+on the alignment used. Litostomatea was sister to Armo- SAL Armophorea
+phorea+Spirotrichea in both unmasked alignments, while I Pn hc ae crt oa de ns ie idd iais: in cl. MC Ca a ue r ri an a no c oom tt rro ii ccrp hhh eei aadae
+i
+Armophorea was sister to Litostomatea+Spirotrichea in P a r a b le p harismea
+masked and V4 unmasked alignments. But the relation- Litostomatea
+incl. Mesodinium
+ships within SAL are still poorly understood. Morpho-
+logical and ontogenetic data supporting the Armopho- Postciliodesmatophorea Karyorelictea
+rea+Litostomatea grouping were presented in Vďačný et
+Heterotrichea
+al. (2010). Statistical support from phylogenetic and phy-
+logenomic molecular data is low (Lynn 2008; Gentekaki Figure 1. Summary of the new reference trees with the main
+et al. 2014; Lynn et al. 2018). ciliate taxa and incertae sedis groups.
+The CONthreeP clade is the most diverse, contain-
+ing six major ciliate groups: Colpodea, Oligohyme- One of these problematic taxa is the Nassophorea.
+noporea, Nassophorea, Phyllopharyngea, Plagiopylea, Recent molecular studies have inferred this taxon as
+Prostomatea (Adl et al. 2019). Though the monophyly non-monophyletic, because its two subtaxa, Microtho-
+of CONthreeP had only low statistical support in our racida and Nassulida, have not grouped together (Gong
+unconstrained tree, it is consistently recognized in phy- et al. 2009; Fan et al. 2014; Zhang et al. 2014; Pan et al.
+logenetic studies (Lynn 2008) and robustly supported 2019). But as the definitive phylogenetic position of mi-
+in phylogenomic studies (Lynn et al. 2018). Regarding crothoracids and nassulids has yet to be resolved, we fol-
+its intra-relationships, the late branching taxa were con- lowed the Adl et al. (2019) system here. Thus, we forced
+sistent in all our trees: Oligohymenophorea was sister Nassophorea to be monophyletic, containing Microtho-
+to Prostomatea+Plagiopylea. This branching pattern racida and Nassulida together.
+was also recognized in other phylogenetic (e.g., Gao et Spirotrichea represents a species-rich ciliate taxon
+al. 2016) and phylogenomic (e.g., Maurer-Alcalá et al. with some taxonomically questionable members (Shin et
+2018) studies. But the relationships varied in the ear- al. 2000; Lynn and Strüder-Kypke 2002). One of these
+ly-branching part of the CONthreeP subtree. Nassopho- problematic spirotrichean taxa is the Licnophoridae, con-
+rea+Phyllopharyngea branched off first, and Colpodea taining mostly symbionts of marine animals (Lynn 2008).
+branched off the second in the constrained unmasked Licnophoreans were assigned to Spirotrichea because
+alignment. Colpodea+Nassophorea branched off first, they cluster in its vicinity in SSU-rDNA phylogenies,
+and Phyllopharyngea branched off the second in masked and because they also possess some typical spirotrichean
+https://mbmg.pensoft.net
+
+Page 4:
+124 L’ubomír Rajtera & Micah Dunthorn: Ciliate SSU-rRNA reference alignments and trees
+morphologies (Lynn and Strüder-Kypke 2002). On the evidence, we decided to constrain the Mesodiniidae to be
+other hand, there are molecular data only for two species, in the Litostomatea.
+and their phylogenetic position has not been thorough-
+ly evaluated. For example, in our unconstrained tree the
+Phylogenetic position of some ciliate incertae sedis taxa
+family Licnophoridae branched as sister to Armopho-
+rea+Spirotrichea, i.e. outside of the class Spirotrichea Despite the recent advances in sequencing techniques and
+as in the other studies (Miao et al. 2009; Gao and Katz more molecular data available, the phylogenetic position
+2014; Chen et al. 2015). Nevertheless, we follow (Adl of some ciliate taxa is still uncertain. We still wait for
+et al. 2019) classification here, where licnophoreans are more data from these enigmatic lineages that we labelled
+assigned within Spirotrichea, and we forced this grouping as incertea sedis for now. We discuss below those taxa
+in all our constrained trees. one by one and describe their evolutionary position in our
+The taxon Armophorea is also non-monophyletic in reference trees compared to results from other phyloge-
+SSU-rDNA phylogenies (da Silva Paiva et al. 2013; Li netic studies.
+et al. 2017; Fernandes et al. 2018; Rotterová et al. 2018), Protocruziidae (Protocruzia adherens and Protocruzia
+as it contains family Caenomorphidae that is typical- contrax) represented a separate lineage within the Intra-
+ly branching outside of Armophorea but always some- macronucleata in all our trees (Fig. 1). Protocruziidae have
+where in the Spirotrichea+Armophorea+Litostomatea been formerly assigned to the lineage Spirotrichea (Lynn
+(SAL) group. In our unconstrained tree, caenomorphids 2008), but its phylogenetic position is unstable in molec-
+branched as sister to the lineage Litostomatea, as in (Li et ular studies and mainly creates independent clade within
+al. 2017) and (Rotterová et al. 2018). But as the phyloge- Intramacronucleata based on single-gene (Li et al. 2010)
+netic position of caenomorphids is unstable based on the and also phylogenomic (Gentekaki et al. 2014) studies.
+SSU-rDNA, we kept this family within the Armophorea This lineage is placed as incertae sedis within Intrama-
+in all our constrained trees. cronucleata in the Adl et al. (2019) classification as well.
+The taxon Cariacotrichea was created based on the Phacodiniidia represented by Phacodinium metch-
+environmental sequences from the anoxic Cariaco Ba- nikoffi sequences from the Korean and China populations
+sin’s deep-sea waters in Venezuela (Stoeck et al. 2003b; created a separate lineage clustered within SAL lineage
+Edgcomb et al. 2011; Orsi et al. 2012). Cariacotrichea is as sister to Spirotrichea or as a sister to Litostomatea in
+sometimes referred to as a separate class. Still, as more our reference trees. Although Phacodiniidia represents a
+data are needed for this group, most of the ciliate clas- spirotrichean subgroup according to (Lynn 2008), only
+sification systems considered cariacotricheans as incer- limited molecular data are available for this taxon, and
+tae sedis clustering somewhere in SAL (Adl et al. 2019). its systematic positions have never been satisfactorily re-
+Two other newly established lineages in the vicinity of solved. Therefore, this taxon is assigned as incertea sedis
+Armophrea are Parablepharismea and Muranotrichea within the SAL group in Adl et al. (2019) and in our ref-
+(Rotterová et al. 2020). In our trees, all three lineages – erence trees, too (Fig. 1).
+Cariacotrichea, Parablepharismea, and Muranotrichea – Although Askenasia sp. had a stable phylogenetic
+always grouped together creating a sister clade to Armo- position within the lineage Prostomatea in all our refer-
+phorea as in Rotterová et al. (2020). For simplicity, we ence trees, this taxon represents incertea sedis in Adl et
+decided to label all these clades as Armophorea in our al. (2019). The phylogenetic position of Askenasia was
+reference trees, which corresponds to the APM clade de- thoroughly studied in (Liu et al. 2015), where this genus
+fined in Rotterová et al. (2020). For the detailed taxonom- cluster close to Prostomatea, Plagiopylea, or Oligohyme-
+ical information, please see Suppl. material 20: Table S1. nophorea based on SSU-rDNA phylogeny. But consider-
+Although most of our classification followed Adl et al. ing morphology, Liu et al. (2015) assumed that Askenasia
+(2019), an exception is the family Mesodiniidae (Meso- is indeed a prostomatean, as our reference trees also indi-
+dinium pulex and Myrionecta rubra) that we assigned to cated (Fig. 1). The Paraspathidium apofuscum sequence
+the taxon Litostomatea and not as an incertae sedis taxon. was also placed within the lineage Prostomatea in all our
+Mesodiniidae created a separate long-branched clade that reference trees despite this genus having the incertae se-
+clustered between all ciliates and outgroup in our uncon- dis status in Adl et al. (2019).
+strained tree and other molecular studies (Dunthorn et al. Cyclotrichium cyclokaryon and Pseudotrachelocerca
+2014b; Gao et al. 2016). The problematic phylogenetic trepida formed a close relationship in all our trees, clus-
+placement of mesodiniids is caused by the different pri- tering always inside the CONthreeP group. Both taxa
+mary structure of the mesodiniids’ SSU-rDNA sequence are also incertae sedis in Adl et al. (2019) within CON-
+compared to the typical ciliate SSU-rDNA sequence. But threeP and grouping near Plagiopylea. Another incertae
+based on the phylogenomic data, Lasek-Nesselquist and sedis taxon – Discotrichidae – was also placed within the
+Johnson (2019) discovered that mesodiniids have a close CONthreeP group in all our reference trees. The family
+affinity to Litostomatea corresponding to the Lynn (2008) Discotrichidae was previously included in the Microtho-
+classification. They showed that the highly derived mes- racida (class Nassophorea) (Lynn 2008), but after infer-
+odiniids’ SSU-rDNA sequence results from stolen prey ring its SSU-rDNA phylogeny (Fan et al. 2014; Zhang et
+nuclei dominating the cell expression. In light of this new al. 2014), this taxon was assigned as incertae sedis with-
+https://mbmg.pensoft.net
+
+Page 5:
+Metabarcoding and Metagenomics 5: e69602 125
+in CONthreeP (Adl et al. 2019), as our reference trees only assignment to the main ciliate taxa and the outgroup
+showed as well (Fig. 1). (Suppl. material 14: File S14). Using this input file, it is
+possible to determine the exact number of placed queries
+sequences inside and outside of Ciliophora as well as in
+How to use our reference alignments and trees in the
+each main ciliate taxon. The second input file (Suppl. ma-
+ciliate diversity research
+terial 15: File S15) includes more detailed system that is
+Phylogenetic placement of metabarcoding data allows based on Adl et al. (2019) classification. Using this input
+researchers to ask broader evolutionary and ecological file, it is possible to get detailed taxonomical resolution of
+questions. But without taxonomical expertise on specific the placed query sequences.
+taxa, interpretation of these placements is difficult. Here Ciliate species diversity has mostly been estimated us-
+we offer suggestions on some of these interpretations for ing morphological differences to define species bounda-
+ciliates using our reference alignments and trees. First, ries. Foissner et al. (2008) estimated that 83–89% of the
+the user can determine the taxonomic position of the ciliate diversity is undiscovered and assumed that the total
+investigated environmental sequences as during phy- number of ciliate species is between 27,000 and 40,000.
+logenetic placement is each sequence attached to the On the other hand, Finlay et al. (1998) argued that glob-
+reference tree. The exact phylogenetic positions for all al ciliate diversity is relatively low, consisting of about
+placed sequences can be retrieved using the taxonomical 3,000 species. Although recent molecular studies discrim-
+assignment command in the GAPPA package (Czech et inate species based on percentual sequence similarity,
+al. 2020). In this way, it is possible to taxonomically as- these studies often mirror the results obtained from mor-
+sign all the investigated environmental sequences, even phological investigations of the same samples (Stoeck et
+those that are distantly related to known species and are al. 2018; Forster et al. 2019; Pitsch et al. 2019). Molec-
+challenging to assign using standard taxonomic assign- ular ecologists can therefore evaluate the morphologi-
+ment methods (Koski and Golding 2001). The compari- cal-based estimations of the ciliate species diversity using
+son between standard taxonomical assignments and phy- environmental HTS data combined with our alignments.
+logenetic placements is discussed in more detail by Czech Fourth, the user can correlate phylogenetic placements
+and Stamatakis (2019) with measured environmental parameters using the edge
+Second, the user can discover novel ciliate clades. De- correlation command in GAPPA. In this way, it is possible
+spite a long history of the ciliate investigation, novel cil- to combine environmental parameters with phylogenetic
+iate clades outside of the main ciliate taxa could be still placements and determine which environmental factors
+found in understudied environments such as the anoxic influence ciliate community composition.
+deep-sea waters (Stoeck et al. 2003b; Orsi et al. 2012;
+Rotterová et al. 2020) or geographical regions such as
+Conclusions
+subtropical and tropical areas (Fernandes et al. 2020).
+Novel environmental clades within the main ciliate taxa
+will likely be detected in our reference trees. Many envi- As the phylogenetic placement methods are increasingly
+ronmental clades have been recovered within almost all used in metabarcoding studies, here we provided global
+main ciliate taxa using a global ciliate tree in Boscaro et ciliate reference alignments and trees. We designed and
+al. (2018). Also, numerous unique ciliate environmental formatted these reference alignments and trees specifi-
+sequences have been reported in recent metabarcoding cally for the ciliate diversity research and phylogenetic
+studies from marine and freshwaters habitats (Gimmler et placement demands as there are no such available data-
+al. 2016; Canals et al. 2020; Fernandes et al. 2020; Zhao sets. These files are easily downloadable from the online
+2021). As phylogenetic placements combined with refer- supplement (Suppl. material 2–Suppl. material 10).
+ence alignments will determine the phylogenetic position
+and the close relatives of the novel environmental clades,
+Acknowledgements
+molecular ecologists could use this information to assign
+ecological characteristics of the potential species in the
+given environmental clade. Based on the environmental We received funding from the Alexander von Humboldt
+sequences, it is possible to create specific phylogenetic Foundation to LR, and the Deutsche Forschungsgemein-
+probes for fluorescence in situ hybridization (FISH) and schaft (grant DU1319/5-1) to MD.
+link morphological and molecular data in a further inves-
+tigation (Stoeck et al. 2003a; Gimmler and Stoeck 2015).
+Third, the user can estimate the total number of cili- References
+ate species and their subtaxa. This is possible by using
+the assign subcommand in the GAPPA package (Czech
+et al. 2020) that will taxonomically assign placed que- Adl SM, Bass D, Lane CE, Lukeš J, Schoch CL, Smirnov A, Agatha S,
+ry sequences into the predefined taxonomy that needs to Berney C, Brown MW, Burki F, Cárdenas P, Čepička I, Chistyakova
+be provided as an input file. We prepared two different L, Campo J del, Dunthorn M, Edvardsen B, Eglit Y, Guillou L, Ham-
+predefine taxonomy input files. The first one contains pl V, Heiss AA, Hoppenrath M, James TY, Karnkowska A, Karpov
+https://mbmg.pensoft.net
+
+Page 6:
+126 L’ubomír Rajtera & Micah Dunthorn: Ciliate SSU-rRNA reference alignments and trees
+S, Kim E, Kolisko M, Kudryavtsev A, Lahr DJG, Lara E, Gall LL, Dunthorn M, Klier J, Bunge J, Stoeck T (2012a) Comparing the hyper-vari-
+Lynn DH, Mann DG, Massana R, Mitchell EAD, Morrow C, Park able V4 and V9 regions of the small subunit rDNA for assessment of
+JS, Pawlowski JW, Powell MJ, Richter DJ, Rueckert S, Shadwick ciliate environmental diversity. Journal of Eukaryotic Microbiology
+L, Shimano S, Spiegel FW, Torruella G, Youssef N, Zlatogursky V, 59: 185–187. https://doi.org/10.1111/j.1550-7408.2011.00602.x
+Zhang Q (2019) Revisions to the classification, nomenclature, and Dunthorn M, Stoeck T, Wolf K, Breiner H-W, Foissner W (2012b) Di-
+diversity of eukaryotes. Journal of Eukaryotic Microbiology 66: versity and endemism of ciliates inhabiting Neotropical phytotelma-
+4–119. https://doi.org/10.1111/jeu.12691 ta. Systematics and Biodiversity 10: 195–205. https://doi.org/10.108
+Barbera P, Czech L, Lutteropp S, Stamatakis A (2021) SCRAPP: A 0/14772000.2012.685195
+tool to assess the diversity of microbial samples from phylogenetic Dunthorn M, Stoeck T, Clamp J, Warren A, Mahé F (2014a) Ciliates and
+placements. Molecular Ecology Resources 21: 340–349. https://doi. the rare biosphere: A review. Journal of Eukaryotic Microbiology
+org/10.1111/1755-0998.13255 61: 404–409. https://doi.org/10.1111/jeu.12121
+Barbera P, Kozlov AM, Czech L, Morel B, Stamatakis A (2018) EPA- Dunthorn M, Otto J, Berger SA, Stamatakis A, Mahé F, Romac S,
+ng: Massively parallel evolutionary placement of genetic sequences. de Vargas C, Audic S, Consortium B, Stock A, Kauff F, Stoeck T
+bioRxiv: 291658. https://doi.org/10.1101/291658 (2014b) Placing environmental next-generation sequencing ampli-
+Bass D, Czech L, Williams BAP, Berney C, Dunthorn M, Mahé F, cons from microbial eukaryotes into a phylogenetic context. Molec-
+Torruella G, Stentiford GD, Williams TA (2018) Clarifying the ular Biology and Evolution 31: 993–1009. https://doi.org/10.1093/
+relationships between Microsporidia and Cryptomycota. Journal molbev/msu055
+of Eukaryotic Microbiology 65: 773–782. https://doi.org/10.1111/ Dunthorn M, Lipps JH, Dolan JR, Saab MA-A, Aescht E, Bachy C, de
+jeu.12519 Cao MSB, Berger H, Bourland WA, Choi JK, Clamp J, Doherty M,
+Berger SA, Krompass D, Stamatakis A (2011) Performance, accura- Gao F, Gentekaki E, Gong J, Hu X, Huang J, Kamiyama T, Johnson
+cy, and web server for evolutionary placement of short sequence MD, Kammerlander B, Kim SY, Kim Y-O, la Terza A, Laval-Peuto
+reads under maximum likelihood. Systematic Biology 60: 291–302. M, Lipscomb D, Lobban CS, Long H, Luporini P, Lynn DH, Macek
+https://doi.org/10.1093/sysbio/syr010 M, Mansergh RI, Martín-Cereceda M, McManus GG, Montagnes
+Blanke M, Morgenstern B (2020) Phylogenetic placement of short reads DJS, Ong’ondo GO, Patterson DJ, Pérez-Uz B, Quintela-Alonso P,
+without sequence alignment. bioRxiv: 2020.10.19.344986. https:// Safi LSL, Santoferrara LF, Sonntag B, Song W, Stoeck T, Stoecker
+doi.org/10.1101/2020.10.19.344986 DK, Strüder-Kypke MC, Trautmann I, Utz LRP, Vallesi A, Vd’ačný
+Boscaro V, Santoferrara LF, Zhang Q, Gentekaki E, Syberg‐Olsen MJ, P, Warren A, Weisse T, Wickham SA, Yi Z, Zhang W, Zhan Z, Zufall
+del Campo J, Keeling PJ (2018) EukRef‐Ciliophora: A manually R, Agatha S (2015) Ciliates – Protists with complex morphologies
+curated, phylogeny‐based database of small subunit rRNA gene and ambiguous early fossil record. Marine Micropaleontology 119:
+sequences of ciliates. Environmental Microbiology 20: 2218–2230. 1–6. https://doi.org/10.1016/j.marmicro.2015.05.004
+https://doi.org/10.1111/1462-2920.14264 Edgcomb V, Orsi W, Taylor GT, Vdacny P, Taylor C, Suarez P, Epstein S
+Canals O, Obiol A, Muhovic I, Vaqué D, Massana R (2020) Ciliate (2011) Accessing marine protists from the anoxic Cariaco Basin. The
+diversity and distribution across horizontal and vertical scales in ISME Journal 5: 1237–1241. https://doi.org/10.1038/ismej.2011.10
+the open ocean. Molecular Ecology 29: 2824–2839. https://doi. Fan X, Pan H, Li L, Jiang J, Al‐Rasheid KAS, Gu F (2014) Phyloge-
+org/10.1111/mec.15528 ny of the poorly known ciliates, Microthoracida, a systematically
+Chen X, Ma H, AL-Rasheid K, Miao M (2015) Molecular data suggests confused taxon (Ciliophora), with morphological reports of three
+the ciliate Mesodinium (Protista: Ciliophora) might represent an un- species. Journal of Eukaryotic Microbiology 61: 227–237. https://
+described taxon at class level. Zoological Systematics 40: 31–40. doi.org/10.1111/jeu.12099
+https://doi.org/10.11865/zs.20150102 Fernandes NM, Schrago CG (2019) A multigene timescale and diversifica-
+Clark K, Karsch-Mizrachi I, Lipman DJ, Ostell J, Sayers EW (2016) tion dynamics of Ciliophora evolution. Molecular Phylogenetics and
+GenBank. Nucleic Acids Research 44: D67–D72. https://doi. Evolution 139: 106521. https://doi.org/10.1016/j.ympev.2019.106521
+org/10.1093/nar/gkv1276 Fernandes NM, Campello-Nunes PH, Paiva TS, Soraes CAG, Silva-Ne-
+Czech L, Stamatakis A (2019) Scalable methods for analyzing and vi- to ID (2020) Ciliate diversity from aquatic environments in the
+sualizing phylogenetic placement of metagenomic samples. PLoS Brazilian Atlantic Forest as revealed by high-throughput DNA se-
+ONE 14: e0217050. https://doi.org/10.1371/journal.pone.0217050 quencing. Microbial Ecology 81: 630–643. https://doi.org/10.1007/
+Czech L, Barbera P, Stamatakis A (2020) Genesis and Gappa: Pro- s00248-020-01612-8
+cessing, analyzing and visualizing phylogenetic (placement) data. Fernandes NM, Vizzoni VF, Borges B do N, Soares CAG, da Silva-Neto
+Bioinformatics 36: 3263–3265. https://doi.org/10.1093/bioinfor- ID, Paiva T da S (2018) Molecular phylogeny and comparative mor-
+matics/btaa070 phology indicate that odontostomatids (Alveolata, Ciliophora) form
+Dias RJP, de Souza PM, Rossi MF, Wieloch AH, da Silva-Neto ID, a distinct class-level taxon related to Armophorea. Molecular Phy-
+D’Agosto M (2021) Ciliates as bioindicators of water quality: A logenetics and Evolution 126: 382–389. https://doi.org/10.1016/j.
+case study in the neotropical region and evidence of phylogenetic ympev.2018.04.026
+signals (18S-rDNA). Environmental Pollution 268: 115760. https:// Finlay BJ (2002) Global dispersal of free-living microbial eukaryote
+doi.org/10.1016/j.envpol.2020.115760 species. Science (New York, N.Y.) 296: 1061–1063. https://doi.
+Dunthorn M, Katz L (2008) Richness of morphological hypotheses in org/10.1126/science.1070710
+ciliate systematics allows for detailed assessment of homology and Finlay BJ, Esteban GF, Fenchel T (1998) Protozoan diversity: Con-
+comparisons with gene trees. Denisia 23: 389–394. http://archive. verging estimates of the global number of free-living ciliate species.
+org/details/denisia-23-389-394 [April 10, 2021] Protist 149: 29–37. https://doi.org/10.1016/S1434-4610(98)70007-0
+https://mbmg.pensoft.net
+
+Page 7:
+Metabarcoding and Metagenomics 5: e69602 127
+Foissner W, Chao A, Katz LA (2008) Diversity and geographic distribu- Katoh K, Rozewicki J, Yamada KD (2019) MAFFT online service:
+tion of ciliates (Protista: Ciliophora). Biodiversity and Conservation Multiple sequence alignment, interactive sequence choice and vi-
+17: 345–363. https://doi.org/10.1007/s10531-007-9254-7 sualization. Briefings in Bioinformatics 20: 1160–1166. https://doi.
+Foissner W, Chao A, Katz LA (2009) Diversity and geographic distribu- org/10.1093/bib/bbx108
+tion of ciliates (Protista: Ciliophora). In: Foissner W, Hawksworth Katoh K, Misawa K, Kuma K, Miyata T (2002) MAFFT: A novel
+DL (Eds) Protist Diversity and Geographical Distribution. Topics method for rapid multiple sequence alignment based on fast Fou-
+in Biodiversity and Conservation. Springer Netherlands, Dordrecht, rier transform. Nucleic Acids Research 30: 3059–3066. https://doi.
+111–129. https://doi.org/10.1007/978-90-481-2801-3_9 org/10.1093/nar/gkf436
+Forster D, Filker S, Kochems R, Breiner H-W, Cordier T, Pawlowski J, Koski LB, Golding GB (2001) The closest BLAST hit is often not the
+Stoeck T (2019) A comparison of different ciliate metabarcode genes nearest neighbor. Journal of Molecular Evolution 52: 540–542.
+as bioindicators for environmental impact assessments of salm- https://doi.org/10.1007/s002390010184
+on aquaculture. Journal of Eukaryotic Microbiology 66: 294–308. Kulaš A, Gulin V, Matoničkin Kepčija R, Žutinić P, Sertić Perić M, Or-
+https://doi.org/10.1111/jeu.12670 lić S, Kajan K, Stoeck T, Lentendu G, Čanjevac I, Martinić I, Gligo-
+Gao F, Katz LA (2014) Phylogenomic analyses support the bifurcation ra Udovič M (2021) Ciliates (Alveolata, Ciliophora) as bioindicators
+of ciliates into two major clades that differ in properties of nucle- of environmental pressure: A karstic river case. Ecological Indica-
+ar division. Molecular Phylogenetics and Evolution 70: 240–243. tors 124: 107430. https://doi.org/10.1016/j.ecolind.2021.107430
+https://doi.org/10.1016/j.ympev.2013.10.001 Lasek-Nesselquist E, Johnson MD (2019) A phylogenomic approach to
+Gao F, Warren A, Zhang Q, Gong J, Miao M, Sun P, Xu D, Huang J, clarifying the relationship of Mesodinium within the Ciliophora: A
+Yi Z, Song W (2016) The all-data-based evolutionary hypothesis of case study in the complexity of mixed-species transcriptome analy-
+ciliated protists with a revised classification of the phylum Ciliopho- ses. Zufall R (Ed.). Genome Biology and Evolution 11: 3218–3232.
+ra (Eukaryota, Alveolata). Scientific Reports 6: e24874. https://doi. https://doi.org/10.1093/gbe/evz233
+org/10.1038/srep24874 Lentendu G, Mahé F, Bass D, Rueckert S, Stoeck T, Dunthorn M (2018)
+Gentekaki E, Kolisko M, Gong Y, Lynn D (2017) Phylogenomics solves Consistent patterns of high alpha and low beta diversity in tropical
+a long-standing evolutionary puzzle in the ciliate world: The sub- parasitic and free-living protists. Molecular Ecology 27: 2846–2857.
+class Peritrichia is monophyletic. Molecular Phylogenetics and Evo- https://doi.org/10.1111/mec.14731
+lution 106: 1–5. https://doi.org/10.1016/j.ympev.2016.09.016 Letunic I, Bork P (2019) Interactive Tree Of Life (iTOL) v4: recent
+Gentekaki E, Kolisko M, Boscaro V, Bright KJ, Dini F, Di Giuseppe G, updates and new developments. Nucleic Acids Research 47: W256–
+Gong Y, Miceli C, Modeo L, Molestina RE, Petroni G, Pucciarelli W259. https://doi.org/10.1093/nar/gkz239
+S, Roger AJ, Strom SL, Lynn DH (2014) Large-scale phylogenomic Li L, Thorsten S, Kyoon SM, Al-Rasheid Khaled AS, Al-Khedhairy
+analysis reveals the phylogenetic position of the problematic tax- Bdulaziz A, Song W (2010) Protocruzia, a highly ambiguous ciliate
+on Protocruzia and unravels the deep phylogenetic affinities of the (Protozoa; Ciliophora): Very likely an ancestral form for Hetero-
+ciliate lineages. Molecular Phylogenetics and Evolution 78: 36–42. trichea, Colpodea or Spirotrichea? With reevaluation of its evolu-
+https://doi.org/10.1016/j.ympev.2014.04.020 tionary position based on multigene analyses. Science China. Life
+Gimmler A, Stoeck T (2015) Mining environmental high-throughput Sciences 53: 131–138. https://doi.org/10.1007/s11427-010-0012-9
+sequence data sets to identify divergent amplicon clusters for phylo- Li S, Bourland WA, Al-Farraj SA, Li L, Hu X (2017) Description of two
+genetic reconstruction and morphotype visualization: EnvHTS data species of caenomorphid ciliates (Ciliophora, Armophorea): Mor-
+mining. Environmental Microbiology Reports 7: 679–686. https:// phology and molecular phylogeny. European Journal of Protistology
+doi.org/10.1111/1758-2229.12307 61: 29–40. https://doi.org/10.1016/j.ejop.2017.08.001
+Gimmler A, Korn R, de Vargas C, Audic S, Stoeck T (2016) The Tara Liu A, Yi Z, Lin X, Hu X, Al-Farraj SA, Al-Rasheid KAS (2015) Mo-
+Oceans voyage reveals global diversity and distribution patterns of lecular phylogenetic lineage of Plagiopogon and Askenasia (Proto-
+marine planktonic ciliates. Scientific Reports 6: e33555. https://doi. zoa, Ciliophora) revealed by their gene sequences. Journal of Ocean
+org/10.1038/srep33555 University of China 14: 724–730. https://doi.org/10.1007/s11802-
+Gong J, Stoeck T, Yi Z, Miao M, Zhang Q, Roberts DM, Warren A, 015-2559-3
+Song W (2009) Small subunit rRNA phylogenies show that the class Lynn D (2008) The ciliated protozoa: Characterization, classification,
+nassophorea is not monophyletic (Phylum Ciliophora). The Journal and guide to the literature. 3rd edn. Springer Netherlands, 605 pp.
+of Eukaryotic Microbiology 56: 339–347. https://doi.org/10.1111/ https://doi.org/10.1007/978-1-4020-8239-9
+j.1550-7408.2009.00413.x Lynn DH (2003) Morphology or molecules: How do we identify the
+Hall TA (1999) BioEdit: A user-friendly biological sequence alignment major lineages of ciliates (Phylum Ciliophora). European Journal of
+editor and analysis program for Windows 95/98/NT. Nucleic Acids Protistology 39: 356–364. https://doi.org/10.1078/0932-4739-00004
+Symposium Series 41: 95–98. Lynn DH, Strüder-Kypke M (2002) Phylogenetic position of Licnopho-
+Hillis DM, Bull JJ (1993) An empirical test of bootstrapping as a meth- ra, Lechriopyla, and Schizocaryum, three unusual ciliates (phylum
+od for assessing confidence in phylogenetic snalysis. Systematic Bi- Ciliophora) endosymbiotic in echinoderms (phylum Echinoderma-
+ology 42: 182–192. https://doi.org/10.1093/sysbio/42.2.182 ta). The Journal of Eukaryotic Microbiology 49: 460–468. https://
+Jamy M, Foster R, Barbera P, Czech L, Kozlov A, Stamatakis A, Bend- doi.org/10.1111/j.1550-7408.2002.tb00229.x
+ing G, Hilton S, Bass D, Burki F (2020) Long-read metabarcoding Lynn DH, Kolisko M, Bourland W (2018) Phylogenomic analysis of
+of the eukaryotic rDNA operon to phylogenetically and taxonomi- Nassula variabilis n. sp., Furgasonia blochmanni, and Pseudomi-
+cally resolve environmental diversity. Molecular Ecology Resources crothorax dubius confirms a nassophorean clade. Protist 169: 180–
+20: 429–443. https://doi.org/10.1111/1755-0998.13117 189. https://doi.org/10.1016/j.protis.2018.02.002
+https://mbmg.pensoft.net
+
+Page 8:
+128 L’ubomír Rajtera & Micah Dunthorn: Ciliate SSU-rRNA reference alignments and trees
+Mahé F, de Vargas C, Bass D, Czech L, Stamatakis A, Lara E, Singer da Silva Paiva T, do Nascimento Borges B, da Silva-Neto ID (2013)
+D, Mayor J, Bunge J, Sernaker S, Siemensmeyer T, Trautmann I, Phylogenetic study of class Armophorea (Alveolata, Ciliophora)
+Romac S, Berney C, Kozlov A, Mitchell EAD, Seppey CVW, Egge based on 18S-rDNA data. Genetics and Molecular Biology 36: 571–
+E, Lentendu G, Wirth R, Trueba G, Dunthorn M (2017) Parasites 585. https://doi.org/10.1590/S1415-47572013000400017
+dominate hyperdiverse soil protist communities in Neotropical rain- Stamatakis A (2014) RAxML version 8: A tool for phylogenetic analysis
+forests. Nature Ecology & Evolution 1: 1–8. https://doi.org/10.1038/ and post-analysis of large phylogenies. Bioinformatics 30: 1312–
+s41559-017-0091 1313. https://doi.org/10.1093/bioinformatics/btu033
+Matsen FA, Kodner RB, Armbrust EV (2010) pplacer: linear time maxi- Stoeck T (2018) Metabarcoding of benthic ciliate communities shows
+mum-likelihood and Bayesian phylogenetic placement of sequences high potential for environmental monitoring in salmon aquaculture.
+onto a fixed reference tree. BMC Bioinformatics 11: e538. https:// Ecological Indicators 12.
+doi.org/10.1186/1471-2105-11-538 Stoeck T, Fowle WH, Epstein SS (2003a) Methodology of protistan
+Maurer-Alcalá XX, Yan Y, Pilling OA, Knight R, Katz LA (2018) Twist- discovery: From rRNA detection to quality scanning electron mi-
+ed tales: Insights into genome diversity of ciliates using single-cell croscope images. Applied and Environmental Microbiology 69:
+’omics. Genome Biology and Evolution 10: 1927–1939. https://doi. 6856–6863. https://doi.org/10.1128/AEM.69.11.6856-6863.2003
+org/10.1093/gbe/evy133 Stoeck T, Taylor GT, Epstein SS (2003b) Novel eukaryotes from the per-
+Medlin L, Elwood HJ, Stickel S, Sogin ML (1988) The characterization of manently anoxic Cariaco Basin (Caribbean Sea). Applied and Envi-
+enzymatically amplified eukaryotic 16S-like rRNA-coding regions. ronmental Microbiology 69: 5656–5663. https://doi.org/10.1128/
+Gene 71: 491–499. https://doi.org/10.1016/0378-1119(88)90066-2 AEM.69.9.5656-5663.2003
+Miao M, Shao C, Jiang J, Li L, Stoeck T, Song W (2009) Caryotricha Stoeck T, Kochems R, Forster D, Lejzerowicz F, Pawlowski J (2018)
+minuta (Xu et al., 2008) nov. comb., a unique marine ciliate (Pro- Metabarcoding of benthic ciliate communities shows high potential
+tista, Ciliophora, Spirotrichea), with phylogenetic analysis of the for environmental monitoring in salmon aquaculture. Ecological In-
+ambiguous genus Caryotricha inferred from the small-subunit rRNA dicators 85: 153–164. https://doi.org/10.1016/j.ecolind.2017.10.041
+gene sequence. International Journal of Systematic and Evolutionary Talavera G, Castresana J (2007) Improvement of phylogenies after
+Microbiology 59: 430–438. https://doi.org/10.1099/ijs.0.65855-0 removing divergent and ambiguously aligned blocks from protein
+Orsi W, Edgcomb V, Faria J, Foissner W, Fowle WH, Hohmann T, Su- sequence alignments. Systematic Biology 56: 564–577. https://doi.
+arez P, Taylor C, Taylor GT, Vd’ačný P, Epstein SS (2012) Class org/10.1080/10635150701472164
+Cariacotrichea, a novel ciliate taxon from the anoxic Cariaco Basin, Vďačný P, Orsi W, Foissner W (2010) Molecular and morphological
+Venezuela. International Journal of Systematic and Evolutionary Mi- evidence for a sister group relationship of the classes Armophorea
+crobiology 62: 1425–1433. https://doi.org/10.1099/ijs.0.034710-0 and Litostomatea (Ciliophora, Intramacronucleata, Lamellicorticata
+Pan B, Chen X, Hou L, Zhang Q, Qu Z, Warren A, Miao M (2019) infraphyl. nov.), with an account on basal litostomateans. Europe-
+Comparative genomics analysis of ciliates provides insights on the an Journal of Protistology 46: 298–309. https://doi.org/10.1016/j.
+evolutionary history within “Nassophorea–Synhymenia–Phyllopha- ejop.2010.07.002
+ryngea” assemblage. Frontiers in Microbiology 10: e2819. https:// Venter PC, Nitsche F, Scherwass A, Arndt H (2018) Discrepancies be-
+doi.org/10.3389/fmicb.2019.02819 tween molecular and morphological databases of soil ciliates studied
+Pitsch G, Bruni EP, Forster D, Qu Z, Sonntag B, Stoeck T, Posch T for temperate grasslands of Central Europe. Protist 169: 521–538
+(2019) Seasonality of planktonic freshwater ciliates: Are analyses https://doi.org/10.1016/j.protis.2018.04.001.
+based on V9 regions of the 18S rRNA gene correlated with mor- Zhang Q, Yi Z, Fan X, Warren A, Gong J, Song W (2014) Further insights
+phospecies counts? Frontiers in Microbiology 10: e248. https://doi. into the phylogeny of two ciliate classes Nassophorea and Prosto-
+org/10.3389/fmicb.2019.00248 matea (Protista, Ciliophora). Molecular Phylogenetics and Evolu-
+Rajter Ľ, Ewers I, Graupner N, Vďačný P, Dunthorn M (2021) Colpo- tion 70: 162–170. https://doi.org/10.1016/j.ympev.2013.09.015
+dean ciliate phylogeny and reference alignments for phylogenetic Zhao F (2021) Bathymetric gradient shapes the community composi-
+placements. European Journal of Protistology 77: 125747. https:// tion rather than the species richness of deep-sea benthic ciliates.
+doi.org/10.1016/j.ejop.2020.125747 Science of the Total Environment 11. https://doi.org/10.1016/j.sci-
+Rotterová J, Bourland W, Čepička I (2018) Tropidoatractidae fam. nov., totenv.2020.142623
+a deep branching lineage of Metopida (Armophorea, Ciliophora)
+found in diverse habitats and possessing prokaryotic symbionts. Supplementary material 1
+Protist 169: 362–405. https://doi.org/10.1016/j.protis.2018.04.003 File S1
+Rotterová J, Salomaki E, Pánek T, Bourland W, Žihala D, Táborský P, Author: Ľubomír Rajter
+Data type: pdf file
+Edgcomb VP, Beinart RA, Kolísko M, Čepička I (2020) Genomics
+Explanation note: Description of the relationships within the
+of new ciliate lineages provides insight into the evolution of obli-
+main ciliate lineages in the reference trees.
+gate anaerobiosis. Current Biology 30: 2037–2050.e6. https://doi.
+Copyright notice: This dataset is made available under the
+org/10.1016/j.cub.2020.03.064
+Open Database License (http://opendatacommons.org/li-
+Shin MK, Hwang UW, Kim W, Wright A-DG, Krawczyk C, Lynn DH
+censes/odbl/1.0/). The Open Database License (ODbL) is
+(2000) Phylogenetic position of the ciliates Phacodinium (Order a license agreement intended to allow users to freely share,
+Phacodiniida) and Protocruzia (Subclass Protocruziidia) and sys- modify, and use this Dataset while maintaining this same
+tematics of the spirotrich ciliates examined by small subunit ribo- freedom for others, provided that the original source and
+somal RNA gene sequences. European Journal of Protistology 36: author(s) are credited.
+293–302. https://doi.org/10.1016/S0932-4739(00)80005-X Link: https://doi.org/10.3897/mbmg.5.69602.suppl1
+https://mbmg.pensoft.net
+
+Page 9:
+Metabarcoding and Metagenomics 5: e69602 129
+Supplementary material 2 Supplementary material 6
+File S2 File S6
+Author: Ľubomír Rajter Author: Ľubomír Rajter
+Data type: multiple sequence alignment Data type: multiple sequence alignment
+Explanation note: Masked reference alignment except the V4 Explanation note: Unmasked reference alignment in the
+region in the FASTA format. PHYLIP format.
+Copyright notice: This dataset is made available under the Copyright notice: This dataset is made available under the
+Open Database License (http://opendatacommons.org/li- Open Database License (http://opendatacommons.org/li-
+censes/odbl/1.0/). The Open Database License (ODbL) is censes/odbl/1.0/). The Open Database License (ODbL) is
+a license agreement intended to allow users to freely share, a license agreement intended to allow users to freely share,
+modify, and use this Dataset while maintaining this same modify, and use this Dataset while maintaining this same
+freedom for others, provided that the original source and freedom for others, provided that the original source and
+author(s) are credited. author(s) are credited.
+Link: https://doi.org/10.3897/mbmg.5.69602.suppl2 Link: https://doi.org/10.3897/mbmg.5.69602.suppl6
+Supplementary material 3 Supplementary material 7
+File S3 File S7
+Author: Ľubomír Rajter Author: Ľubomír Rajter
+Data type: multiple sequence alignment Data type: NEWICK tree
+Explanation note: Masked reference alignment except the V4 Explanation note: Reference tree built from the unmasked
+region in the PHYLIP format. alignment in the NEWICK format.
+Copyright notice: This dataset is made available under the Copyright notice: This dataset is made available under the
+Open Database License (http://opendatacommons.org/li- Open Database License (http://opendatacommons.org/li-
+censes/odbl/1.0/). The Open Database License (ODbL) is censes/odbl/1.0/). The Open Database License (ODbL) is
+a license agreement intended to allow users to freely share, a license agreement intended to allow users to freely share,
+modify, and use this Dataset while maintaining this same modify, and use this Dataset while maintaining this same
+freedom for others, provided that the original source and freedom for others, provided that the original source and
+author(s) are credited. author(s) are credited.
+Link: https://doi.org/10.3897/mbmg.5.69602.suppl3 Link: https://doi.org/10.3897/mbmg.5.69602.suppl7
+Supplementary material 4 Supplementary material 8
+File S4 File S8
+Author: Ľubomír Rajter Author: Ľubomír Rajter
+Data type: NEWICK tree Data type: multiple sequence alignment
+Explanation note: Reference tree built from the masked align- Explanation note: Masked reference alignment in the FASTA
+ment except the V4 region in the NEWICK format. format.
+Copyright notice: This dataset is made available under the Copyright notice: This dataset is made available under the
+Open Database License (http://opendatacommons.org/li- Open Database License (http://opendatacommons.org/li-
+censes/odbl/1.0/). The Open Database License (ODbL) is censes/odbl/1.0/). The Open Database License (ODbL) is
+a license agreement intended to allow users to freely share, a license agreement intended to allow users to freely share,
+modify, and use this Dataset while maintaining this same modify, and use this Dataset while maintaining this same
+freedom for others, provided that the original source and freedom for others, provided that the original source and
+author(s) are credited. author(s) are credited.
+Link: https://doi.org/10.3897/mbmg.5.69602.suppl4 Link: https://doi.org/10.3897/mbmg.5.69602.suppl8
+Supplementary material 5 Supplementary material 9
+File S5 File S9
+Author: Ľubomír Rajter Author: Ľubomír Rajter
+Data type: multiple sequence alignment Data type: multiple sequence alignment
+Explanation note: Unmasked reference alignment in the FASTA Explanation note: Masked reference alignment in the PHYLIP
+format. format.
+Copyright notice: This dataset is made available under the Copyright notice: This dataset is made available under the
+Open Database License (http://opendatacommons.org/li- Open Database License (http://opendatacommons.org/li-
+censes/odbl/1.0/). The Open Database License (ODbL) is censes/odbl/1.0/). The Open Database License (ODbL) is
+a license agreement intended to allow users to freely share, a license agreement intended to allow users to freely share,
+modify, and use this Dataset while maintaining this same modify, and use this Dataset while maintaining this same
+freedom for others, provided that the original source and freedom for others, provided that the original source and
+author(s) are credited. author(s) are credited.
+Link: https://doi.org/10.3897/mbmg.5.69602.suppl5 Link: https://doi.org/10.3897/mbmg.5.69602.suppl9
+https://mbmg.pensoft.net
+
+Page 10:
+130 L’ubomír Rajtera & Micah Dunthorn: Ciliate SSU-rRNA reference alignments and trees
+Supplementary material 10 Supplementary material 14
+File S10 File S14
+Author: Ľubomír Rajter Author: Ľubomír Rajter
+Data type: NEWICK tree Data type: text file
+Explanation note: Reference tree built from the masked align- Explanation note: Input file for a taxonomical assignment func-
+ment in the NEWICK format. tion in the GAPPA package; this file containing a tab-separated
+Copyright notice: This dataset is made available under the list of reference taxa with corresponding taxonomical assign-
+Open Database License (http://opendatacommons.org/li- ment to the main ciliate lineages or incertae sedis.
+censes/odbl/1.0/). The Open Database License (ODbL) is Copyright notice: This dataset is made available under the
+a license agreement intended to allow users to freely share, Open Database License (http://opendatacommons.org/li-
+modify, and use this Dataset while maintaining this same censes/odbl/1.0/). The Open Database License (ODbL) is
+freedom for others, provided that the original source and a license agreement intended to allow users to freely share,
+author(s) are credited. modify, and use this Dataset while maintaining this same
+Link: https://doi.org/10.3897/mbmg.5.69602.suppl10 freedom for others, provided that the original source and
+author(s) are credited.
+Link: https://doi.org/10.3897/mbmg.5.69602.suppl14
+Supplementary material 11
+File S11
+Author: Ľubomír Rajter Supplementary material 15
+Data type: multiple sequence alignment File S15
+Explanation note: Unconstrained unmasked alignment in the Author: Ľubomír Rajter
+FASTA format. Data type: text file
+Copyright notice: This dataset is made available under the Explanation note: Input file for a taxonomical assignment
+Open Database License (http://opendatacommons.org/li- function in the GAPPA package; this file containing a tab-sep-
+censes/odbl/1.0/). The Open Database License (ODbL) is arated list of reference taxa with corresponding taxonomical
+a license agreement intended to allow users to freely share, assignment.
+modify, and use this Dataset while maintaining this same Copyright notice: This dataset is made available under the Open
+freedom for others, provided that the original source and Database License (http://opendatacommons.org/licenses/
+author(s) are credited. odbl/1.0/). The Open Database License (ODbL) is a license
+Link: https://doi.org/10.3897/mbmg.5.69602.suppl11 agreement intended to allow users to freely share, modify, and
+use this Dataset while maintaining this same freedom for oth-
+ers, provided that the original source and author(s) are credited.
+Supplementary material 12
+Link: https://doi.org/10.3897/mbmg.5.69602.suppl15
+File S12
+Author: Ľubomír Rajter
+Data type: multiple sequence alignment Supplementary material 16
+Explanation note: Unconstrained unmasked alignment in the Figure S1
+PHYLIP format. Author: Ľubomír Rajter
+Copyright notice: This dataset is made available under the Data type: figure (pdf file)
+Open Database License (http://opendatacommons.org/li- Explanation note: Reference tree built from the masked align-
+censes/odbl/1.0/). The Open Database License (ODbL) is ment except the V4 region.
+a license agreement intended to allow users to freely share, Copyright notice: This dataset is made available under the Open
+modify, and use this Dataset while maintaining this same Database License (http://opendatacommons.org/licenses/
+freedom for others, provided that the original source and odbl/1.0/). The Open Database License (ODbL) is a license
+author(s) are credited. agreement intended to allow users to freely share, modify, and
+Link: https://doi.org/10.3897/mbmg.5.69602.suppl12 use this Dataset while maintaining this same freedom for oth-
+ers, provided that the original source and author(s) are credited.
+Link: https://doi.org/10.3897/mbmg.5.69602.suppl16
+Supplementary material 13
+File S13
+Author: Ľubomír Rajter Supplementary material 17
+Data type: NEWICK tree Figure S2
+Explanation note: Phylogenetic tree built from the uncon- Author: Ľubomír Rajter
+strained unmasked alignment in the NEWICK format. Data type: figure (pdf file)
+Copyright notice: This dataset is made available under the Explanation note: Reference tree built from the unmasked
+Open Database License (http://opendatacommons.org/li- alignment.
+censes/odbl/1.0/). The Open Database License (ODbL) is Copyright notice: This dataset is made available under the Open
+a license agreement intended to allow users to freely share, Database License (http://opendatacommons.org/licenses/
+modify, and use this Dataset while maintaining this same odbl/1.0/). The Open Database License (ODbL) is a license
+freedom for others, provided that the original source and agreement intended to allow users to freely share, modify, and
+author(s) are credited. use this Dataset while maintaining this same freedom for oth-
+Link: https://doi.org/10.3897/mbmg.5.69602.suppl13 ers, provided that the original source and author(s) are credited.
+Link: https://doi.org/10.3897/mbmg.5.69602.suppl17
+https://mbmg.pensoft.net
+
+Page 11:
+Metabarcoding and Metagenomics 5: e69602 131
+Supplementary material 18 Supplementary material 20
+Figure S3 Table S1
+Author: Ľubomír Rajter Author: Ľubomír Rajter
+Data type: figure (pdf file) Data type: word document
+Explanation note: Reference tree built from the masked align- Explanation note: Complete list of the taxa with the sequence
+ment. entries used in this study.
+Copyright notice: This dataset is made available under the Copyright notice: This dataset is made available under the
+Open Database License (http://opendatacommons.org/li- Open Database License (http://opendatacommons.org/li-
+censes/odbl/1.0/). The Open Database License (ODbL) is censes/odbl/1.0/). The Open Database License (ODbL) is
+a license agreement intended to allow users to freely share, a license agreement intended to allow users to freely share,
+modify, and use this Dataset while maintaining this same modify, and use this Dataset while maintaining this same
+freedom for others, provided that the original source and freedom for others, provided that the original source and
+author(s) are credited. author(s) are credited.
+Link: https://doi.org/10.3897/mbmg.5.69602.suppl18 Link: https://doi.org/10.3897/mbmg.5.69602.suppl20
+Supplementary material 19 Supplementary material 21
+Figure S4 Table S2
+Author: Ľubomír Rajter Author: Ľubomír Rajter
+Data type: figure (pdf file) Data type: word document
+Explanation note: Reference tree built from the unconstrained Explanation note: Characterization and evolutionary models of
+unmasked alignment. the alignments analyzed.
+Copyright notice: This dataset is made available under the Copyright notice: This dataset is made available under the
+Open Database License (http://opendatacommons.org/li- Open Database License (http://opendatacommons.org/li-
+censes/odbl/1.0/). The Open Database License (ODbL) is censes/odbl/1.0/). The Open Database License (ODbL) is
+a license agreement intended to allow users to freely share, a license agreement intended to allow users to freely share,
+modify, and use this Dataset while maintaining this same modify, and use this Dataset while maintaining this same
+freedom for others, provided that the original source and freedom for others, provided that the original source and
+author(s) are credited. author(s) are credited.
+Link: https://doi.org/10.3897/mbmg.5.69602.suppl19 Link: https://doi.org/10.3897/mbmg.5.69602.suppl21
+https://mbmg.pensoft.net
+
